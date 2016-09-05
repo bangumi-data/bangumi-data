@@ -1,0 +1,54 @@
+[
+  {
+    "title": "ONE PIECE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海贼王"
+      ],
+      "en-US": [
+        "ONE PIECE"
+      ]
+    },
+    "lang": "jp",
+    "officialSite": "http://www.toei-anim.co.jp/tv/onep/",
+    "begin": "1999-10-20T01:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "sohu",
+        "id": "s2013/onepiece/",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb3xvl",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "tucao",
+        "id": "海贼王",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "975"
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "title": "HUNTER×HUNTER",
+    "titleTranslate": {
+      "zh-Hans": [
+        "HUNTER×HUNTER"
+      ]
+    },
+    "lang": "jp",
+    "officialSite": "http://www.ntv.co.jp/hunterhunter/",
+    "begin": "2011-10-02T16:29:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "sohu",
+        "id": "s2012/hunter/",
+        "begin": "2011-10-02T20:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "21032"
+      }
+    ]
+  }
+]
