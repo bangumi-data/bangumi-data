@@ -64,6 +64,7 @@ dist/                                --> 存放构建后数据的目录
         {
             "site": "bilibili", // 站点 name，请和最外层 sites 字段中的元数据对应 [required]
             "id": "3461", // 站点 id，可用于替换模板中相应的字段
+            "url": "http://www.bilibili.com/sp/物语系列", // url，如果当前url不符合urlTemplate中的规则时使用，优先级高于id
             "official": true, // 是否为官方放送。
             "premuiumOnly": false, // 是否为收费观看。
             "censored": true, // 是否有被和谐的情况存在。
