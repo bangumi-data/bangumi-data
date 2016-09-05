@@ -1,0 +1,50 @@
+{
+  "acfun": {
+    "title": "AcFun",
+    "urlTemplate": "http://www.acfun.tv/v/{{id}}"
+  },
+  "bilibili": {
+    "title": "哔哩哔哩",
+    "urlTemplate": "http://bangumi.bilibili.com/anime/{{id}}"
+  },
+  "tucao": {
+    "title": "TUCAO",
+    "urlTemplate": "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q={{keyword}}"
+  },
+  "sohu": {
+    "title": "搜狐视频",
+    "urlTemplate": "http://tv.sohu.com/{{id}}"
+  },
+  "youku": {
+    "title": "优酷",
+    "urlTemplate": "http://www.youku.com/show_page/id_z{{id}}.html"
+  },
+  "tudou": {
+    "title": "土豆",
+    "urlTemplate": "http://www.tudou.com/albumcover/{{id}}.html"
+  },
+  "qq": {
+    "title": "腾讯视频",
+    "urlTemplate": "http://v.qq.com/detail/{{id}}.html"
+  },
+  "iqiyi": {
+    "title": "爱奇艺",
+    "urlTemplate": "http://www.iqiyi.com/{{id}}.html"
+  },
+  "letv": {
+    "title": "乐视",
+    "urlTemplate": "http://www.le.com/{{id}}.html"
+  },
+  "pptv": {
+    "title": "PPTV",
+    "urlTemplate": "http://v.pptv.com/page/{{id}}.html"
+  },
+  "kankan": {
+    "title": "响巢看看",
+    "urlTemplate": "http://data.movie.kankan.com/movie/{{id}}"
+  },
+  "mgtv": {
+    "title": "芒果tv",
+    "urlTemplate": "http://www.mgtv.com/v/{{id}}"
+  }
+}
