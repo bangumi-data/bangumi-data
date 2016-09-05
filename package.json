@@ -1,0 +1,32 @@
+{
+  "name": "bangumi-data",
+  "version": "0.0.1",
+  "description": "Raw data for Anime",
+  "main": "dist/data.json",
+  "scripts": {
+    "build": "node script/build.js",
+    "lint": "eslint script/ --quiet",
+    "validate": "node script/validate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bangumi-data/bangumi-data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bangumi-data/bangumi-data/issues"
+  },
+  "keywords": [
+    "bangumi",
+    "anime"
+  ],
+  "author": "Botao <wxt2005@gmail.com>",
+  "license": "CC-BY-4.0",
+  "devDependencies": {
+    "eslint": "3.4.0",
+    "eslint-config-airbnb-base": "5.0.3",
+    "eslint-plugin-import": "1.14.0",
+    "fs-extra": "0.30.0",
+    "lodash": "4.15.0"
+  },
+  "dependencies": {}
+}
