@@ -12,11 +12,11 @@ const validateFunc = {
     },
     isURL(value) {
         const URL_REGEXP = /^https?:\/\/.+$/;
-        return URL_REGEXP.test(value);
+        return value ? URL_REGEXP.test(value) : true;
     },
     isDate(value) {
         const DATE_REGEXP = /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\.\d{3}Z$/;
-        return DATE_REGEXP.test(value);
+        return value ? DATE_REGEXP.test(value) : true;
     },
     isArray(value) {
         return _.isArray(value);
@@ -40,14 +40,16 @@ class Validator {
             const value = data[key];
 
             // 如果没有required，则允许该key不存在
-            if (rules.indexOf('required') === -1 && typeof value === 'undefined') {
+            if (rules.indexOf('required') === -1 &&
+                typeof value === 'undefined'
+            ) {
                 return;
             }
 
             rules.forEach((rule) => {
                 if (_.isString(rule)) {
                     if (!validateFunc[rule].call(null, value)) {
-                        errors.push(`'${key}' should pass '${rule}'`);
+                        errors.push(`'${key}': ${value} should pass '${rule}'`);
                     }
                 } else if (_.isArray(rule)) {
                     const template = rule[0];
