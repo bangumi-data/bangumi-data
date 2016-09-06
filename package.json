@@ -7,7 +7,8 @@
     "build": "node script/build.js",
     "lint": "eslint script/ --quiet",
     "validate": "node script/validate.js",
-    "preversion": "npm run validate",
+    "test": "npm run lint && npm run validate",
+    "preversion": "npm run test",
     "version": "npm run build && git add -A dist",
     "postversion": "git push && git push --tags"
   },
