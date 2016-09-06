@@ -20,7 +20,7 @@ readJsonPaths(ITEMS_DIRECTORY)
     .then((itemPaths) => {
         // 根据年份和月份排序json文件
         itemPaths.sort((prev, next) => {
-            const REGEXP = /(\d{4})\/(\d{2})/;
+            const REGEXP = /(\d{4})(?:\/|\\)(\d{2})/;
             const [prevYear, prevMonth] = prev.match(REGEXP).slice(1);
             const [nextYear, nextMonth] = next.match(REGEXP).slice(1);
 
@@ -33,11 +33,11 @@ readJsonPaths(ITEMS_DIRECTORY)
 
         // 同步读取所有json文件
         itemPaths.forEach((itemPath) => {
-            const idPrefix = itemPath.match(/\d{4}\/\d{2}/)[0].replace(/\//g, '_');
+            const idPrefix = itemPath.match(/\d{4}(?:\/|\\)\d{2}/)[0].replace(/\/|\\/g, '_');
             let dataArray = fs.readJsonSync(itemPath);
 
             dataArray = dataArray.map((singleData, index) => {
-                // example => 16_06_0
+                // example => 2016_06_0
                 const id = `${idPrefix}_${index}`;
                 // 验证
                 const errors = validator.validateItemData(singleData);
