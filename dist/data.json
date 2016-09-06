@@ -47,7 +47,7 @@
     },
     "letv": {
       "title": "乐视",
-      "urlTemplate": "http://www.le.com/{{id}}.html",
+      "urlTemplate": "http://www.le.com/comic/{{id}}.html",
       "type": "onair"
     },
     "pptv": {
@@ -62,7 +62,7 @@
     },
     "mgtv": {
       "title": "芒果tv",
-      "urlTemplate": "http://www.mgtv.com/v/{{id}}",
+      "urlTemplate": "http://www.mgtv.com/v/7/{{id}}/",
       "type": "onair"
     },
     "dmhy": {
@@ -126,7 +126,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/5938",
+          "id": "5938",
           "begin": "1996-01-08T11:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -372,7 +372,7 @@
       "sites": [
         {
           "site": "letv",
-          "id": "comic/88433",
+          "id": "88433",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -542,6 +542,7 @@
       "sites": [
         {
           "site": "letv",
+          "id": "91561",
           "begin": "2013-07-11T16:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -592,7 +593,7 @@
       "sites": [
         {
           "site": "letv",
-          "id": "comic/91812",
+          "id": "91812",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -682,7 +683,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/93252",
+          "id": "93252",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -822,7 +823,7 @@
         },
         {
           "site": "bilibili",
-          "id": "3365/",
+          "id": "3365",
           "begin": "2013-10-02T19:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -872,7 +873,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/93669",
+          "id": "93669",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -932,7 +933,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/93561",
+          "id": "93561",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -1012,7 +1013,7 @@
       "sites": [
         {
           "site": "letv",
-          "id": "comic/93555",
+          "id": "93555",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -1192,6 +1193,7 @@
       "sites": [
         {
           "site": "letv",
+          "id": "93029",
           "begin": "2013-10-03T17:10:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -1322,6 +1324,7 @@
       "sites": [
         {
           "site": "letv",
+          "id": "93136",
           "begin": "2013-10-04T18:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -1332,13 +1335,13 @@
         },
         {
           "site": "bilibili",
+          "id": "4382",
           "begin": "2013-10-04T18:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
           "lang": "zh-Hans",
-          "comment": "",
-          "url": "http://www.bilibili.com/sp/当不成勇者的我，只好认真找工作了。"
+          "comment": ""
         },
         {
           "site": "bangumi",
@@ -1412,7 +1415,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/93552",
+          "id": "93552",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -1582,6 +1585,7 @@
       "sites": [
         {
           "site": "letv",
+          "id": "93450",
           "begin": "2013-10-06T15:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -1662,6 +1666,7 @@
       "sites": [
         {
           "site": "letv",
+          "id": "93028",
           "begin": "2013-10-06T08:05:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -1752,7 +1757,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/93033",
+          "id": "93033",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -1852,7 +1857,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "502/",
+          "id": "502",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -2002,7 +2007,7 @@
       "sites": [
         {
           "site": "letv",
-          "id": "comic/93675",
+          "id": "93675",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -2202,7 +2207,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/93453",
+          "id": "93453",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -2352,6 +2357,7 @@
       "sites": [
         {
           "site": "letv",
+          "id": "93220",
           "begin": "2013-10-10T16:50:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -2392,6 +2398,7 @@
       "sites": [
         {
           "site": "letv",
+          "id": "93138",
           "begin": "2013-10-09T17:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -2472,6 +2479,7 @@
       "sites": [
         {
           "site": "letv",
+          "id": "93129",
           "begin": "2013-10-10T16:25:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -2625,7 +2633,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/93548",
+          "id": "93548",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -2695,7 +2703,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/95038",
+          "id": "95038",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -2725,13 +2733,13 @@
       "sites": [
         {
           "site": "bilibili",
+          "id": "222",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
           "lang": "zh-Hans",
-          "comment": "",
-          "url": "http://www.bilibili.com/sp/未来卡%20搭档对战"
+          "comment": ""
         },
         {
           "site": "youku",
@@ -2955,13 +2963,13 @@
         },
         {
           "site": "bilibili",
+          "id": "2731",
           "begin": "2014-01-05T15:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
           "lang": "zh-Hans",
-          "comment": "",
-          "url": "http://www.bilibili.com/sp/野良神"
+          "comment": ""
         },
         {
           "site": "acfun",
@@ -3025,7 +3033,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/95331",
+          "id": "95331",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -3115,7 +3123,7 @@
       "sites": [
         {
           "site": "letv",
-          "id": "comic/95345",
+          "id": "95345",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -3415,6 +3423,7 @@
       "sites": [
         {
           "site": "letv",
+          "id": "95021",
           "begin": "2014-01-06T13:05:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -3665,13 +3674,13 @@
         },
         {
           "site": "bilibili",
+          "id": "4349",
           "begin": "2014-01-08T18:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
           "lang": "zh-Hans",
-          "comment": "",
-          "url": "http://www.bilibili.com/sp/中二病也要谈恋爱！"
+          "comment": ""
         },
         {
           "site": "acfun",
@@ -3795,6 +3804,7 @@
       "sites": [
         {
           "site": "letv",
+          "id": "95033",
           "begin": "2014-01-09T15:55:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -4065,13 +4075,13 @@
         },
         {
           "site": "bilibili",
+          "id": "3440",
           "begin": "2014-01-09T19:05:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
           "lang": "zh-Hans",
-          "comment": "",
-          "url": "http://www.bilibili.com/sp/鬼灯的冷彻"
+          "comment": ""
         },
         {
           "site": "acfun",
@@ -4115,13 +4125,13 @@
         },
         {
           "site": "bilibili",
+          "id": "4367",
           "begin": "2014-01-09T20:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
           "lang": "zh-Hans",
-          "comment": "",
-          "url": "http://www.bilibili.com/sp/魔法战争"
+          "comment": ""
         },
         {
           "site": "acfun",
@@ -4185,13 +4195,13 @@
         },
         {
           "site": "bilibili",
+          "id": "3547",
           "begin": "2014-01-09T20:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
           "lang": "zh-Hans",
-          "comment": "",
-          "url": "http://www.bilibili.com/sp/樱TRICK"
+          "comment": ""
         },
         {
           "site": "acfun",
@@ -4425,6 +4435,7 @@
       "sites": [
         {
           "site": "letv",
+          "id": "95078",
           "begin": "2014-01-11T14:35:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -4475,6 +4486,7 @@
       "sites": [
         {
           "site": "letv",
+          "id": "95268",
           "begin": "2014-01-16T20:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -4665,6 +4677,7 @@
       "sites": [
         {
           "site": "letv",
+          "id": "95081",
           "begin": "2014-01-15T17:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -4715,6 +4728,7 @@
       "sites": [
         {
           "site": "letv",
+          "id": "96258",
           "begin": "2014-01-15T18:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -4835,7 +4849,7 @@
       "sites": [
         {
           "site": "letv",
-          "id": "comic/95301",
+          "id": "95301",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -5115,7 +5129,7 @@
       "sites": [
         {
           "site": "letv",
-          "id": "comic/10000889",
+          "id": "10000889",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -5385,7 +5399,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10000898",
+          "id": "10000898",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -5788,7 +5802,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10000910",
+          "id": "10000910",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -6078,13 +6092,13 @@
         },
         {
           "site": "bilibili",
+          "id": "2727",
           "begin": "2014-04-06T09:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
           "lang": "zh-Hans",
-          "comment": "",
-          "url": "http://www.bilibili.com/sp/排球！！"
+          "comment": ""
         },
         {
           "site": "acfun",
@@ -6158,13 +6172,13 @@
         },
         {
           "site": "bilibili",
+          "id": "169",
           "begin": "2014-04-05T20:20:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
           "lang": "zh-Hans",
-          "comment": "",
-          "url": "http://www.bilibili.com/sp/金色琴弦"
+          "comment": ""
         },
         {
           "site": "acfun",
@@ -6248,7 +6262,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10000911",
+          "id": "10000911",
           "begin": "2014-04-06T19:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -6418,7 +6432,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10000909",
+          "id": "10000909",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -6471,7 +6485,7 @@
       "sites": [
         {
           "site": "letv",
-          "id": "comic/10000913",
+          "id": "10000913",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -6831,7 +6845,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10002883",
+          "id": "10002883",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -7281,6 +7295,7 @@
       "sites": [
         {
           "site": "letv",
+          "id": "96208",
           "begin": "2014-04-09T18:05:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -7331,7 +7346,7 @@
       "sites": [
         {
           "site": "letv",
-          "id": "comic/10000884",
+          "id": "10000884",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -7411,6 +7426,7 @@
       "sites": [
         {
           "site": "letv",
+          "id": "96105",
           "begin": "2014-04-10T16:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -7491,6 +7507,7 @@
       "sites": [
         {
           "site": "letv",
+          "id": "96099",
           "begin": "2014-04-10T17:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -7591,6 +7608,7 @@
       "sites": [
         {
           "site": "letv",
+          "id": "96098",
           "begin": "2014-04-12T15:05:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -7721,7 +7739,7 @@
       "sites": [
         {
           "site": "letv",
-          "id": "comic/10001281",
+          "id": "10001281",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -7864,13 +7882,13 @@
         },
         {
           "site": "bilibili",
+          "id": "2642",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
           "lang": "zh-Hans",
-          "comment": "",
-          "url": "http://www.bilibili.com/sp/未来卡%20搭档对战#S-1814"
+          "comment": ""
         },
         {
           "site": "bangumi",
@@ -7964,13 +7982,13 @@
         },
         {
           "site": "bilibili",
+          "id": "5201",
           "begin": "2014-07-02T15:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
           "lang": "zh-Hans",
-          "comment": "",
-          "url": "http://www.bilibili.com/sp/FREE%21"
+          "comment": ""
         },
         {
           "site": "acfun",
@@ -8044,7 +8062,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10002832",
+          "id": "10002832",
           "begin": "2014-07-02T16:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -8354,13 +8372,13 @@
         },
         {
           "site": "bilibili",
+          "id": "4124",
           "begin": "2014-07-03T20:56:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
           "lang": "zh-Hans",
-          "comment": "",
-          "url": "http://www.bilibili.com/sp/普通女高中生要做当地偶像"
+          "comment": ""
         },
         {
           "site": "acfun",
@@ -8424,7 +8442,7 @@
       "sites": [
         {
           "site": "letv",
-          "id": "comic/10001115",
+          "id": "10001115",
           "begin": "2014-07-05T14:35:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -8494,7 +8512,7 @@
       "sites": [
         {
           "site": "letv",
-          "id": "comic/10003003",
+          "id": "10003003",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -8604,13 +8622,13 @@
       "sites": [
         {
           "site": "bilibili",
+          "id": "4074",
           "begin": "2014-07-06T17:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
           "lang": "zh-Hans",
-          "comment": "",
-          "url": "http://www.bilibili.com/sp/生存游戏社！"
+          "comment": ""
         },
         {
           "site": "acfun",
@@ -9084,7 +9102,7 @@
       "sites": [
         {
           "site": "letv",
-          "id": "comic/10002705",
+          "id": "10002705",
           "begin": "2014-07-07T19:05:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -9184,13 +9202,13 @@
         },
         {
           "site": "bilibili",
+          "id": "3227",
           "begin": "2014-07-07T16:05:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
           "lang": "zh-Hans",
-          "comment": "",
-          "url": "http://www.bilibili.com/sp/搞姬日常"
+          "comment": ""
         },
         {
           "site": "youku",
@@ -9244,7 +9262,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10002971",
+          "id": "10002971",
           "begin": "2014-07-06T17:05:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -9334,7 +9352,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10002982",
+          "id": "10002982",
           "begin": "2014-07-06T17:35:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -9694,13 +9712,13 @@
         },
         {
           "site": "bilibili",
+          "id": "4080",
           "begin": "2014-07-09T17:35:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
           "lang": "zh-Hans",
-          "comment": "",
-          "url": "http://www.bilibili.com/sp/LOVE%20STAGE%21%21"
+          "comment": ""
         },
         {
           "site": "bangumi",
@@ -9774,7 +9792,7 @@
       "sites": [
         {
           "site": "letv",
-          "id": "comic/10002584",
+          "id": "10002584",
           "begin": "2014-07-10T16:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -9864,7 +9882,7 @@
       "sites": [
         {
           "site": "letv",
-          "id": "comic/10003093",
+          "id": "10003093",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -9984,7 +10002,7 @@
       "sites": [
         {
           "site": "letv",
-          "id": "comic/10002914",
+          "id": "10002914",
           "begin": "2014-07-10T17:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -10294,7 +10312,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10004046",
+          "id": "10004046",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -10647,7 +10665,7 @@
       "sites": [
         {
           "site": "letv",
-          "id": "comic/10005260",
+          "id": "10005260",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -10737,7 +10755,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10005221",
+          "id": "10005221",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -11027,7 +11045,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10005152",
+          "id": "10005152",
           "begin": "2014-10-09T16:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -11790,7 +11808,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10005151",
+          "id": "10005151",
           "begin": "2014-10-06T18:05:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -12090,7 +12108,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "321/",
+          "id": "321",
           "begin": "2014-10-08T14:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -12260,7 +12278,7 @@
       "sites": [
         {
           "site": "letv",
-          "id": "comic/10005167",
+          "id": "10005167",
           "begin": "2014-10-09T18:46:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -12390,7 +12408,7 @@
         },
         {
           "site": "bilibili",
-          "id": "3070/",
+          "id": "3070",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -12480,7 +12498,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10005271",
+          "id": "10005271",
           "begin": "2014-10-12T17:35:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -12650,13 +12668,13 @@
         },
         {
           "site": "bilibili",
+          "id": "1694",
           "begin": "2015-01-03T14:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
           "lang": "zh-Hans",
-          "comment": "",
-          "url": "http://www.bilibili.com/sp/侦探歌剧%20少女福尔摩斯#S-1614"
+          "comment": ""
         },
         {
           "site": "acfun",
@@ -12730,7 +12748,7 @@
         },
         {
           "site": "letv",
-          "id": "ptv/vplay/21626588",
+          "id": "10007482",
           "begin": "2015-01-05T16:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -12780,7 +12798,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10007745",
+          "id": "10007745",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -12915,7 +12933,7 @@
       "sites": [
         {
           "site": "letv",
-          "id": "comic/10007888",
+          "id": "10007888",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -12995,7 +13013,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10007496",
+          "id": "10007496",
           "begin": "2015-01-05T19:05:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -13045,7 +13063,7 @@
       "sites": [
         {
           "site": "letv",
-          "id": "comic/10007850",
+          "id": "10007850",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -13085,7 +13103,7 @@
       "sites": [
         {
           "site": "letv",
-          "id": "comic/10007860",
+          "id": "10007860",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -13265,7 +13283,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10007486",
+          "id": "10007486",
           "begin": "2015-01-07T18:05:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -13465,7 +13483,7 @@
       "sites": [
         {
           "site": "letv",
-          "id": "comic/10007889",
+          "id": "10007889",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -13575,7 +13593,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10007495",
+          "id": "10007495",
           "begin": "2015-01-09T16:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -14145,7 +14163,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10007476",
+          "id": "10007476",
           "begin": "2015-01-11T16:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -14235,7 +14253,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10007490",
+          "id": "10007490",
           "begin": "2015-01-10T21:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -14415,7 +14433,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10007473",
+          "id": "10007473",
           "begin": "2015-01-11T15:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -14515,7 +14533,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10007478",
+          "id": "10007478",
           "begin": "2015-01-11T17:05:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -14605,7 +14623,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10007480",
+          "id": "10007480",
           "begin": "2015-01-11T18:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -14733,7 +14751,7 @@
       "sites": [
         {
           "site": "letv",
-          "id": "comic/10007487",
+          "id": "10007487",
           "begin": "2015-01-23T18:05:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -15237,7 +15255,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10008623",
+          "id": "10008623",
           "begin": "2015-04-02T17:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -15340,7 +15358,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10008624",
+          "id": "10008624",
           "begin": "2015-04-03T18:10:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -15440,7 +15458,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10005152",
+          "id": "10005152",
           "begin": "2015-04-09T16:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -15570,7 +15588,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10008808",
+          "id": "10008808",
           "begin": "2015-04-04T14:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -15660,7 +15678,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10008948",
+          "id": "10008948",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -15783,7 +15801,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10008945",
+          "id": "10008945",
           "begin": "2015-04-03T21:10:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -15926,7 +15944,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10008462",
+          "id": "10008462",
           "begin": "2015-04-04T15:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -16122,7 +16140,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10008627",
+          "id": "10008627",
           "begin": "2015-04-04T11:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -16205,7 +16223,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10008950",
+          "id": "10008950",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -16315,7 +16333,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10008836",
+          "id": "10008836",
           "begin": "2015-04-04T16:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -16365,13 +16383,13 @@
         },
         {
           "site": "bilibili",
+          "id": "3491",
           "begin": "2015-04-06T18:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
           "lang": "zh-Hans",
-          "comment": "",
-          "url": "http://www.bilibili.com/sp/黄金拼图#S-1793"
+          "comment": ""
         },
         {
           "site": "acfun",
@@ -16438,7 +16456,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10008625",
+          "id": "10008625",
           "begin": "2015-04-04T18:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -16684,7 +16702,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10008629",
+          "id": "10008629",
           "begin": "2015-04-05T14:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -17162,7 +17180,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10008635",
+          "id": "10008635",
           "begin": "2015-04-07T16:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -17242,7 +17260,7 @@
       "sites": [
         {
           "site": "letv",
-          "id": "comic/10008964",
+          "id": "10008964",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -17528,7 +17546,7 @@
       "sites": [
         {
           "site": "letv",
-          "id": "comic/10008807",
+          "id": "10008807",
           "begin": "2015-04-08T19:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -17708,7 +17726,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10008544",
+          "id": "10008544",
           "begin": "2015-04-10T15:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -17778,7 +17796,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10009011",
+          "id": "10009011",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -18313,7 +18331,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10010419",
+          "id": "10010419",
           "begin": "2015-07-02T17:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -18416,7 +18434,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10010403",
+          "id": "10010403",
           "begin": "2015-07-02T14:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -18499,7 +18517,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10010420",
+          "id": "10010420",
           "begin": "2015-07-02T16:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -19136,7 +19154,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10010494",
+          "id": "10010494",
           "begin": "2015-07-03T19:10:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -19428,7 +19446,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10010346",
+          "id": "10010346",
           "begin": "2015-07-09T16:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -19657,7 +19675,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10010338",
+          "id": "10010338",
           "begin": "2015-07-05T14:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -19760,7 +19778,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10010418",
+          "id": "10010418",
           "begin": "2015-07-04T19:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -20811,7 +20829,7 @@
       "sites": [
         {
           "site": "letv",
-          "id": "comic/10010613",
+          "id": "10010613",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -21073,7 +21091,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10010414",
+          "id": "10010414",
           "begin": "2015-07-08T19:14:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -21365,7 +21383,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10007495",
+          "id": "10007495",
           "begin": "2015-07-17T16:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -21660,7 +21678,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10014178",
+          "id": "10014178",
           "begin": "2015-10-02T04:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -21849,7 +21867,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10014189",
+          "id": "10014189",
           "begin": "2015-10-02T15:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -21975,7 +21993,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10014195",
+          "id": "10014195",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -22455,7 +22473,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10008625",
+          "id": "10008625",
           "begin": "2015-10-05T10:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -23443,7 +23461,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10014256",
+          "id": "10014256",
           "begin": "2015-10-06T10:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -23861,7 +23879,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10014274",
+          "id": "10014274",
           "begin": "2015-10-07T17:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -24050,7 +24068,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10014273",
+          "id": "10014273",
           "begin": "2015-10-07T17:35:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -24249,7 +24267,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10008808",
+          "id": "10008808",
           "begin": "2015-10-15T18:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -24461,7 +24479,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10014412",
+          "id": "10014412",
           "begin": "2015-10-14T12:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -24683,7 +24701,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10014451",
+          "id": "10014451",
           "begin": "2015-10-12T19:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -24756,7 +24774,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10014386",
+          "id": "10014386",
           "begin": "2015-10-12T17:08:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -25462,7 +25480,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10015978",
+          "id": "10015978",
           "begin": "2016-01-08T02:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -25842,7 +25860,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10017684",
+          "id": "10017684",
           "begin": "2016-01-08T17:05:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -25922,7 +25940,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10017690",
+          "id": "10017690",
           "begin": "2016-01-09T14:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -26252,7 +26270,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10017692",
+          "id": "10017692",
           "begin": "2016-01-09T20:55:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -26372,7 +26390,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10017698",
+          "id": "10017698",
           "begin": "2016-01-10T17:05:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -26652,7 +26670,7 @@
       "sites": [
         {
           "site": "letv",
-          "id": "comic/10017725",
+          "id": "10017725",
           "begin": "2016-01-11T17:08:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -26938,7 +26956,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10010338",
+          "id": "10010338",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -27051,7 +27069,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10014412",
+          "id": "10014412",
           "begin": "2016-03-26T10:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -27371,7 +27389,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10020524",
+          "id": "10020524",
           "begin": "2016-04-02T11:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -27531,7 +27549,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10020552",
+          "id": "10020552",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -27914,7 +27932,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10020564",
+          "id": "10020564",
           "begin": "2016-04-04T16:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -27994,7 +28012,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10020322",
+          "id": "10020322",
           "begin": "2016-04-03T17:05:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -28064,7 +28082,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10018937",
+          "id": "10018937",
           "begin": "2016-04-04T11:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -28229,7 +28247,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10020554",
+          "id": "10020554",
           "begin": "2016-04-04T18:05:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -28399,7 +28417,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10020453",
+          "id": "10020453",
           "begin": "2016-04-05T09:55:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -28539,7 +28557,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10020432",
+          "id": "10020432",
           "begin": "2016-04-06T18:05:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -28629,7 +28647,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10020446",
+          "id": "10020446",
           "begin": "2016-04-06T10:25:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -28984,7 +29002,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10020777",
+          "id": "10020777",
           "begin": "2016-04-08T10:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -29637,7 +29655,7 @@
       "sites": [
         {
           "site": "letv",
-          "id": "comic/10020758",
+          "id": "10020758",
           "begin": "2016-04-16T00:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -29852,7 +29870,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5016/",
+          "id": "5016",
           "begin": "2016-07-01T15:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -29915,7 +29933,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5018/",
+          "id": "5018",
           "begin": "2016-07-02T15:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -29955,7 +29973,7 @@
         },
         {
           "site": "mgtv",
-          "id": "7/294422/",
+          "id": "294422",
           "begin": "2016-07-02T15:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -29998,7 +30016,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5020/",
+          "id": "5020",
           "begin": "2016-07-07T16:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -30028,7 +30046,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5017/",
+          "id": "5017",
           "begin": "2016-07-02T14:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -30058,7 +30076,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10024389",
+          "id": "10024389",
           "begin": "2016-07-02T14:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -30091,7 +30109,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5062/",
+          "id": "5062",
           "begin": "2016-07-02T14:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -30181,7 +30199,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5066/",
+          "id": "5066",
           "begin": "2016-07-01T17:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -30214,7 +30232,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5022/",
+          "id": "5022",
           "begin": "2016-07-03T14:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -30264,7 +30282,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10024401",
+          "id": "10024401",
           "begin": "2016-07-03T14:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -30357,7 +30375,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10024398",
+          "id": "10024398",
           "begin": "2016-07-03T14:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -30367,7 +30385,7 @@
         },
         {
           "site": "mgtv",
-          "id": "7/294389/",
+          "id": "294389",
           "begin": "2016-07-03T14:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -30400,7 +30418,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5063/",
+          "id": "5063",
           "begin": "2016-07-02T18:58:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -30430,7 +30448,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10024397",
+          "id": "10024397",
           "begin": "2016-07-02T18:58:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -30500,7 +30518,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5027/",
+          "id": "5027",
           "begin": "2016-07-05T17:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -30550,7 +30568,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10024415",
+          "id": "10024415",
           "begin": "2016-07-05T17:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -30620,7 +30638,7 @@
         },
         {
           "site": "mgtv",
-          "id": "7/294436/",
+          "id": "294436",
           "begin": "2016-07-04T13:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -30650,7 +30668,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5025/",
+          "id": "5025",
           "begin": "2016-07-04T10:25:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -30690,7 +30708,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10024413",
+          "id": "10024413",
           "begin": "2016-07-04T10:25:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -30720,7 +30738,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5070/",
+          "id": "5070",
           "begin": "2016-07-04T00:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -30783,7 +30801,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5031/",
+          "id": "5031",
           "begin": "2016-07-04T18:05:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -30813,7 +30831,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10024417",
+          "id": "10024417",
           "begin": "2016-07-04T18:05:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -30893,7 +30911,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5036/",
+          "id": "5036",
           "begin": "2016-07-05T17:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -30923,7 +30941,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5030/",
+          "id": "5030",
           "begin": "2016-07-04T17:35:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -30963,7 +30981,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10024416",
+          "id": "10024416",
           "begin": "2016-07-04T17:35:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -30993,7 +31011,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5028/",
+          "id": "5028",
           "begin": "2016-07-04T16:15:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -31026,7 +31044,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5029/",
+          "id": "5029",
           "begin": "2016-07-04T17:05:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -31056,7 +31074,7 @@
         },
         {
           "site": "mgtv",
-          "id": "7/293716/",
+          "id": "293716",
           "begin": "2016-07-04T17:05:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -31066,7 +31084,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10024414",
+          "id": "10024414",
           "begin": "2016-07-04T17:05:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -31136,7 +31154,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5033/",
+          "id": "5033",
           "begin": "2016-07-05T13:55:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -31166,7 +31184,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5038/",
+          "id": "5038",
           "begin": "2016-07-06T14:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -31216,7 +31234,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10024418",
+          "id": "10024418",
           "begin": "2016-07-06T14:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -31276,7 +31294,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5039/",
+          "id": "5039",
           "begin": "2016-07-06T15:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -31306,7 +31324,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5045/",
+          "id": "5045",
           "begin": "2016-07-06T16:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -31366,7 +31384,7 @@
         },
         {
           "site": "bilibili",
-          "id": "5037/",
+          "id": "5037",
           "begin": "2016-07-05T17:35:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -31376,7 +31394,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10024420",
+          "id": "10024420",
           "begin": "2016-07-05T17:35:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -31406,7 +31424,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5040/",
+          "id": "5040",
           "begin": "2016-07-06T15:05:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -31436,7 +31454,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5041/",
+          "id": "5041",
           "begin": "2016-07-07T14:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -31456,7 +31474,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10024419",
+          "id": "10024419",
           "begin": "2016-07-07T14:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -31486,7 +31504,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "2700/",
+          "id": "2700",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -31516,7 +31534,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5044/",
+          "id": "5044",
           "begin": "2016-07-07T18:35:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -31556,7 +31574,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10024421",
+          "id": "10024421",
           "begin": "2016-07-07T18:35:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -31626,7 +31644,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5043/",
+          "id": "5043",
           "begin": "2016-07-07T19:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -31736,7 +31754,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5064/",
+          "id": "5064",
           "begin": "2016-07-08T14:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -31766,7 +31784,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5047/",
+          "id": "5047",
           "begin": "2016-07-08T17:35:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -31929,7 +31947,7 @@
         },
         {
           "site": "letv",
-          "id": "comic/10022999",
+          "id": "10022999",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -31939,7 +31957,7 @@
         },
         {
           "site": "mgtv",
-          "id": "7/294102/",
+          "id": "294102",
           "begin": "",
           "official": true,
           "premuiumOnly": false,
@@ -31972,7 +31990,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5049/",
+          "id": "5049",
           "begin": "2016-07-08T22:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -32002,7 +32020,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5053/",
+          "id": "5053",
           "begin": "2016-07-09T18:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -32082,7 +32100,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5058/",
+          "id": "5058",
           "begin": "2016-07-11T16:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -32152,7 +32170,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5056/",
+          "id": "5056",
           "begin": "2016-07-11T15:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -32232,7 +32250,7 @@
       "sites": [
         {
           "site": "bilibili",
-          "id": "5057/",
+          "id": "5057",
           "begin": "2016-07-14T16:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
