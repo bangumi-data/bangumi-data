@@ -1,4 +1,9 @@
-# Bangumi Data [![Build Status](https://img.shields.io/travis/bangumi-data/bangumi-data/master.svg)](https://travis-ci.org/bangumi-data/bangumi-data) [![npm version](https://img.shields.io/npm/v/bangumi-data.svg)](https://www.npmjs.com/package/react) [![Slack Welcome](https://img.shields.io/badge/Slack-welcome-yellow.svg)](https://bangumi-data.slack.com) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+# Bangumi Data
+
+[![Build Status](https://img.shields.io/travis/bangumi-data/bangumi-data/master.svg)](https://travis-ci.org/bangumi-data/bangumi-data)
+[![NPM Version](https://img.shields.io/npm/v/bangumi-data.svg)](https://www.npmjs.com/package/bangumi-data)
+[![Slack Welcome](https://img.shields.io/badge/Slack-welcome-yellow.svg)](https://bangumi-data.slack.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 动画番组及其放送、资讯站点数据集合
 
