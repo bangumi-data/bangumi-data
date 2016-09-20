@@ -2,5 +2,9 @@
   "bangumi": {
     "title": "番组计划",
     "urlTemplate": "http://bangumi.tv/subject/{{id}}"
+  },
+  "saraba1st": {
+    "title": "Stage1st",
+    "urlTemplate": "http://bbs.saraba1st.com/2b/thread-{{id}}-1-1.html"
   }
 }
