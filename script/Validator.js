@@ -74,7 +74,7 @@ class Validator {
         const rules = {
             title: ['required', 'isString'],
             titleTranslate: ['required', 'isObject', {
-                'en-US': ['isArray'],
+                en: ['isArray'],
                 'zh-Hans': ['isArray'],
                 'zh-Hant': ['isArray']
             }],

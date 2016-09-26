@@ -25,13 +25,18 @@ dist/                                --> 存放构建后数据的目录
 ## 自动生成的字段
 
 所有 `items` 目录中的番组数据会依年月的顺序（均为 GMT+8）填入 `data.json` 的 `items` 数据，并赋予 `年份_月份_序号` 的 `id`。
+
 所有 `sites` 目录中的站点元数据会放入构建后 `data.json` 的 `sites` 对象，并赋予与文件名相同的 `type` 值。
+
 因此 `id` 和 `type` 这两个字段不需要手动添加。
 
 ## 字段说明
 
 所有标明为 `required` 的字段必须存在，如无数据则依字段原始类型置空。
+
 所有涉及时间对象的字段，格式均为 [ISO 8601](https://zh.wikipedia.org/zh-hans/ISO_8601) 规范的字符串。
+
+所有涉及语言的字段，格式为 [`[ISO 639-1]-[ISO 15924]?`](https://tools.ietf.org/html/bcp47)，目前已有的为 `ja`、`en`、`zh-Hans`、`zh-Hant`。
 
 ### 番组数据
 
@@ -50,11 +55,11 @@ dist/                                --> 存放构建后数据的目录
             "Re:從零開始的異世界生活"
         ],
         // 英文翻译
-        "en-US": [
+        "en": [
             "Re:Zero -Starting Life in Another World-"
         ]
     },
-    "lang": "jp", // 番组语言 [required]
+    "lang": "ja", // 番组语言 [required]
     "officialSite": "http://re-zero-anime.jp/", // 官网 [required]
     "begin": "2016-04-03T16:35:00.000Z", // 番组开始时间，还未确定则置空 [required]
     "end": "", // 番组完结时间，还未确定则置空 [required]
