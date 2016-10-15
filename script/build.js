@@ -1,7 +1,9 @@
 const path = require('path');
 const fs = require('fs-extra');
 const { readJsonPaths } = require('./utils');
-const Validator = require('./Validator');
+const Joi = require('joi');
+const siteSchema = require('./schema/site');
+const itemSchema = require('./schema/item');
 
 const ITEMS_DIRECTORY = 'data/items/';
 const SITES_DIRECTORY = 'data/sites/';
@@ -12,9 +14,6 @@ const DIST_FILE_NAME = 'data.json';
 let itemsData = [];
 /** @type {Object} 保存所有站点元数据 */
 let sitesData = {};
-
-/** @type {Object} 验证器 */
-const validator = new Validator();
 
 readJsonPaths(ITEMS_DIRECTORY)
     .then((itemPaths) => {
@@ -36,17 +35,16 @@ readJsonPaths(ITEMS_DIRECTORY)
             const idPrefix = itemPath.match(/\d{4}(?:\/|\\)\d{2}/)[0].replace(/\/|\\/g, '_');
             let dataArray = fs.readJsonSync(itemPath);
 
-            dataArray = dataArray.map((singleData, index) => {
+            dataArray = dataArray.map((itemData, index) => {
                 // example => 2016_06_0
                 const id = `${idPrefix}_${index}`;
-                // 验证
-                const errors = validator.validateItemData(singleData);
+                const result = Joi.validate(itemData, itemSchema);
 
-                if (errors.length) {
-                    throw new Error(`Failed item: ${id}, errors: ${errors.join(', ')}`);
+                if (result.error) {
+                    throw result.error;
                 }
 
-                return Object.assign({ id }, singleData);
+                return Object.assign({ id }, itemData);
             });
 
             itemsData = itemsData.concat(dataArray);
@@ -65,11 +63,10 @@ readJsonPaths(ITEMS_DIRECTORY)
             const siteData = fs.readJsonSync(itemPath);
 
             Object.keys(siteData).forEach((key) => {
-                // 验证
-                const errors = validator.validateSiteMeta(siteData[key]);
+                const result = Joi.validate(siteData[key], siteSchema);
 
-                if (errors.length) {
-                    throw new Error(`Failed site: ${key}, errors: ${errors.join(', ')}`);
+                if (result.error) {
+                    throw result.error;
                 }
 
                 // 为每一条站点元数据增加'type'字段
