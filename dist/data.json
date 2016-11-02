@@ -150,6 +150,26 @@
           "comment": ""
         },
         {
+          "site": "tudou",
+          "id": "7-W5njV4CQI",
+          "begin": "1996-01-09T11:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "cc003400962411de83b1",
+          "begin": "1996-01-09T11:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "899"
         }
@@ -35486,7 +35506,7 @@
       "lang": "ja",
       "officialSite": "http://www.7-taizai.net/",
       "begin": "2016-08-28T08:30:00.000Z",
-      "end": "",
+      "end": "2016-09-18T08:30:00.000Z",
       "comment": "",
       "sites": [
         {
@@ -35513,6 +35533,26 @@
       "comment": "",
       "sites": [
         {
+          "site": "letv",
+          "id": "10029958",
+          "begin": "2016-09-17T22:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "lJ9591icFNXPWVLw",
+          "begin": "2016-09-17T22:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "184884"
         }
@@ -35536,6 +35576,16 @@
       "comment": "",
       "sites": [
         {
+          "site": "bilibili",
+          "id": "5504",
+          "begin": "2016-09-26T22:45:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "190793"
         }
@@ -35558,6 +35608,16 @@
       "end": "",
       "comment": "",
       "sites": [
+        {
+          "site": "iqiyi",
+          "id": "a_19rrh9to4d",
+          "begin": "2016-09-30T23:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
         {
           "site": "bangumi",
           "id": "183216"
@@ -35595,8 +35655,68 @@
       "comment": "",
       "sites": [
         {
+          "site": "bilibili",
+          "id": "5512",
+          "begin": "2016-09-23T13:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "175542"
+        }
+      ]
+    },
+    {
+      "id": "2016_09_5",
+      "title": "怪獣娘 ～ウルトラ怪獣擬人化計画～",
+      "titleTranslate": {
+        "zh-Hans": [
+          "怪兽娘 奥特怪兽拟人化计划"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://kaiju-gk.jp/",
+      "begin": "2016-09-27T09:00:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "letv",
+          "id": "10029740",
+          "begin": "2016-09-26T16:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrh9uqjh",
+          "begin": "2016-09-26T16:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "qq",
+          "id": "u/ujosn0cmd203mxa",
+          "begin": "2016-09-26T16:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "bangumi",
+          "id": "175405"
         }
       ]
     },
@@ -35614,6 +35734,16 @@
       "end": "",
       "comment": "",
       "sites": [
+        {
+          "site": "bilibili",
+          "id": "5524",
+          "begin": "2016-10-02T16:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
         {
           "site": "bangumi",
           "id": "167348"
@@ -35638,6 +35768,26 @@
       "comment": "",
       "sites": [
         {
+          "site": "tudou",
+          "id": "uu4R6eeDa8Q",
+          "begin": "2016-10-05T16:00:00.000Z",
+          "official": true,
+          "premuiumOnly": true,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "4d8cce35815111e6b16e",
+          "begin": "2016-10-05T16:00:00.000Z",
+          "official": true,
+          "premuiumOnly": true,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "152091"
         }
@@ -35657,6 +35807,16 @@
       "end": "",
       "comment": "",
       "sites": [
+        {
+          "site": "pptv",
+          "id": "Mia4KiaPBWxgRn5U0",
+          "begin": "2016-10-07T15:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": true,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
         {
           "site": "bangumi",
           "id": "60011"
@@ -35678,6 +35838,36 @@
       "comment": "",
       "sites": [
         {
+          "site": "bilibili",
+          "id": "5507",
+          "begin": "2016-10-01T16:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "letv",
+          "id": "10029954",
+          "begin": "2016-10-01T16:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "adq2NJwCcrATkfk",
+          "begin": "2016-10-01T16:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "176599"
         }
@@ -35688,7 +35878,8 @@
       "title": "ブレイブウィッチーズ",
       "titleTranslate": {
         "zh-Hans": [
-          "勇武魔女"
+          "勇武魔女",
+          "无畏魔女"
         ]
       },
       "lang": "ja",
@@ -35697,6 +35888,26 @@
       "end": "",
       "comment": "",
       "sites": [
+        {
+          "site": "bilibili",
+          "id": "5562",
+          "begin": "2016-10-05T18:05:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "AjQgngZs3Bp9ib2M",
+          "begin": "2016-10-05T18:05:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
         {
           "site": "bangumi",
           "id": "85338"
@@ -35708,7 +35919,8 @@
       "title": "Lostorage incited WIXOSS",
       "titleTranslate": {
         "zh-Hans": [
-          "Lostorage incited WIXOSS"
+          "Lostorage incited WIXOSS",
+          "失忆煽动WIXOSS"
         ]
       },
       "lang": "ja",
@@ -35717,6 +35929,46 @@
       "end": "",
       "comment": "",
       "sites": [
+        {
+          "site": "bilibili",
+          "id": "5530",
+          "begin": "2016-10-07T16:35:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrh9ugpd",
+          "begin": "2016-10-07T16:35:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "tudou",
+          "id": "LntUQRWbcDQ",
+          "begin": "2016-10-07T16:35:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "5ced7c15845a11e6b9bb",
+          "begin": "2016-10-07T16:35:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
         {
           "site": "bangumi",
           "id": "179097"
@@ -35738,6 +35990,66 @@
       "comment": "",
       "sites": [
         {
+          "site": "bilibili",
+          "id": "5526",
+          "begin": "2016-10-08T16:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrh9uq4p",
+          "begin": "2016-10-08T16:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "WevFQ6sRgb8iaoAg",
+          "begin": "2016-10-08T16:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "tudou",
+          "id": "D0EBlEC_PmE",
+          "begin": "2016-10-08T16:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "d5ecc9e77edf11e69e06",
+          "begin": "2016-10-08T16:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "letv",
+          "id": "10030160",
+          "begin": "2016-10-08T16:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "174544"
         }
@@ -35749,6 +36061,9 @@
       "titleTranslate": {
         "zh-Hans": [
           "终末的伊泽塔"
+        ],
+        "en": [
+          "Izetta, Die Letzte Hexe"
         ]
       },
       "lang": "ja",
@@ -35757,6 +36072,36 @@
       "end": "",
       "comment": "",
       "sites": [
+        {
+          "site": "bilibili",
+          "id": "5513",
+          "begin": "2016-10-01T15:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "ic0ompAxy4iaCDAWk",
+          "begin": "2016-10-01T15:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "letv",
+          "id": "10029955",
+          "begin": "2016-10-01T15:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
         {
           "site": "bangumi",
           "id": "184840"
@@ -35778,6 +36123,76 @@
       "comment": "",
       "sites": [
         {
+          "site": "bilibili",
+          "id": "5515",
+          "begin": "2016-10-02T16:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrh9tlph",
+          "begin": "2016-10-02T16:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "TicvVU7shkc8ysBg",
+          "begin": "2016-10-02T16:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "qq",
+          "id": "6/6v4gdmsxw4o6rx3",
+          "begin": "2016-10-02T16:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "tudou",
+          "id": "HeB3ycdgbtI",
+          "begin": "2016-10-02T16:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "2317cca2795811e6bdbb",
+          "begin": "2016-10-02T16:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "letv",
+          "id": "10029969",
+          "begin": "2016-10-02T16:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "175525"
         }
@@ -35797,6 +36212,16 @@
       "end": "",
       "comment": "",
       "sites": [
+        {
+          "site": "bilibili",
+          "id": "5560",
+          "begin": "2016-10-05T13:38:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
         {
           "site": "bangumi",
           "id": "189415"
@@ -35821,6 +36246,56 @@
       "comment": "",
       "sites": [
         {
+          "site": "bilibili",
+          "id": "5523",
+          "begin": "2016-10-08T16:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrh9uq0d",
+          "begin": "2016-10-08T16:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "FR76eOBGtvRX1T0",
+          "begin": "2016-10-08T16:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "tudou",
+          "id": "JA-0VT2hjxY",
+          "begin": "2016-10-08T16:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "c8d8052c814c11e6b16e",
+          "begin": "2016-10-08T16:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "147068"
         }
@@ -35840,6 +36315,16 @@
       "end": "",
       "comment": "",
       "sites": [
+        {
+          "site": "bilibili",
+          "id": "5520",
+          "begin": "2016-10-02T16:15:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
         {
           "site": "bangumi",
           "id": "154073"
@@ -35864,6 +36349,16 @@
       "comment": "",
       "sites": [
         {
+          "site": "bilibili",
+          "id": "5506",
+          "begin": "2016-10-01T17:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "145946"
         }
@@ -35875,6 +36370,9 @@
       "titleTranslate": {
         "zh-Hans": [
           "ViVid Strike!"
+        ],
+        "en": [
+          "ViVid Strike! Thou shalt not be afraid I am with you"
         ]
       },
       "lang": "ja",
@@ -35883,6 +36381,36 @@
       "end": "",
       "comment": "",
       "sites": [
+        {
+          "site": "bilibili",
+          "id": "5514",
+          "begin": "2016-10-01T18:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "tudou",
+          "id": "wlaBP_HwsW4",
+          "begin": "2016-10-01T18:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "de313ad87a1c11e6b16e",
+          "begin": "2016-10-01T18:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
         {
           "site": "bangumi",
           "id": "186613"
@@ -35904,6 +36432,86 @@
       "comment": "",
       "sites": [
         {
+          "site": "bilibili",
+          "id": "5550",
+          "begin": "2016-10-04T19:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrh9toi9",
+          "begin": "2016-10-04T19:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "YtWicPaULe7kcmgI",
+          "begin": "2016-10-04T19:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "qq",
+          "id": "g/gyf3u5vx0m42531",
+          "begin": "2016-10-04T19:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "tudou",
+          "id": "MBDDjWSnoHE",
+          "begin": "2016-10-04T19:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "156d1c7a7b1611e69e06",
+          "begin": "2016-10-04T19:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "letv",
+          "id": "10030038",
+          "begin": "2016-10-04T19:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "mgtv",
+          "id": "301218",
+          "begin": "2016-10-04T19:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "174638"
         }
@@ -35924,6 +36532,16 @@
       "comment": "",
       "sites": [
         {
+          "site": "bilibili",
+          "id": "5561",
+          "begin": "2016-10-05T13:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "189639"
         }
@@ -35943,6 +36561,76 @@
       "end": "",
       "comment": "",
       "sites": [
+        {
+          "site": "bilibili",
+          "id": "5534",
+          "begin": "2016-10-07T04:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrh9ts7p",
+          "begin": "2016-10-07T04:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "XefRT7cdjcsurBQ",
+          "begin": "2016-10-07T04:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "qq",
+          "id": "x/xlvp58zd0o8441x",
+          "begin": "2016-10-07T04:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "tudou",
+          "id": "A9SUm5SJjhA",
+          "begin": "2016-10-07T04:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "686a634078cb11e6b16e",
+          "begin": "2016-10-07T04:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "mgtv",
+          "id": "301758",
+          "begin": "2016-10-07T04:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
         {
           "site": "bangumi",
           "id": "172492"
@@ -35967,6 +36655,16 @@
       "comment": "",
       "sites": [
         {
+          "site": "bilibili",
+          "id": "5532",
+          "begin": "2016-10-07T04:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "167434"
         }
@@ -35980,7 +36678,8 @@
           "BUBUKI/BURANKI"
         ],
         "zh-Hans": [
-          "舞兵器舞乱伎 星之巨人"
+          "舞兵器舞乱伎 星之巨人",
+          "舞武器舞乱伎 星之巨人"
         ]
       },
       "lang": "ja",
@@ -35989,6 +36688,26 @@
       "end": "",
       "comment": "",
       "sites": [
+        {
+          "site": "bilibili",
+          "id": "5508",
+          "begin": "2016-10-01T14:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "letv",
+          "id": "10029953",
+          "begin": "2016-10-01T14:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
         {
           "site": "bangumi",
           "id": "170772"
@@ -36009,6 +36728,26 @@
       "end": "",
       "comment": "",
       "sites": [
+        {
+          "site": "tudou",
+          "id": "kGyvACa-e4U",
+          "begin": "2016-10-01T16:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "249bdf53795911e6b16e",
+          "begin": "2016-10-01T16:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
         {
           "site": "bangumi",
           "id": "138754"
@@ -36033,6 +36772,26 @@
       "comment": "",
       "sites": [
         {
+          "site": "bilibili",
+          "id": "5521",
+          "begin": "2016-10-08T11:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "esexL5f9basOjPQ",
+          "begin": "2016-10-08T11:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "139137"
         }
@@ -36053,6 +36812,26 @@
       "comment": "",
       "sites": [
         {
+          "site": "bilibili",
+          "id": "5552",
+          "begin": "2016-10-04T15:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "yXhU0jqgEE6xL5c",
+          "begin": "2016-10-04T15:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "187112"
         }
@@ -36063,7 +36842,8 @@
       "title": "タイガーマスクW",
       "titleTranslate": {
         "zh-Hans": [
-          "虎头假面W"
+          "虎头假面W",
+          "虎面人W"
         ]
       },
       "lang": "ja",
@@ -36072,6 +36852,16 @@
       "end": "",
       "comment": "",
       "sites": [
+        {
+          "site": "iqiyi",
+          "id": "a_19rrh9tmg1",
+          "begin": "2016-10-01T23:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
         {
           "site": "bangumi",
           "id": "171366"
@@ -36092,6 +36882,26 @@
       "end": "",
       "comment": "",
       "sites": [
+        {
+          "site": "tudou",
+          "id": "0cpgYEhhh8Y",
+          "begin": "2016-10-02T10:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "2c1e303055f011e5a080",
+          "begin": "2016-10-02T10:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
         {
           "site": "bangumi",
           "id": "170191"
@@ -36116,6 +36926,16 @@
       "comment": "",
       "sites": [
         {
+          "site": "bilibili",
+          "id": "5537",
+          "begin": "2016-10-06T16:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "185420"
         }
@@ -36139,6 +36959,56 @@
       "comment": "",
       "sites": [
         {
+          "site": "bilibili",
+          "id": "5540",
+          "begin": "2016-10-03T14:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrh9tmut",
+          "begin": "2016-10-03T14:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "atfBP6cNfbsenAQ",
+          "begin": "2016-10-03T14:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "tudou",
+          "id": "vlOZFOFN6bA",
+          "begin": "2016-10-03T14:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "be9804ad7fab11e6b16e",
+          "begin": "2016-10-03T14:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "165972"
         }
@@ -36159,6 +37029,26 @@
       "comment": "",
       "sites": [
         {
+          "site": "tudou",
+          "id": "fFOR7YTyu3s",
+          "begin": "2016-10-07T18:26:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "dfc93fc7852411e6bdbb",
+          "begin": "2016-10-07T18:26:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "173849"
         }
@@ -36169,7 +37059,8 @@
       "title": "灼熱の卓球娘",
       "titleTranslate": {
         "zh-Hans": [
-          "灼热的乒乓球娘"
+          "灼热的乒乓球娘",
+          "灼热的桌球娘"
         ]
       },
       "lang": "ja",
@@ -36178,6 +37069,56 @@
       "end": "",
       "comment": "",
       "sites": [
+        {
+          "site": "bilibili",
+          "id": "5539",
+          "begin": "2016-10-03T17:35:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrh9tmut",
+          "begin": "2016-10-03T17:35:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "tudou",
+          "id": "cKtRIe-oijg",
+          "begin": "2016-10-03T17:35:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "cfec86ce7f0011e6bdbb",
+          "begin": "2016-10-03T17:35:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "letv",
+          "id": "10030001",
+          "begin": "2016-10-03T17:35:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
         {
           "site": "bangumi",
           "id": "175536"
@@ -36198,6 +37139,36 @@
       "end": "",
       "comment": "",
       "sites": [
+        {
+          "site": "bilibili",
+          "id": "5518",
+          "begin": "2016-10-08T13:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "tudou",
+          "id": "ZGsjoPX7m08",
+          "begin": "2016-10-08T13:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "b8b4ec3a852211e69e06",
+          "begin": "2016-10-08T13:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
         {
           "site": "bangumi",
           "id": "131800"
@@ -36239,6 +37210,46 @@
       "comment": "",
       "sites": [
         {
+          "site": "bilibili",
+          "id": "5525",
+          "begin": "2016-10-08T19:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrh9urth",
+          "begin": "2016-10-08T19:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "tudou",
+          "id": "6dbh9yNHRnk",
+          "begin": "2016-10-08T19:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "11256a1f852b11e6bdbb",
+          "begin": "2016-10-08T19:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "168417"
         }
@@ -36249,7 +37260,8 @@
       "title": "マジきゅんっ！ルネッサンス",
       "titleTranslate": {
         "zh-Hans": [
-          "超心动！文艺复兴"
+          "超心动！文艺复兴",
+          "超心动！艺术之星"
         ]
       },
       "lang": "ja",
@@ -36258,6 +37270,46 @@
       "end": "",
       "comment": "",
       "sites": [
+        {
+          "site": "bilibili",
+          "id": "5522",
+          "begin": "2016-10-02T14:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrh9utqt",
+          "begin": "2016-10-02T14:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "Mic7aWMAmltQ3tR0",
+          "begin": "2016-10-02T14:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "mgtv",
+          "id": "301761",
+          "begin": "2016-10-02T14:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
         {
           "site": "bangumi",
           "id": "154689"
@@ -36278,6 +37330,16 @@
       "end": "",
       "comment": "",
       "sites": [
+        {
+          "site": "bilibili",
+          "id": "5557",
+          "begin": "2016-10-05T15:28:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
         {
           "site": "bangumi",
           "id": "187556"
@@ -36302,6 +37364,16 @@
       "comment": "",
       "sites": [
         {
+          "site": "bilibili",
+          "id": "5486",
+          "begin": "2016-10-02T16:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "186553"
         }
@@ -36325,6 +37397,36 @@
       "comment": "",
       "sites": [
         {
+          "site": "bilibili",
+          "id": "5510",
+          "begin": "2016-10-01T11:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "tudou",
+          "id": "X2zsEN8Vug4",
+          "begin": "2016-10-01T11:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "6aa32c517a1b11e69e06",
+          "begin": "2016-10-01T11:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "175529"
         }
@@ -36345,6 +37447,36 @@
       "comment": "",
       "sites": [
         {
+          "site": "bilibili",
+          "id": "5542",
+          "begin": "2016-10-03T17:05:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "xHVf3UWrG1m8OqI",
+          "begin": "2016-10-03T17:05:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "letv",
+          "id": "10030000",
+          "begin": "2016-10-03T17:05:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "184153"
         }
@@ -36358,7 +37490,8 @@
           "FLIP FLAPPERS"
         ],
         "zh-Hans": [
-          "Flip Flappers"
+          "Flip Flappers",
+          "轻拍翻转小魔女"
         ]
       },
       "lang": "ja",
@@ -36367,6 +37500,16 @@
       "end": "",
       "comment": "",
       "sites": [
+        {
+          "site": "iqiyi",
+          "id": "a_19rrh9uqb5",
+          "begin": "2016-10-06T13:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
         {
           "site": "bangumi",
           "id": "174584"
@@ -36387,6 +37530,76 @@
       "end": "",
       "comment": "",
       "sites": [
+        {
+          "site": "bilibili",
+          "id": "5563",
+          "begin": "2016-10-02T04:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrh9uq9l",
+          "begin": "2016-10-02T04:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "Zc6qKJD2ZqQHhe0",
+          "begin": "2016-10-02T04:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "qq",
+          "id": "v/vmyhlcrhf8639bi",
+          "begin": "2016-10-02T04:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "mgtv",
+          "id": "301740",
+          "begin": "2016-10-02T04:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "tudou",
+          "id": "KY5OaxL5PcU",
+          "begin": "2016-10-02T04:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "letv",
+          "id": "10029959",
+          "begin": "2016-10-02T04:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
         {
           "site": "bangumi",
           "id": "180710"
@@ -36434,6 +37647,16 @@
       "comment": "",
       "sites": [
         {
+          "site": "bilibili",
+          "id": "5548",
+          "begin": "2016-10-04T19:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "126177"
         }
@@ -36457,6 +37680,16 @@
       "comment": "",
       "sites": [
         {
+          "site": "pptv",
+          "id": "ibUgkogpw4B6Bic2c",
+          "begin": "2016-10-06T15:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "168634"
         }
@@ -36476,6 +37709,16 @@
       "end": "",
       "comment": "",
       "sites": [
+        {
+          "site": "bilibili",
+          "id": "5556",
+          "begin": "2016-10-05T13:33:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
         {
           "site": "bangumi",
           "id": "181090"
@@ -36544,7 +37787,8 @@
           "GAKUEN HANDSOME"
         ],
         "zh-Hans": [
-          "学园帅哥"
+          "学园帅哥",
+          "学园Handsome"
         ]
       },
       "lang": "ja",
@@ -36553,6 +37797,16 @@
       "end": "",
       "comment": "",
       "sites": [
+        {
+          "site": "bilibili",
+          "id": "5543",
+          "begin": "2016-10-03T16:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
         {
           "site": "bangumi",
           "id": "184285"
@@ -36574,6 +37828,56 @@
       "comment": "",
       "sites": [
         {
+          "site": "bilibili",
+          "id": "5538",
+          "begin": "2016-10-02T19:05:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrh9uh6p",
+          "begin": "2016-10-02T19:05:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "tudou",
+          "id": "-seb9EUMdrs",
+          "begin": "2016-10-02T19:05:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "2ca6916c795511e6b32f",
+          "begin": "2016-10-02T19:05:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "letv",
+          "id": "10029971",
+          "begin": "2016-10-02T19:05:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "189659"
         }
@@ -36594,6 +37898,56 @@
       "comment": "",
       "sites": [
         {
+          "site": "bilibili",
+          "id": "5545",
+          "begin": "2016-10-03T11:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "gLOdG4PpWZf6eOA",
+          "begin": "2016-10-03T11:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "tudou",
+          "id": "ho_Iluro9WQ",
+          "begin": "2016-10-03T11:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "2be7370c7fad11e69e06",
+          "begin": "2016-10-03T11:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "letv",
+          "id": "10029986",
+          "begin": "2016-10-03T11:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "185825"
         }
@@ -36613,6 +37967,16 @@
       "end": "",
       "comment": "",
       "sites": [
+        {
+          "site": "bilibili",
+          "id": "5544",
+          "begin": "2016-10-03T11:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
         {
           "site": "bangumi",
           "id": "184745"
@@ -36637,6 +38001,26 @@
       "comment": "",
       "sites": [
         {
+          "site": "tudou",
+          "id": "IBNFz-7b2l0",
+          "begin": "2016-10-04T09:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "457c1f335aab11e6b9bb",
+          "begin": "2016-10-04T09:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "165785"
         }
@@ -36660,6 +38044,16 @@
       "comment": "",
       "sites": [
         {
+          "site": "bilibili",
+          "id": "5555",
+          "begin": "2016-10-05T15:15:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "186035"
         }
@@ -36680,6 +38074,16 @@
       "comment": "",
       "sites": [
         {
+          "site": "bilibili",
+          "id": "5564",
+          "begin": "2016-10-02T15:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "181089"
         }
@@ -36690,6 +38094,7 @@
       "title": "ユーリ!!! on ICE",
       "titleTranslate": {
         "zh-Hans": [
+          "冰上的尤里",
           "勇利!!! on ICE"
         ]
       },
@@ -36699,6 +38104,26 @@
       "end": "",
       "comment": "",
       "sites": [
+        {
+          "site": "tudou",
+          "id": "6hZtWoVnYhw",
+          "begin": "2016-10-05T18:51:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "6b45aa39814e11e6b16e",
+          "begin": "2016-10-05T18:51:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
         {
           "site": "bangumi",
           "id": "174998"
@@ -36720,6 +38145,46 @@
       "comment": "",
       "sites": [
         {
+          "site": "bilibili",
+          "id": "5558",
+          "begin": "2016-10-05T13:55:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "tudou",
+          "id": "VRhFLSGyZfY",
+          "begin": "2016-10-05T13:55:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "599329d9815011e6bdbb",
+          "begin": "2016-10-05T13:55:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "l6CMCnLYSIbpZ88",
+          "begin": "2016-10-05T13:55:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "188453"
         }
@@ -36740,6 +38205,16 @@
       "comment": "",
       "sites": [
         {
+          "site": "pptv",
+          "id": "IxXicfeVLuiclc2kI",
+          "begin": "2016-10-06T16:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "bangumi",
           "id": "146172"
         }
@@ -36759,6 +38234,16 @@
       "end": "",
       "comment": "",
       "sites": [
+        {
+          "site": "bilibili",
+          "id": "5527",
+          "begin": "2016-10-08T16:42:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
         {
           "site": "bangumi",
           "id": "189545"
@@ -36822,6 +38307,334 @@
       "end": "",
       "comment": "",
       "sites": []
+    },
+    {
+      "id": "2016_10_59",
+      "title": "文豪ストレイドッグス(第2クール)",
+      "titleTranslate": {
+        "en": [
+          "BUNGO STRAY DOGS"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://bungo-stray-dogs.jp/",
+      "begin": "2016-10-05T16:05:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": []
+    },
+    {
+      "id": "2016_10_60",
+      "title": "戦国鳥獣戯画～甲～",
+      "titleTranslate": {
+        "zh-Hans": [
+          "战国鸟兽戏画～甲～"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://www.kbc.co.jp/scg/",
+      "begin": "2016-10-08T16:42:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "189545"
+        }
+      ]
+    },
+    {
+      "id": "2016_10_61",
+      "title": "Bloodivores",
+      "titleTranslate": {},
+      "lang": "ja",
+      "officialSite": "http://bloodivores.com/",
+      "begin": "2016-10-01T12:00:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": []
+    },
+    {
+      "id": "2016_10_62",
+      "title": "はがねオーケストラ",
+      "titleTranslate": {
+        "en": [
+          "Hagane Orchestra"
+        ],
+        "zh-Hans": [
+          "钢之管弦乐"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://www.hagane-orchestra.jp/index.html",
+      "begin": "2016-10-09T16:00:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "192314"
+        }
+      ]
+    },
+    {
+      "id": "2016_10_63",
+      "title": "猫のダヤン ふしぎ劇場",
+      "titleTranslate": {},
+      "lang": "ja",
+      "officialSite": "http://anime-dayan.com/",
+      "begin": "2016-10-06T16:49:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": []
+    },
+    {
+      "id": "2016_10_64",
+      "title": "CHEATING CRAFT",
+      "titleTranslate": {
+        "en": [
+          "CHEATING CRAFT"
+        ],
+        "zh-Hans": [
+          "一课一练"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://cheating-craft.com/",
+      "begin": "2016-10-05T09:30:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bilibili",
+          "id": "5570",
+          "begin": "2016-10-04T16:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "CTsVkicth0Q9y8Fg",
+          "begin": "2016-10-04T16:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "letv",
+          "id": "10029690",
+          "begin": "2016-10-04T16:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "bangumi",
+          "id": "188050"
+        }
+      ]
+    },
+    {
+      "id": "2016_10_65",
+      "title": "TO BE HERO",
+      "titleTranslate": {
+        "en": [
+          "TO BE HERO"
+        ],
+        "zh-Hans": [
+          "凸变英雄"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://tobe-hero.com/",
+      "begin": "2016-10-05T09:45:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bilibili",
+          "id": "5430",
+          "begin": "2016-10-04T16:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "QvXfXcUrm9k8uiaI",
+          "begin": "2016-10-04T16:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "letv",
+          "id": "10029854",
+          "begin": "2016-10-04T16:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "bangumi",
+          "id": "192247"
+        }
+      ]
+    },
+    {
+      "id": "2016_10_66",
+      "title": "どちゃもん じゅにあ(第2シリーズ)",
+      "titleTranslate": {},
+      "lang": "ja",
+      "officialSite": "http://www9.nhk.or.jp/anime/dochamon/",
+      "begin": "2016-10-10T09:45:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": []
+    },
+    {
+      "id": "2016_10_67",
+      "title": "月曜日のたわわ",
+      "titleTranslate": {
+        "en": [
+          "Tawawa on Monday"
+        ],
+        "zh-Hans": [
+          "星期一的丰满"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://www.youtube.com/watch?v=cfcqewZdBiU",
+      "begin": "2016-10-09T23:00:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "194877"
+        }
+      ]
+    },
+    {
+      "id": "2016_10_68",
+      "title": "レゴ ニンジャゴー(よみがえりの日編)",
+      "titleTranslate": {
+        "en": [
+          "Lego Ninjago"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://www.tv-tokyo.co.jp/anime/lego_ninjago/",
+      "begin": "2016-10-29T00:30:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": []
+    },
+    {
+      "id": "2016_10_69",
+      "title": "ガールフレンド(♪)",
+      "titleTranslate": {
+        "en": [
+          "GIRL FRIEND NOTE"
+        ],
+        "zh-Hans": [
+          "临时女友♪"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://vcard.ameba.jp/pub/campaign/campaign-2016-1/top",
+      "begin": "2016-10-22T13:00:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "189632"
+        }
+      ]
+    },
+    {
+      "id": "2016_10_70",
+      "title": "信長の忍び",
+      "titleTranslate": {
+        "zh-Hans": [
+          "信长的忍者"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://nobunaga-no-shinobi.com/",
+      "begin": "2016-10-04T12:55:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bilibili",
+          "id": "5549",
+          "begin": "2016-10-04T13:55:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrh9ueih",
+          "begin": "2016-10-04T13:55:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "tudou",
+          "id": "HdPGQHDBn2o",
+          "begin": "2016-10-04T13:55:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "143b4e077fa111e69e06",
+          "begin": "2016-10-04T13:55:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "letv",
+          "id": "10030036",
+          "begin": "2016-10-04T13:55:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "bangumi",
+          "id": "170242"
+        }
+      ]
     }
   ]
 }
