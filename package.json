@@ -3,6 +3,7 @@
   "version": "0.1.2",
   "description": "Raw data for Anime",
   "main": "dist/data.json",
+  "files": ["dist"],
   "scripts": {
     "build": "node script/build.js",
     "lint": "eslint script/ --quiet",
