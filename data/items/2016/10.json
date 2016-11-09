@@ -143,6 +143,26 @@
         "comment": ""
       },
       {
+        "site": "youku",
+        "id": "e02f40e9795311e69e06",
+        "begin": "2016-10-01T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "tudou",
+        "id": "VoqOZ-snzLc",
+        "begin": "2016-10-01T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "176599"
       }
@@ -177,6 +197,26 @@
         "id": "AjQgngZs3Bp9ib2M",
         "begin": "2016-10-05T18:05:00.000Z",
         "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "36c3bfdf815d11e69c81",
+        "begin": "2016-10-05T18:05:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "tudou",
+        "id": "eTEHrp1eiUw",
+        "begin": "2016-10-05T18:05:00.000Z",
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -2832,6 +2872,75 @@
         "site": "letv",
         "id": "10030036",
         "begin": "2016-10-04T13:55:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "170242"
+      }
+    ]
+  },
+  {
+    "title": "Bloodivores(ブラッディヴォーレス)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "时空使徒"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://bloodivores.com/",
+    "begin": "2016-10-01T12:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "5572",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "db6aGIDmVpT3dd0",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "g/g45oolfndk1iuh5",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "10029682",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "301173",
+        "begin": "",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
