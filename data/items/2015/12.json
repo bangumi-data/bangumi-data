@@ -3,10 +3,21 @@
     "title": "时光诡域",
     "titleTranslate": {},
     "lang": "zh-Hans",
+    "officialSite": "http://v.qq.com/vplus/shiguang",
     "begin": "2015-12-15T12:00:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
+      {
+        "site": "acfun",
+        "id": "1470410",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      }, 
       {
         "site": "bilibili",
         "id": "3217",
@@ -29,6 +40,7 @@
       },
       {
         "site": "qq",
+        "id": "c/c1ld829macro80v",
         "begin": "",
         "official": true,
         "premuiumOnly": false,
@@ -48,6 +60,7 @@
       },
       {
         "site": "letv",
+        "id": "10016723",
         "begin": "",
         "official": true,
         "premuiumOnly": false,
@@ -57,7 +70,7 @@
       },
       {
         "site": "sohu",
-        "id": "item/MTIwMzk3Nw==.html",
+        "id": "s2015/dhpsggyu/",
         "begin": "",
         "official": true,
         "premuiumOnly": false,
