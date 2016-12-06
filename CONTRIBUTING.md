@@ -111,17 +111,17 @@ dist/                                --> 存放构建后数据的目录
 
 各个放送站点的 url 均为专辑页面，以下列表中，突出部分为 id：
 
-* http&#58;//www.acfun.tv/v/ab<kbd>1480039</kbd>
-* http&#58;//bangumi.bilibili.com/anime/<kbd>5507</kbd>
-* http&#58;//www.iqiyi.com/<kbd>a_19rrh9uqb5</kbd>.html
-* http&#58;//movie.kankan.com/movie/<kbd>87458</kbd>
-* http&#58;//www.le.com/comic/<kbd>10029954</kbd>.html
-* http&#58;//www.mgtv.com/h/<kbd>301218</kbd>.html
-* http&#58;//v.pptv.com/page/<kbd>adq2NJwCcrATkfk</kbd>.html
-* http&#58;//tv.sohu.com/<kbd>s2011/yjdwb/</kbd>
-* http&#58;//v.qq.com/detail/<kbd>g/gyf3u5vx0m42531</kbd>.html
-* http&#58;//www.tudou.com/albumcover/<kbd>uu4R6eeDa8Q</kbd>.html
-* http&#58;//www.youku.com/show_page/id_z<kbd>4d8cce35815111e6b16e</kbd>.html
+* <span>http://</span>www.acfun.tv/v/ab<kbd>1480039</kbd>
+* <span>http://</span>bangumi.bilibili.com/anime/<kbd>5507</kbd>
+* <span>http://</span>www.iqiyi.com/<kbd>a_19rrh9uqb5</kbd>.html
+* <span>http://</span>movie.kankan.com/movie/<kbd>87458</kbd>
+* <span>http://</span>www.le.com/comic/<kbd>10029954</kbd>.html
+* <span>http://</span>www.mgtv.com/h/<kbd>301218</kbd>.html
+* <span>http://</span>v.pptv.com/page/<kbd>adq2NJwCcrATkfk</kbd>.html
+* <span>http://</span>tv.sohu.com/<kbd>s2011/yjdwb/</kbd>
+* <span>http://</span>v.qq.com/detail/<kbd>g/gyf3u5vx0m42531</kbd>.html
+* <span>http://</span>www.tudou.com/albumcover/<kbd>uu4R6eeDa8Q</kbd>.html
+* <span>http://</span>www.youku.com/show_page/id_z<kbd>4d8cce35815111e6b16e</kbd>.html
 
 ## 验证
 
