@@ -3350,7 +3350,8 @@
     "title": "Bloodivores",
     "titleTranslate": {
       "zh-Hans": [
-        "时空使徒"
+        "时空使徒",
+        "时空囚徒"
       ]
     },
     "lang": "ja",
@@ -3390,6 +3391,16 @@
         "comment": ""
       },
       {
+        "site": "iqiyi",
+        "id": "a_19rrh9utkd",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "10029682",
         "begin": "",
@@ -3412,6 +3423,81 @@
       {
         "site": "bangumi",
         "id": "191653"
+      }
+    ]
+  },
+  {
+    "title": "生死回放",
+    "titleTranslate": {},
+    "lang": "zh-Hans",
+    "officialSite": "http://ac.qq.com/event/5d5765b14b3ed2600efc5a6f59db7600.html",
+    "begin": "2016-10-01T12:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "5602",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "ha6KCHDWRoTnZc0",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "p/p3jz7rr8fqpy1lk",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9sj8d",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "10029891",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "301580",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "175449"
       }
     ]
   }
