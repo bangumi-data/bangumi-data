@@ -24,6 +24,7 @@ readJsonPaths(ITEMS_DIRECTORY)
     })
     .catch((error) => {
         console.error(error);
+        process.exit(1);
     });
 
 readJsonPaths(SITES_DIRECTORY)
@@ -43,4 +44,5 @@ readJsonPaths(SITES_DIRECTORY)
     })
     .catch((error) => {
         console.error(error);
+        process.exit(1);
     });

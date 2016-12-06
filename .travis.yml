@@ -15,16 +15,7 @@ before_install:
   npm install npm@latest -g
   npm --version
 script:
-- |
-  if [ "$TEST_TYPE" = test ]; then
-    npm test
-  else
-    npm run $TEST_TYPE
-  fi
-env:
-  matrix:
-  - TEST_TYPE=build
-  - TEST_TYPE=test
+- npm test && npm run build
 notifications:
   slack:
     secure: oVMmVHwJB1Poa4a+NRxY5Wqg0eFmBN5IiHyt8D+6i4J44IfG6TgNSk3bbxGOUNkEX2MoZHO+QLsej9xYdZkK5WcIYAibJ4vIRZySm8t9BGiIVP2QwC3XJFMuxINSHVMFPLIbs832Nul/e/2r5bhR6Utz4zVUWiuThObsT0bEcf9lRfri+6sAwRNh/+mrBDeJskw5rOZsCxwtgIWp5KjyHyBZUBp1mqedzJm46q/j10Lyl+1zm9RgVYqKYPFfNWiLwoAQLb+aGVVddIAi1Cj+yhHDy6alHq7YVTsCaI90NGKiJCI31oFircvZWWjg/pghGNcluS/fFbCM3U1pdbPNYxAlckyWHVHJUol5zHuKhqG6UmC2ZXQAqbwEU9H8OQVIDaGxnMacMUfDac6YhfoPwtXdagBBJlAGTDchJsPl+ogrSO297EMwbE2NBYhLahBNTjQnAjEYZJay7SbPy3+j7H1fe+uEG4RaqjBsgUxAyeoK0PrlMDnwP3QG1dGEIBsLro/HyzbKp6+Iv3n12nHJV4zj5SdpoPeCuW0uTUofHoHh++8CI344pAnqS5BXFNR87fCYLUZnVqOk0q81uBZeBeJ2Et8r0hOX+PuIsS47K6HqA4RQSQYD9jEZd6OHLhEfWAqyapxzWAKt/f9X5VRRR17Oa/fYfdEJsBh4lY8M4Yk=
