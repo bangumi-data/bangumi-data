@@ -1,49 +1,16 @@
 [
   {
-    "title": "憑物語",
-    "titleTranslate": {
-      "zh-Hans": [
-        "凭物语"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://www.monogatari-series.com/tsukimonogatari/",
-    "begin": "2014-12-31T13:00:00.000Z",
-    "end": "",
-    "comment": "",
-    "sites": [
-      {
-        "site": "sohu",
-        "id": "s2014/dhppwy/",
-        "begin": "2015-01-01T01:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "115932"
-      },
-      {
-        "site": "saraba1st",
-        "id": "1067041"
-      }
-    ]
-  },
-  {
-    "title": "妖怪名单",
+    "title": "超神游戏",
     "titleTranslate": {},
     "lang": "zh-Hans",
-    "officialSite": "http://ac.qq.com/event/ayakashi.html",
-    "begin": "2014-12-12T12:00:00.000Z",
+    "officialSite": "",
+    "begin": "2015-06-26T12:00:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
       {
         "site": "acfun",
-        "id": "1470118",
+        "id": "1470017",
         "begin": "",
         "official": true,
         "premuiumOnly": false,
@@ -53,7 +20,7 @@
       },
       {
         "site": "pptv",
-        "id": "0XhU0jqgEE6xL5c",
+        "id": "Wb6aGIDmVpT3dd0",
         "begin": "",
         "official": true,
         "premuiumOnly": false,
@@ -63,7 +30,7 @@
       },
       {
         "site": "qq",
-        "id": "o/o9b10rhvd7y5i9h",
+        "id": "h/hpxk7hpq715lw3o",
         "begin": "",
         "official": true,
         "premuiumOnly": false,
@@ -73,7 +40,27 @@
       },
       {
         "site": "iqiyi",
-        "id": "a_19rrhc233h",
+        "id": "a_19rrgj8yuh",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "94506",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "sohu",
+        "id": "s2013/csyx/",
         "begin": "",
         "official": true,
         "premuiumOnly": false,
@@ -93,7 +80,7 @@
       },
       {
         "site": "bangumi",
-        "id": "116045"
+        "id": "88052"
       }
     ]
   }
