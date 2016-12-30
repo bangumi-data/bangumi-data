@@ -17,7 +17,7 @@
         "id": "UW8uUaXCUQg",
         "begin": "2016-04-01T15:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
+        "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
@@ -71,9 +71,9 @@
       {
         "site": "tudou",
         "id": "920pL7eTryw",
-        "begin": "2016-04-01T17:00:00.000Z",
+        "begin": "2016-04-01T16:59:50.000Z",
         "official": true,
-        "premuiumOnly": false,
+        "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
@@ -81,7 +81,7 @@
       {
         "site": "youku",
         "id": "1730efb4f4c911e5b522",
-        "begin": "2016-04-01T17:00:00.000Z",
+        "begin": "2016-04-01T16:59:50.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -127,7 +127,7 @@
       {
         "site": "bilibili",
         "id": "3451",
-        "begin": "2016-04-02T01:30:00.000Z",
+        "begin": "2016-04-02T01:30:02.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -160,7 +160,7 @@
       {
         "site": "bilibili",
         "id": "3459",
-        "begin": "2016-04-01T14:00:00.000Z",
+        "begin": "2016-04-01T14:00:02.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -196,7 +196,7 @@
       {
         "site": "bilibili",
         "id": "3499",
-        "begin": "2016-04-01T14:10:00.000Z",
+        "begin": "2016-04-01T14:09:01.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -221,7 +221,7 @@
       ]
     },
     "lang": "ja",
-    "officialSite": "http://terraformars.tv/",
+    "officialSite": "http://www.terraformars.tv/",
     "begin": "2016-04-01T16:05:00.000Z",
     "end": "2016-06-24T16:35:00.000Z",
     "comment": "",
@@ -230,7 +230,7 @@
         "site": "bilibili",
         "id": "3529",
         "begin": "",
-        "official": true,
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -249,7 +249,7 @@
       {
         "site": "acfun",
         "id": "1470450",
-        "begin": "",
+        "begin": "2016-06-05T10:10:26.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -276,13 +276,13 @@
     "lang": "ja",
     "officialSite": "http://www.ytv.co.jp/animegyakuten/",
     "begin": "2016-04-02T08:30:00.000Z",
-    "end": "",
+    "end": "2016-09-10T09:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "tudou",
         "id": "rEbbsqzQVVU",
-        "begin": "2016-04-02T11:00:00.000Z",
+        "begin": "2016-04-02T10:58:21.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -292,7 +292,7 @@
       {
         "site": "youku",
         "id": "c306dcc2e59711e5a080",
-        "begin": "2016-04-02T11:00:00.000Z",
+        "begin": "2016-04-02T10:58:21.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -312,7 +312,7 @@
       {
         "site": "bilibili",
         "id": "3527",
-        "begin": "2016-04-02T11:00:00.000Z",
+        "begin": "2016-04-02T11:00:01.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -332,7 +332,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhaix5t",
-        "begin": "2016-04-02T11:00:00.000Z",
+        "begin": "2016-04-02T10:55:05.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -378,7 +378,7 @@
       {
         "site": "bilibili",
         "id": "3464",
-        "begin": "2016-04-02T15:00:00.000Z",
+        "begin": "2016-04-02T15:00:01.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -399,14 +399,15 @@
     "title": "フューチャーカード バディファイトDDD",
     "titleTranslate": {
       "zh-Hans": [
-        "未来卡 搭档对战 DDD"
+        "未来卡 搭档对战 DDD",
+        "未来卡搭档对战DDD"
       ],
       "en": [
         "FUTURE CARD BUDDYFIGHT TRIPLE D"
       ]
     },
     "lang": "ja",
-    "officialSite": "http://www.tv-tokyo.co.jp/anime/fc-buddyfight/",
+    "officialSite": "http://www.tv-aichi.co.jp/fc-buddyfightDDD/",
     "begin": "2016-04-01T23:00:00.000Z",
     "end": "",
     "comment": "",
@@ -421,7 +422,8 @@
     "title": "エンドライド",
     "titleTranslate": {
       "zh-Hans": [
-        "Endride X fragments"
+        "Endride X fragments",
+        "ENDRIDE"
       ],
       "en": [
         "ENDRIDE"
@@ -430,7 +432,7 @@
     "lang": "ja",
     "officialSite": "http://anime.endride.jp/",
     "begin": "2016-04-02T17:30:00.000Z",
-    "end": "",
+    "end": "2016-10-09T16:55:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -438,7 +440,7 @@
         "id": "j7O8sSBa7Co",
         "begin": "2016-04-02T20:30:00.000Z",
         "official": true,
-        "premuiumOnly": false,
+        "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
@@ -472,14 +474,14 @@
     "lang": "ja",
     "officialSite": "http://macross.jp/",
     "begin": "2016-04-03T13:30:00.000Z",
-    "end": "",
+    "end": "2016-09-25T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bilibili",
         "id": "3530",
-        "begin": "",
-        "official": true,
+        "begin": "2016-04-04T10:02:24.000Z",
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -544,7 +546,7 @@
       {
         "site": "bilibili",
         "id": "3460",
-        "begin": "2016-04-03T11:55:00.000Z",
+        "begin": "2016-04-03T11:55:02.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -573,9 +575,9 @@
       {
         "site": "tudou",
         "id": "krKFWeKKSvY",
-        "begin": "2016-04-03T17:00:00.000Z",
+        "begin": "2016-04-03T16:58:00.000Z",
         "official": true,
-        "premuiumOnly": false,
+        "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
@@ -583,7 +585,7 @@
       {
         "site": "youku",
         "id": "994a2206e4eb11e5a2a2",
-        "begin": "2016-04-03T17:00:00.000Z",
+        "begin": "2016-04-03T16:58:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -619,7 +621,7 @@
       {
         "site": "tudou",
         "id": "pEFBZGfERLo",
-        "begin": "2016-04-03T09:30:00.000Z",
+        "begin": "2016-04-03T09:28:01.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -629,7 +631,7 @@
       {
         "site": "youku",
         "id": "af361582e59c11e5b32f",
-        "begin": "2016-04-03T09:30:00.000Z",
+        "begin": "2016-04-03T09:28:01.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -660,19 +662,20 @@
     "title": "コンクリート・レボルティオ～超人幻想～ THE LAST SONG",
     "titleTranslate": {
       "zh-Hans": [
-        "超人幻想 THE LAST SONG"
+        "超人幻想 THE LAST SONG",
+        "Concrete Revolutio 超人幻想 THE LAST SONG"
       ]
     },
     "lang": "ja",
     "officialSite": "http://concreterevolutio.com/",
-    "begin": "2016-04-03T14:00:00.000Z",
+    "begin": "2016-04-10T14:00:00.000Z",
     "end": "2016-06-19T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bilibili",
         "id": "3465",
-        "begin": "2016-04-03T14:30:00.000Z",
+        "begin": "2016-04-10T14:30:01.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -682,7 +685,7 @@
       {
         "site": "tudou",
         "id": "_qQRLVfjQsE",
-        "begin": "2016-04-03T14:30:00.000Z",
+        "begin": "2016-04-10T14:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -692,7 +695,7 @@
       {
         "site": "youku",
         "id": "189c428856bb11e5b432",
-        "begin": "2016-04-03T14:30:00.000Z",
+        "begin": "2016-04-10T14:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -702,7 +705,7 @@
       {
         "site": "acfun",
         "id": "1470373",
-        "begin": "2016-04-03T14:30:00.000Z",
+        "begin": "2016-04-10T14:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -733,19 +736,20 @@
     "title": "機動戦士ガンダムUC RE:0096",
     "titleTranslate": {
       "zh-Hans": [
-        "机动战士高达UC RE:0096"
+        "机动战士高达UC RE:0096",
+        "机动战士高达独角兽 RE:0096"
       ]
     },
     "lang": "ja",
     "officialSite": "http://www.gundam-unicorn.net/",
     "begin": "2016-04-02T22:00:00.000Z",
-    "end": "",
+    "end": "2016-09-10T22:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bilibili",
         "id": "3496",
-        "begin": "2016-04-02T22:30:00.000Z",
+        "begin": "2016-04-02T22:30:02.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -781,7 +785,7 @@
       {
         "site": "bilibili",
         "id": "3456",
-        "begin": "2016-04-02T16:00:00.000Z",
+        "begin": "2016-04-03T09:23:27.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -809,7 +813,7 @@
       ]
     },
     "lang": "ja",
-    "officialSite": "http://www.tv-tokyo.co.jp/anime/duel_vsrf/",
+    "officialSite": "http://www.shopro.co.jp/tv/duelmastersvsrf/",
     "begin": "2016-04-02T23:30:00.000Z",
     "end": "",
     "comment": "",
@@ -836,9 +840,9 @@
       {
         "site": "tudou",
         "id": "MTTFlTZ-PqE",
-        "begin": "2016-04-04T15:30:00.000Z",
+        "begin": "2016-04-04T15:28:00.000Z",
         "official": true,
-        "premuiumOnly": false,
+        "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
@@ -846,7 +850,7 @@
       {
         "site": "youku",
         "id": "1b821afce4de11e5b2ad",
-        "begin": "2016-04-04T15:30:00.000Z",
+        "begin": "2016-04-04T15:28:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -867,7 +871,8 @@
     "title": "ベイブレードバースト",
     "titleTranslate": {
       "zh-Hans": [
-        "战斗陀螺 爆裂"
+        "战斗陀螺 爆裂",
+        "战斗陀螺 爆烈"
       ],
       "en": [
         "BEYBLADE BURST"
@@ -882,7 +887,7 @@
       {
         "site": "tudou",
         "id": "9OzlvAD4rqw",
-        "begin": "2016-04-04T16:30:00.000Z",
+        "begin": "2016-04-04T16:28:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -892,7 +897,7 @@
       {
         "site": "youku",
         "id": "1f114782e66f11e5b432",
-        "begin": "2016-04-04T16:30:00.000Z",
+        "begin": "2016-04-04T16:28:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -948,13 +953,13 @@
     "lang": "ja",
     "officialSite": "http://re-zero-anime.jp/",
     "begin": "2016-04-03T16:35:00.000Z",
-    "end": "",
+    "end": "2016-09-18T16:35:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bilibili",
         "id": "3461",
-        "begin": "2016-04-03T17:05:00.000Z",
+        "begin": "2016-04-03T18:05:02.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -964,7 +969,7 @@
       {
         "site": "tudou",
         "id": "iF2R9jBUhso",
-        "begin": "2016-04-03T17:05:00.000Z",
+        "begin": "2016-04-03T17:33:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -974,7 +979,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhaer39",
-        "begin": "2016-04-03T17:05:00.000Z",
+        "begin": "2016-04-03T17:43:49.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -984,7 +989,7 @@
       {
         "site": "youku",
         "id": "1b7c90e0e4df11e59e2a",
-        "begin": "2016-04-03T17:05:00.000Z",
+        "begin": "2016-04-03T17:33:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1037,7 +1042,7 @@
       {
         "site": "tudou",
         "id": "QhVq9_HDEl4",
-        "begin": "2016-04-04T11:00:00.000Z",
+        "begin": "2016-04-04T10:57:51.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1047,7 +1052,7 @@
       {
         "site": "youku",
         "id": "587b825ce59e11e5b432",
-        "begin": "2016-04-04T11:00:00.000Z",
+        "begin": "2016-04-04T10:57:51.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1077,7 +1082,7 @@
       {
         "site": "bilibili",
         "id": "3528",
-        "begin": "2016-04-04T11:00:00.000Z",
+        "begin": "2016-04-04T11:00:01.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1123,7 +1128,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhaj2vd",
-        "begin": "2016-04-04T17:15:00.000Z",
+        "begin": "2016-04-04T16:58:31.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1144,7 +1149,7 @@
     "title": "12歳。～ちっちゃなムネのトキメキ～",
     "titleTranslate": {
       "zh-Hans": [
-        "12岁。"
+        "12岁。小小的胸口心跳加速"
       ]
     },
     "lang": "ja",
@@ -1156,7 +1161,7 @@
       {
         "site": "bilibili",
         "id": "3493",
-        "begin": "2016-04-04T10:30:00.000Z",
+        "begin": "2016-04-04T10:30:02.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1186,7 +1191,7 @@
     "lang": "ja",
     "officialSite": "http://www6.nhk.or.jp/anime/program/detail.html?i=webarebears",
     "begin": "2016-04-05T09:30:00.000Z",
-    "end": "",
+    "end": "2016-10-04T09:42:00.000Z",
     "comment": "",
     "sites": []
   },
@@ -1194,7 +1199,8 @@
     "title": "ハンドレッド",
     "titleTranslate": {
       "zh-Hans": [
-        "百武装战记"
+        "百武装战记",
+        "百武装"
       ],
       "en": [
         "HUNDRED"
@@ -1209,7 +1215,7 @@
       {
         "site": "bilibili",
         "id": "3463",
-        "begin": "2016-04-04T18:05:00.000Z",
+        "begin": "2016-04-04T18:05:02.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1219,7 +1225,7 @@
       {
         "site": "tudou",
         "id": "_s4Rzz-KIEw",
-        "begin": "2016-04-04T18:05:00.000Z",
+        "begin": "2016-04-04T16:03:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1229,7 +1235,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhafm1h",
-        "begin": "2016-04-04T18:05:00.000Z",
+        "begin": "2016-04-04T18:00:10.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1239,7 +1245,7 @@
       {
         "site": "youku",
         "id": "8b841e46e4d811e5b432",
-        "begin": "2016-04-04T18:05:00.000Z",
+        "begin": "2016-04-04T16:03:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1280,7 +1286,8 @@
     "title": "ジョーカー・ゲーム",
     "titleTranslate": {
       "zh-Hans": [
-        "JOKER GAME"
+        "JOKER GAME",
+        "鬼牌游戏"
       ],
       "en": [
         "JOKER GAME"
@@ -1295,8 +1302,8 @@
       {
         "site": "bilibili",
         "id": "3537",
-        "begin": "",
-        "official": true,
+        "begin": "2016-04-06T02:47:04.000Z",
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -1305,7 +1312,7 @@
       {
         "site": "youku",
         "id": "79f5e89ce4da11e5a2a2",
-        "begin": "",
+        "begin": "2016-04-06T01:32:41.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1315,7 +1322,7 @@
       {
         "site": "tudou",
         "id": "-Ea_ESJ-e2M",
-        "begin": "",
+        "begin": "2016-04-06T01:32:41.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1358,7 +1365,7 @@
       {
         "site": "bilibili",
         "id": "3377",
-        "begin": "2016-04-05T12:55:00.000Z",
+        "begin": "2016-04-05T12:55:01.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1387,7 +1394,7 @@
       {
         "site": "tudou",
         "id": "hpupBLJCbtk",
-        "begin": "2016-04-05T09:55:00.000Z",
+        "begin": "2016-04-05T09:53:11.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1397,7 +1404,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhaj3bp",
-        "begin": "2016-04-05T09:55:00.000Z",
+        "begin": "2016-04-05T09:50:12.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1407,7 +1414,7 @@
       {
         "site": "bilibili",
         "id": "3532",
-        "begin": "2016-04-05T09:55:00.000Z",
+        "begin": "2016-04-05T13:00:01.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1417,7 +1424,7 @@
       {
         "site": "youku",
         "id": "2cc2fb60e4ed11e59e2a",
-        "begin": "2016-04-05T09:55:00.000Z",
+        "begin": "2016-04-05T09:53:11.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1470,7 +1477,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhaffbt",
-        "begin": "",
+        "begin": "2016-04-04T16:35:08.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1503,7 +1510,7 @@
       {
         "site": "tudou",
         "id": "qiBO_bk7hZY",
-        "begin": "2016-04-05T12:00:00.000Z",
+        "begin": "2016-04-05T10:58:29.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1513,7 +1520,7 @@
       {
         "site": "youku",
         "id": "410affe6e5d311e5b32f",
-        "begin": "2016-04-05T12:00:00.000Z",
+        "begin": "2016-04-05T10:58:29.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1530,7 +1537,8 @@
     "title": "SUPER LOVERS",
     "titleTranslate": {
       "zh-Hans": [
-        "SUPER LOVERS"
+        "SUPER LOVERS",
+        "超级恋人"
       ]
     },
     "lang": "ja",
@@ -1542,7 +1550,7 @@
       {
         "site": "tudou",
         "id": "0At_ddWfzlY",
-        "begin": "2016-04-06T18:05:00.000Z",
+        "begin": "2016-04-06T18:04:11.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1562,7 +1570,7 @@
       {
         "site": "youku",
         "id": "037cd3e6e66611e5b2ad",
-        "begin": "2016-04-06T18:05:00.000Z",
+        "begin": "2016-04-06T18:04:11.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1592,7 +1600,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhak5s9",
-        "begin": "2016-04-06T18:05:00.000Z",
+        "begin": "2016-04-06T18:00:07.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1621,7 +1629,7 @@
       {
         "site": "bilibili",
         "id": "3462",
-        "begin": "2016-04-06T10:25:00.000Z",
+        "begin": "2016-04-06T10:25:01.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1631,7 +1639,7 @@
       {
         "site": "tudou",
         "id": "6YUIGawleII",
-        "begin": "2016-04-06T10:25:00.000Z",
+        "begin": "2016-04-06T10:23:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1641,7 +1649,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhaeqtd",
-        "begin": "2016-04-06T10:25:00.000Z",
+        "begin": "2016-04-06T10:20:12.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1651,7 +1659,7 @@
       {
         "site": "youku",
         "id": "31c53954e34c11e5a2a2",
-        "begin": "2016-04-06T10:25:00.000Z",
+        "begin": "2016-04-06T10:23:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1740,7 +1748,7 @@
     "title": "美少女遊戯ユニット クレーンゲール",
     "titleTranslate": {
       "zh-Hans": [
-        "Crane Game Girl"
+        "Crane Game Girls"
       ],
       "en": [
         "CRANE GALE"
@@ -1755,7 +1763,7 @@
       {
         "site": "bilibili",
         "id": "3478",
-        "begin": "2016-04-06T15:20:00.000Z",
+        "begin": "2016-04-06T15:20:01.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1812,7 +1820,8 @@
     "title": "あんハピ♪",
     "titleTranslate": {
       "zh-Hans": [
-        "Unhappy♪"
+        "Unhappy♪",
+        "Anne Happy♪"
       ],
       "en": [
         "unhappy go lucky!"
@@ -1827,7 +1836,7 @@
       {
         "site": "bilibili",
         "id": "3498",
-        "begin": "2016-04-07T15:00:00.000Z",
+        "begin": "2016-04-07T15:00:01.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1837,7 +1846,7 @@
       {
         "site": "tudou",
         "id": "pbj-DtjHwtk",
-        "begin": "2016-04-07T15:00:00.000Z",
+        "begin": "2016-04-07T15:06:09.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1847,7 +1856,7 @@
       {
         "site": "youku",
         "id": "40d31318e43611e5b32f",
-        "begin": "2016-04-07T15:00:00.000Z",
+        "begin": "2016-04-07T15:06:09.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1867,7 +1876,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhak5wl",
-        "begin": "2016-04-07T15:00:00.000Z",
+        "begin": "2016-04-07T14:50:10.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1876,13 +1885,13 @@
       },
       {
         "site": "pptv",
+        "id": "y9YEg9ibVjMotqxM",
         "begin": "2016-04-07T15:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "url": "http://v.pptv.com/show/9EIurBR66iaiaLCXE.html"
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1898,7 +1907,7 @@
     "title": "ネトゲの嫁は女の子じゃないと思った？",
     "titleTranslate": {
       "zh-Hans": [
-        "线上游戏的老婆不可能是女生"
+        "线上游戏的老婆不可能是女生？"
       ]
     },
     "lang": "ja",
@@ -1910,7 +1919,7 @@
       {
         "site": "bilibili",
         "id": "3495",
-        "begin": "2016-04-07T17:00:00.000Z",
+        "begin": "2016-04-07T17:00:02.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1920,7 +1929,7 @@
       {
         "site": "tudou",
         "id": "eJcUnm1hNF8",
-        "begin": "2016-04-07T17:00:00.000Z",
+        "begin": "2016-04-07T16:57:44.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1940,7 +1949,7 @@
       {
         "site": "youku",
         "id": "450caa42e66711e5b432",
-        "begin": "2016-04-07T17:00:00.000Z",
+        "begin": "2016-04-07T16:57:44.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1950,7 +1959,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhajw3h",
-        "begin": "2016-04-07T17:00:00.000Z",
+        "begin": "2016-04-07T17:14:04.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2026,14 +2035,14 @@
     "lang": "ja",
     "officialSite": "http://kuromukuro.com/",
     "begin": "2016-04-07T12:00:00.000Z",
-    "end": "",
+    "end": "2016-09-29T12:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bilibili",
         "id": "3551",
-        "begin": "2016-04-08T10:30:00.000Z",
-        "official": true,
+        "begin": "2016-04-08T10:17:01.000Z",
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -2085,7 +2094,7 @@
       {
         "site": "bilibili",
         "id": "3454",
-        "begin": "2016-04-06T16:05:00.000Z",
+        "begin": "2016-04-06T16:05:02.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2102,7 +2111,8 @@
     "title": "アイカツスターズ！",
     "titleTranslate": {
       "zh-Hans": [
-        "偶像活动 Stars!"
+        "偶像活动 Stars!",
+        "偶像活动Stars"
       ],
       "en": [
         "Aikatsu Stars!"
@@ -2117,7 +2127,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhajuwx",
-        "begin": "2016-04-07T11:30:00.000Z",
+        "begin": "2016-04-07T11:25:10.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2150,9 +2160,9 @@
       {
         "site": "tudou",
         "id": "ZJWyTGRjdTI",
-        "begin": "2016-04-08T15:00:00.000Z",
+        "begin": "2016-04-08T14:58:00.000Z",
         "official": true,
-        "premuiumOnly": false,
+        "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
@@ -2160,7 +2170,7 @@
       {
         "site": "youku",
         "id": "735de270e37011e5b32f",
-        "begin": "2016-04-08T15:00:00.000Z",
+        "begin": "2016-04-08T14:58:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2193,7 +2203,7 @@
       {
         "site": "bilibili",
         "id": "3450",
-        "begin": "2016-04-08T03:00:00.000Z",
+        "begin": "2016-04-08T03:00:01.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2214,7 +2224,7 @@
     "title": "あはれ！名作くん",
     "titleTranslate": {
       "zh-Hans": [
-        "做得很好!名作君"
+        "做得很好！名作君"
       ]
     },
     "lang": "ja",
@@ -2306,19 +2316,19 @@
     "title": "境界のRINNE(第2シリーズ)",
     "titleTranslate": {
       "zh-Hans": [
-        "境界的轮回 2期"
+        "境界的轮回 第二季"
       ]
     },
     "lang": "ja",
     "officialSite": "http://anime-rinne.com/",
     "begin": "2016-04-09T08:30:00.000Z",
-    "end": "",
+    "end": "2016-09-24T08:55:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "youku",
         "id": "498c224cf7b411e59e2a",
-        "begin": "2016-04-09T11:00:00.000Z",
+        "begin": "2016-04-09T11:12:50.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2328,7 +2338,7 @@
       {
         "site": "tudou",
         "id": "AdJ3cLCWYTw",
-        "begin": "2016-04-09T11:00:00.000Z",
+        "begin": "2016-04-09T11:12:50.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2370,9 +2380,9 @@
       {
         "site": "tudou",
         "id": "DW_RuUDhmw4",
-        "begin": "2016-04-09T15:00:00.000Z",
+        "begin": "2016-04-09T14:58:00.000Z",
         "official": true,
-        "premuiumOnly": false,
+        "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
@@ -2380,7 +2390,7 @@
       {
         "site": "youku",
         "id": "73e55cbee35c11e5b32f",
-        "begin": "2016-04-09T15:00:00.000Z",
+        "begin": "2016-04-09T14:58:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2434,7 +2444,7 @@
       ]
     },
     "lang": "ja",
-    "officialSite": "http://www.flyingwitch.jp/",
+    "officialSite": "http://www.flyingwitch.jp",
     "begin": "2016-04-09T17:25:00.000Z",
     "end": "2016-06-29T17:00:00.000Z",
     "comment": "",
@@ -2442,9 +2452,9 @@
       {
         "site": "tudou",
         "id": "x2MhV5ieFWE",
-        "begin": "2016-04-09T21:00:00.000Z",
+        "begin": "2016-04-09T20:58:00.000Z",
         "official": true,
-        "premuiumOnly": false,
+        "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
@@ -2452,7 +2462,7 @@
       {
         "site": "youku",
         "id": "7a70fd3ee66a11e5b522",
-        "begin": "2016-04-09T21:00:00.000Z",
+        "begin": "2016-04-09T20:58:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2487,7 +2497,7 @@
         "id": "t3Y7sM8bNh0",
         "begin": "2016-04-10T15:15:00.000Z",
         "official": true,
-        "premuiumOnly": false,
+        "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
@@ -2524,7 +2534,7 @@
       {
         "site": "bilibili",
         "id": "3452",
-        "begin": "2016-04-10T16:00:00.000Z",
+        "begin": "2016-04-10T16:00:01.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2560,7 +2570,7 @@
     "title": "ワガママハイスペック",
     "titleTranslate": {
       "zh-Hans": [
-        "任性High-Spec"
+        "任性HighSpec"
       ],
       "en": [
         "WAGAMAMA HIGH SPEC"
@@ -2575,7 +2585,7 @@
       {
         "site": "bilibili",
         "id": "3497",
-        "begin": "2016-04-11T16:10:00.000Z",
+        "begin": "2016-04-11T16:10:02.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2607,7 +2617,7 @@
       {
         "site": "bilibili",
         "id": "3457",
-        "begin": "2016-04-11T16:15:00.000Z",
+        "begin": "2016-04-11T16:15:02.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2636,7 +2646,7 @@
       {
         "site": "bilibili",
         "id": "3466",
-        "begin": "2016-04-15T19:30:00.000Z",
+        "begin": "2016-04-15T19:00:02.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2646,7 +2656,7 @@
       {
         "site": "tudou",
         "id": "27etU3pqjNs",
-        "begin": "2016-04-15T19:30:00.000Z",
+        "begin": "2016-04-15T19:28:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2656,7 +2666,7 @@
       {
         "site": "youku",
         "id": "24da262ce4dd11e5b432",
-        "begin": "2016-04-15T19:30:00.000Z",
+        "begin": "2016-04-15T19:28:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2723,7 +2733,8 @@
     "title": "カミワザ・ワンダ",
     "titleTranslate": {
       "zh-Hans": [
-        "超能旺达"
+        "超能旺达",
+        "神技汪达"
       ],
       "en": [
         "KAMIWAZA WANDA"
@@ -2731,7 +2742,7 @@
     },
     "lang": "ja",
     "officialSite": "http://www.tbs.co.jp/anime/kamiwaza_wanda/",
-    "begin": "2016-04-15T22:00:00.000Z",
+    "begin": "2016-04-22T22:00:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
@@ -2764,7 +2775,7 @@
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/cf-vanguard-g2/",
     "begin": "2016-04-17T01:00:00.000Z",
-    "end": "",
+    "end": "2016-09-25T01:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2801,7 +2812,7 @@
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/spiderman/",
     "begin": "2016-04-05T09:25:00.000Z",
-    "end": "",
+    "end": "2016-09-27T09:55:00.000Z",
     "comment": "",
     "sites": []
   },
@@ -2824,6 +2835,9 @@
     "titleTranslate": {
       "en": [
         "RAGNASTRIKE ANGELS"
+      ],
+      "zh-Hans": [
+        "Ragnastrike Angels"
       ]
     },
     "lang": "ja",
@@ -2831,13 +2845,31 @@
     "begin": "2016-04-02T15:56:00.000Z",
     "end": "2016-06-18T15:57:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "4762",
+        "begin": "2016-06-13T09:28:30.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "175410"
+      }
+    ]
   },
   {
     "title": "ぼのぼの(2016)",
     "titleTranslate": {
       "en": [
         "BONOBONO"
+      ],
+      "zh-Hans": [
+        "暖暖日记"
       ]
     },
     "lang": "ja",
@@ -2845,17 +2877,41 @@
     "begin": "2016-04-01T19:52:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "5615",
+        "begin": "2016-10-22T00:00:10.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "161845"
+      }
+    ]
   },
   {
     "title": "わしも-wasimo-(第4シリーズ)",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "WASIMO 第四季"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://www9.nhk.or.jp/anime/wasimo/",
     "begin": "2016-04-04T09:00:00.000Z",
-    "end": "",
+    "end": "2016-08-30T09:10:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "186594"
+      }
+    ]
   },
   {
     "title": "戒魔人",
@@ -2869,8 +2925,8 @@
       {
         "site": "bilibili",
         "id": "3859",
-        "begin": "",
-        "official": true,
+        "begin": "2016-04-27T03:41:07.000Z",
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -2899,7 +2955,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhaiev5",
-        "begin": "",
+        "begin": "2016-04-27T04:06:21.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2929,7 +2985,7 @@
       {
         "site": "mgtv",
         "id": "292938",
-        "begin": "",
+        "begin": "2016-04-27T02:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,

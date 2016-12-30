@@ -35,7 +35,7 @@
     "lang": "ja",
     "officialSite": "http://mononokean.tv/",
     "begin": "2016-06-28T14:30:00.000Z",
-    "end": "",
+    "end": "2016-09-20T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -64,7 +64,7 @@
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/lego_nexoknights/",
     "begin": "2016-06-11T00:30:00.000Z",
-    "end": "",
+    "end": "2016-10-22T01:00:00.000Z",
     "comment": "",
     "sites": []
   },
@@ -73,6 +73,9 @@
     "titleTranslate": {
       "en": [
         "honobono log"
+      ],
+      "zh-Hans": [
+        "暖心日记"
       ]
     },
     "lang": "ja",
@@ -80,7 +83,12 @@
     "begin": "2016-06-06T15:08:00.000Z",
     "end": "2016-06-17T15:10:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "180670"
+      }
+    ]
   },
   {
     "title": "灵契",

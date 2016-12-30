@@ -59,7 +59,7 @@
         "id": "4d8cce35815111e6b16e",
         "begin": "2016-10-05T15:58:00.000Z",
         "official": true,
-        "premuiumOnly": true,
+        "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
@@ -710,7 +710,7 @@
     },
     "lang": "ja",
     "officialSite": "http://mahoiku.jp/",
-    "begin": "2016-10-03T15:00:00.000Z",
+    "begin": "2016-10-01T15:00:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
@@ -1054,7 +1054,7 @@
     },
     "lang": "ja",
     "officialSite": "http://bbkbrnk.com/",
-    "begin": "2016-10-01T13:00:00.000Z",
+    "begin": "2016-10-01T12:30:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
@@ -1102,7 +1102,7 @@
         "id": "kGyvACa-e4U",
         "begin": "2016-10-01T16:28:00.000Z",
         "official": true,
-        "premuiumOnly": false,
+        "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
@@ -1290,7 +1290,7 @@
       {
         "site": "tudou",
         "id": "0cpgYEhhh8Y",
-        "begin": "2016-10-02T10:30:00.000Z",
+        "begin": "2016-10-02T08:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1300,7 +1300,7 @@
       {
         "site": "youku",
         "id": "2c1e303055f011e5a080",
-        "begin": "2016-10-02T10:30:00.000Z",
+        "begin": "2016-10-02T08:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1357,7 +1357,7 @@
     },
     "lang": "ja",
     "officialSite": "http://magicofstella.com/",
-    "begin": "2016-10-04T15:30:00.000Z",
+    "begin": "2016-10-03T13:30:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
@@ -1445,7 +1445,7 @@
         "id": "fFOR7YTyu3s",
         "begin": "2016-10-07T18:24:00.000Z",
         "official": true,
-        "premuiumOnly": false,
+        "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
@@ -1545,7 +1545,7 @@
     },
     "lang": "ja",
     "officialSite": "http://anime-longriders.com/",
-    "begin": "2016-10-08T13:30:00.000Z",
+    "begin": "2016-10-08T12:00:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
@@ -1604,14 +1604,14 @@
     },
     "lang": "ja",
     "officialSite": "http://www.funewoamu.com/",
-    "begin": "2016-10-13T15:55:00.000Z",
+    "begin": "2016-10-13T16:35:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
       {
         "site": "acfun",
         "id": "1480043",
-        "begin": "2016-10-13T15:55:00.000Z",
+        "begin": "2016-10-13T16:35:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1631,7 +1631,7 @@
       {
         "site": "letv",
         "id": "10030442",
-        "begin": "2016-10-13T15:55:00.000Z",
+        "begin": "2016-10-13T16:35:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1641,7 +1641,7 @@
       {
         "site": "pptv",
         "id": "9ffaWcGbgsAjoQk",
-        "begin": "2016-10-13T15:55:00.000Z",
+        "begin": "2016-10-13T16:35:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1683,7 +1683,7 @@
     },
     "lang": "ja",
     "officialSite": "http://www.udonnokuni-anime.jp/",
-    "begin": "2016-10-08T16:55:00.000Z",
+    "begin": "2016-10-08T17:15:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
@@ -2028,7 +2028,7 @@
     },
     "lang": "ja",
     "officialSite": "http://flipflappers.com/",
-    "begin": "2016-10-06T13:00:00.000Z",
+    "begin": "2016-10-06T12:00:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
@@ -2775,7 +2775,7 @@
         "id": "6b45aa39814e11e6b16e",
         "begin": "2016-10-05T18:49:00.000Z",
         "official": true,
-        "premuiumOnly": true,
+        "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
@@ -2790,7 +2790,8 @@
     "title": "あにトレ！XX～ひとつ屋根の下で～",
     "titleTranslate": {
       "zh-Hans": [
-        "动画锻炼！XX 同一屋檐下"
+        "动画锻炼！XX 同一屋檐下",
+        "动画锻炼！第二季"
       ]
     },
     "lang": "ja",
@@ -2812,7 +2813,7 @@
       {
         "site": "tudou",
         "id": "VRhFLSGyZfY",
-        "begin": "2016-10-05T12:38:44.000Z",
+        "begin": "2016-10-05T13:55:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2822,7 +2823,7 @@
       {
         "site": "youku",
         "id": "599329d9815011e6bdbb",
-        "begin": "2016-10-05T12:38:44.000Z",
+        "begin": "2016-10-05T13:55:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2983,6 +2984,9 @@
     "titleTranslate": {
       "en": [
         "BUNGO STRAY DOGS"
+      ],
+      "zh-Hans": [
+        "文豪野犬 第二季"
       ]
     },
     "lang": "ja",
@@ -2990,7 +2994,22 @@
     "begin": "2016-10-05T16:05:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "ZMibpJ4ic1ZaMGhOw",
+        "begin": "2016-10-06T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "171068"
+      }
+    ]
   },
   {
     "title": "はがねオーケストラ",
@@ -3083,7 +3102,7 @@
       {
         "site": "pptv",
         "id": "CTsVkicth0Q9y8Fg",
-        "begin": "2016-10-04T16:00:00.000Z",
+        "begin": "2016-10-04T02:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -3126,7 +3145,7 @@
         "site": "bilibili",
         "id": "5430",
         "begin": "2016-10-06T02:37:49.000Z",
-        "official": true,
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -3135,7 +3154,7 @@
       {
         "site": "pptv",
         "id": "QvXfXcUrm9k8uiaI",
-        "begin": "2016-10-04T16:00:00.000Z",
+        "begin": "2016-10-04T02:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -3208,7 +3227,7 @@
       {
         "site": "acfun",
         "id": "1480042",
-        "begin": "2016-11-21T01:11:08.000Z",
+        "begin": "2016-10-09T23:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -3241,7 +3260,7 @@
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/lego_ninjago/",
     "begin": "2016-10-29T00:30:00.000Z",
-    "end": "",
+    "end": "2016-11-26T01:00:00.000Z",
     "comment": "",
     "sites": []
   },
@@ -3258,7 +3277,7 @@
     "lang": "ja",
     "officialSite": "http://vcard.ameba.jp/pub/campaign/campaign-2016-1/top",
     "begin": "2016-10-22T13:00:00.000Z",
-    "end": "",
+    "end": "2016-11-05T13:11:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3393,7 +3412,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh9utkd",
-        "begin": "",
+        "begin": "2016-10-09T03:11:52.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -3438,7 +3457,7 @@
       {
         "site": "bilibili",
         "id": "5602",
-        "begin": "",
+        "begin": "2016-10-19T02:27:28.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -3468,7 +3487,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh9sj8d",
-        "begin": "",
+        "begin": "2016-10-19T02:00:11.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -3490,7 +3509,7 @@
         "id": "301580",
         "begin": "",
         "official": true,
-        "premuiumOnly": false,
+        "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""

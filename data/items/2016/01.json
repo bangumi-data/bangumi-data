@@ -32,7 +32,8 @@
     "title": "プリンス・オブ・ストライド オルタナティブ",
     "titleTranslate": {
       "zh-Hans": [
-        "疾走王子"
+        "疾走王子",
+        "疾走王子 Alternative"
       ],
       "en": [
         "PRINCE OF STRIDE ALTERNATIVE"
@@ -405,6 +406,10 @@
     "title": "SUSHI POLICE",
     "titleTranslate": {
       "zh-Hans": [
+        "SUSHI POLICE",
+        "寿司警察"
+      ],
+      "en": [
         "SUSHI POLICE"
       ]
     },
@@ -438,7 +443,7 @@
     "title": "暗殺教室(第2期)",
     "titleTranslate": {
       "zh-Hans": [
-        "暗杀教室 2期"
+        "暗杀教室 第二季"
       ],
       "en": [
         "ASSASSINATION CLASSROOM"
@@ -1040,7 +1045,8 @@
     "title": "GATE 自衛隊 彼の地にて、斯く戦えり(第2クール)",
     "titleTranslate": {
       "zh-Hans": [
-        "GATE 奇幻自卫队 2期"
+        "GATE 奇幻自卫队 2期",
+        "GATE 奇幻自卫队 炎龙篇"
       ]
     },
     "lang": "ja",
@@ -1209,7 +1215,7 @@
     "title": "ラクエンロジック",
     "titleTranslate": {
       "zh-Hans": [
-        "Luck & Logic"
+        "幸运逻辑"
       ],
       "en": [
         "Luck & Logic"
@@ -1265,7 +1271,8 @@
     "title": "Dimension W",
     "titleTranslate": {
       "zh-Hans": [
-        "Dimension W"
+        "Dimension W",
+        "Dimension W -第四次元-"
       ]
     },
     "lang": "ja",
@@ -1329,6 +1336,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "虹色时光"
+      ],
+      "en": [
+        "RAINBOW DAYS"
       ]
     },
     "lang": "ja",
@@ -1603,6 +1613,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "黑之宣告"
+      ],
+      "en": [
+        "Schwarzesmarken"
       ]
     },
     "lang": "ja",
@@ -1685,7 +1698,7 @@
     "title": "赤髪の白雪姫(第2期)",
     "titleTranslate": {
       "zh-Hans": [
-        "赤发白雪姬 2期"
+        "赤发白雪姬 第二季"
       ],
       "en": [
         "Snow White with the Red Hair"
@@ -1791,7 +1804,7 @@
     "title": "闇芝居(第3期)",
     "titleTranslate": {
       "zh-Hans": [
-        "暗芝居 3期"
+        "暗芝居 第三季"
       ]
     },
     "lang": "ja",
@@ -1873,7 +1886,7 @@
     "title": "魔法少女なんてもういいですから。",
     "titleTranslate": {
       "zh-Hans": [
-        "魔法少女什么的已经够了啦"
+        "魔法少女什么的已经够了啦。"
       ]
     },
     "lang": "ja",
@@ -1968,7 +1981,7 @@
     "title": "この素晴らしい世界に祝福を！",
     "titleTranslate": {
       "zh-Hans": [
-        "为美好的世界献上祝福"
+        "为美好的世界献上祝福！"
       ]
     },
     "lang": "ja",
@@ -2098,20 +2111,31 @@
     "titleTranslate": {
       "en": [
         "Awaiting my journey"
+      ],
+      "zh-Hans": [
+        "旅街晚间秀"
       ]
     },
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://www.cwfilms.jp/tabimachi/",
     "begin": "2016-01-08T14:17:00.000Z",
     "end": "2016-01-29T14:30:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "160210"
+      }
+    ]
   },
   {
     "title": "がんばれ！ルルロロ(第3シリーズ)",
     "titleTranslate": {
       "en": [
         "TINY TWIN BEARS"
+      ],
+      "zh-Hans": [
+        "加油！露露落落 第3期"
       ]
     },
     "lang": "ja",
@@ -2119,6 +2143,11 @@
     "begin": "2016-01-20T21:40:00.000Z",
     "end": "2016-03-23T21:45:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "162799"
+      }
+    ]
   }
 ]
