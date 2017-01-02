@@ -22,5 +22,66 @@
     "end": "",
     "comment": "",
     "sites": []
+  },
+  {
+    "title": "殺せんせーＱ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "杀老师Quest！"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.koroq-anime.com/",
+    "begin": "2016-12-22T16:40:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "5830",
+        "begin": "2016-12-22T16:40:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "186072"
+      }
+    ]
+  },
+  {
+    "title": "Fate/Grand Order ‐First Order‐",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Fate/Grand Order ‐First Order‐"
+      ],
+      "en": [
+        "Fate/Grand Order ‐First Order‐"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://anime.fate-go.jp/",
+    "begin": "2016-12-31T15:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "5747",
+        "begin": "2016-12-31T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "196773"
+      }
+    ]
   }
 ]
