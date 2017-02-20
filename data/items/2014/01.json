@@ -2192,19 +2192,31 @@
   },
   {
     "title": "GO!GO!575",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "GO!GO!575"
+      ]
+    },
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://gogo575.sega.jp/",
     "begin": "2014-01-09T16:25:00.000Z",
     "end": "2014-01-30T16:30:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "148072"
+      }
+    ]
   },
   {
     "title": "うーさーのその日暮らし 覚醒編",
     "titleTranslate": {
       "en": [
         "wooser's hand-to-mouth life"
+      ],
+      "zh-Hans": [
+        "兔宝的悲惨日常 觉醒篇"
       ]
     },
     "lang": "ja",
@@ -2212,36 +2224,64 @@
     "begin": "2014-01-07T16:35:00.000Z",
     "end": "2014-03-25T16:40:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "81847"
+      }
+    ]
   },
   {
     "title": "お姉ちゃんが来た",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "姐姐来了"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://www.takeshobo.co.jp/sp/tv_oneechan/",
     "begin": "2014-01-08T18:00:00.000Z",
     "end": "2014-03-26T18:30:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "85557"
+      }
+    ]
   },
   {
     "title": "めいたんていラスカル",
     "titleTranslate": {},
     "lang": "ja",
-    "officialSite": "http://www9.nhk.or.jp/anime/meitantei/",
+    "officialSite": "http://www.araiguma-rascal.com/meitantei/",
     "begin": "2014-01-08T23:55:00.000Z",
     "end": "2014-03-27T00:00:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "92424"
+      }
+    ]
   },
   {
     "title": "地下すぎアイドルあかえちゃん",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "超地下偶像"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://web.music-ru.com/akaechan/",
     "begin": "2014-01-06T16:21:00.000Z",
     "end": "2014-03-31T16:51:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "90840"
+      }
+    ]
   }
 ]

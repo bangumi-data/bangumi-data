@@ -138,6 +138,9 @@
     "titleTranslate": {
       "en": [
         "TINY TWIN BEARS"
+      ],
+      "zh-Hans": [
+        "加油！露露落落 第2期"
       ]
     },
     "lang": "ja",
@@ -145,16 +148,30 @@
     "begin": "2014-09-25T08:25:00.000Z",
     "end": "2015-03-26T08:30:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "112841"
+      }
+    ]
   },
   {
     "title": "ふうせんいぬティニー",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "气球狗迪尼"
+      ]
+    },
     "lang": "ja",
-    "officialSite": "http://www9.nhk.or.jp/anime/tinny/",
+    "officialSite": "http://tinnyballoon.com/animation/",
     "begin": "2014-09-26T08:25:00.000Z",
     "end": "2015-03-27T08:30:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "99092"
+      }
+    ]
   }
 ]

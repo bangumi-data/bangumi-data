@@ -150,5 +150,43 @@
         "id": "334"
       }
     ]
+  },
+  {
+    "title": "Kanon",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Kanon 东映版"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.fujitv.co.jp/jp/b_hp/kanon/index.html",
+    "begin": "2002-01-30T18:25:00.000Z",
+    "end": "2002-03-27T18:55:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1077"
+      }
+    ]
+  },
+  {
+    "title": "七人のナナ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "七人之奈奈"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://web.archive.org/*/http://www.tv-tokyo.co.jp/anime/nana/main_index.html",
+    "begin": "2002-01-10T16:00:00.000Z",
+    "end": "2002-06-27T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "74906"
+      }
+    ]
   }
 ]

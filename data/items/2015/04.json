@@ -2041,23 +2041,6 @@
     ]
   },
   {
-    "title": "レゴ ニンジャゴー",
-    "titleTranslate": {
-      "zh-Hans": [
-        "乐高忍者"
-      ],
-      "en": [
-        "Lego Ninjago Masters of Spinjitzu"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://www.tv-tokyo.co.jp/anime/lego_ninjago/",
-    "begin": "2015-04-06T09:30:00.000Z",
-    "end": "2015-09-28T09:57:00.000Z",
-    "comment": "",
-    "sites": []
-  },
-  {
     "title": "怪盗ジョーカー シーズン2",
     "titleTranslate": {
       "zh-Hans": [
@@ -3355,7 +3338,7 @@
     "title": "秘密結社 鷹の爪 DO",
     "titleTranslate": {},
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://xn--u9j429qiq1a.jp/",
     "begin": "2015-04-03T09:20:00.000Z",
     "end": "2016-03-04T09:55:00.000Z",
     "comment": "",
@@ -3366,6 +3349,9 @@
     "titleTranslate": {
       "en": [
         "GON"
+      ],
+      "zh-Hans": [
+        "小恐龙阿贡 第二季"
       ]
     },
     "lang": "ja",
@@ -3373,47 +3359,81 @@
     "begin": "2015-04-04T00:14:00.000Z",
     "end": "2015-09-26T00:30:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "182784"
+      }
+    ]
   },
   {
     "title": "たまごっち！たまともだいしゅーGO",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "拓麻歌子！拓麻朋友大集合GO"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/tamagotchi/",
     "begin": "2015-04-02T09:00:00.000Z",
     "end": "2015-09-24T09:30:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "130181"
+      }
+    ]
   },
   {
     "title": "銀魂゜",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "银魂°"
+      ]
+    },
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/gintama",
     "begin": "2015-04-08T09:00:00.000Z",
     "end": "2016-03-30T09:30:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "120791"
+      }
+    ]
   },
   {
     "title": "フューチャーカード バディファイト100",
     "titleTranslate": {
       "en": [
         "FUTURE CARD BUDDYFIGHT HUNDRED"
+      ],
+      "zh-Hans": [
+        "未来卡 搭档对战 100"
       ]
     },
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://www.tv-aichi.co.jp/fc-buddyfight100/",
     "begin": "2015-04-10T23:00:00.000Z",
     "end": "2016-03-25T23:30:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "127138"
+      }
+    ]
   },
   {
     "title": "ピカイア！",
     "titleTranslate": {
       "en": [
         "PIKAIA"
+      ],
+      "zh-Hans": [
+        "皮卡虫 续篇"
       ]
     },
     "lang": "ja",
@@ -3421,13 +3441,21 @@
     "begin": "2015-04-29T01:00:00.000Z",
     "end": "2015-07-30T01:15:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "135809"
+      }
+    ]
   },
   {
     "title": "聖闘士星矢 黄金魂 -soul of gold-",
     "titleTranslate": {
       "en": [
         "Saint Seiya -soul of gold-"
+      ],
+      "zh-Hans": [
+        "圣斗士星矢 黄金魂 -soul of gold-"
       ]
     },
     "lang": "ja",
@@ -3435,7 +3463,12 @@
     "begin": "2015-04-10T15:00:00.000Z",
     "end": "2015-09-25T15:24:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "116716"
+      }
+    ]
   },
   {
     "title": "我叫白小飞",

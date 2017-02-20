@@ -3422,16 +3422,6 @@
     ]
   },
   {
-    "title": "PEANUTS スヌーピー-ショートアニメ-",
-    "titleTranslate": {},
-    "lang": "ja",
-    "officialSite": "http://www.tv-tokyo.co.jp/anime/peanuts/index2.html",
-    "begin": "2015-10-03T22:24:00.000Z",
-    "end": "2015-12-26T22:30:00.000Z",
-    "comment": "",
-    "sites": []
-  },
-  {
     "title": "どちゃもん じゅにあ",
     "titleTranslate": {},
     "lang": "ja",
@@ -3439,13 +3429,21 @@
     "begin": "2015-10-05T09:45:00.000Z",
     "end": "2016-02-22T09:55:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "209643"
+      }
+    ]
   },
   {
     "title": "おしりかじり虫(第4シリーズ)",
     "titleTranslate": {
       "en": [
         "bottom biting bug"
+      ],
+      "zh-Hans": [
+        "咬屁屁虫 第四季"
       ]
     },
     "lang": "ja",
@@ -3453,26 +3451,30 @@
     "begin": "2015-10-05T09:25:00.000Z",
     "end": "2015-12-07T09:30:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "209653"
+      }
+    ]
   },
   {
     "title": "猫なんかよんでもこない。",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "为什么猫都叫不来"
+      ]
+    },
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://www.tv-osaka.co.jp/nekoyon/",
     "begin": "2015-10-02T15:54:00.000Z",
     "end": "2015-12-18T16:00:00.000Z",
     "comment": "",
-    "sites": []
-  },
-  {
-    "title": "カード・バトルZERO",
-    "titleTranslate": {},
-    "lang": "ja",
-    "officialSite": "",
-    "begin": "2015-10-25T10:30:00.000Z",
-    "end": "2016-01-17T11:00:00.000Z",
-    "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "148072"
+      }
+    ]
   }
 ]

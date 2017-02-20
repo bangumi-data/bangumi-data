@@ -117,36 +117,62 @@
   },
   {
     "title": "たまごっち！～みらくるフレンズ～",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "拓麻歌子！ Miracle Friends"
+      ]
+    },
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/tamagotchi2013/index2.html",
     "begin": "2013-09-05T09:30:00.000Z",
     "end": "2014-03-27T10:00:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "84056"
+      }
+    ]
   },
   {
     "title": "最強銀河 究極ゼロ ～バトルスピリッツ～",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "最强银河究极ZERO 战斗之魂"
+      ]
+    },
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://www.sunrise-inc.co.jp/battlespirits6/",
     "begin": "2013-09-21T22:00:00.000Z",
     "end": "2014-09-20T22:30:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "79659"
+      }
+    ]
   },
   {
     "title": "おしりかじり虫(第2シリーズ)",
     "titleTranslate": {
       "en": [
         "bottom biting bug"
+      ],
+      "zh-Hans": [
+        "咬屁屁虫 第二季"
       ]
     },
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://www3.nhk.or.jp/anime/oshiri/",
     "begin": "2013-09-30T09:25:00.000Z",
     "end": "2014-03-27T10:00:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "84627"
+      }
+    ]
   }
 ]

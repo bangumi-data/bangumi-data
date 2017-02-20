@@ -233,7 +233,12 @@
     "begin": "2015-01-05T09:00:00.000Z",
     "end": "2015-03-24T09:10:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "183496"
+      }
+    ]
   },
   {
     "title": "ユリ熊嵐",
@@ -2196,20 +2201,6 @@
     ]
   },
   {
-    "title": "スター・ウォーズ 反乱者たち",
-    "titleTranslate": {
-      "zh-Hans": [
-        "星球大战 叛乱者们"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://www.disney.co.jp/tv/xd/program/sp/rebels.html",
-    "begin": "2015-01-24T10:00:00.000Z",
-    "end": "",
-    "comment": "",
-    "sites": []
-  },
-  {
     "title": "ISUCA",
     "titleTranslate": {
       "zh-Hans": [
@@ -2277,13 +2268,21 @@
     "titleTranslate": {
       "en": [
         "Go! PRINCESS PRECURE"
+      ],
+      "zh-Hans": [
+        "Go! Princess 光之美少女"
       ]
     },
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://www.toei-anim.co.jp/tv/princess_precure",
     "begin": "2015-01-31T23:30:00.000Z",
     "end": "2016-01-31T00:00:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "119279"
+      }
+    ]
   }
 ]

@@ -7,7 +7,12 @@
     "begin": "2013-05-09T15:00:00.000Z",
     "end": "2013-10-03T15:50:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "209663"
+      }
+    ]
   },
   {
     "title": "イナズマイレブンGO ギャラクシー",
@@ -25,6 +30,28 @@
       {
         "site": "bangumi",
         "id": "72651"
+      }
+    ]
+  },
+  {
+    "title": "天使のどろっぷ",
+    "titleTranslate": {
+      "en": [
+        "Angel's Drop"
+      ],
+      "zh-Hans": [
+        "天使的水果糖"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://comic-meteor.jp/sp/tendoro/",
+    "begin": "2013-05-12T16:00:00.000Z",
+    "end": "2013-05-12T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "56118"
       }
     ]
   }

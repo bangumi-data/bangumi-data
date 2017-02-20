@@ -3246,23 +3246,40 @@
     "begin": "2014-04-01T09:45:00.000Z",
     "end": "2015-02-10T09:55:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "101265"
+      }
+    ]
   },
   {
     "title": "くつだる。",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "东京妖怪图鉴"
+      ]
+    },
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://www.nhk.or.jp/anime/kutsudaru/",
     "begin": "2014-04-02T09:45:00.000Z",
     "end": "2015-09-16T09:55:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "97122"
+      }
+    ]
   },
   {
     "title": "デュエル・マスターズ VS",
     "titleTranslate": {
       "en": [
         "DUEL MASTERS VERSUS"
+      ],
+      "zh-Hans": [
+        "决斗大师VS"
       ]
     },
     "lang": "ja",
@@ -3270,7 +3287,12 @@
     "begin": "2014-04-04T23:30:00.000Z",
     "end": "2015-03-28T00:00:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "175430"
+      }
+    ]
   },
   {
     "title": "カリーノ・コニ",
@@ -3284,36 +3306,40 @@
     "begin": "2014-04-01T16:55:00.000Z",
     "end": "2014-09-30T16:40:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "101287"
+      }
+    ]
   },
   {
     "title": "秘密結社 鷹の爪 エクストリーム",
     "titleTranslate": {},
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://xn--u9j429qiq1a.jp/",
     "begin": "2014-04-11T09:20:00.000Z",
     "end": "2015-03-06T09:55:00.000Z",
     "comment": "",
     "sites": []
   },
   {
-    "title": "ロボカーポリー(第2期)",
-    "titleTranslate": {},
-    "lang": "ja",
-    "officialSite": "",
-    "begin": "2014-04-01T22:30:00.000Z",
-    "end": "2014-09-23T23:00:00.000Z",
-    "comment": "",
-    "sites": []
-  },
-  {
     "title": "猫のダヤン",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "猫咪达洋"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://anime-dayan.com/",
     "begin": "2014-04-25T22:00:00.000Z",
     "end": "2015-04-24T22:05:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "101269"
+      }
+    ]
   }
 ]

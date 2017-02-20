@@ -2229,14 +2229,22 @@
     "titleTranslate": {
       "en": [
         "Calimero"
+      ],
+      "zh-Hans": [
+        "卡里麦罗"
       ]
     },
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/calimero/",
     "begin": "2014-10-06T22:30:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "113658"
+      }
+    ]
   },
   {
     "title": "こんな私たちがなりゆきでヒロインになった結果www",
@@ -2246,13 +2254,21 @@
     "begin": "2014-10-06T16:05:00.000Z",
     "end": "2014-12-22T16:20:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "120086"
+      }
+    ]
   },
   {
     "title": "おしりかじり虫(第3シリーズ)",
     "titleTranslate": {
       "en": [
         "bottom biting bug"
+      ],
+      "zh-Hans": [
+        "咬屁屁虫 第三季"
       ]
     },
     "lang": "ja",
@@ -2260,21 +2276,34 @@
     "begin": "2014-10-06T09:25:00.000Z",
     "end": "2014-12-08T09:30:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "115050"
+      }
+    ]
   },
   {
     "title": "カードファイト!! ヴァンガードG",
     "titleTranslate": {
       "en": [
         "CARDFIGHT!! Vanguard G"
+      ],
+      "zh-Hans": [
+        "卡片战斗先导者G"
       ]
     },
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/cf-vanguard-g/",
     "begin": "2014-10-26T01:00:00.000Z",
     "end": "2015-10-04T01:30:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "115204"
+      }
+    ]
   },
   {
     "title": "ナノ・インベーダーズ",
@@ -2284,10 +2313,15 @@
       ]
     },
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/nano_invaders/index2.html",
     "begin": "2014-10-09T23:00:00.000Z",
     "end": "2015-10-03T22:00:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "209662"
+      }
+    ]
   }
 ]

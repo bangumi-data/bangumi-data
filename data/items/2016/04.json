@@ -1179,23 +1179,6 @@
     ]
   },
   {
-    "title": "ぼくらベアベアーズ",
-    "titleTranslate": {
-      "zh-Hans": [
-        "我们裸熊 日版"
-      ],
-      "en": [
-        "We Bare Bears"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://www6.nhk.or.jp/anime/program/detail.html?i=webarebears",
-    "begin": "2016-04-05T09:30:00.000Z",
-    "end": "2016-10-04T09:42:00.000Z",
-    "comment": "",
-    "sites": []
-  },
-  {
     "title": "ハンドレッド",
     "titleTranslate": {
       "zh-Hans": [
@@ -1769,7 +1752,12 @@
     "begin": "2016-04-07T12:00:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "181834"
+      }
+    ]
   },
   {
     "title": "甲鉄城のカバネリ",
@@ -2796,30 +2784,6 @@
         "id": "170044"
       }
     ]
-  },
-  {
-    "title": "アルティメット・スパイダーマン VS シニスター・シックス",
-    "titleTranslate": {},
-    "lang": "ja",
-    "officialSite": "http://www.tv-tokyo.co.jp/anime/spiderman/",
-    "begin": "2016-04-05T09:25:00.000Z",
-    "end": "2016-09-27T09:55:00.000Z",
-    "comment": "",
-    "sites": []
-  },
-  {
-    "title": "レゴ ニンジャゴー(天空の海賊編)",
-    "titleTranslate": {
-      "en": [
-        "Lego Ninjago"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://www.tv-tokyo.co.jp/anime/lego_ninjago/",
-    "begin": "2016-04-02T00:30:00.000Z",
-    "end": "2016-06-04T01:00:00.000Z",
-    "comment": "",
-    "sites": []
   },
   {
     "title": "ラグナストライクエンジェルズ",
