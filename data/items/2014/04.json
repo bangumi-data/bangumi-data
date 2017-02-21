@@ -167,7 +167,7 @@
     "title": "ジョジョの奇妙な冒険 スターダストクルセイダース",
     "titleTranslate": {
       "zh-Hans": [
-        "JOJO的奇妙冒险 第三部 Stardust Crusaders"
+        "JOJO的奇妙冒险 星尘斗士"
       ],
       "en": [
         "JOJO'S BIZARRE ADVENTURE STARDUST CRUSADERS"
@@ -368,7 +368,7 @@
     "title": "selector infected WIXOSS",
     "titleTranslate": {
       "zh-Hans": [
-        "选择感染者 WIXOSS"
+        "选择感染者WIXOSS"
       ]
     },
     "lang": "ja",
@@ -421,6 +421,7 @@
     "title": "ブレイドアンドソウル",
     "titleTranslate": {
       "zh-Hans": [
+        "剑灵",
         "洪门剑灵传说"
       ],
       "en": [
@@ -564,7 +565,7 @@
     "title": "星刻の竜騎士",
     "titleTranslate": {
       "zh-Hans": [
-        "星刻龙骑士"
+        "星刻的龙骑士"
       ]
     },
     "lang": "ja",
@@ -665,6 +666,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "迷你偶像 2期"
+      ],
+      "en": [
+        "PUCHIMAS!!-PETIT PETIT IDOLM@STER-"
       ]
     },
     "lang": "ja",
@@ -828,7 +832,7 @@
     "title": "FAIRY TAIL(第2期)",
     "titleTranslate": {
       "zh-Hans": [
-        "妖精的尾巴 2期"
+        "妖精的尾巴 第二季"
       ],
       "en": [
         "FAIRY TAIL"
@@ -864,7 +868,7 @@
     "title": "プリティーリズム・オールスターセレクション",
     "titleTranslate": {
       "zh-Hans": [
-        "美妙旋律All Star"
+        "美妙旋律 All Star Selection"
       ],
       "en": [
         "Pretty Rhythm All Star Selection"
@@ -1083,6 +1087,7 @@
     "title": "彼女がフラグをおられたら",
     "titleTranslate": {
       "zh-Hans": [
+        "如果她的旗帜被折断了",
         "如果折断她的旗"
       ]
     },
@@ -1488,7 +1493,7 @@
     "title": "一週間フレンズ。",
     "titleTranslate": {
       "zh-Hans": [
-        "一周的朋友"
+        "一周的朋友。"
       ],
       "en": [
         "ONE WEEK FRIENDS"
@@ -2231,6 +2236,7 @@
     "title": "マンガ家さんとアシスタントさんと",
     "titleTranslate": {
       "zh-Hans": [
+        "漫画家和助手",
         "漫画家与助手"
       ],
       "en": [
@@ -2288,7 +2294,8 @@
     "title": "ノーゲーム・ノーライフ",
     "titleTranslate": {
       "zh-Hans": [
-        "游戏人生"
+        "游戏人生",
+        "NO GAME NO LIFE 游戏人生"
       ],
       "en": [
         "NO GAME NO LIFE"
@@ -2455,7 +2462,7 @@
     "title": "エスカ＆ロジーのアトリエ ～黄昏の空の錬金術士～",
     "titleTranslate": {
       "zh-Hans": [
-        "艾斯卡与罗吉的工作室 黄昏之空的炼金术士"
+        "艾斯卡与罗吉的工作室～黄昏之空的炼金术士～"
       ],
       "en": [
         "Atelier Escha & Logy : Alchemists of the Dusk Sky"
@@ -2868,7 +2875,7 @@
     "title": "デート・ア・ライブII",
     "titleTranslate": {
       "zh-Hans": [
-        "约会大作战Ⅱ"
+        "约会大作战 第二季"
       ],
       "en": [
         "DATE A LIVE"
@@ -3002,7 +3009,8 @@
     "title": "M3-ソノ黒キ鋼-",
     "titleTranslate": {
       "zh-Hans": [
-        "M3 ~黑钢~"
+        "M3 ~黑钢~",
+        "M3～黑色之钢～"
       ]
     },
     "lang": "ja",
@@ -3065,7 +3073,7 @@
     "title": "GO‐GO たまごっち！",
     "titleTranslate": {
       "zh-Hans": [
-        " GOGO拓麻歌子 2期"
+        "GO-GO 拓麻歌子！"
       ],
       "en": [
         "GO‐GO Tamagotchi !"
@@ -3339,6 +3347,59 @@
       {
         "site": "bangumi",
         "id": "101269"
+      }
+    ]
+  },
+  {
+    "title": "Go!Go!家電男子 シーズン2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "GO！GO！家电男子2"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://kadendanshi.com/",
+    "begin": "2014-04-29T08:59:00.000Z",
+    "end": "2014-04-29T09:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "102554"
+      }
+    ]
+  },
+  {
+    "title": "ポケットモンスター XY特別編 最強メガシンカ～ActIII～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "精灵宝可梦XY特别篇 最强Mega进化"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/pokemon_xy_me/",
+    "begin": "2014-04-03T16:00:00.000Z",
+    "end": "2015-10-29T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "99889"
+      }
+    ]
+  },
+  {
+    "title": "ワールドフールニュース",
+    "titleTranslate": {},
+    "lang": "ja",
+    "officialSite": "http://www.gtv.co.jp/program/animation/wfn/",
+    "begin": "2014-04-24T16:00:00.000Z",
+    "end": "2014-07-03T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "99889"
       }
     ]
   }

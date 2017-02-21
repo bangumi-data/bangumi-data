@@ -17,7 +17,7 @@
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
-      }, 
+      },
       {
         "site": "bilibili",
         "id": "3217",
@@ -281,6 +281,44 @@
       {
         "site": "bangumi",
         "id": "162747"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士ガンダム サンダーボルト",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达 雷霆宙域"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://gundam-tb.net/",
+    "begin": "2015-12-25T16:00:00.000Z",
+    "end": "2016-04-22T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "151345"
+      }
+    ]
+  },
+  {
+    "title": "ワンピース～アドベンチャー オブ ネブランディア～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海贼王 特别篇 雾之岛的冒险"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "https://one-piece.com/news/detail/20151109_2963",
+    "begin": "2015-12-19T16:00:00.000Z",
+    "end": "2015-12-19T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "154112"
       }
     ]
   }

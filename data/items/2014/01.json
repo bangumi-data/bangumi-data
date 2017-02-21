@@ -76,7 +76,8 @@
     "title": "最近、妹のようすがちょっとおかしいんだが。",
     "titleTranslate": {
       "zh-Hans": [
-        "最近妹妹的样子有点怪"
+        "最近妹妹的样子有点怪",
+        "最近我的妹妹有点怪"
       ],
       "en": [
         "Recently, my sister is unusual."
@@ -190,6 +191,7 @@
     "title": "スペース☆ダンディ",
     "titleTranslate": {
       "zh-Hans": [
+        "太空丹迪",
         "Space☆Dandy"
       ],
       "en": [
@@ -675,6 +677,7 @@
     "title": "となりの関くん",
     "titleTranslate": {
       "zh-Hans": [
+        "上课小动作",
         "邻座同学是怪咖"
       ]
     },
@@ -1088,6 +1091,7 @@
     "title": "ハマトラ THE ANIMATION",
     "titleTranslate": {
       "zh-Hans": [
+        "滨虎",
         "浜虎"
       ],
       "en": [
@@ -1155,7 +1159,7 @@
     "title": "銀の匙 Silver Spoon(第2期)",
     "titleTranslate": {
       "zh-Hans": [
-        "银之匙 2期"
+        "银之匙 Silver Spoon 第二季"
       ]
     },
     "lang": "ja",
@@ -1694,6 +1698,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "Wake Up, Girls!"
+      ],
+      "en": [
+        "Wake Up, Girls!"
       ]
     },
     "lang": "ja",
@@ -1949,7 +1956,8 @@
     "title": "ウィザード・バリスターズ～弁魔士セシル",
     "titleTranslate": {
       "zh-Hans": [
-        "弁魔士塞西尔"
+        "弁魔士塞西尔",
+        "弁魔士圣知"
       ],
       "en": [
         "WIZARD BARRISTERS"
@@ -2025,6 +2033,7 @@
     "title": "てさぐれ！部活もの あんこーる",
     "titleTranslate": {
       "zh-Hans": [
+        "摸索吧！部活剧 再来一个",
         "摸索吧！部活剧 Encore"
       ]
     },
@@ -2085,6 +2094,7 @@
     "title": "いなり、こんこん、恋いろは。",
     "titleTranslate": {
       "zh-Hans": [
+        "稻荷恋之歌",
         "狐仙的恋爱入门"
       ]
     },
@@ -2140,6 +2150,7 @@
     "title": "マケン姫っ！通",
     "titleTranslate": {
       "zh-Hans": [
+        "魔具少女！通",
         "魔剑姬! 通"
       ],
       "en": [
@@ -2281,6 +2292,66 @@
       {
         "site": "bangumi",
         "id": "90840"
+      }
+    ]
+  },
+  {
+    "title": "47都道府犬R",
+    "titleTranslate": {
+      "zh-Hans": [
+        "47都道府犬R"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.ntv.co.jp/inuneko/dog/",
+    "begin": "2014-01-11T18:45:00.000Z",
+    "end": "2014-03-29T18:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "90899"
+      }
+    ]
+  },
+  {
+    "title": "にゃ～めん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "猫拉面"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.ntv.co.jp/inuneko/cat/",
+    "begin": "2014-01-11T18:45:00.000Z",
+    "end": "2014-03-29T18:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "93345"
+      }
+    ]
+  },
+  {
+    "title": "ロボットガールズZ",
+    "titleTranslate": {
+      "en": [
+        "ROBOT GIRLS Z"
+      ],
+      "zh-Hans": [
+        "机器人少女Z"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.robot-girlsz.com/",
+    "begin": "2014-01-04T15:50:00.000Z",
+    "end": "2015-02-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "79350"
       }
     ]
   }
