@@ -913,13 +913,42 @@
     },
     "lang": "ja",
     "officialSite": "http://hai-tai.jp/",
-    "begin": "2013-08-04T09:25:00.000Z",
-    "end": "2013-10-27T09:30:00.000Z",
+    "begin": "2013-04-06T09:25:00.000Z",
+    "end": "2013-06-29T09:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "66693"
+      }
+    ]
+  },
+  {
+    "title": "Steins;Gate 負荷領域のデジャヴ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "命运石之门 负荷领域的既视感"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://steinsgate-movie.jp/",
+    "begin": "2013-04-20T16:00:00.000Z",
+    "end": "2013-04-20T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "mgtv",
+        "id": "291731",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "23119"
       }
     ]
   }

@@ -58,5 +58,37 @@
         "id": "1926"
       }
     ]
+  },
+  {
+    "title": "東京ゴッドファーザーズ",
+    "titleTranslate": {
+      "en": [
+        "Tokyo Godfathers"
+      ],
+      "zh-Hans": [
+        "东京教父"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.sonypictures.jp/archive/movie/worldcinema/tgf/",
+    "begin": "2003-11-08T16:00:00.000Z",
+    "end": "2003-11-08T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "mgtv",
+        "id": "157295",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "842"
+      }
+    ]
   }
 ]

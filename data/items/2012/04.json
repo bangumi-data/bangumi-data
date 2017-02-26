@@ -668,6 +668,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "mgtv",
+        "id": "291599",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "29426"
       }
@@ -864,8 +874,47 @@
     "comment": "",
     "sites": [
       {
+        "site": "mgtv",
+        "id": "12032",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "23684"
+      }
+    ]
+  },
+  {
+    "title": "新テニスの王子様 OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新网球王子OVA"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/shin-tenipri/index.html",
+    "begin": "2012-04-20T16:00:00.000Z",
+    "end": "2013-04-24T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "mgtv",
+        "id": "51459",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "40249"
       }
     ]
   }

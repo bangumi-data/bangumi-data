@@ -280,9 +280,19 @@
     "comment": "",
     "sites": [
       {
+        "site": "mgtv",
+        "id": "292379",
+        "begin": "2016-04-02T11:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "tudou",
         "id": "rEbbsqzQVVU",
-        "begin": "2016-04-02T10:58:21.000Z",
+        "begin": "2016-04-02T11:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -292,7 +302,7 @@
       {
         "site": "youku",
         "id": "c306dcc2e59711e5a080",
-        "begin": "2016-04-02T10:58:21.000Z",
+        "begin": "2016-04-02T11:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -312,7 +322,7 @@
       {
         "site": "bilibili",
         "id": "3527",
-        "begin": "2016-04-02T11:00:01.000Z",
+        "begin": "2016-04-02T11:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -332,7 +342,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhaix5t",
-        "begin": "2016-04-02T10:55:05.000Z",
+        "begin": "2016-04-02T11:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
