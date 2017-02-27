@@ -725,7 +725,7 @@
       {
         "site": "mgtv",
         "id": "168359",
-        "begin": "",
+        "begin": "2016-01-08T02:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1024,7 +1024,7 @@
       {
         "site": "bilibili",
         "id": "3297",
-        "begin": "",
+        "begin": "2016-01-08T16:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2050,7 +2050,7 @@
       {
         "site": "bilibili",
         "id": "3105",
-        "begin": "",
+        "begin": "2016-01-14T16:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2060,7 +2060,7 @@
       {
         "site": "youku",
         "id": "d8eb7ab6a88411e5b432",
-        "begin": "",
+        "begin": "2016-01-16T03:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2070,7 +2070,7 @@
       {
         "site": "tudou",
         "id": "hPSoTYCAUoY",
-        "begin": "",
+        "begin": "2016-01-16T03:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2160,13 +2160,52 @@
     },
     "lang": "ja",
     "officialSite": "",
-    "begin": "2015-12-19T16:00:00.000Z",
-    "end": "2015-12-19T16:30:00.000Z",
+    "begin": "2016-01-08T16:00:00.000Z",
+    "end": "2016-01-08T16:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "160674"
+      }
+    ]
+  },
+  {
+    "title": "傷物語I 鉄血篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "伤物语I 铁血篇"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.kizumonogatari-movie.com/",
+    "begin": "2016-01-08T16:00:00.000Z",
+    "end": "2016-01-08T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "youku",
+        "id": "58708bb2e36f11e5b2ad",
+        "begin": "2016-08-09T11:42:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "tudou",
+        "id": "T6pfZJIY0Lg",
+        "begin": "2016-08-09T11:42:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "7707"
       }
     ]
   }
