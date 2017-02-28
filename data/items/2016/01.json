@@ -1022,6 +1022,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "acfun",
+        "id": "1470425",
+        "begin": "2016-01-08T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bilibili",
         "id": "3297",
         "begin": "2016-01-08T16:00:00.000Z",
@@ -1762,7 +1772,7 @@
       },
       {
         "site": "acfun",
-        "id": "1470308",
+        "id": "1470431",
         "begin": "2016-01-11T18:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -2048,9 +2058,19 @@
     "comment": "",
     "sites": [
       {
+        "site": "acfun",
+        "id": "1470432",
+        "begin": "2016-01-16T03:30:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bilibili",
         "id": "3105",
-        "begin": "2016-01-14T16:00:00.000Z",
+        "begin": "2016-01-16T03:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2080,7 +2100,7 @@
       {
         "site": "pptv",
         "id": "FiaQQjvZczApt61M",
-        "begin": "",
+        "begin": "2016-01-16T03:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,

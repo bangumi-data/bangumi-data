@@ -31,12 +31,41 @@
     "lang": "ja",
     "officialSite": "http://lupin-3rd.net/sakuhin_tvsp.html",
     "begin": "2010-02-12T16:00:00.000Z",
-    "end": "2010-02-12T16:00:00.000Z",
+    "end": "2010-02-12T16:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "49313"
+      }
+    ]
+  },
+  {
+    "title": "ちーすい丸",
+    "titleTranslate": {
+      "zh-Hans": [
+        "吸血丸"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://lupin-3rd.net/sakuhin_tvsp.html",
+    "begin": "2010-02-06T16:00:00.000Z",
+    "end": "2010-11-26T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "acfun",
+        "id": "1463012",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "46076"
       }
     ]
   }
