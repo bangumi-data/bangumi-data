@@ -168,6 +168,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "sohu",
+        "id": "s2011/mfjsml2",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "7843"
       }
@@ -543,6 +553,35 @@
       {
         "site": "bangumi",
         "id": "8392"
+      }
+    ]
+  },
+  {
+    "title": "IRON MAN",
+    "titleTranslate": {
+      "zh-Hans": [
+        "钢铁侠"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.animax.co.jp/marvelanime/",
+    "begin": "2010-10-01T16:00:00.000Z",
+    "end": "2010-12-17T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "sohu",
+        "id": "s2013/ironman",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "8543"
       }
     ]
   }

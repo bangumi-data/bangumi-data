@@ -57,7 +57,7 @@
     "sites": [
       {
         "site": "sohu",
-        "id": "s2013/jjdbf/",
+        "id": "s2013/jjdbf",
         "begin": "2013-10-02T19:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -291,7 +291,7 @@
       },
       {
         "site": "sohu",
-        "id": "s2013/jsxh/",
+        "id": "s2013/jsxh",
         "begin": "",
         "official": true,
         "premuiumOnly": false,
@@ -1757,7 +1757,7 @@
     "sites": [
       {
         "site": "sohu",
-        "id": "s2013/blazblue1/",
+        "id": "s2013/blazblue1",
         "begin": "2013-10-08T20:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -2050,6 +2050,7 @@
     "title": "ポケットモンスター エックスワイ",
     "titleTranslate": {
       "zh-Hans": [
+        "精灵宝可梦XY",
         "口袋妖怪 XY"
       ],
       "en": [
@@ -2062,6 +2063,16 @@
     "end": "2015-10-22T10:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "sohu",
+        "id": "s2016/jlbkmxy1",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "mgtv",
         "id": "167671",

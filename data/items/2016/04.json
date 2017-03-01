@@ -280,6 +280,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "sohu",
+        "id": "s2016/dhpnzcp",
+        "begin": "2016-04-02T11:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "mgtv",
         "id": "292379",
         "begin": "2016-04-02T11:00:00.000Z",
@@ -3012,7 +3022,7 @@
       },
       {
         "site": "sohu",
-        "id": "s2016/dhpmojier/",
+        "id": "s2016/dhpmojier",
         "begin": "",
         "official": true,
         "premuiumOnly": false,

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "ドラえもん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦",
+        "哆啦A梦 大山版"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.tv-asahi.co.jp/doraemon/",
+    "begin": "1979-04-02T10:00:00.000Z",
+    "end": "2005-03-25T10:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "sohu",
+        "id": "s2011/dhpjqm",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "18692"
+      }
+    ]
+  }
+]

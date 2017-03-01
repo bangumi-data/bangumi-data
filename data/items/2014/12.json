@@ -14,7 +14,7 @@
     "sites": [
       {
         "site": "sohu",
-        "id": "s2014/dhppwy/",
+        "id": "s2014/dhppwy",
         "begin": "2015-01-01T01:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -118,6 +118,35 @@
         "id": "303219",
         "begin": "",
         "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "105155"
+      }
+    ]
+  },
+  {
+    "title": "江戸川コナン失踪事件～史上最悪の二日間～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "江户川柯南失踪事件～史上最糟糕的两天～"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.ytv.co.jp/conan/sp2014/",
+    "begin": "2014-12-26T16:00:00.000Z",
+    "end": "2014-12-26T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "sohu",
+        "id": "s2016/mztknjhcszaj",
+        "begin": "",
+        "official": true,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",

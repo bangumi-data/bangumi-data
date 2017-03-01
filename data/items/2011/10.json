@@ -3,7 +3,8 @@
     "title": "HUNTER×HUNTER(2011)",
     "titleTranslate": {
       "zh-Hans": [
-        "猎人"
+        "猎人",
+        "全职猎人"
       ],
       "en": [
         "HUNTER×HUNTER"
@@ -17,7 +18,7 @@
     "sites": [
       {
         "site": "sohu",
-        "id": "s2012/hunter/",
+        "id": "s2012/hunter",
         "begin": "2011-10-02T20:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -312,7 +313,8 @@
     "title": "ちはやふる",
     "titleTranslate": {
       "zh-Hans": [
-        "歌牌情缘"
+        "歌牌情缘",
+        "花牌情缘"
       ]
     },
     "lang": "ja",
@@ -321,6 +323,16 @@
     "end": "2012-03-27T16:49:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "sohu",
+        "id": "s2012/hpqy",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "18294"

@@ -161,7 +161,8 @@
     "title": "カードキャプターさくら",
     "titleTranslate": {
       "zh-Hans": [
-        "魔卡少女樱"
+        "魔卡少女樱",
+        "百变小樱"
       ]
     },
     "lang": "ja",
@@ -170,6 +171,16 @@
     "end": "2000-03-21T16:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "sohu",
+        "id": "s2014/mksny",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "mgtv",
         "id": "102776",

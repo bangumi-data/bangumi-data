@@ -260,7 +260,7 @@
       },
       {
         "site": "sohu",
-        "id": "s2014/djsz/",
+        "id": "s2014/djsz",
         "begin": "2014-07-03T16:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -397,7 +397,7 @@
     "sites": [
       {
         "site": "sohu",
-        "id": "s2014/railwars/",
+        "id": "s2014/railwars",
         "begin": "2014-07-04T17:15:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -519,7 +519,7 @@
     "sites": [
       {
         "site": "sohu",
-        "id": "s2014/msnzsc/",
+        "id": "s2014/msnzsc",
         "begin": "2014-07-05T12:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -731,6 +731,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "sohu",
+        "id": "s2014/scyxs",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bilibili",
         "id": "4074",
         "begin": "2014-07-06T17:00:00.000Z",
@@ -752,7 +762,7 @@
       },
       {
         "site": "sohu",
-        "id": "s2014/scyxs/",
+        "id": "s2014/scyxs",
         "begin": "2014-07-06T17:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -894,7 +904,7 @@
       },
       {
         "site": "sohu",
-        "id": "s2014/zchzt/",
+        "id": "s2014/zchzt",
         "begin": "2014-07-06T16:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -1046,7 +1056,7 @@
       },
       {
         "site": "sohu",
-        "id": "s2014/basara3/",
+        "id": "s2014/basara3",
         "begin": "2014-07-05T19:50:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -1449,7 +1459,7 @@
       },
       {
         "site": "sohu",
-        "id": "s2014/yksnyqtx/",
+        "id": "s2014/yksnyqtx",
         "begin": "2014-07-06T17:05:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -1543,7 +1553,7 @@
       },
       {
         "site": "sohu",
-        "id": "s2014/dramaticalmurder/",
+        "id": "s2014/dramaticalmurder",
         "begin": "2014-07-06T17:35:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -1740,7 +1750,7 @@
     "sites": [
       {
         "site": "sohu",
-        "id": "s2014/qjbdssn2/",
+        "id": "s2014/qjbdssn2",
         "begin": "2014-07-09T16:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -2196,7 +2206,7 @@
     "sites": [
       {
         "site": "sohu",
-        "id": "s2014/spfjdqlz/",
+        "id": "s2014/spfjdqlz",
         "begin": "2014-07-11T19:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -2234,6 +2244,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "sohu",
+        "id": "s2014/xcxzq",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "youku",
         "id": "add9096ed8ed11e38b3f",
         "begin": "",
@@ -2255,7 +2275,7 @@
       },
       {
         "site": "sohu",
-        "id": "s2014/xcxzq/",
+        "id": "s2014/xcxzq",
         "begin": "",
         "official": true,
         "premuiumOnly": false,
@@ -2291,7 +2311,7 @@
     "sites": [
       {
         "site": "sohu",
-        "id": "s2014/jlsdjw/",
+        "id": "s2014/jlsdjw",
         "begin": "2014-07-14T19:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -2402,6 +2422,35 @@
       {
         "site": "bangumi",
         "id": "101107"
+      }
+    ]
+  },
+  {
+    "title": "スシニンジャ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "寿司忍者"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.sushininja.jp/",
+    "begin": "2014-07-03T16:00:00.000Z",
+    "end": "2014-11-28T16:05:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "sohu",
+        "id": "s2015/ssrz",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "134334"
       }
     ]
   }
