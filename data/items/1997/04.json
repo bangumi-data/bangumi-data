@@ -141,7 +141,8 @@
     "title": "中華一番！",
     "titleTranslate": {
       "zh-Hans": [
-        "中华一番！"
+        "中华一番！",
+        "中华小当家"
       ]
     },
     "lang": "ja",
@@ -150,6 +151,16 @@
     "end": "1998-09-13T16:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "letv",
+        "id": "46119",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "1934"

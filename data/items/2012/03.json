@@ -32,6 +32,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "72997",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "29072"
       }
@@ -160,8 +170,105 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "76279",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "39303"
+      }
+    ]
+  },
+  {
+    "title": "ストライクウィッチーズ 劇場版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "强袭魔女 剧场版"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://s-witch.cute.or.jp/movie/",
+    "begin": "2012-03-17T16:00:00.000Z",
+    "end": "2012-03-17T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "83122",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "18016"
+      }
+    ]
+  },
+  {
+    "title": "映画 プリキュアオールスターズNewStage みらいのともだち",
+    "titleTranslate": {
+      "zh-Hans": [
+        "光之美少女全明星 New Stage 未来的朋友"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.precure-allstars.com/",
+    "begin": "2012-03-17T16:00:00.000Z",
+    "end": "2012-03-17T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "79497",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "37855"
+      }
+    ]
+  },
+  {
+    "title": "ドラえもん のび太と奇跡の島 ～アニマル アドベンチャー～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦 大雄与奇迹之岛～动物历险记～"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.doraeiga.com/",
+    "begin": "2012-03-03T16:00:00.000Z",
+    "end": "2012-03-03T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "79885",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "24815"
       }
     ]
   }

@@ -111,6 +111,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "46169",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "2784"
       }
@@ -246,6 +256,35 @@
       {
         "site": "bangumi",
         "id": "47694"
+      }
+    ]
+  },
+  {
+    "title": "闇の末裔",
+    "titleTranslate": {
+      "zh-Hans": [
+        "暗之末裔"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.jcstaff.co.jp/sho-sai/ya-shokai/yami-syokai.htm",
+    "begin": "2000-10-02T16:00:00.000Z",
+    "end": "2000-12-28T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "21509",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2908"
       }
     ]
   }

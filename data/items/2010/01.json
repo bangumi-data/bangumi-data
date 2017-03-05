@@ -127,6 +127,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "45206",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "acfun",
         "id": "1470030",
         "begin": "",
@@ -329,6 +339,64 @@
       {
         "site": "bangumi",
         "id": "3482"
+      }
+    ]
+  },
+  {
+    "title": "10thアニバーサリー 劇場版 遊☆戯☆王 〜超融合!時空を越えた絆〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "游戏王剧场版 超融合！超越时空的羁绊"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.yugioh10th.com/",
+    "begin": "2010-01-23T16:00:00.000Z",
+    "end": "2010-01-23T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "44175",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "23303"
+      }
+    ]
+  },
+  {
+    "title": "Fate/stay night Unlimited Blade Works",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Fate/stay night Unlimited Blade Works"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.fatestaynight.jp/",
+    "begin": "2010-01-23T16:00:00.000Z",
+    "end": "2010-01-23T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "10010546",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "3484"
       }
     ]
   }

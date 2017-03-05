@@ -42,6 +42,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "74846",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "29323"
       }
@@ -261,6 +271,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "75045",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "29073"
       }
@@ -321,6 +341,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "74655",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "24738"
       }
@@ -339,6 +369,16 @@
     "end": "2012-09-27T17:15:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "letv",
+        "id": "74775",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "33355"
@@ -473,6 +513,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "74952",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "37136"
       }
@@ -511,6 +561,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "74877",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "34028"
       }
@@ -529,6 +589,16 @@
     "end": "2013-03-25T09:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "letv",
+        "id": "76706",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "36131"
@@ -829,6 +899,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "75607",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "38758"
       }
@@ -905,6 +985,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "74847",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "mgtv",
         "id": "12032",
         "begin": "",
@@ -934,6 +1024,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "77522",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "mgtv",
         "id": "51459",
         "begin": "",
@@ -946,6 +1046,35 @@
       {
         "site": "bangumi",
         "id": "40249"
+      }
+    ]
+  },
+  {
+    "title": "ももへの手紙",
+    "titleTranslate": {
+      "zh-Hans": [
+        "给桃子的信"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://momo-letter.jp/",
+    "begin": "2012-04-21T16:00:00.000Z",
+    "end": "2012-04-21T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "82070",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "26800"
       }
     ]
   }

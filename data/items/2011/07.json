@@ -35,6 +35,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "45084",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "11577"
       }
@@ -138,6 +148,16 @@
     "end": "2011-09-24T15:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "letv",
+        "id": "44837",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "acfun",
         "id": "3390",
@@ -247,6 +267,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "44865",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "10261"
       }
@@ -328,6 +358,16 @@
     "end": "2011-09-26T17:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "letv",
+        "id": "44936",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "sohu",
         "id": "s2013/xmyrz3",
@@ -418,6 +458,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "44862",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "12192"
       }
@@ -478,6 +528,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "48902",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "mgtv",
         "id": "291730",
         "begin": "",
@@ -506,6 +566,16 @@
     "end": "2011-09-15T16:45:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "letv",
+        "id": "45101",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "10842"
@@ -560,6 +630,122 @@
       {
         "site": "bangumi",
         "id": "10601"
+      }
+    ]
+  },
+  {
+    "title": "Baby Princess 3Dぱらだいす0",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宝贝公主"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://baby-princess3d.jp/",
+    "begin": "2011-07-20T16:00:00.000Z",
+    "end": "2011-07-20T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "45645",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "14933"
+      }
+    ]
+  },
+  {
+    "title": "コクリコ坂から",
+    "titleTranslate": {
+      "zh-Hans": [
+        "来自虞美人之坡"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.kokurikozaka.jp/",
+    "begin": "2011-07-16T16:00:00.000Z",
+    "end": "2011-07-16T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "78631",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "10857"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 ポケットモンスター ベストウイッシュ ビクティニと白き英雄 レシラム",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 精灵宝可梦超级愿望：比克提尼与白英雄 雷希拉姆"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-movie.jp/white/",
+    "begin": "2011-07-16T16:00:00.000Z",
+    "end": "2011-07-16T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "74292",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "19561"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 ポケットモンスター ベストウイッシュ ビクティニと黒き英雄 ゼクロム",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 精灵宝可梦超级愿望：比克提尼与黑英雄 捷克罗姆"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-movie.jp/white/",
+    "begin": "2011-07-16T16:00:00.000Z",
+    "end": "2011-07-16T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "74292",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "19618"
       }
     ]
   }

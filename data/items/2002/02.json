@@ -36,5 +36,34 @@
         "id": "4635"
       }
     ]
+  },
+  {
+    "title": "ほしのこえ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "星之声"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-02-02T16:00:00.000Z",
+    "end": "2002-02-02T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "17266",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1936"
+      }
+    ]
   }
 ]

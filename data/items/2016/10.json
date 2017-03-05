@@ -2371,6 +2371,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "10034731",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bilibili",
         "id": "5519",
         "begin": "2016-10-11T02:24:09.000Z",
@@ -3598,6 +3608,35 @@
       {
         "site": "bangumi",
         "id": "175456"
+      }
+    ]
+  },
+  {
+    "title": "黒子のバスケ ウインターカップ総集編 ～淚の先へ～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "黑子的篮球 Winter Cup总集篇 ～朝着泪水的前方～"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://movie.kurobas.com/",
+    "begin": "2016-10-08T16:00:00.000Z",
+    "end": "2016-10-08T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "10035150",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "171121"
       }
     ]
   }

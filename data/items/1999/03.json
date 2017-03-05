@@ -17,5 +17,63 @@
         "id": "3128"
       }
     ]
+  },
+  {
+    "title": "ドラえもん のび太の宇宙漂流記",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦：大雄的宇宙漂流记"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-03-06T16:00:00.000Z",
+    "end": "1999-03-06T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "80954",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "463"
+      }
+    ]
+  },
+  {
+    "title": "Petshop of Horrors",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恐怖宠物店"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-03-01T16:00:00.000Z",
+    "end": "1999-03-05T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "10002683",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1953"
+      }
+    ]
   }
 ]

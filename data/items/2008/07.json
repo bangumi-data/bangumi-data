@@ -136,6 +136,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "49393",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "sohu",
         "id": "s2013/xmyrz1",
         "begin": "",
@@ -291,6 +301,16 @@
     "end": "2008-09-18T17:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "letv",
+        "id": "6540",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "698"
@@ -455,6 +475,64 @@
       {
         "site": "bangumi",
         "id": "10558"
+      }
+    ]
+  },
+  {
+    "title": "崖の上のポニョ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "悬崖上的金鱼姬"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.ghibli.jp/ponyo/",
+    "begin": "2008-07-19T16:00:00.000Z",
+    "end": "2008-07-19T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "10010645",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "313"
+      }
+    ]
+  },
+  {
+    "title": "劇場版ポケットモンスター ダイヤモンド&パール ギラティナと氷空の花束 シェイミ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 精灵宝可梦DP：骑拉帝纳与冰空的花束 洁咪"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-movie.jp/",
+    "begin": "2008-07-19T16:00:00.000Z",
+    "end": "2008-07-19T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "71822",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "3032"
       }
     ]
   }

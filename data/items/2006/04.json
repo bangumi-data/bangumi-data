@@ -203,6 +203,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "49316",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "1487"
       }
@@ -259,6 +269,16 @@
     "end": "2007-02-24T00:25:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "letv",
+        "id": "14691",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "mgtv",
         "id": "109715",
@@ -386,6 +406,16 @@
     "end": "2006-09-25T18:15:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "letv",
+        "id": "23612",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "2813"
@@ -598,6 +628,16 @@
     "end": "2006-07-02T15:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "letv",
+        "id": "9986",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "485"
@@ -1065,6 +1105,35 @@
       {
         "site": "bangumi",
         "id": "1269"
+      }
+    ]
+  },
+  {
+    "title": "プリンセス・プリンセス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "公主公主"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2006-04-05T16:00:00.000Z",
+    "end": "2006-06-21T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "14275",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "9425"
       }
     ]
   }

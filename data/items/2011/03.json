@@ -93,5 +93,63 @@
         "id": "49019"
       }
     ]
+  },
+  {
+    "title": "映画ドラえもん 新・のび太と鉄人兵団 ～はばたけ 天使たち～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦：新大雄与铁人兵团"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://doraeiga.com/2011/",
+    "begin": "2011-03-05T16:00:00.000Z",
+    "end": "2011-03-05T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "46395",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "19130"
+      }
+    ]
+  },
+  {
+    "title": "世界一初恋 OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "世界第一初恋 OAD"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2011-03-22T16:00:00.000Z",
+    "end": "2011-09-27T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "41120",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "13973"
+      }
+    ]
   }
 ]

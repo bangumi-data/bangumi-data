@@ -184,6 +184,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "10032034",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "10339"
       }
@@ -410,6 +420,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "40912",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "10380"
       }
@@ -470,6 +490,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "40865",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "10278"
       }
@@ -498,7 +528,8 @@
     "title": "TIGER & BUNNY",
     "titleTranslate": {
       "zh-Hans": [
-        "TIGER & BUNNY"
+        "TIGER & BUNNY",
+        "老虎和兔子"
       ]
     },
     "lang": "ja",
@@ -507,6 +538,16 @@
     "end": "2011-09-17T17:43:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "letv",
+        "id": "41020",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "10385"
@@ -549,6 +590,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "41855",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "13312"
       }
@@ -567,6 +618,16 @@
     "end": "2011-06-23T16:45:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "letv",
+        "id": "41908",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "10440"
@@ -596,7 +657,8 @@
     "title": "C",
     "titleTranslate": {
       "zh-Hans": [
-        "「C」"
+        "「C」",
+        "金钱掌控"
       ]
     },
     "lang": "ja",
@@ -605,6 +667,16 @@
     "end": "2011-06-23T16:15:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "letv",
+        "id": "41887",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "10844"
@@ -871,6 +943,35 @@
       {
         "site": "bangumi",
         "id": "68807"
+      }
+    ]
+  },
+  {
+    "title": "鬼神伝",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鬼神传"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.onigamiden.jp/",
+    "begin": "2011-04-29T16:00:00.000Z",
+    "end": "2011-04-29T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "48840",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "12189"
       }
     ]
   }

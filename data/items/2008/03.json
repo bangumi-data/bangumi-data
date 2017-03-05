@@ -32,6 +32,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "15967",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "mgtv",
         "id": "42753",
         "begin": "",
@@ -66,6 +76,35 @@
       {
         "site": "bangumi",
         "id": "1511"
+      }
+    ]
+  },
+  {
+    "title": "ドラえもん のび太と緑の巨人伝",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦 大雄与绿巨人传"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2008-03-08T16:00:00.000Z",
+    "end": "2008-03-08T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "81025",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "476"
       }
     ]
   }

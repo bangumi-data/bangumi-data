@@ -234,7 +234,8 @@
         "Chobits"
       ],
       "zh-Hans": [
-        "人形电脑天使心"
+        "人形电脑天使心",
+        "人型电脑天使心"
       ]
     },
     "lang": "ja",
@@ -243,6 +244,16 @@
     "end": "2002-09-24T19:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "letv",
+        "id": "38691",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "12"

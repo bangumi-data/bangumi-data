@@ -73,6 +73,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "10010424",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bilibili",
         "id": "2601",
         "begin": "",
@@ -556,7 +566,8 @@
     "title": "GATE 自衛隊 彼の地にて、斯く戦えり",
     "titleTranslate": {
       "zh-Hans": [
-        "GATE 奇幻自卫队"
+        "GATE 奇幻自卫队",
+        "GATE奇幻异世界"
       ],
       "en": [
         "GATE"
@@ -568,6 +579,16 @@
     "end": "2015-09-18T16:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "letv",
+        "id": "10010438",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "youku",
         "id": "20ee3d961af811e5b5ce",
@@ -3428,6 +3449,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "10029260",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bilibili",
         "id": "2575",
         "begin": "2015-07-24T18:10:00.000Z",
@@ -3496,6 +3527,35 @@
       {
         "site": "bangumi",
         "id": "123133"
+      }
+    ]
+  },
+  {
+    "title": "リトルウィッチアカデミア 魔法仕掛けのパレード",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小魔女学园 魔法游行"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://littlewitchacademia.jp/",
+    "begin": "2015-07-03T16:00:00.000Z",
+    "end": "2015-07-03T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "10010553",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "124646"
       }
     ]
   }

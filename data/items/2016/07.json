@@ -1036,6 +1036,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "10024422",
+        "begin": "2016-07-04T00:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bilibili",
         "id": "5070",
         "begin": "2016-07-04T00:00:00.000Z",
@@ -2633,6 +2643,16 @@
     "end": "2016-09-22T17:10:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "letv",
+        "id": "10025131",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "174141"

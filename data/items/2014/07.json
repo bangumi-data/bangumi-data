@@ -2310,6 +2310,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "10027926",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "sohu",
         "id": "s2014/jlsdjw",
         "begin": "2014-07-14T19:00:00.000Z",
@@ -2451,6 +2461,35 @@
       {
         "site": "bangumi",
         "id": "134334"
+      }
+    ]
+  },
+  {
+    "title": "ポケモン・ザ・ムービーXY 破壊の繭とディアンシー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "精灵宝可梦XY-破坏之茧与蒂安希"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-movie.jp/",
+    "begin": "2014-07-19T16:00:00.000Z",
+    "end": "2014-07-19T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "10017222",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "90368"
       }
     ]
   }

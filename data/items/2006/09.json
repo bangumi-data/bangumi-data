@@ -102,11 +102,21 @@
       ]
     },
     "lang": "ja",
-    "officialSite": "http://www.pokemon.co.jp/anime/index.html",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/pokemon_dp/",
     "begin": "2006-09-28T16:00:00.000Z",
     "end": "2010-09-09T16:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "letv",
+        "id": "10006441",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "sohu",
         "id": "s2017/jlbkm3",

@@ -17,5 +17,34 @@
         "id": "5230"
       }
     ]
+  },
+  {
+    "title": "ドラえもん のび太とロボット王国",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦 大雄与机器人王国"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.shopro.co.jp/tv/archive/rockman/",
+    "begin": "2002-03-09T16:00:00.000Z",
+    "end": "2003-03-09T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "80962",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "468"
+      }
+    ]
   }
 ]

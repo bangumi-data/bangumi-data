@@ -13,8 +13,47 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "42560",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "16594"
+      }
+    ]
+  },
+  {
+    "title": "星を追う子ども",
+    "titleTranslate": {
+      "zh-Hans": [
+        "追逐繁星的孩子"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.hoshi-o-kodomo.jp/",
+    "begin": "2011-05-07T16:00:00.000Z",
+    "end": "2011-05-07T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "87681",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "9911"
       }
     ]
   }

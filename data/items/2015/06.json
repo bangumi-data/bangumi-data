@@ -83,5 +83,34 @@
         "id": "137937"
       }
     ]
+  },
+  {
+    "title": "台風のノルダ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "台风的诺尔达"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://typhoon-noruda.com/",
+    "begin": "2015-06-05T16:00:00.000Z",
+    "end": "2015-06-05T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "10008488",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "130609"
+      }
+    ]
   }
 ]

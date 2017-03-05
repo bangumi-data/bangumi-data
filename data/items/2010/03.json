@@ -76,7 +76,7 @@
     ]
   },
   {
-    "title": "ヘタリア World Series",
+    "title": "ヘタリア World Series 第3期",
     "titleTranslate": {
       "zh-Hans": [
         "黑塔利亚 第3期"
@@ -84,10 +84,20 @@
     },
     "lang": "ja",
     "officialSite": "http://hetalia.com/top.htm",
-    "begin": "2010-03-26T16:00:00.000Z",
-    "end": "2010-09-03T16:05:00.000Z",
+    "begin": "2010-03-26T07:00:00.000Z",
+    "end": "2010-09-03T07:05:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "letv",
+        "id": "10018939",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "4450"
@@ -110,6 +120,35 @@
       {
         "site": "bangumi",
         "id": "4282"
+      }
+    ]
+  },
+  {
+    "title": "ドラえもん のび太の人魚大海戦",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦：大雄的人鱼大海战"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2010-03-06T16:00:00.000Z",
+    "end": "2010-03-06T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "79883",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "4558"
       }
     ]
   }

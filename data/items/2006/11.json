@@ -55,5 +55,35 @@
         "id": "4887"
       }
     ]
+  },
+  {
+    "title": "パプリカ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "盗梦侦探",
+        "红辣椒"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.sonypictures.jp/movies/paprika/",
+    "begin": "2006-11-25T16:00:00.000Z",
+    "end": "2006-11-25T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "10002033",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "841"
+      }
+    ]
   }
 ]

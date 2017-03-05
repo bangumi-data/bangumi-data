@@ -28,5 +28,35 @@
         "id": "119364"
       }
     ]
+  },
+  {
+    "title": "日本アニメ（ーター）見本市",
+    "titleTranslate": {
+      "zh-Hans": [
+        "日本动画（人）博览会",
+        "日本动画人博览会"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://animatorexpo.com",
+    "begin": "2014-11-07T16:00:00.000Z",
+    "end": "2015-10-09T16:15:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "10006626",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "116370"
+      }
+    ]
   }
 ]

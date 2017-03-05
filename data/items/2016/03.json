@@ -324,5 +324,34 @@
         "id": "167386"
       }
     ]
+  },
+  {
+    "title": "ドラえもん 新・のび太の日本誕生",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦 新·大雄的日本诞生"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://doraeiga.com/2016/",
+    "begin": "2016-03-05T16:00:00.000Z",
+    "end": "2016-03-05T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "10035148",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "139670"
+      }
+    ]
   }
 ]

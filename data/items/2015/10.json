@@ -3445,6 +3445,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "10024046",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "tucao",
         "id": "宠物小精灵XY",
         "begin": "",
@@ -3536,6 +3546,35 @@
       {
         "site": "bangumi",
         "id": "146401"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 蒼き鋼のアルペジオ -アルス・ノヴァ- Cadenza",
+    "titleTranslate": {
+      "zh-Hans": [
+        "苍蓝钢铁的琶音 Cadenza"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.aokihagane.com/",
+    "begin": "2015-10-03T16:00:00.000Z",
+    "end": "2015-10-03T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "letv",
+        "id": "10010542",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "107100"
       }
     ]
   }

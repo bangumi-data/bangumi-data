@@ -59,7 +59,8 @@
     "title": "HUNTER×HUNTER",
     "titleTranslate": {
       "zh-Hans": [
-        "猎人"
+        "猎人",
+        "全职猎人"
       ]
     },
     "lang": "ja",
@@ -68,6 +69,16 @@
     "end": "2001-03-31T16:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "letv",
+        "id": "52528",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "1704"

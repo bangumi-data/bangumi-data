@@ -104,7 +104,8 @@
         "Tales of Zestiria"
       ],
       "zh-Hans": [
-        "情热传说～导师的黎明～"
+        "情热传说～导师的黎明～",
+        "热诚传说 导师的黎明"
       ]
     },
     "lang": "ja",
@@ -113,6 +114,16 @@
     "end": "2014-12-30T17:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "letv",
+        "id": "10025719",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "mgtv",
         "id": "303219",
