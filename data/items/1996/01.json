@@ -27,7 +27,7 @@
       },
       {
         "site": "qq",
-        "id": "h/hzgtnf6tbvfekfv",
+        "id": "5/53q0eh78q97e4d1",
         "begin": "1996-01-13T11:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -105,6 +105,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "qq",
+        "id": "y/yfn3bjrmshbtski",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "mgtv",
         "id": "48285",
         "begin": "",
@@ -134,8 +144,80 @@
     "comment": "",
     "sites": [
       {
+        "site": "qq",
+        "id": "k/k6d2ovf4jl79n58",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "2712"
+      }
+    ]
+  },
+  {
+    "title": "シティーハンタースペシャル ザ・シークレット・サービス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "城市猎人 秘密任务",
+        "城市猎人 保镖密令"
+      ],
+      "en": [
+        "City Hunter: Secret Service"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-01-05T16:00:00.000Z",
+    "end": "1996-01-05T16:45:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "w/w44r23kw9ljdyyp",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "53940"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士ガンダム 第08MS小隊",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达 第08MS小队"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-01-25T16:00:00.000Z",
+    "end": "1999-07-25T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "8/87lrosxr1yta375",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2664"
       }
     ]
   }

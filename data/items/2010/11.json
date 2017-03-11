@@ -54,6 +54,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "qq",
+        "id": "h/h6ve1mfenzo3v0f",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "sohu",
         "id": "s2016/dhpxxcr",
         "begin": "",
@@ -95,6 +105,35 @@
       {
         "site": "bangumi",
         "id": "210761"
+      }
+    ]
+  },
+  {
+    "title": "たまゆら",
+    "titleTranslate": {
+      "zh-Hans": [
+        "玉响"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.tamayura.info/",
+    "begin": "2010-11-26T16:00:00.000Z",
+    "end": "2010-12-23T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "h/hsac5f0iqzra0pl",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "8452"
       }
     ]
   }

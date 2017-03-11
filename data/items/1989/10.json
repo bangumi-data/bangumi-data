@@ -13,6 +13,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "qq",
+        "id": "u/uxqnq5iqr3do76d",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "78858",
         "begin": "",
@@ -25,6 +35,35 @@
       {
         "site": "bangumi",
         "id": "81573"
+      }
+    ]
+  },
+  {
+    "title": "らんま1/2 熱闘編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "乱马1/2 热斗篇"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-10-20T16:00:00.000Z",
+    "end": "1992-09-25T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "d/d6nxz5npppuo1yt",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "65883"
       }
     ]
   }

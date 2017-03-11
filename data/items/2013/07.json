@@ -131,6 +131,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "qq",
+        "id": "t/txfzw2twpsablfe",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "47957"
       }
@@ -366,6 +376,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "qq",
+        "id": "p/pz9nim110g6rdfy",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "69214"
       }
@@ -570,6 +590,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "qq",
+        "id": "s/s04twr7jsk59twc",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "51943"
       }
@@ -620,6 +650,16 @@
     "end": "2013-09-26T16:58:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "qq",
+        "id": "i/iteevv3orfr22it",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "60490"
@@ -970,6 +1010,35 @@
       {
         "site": "bangumi",
         "id": "56842"
+      }
+    ]
+  },
+  {
+    "title": "空の境界",
+    "titleTranslate": {
+      "zh-Hans": [
+        "空之境界"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.karanokyoukai.com/onair/",
+    "begin": "2013-07-05T16:00:00.000Z",
+    "end": "2013-09-27T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "r/rfgkivnu2k0ylyb",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "75533"
       }
     ]
   }

@@ -14,6 +14,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "qq",
+        "id": "j/jxj5pth9h3a71sg",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "78930",
         "begin": "",
@@ -36,6 +46,36 @@
       {
         "site": "bangumi",
         "id": "18692"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士ガンダム",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达",
+        "机动战士高达0079"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.gundam.jp/",
+    "begin": "1979-04-07T16:00:00.000Z",
+    "end": "1980-01-26T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "r/rxg1rnfy9m736q3",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "50"
       }
     ]
   }

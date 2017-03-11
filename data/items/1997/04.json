@@ -24,6 +24,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "qq",
+        "id": "t/tyeqdw6rof7t5ow",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "sohu",
         "id": "s2017/jlbkm1",
         "begin": "",
@@ -164,6 +174,35 @@
       {
         "site": "bangumi",
         "id": "1934"
+      }
+    ]
+  },
+  {
+    "title": "シティーハンタースペシャル グッド・バイ・マイ・スイート・ハート",
+    "titleTranslate": {
+      "zh-Hans": [
+        "城市猎人 再见 我的爱人"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-04-25T16:00:00.000Z",
+    "end": "1997-04-25T16:45:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "m/mvc7etmp0qsi89x",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "53939"
       }
     ]
   }

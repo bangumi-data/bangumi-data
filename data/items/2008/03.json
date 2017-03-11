@@ -13,6 +13,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "qq",
+        "id": "z/z7wlyzjisnqjxq9",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "3760"
       }
@@ -31,6 +41,16 @@
     "end": "2008-06-02T14:06:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "qq",
+        "id": "7/77mnuidmyfuyr5d",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "letv",
         "id": "15967",
@@ -105,6 +125,35 @@
       {
         "site": "bangumi",
         "id": "476"
+      }
+    ]
+  },
+  {
+    "title": "真救世主伝説 北斗の拳 トキ伝",
+    "titleTranslate": {
+      "zh-Hans": [
+        "真救世主传说 北斗神拳 托奇传"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2008-03-26T16:00:00.000Z",
+    "end": "2008-03-26T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "u/uxczmobn4fzsi0m",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "118574"
       }
     ]
   }

@@ -2275,7 +2275,7 @@
     "sites": [
       {
         "site": "qq",
-        "id": "s/sdi5wn3om79wo2m",
+        "id": "f/f840je4tjtjnwio",
         "begin": "2014-04-09T17:35:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -3295,6 +3295,64 @@
       {
         "site": "bangumi",
         "id": "94896"
+      }
+    ]
+  },
+  {
+    "title": "クレヨンしんちゃん ガチンコ！逆襲のロボとーちゃん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新 决一胜负！逆袭的机器人爸爸"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.shinchan-movie.com/",
+    "begin": "2014-04-19T16:00:00.000Z",
+    "end": "2014-04-19T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "p/plnzrinrw3t18n0",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "92412"
+      }
+    ]
+  },
+  {
+    "title": "そらのおとしものFinal 永遠の私の鳥籠",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天降之物Final 永远的我的鸟笼"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://kadokawa-anime.jp/soraoto/",
+    "begin": "2014-04-26T16:00:00.000Z",
+    "end": "2014-04-26T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "f/f6i0p8c0vb9qohn",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "86445"
       }
     ]
   }

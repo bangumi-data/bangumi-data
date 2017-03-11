@@ -28,6 +28,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "qq",
+        "id": "m/mkq4b0j56fjmicv",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "45915",
         "begin": "",
@@ -40,6 +50,64 @@
       {
         "site": "bangumi",
         "id": "18617"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 スレイヤーズぷれみあむ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "秀逗魔导士PREMIUM"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-12-22T16:00:00.000Z",
+    "end": "2001-12-22T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "w/w3yvgpn0hlea9hc",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "16841"
+      }
+    ]
+  },
+  {
+    "title": "るろうに剣心 -明治剣客浪漫譚- 星霜編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "浪客剑心 星霜篇"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-12-29T16:00:00.000Z",
+    "end": "2002-03-20T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "5/5pat6irkz1zcbem",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "13553"
       }
     ]
   }

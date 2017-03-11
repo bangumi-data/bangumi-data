@@ -223,6 +223,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "qq",
+        "id": "e/e3h18m27lxftpyo",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "29074"
       }
@@ -778,6 +788,35 @@
       {
         "site": "bangumi",
         "id": "58871"
+      }
+    ]
+  },
+  {
+    "title": "ポケットモンスター ベストウイッシュ シーズン2 エピソードN",
+    "titleTranslate": {
+      "zh-Hans": [
+        "精灵宝可梦 超级愿望 第2季 N之章"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/pokemon_bw/index2.html",
+    "begin": "2013-01-17T16:00:00.000Z",
+    "end": "2013-04-08T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "h/hibacbz0801byjb",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "61429"
       }
     ]
   }

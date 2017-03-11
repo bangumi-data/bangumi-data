@@ -80,6 +80,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "qq",
+        "id": "r/rvyijr1mt3r4q6a",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "11313",
         "begin": "",
@@ -128,6 +138,16 @@
     "end": "2002-03-25T01:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "qq",
+        "id": "c/cqyom1alkttm7bf",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "532"
@@ -227,6 +247,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "qq",
+        "id": "f/fataqofbrg3l7y8",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "73010"
       }
@@ -301,6 +331,64 @@
       {
         "site": "bangumi",
         "id": "11727"
+      }
+    ]
+  },
+  {
+    "title": "i-wish you were here-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "愿你在此"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-10-04T16:00:00.000Z",
+    "end": "2002-11-24T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "c/c9hi46vxnx77bkb",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2904"
+      }
+    ]
+  },
+  {
+    "title": "HELLSING",
+    "titleTranslate": {
+      "zh-Hans": [
+        "皇家国教骑士团"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-10-18T16:00:00.000Z",
+    "end": "2002-01-17T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "l/la2nmgw6f8yy3lw",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2216"
       }
     ]
   }

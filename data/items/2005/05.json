@@ -70,6 +70,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "qq",
+        "id": "4/4lz3b5jl9iaf2hm",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "22161",
         "begin": "",
@@ -82,6 +92,35 @@
       {
         "site": "bangumi",
         "id": "7258"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士Zガンダム -星を継ぐ者-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士Z高达 星之继承者"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.z-gundam.net/",
+    "begin": "2005-05-28T16:00:00.000Z",
+    "end": "2005-05-28T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "2/286vuymzp0bvolj",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "5378"
       }
     ]
   }

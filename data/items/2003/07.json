@@ -76,6 +76,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "qq",
+        "id": "0/0e5vbeoe011lsdk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "2063"
       }
@@ -195,6 +205,36 @@
       {
         "site": "bangumi",
         "id": "10854"
+      }
+    ]
+  },
+  {
+    "title": "茄子 アンダルシアの夏",
+    "titleTranslate": {
+      "zh-Hans": [
+        "茄子 安达鲁西亚之夏",
+        "茄子 安达卢西亚之夏"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.vap.co.jp/nasu/main.html",
+    "begin": "2003-07-26T16:00:00.000Z",
+    "end": "2003-07-26T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "p/phdveh4l16eaonj",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "508"
       }
     ]
   }

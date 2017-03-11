@@ -66,6 +66,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "qq",
+        "id": "e/edpitqdue7x1va1",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "15959",
         "begin": "",
@@ -88,6 +98,64 @@
       {
         "site": "bangumi",
         "id": "2461"
+      }
+    ]
+  },
+  {
+    "title": "イリヤの空、UFOの夏",
+    "titleTranslate": {
+      "zh-Hans": [
+        "伊里野的天空、UFO的夏天"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/animeister/iriya/",
+    "begin": "2005-02-25T10:00:00.000Z",
+    "end": "2005-07-29T10:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "p/pcwetsd9pmmroio",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1529"
+      }
+    ]
+  },
+  {
+    "title": "Air 劇場版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "AIR 剧场版"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2005-02-05T16:00:00.000Z",
+    "end": "2005-02-05T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "m/mheldsnut21ohut",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "3410"
       }
     ]
   }

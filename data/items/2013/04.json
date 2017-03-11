@@ -858,6 +858,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "qq",
+        "id": "y/yjbdd0x0yl48w89",
+        "begin": "2013-04-10T03:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "66491"
       }
@@ -1039,6 +1049,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "qq",
+        "id": "y/yvhxapls0zblr3s",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "10009242",
         "begin": "",
@@ -1061,6 +1081,35 @@
       {
         "site": "bangumi",
         "id": "23119"
+      }
+    ]
+  },
+  {
+    "title": "ポケットモンスター ベストウイッシュ シーズン2 デコロラアドベンチャー!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "精灵宝可梦 超级愿望 第2季 德科罗拉大冒险"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/pokemon_bw/index2.html",
+    "begin": "2013-04-25T16:00:00.000Z",
+    "end": "2013-09-26T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "h/hibacbz0801byjb",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "68269"
       }
     ]
   }

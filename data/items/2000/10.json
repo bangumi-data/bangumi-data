@@ -111,6 +111,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "qq",
+        "id": "4/4qw8q7lcsf7yh8z",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "46169",
         "begin": "",
@@ -139,6 +149,16 @@
     "end": "2001-01-10T08:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "qq",
+        "id": "i/ipyt80um6hrpcpu",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "2912"
@@ -235,6 +255,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "qq",
+        "id": "z/z7tsublda0lj93i",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "2440"
       }
@@ -285,6 +315,35 @@
       {
         "site": "bangumi",
         "id": "2908"
+      }
+    ]
+  },
+  {
+    "title": "ああっ女神さまっ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我的女神 剧场版"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2000-10-21T16:00:00.000Z",
+    "end": "2000-10-21T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "qq",
+        "id": "o/oku52t51m1rgmh1",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2080"
       }
     ]
   }
