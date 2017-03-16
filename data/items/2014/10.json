@@ -72,7 +72,8 @@
     "title": "ガンダム Gのレコンギスタ",
     "titleTranslate": {
       "zh-Hans": [
-        "高达G之复国运动"
+        "高达G之复国运动",
+        "敢达复国运动"
       ],
       "en": [
         "GUNDAM Recomguista in G"
@@ -84,6 +85,16 @@
     "end": "2015-03-26T17:55:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9pr0l",
+        "begin": "2016-09-12T07:56:10.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "letv",
         "id": "10005222",
@@ -1873,6 +1884,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhc0r3l",
+        "begin": "2016-08-09T06:20:33.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "10005488",
         "begin": "",
@@ -2168,7 +2189,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhbz0ah",
-        "begin": "",
+        "begin": "2014-10-18T13:38:38.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2528,6 +2549,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhb5m1p",
+        "begin": "2015-07-03T05:41:18.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "qq",
         "id": "p/pxcpyw761v1ev03",
         "begin": "",
@@ -2560,6 +2591,35 @@
       {
         "site": "bangumi",
         "id": "103809"
+      }
+    ]
+  },
+  {
+    "title": "映画ハピネスチャージプリキュア！ 人形の国のバレリーナ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Happiness Charge 光之美少女！人偶之国的芭蕾舞者"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.precure-movie.com/",
+    "begin": "2014-10-11T16:00:00.000Z",
+    "end": "2014-10-11T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrkvl4j8",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "106239"
       }
     ]
   }

@@ -16,6 +16,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhb26ut",
+        "begin": "2015-09-02T05:50:24.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "91135"
       },
@@ -179,7 +189,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhb4yxl",
-        "begin": "",
+        "begin": "2015-08-05T06:49:50.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -606,7 +616,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhbz3g5",
-        "begin": "",
+        "begin": "2014-12-16T09:51:43.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -954,6 +964,16 @@
     "end": "2014-09-27T09:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb2729",
+        "begin": "2015-08-14T17:08:57.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "sohu",
         "id": "s2014/jtysnr",
@@ -1794,7 +1814,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhb1cr1",
-        "begin": "",
+        "begin": "2015-08-14T17:02:30.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1837,7 +1857,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhb274p",
-        "begin": "",
+        "begin": "2015-08-14T17:07:17.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1964,7 +1984,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgi8f8t",
-        "begin": "",
+        "begin": "2014-04-10T01:47:42.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -3273,6 +3293,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrgi8fd5",
+        "begin": "2014-04-10T01:47:44.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "10002886",
         "begin": "",
@@ -3353,6 +3383,64 @@
       {
         "site": "bangumi",
         "id": "86445"
+      }
+    ]
+  },
+  {
+    "title": "史上最強の弟子ケンイチ ～闇の襲撃～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "史上最强弟子兼一 暗之袭击"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.kenichianime.com/",
+    "begin": "2014-04-08T16:00:00.000Z",
+    "end": "2014-06-17T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhbysup",
+        "begin": "2014-11-17T09:24:57.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "99906"
+      }
+    ]
+  },
+  {
+    "title": "名探偵コナン 異次元の狙撃手",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 异次元的狙击手"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.conan-movie.jp/",
+    "begin": "2014-04-19T16:00:00.000Z",
+    "end": "2014-04-19T17:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9zual",
+        "begin": "2016-11-11T08:33:52.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "89279"
       }
     ]
   }

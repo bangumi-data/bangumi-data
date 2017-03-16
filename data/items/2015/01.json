@@ -1219,7 +1219,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhb0qs9",
-        "begin": "",
+        "begin": "2015-03-11T14:30:16.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2285,6 +2285,16 @@
     "end": "2016-01-31T00:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhawapx",
+        "begin": "2015-02-14T16:11:15.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "119279"

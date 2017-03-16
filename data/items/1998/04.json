@@ -13,6 +13,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhajmkd",
+        "begin": "2016-04-11T04:56:31.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "157209"
       }
@@ -181,6 +191,16 @@
     "end": "2000-03-21T16:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgjbqod",
+        "begin": "2014-04-09T23:30:55.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "letv",
         "id": "37973",
@@ -380,6 +400,64 @@
       {
         "site": "bangumi",
         "id": "192844"
+      }
+    ]
+  },
+  {
+    "title": "クレヨンしんちゃん 电撃！ブタのヒヅメ大作戦",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新 电击！猪之蹄大作战"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.shinchan-movie.com/",
+    "begin": "1998-04-18T16:00:00.000Z",
+    "end": "1998-04-18T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": "",
+        "url": "http://www.iqiyi.com/dongman/20130715/5b125eb281c3ee4e.html"
+      },
+      {
+        "site": "bangumi",
+        "id": "8972"
+      }
+    ]
+  },
+  {
+    "title": "名探偵コナン 14番目の標的",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 第14号目标"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.conan-movie.jp/",
+    "begin": "1998-04-18T16:00:00.000Z",
+    "end": "1998-04-18T17:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9zual",
+        "begin": "2016-11-11T08:33:52.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2969"
       }
     ]
   }

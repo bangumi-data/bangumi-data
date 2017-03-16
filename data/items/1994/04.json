@@ -46,5 +46,34 @@
         "id": "4212"
       }
     ]
+  },
+  {
+    "title": "クレヨンしんちゃん ブリブリ王国の秘宝",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新之布里布里王国的秘密宝藏"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.shinchan-movie.com/",
+    "begin": "1994-04-23T16:00:00.000Z",
+    "end": "1994-04-23T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": "",
+        "url": "http://www.iqiyi.com/dongman/20130715/d7a321d48f825733.html"
+      },
+      {
+        "site": "bangumi",
+        "id": "8968"
+      }
+    ]
   }
 ]

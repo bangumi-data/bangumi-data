@@ -302,6 +302,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrgi9s5d",
+        "begin": "2014-09-12T06:34:38.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "35991"
       }
@@ -497,6 +507,64 @@
         "id": "71821",
         "begin": "",
         "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "3031"
+      }
+    ]
+  },
+  {
+    "title": "河童のクゥと夏休み",
+    "titleTranslate": {
+      "zh-Hans": [
+        "河童之夏"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.kappa-coo.com/",
+    "begin": "2007-07-28T16:00:00.000Z",
+    "end": "2007-07-28T18:20:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": "",
+        "url": "http://www.iqiyi.com/dongman/20110816/0c6a020636e4d3dd.html"
+      },
+      {
+        "site": "bangumi",
+        "id": "755"
+      }
+    ]
+  },
+  {
+    "title": "劇場版ポケットモンスター ダイヤモンド&パール ディアルガVSパルキアVSダークライ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 精灵宝可梦DP：帝牙卢卡VS帕路奇犽VS达克莱伊"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-movie.jp/",
+    "begin": "2007-07-14T16:00:00.000Z",
+    "end": "2007-07-14T17:10:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb8sh9",
+        "begin": "2015-09-17T05:39:45.000Z",
+        "official": true,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",

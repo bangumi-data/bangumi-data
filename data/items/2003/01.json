@@ -166,6 +166,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhabe4d",
+        "begin": "2016-01-08T10:12:34.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "qq",
         "id": "m/mj8qml4x7d80r7x",
         "begin": "",
@@ -245,6 +255,35 @@
       {
         "site": "bangumi",
         "id": "19521"
+      }
+    ]
+  },
+  {
+    "title": "聖闘士星矢 冥王ハーデス十二宮編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "圣斗士星矢 冥王十二宫编"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/ova/seiya/",
+    "begin": "2003-01-25T16:00:00.000Z",
+    "end": "2003-07-25T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb1bux",
+        "begin": "2015-08-14T17:06:44.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "593"
       }
     ]
   }

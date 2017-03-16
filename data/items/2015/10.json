@@ -1965,6 +1965,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhary39",
+        "begin": "2016-07-13T08:52:11.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bilibili",
         "id": "2771",
         "begin": "2015-10-06T10:30:00.000Z",
@@ -2299,6 +2309,16 @@
     "end": "2015-12-23T15:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhatfop",
+        "begin": "2016-08-12T09:21:17.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bilibili",
         "id": "2746",
@@ -3575,6 +3595,35 @@
       {
         "site": "bangumi",
         "id": "107100"
+      }
+    ]
+  },
+  {
+    "title": "映画 Go! プリンセスプリキュア GO!GO!!豪華3本立て!!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Go! Princess 光之美少女：Go!Go!!豪华三合一!!!"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.precure-movie.com/",
+    "begin": "2015-10-31T16:00:00.000Z",
+    "end": "2015-10-31T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrkvw6mo",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "138844"
       }
     ]
   }

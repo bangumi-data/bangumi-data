@@ -92,6 +92,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrjpucit",
+        "begin": "2014-09-12T06:31:34.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "4507"
       }
@@ -142,6 +152,64 @@
       {
         "site": "bangumi",
         "id": "9756"
+      }
+    ]
+  },
+  {
+    "title": "美少女戦士セーラームーンSuperS~スペシャル!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "美少女战士SS特别篇"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1995-04-08T16:00:00.000Z",
+    "end": "1995-04-08T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrm0zwmg",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "27356"
+      }
+    ]
+  },
+  {
+    "title": "クレヨンしんちゃん 雲黒斎の野望",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新之云黑斋的野心"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.shinchan-movie.com/",
+    "begin": "1995-04-15T16:00:00.000Z",
+    "end": "1995-04-15T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": "",
+        "url": "http://www.iqiyi.com/v_19rrifx03h.html"
+      },
+      {
+        "site": "bangumi",
+        "id": "8969"
       }
     ]
   }

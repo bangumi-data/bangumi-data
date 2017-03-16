@@ -51,7 +51,8 @@
     "title": "機動戦士ガンダム00",
     "titleTranslate": {
       "zh-Hans": [
-        "机动战士高达00"
+        "机动战士高达00",
+        "机动战士敢达00"
       ]
     },
     "lang": "ja",
@@ -60,6 +61,16 @@
     "end": "2008-03-29T09:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrg4a2c5",
+        "begin": "2017-03-02T09:22:31.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "qq",
         "id": "t/tt1wl97fhnn5a4s",
@@ -143,6 +154,16 @@
     "end": "2008-03-27T16:25:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrk04woh",
+        "begin": "2012-06-01T01:22:02.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "qq",
         "id": "p/ph4m28ufdwsha2e",
@@ -634,7 +655,8 @@
     "title": "レンタルマギカ",
     "titleTranslate": {
       "zh-Hans": [
-        "魔法使借贷公司"
+        "魔法使借贷公司",
+        "魔法人力派遣公司"
       ]
     },
     "lang": "ja",
@@ -643,6 +665,16 @@
     "end": "2008-03-23T15:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrk78019",
+        "begin": "2012-09-01T10:01:59.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "2982"
@@ -806,6 +838,35 @@
       {
         "site": "bangumi",
         "id": "6235"
+      }
+    ]
+  },
+  {
+    "title": "Usavich Season 2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "监狱兔 第二季"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.mtvjapan.com/usavich/",
+    "begin": "2007-10-08T16:00:00.000Z",
+    "end": "2008-01-15T16:01:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhazu4l",
+        "begin": "2017-01-25T03:26:06.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "58864"
       }
     ]
   }

@@ -95,6 +95,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhb343l",
+        "begin": "2015-04-23T08:07:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "54433"
       }
@@ -203,6 +213,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrjx97w1",
+        "begin": "2013-04-04T22:58:45.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "acfun",
         "id": "2410",
         "begin": "",
@@ -272,6 +292,16 @@
     "end": "2013-06-29T17:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrjwznfd",
+        "begin": "2013-04-19T05:35:51.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "46307"
@@ -393,6 +423,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrjxrb1d",
+        "begin": "2013-04-11T20:36:59.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "acfun",
         "id": "2453",
         "begin": "",
@@ -422,6 +462,16 @@
     "end": "2013-09-27T15:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrjwiwi1",
+        "begin": "2013-04-13T02:08:44.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "letv",
         "id": "87896",
@@ -549,6 +599,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrjxlrwx",
+        "begin": "2013-04-09T19:30:48.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "46828"
       }
@@ -596,6 +656,16 @@
     "end": "2013-06-27T17:35:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrjx99mx",
+        "begin": "2014-04-09T23:07:47.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "acfun",
         "id": "2413",
@@ -781,6 +851,16 @@
     "end": "2013-06-29T14:55:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhc0ovh",
+        "begin": "2014-09-04T05:33:03.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "66410"
@@ -1110,6 +1190,93 @@
       {
         "site": "bangumi",
         "id": "68269"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士ガンダムSEED DESTINY HDリマスター",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达SEED DESTINY HD重制版"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://hai-tai.jp/",
+    "begin": "2013-04-07T16:00:00.000Z",
+    "end": "2014-03-09T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrjyur41",
+        "begin": "2017-03-02T09:22:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "54277"
+      }
+    ]
+  },
+  {
+    "title": "クレヨンしんちゃん バカうまっ！B級グルメサバイバル!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新 超级美味B级美食大逃亡"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://shinchan-movie.com/",
+    "begin": "2013-04-20T16:00:00.000Z",
+    "end": "2013-04-20T17:35:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhwlloo",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "81034"
+      }
+    ]
+  },
+  {
+    "title": "名探偵コナン 絶海の探偵",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 绝海的侦探"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.conan-movie.jp/",
+    "begin": "2013-04-20T16:00:00.000Z",
+    "end": "2013-04-20T17:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9zual",
+        "begin": "2016-11-11T08:33:52.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "54614"
       }
     ]
   }

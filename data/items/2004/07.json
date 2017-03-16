@@ -73,6 +73,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrha0t8x",
+        "begin": "2016-11-30T16:02:02.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "qq",
         "id": "0/0ajd4gsjoufyje1",
         "begin": "",
@@ -252,6 +262,54 @@
       {
         "site": "bangumi",
         "id": "84994"
+      }
+    ]
+  },
+  {
+    "title": "劇場版ポケットモンスター アドバンスジェネレーション 裂空の訪問者 デオキシス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 精灵宝可梦超世代：裂空的访问者 代欧奇希斯"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-movie.jp/",
+    "begin": "2004-07-17T16:00:00.000Z",
+    "end": "2004-07-17T17:10:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb8sh9",
+        "begin": "2015-09-17T05:39:45.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "3028"
+      }
+    ]
+  },
+  {
+    "title": "ポケットモンスターアドバンスジェネレーション ピカチュウのなつまつり",
+    "titleTranslate": {
+      "zh-Hans": [
+        "精灵宝可梦：皮卡丘的夏日祭典"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-movie.jp/",
+    "begin": "2004-07-17T17:10:00.000Z",
+    "end": "2004-07-17T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "90610"
       }
     ]
   }

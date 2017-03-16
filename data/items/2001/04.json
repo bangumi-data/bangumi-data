@@ -85,6 +85,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhb1df9",
+        "begin": "2015-08-20T03:32:13.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "3130"
       }
@@ -357,6 +367,93 @@
       {
         "site": "bangumi",
         "id": "2076"
+      }
+    ]
+  },
+  {
+    "title": "世界名作劇場・完結版 愛少女ポリアンナ物語",
+    "titleTranslate": {
+      "zh-Hans": [
+        "世界名著剧场・完结版 爱少女波丽安娜物语"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.nippon-animation.co.jp/work/1486/",
+    "begin": "2001-04-01T16:00:00.000Z",
+    "end": "2001-04-01T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrjz23id",
+        "begin": "2012-10-17T01:26:27.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "211290"
+      }
+    ]
+  },
+  {
+    "title": "クレヨンしんちゃん 嵐を呼ぶ モーレツ!オトナ帝国の逆襲",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新 呼风唤雨！大人帝国的反击"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.shinchan-movie.com/",
+    "begin": "2001-04-21T16:00:00.000Z",
+    "end": "2001-04-21T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": "",
+        "url": "http://www.iqiyi.com/v_19rrifx027.html"
+      },
+      {
+        "site": "bangumi",
+        "id": "8986"
+      }
+    ]
+  },
+  {
+    "title": "名探偵コナン 天国へのカウントダウン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 通往天国的倒数计时"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.conan-movie.jp/",
+    "begin": "2001-04-21T16:00:00.000Z",
+    "end": "2001-04-21T17:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9zual",
+        "begin": "2016-11-11T08:33:52.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2971"
       }
     ]
   }

@@ -242,5 +242,92 @@
         "id": "6375"
       }
     ]
+  },
+  {
+    "title": "デジモンアドベンチャー02",
+    "titleTranslate": {
+      "zh-Hans": [
+        "数码兽大冒险02"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/tv/digimon02/",
+    "begin": "2000-04-02T16:00:00.000Z",
+    "end": "2001-03-25T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb1dp5",
+        "begin": "2015-08-14T17:06:52.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "3129"
+      }
+    ]
+  },
+  {
+    "title": "クレヨンしんちゃん 嵐を呼ぶジャングル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新 森林里的暴风雨"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.shinchan-movie.com/",
+    "begin": "2000-04-22T16:00:00.000Z",
+    "end": "2000-04-22T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": "",
+        "url": "http://www.iqiyi.com/v_19rrifx03a.html"
+      },
+      {
+        "site": "bangumi",
+        "id": "8982"
+      }
+    ]
+  },
+  {
+    "title": "名探偵コナン 瞳の中の暗殺者",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 瞳孔中的暗杀者"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.conan-movie.jp/",
+    "begin": "2000-04-22T16:00:00.000Z",
+    "end": "2000-04-22T17:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9zual",
+        "begin": "2016-11-11T08:33:52.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "823"
+      }
+    ]
   }
 ]

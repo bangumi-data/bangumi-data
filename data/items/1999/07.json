@@ -85,9 +85,19 @@
     "lang": "ja",
     "officialSite": "http://www.pokemon-movie.jp/",
     "begin": "1999-07-17T16:00:00.000Z",
-    "end": "1999-07-17T17:30:00.000Z",
+    "end": "1999-07-17T17:10:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb8sh9",
+        "begin": "2015-09-17T05:39:45.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "letv",
         "id": "71806",
@@ -130,6 +140,66 @@
       {
         "site": "bangumi",
         "id": "8719"
+      }
+    ]
+  },
+  {
+    "title": "ハッピーバースデー 命かがやく瞬間",
+    "titleTranslate": {
+      "zh-Hans": [
+        "生日快乐",
+        "再生之日",
+        "生之喜悦"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-07-27T16:00:00.000Z",
+    "end": "1999-07-27T17:20:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrn277lk",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "49483"
+      }
+    ]
+  },
+  {
+    "title": "ピカチュウたんけんたい",
+    "titleTranslate": {
+      "zh-Hans": [
+        "精灵宝可梦：皮卡丘探险队"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-movie.jp/",
+    "begin": "1999-07-17T17:10:00.000Z",
+    "end": "1999-07-17T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb8sh9",
+        "begin": "2015-09-17T05:39:45.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "44680"
       }
     ]
   }

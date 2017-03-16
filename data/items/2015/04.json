@@ -154,6 +154,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrharzr1",
+        "begin": "2016-07-13T10:23:25.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "10008917",
         "begin": "",
@@ -1737,7 +1747,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhb7k19",
-        "begin": "",
+        "begin": "2015-09-24T07:58:19.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2252,6 +2262,16 @@
     "end": "2016-03-28T09:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhc1049",
+        "begin": "2014-10-28T05:54:34.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "acfun",
         "id": "1465812",
@@ -3177,7 +3197,7 @@
       },
       {
         "site": "iqiyi",
-        "id": "v_19rrnm1qek",
+        "id": "a_19rrhayby5",
         "begin": "2015-04-10T18:25:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -3713,6 +3733,94 @@
       {
         "site": "bangumi",
         "id": "131225"
+      }
+    ]
+  },
+  {
+    "title": "ドラゴンボールZ 復活のF",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙珠Z 复活的F",
+        "龙珠Z 复活的弗利萨"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.d2015gw.com/",
+    "begin": "2015-04-18T16:00:00.000Z",
+    "end": "2015-04-18T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rr95thbo",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "108438"
+      }
+    ]
+  },
+  {
+    "title": "名探偵コナン 業火の向日葵",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 业火的向日葵"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.conan-movie.jp/",
+    "begin": "2015-04-18T16:00:00.000Z",
+    "end": "2015-04-18T17:45:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9zual",
+        "begin": "2016-11-11T08:33:52.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "119187"
+      }
+    ]
+  },
+  {
+    "title": "Usavich ZERO",
+    "titleTranslate": {
+      "zh-Hans": [
+        "监狱兔 前传"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.mtvjapan.com/usavich/",
+    "begin": "2015-04-10T16:00:00.000Z",
+    "end": "2015-08-28T16:01:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrha7u19",
+        "begin": "2016-12-14T06:04:55.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "132725"
       }
     ]
   }

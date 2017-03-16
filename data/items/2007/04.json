@@ -51,6 +51,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrifuapp",
+        "begin": "2013-07-31T09:18:12.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "1965"
       }
@@ -337,6 +347,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrg7sueh",
+        "begin": "2014-09-12T06:42:52.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "19136"
       }
@@ -365,7 +385,10 @@
     "title": "かみちゃまかりん",
     "titleTranslate": {
       "zh-Hans": [
-        "小女神花铃"
+        "小女神花铃",
+        "小魔女花铃",
+        "花铃的魔法戒",
+        "神样花铃"
       ]
     },
     "lang": "ja",
@@ -374,6 +397,16 @@
     "end": "2007-09-28T09:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrjpr6eh",
+        "begin": "2013-03-22T02:53:55.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "letv",
         "id": "6344",
@@ -455,6 +488,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrh9arel",
+        "begin": "2017-02-28T16:01:15.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "qq",
         "id": "j/je9n9cdxojhfsye",
         "begin": "",
@@ -534,6 +577,16 @@
     "end": "2008-03-30T01:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgibw29",
+        "begin": "2014-05-28T09:09:57.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "qq",
         "id": "0/0kgjaf3vg2iojl6",
@@ -650,6 +703,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhbzy7h",
+        "begin": "2014-11-07T06:20:45.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "14692",
         "begin": "",
@@ -710,6 +773,16 @@
     "end": "2008-03-29T00:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgjcrux",
+        "begin": "2014-01-27T07:11:12.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "qq",
         "id": "u/u5oo06fzr9p8btb",
@@ -864,7 +937,7 @@
     ]
   },
   {
-    "title": "ゲゲゲの鬼太郎(新)",
+    "title": "ゲゲゲの鬼太郎",
     "titleTranslate": {
       "zh-Hans": [
         "鬼太郎"
@@ -876,6 +949,16 @@
     "end": "2009-03-22T00:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb159p",
+        "begin": "2015-08-14T17:08:46.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "18176"
@@ -914,6 +997,16 @@
     "end": "2007-04-21T17:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": "",
+        "url": "http://www.iqiyi.com/dongman/20120815/bfcbebb2d01f1719.html"
+      },
       {
         "site": "qq",
         "id": "o/ozxonwisw8kmtke",
@@ -956,6 +1049,64 @@
       {
         "site": "bangumi",
         "id": "118573"
+      }
+    ]
+  },
+  {
+    "title": "クレヨンしんちゃん 嵐を呼ぶ 歌うケツだけ爆弾!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新 呼风唤雨！会唱歌的屁股炸弹"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.shinchan-movie.com/",
+    "begin": "2007-04-21T16:00:00.000Z",
+    "end": "2007-04-21T17:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": "",
+        "url": "http://www.iqiyi.com/dongman/20130715/8d67b66bcbc2c11f.html"
+      },
+      {
+        "site": "bangumi",
+        "id": "8996"
+      }
+    ]
+  },
+  {
+    "title": "名探偵コナン 紺碧の棺",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 绀碧之棺"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.conan-movie.jp/",
+    "begin": "2007-04-21T16:00:00.000Z",
+    "end": "2007-04-21T17:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9zual",
+        "begin": "2016-11-11T08:33:52.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2977"
       }
     ]
   }

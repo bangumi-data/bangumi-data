@@ -195,6 +195,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrh9mhxp",
+        "begin": "2016-08-31T16:03:06.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "qq",
         "id": "4/4t47057xj42uhgz",
         "begin": "",
@@ -313,7 +323,8 @@
     "title": "二十面相の娘",
     "titleTranslate": {
       "zh-Hans": [
-        "二十面相少女"
+        "二十面相少女",
+        "二十面相之娘"
       ]
     },
     "lang": "ja",
@@ -322,6 +333,16 @@
     "end": "2008-09-27T17:55:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrifuaps",
+        "begin": "2013-08-01T06:09:47.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "2168"
@@ -480,6 +501,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrifuar2",
+        "begin": "2013-08-01T06:06:53.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "1306"
       }
@@ -634,6 +665,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrjzly39",
+        "begin": "2014-09-12T06:22:33.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "qq",
         "id": "s/shaqr883fvr6qqw",
         "begin": "",
@@ -684,6 +725,16 @@
     "end": "2008-09-26T18:10:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrg3nb7h",
+        "begin": "2013-07-10T07:50:02.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "qq",
         "id": "e/ebl0msiamhqaiso",
@@ -753,6 +804,16 @@
     "end": "2009-03-28T00:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgiigu1",
+        "begin": "2014-07-17T05:56:28.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "qq",
         "id": "8/83su0xjk0pr5h14",
@@ -998,6 +1059,64 @@
       {
         "site": "bangumi",
         "id": "3515"
+      }
+    ]
+  },
+  {
+    "title": "クレヨンしんちゃん ちょー嵐を呼ぶ 金矛の勇者",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新 呼风唤雨！金矛之勇者"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.shinchan-movie.com/",
+    "begin": "2008-04-19T16:00:00.000Z",
+    "end": "2008-04-19T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": "",
+        "url": "http://www.iqiyi.com/dongman/20130715/afc810555211733d.html"
+      },
+      {
+        "site": "bangumi",
+        "id": "8997"
+      }
+    ]
+  },
+  {
+    "title": "名探偵コナン 戦慄の楽譜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 战栗的乐谱"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.conan-movie.jp/",
+    "begin": "2008-04-19T16:00:00.000Z",
+    "end": "2008-04-19T17:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9zual",
+        "begin": "2016-11-11T08:33:52.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2978"
       }
     ]
   }

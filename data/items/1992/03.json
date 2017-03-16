@@ -16,8 +16,86 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhb1359",
+        "begin": "2015-08-14T17:05:28.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "1510"
+      }
+    ]
+  },
+  {
+    "title": "ドラゴンボールZ 激突!!100億パワーの戦士たち",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙珠Z 一百亿能量战士们"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-03-07T16:00:00.000Z",
+    "end": "1992-03-07T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rro3oq90",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "45391"
+      }
+    ]
+  },
+  {
+    "title": "ドラえもん のび太と雲の王国",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦：大雄与云之王国"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-03-07T16:00:00.000Z",
+    "end": "1992-03-07T17:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh60b3c",
+        "begin": "2014-03-03T02:30:16.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "80878",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "451"
       }
     ]
   }

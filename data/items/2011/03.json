@@ -13,6 +13,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrk6f6c9",
+        "begin": "2012-10-15T01:29:39.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "qq",
         "id": "k/kwwbu8r5qrpx69y",
         "begin": "",
@@ -169,6 +179,93 @@
       {
         "site": "bangumi",
         "id": "13973"
+      }
+    ]
+  },
+  {
+    "title": "映画 プリキュアオールスターズDX3 未来にとどけ！世界をつなぐ☆虹色の花",
+    "titleTranslate": {
+      "zh-Hans": [
+        "光之美少女全明星DX3 传达到未来！连结世界☆彩虹之花！"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/movie/2011_precure_allstars/",
+    "begin": "2011-03-19T16:00:00.000Z",
+    "end": "2011-03-19T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rro3p2gw",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "13045"
+      }
+    ]
+  },
+  {
+    "title": "ONE PIECE 3D 麦わらチェイス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海贼王 追寻草帽"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.jump-heroesfilm.com/",
+    "begin": "2011-03-19T16:00:00.000Z",
+    "end": "2011-03-19T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rro4gqbg",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "20523"
+      }
+    ]
+  },
+  {
+    "title": "Usavich Season 4",
+    "titleTranslate": {
+      "zh-Hans": [
+        "监狱兔 第四季"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.mtvjapan.com/usavich/",
+    "begin": "2011-03-26T16:00:00.000Z",
+    "end": "2011-09-15T16:01:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrha81ux",
+        "begin": "2016-12-13T09:02:47.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "10553"
       }
     ]
   }

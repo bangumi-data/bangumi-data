@@ -17,6 +17,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrh9my1p",
+        "begin": "2016-08-26T02:54:40.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "49119",
         "begin": "",
@@ -103,6 +113,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrk50zlh",
+        "begin": "2014-09-12T06:37:43.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "49115",
         "begin": "",
@@ -154,6 +174,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrk46ca5",
+        "begin": "2012-11-30T16:00:48.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "10353"
       }
@@ -198,6 +228,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrk6ivf1",
+        "begin": "2012-09-06T04:55:52.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "qq",
         "id": "b/b33p36z5zgr170f",
         "begin": "",
@@ -240,6 +280,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrk6gfk9",
+        "begin": "2014-09-12T06:29:53.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "15489"
       }
@@ -261,6 +311,16 @@
     "end": "2012-03-23T17:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrk8btex",
+        "begin": "2012-09-01T09:59:16.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "letv",
         "id": "49272",
@@ -393,6 +453,16 @@
     "end": "2012-03-27T16:49:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrk4v019",
+        "begin": "2012-11-27T03:46:51.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "qq",
         "id": "5/524dazlp04ww8uh",
@@ -571,6 +641,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrjzlx29",
+        "begin": "2012-07-01T06:25:12.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "10639"
       }
@@ -748,6 +828,35 @@
       {
         "site": "bangumi",
         "id": "22849"
+      }
+    ]
+  },
+  {
+    "title": "デジモンクロスウォーズ 時を駆ける少年ハンターたち",
+    "titleTranslate": {
+      "zh-Hans": [
+        "数码兽合体战争 穿越时空的少年猎人们"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/tv/digimon_xw/",
+    "begin": "2011-10-01T21:30:00.000Z",
+    "end": "2012-03-25T22:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb13eh",
+        "begin": "2015-08-17T03:27:33.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "22507"
       }
     ]
   }

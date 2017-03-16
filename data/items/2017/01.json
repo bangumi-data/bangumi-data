@@ -1039,6 +1039,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrh92on1",
+        "begin": "2017-01-09T02:26:52.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bilibili",
         "id": "5790",
         "begin": "2017-01-08T14:30:09.000Z",
@@ -2077,6 +2087,35 @@
       {
         "site": "bangumi",
         "id": "204251"
+      }
+    ]
+  },
+  {
+    "title": "チェインクロニクル ～ヘクセイタスの閃～ 第2章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "锁链战记～赫克瑟塔斯之光～ 第2章"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://chronicle-anime.com/",
+    "begin": "2017-01-14T16:00:00.000Z",
+    "end": "2017-01-14T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrha8tqp",
+        "begin": "2016-12-16T08:55:22.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "188070"
       }
     ]
   }

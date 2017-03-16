@@ -13,6 +13,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhayib5",
+        "begin": "2015-04-01T08:40:49.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bilibili",
         "id": "1657",
         "begin": "",
@@ -70,6 +80,16 @@
     "end": "2012-09-21T16:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrjt3kop",
+        "begin": "2017-03-08T04:25:25.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "kankan",
         "id": "64562",
@@ -280,6 +300,16 @@
     "end": "2012-06-26T16:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrjt8dhd",
+        "begin": "2016-01-20T01:53:43.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "kankan",
         "id": "64576",
@@ -920,6 +950,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrjvmd3t",
+        "begin": "2013-05-08T12:24:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "31414"
       }
@@ -938,6 +978,16 @@
     "end": "2013-05-01T10:27:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgjdgdd",
+        "begin": "2013-12-31T07:09:11.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "letv",
         "id": "75607",
@@ -1025,6 +1075,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrk4bu5x",
+        "begin": "2012-11-28T02:10:29.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "qq",
         "id": "f/f7zblmkldorv3v7",
         "begin": "",
@@ -1073,6 +1133,16 @@
     "end": "2013-04-24T16:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgidsjx",
+        "begin": "2014-05-15T03:35:52.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "qq",
         "id": "2/27xlyuggmbgs294",
@@ -1135,6 +1205,64 @@
       {
         "site": "bangumi",
         "id": "26800"
+      }
+    ]
+  },
+  {
+    "title": "クレヨンしんちゃん 嵐を呼ぶ！オラと宇宙のプリンセス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新 风起云涌！我的宇宙公主"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.shinchan-movie.com/",
+    "begin": "2012-04-14T16:00:00.000Z",
+    "end": "2012-04-14T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": "",
+        "url": "http://www.iqiyi.com/v_19rrifx01t.html"
+      },
+      {
+        "site": "bangumi",
+        "id": "27555"
+      }
+    ]
+  },
+  {
+    "title": "名探偵コナン 11人目のストライカー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 第11位前锋"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.conan-movie.jp/",
+    "begin": "2012-04-14T16:00:00.000Z",
+    "end": "2012-04-14T17:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9zual",
+        "begin": "2016-11-11T08:33:52.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "46940"
       }
     ]
   }

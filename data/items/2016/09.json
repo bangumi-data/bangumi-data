@@ -16,6 +16,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrh91o7h",
+        "begin": "2017-01-05T07:00:13.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "10029958",
         "begin": "2016-09-17T22:30:00.000Z",
@@ -58,7 +68,8 @@
         "Nyanbo!"
       ],
       "zh-Hans": [
-        "喵楞！"
+        "喵楞！",
+        "喵阿楞"
       ]
     },
     "lang": "ja",
@@ -67,6 +78,16 @@
     "end": "2017-03-28T21:45:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9zat9",
+        "begin": "2017-02-07T03:09:56.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bilibili",
         "id": "5504",
@@ -263,6 +284,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrh9arix",
+        "begin": "2017-02-28T16:00:59.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "10035150",
         "begin": "",
@@ -275,6 +306,35 @@
       {
         "site": "bangumi",
         "id": "171120"
+      }
+    ]
+  },
+  {
+    "title": "デジモンアドベンチャー tri. 第3章「告白」",
+    "titleTranslate": {
+      "zh-Hans": [
+        "数码兽大冒险 tri. 第三章「告白」"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://digimon-adventure.net/",
+    "begin": "2016-09-24T16:00:00.000Z",
+    "end": "2016-09-24T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhbcjih",
+        "begin": "2016-02-15T09:09:13.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "165892"
       }
     ]
   }

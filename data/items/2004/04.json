@@ -771,5 +771,63 @@
         "id": "472"
       }
     ]
+  },
+  {
+    "title": "クレヨンしんちゃん 嵐を呼ぶ!夕陽のカスカベボーイズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新 呼风唤雨！夕阳下的春日部男孩"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.shinchan-movie.com/",
+    "begin": "2004-04-17T16:00:00.000Z",
+    "end": "2004-04-17T17:35:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": "",
+        "url": "http://www.iqiyi.com/v_19rrifx022.html"
+      },
+      {
+        "site": "bangumi",
+        "id": "8991"
+      }
+    ]
+  },
+  {
+    "title": "名探偵コナン 銀翼の奇術師",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 银翼的魔术师"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.conan-movie.jp/",
+    "begin": "2004-04-17T16:00:00.000Z",
+    "end": "2004-04-17T17:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9zual",
+        "begin": "2016-11-11T08:33:52.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2974"
+      }
+    ]
   }
 ]

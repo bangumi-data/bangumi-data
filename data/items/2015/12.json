@@ -51,7 +51,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhbfrox",
-        "begin": "",
+        "begin": "2015-12-15T01:53:23.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -146,7 +146,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhbh6vt",
-        "begin": "",
+        "begin": "2015-12-02T01:48:52.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -241,7 +241,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhbfwo5",
-        "begin": "",
+        "begin": "2015-12-31T02:05:29.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -317,8 +317,47 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhbguo1",
+        "begin": "2016-04-27T15:14:50.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "154112"
+      }
+    ]
+  },
+  {
+    "title": "ちびまる子ちゃん イタリアから来た少年",
+    "titleTranslate": {
+      "zh-Hans": [
+        "樱桃小丸子 来自意大利的少年"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://chibimaru-movie.com/",
+    "begin": "2015-12-23T16:00:00.000Z",
+    "end": "2015-12-23T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rr96zhhk",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "139663"
       }
     ]
   }

@@ -297,6 +297,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrk8ckhp",
+        "begin": "2014-04-09T23:06:23.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "qq",
         "id": "h/hfkua5bftt1i1gu",
         "begin": "",
@@ -776,6 +786,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhb1dv1",
+        "begin": "2015-08-15T06:29:54.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "10566"
       }
@@ -1020,6 +1040,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "v_19rrifkwvv",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "48840",
         "begin": "",
@@ -1032,6 +1062,93 @@
       {
         "site": "bangumi",
         "id": "12189"
+      }
+    ]
+  },
+  {
+    "title": "豆富小僧",
+    "titleTranslate": {
+      "zh-Hans": [
+        "豆富小僧"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://wwws.warnerbros.co.jp/tofukozo/",
+    "begin": "2011-04-29T16:00:00.000Z",
+    "end": "2011-04-29T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrn1i20s",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "18175"
+      }
+    ]
+  },
+  {
+    "title": "クレヨンしんちゃん 嵐を呼ぶ黄金のスパイ大作戦",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新 呼风唤雨黄金的间谍大作战"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.shinchan-movie.com/",
+    "begin": "2011-04-16T16:00:00.000Z",
+    "end": "2011-04-16T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": "",
+        "url": "http://www.iqiyi.com/dongman/20130715/99761270d71f8fc1.html"
+      },
+      {
+        "site": "bangumi",
+        "id": "24824"
+      }
+    ]
+  },
+  {
+    "title": "名探偵コナン 沈黙の15分",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 沉默的15分钟"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.conan-movie.jp/",
+    "begin": "2011-04-16T16:00:00.000Z",
+    "end": "2011-04-16T17:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9zual",
+        "begin": "2016-11-11T08:33:52.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "10308"
       }
     ]
   }

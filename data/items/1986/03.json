@@ -27,5 +27,73 @@
         "id": "4213"
       }
     ]
+  },
+  {
+    "title": "ゲゲゲの鬼太郎 妖怪大戦争",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鬼太郎 妖怪大战争"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-03-15T16:00:00.000Z",
+    "end": "1986-03-15T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rro3wnz0",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "211094"
+      }
+    ]
+  },
+  {
+    "title": "ドラえもん のび太と鉄人兵団",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦：大雄与铁人兵团"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-03-15T16:00:00.000Z",
+    "end": "1986-03-15T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh6042c",
+        "begin": "2014-03-03T02:29:16.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "80863",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "442"
+      }
+    ]
   }
 ]

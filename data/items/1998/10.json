@@ -241,5 +241,34 @@
         "id": "10182"
       }
     ]
+  },
+  {
+    "title": "青の6号",
+    "titleTranslate": {
+      "zh-Hans": [
+        "青之6号"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1998-10-25T16:00:00.000Z",
+    "end": "2000-03-25T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrginde9",
+        "begin": "2014-07-23T05:05:41.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1933"
+      }
+    ]
   }
 ]

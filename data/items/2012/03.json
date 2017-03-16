@@ -32,6 +32,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrjt8kf9",
+        "begin": "2013-01-09T06:48:52.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "qq",
         "id": "e/e7i9xvn5d08eko0",
         "begin": "",
@@ -73,7 +83,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhb1ce1",
-        "begin": "",
+        "begin": "2015-08-14T17:03:10.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -238,6 +248,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rro3t3r0",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "79497",
         "begin": "",
@@ -261,7 +281,7 @@
       ]
     },
     "lang": "ja",
-    "officialSite": "http://www.doraeiga.com/",
+    "officialSite": "http://www.doraeiga.com/2012/",
     "begin": "2012-03-03T16:00:00.000Z",
     "end": "2012-03-03T17:30:00.000Z",
     "comment": "",
@@ -279,6 +299,35 @@
       {
         "site": "bangumi",
         "id": "24815"
+      }
+    ]
+  },
+  {
+    "title": "スクライド オルタレイション QUAN",
+    "titleTranslate": {
+      "zh-Hans": [
+        "分身战士 ALTERATION QUAN"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.s-cry-ed.net/",
+    "begin": "2012-03-10T16:00:00.000Z",
+    "end": "2012-03-10T17:35:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrk4e195",
+        "begin": "2012-11-30T16:00:37.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "47644"
       }
     ]
   }

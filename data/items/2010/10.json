@@ -198,6 +198,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrh9objl",
+        "begin": "2016-08-15T08:29:44.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "48910",
         "begin": "",
@@ -504,7 +514,8 @@
     "title": "FORTUNE ARTERIAL 赤い約束",
     "titleTranslate": {
       "zh-Hans": [
-        "FORTUNE ARTERIAL -赤之约束-"
+        "FORTUNE ARTERIAL -赤之约束-",
+        "赤色的约定"
       ]
     },
     "lang": "ja",
@@ -513,6 +524,16 @@
     "end": "2010-12-24T16:53:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrk77zg1",
+        "begin": "2012-09-01T10:01:32.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "7844"
@@ -587,21 +608,31 @@
     ]
   },
   {
-    "title": "宮西達也劇場 おまえうまそうだな",
+    "title": "おまえうまそうだな",
     "titleTranslate": {
       "zh-Hans": [
-        "宫西达也剧场 你看起来很好吃"
+        "你看起来很好吃"
       ]
     },
     "lang": "ja",
-    "officialSite": "http://www.tv-tokyo.co.jp/anime/umasoudana/",
-    "begin": "2010-10-03T21:40:00.000Z",
-    "end": "2010-10-28T21:45:00.000Z",
+    "officialSite": "",
+    "begin": "2010-10-16T16:00:00.000Z",
+    "end": "2010-10-16T17:30:00.000Z",
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhc0nzd",
+        "begin": "2014-09-04T16:20:17.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
-        "id": "17777"
+        "id": "13014"
       }
     ]
   },
@@ -701,6 +732,35 @@
       {
         "site": "bangumi",
         "id": "17777"
+      }
+    ]
+  },
+  {
+    "title": "ハートキャッチプリキュア! 花の都でファッションショー…ですか!?",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Heart Catch光之美少女 超级时尚秀在花之都...真的吗！？"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.precure-movie.com/",
+    "begin": "2010-10-30T16:00:00.000Z",
+    "end": "2010-10-30T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rro3svik",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "13498"
       }
     ]
   }

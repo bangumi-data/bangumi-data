@@ -320,6 +320,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhc0095",
+        "begin": "2014-11-06T09:32:13.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "14691",
         "begin": "",
@@ -639,6 +649,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrk4e56l",
+        "begin": "2012-11-30T16:00:37.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "58916"
       }
@@ -737,6 +757,16 @@
     "end": "2007-03-25T00:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb1dad",
+        "begin": "2015-08-17T03:19:59.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "3132"
@@ -1113,6 +1143,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrjtgg1x",
+        "begin": "2012-12-07T09:18:53.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "80918"
       }
@@ -1234,6 +1274,64 @@
       {
         "site": "bangumi",
         "id": "9425"
+      }
+    ]
+  },
+  {
+    "title": "クレヨンしんちゃん 伝説を呼ぶ 踊れ!アミーゴ!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新 呼唤传说！跳吧！朋友！"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.shinchan-movie.com/",
+    "begin": "2006-04-15T16:00:00.000Z",
+    "end": "2006-04-15T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": "",
+        "url": "http://www.iqiyi.com/v_19rrifwgai.html"
+      },
+      {
+        "site": "bangumi",
+        "id": "8995"
+      }
+    ]
+  },
+  {
+    "title": "名探偵コナン 探偵たちの鎮魂歌",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 侦探们的镇魂歌"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.conan-movie.jp/",
+    "begin": "2006-04-15T16:00:00.000Z",
+    "end": "2006-04-15T17:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9zual",
+        "begin": "2016-11-11T08:33:52.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2976"
       }
     ]
   }

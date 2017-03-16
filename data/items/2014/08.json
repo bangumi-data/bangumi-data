@@ -167,5 +167,34 @@
         "id": "96788"
       }
     ]
+  },
+  {
+    "title": "STAND BY ME ドラえもん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦：伴我同行"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://doraemon-3d.com/",
+    "begin": "2014-08-08T16:00:00.000Z",
+    "end": "2014-08-08T17:35:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrog1cdo",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "95800"
+      }
+    ]
   }
 ]

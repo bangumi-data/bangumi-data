@@ -447,6 +447,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrg4hygp",
+        "begin": "2014-09-12T06:36:50.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "acfun",
         "id": "2471",
         "begin": "",
@@ -510,6 +520,16 @@
     "end": "2013-09-07T15:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrg4dwet",
+        "begin": "2013-07-06T18:25:17.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "acfun",
         "id": "2480",
@@ -631,6 +651,16 @@
     "end": "2013-09-27T14:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrg4hqkl",
+        "begin": "2013-07-07T22:12:47.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "acfun",
         "id": "2467",
@@ -846,6 +876,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrg4hhzp",
+        "begin": "2014-04-09T23:08:03.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "acfun",
         "id": "2474",
         "begin": "",
@@ -865,7 +905,8 @@
     "title": "BROTHERS CONFLICT",
     "titleTranslate": {
       "zh-Hans": [
-        "兄弟战争"
+        "兄弟战争",
+        "兄弟斗争"
       ]
     },
     "lang": "ja",
@@ -874,6 +915,16 @@
     "end": "2013-09-17T11:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrg3waet",
+        "begin": "2014-09-12T06:21:54.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "68730"
@@ -1008,6 +1059,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhb8sh9",
+        "begin": "2015-09-17T05:39:45.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "95245",
         "begin": "",
@@ -1049,6 +1110,112 @@
       {
         "site": "bangumi",
         "id": "75533"
+      }
+    ]
+  },
+  {
+    "title": "参乗合体 トランスフォーマーGo!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "三乘合体 变形金刚GO！"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2013-07-01T16:00:00.000Z",
+    "end": "2014-04-01T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhaeetp",
+        "begin": "2016-02-04T07:54:06.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "186903"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 トリコ 美食神の超食宝",
+    "titleTranslate": {
+      "zh-Hans": [
+        "美食的俘虏剧场版 美食神的超食宝"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2013-07-27T16:00:00.000Z",
+    "end": "2013-07-27T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rro3s6vk",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "94259"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 銀魂 完結篇 万事屋よ永遠なれ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银魂剧场版 完结篇 万事屋永不落"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://wwws.warnerbros.co.jp/gintama/",
+    "begin": "2013-07-06T16:00:00.000Z",
+    "end": "2013-07-06T17:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrmkaxq8",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "67217"
+      }
+    ]
+  },
+  {
+    "title": "ピカチュウとイーブイ☆フレンズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "精灵宝可梦：皮卡丘与伊布好朋友"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-movie.jp/",
+    "begin": "2013-07-13T17:10:00.000Z",
+    "end": "2013-07-13T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "56844"
       }
     ]
   }

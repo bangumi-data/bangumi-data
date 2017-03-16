@@ -2345,7 +2345,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhal2yd",
-        "begin": "",
+        "begin": "2016-07-08T02:33:01.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2745,8 +2745,47 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhaqhpp",
+        "begin": "2016-07-17T11:15:57.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "183591"
+      }
+    ]
+  },
+  {
+    "title": "ONE PIECE FILM GOLD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海贼王 黄金城"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.onepiece-film2016.com/",
+    "begin": "2016-07-23T16:00:00.000Z",
+    "end": "2016-07-23T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rr9tounc",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "144846"
       }
     ]
   }

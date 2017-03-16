@@ -118,6 +118,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrjze9o5",
+        "begin": "2014-04-09T23:31:04.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "7264",
         "begin": "",
@@ -141,7 +151,7 @@
       ]
     },
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://doraeiga.com/2007/",
     "begin": "2007-03-10T16:00:00.000Z",
     "end": "2007-03-10T17:30:00.000Z",
     "comment": "",
@@ -159,6 +169,64 @@
       {
         "site": "bangumi",
         "id": "475"
+      }
+    ]
+  },
+  {
+    "title": "Dr.SLUMP Dr.マシリト アバレちゃん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阿拉蕾 马西利特博士"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2007-03-03T16:00:00.000Z",
+    "end": "2007-03-03T16:05:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rro078h4",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "82729"
+      }
+    ]
+  },
+  {
+    "title": "ONE PIECE エピソードオブアラバスタ 砂漠の王女と海賊たち",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海贼王 沙漠的王女与海贼们"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.onepiece-movie.com/",
+    "begin": "2007-03-03T16:00:00.000Z",
+    "end": "2007-03-03T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rro4gf6k",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1999"
       }
     ]
   }

@@ -42,6 +42,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrifuaqn",
+        "begin": "2013-07-31T09:18:31.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "1964"
       }
@@ -281,7 +291,8 @@
     "title": "MÄR－メルヘヴン－",
     "titleTranslate": {
       "zh-Hans": [
-        "MÄR 魔法世界"
+        "MÄR 魔法世界",
+        "魔兵传奇"
       ]
     },
     "lang": "ja",
@@ -290,6 +301,16 @@
     "end": "2007-03-25T01:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhbyukx",
+        "begin": "2014-11-27T03:51:38.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "9397"
@@ -338,6 +359,16 @@
     "end": "2006-03-27T10:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rriftzty",
+        "begin": "2013-07-31T09:15:43.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "3157"
@@ -662,6 +693,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrk25kq9",
+        "begin": "2014-04-10T01:14:15.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "24008",
         "begin": "",
@@ -674,6 +715,64 @@
       {
         "site": "bangumi",
         "id": "18692"
+      }
+    ]
+  },
+  {
+    "title": "クレヨンしんちゃん 伝説を呼ぶブリブリ 3分ポッキリ大進撃",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新 呼唤传说！三分钟嘎巴大进攻"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.shinchan-movie.com/",
+    "begin": "2005-04-16T16:00:00.000Z",
+    "end": "2005-04-16T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": "",
+        "url": "http://www.iqiyi.com/dongman/20130715/e3372f4570168270.html"
+      },
+      {
+        "site": "bangumi",
+        "id": "8993"
+      }
+    ]
+  },
+  {
+    "title": "名探偵コナン 水平線上の陰謀",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 水平线上的阴谋"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.conan-movie.jp/",
+    "begin": "2005-04-09T16:00:00.000Z",
+    "end": "2005-04-09T17:45:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9zual",
+        "begin": "2016-11-11T08:33:52.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2975"
       }
     ]
   }

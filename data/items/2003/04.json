@@ -406,6 +406,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhb14at",
+        "begin": "2015-08-14T17:07:21.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "3754"
       }
@@ -424,16 +434,6 @@
     "end": "2004-03-28T01:00:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "qq",
-        "id": "z/zgi40gqg05wouh9",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "28288"
@@ -542,6 +542,64 @@
       {
         "site": "bangumi",
         "id": "36484"
+      }
+    ]
+  },
+  {
+    "title": "クレヨンしんちゃん 嵐を呼ぶ 栄光のヤキニクロード",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新 呼风唤雨！光荣的烤肉之路"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.shinchan-movie.com/",
+    "begin": "2003-04-19T16:00:00.000Z",
+    "end": "2003-04-19T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": "",
+        "url": "http://www.iqiyi.com/dongman/20130715/6dadff58ef87d703.html"
+      },
+      {
+        "site": "bangumi",
+        "id": "8989"
+      }
+    ]
+  },
+  {
+    "title": "名探偵コナン 迷宮の十字路",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 迷宫的十字路口"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.conan-movie.jp/",
+    "begin": "2003-04-19T16:00:00.000Z",
+    "end": "2003-04-19T17:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9zual",
+        "begin": "2016-11-11T08:33:52.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2973"
       }
     ]
   }

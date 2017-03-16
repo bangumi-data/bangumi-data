@@ -70,6 +70,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrjvnpl9",
+        "begin": "2014-04-09T23:06:33.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "37562"
       }
@@ -455,6 +465,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhb14f5",
+        "begin": "2015-08-14T17:05:08.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "39808"
       }
@@ -583,6 +603,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrjvnh4p",
+        "begin": "2014-09-12T06:24:04.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "78766",
         "begin": "",
@@ -633,6 +663,73 @@
       {
         "site": "bangumi",
         "id": "42869"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 ポケットモンスター ベストウイッシュ キュレムVS聖剣士 ケルディオ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 精灵宝可梦超级愿望：酋雷姆VS圣剑士 凯路迪欧"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-movie.jp/",
+    "begin": "2012-07-14T16:00:00.000Z",
+    "end": "2012-07-14T17:10:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb8sh9",
+        "begin": "2015-09-17T05:39:45.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "28203"
+      }
+    ]
+  },
+  {
+    "title": "うたえメロエッタ リンカのみをさがせ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "精灵宝可梦：唱歌吧美洛耶塔 找寻梨花果"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-movie.jp/",
+    "begin": "2012-07-14T17:10:00.000Z",
+    "end": "2012-07-14T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "90616"
+      }
+    ]
+  },
+  {
+    "title": "メロエッタのキラキラリサイタル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "精灵宝可梦：美洛耶塔的闪亮音乐会"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-movie.jp/",
+    "begin": "2012-07-14T17:10:00.000Z",
+    "end": "2012-07-14T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "68970"
       }
     ]
   }

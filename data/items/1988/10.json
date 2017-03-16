@@ -27,5 +27,54 @@
         "id": "13677"
       }
     ]
+  },
+  {
+    "title": "新グリム名作劇場",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新格林名作剧场"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-10-02T16:00:00.000Z",
+    "end": "1989-03-26T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrk35gjh",
+        "begin": "2015-01-09T07:11:23.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "78829",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "56113",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "81531"
+      }
+    ]
   }
 ]

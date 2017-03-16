@@ -13,6 +13,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhc3irp",
+        "begin": "2014-12-24T06:19:58.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "4293"
       }
@@ -296,6 +306,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrjzm2wt",
+        "begin": "2012-07-01T06:23:36.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "qq",
         "id": "x/x0ltc9qnko89th2",
         "begin": "",
@@ -441,6 +461,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhb0ru5",
+        "begin": "2015-03-27T02:03:34.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "4312"
       }
@@ -553,6 +583,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrk0argh",
+        "begin": "2016-08-09T08:01:14.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "4294"
       }
@@ -592,6 +632,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhc0add",
+        "begin": "2014-10-27T09:38:08.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "kankan",
         "id": "65442",
         "begin": "",
@@ -623,6 +673,93 @@
       {
         "site": "bangumi",
         "id": "4314"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 銀魂 新訳紅桜篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银魂剧场版 新译红樱篇"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://wwws.warnerbros.co.jp/gintama/",
+    "begin": "2010-04-24T16:00:00.000Z",
+    "end": "2010-04-24T17:35:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrmk9ro0",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "4475"
+      }
+    ]
+  },
+  {
+    "title": "クレヨンしんちゃん 超時空！嵐を呼ぶオラの花嫁",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新 超时空！呼风唤雨的我的新娘"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.shinchan-movie.com/",
+    "begin": "2004-04-17T16:00:00.000Z",
+    "end": "2004-04-17T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": "",
+        "url": "http://www.iqiyi.com/dongman/20130715/bd9fa0657ec6d9b7.html"
+      },
+      {
+        "site": "bangumi",
+        "id": "8999"
+      }
+    ]
+  },
+  {
+    "title": "名探偵コナン 天空の難破船",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 天空的遇难船"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.conan-movie.jp/",
+    "begin": "2010-04-17T16:00:00.000Z",
+    "end": "2010-04-17T17:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9zual",
+        "begin": "2016-11-11T08:33:52.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "3628"
       }
     ]
   }

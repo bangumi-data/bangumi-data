@@ -3,7 +3,8 @@
     "title": "デジモンアドベンチャー",
     "titleTranslate": {
       "zh-Hans": [
-        "数码兽大冒险"
+        "数码兽大冒险",
+        "数码宝贝"
       ]
     },
     "lang": "ja",
@@ -12,6 +13,16 @@
     "end": "2000-03-26T10:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb1dmp",
+        "begin": "2016-05-06T02:36:47.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "3128"
@@ -83,6 +94,35 @@
       {
         "site": "bangumi",
         "id": "1953"
+      }
+    ]
+  },
+  {
+    "title": "ドクタースランプ アラレのびっくりバーン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阿拉蕾 吃惊的道路"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-03-06T16:00:00.000Z",
+    "end": "1999-03-06T16:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rro079v0",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "82728"
       }
     ]
   }

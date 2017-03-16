@@ -47,9 +47,19 @@
     "lang": "ja",
     "officialSite": "http://www.pokemon-movie.jp/",
     "begin": "1998-07-18T16:00:00.000Z",
-    "end": "1998-07-18T17:30:00.000Z",
+    "end": "1998-07-18T17:10:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb8sh9",
+        "begin": "2015-09-17T05:39:45.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "letv",
         "id": "34954",
@@ -63,6 +73,25 @@
       {
         "site": "bangumi",
         "id": "3022"
+      }
+    ]
+  },
+  {
+    "title": "ピカチュウのなつやすみ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "精灵宝可梦：皮卡丘的暑假"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-movie.jp/",
+    "begin": "1998-06-18T17:10:00.000Z",
+    "end": "1998-06-18T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "90612"
       }
     ]
   }

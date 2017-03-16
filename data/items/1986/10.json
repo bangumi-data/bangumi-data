@@ -29,5 +29,34 @@
         "id": "31698"
       }
     ]
+  },
+  {
+    "title": "聖闘士星矢",
+    "titleTranslate": {
+      "zh-Hans": [
+        "圣斗士星矢"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/lineup/tv/seiya/",
+    "begin": "1986-10-11T16:00:00.000Z",
+    "end": "1989-04-01T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb1c1d",
+        "begin": "2015-08-14T17:03:15.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "4843"
+      }
+    ]
   }
 ]

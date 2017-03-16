@@ -51,6 +51,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhb12wx",
+        "begin": "2015-08-14T17:09:03.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "4557"
       }
@@ -131,7 +141,7 @@
       ]
     },
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://doraeiga.com/2010/",
     "begin": "2010-03-06T16:00:00.000Z",
     "end": "2010-03-06T17:30:00.000Z",
     "comment": "",
@@ -149,6 +159,35 @@
       {
         "site": "bangumi",
         "id": "4558"
+      }
+    ]
+  },
+  {
+    "title": "東のエデン 劇場版II Paradise Lost",
+    "titleTranslate": {
+      "zh-Hans": [
+        "东之伊甸 剧场版II Paradise Lost"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://juiz.jp/blog/",
+    "begin": "2010-03-13T16:00:00.000Z",
+    "end": "2010-03-13T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrg7wfm5",
+        "begin": "2013-06-06T06:26:12.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "3632"
       }
     ]
   }

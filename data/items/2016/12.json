@@ -118,6 +118,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrh9ar69",
+        "begin": "2017-02-28T16:00:59.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "10035150",
         "begin": "",
@@ -146,6 +156,16 @@
     "end": "2016-12-12T16:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rr9ym5rg",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "letv",
         "id": "10033176",
@@ -188,6 +208,64 @@
       {
         "site": "bangumi",
         "id": "183394"
+      }
+    ]
+  },
+  {
+    "title": "チェインクロニクル ～ヘクセイタスの閃～ 第1章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "锁链战记～赫克瑟塔斯之光～ 第1章"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://chronicle-anime.com/",
+    "begin": "2016-12-03T16:00:00.000Z",
+    "end": "2016-12-03T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrha8tqp",
+        "begin": "2016-12-16T08:55:22.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "188064"
+      }
+    ]
+  },
+  {
+    "title": "ポッピンQ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "POPIN Q"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.popin-q.com/",
+    "begin": "2016-12-23T16:00:00.000Z",
+    "end": "2016-12-23T17:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9cn1h",
+        "begin": "2017-03-12T08:07:44.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "126185"
       }
     ]
   }

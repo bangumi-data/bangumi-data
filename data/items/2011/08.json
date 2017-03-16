@@ -32,6 +32,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrjzlxfh",
+        "begin": "2012-07-01T06:23:59.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "47164",
         "begin": "",
@@ -102,6 +112,54 @@
       {
         "site": "bangumi",
         "id": "21942"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 ハヤテのごとく! HEAVEN IS A PLACE ON EARTH",
+    "titleTranslate": {
+      "zh-Hans": [
+        "旋风管家 HEAVEN IS A PLACE ON EARTH"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.hayate-project.com/",
+    "begin": "2011-08-27T16:00:00.000Z",
+    "end": "2011-08-27T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhwa7po",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "17792"
+      }
+    ]
+  },
+  {
+    "title": "ポケットモンスター ベストウイッシュ ピカチュウのサマー・ブリッジ・ストーリー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "精灵宝可梦：皮卡丘的夏天·桥·故事"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-movie.jp/",
+    "begin": "2011-08-01T17:10:00.000Z",
+    "end": "2011-08-01T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "90615"
       }
     ]
   }

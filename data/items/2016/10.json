@@ -1523,7 +1523,7 @@
       },
       {
         "site": "iqiyi",
-        "id": "a_19rrh9tmut",
+        "id": "a_19rrh9uell",
         "begin": "2016-10-03T17:35:00.000Z",
         "official": true,
         "premuiumOnly": false,
@@ -1899,6 +1899,16 @@
     "end": "2016-12-18T16:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9z7p5",
+        "begin": "2017-01-05T07:05:37.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bilibili",
         "id": "5486",
@@ -3625,6 +3635,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrh9ar91",
+        "begin": "2017-02-28T16:00:59.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "10035150",
         "begin": "",
@@ -3637,6 +3657,35 @@
       {
         "site": "bangumi",
         "id": "171121"
+      }
+    ]
+  },
+  {
+    "title": "映画 魔法つかいプリキュア! 奇跡の変身！キュアモフルン！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法使光之美少女 奇迹的变身！Cure Mofurun！"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.precure-movie.com/",
+    "begin": "2016-10-29T16:00:00.000Z",
+    "end": "2016-10-29T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rr9rjuvs",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "185274"
       }
     ]
   }

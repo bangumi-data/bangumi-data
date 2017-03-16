@@ -13,6 +13,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrjzu2kp",
+        "begin": "2016-08-10T05:54:38.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "82272",
         "begin": "",
@@ -25,6 +35,37 @@
       {
         "site": "bangumi",
         "id": "9540"
+      }
+    ]
+  },
+  {
+    "title": "UFOロボ グレンダイザー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "UFO机器人 古连泰沙",
+        "金刚战神",
+        "巨灵神"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1975-10-05T16:00:00.000Z",
+    "end": "1977-02-27T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb1cb9",
+        "begin": "2015-10-29T08:35:22.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "37176"
       }
     ]
   }

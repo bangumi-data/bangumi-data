@@ -137,6 +137,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhb1d8t",
+        "begin": "2015-09-17T05:39:18.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "3131"
       }
@@ -304,6 +314,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhc0299",
+        "begin": "2014-11-03T10:06:18.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "1856"
       }
@@ -325,6 +345,64 @@
       {
         "site": "bangumi",
         "id": "37078"
+      }
+    ]
+  },
+  {
+    "title": "クレヨンしんちゃん 嵐を呼ぶ アッパレ!戦国大合戦",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新 呼风唤雨！战国大合战"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.shinchan-movie.com/",
+    "begin": "2002-04-20T16:00:00.000Z",
+    "end": "2002-04-20T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": "",
+        "url": "http://www.iqiyi.com/dongman/20130715/48ffcf0034a37957.html"
+      },
+      {
+        "site": "bangumi",
+        "id": "8987"
+      }
+    ]
+  },
+  {
+    "title": "名探偵コナン ベイカー街の亡霊",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 贝克街的亡灵"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.conan-movie.jp/",
+    "begin": "2002-04-20T16:00:00.000Z",
+    "end": "2002-04-20T17:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9zual",
+        "begin": "2016-11-11T08:33:52.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2972"
       }
     ]
   }

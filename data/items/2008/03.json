@@ -42,6 +42,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrgjb89p",
+        "begin": "2014-04-09T23:30:25.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "qq",
         "id": "7/77mnuidmyfuyr5d",
         "begin": "",
@@ -107,7 +117,7 @@
       ]
     },
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://doraeiga.com/2008/",
     "begin": "2008-03-08T16:00:00.000Z",
     "end": "2008-03-08T17:30:00.000Z",
     "comment": "",
@@ -154,6 +164,64 @@
       {
         "site": "bangumi",
         "id": "118574"
+      }
+    ]
+  },
+  {
+    "title": "聖闘士星矢 冥王ハーデスエリシオン編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "圣斗士星矢 极乐净土篇"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/sp/seiya/index.html",
+    "begin": "2008-03-28T16:00:00.000Z",
+    "end": "2008-08-22T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb1e8x",
+        "begin": "2015-08-14T17:06:44.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1486"
+      }
+    ]
+  },
+  {
+    "title": "ONE PIECE THE MOVIE エピソードオブチョッパー+ 冬に咲く、奇跡の桜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海贼王 绽放在寒冬的奇迹樱花"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/movie/2008_onepiece/",
+    "begin": "2008-03-01T16:00:00.000Z",
+    "end": "2008-03-01T17:55:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rro4hb8o",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2000"
       }
     ]
   }

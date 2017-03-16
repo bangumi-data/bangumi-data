@@ -60,7 +60,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "GANGSTA",
-        "GANGSTA 匪徒"
+        "GANGSTA 匪徒",
+        "黑街GANGSTA"
       ],
       "en": [
         "GANGSTA"
@@ -72,6 +73,16 @@
     "end": "2015-09-23T18:15:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhas5xl",
+        "begin": "2016-07-14T10:16:33.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "letv",
         "id": "10010424",
@@ -2933,6 +2944,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrh9o7qd",
+        "begin": "2016-08-17T06:57:17.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bilibili",
         "id": "2592",
         "begin": "2015-07-09T18:00:00.000Z",
@@ -3566,6 +3587,83 @@
       {
         "site": "bangumi",
         "id": "124646"
+      }
+    ]
+  },
+  {
+    "title": "コードギアス 亡国のアキト 第4章「憎しみの記憶から」",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Code Geass 亡国的阿基德 第四章「憎恨记忆」"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.geass.jp/akito/",
+    "begin": "2015-07-04T16:00:00.000Z",
+    "end": "2015-07-04T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9mhz9",
+        "begin": "2016-08-31T16:02:16.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "82177",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "113887"
+      }
+    ]
+  },
+  {
+    "title": "ポケモン・ザ・ムービーXY 光輪の超魔神 フーパ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "精灵宝可梦XY 光轮的超魔神 胡巴"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-movie.jp/",
+    "begin": "2015-07-18T16:00:00.000Z",
+    "end": "2015-07-18T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "108820"
+      }
+    ]
+  },
+  {
+    "title": "ピカチュウとポケモンおんがくたい",
+    "titleTranslate": {
+      "zh-Hans": [
+        "精灵宝可梦：皮卡丘与宝可梦音乐队"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-movie.jp/short/",
+    "begin": "2015-07-18T17:10:00.000Z",
+    "end": "2015-07-18T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "120177"
       }
     ]
   }

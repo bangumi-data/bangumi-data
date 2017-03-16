@@ -518,6 +518,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhb12nd",
+        "begin": "2015-08-17T03:04:36.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "sohu",
         "id": "s2014/msnzsc",
         "begin": "2014-07-05T12:00:00.000Z",
@@ -632,6 +642,16 @@
     "end": "2015-03-28T01:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhaj3bp",
+        "begin": "2016-04-05T09:50:12.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "qq",
         "id": "1/1c649pqidecllze",
@@ -2330,6 +2350,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrh923sd",
+        "begin": "2016-12-31T16:02:28.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "10027926",
         "begin": "",
@@ -2469,6 +2499,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhb1i2p",
+        "begin": "2015-06-01T09:18:35.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "qq",
         "id": "t/t2ba472ebgp8ikk",
         "begin": "",
@@ -2508,6 +2548,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhb8sh9",
+        "begin": "2015-09-17T05:39:45.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "qq",
         "id": "z/z57iqzs8ttl7b1k",
         "begin": "",
@@ -2530,6 +2580,25 @@
       {
         "site": "bangumi",
         "id": "90368"
+      }
+    ]
+  },
+  {
+    "title": "ピカチュウ、これなんのカギ?",
+    "titleTranslate": {
+      "zh-Hans": [
+        "精灵宝可梦：皮卡丘，这是什么的钥匙？"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-movie.jp/short/",
+    "begin": "2014-07-19T17:10:00.000Z",
+    "end": "2014-07-19T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "99951"
       }
     ]
   }
