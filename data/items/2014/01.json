@@ -1914,25 +1914,6 @@
     ]
   },
   {
-    "title": "犬猫アワー「47都道府犬R＆にゃ～めん」",
-    "titleTranslate": {
-      "zh-Hans": [
-        "猫时间47都道府犬R & 喵面"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://www.ntv.co.jp/inuneko/",
-    "begin": "2014-01-11T18:00:00.000Z",
-    "end": "2014-03-29T18:30:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "90899"
-      }
-    ]
-  },
-  {
     "title": "てさぐれ！部活もの あんこーる",
     "titleTranslate": {
       "zh-Hans": [
@@ -2114,8 +2095,58 @@
     "comment": "",
     "sites": [
       {
+        "site": "tudou",
+        "id": "7gCdfLVzEac",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "4d14916662e111e3b8b7",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "l/lek65108jsrrl4p",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "241",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "acfun",
+        "id": "210",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
-        "id": "148072"
+        "id": "88039"
       }
     ]
   },

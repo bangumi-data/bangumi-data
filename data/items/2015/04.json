@@ -2639,10 +2639,10 @@
     ]
   },
   {
-    "title": "銀魂° (新シリーズ)",
+    "title": "銀魂゜",
     "titleTranslate": {
       "zh-Hans": [
-        "银魂 新系列"
+        "银魂°"
       ],
       "en": [
         "Gintama"
@@ -3563,25 +3563,6 @@
     ]
   },
   {
-    "title": "銀魂゜",
-    "titleTranslate": {
-      "zh-Hans": [
-        "银魂°"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://www.tv-tokyo.co.jp/anime/gintama",
-    "begin": "2015-04-08T09:00:00.000Z",
-    "end": "2016-03-30T09:30:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "120791"
-      }
-    ]
-  },
-  {
     "title": "フューチャーカード バディファイト100",
     "titleTranslate": {
       "en": [
@@ -3597,6 +3578,46 @@
     "end": "2016-03-25T23:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "youku",
+        "id": "0a14b8a862d411e3a705",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "g/gkvdkxuaepreo2m",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "tudou",
+        "id": "0yYeCeFSZDo",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2642",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "127138"
@@ -3642,8 +3663,42 @@
     "comment": "",
     "sites": [
       {
+        "site": "acfun",
+        "id": "1470265",
+        "begin": "2014-04-11T01:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhaz605",
+        "begin": "2014-04-11T01:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "tucao",
+        "id": "圣斗士星矢+黄金魂",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "116716"
+      },
+      {
+        "site": "saraba1st",
+        "id": "1094185"
       }
     ]
   },

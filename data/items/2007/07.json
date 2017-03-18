@@ -503,6 +503,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "iqiyi",
+        "id": "a_19rrhb8sh9",
+        "begin": "2015-09-17T05:39:45.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "71821",
         "begin": "",
@@ -544,35 +554,6 @@
       {
         "site": "bangumi",
         "id": "755"
-      }
-    ]
-  },
-  {
-    "title": "劇場版ポケットモンスター ダイヤモンド&パール ディアルガVSパルキアVSダークライ",
-    "titleTranslate": {
-      "zh-Hans": [
-        "剧场版 精灵宝可梦DP：帝牙卢卡VS帕路奇犽VS达克莱伊"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://www.pokemon-movie.jp/",
-    "begin": "2007-07-14T16:00:00.000Z",
-    "end": "2007-07-14T17:10:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rrhb8sh9",
-        "begin": "2015-09-17T05:39:45.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "3031"
       }
     ]
   }
