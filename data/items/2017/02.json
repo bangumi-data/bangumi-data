@@ -38,13 +38,14 @@
         "THE DRAGON DENTIST"
       ],
       "zh-Hans": [
-        "龙之牙医"
+        "龙之牙医",
+        "龙的牙医"
       ]
     },
     "lang": "ja",
     "officialSite": "http://www.nhk.or.jp/anime/ryu/",
     "begin": "2017-02-18T11:00:00.000Z",
-    "end": "",
+    "end": "2017-02-25T11:46:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -157,6 +158,47 @@
       {
         "site": "bangumi",
         "id": "189660"
+      }
+    ]
+  },
+  {
+    "title": "虐殺器官",
+    "titleTranslate": {
+      "zh-Hans": [
+        "虐杀器官"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://project-itoh.com/",
+    "begin": "2017-02-03T16:00:00.000Z",
+    "end": "2017-02-03T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "100447"
+      }
+    ]
+  },
+  {
+    "title": "ピカイア!!",
+    "titleTranslate": {
+      "en": [
+        "PIKAIA"
+      ],
+      "zh-Hans": [
+        "皮卡虫!!"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.nhk.or.jp/seimei/pikaia2.html",
+    "begin": "2017-02-26T07:45:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "210806"
       }
     ]
   }

@@ -118,6 +118,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "rZN9ib2PJOXfaWMA",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "iqiyi",
         "id": "a_19rrh9ar69",
         "begin": "2017-02-28T16:00:59.000Z",
@@ -286,6 +296,25 @@
       {
         "site": "bangumi",
         "id": "126185"
+      }
+    ]
+  },
+  {
+    "title": "名探偵コナン エピソード“ONE” 小さくなった名探偵",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 Episode“ONE” 变小的名侦探"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.ytv.co.jp/conan/episodeone/",
+    "begin": "2016-12-09T16:00:00.000Z",
+    "end": "2016-12-09T17:35:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "192732"
       }
     ]
   }
