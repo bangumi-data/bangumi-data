@@ -855,7 +855,8 @@
     "title": "団地ともお",
     "titleTranslate": {
       "zh-Hans": [
-        "住宅区友夫"
+        "住宅区友夫",
+        "团地友夫"
       ]
     },
     "lang": "ja",
@@ -864,6 +865,16 @@
     "end": "2015-02-07T00:55:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "ISELiafFXxwVo5k4",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "61118"
@@ -1137,6 +1148,16 @@
     "end": "2014-03-26T10:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "mJaCAGjOPnzfXcU",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "69253"
@@ -1489,6 +1510,25 @@
       {
         "site": "bangumi",
         "id": "54614"
+      }
+    ]
+  },
+  {
+    "title": "忍たま乱太郎 21期",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者乱太郎 21期"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.nhk.or.jp/anime/nintama/",
+    "begin": "2013-04-01T08:35:00.000Z",
+    "end": "2013-07-12T09:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "161699"
       }
     ]
   }

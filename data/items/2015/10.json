@@ -3455,6 +3455,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "ib1M9uyOJibTeaGIA",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "10024046",
         "begin": "",
@@ -3595,6 +3605,35 @@
       {
         "site": "bangumi",
         "id": "138844"
+      }
+    ]
+  },
+  {
+    "title": "屍者の帝国",
+    "titleTranslate": {
+      "zh-Hans": [
+        "尸者的帝国"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://project-itoh.com/",
+    "begin": "2015-10-02T16:00:00.000Z",
+    "end": "2015-10-02T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "TuHLSbEXh8Uopg4",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "118784"
       }
     ]
   }

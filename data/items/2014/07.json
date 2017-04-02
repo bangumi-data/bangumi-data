@@ -2084,6 +2084,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "poJu7FS6KmjLSbE",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "letv",
         "id": "10003093",
         "begin": "",
@@ -2584,6 +2594,36 @@
       {
         "site": "bangumi",
         "id": "99951"
+      }
+    ]
+  },
+  {
+    "title": "思い出のマーニー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "回忆中的玛妮",
+        "记忆中的玛妮"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://marnie.jp/index.html",
+    "begin": "2014-07-19T16:00:00.000Z",
+    "end": "2014-07-19T17:45:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "pYVv7VW7K2nMSrI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "90367"
       }
     ]
   }

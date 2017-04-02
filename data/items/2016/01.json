@@ -781,6 +781,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "SicnTUbkfj80wrhY",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "acfun",
         "id": "1470429",
         "begin": "2016-01-08T15:00:00.000Z",
@@ -2227,6 +2237,60 @@
       {
         "site": "bangumi",
         "id": "7707"
+      }
+    ]
+  },
+  {
+    "title": "KING OF PRISM by PrettyRhythm",
+    "titleTranslate": {},
+    "lang": "ja",
+    "officialSite": "http://kinpri.com/",
+    "begin": "2016-01-09T16:00:00.000Z",
+    "end": "2016-01-09T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "IxQAfuZMvPpd20M",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "148226"
+      }
+    ]
+  },
+  {
+    "title": "ガラスの花と壊す世界",
+    "titleTranslate": {
+      "zh-Hans": [
+        "玻璃之花与崩坏的世界"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://garakowa.jp/",
+    "begin": "2016-01-09T16:00:00.000Z",
+    "end": "2016-01-09T17:10:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "VPvVU7shkc8ysBg",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "124532"
       }
     ]
   }

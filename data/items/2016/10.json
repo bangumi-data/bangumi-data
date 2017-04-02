@@ -1341,7 +1341,6 @@
         "Miss Bernard said."
       ],
       "zh-Hans": [
-        "伯纳德小姐说",
         "伯纳德小姐说。"
       ]
     },
@@ -3646,6 +3645,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "vIhk4kqwIF7BP6c",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "iqiyi",
         "id": "a_19rrh9ar91",
         "begin": "2017-02-28T16:00:59.000Z",
@@ -3701,41 +3710,61 @@
     ]
   },
   {
-    "title": "きんだーてれび",
+    "title": "彼岸島X",
     "titleTranslate": {
-      "en": [
-        "kinderTV"
+      "zh-Hans": [
+        "彼岸岛X"
       ]
     },
     "lang": "ja",
-    "officialSite": "http://www.tv-tokyo.co.jp/anime/kinder/",
-    "begin": "2016-10-01T22:14:00.000Z",
-    "end": "",
+    "officialSite": "http://higanjimax.com/",
+    "begin": "2016-10-15T16:00:00.000Z",
+    "end": "2017-03-25T16:05:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "j7WfHYXrW5n8euI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "194952"
+      }
+    ]
   },
   {
-    "title": "どちゃもん じゅにあ(第2シリーズ)",
-    "titleTranslate": {},
-    "lang": "ja",
-    "officialSite": "http://www9.nhk.or.jp/anime/dochamon/",
-    "begin": "2016-10-10T09:45:00.000Z",
-    "end": "2017-02-27T09:55:00.000Z",
-    "comment": "",
-    "sites": []
-  },
-  {
-    "title": "レゴ ニンジャゴー(よみがえりの日編)",
+    "title": "クビキリサイクル 青色サヴァンと戯言遣い",
     "titleTranslate": {
-      "en": [
-        "Lego Ninjago"
+      "zh-Hans": [
+        "斩首循环 蓝色学者与戏言跟班"
       ]
     },
     "lang": "ja",
-    "officialSite": "http://www.tv-tokyo.co.jp/anime/lego_ninjago/",
-    "begin": "2016-10-29T00:30:00.000Z",
-    "end": "2017-03-25T01:00:00.000Z",
+    "officialSite": "http://zaregoto-series.com/",
+    "begin": "2016-10-26T16:00:00.000Z",
+    "end": "2017-07-26T16:30:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "Khr2dNxCsvBT0Tk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "181880"
+      }
+    ]
   }
 ]

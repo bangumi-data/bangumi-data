@@ -294,9 +294,19 @@
     "lang": "ja",
     "officialSite": "http://gundam-tb.net/",
     "begin": "2015-12-25T16:00:00.000Z",
-    "end": "2016-04-22T16:30:00.000Z",
+    "end": "2016-04-08T16:20:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "bilibili",
+        "id": "6006",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "151345"
@@ -358,6 +368,35 @@
       {
         "site": "bangumi",
         "id": "139663"
+      }
+    ]
+  },
+  {
+    "title": "ARIA The AVVENIRE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "水星领航员 The AVVENIRE"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.ariacompany.net/",
+    "begin": "2015-12-24T16:00:00.000Z",
+    "end": "2016-06-24T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "pohk4kqwIF7BP6c",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "124341"
       }
     ]
   }

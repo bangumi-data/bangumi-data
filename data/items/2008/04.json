@@ -1381,13 +1381,32 @@
     ]
   },
   {
-    "title": "キディ・グレイド",
-    "titleTranslate": {},
+    "title": "はっけん たいけん だいすき! しまじろう",
+    "titleTranslate": {
+      "zh-Hans": [
+        "可爱巧虎岛"
+      ]
+    },
     "lang": "ja",
-    "officialSite": "http://www.kiddygrade.com/1/index2.html",
-    "begin": "2008-04-28T02:00:00.000Z",
-    "end": "2008-10-06T02:30:00.000Z",
+    "officialSite": "",
+    "begin": "2008-04-07T16:00:00.000Z",
+    "end": "2010-03-29T16:30:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "lrqWFHziaUpDzcdk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "212150"
+      }
+    ]
   }
 ]

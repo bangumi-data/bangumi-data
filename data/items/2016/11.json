@@ -29,27 +29,33 @@
     ]
   },
   {
-    "title": "トランスフォーマーアドベンチャー -マイクロンの章- 新たなる敵",
+    "title": "神々の記",
     "titleTranslate": {
-      "en": [
-        "TRANSFORMERS ADVENTURE"
+      "zh-Hans": [
+        "神明之记",
+        "众神记"
       ]
     },
     "lang": "ja",
-    "officialSite": "http://tf.takaratomy.co.jp/toy/search/adventure/anim.html",
-    "begin": "2016-11-13T00:00:00.000Z",
-    "end": "2016-12-18T00:30:00.000Z",
-    "comment": "",
-    "sites": []
-  },
-  {
-    "title": "うさぎのモフィ(第4シーズン)",
-    "titleTranslate": {},
-    "lang": "ja",
-    "officialSite": "http://www9.nhk.or.jp/anime/mofy/",
-    "begin": "2016-11-27T21:40:00.000Z",
+    "officialSite": "http://kamigaminoki.com/",
+    "begin": "2016-11-24T16:25:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "dculI4vxYZ8CgOg",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "196075"
+      }
+    ]
   }
 ]
