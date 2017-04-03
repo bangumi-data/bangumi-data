@@ -1216,6 +1216,26 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "t4xo5k60JGLFQ6s",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "5960",
+        "begin": "2017-04-01T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "207567"
       }
@@ -1797,6 +1817,25 @@
       {
         "site": "bangumi",
         "id": "207491"
+      }
+    ]
+  },
+  {
+    "title": "かみさまみならい ヒミツのここたま 新シリーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "见习神明 秘密的心灵 新系列"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/cocotama/index2.html",
+    "begin": "2017-04-06T09:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "210465"
       }
     ]
   }
