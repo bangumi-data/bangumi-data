@@ -12,6 +12,10 @@ const validateItems = readJsonPaths(ITEMS_DIRECTORY)
     .then((itemPaths) => {
         // 同步读取所有json文件
         itemPaths.forEach((itemPath) => {
+            if (!(/0[1-9]|1[0-2]\.json$/.test(itemPath))) {
+                throw new Error(`Invalid file name: ${itemPath}`);
+            }
+
             const dataArray = fs.readJsonSync(itemPath);
 
             dataArray.forEach((itemData) => {
