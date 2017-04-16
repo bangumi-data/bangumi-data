@@ -31,6 +31,9 @@
   {
     "title": "冴えない彼女の育てかた♭",
     "titleTranslate": {
+      "en": [
+        "Saenai heroine no sodate kata. flat"
+      ],
       "zh-Hans": [
         "路人女主的养成方法 ♭"
       ]
@@ -84,7 +87,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh9f4qt",
-        "begin": "",
+        "begin": "2017-04-14T17:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": false,
@@ -138,11 +141,11 @@
         "site": "tudou",
         "id": "RC4VeE5Wkhc",
         "begin": "2017-04-05T16:00:00.000Z",
+        "official": true,
         "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": "",
-        "official": true
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -206,9 +209,20 @@
     "comment": "",
     "sites": [
       {
+        "site": "sohu",
+        "id": "s2017/dhpoxdsjcb",
+        "begin": "2017-04-04T13:55:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "youku",
         "id": "70efbfbd5d23144811ef",
         "begin": "2017-04-04T13:55:00.000Z",
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -218,6 +232,7 @@
         "site": "tudou",
         "id": "_UKJ9sX-aTc",
         "begin": "2017-04-04T13:55:00.000Z",
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -811,6 +826,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "mgtv",
+        "id": "314036",
+        "begin": "2017-04-11T19:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "sohu",
         "id": "s2017/xmyrz6",
         "begin": "2017-04-11T19:00:00.000Z",
@@ -880,6 +905,7 @@
     "title": "ツインエンジェルBREAK",
     "titleTranslate": {
       "zh-Hans": [
+        "快盗天使双胞胎 BREAK",
         "双天使 BREAK"
       ]
     },
@@ -889,6 +915,26 @@
     "end": "",
     "comment": "",
     "sites": [
+      {
+        "site": "bilibili",
+        "id": "5955",
+        "begin": "2017-04-15T03:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "10036007",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "pptv",
         "id": "LRXicfeVLuiclc2kI",
@@ -921,6 +967,16 @@
     "end": "",
     "comment": "",
     "sites": [
+      {
+        "site": "letv",
+        "id": "10036008",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "acfun",
         "id": "1480103",
@@ -1992,6 +2048,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "letv",
+        "id": "10036009",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "acfun",
         "id": "1480102",
         "begin": "",
@@ -2103,7 +2169,7 @@
       {
         "site": "bilibili",
         "id": "5979",
-        "begin": "",
+        "begin": "2017-04-15T16:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2446,6 +2512,112 @@
       {
         "site": "bangumi",
         "id": "193065"
+      }
+    ]
+  },
+  {
+    "title": "スナックワールド",
+    "titleTranslate": {
+      "en": [
+        "THE SNACK WORLD"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/snack-world/",
+    "begin": "2017-04-13T10:25:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "188174"
+      }
+    ]
+  },
+  {
+    "title": "拡張少女系トライナリー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "扩张少女系Trinary"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://anime.kakutora.com/",
+    "begin": "2017-04-12T07:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "6069",
+        "begin": "2017-04-14T03:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "10036060",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "hrqWFHziaUpDzcdk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "192637"
+      }
+    ]
+  },
+  {
+    "title": "100%パスカル先生",
+    "titleTranslate": {
+      "zh-Hans": [
+        "100%帕斯卡老师"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://pasu-chi.com/",
+    "begin": "2017-04-14T21:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "206011"
+      }
+    ]
+  },
+  {
+    "title": "プリプリちぃちゃん!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "噗利噗利奇!!"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://pasu-chi.com/",
+    "begin": "2017-04-14T21:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "207242"
       }
     ]
   }
