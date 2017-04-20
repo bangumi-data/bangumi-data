@@ -7,9 +7,9 @@
       ]
     },
     "lang": "ja",
-    "officialSite": "",
-    "begin": "1980-10-01T16:00:00.000Z",
-    "end": "1981-12-23T16:30:00.000Z",
+    "officialSite": "http://www.mxtv.co.jp/atom/",
+    "begin": "1980-10-01T22:00:00.000Z",
+    "end": "1981-12-23T22:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -75,6 +75,44 @@
       {
         "site": "bangumi",
         "id": "28287"
+      }
+    ]
+  },
+  {
+    "title": "太陽の使者 鉄人28号",
+    "titleTranslate": {
+      "zh-Hans": [
+        "太阳的使者 铁人28号"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.mxtv.co.jp/tetsujin28/",
+    "begin": "1980-10-03T22:30:00.000Z",
+    "end": "1981-09-25T10:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37259"
+      }
+    ]
+  },
+  {
+    "title": "あしたのジョー2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "明日之丈2"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1980-10-13T12:00:00.000Z",
+    "end": "1981-08-31T12:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "67753"
       }
     ]
   }

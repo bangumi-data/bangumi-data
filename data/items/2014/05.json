@@ -56,5 +56,34 @@
         "id": "104569"
       }
     ]
+  },
+  {
+    "title": "GJ部@",
+    "titleTranslate": {
+      "zh-Hans": [
+        "GJ部@"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.ntv.co.jp/gj/",
+    "begin": "2014-05-05T16:00:00.000Z",
+    "end": "2014-05-05T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "ta2HBW3TQ4HkYso",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "90772"
+      }
+    ]
   }
 ]

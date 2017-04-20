@@ -1349,5 +1349,63 @@
         "id": "56844"
       }
     ]
+  },
+  {
+    "title": "白菜アニメ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "白菜"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://hakusai-anime.shtair.net/",
+    "begin": "2013-07-15T16:00:00.000Z",
+    "end": "2014-12-29T16:05:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "PTUfnQVr2xl8ibmI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "80768"
+      }
+    ]
+  },
+  {
+    "title": "風立ちぬ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "起风了"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.kazetachinu.jp/",
+    "begin": "2013-07-20T16:00:00.000Z",
+    "end": "2013-07-20T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "p6yIBm7URILlY8s",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "56846"
+      }
+    ]
   }
 ]

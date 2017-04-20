@@ -4,12 +4,15 @@
     "titleTranslate": {
       "zh-Hans": [
         "城市猎人"
+      ],
+      "en": [
+        "CITY HUNTER"
       ]
     },
     "lang": "ja",
-    "officialSite": "",
-    "begin": "1987-04-06T16:00:00.000Z",
-    "end": "1988-03-28T16:30:00.000Z",
+    "officialSite": "http://www.cityhunter-dvd.com/",
+    "begin": "1987-04-06T18:35:00.000Z",
+    "end": "1988-03-28T19:05:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -67,8 +70,8 @@
     },
     "lang": "ja",
     "officialSite": "http://www.dvd-orangeroad.com/",
-    "begin": "1987-04-06T16:00:00.000Z",
-    "end": "1988-03-07T16:30:00.000Z",
+    "begin": "1987-04-06T12:00:00.000Z",
+    "end": "1988-03-07T12:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -94,6 +97,25 @@
       {
         "site": "bangumi",
         "id": "2042"
+      }
+    ]
+  },
+  {
+    "title": "赤い光弾ジリオン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "赤色光弹"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.tatsunoko.co.jp/works/archive/zillion.html",
+    "begin": "1987-04-12T12:00:00.000Z",
+    "end": "1987-12-13T12:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "26798"
       }
     ]
   }
