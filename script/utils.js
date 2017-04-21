@@ -1,4 +1,4 @@
-const fs = require('fs-extra');
+const klaw = require('klaw');
 
 /**
  * 获取文件夹下所有通过正则匹配的文件路径
@@ -10,7 +10,7 @@ const readFilePaths = (startPoint, pattern = /.+/gi) => {
     const filePaths = [];
 
     return new Promise((resolve, reject) => {
-        fs.walk(startPoint)
+        klaw(startPoint)
         .on('data', (item) => {
             if (pattern.test(item.path)) {
                 filePaths.push(item.path);
