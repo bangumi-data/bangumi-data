@@ -79,8 +79,8 @@
     },
     "lang": "ja",
     "officialSite": "http://www.gundam.jp/",
-    "begin": "1979-04-07T16:00:00.000Z",
-    "end": "1980-01-26T16:30:00.000Z",
+    "begin": "1979-04-07T12:00:00.000Z",
+    "end": "1980-01-26T12:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -96,6 +96,44 @@
       {
         "site": "bangumi",
         "id": "50"
+      }
+    ]
+  },
+  {
+    "title": "新巨人の星II",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新巨人之星II"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1979-04-14T22:30:00.000Z",
+    "end": "1979-09-29T23:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "213787"
+      }
+    ]
+  },
+  {
+    "title": "ザ★ウルトラマン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "乔尼亚斯奥特曼"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1979-04-04T11:00:00.000Z",
+    "end": "1980-03-26T11:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "61260"
       }
     ]
   }
