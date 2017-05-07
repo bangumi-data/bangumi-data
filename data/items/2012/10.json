@@ -176,7 +176,8 @@
         "Little Busters!"
       ],
       "zh-Hans": [
-        "Little Busters!"
+        "Little Busters!",
+        "小小克星"
       ]
     },
     "lang": "ja",
@@ -185,6 +186,16 @@
     "end": "2013-04-06T14:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "9Av1c9tBse9S0Dg",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "38040"
@@ -333,6 +344,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "6hHradE3pibVIxia4",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "iqiyi",
         "id": "a_19rrgib6st",
         "begin": "2014-03-24T08:12:03.000Z",
@@ -468,6 +489,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "B3tFwyuRATibiaIIg",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "iqiyi",
         "id": "a_19rrhb2l3l",
         "begin": "2015-05-06T09:10:10.000Z",
@@ -516,7 +547,8 @@
     "title": "獣旋バトル モンスーノ",
     "titleTranslate": {
       "zh-Hans": [
-        "能量兽之战"
+        "能量兽之战",
+        "兽旋战斗"
       ]
     },
     "lang": "ja",
@@ -525,6 +557,16 @@
     "end": "2013-09-25T09:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "Rb2HBW3TQ4HkYso",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "iqiyi",
         "id": "a_19rrhc35gx",
@@ -1101,6 +1143,83 @@
       {
         "site": "bangumi",
         "id": "37303"
+      }
+    ]
+  },
+  {
+    "title": "宇宙戦艦ヤマト2199 第三章「果てしなき航海」",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战舰大和号2199 第三章「无尽的航海」"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.yamato2199.net/",
+    "begin": "2012-10-13T16:00:00.000Z",
+    "end": "2012-10-13T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "47731"
+      }
+    ]
+  },
+  {
+    "title": "バイオハザード ダムネーション",
+    "titleTranslate": {
+      "zh-Hans": [
+        "生化危机 诅咒"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.biohazardcg2.com/",
+    "begin": "2012-10-27T16:00:00.000Z",
+    "end": "2012-10-27T17:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "72pGxCySAkCjIYk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "49270"
+      }
+    ]
+  },
+  {
+    "title": "THE IDOLM@STER SHINY FESTA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "偶像大师 闪耀祭典"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2012-10-25T16:00:00.000Z",
+    "end": "2012-10-25T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "q8ib5N58FdbMWlPw",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "52707"
       }
     ]
   }

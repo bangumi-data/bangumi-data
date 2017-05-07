@@ -173,6 +173,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "NTUfnQVr2xl8ibmI",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "69942"
       }
@@ -1074,7 +1084,7 @@
     "sites": [
       {
         "site": "pptv",
-        "id": "uuXfXcUrm9k8uiaI",
+        "id": "KB76eOBGtvRX1T0",
         "begin": "",
         "official": false,
         "premuiumOnly": false,
@@ -1405,6 +1415,35 @@
       {
         "site": "bangumi",
         "id": "56846"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士ガンダムAGE MEMORY OF EDEN",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达AGE MEMORY OF EDEN"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.gundam-age.net/memory_of_eden/index.html",
+    "begin": "2013-07-26T16:00:00.000Z",
+    "end": "2013-07-26T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "HB33dd1DsicFU0jo",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "65601"
       }
     ]
   }

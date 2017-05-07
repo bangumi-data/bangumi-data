@@ -3,7 +3,8 @@
     "title": "今日のあすかショー",
     "titleTranslate": {
       "zh-Hans": [
-        "天然萌少女明日香"
+        "天然萌少女明日香",
+        "今天的明日香"
       ]
     },
     "lang": "ja",
@@ -12,6 +13,16 @@
     "end": "2013-01-04T14:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "vd6qKJD2ZqQHhe0",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "46079"
@@ -141,6 +152,35 @@
       {
         "site": "bangumi",
         "id": "24593"
+      }
+    ]
+  },
+  {
+    "title": "京騒戯画",
+    "titleTranslate": {
+      "zh-Hans": [
+        "京骚戏画"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.kyousogiga.com/",
+    "begin": "2012-08-31T16:00:00.000Z",
+    "end": "2012-12-22T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "WISAicmbMPHrdW8M",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "42342"
       }
     ]
   }

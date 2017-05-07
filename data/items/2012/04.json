@@ -1197,7 +1197,8 @@
     "title": "銀河へキックオフ!!",
     "titleTranslate": {
       "zh-Hans": [
-        "银河KICK OFF！！"
+        "银河KICK OFF！！",
+        "向银河开球"
       ]
     },
     "lang": "ja",
@@ -1206,6 +1207,16 @@
     "end": "2013-02-26T09:55:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "9CsVkicth0Q9y8Fg",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "31374"
@@ -1492,6 +1503,25 @@
       {
         "site": "bangumi",
         "id": "161698"
+      }
+    ]
+  },
+  {
+    "title": "宇宙戦艦ヤマト2199 第一章「遥かなる旅立ち」",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战舰大和号2199 第一章「踏上遥远的征途」"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.yamato2199.net/",
+    "begin": "2012-04-07T16:00:00.000Z",
+    "end": "2012-04-07T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37745"
       }
     ]
   }

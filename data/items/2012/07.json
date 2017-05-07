@@ -771,6 +771,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "uuXfXcUrm9k8uiaI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "42869"
       }
@@ -850,6 +860,35 @@
       {
         "site": "bangumi",
         "id": "68970"
+      }
+    ]
+  },
+  {
+    "title": "グスコーブドリの伝記",
+    "titleTranslate": {
+      "zh-Hans": [
+        "古斯柯布多力传记"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2012-07-07T16:00:00.000Z",
+    "end": "2012-07-07T17:45:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "xK2HBW3TQ4HkYso",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "31435"
       }
     ]
   }
