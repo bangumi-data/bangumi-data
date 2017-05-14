@@ -868,6 +868,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "jLSPDXXbS4nsatI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "14996"
       }
@@ -878,7 +888,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "「C」",
-        "金钱掌控"
+        "金钱掌控",
+        "钱·未来式"
       ]
     },
     "lang": "ja",
@@ -887,6 +898,16 @@
     "end": "2011-06-23T16:15:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "ktyoJo70ZKIFgibs",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "letv",
         "id": "41887",
@@ -1329,6 +1350,64 @@
       {
         "site": "bangumi",
         "id": "10308"
+      }
+    ]
+  },
+  {
+    "title": "ほんとにあった！霊媒先生",
+    "titleTranslate": {
+      "zh-Hans": [
+        "真的存在！灵媒老师"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://ntvg-tv.jp/yuruani/",
+    "begin": "2011-04-12T16:00:00.000Z",
+    "end": "2011-09-13T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "5yYiaoAhu3hxicicWU",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "18780"
+      }
+    ]
+  },
+  {
+    "title": "Suzy's Zoo だいすき! ウィッツィー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "苏希的动物园"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.tbs.co.jp/suzyzoo/",
+    "begin": "2011-04-03T16:00:00.000Z",
+    "end": "2011-09-25T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "wgcBfibdNvfte3EQ",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "11714"
       }
     ]
   }
