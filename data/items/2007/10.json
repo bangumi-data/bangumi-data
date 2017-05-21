@@ -904,7 +904,9 @@
     "title": "メイプルストーリー",
     "titleTranslate": {
       "zh-Hans": [
-        "枫叶物语"
+        "枫叶物语",
+        "冒险岛",
+        "枫之谷"
       ]
     },
     "lang": "ja",
@@ -913,6 +915,16 @@
     "end": "2008-03-30T00:00:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "SYJibicGTKOnjbWcE",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "49049"

@@ -254,6 +254,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "hsmzMZnicb60QjvY",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "1997"
       }
@@ -482,6 +492,64 @@
       {
         "site": "bangumi",
         "id": "161688"
+      }
+    ]
+  },
+  {
+    "title": "HAPPY★LESSON THE TV",
+    "titleTranslate": {
+      "zh-Hans": [
+        "欢乐课程"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-04-01T16:00:00.000Z",
+    "end": "2002-05-24T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "jb6KCHDWRoTnZc0",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "14653"
+      }
+    ]
+  },
+  {
+    "title": "天地無用! GXP",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天地无用! GXP"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-04-02T16:00:00.000Z",
+    "end": "2002-09-25T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "qibXfXcUrm9k8uiaI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "56626"
       }
     ]
   }

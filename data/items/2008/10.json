@@ -220,6 +220,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "WJNt61O5KWfKSLA",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "qq",
         "id": "u/unct2s8n0sosuof",
         "begin": "",
@@ -1338,6 +1348,64 @@
       {
         "site": "bangumi",
         "id": "17758"
+      }
+    ]
+  },
+  {
+    "title": "美肌一族",
+    "titleTranslate": {
+      "zh-Hans": [
+        "美肌一族"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2008-10-06T16:00:00.000Z",
+    "end": "2008-12-23T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "e7SQDnbcTIrta9M",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "1968"
+      }
+    ]
+  },
+  {
+    "title": "のらみみ2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "野良耳2"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.ikki-para.com/comix/noramimi.html",
+    "begin": "2008-10-01T16:00:00.000Z",
+    "end": "2008-12-17T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "KWJe3ESqGlia7OaE",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "215551"
       }
     ]
   }

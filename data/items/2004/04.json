@@ -252,6 +252,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "pibnTUbkfj80wrhY",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "1959"
       }
@@ -1006,6 +1016,35 @@
       {
         "site": "bangumi",
         "id": "161690"
+      }
+    ]
+  },
+  {
+    "title": "新ゲッターロボ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新盖塔"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2004-04-09T16:00:00.000Z",
+    "end": "2004-09-10T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "YaqWFHziaUpDzcdk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "25920"
       }
     ]
   }
