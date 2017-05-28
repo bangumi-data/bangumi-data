@@ -82,5 +82,34 @@
         "id": "83253"
       }
     ]
+  },
+  {
+    "title": "放課後のプレアデス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "放学后的昴星团 网络放送版"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://sbr-gx.jp",
+    "begin": "2011-02-01T16:00:00.000Z",
+    "end": "2011-02-01T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "AEo2tByC8jCTEXk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "9820"
+      }
+    ]
   }
 ]
