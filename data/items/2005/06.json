@@ -42,6 +42,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "eMC7OaEHd7UYlv4",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "13384"
       }
@@ -83,6 +93,35 @@
       {
         "site": "bangumi",
         "id": "6752"
+      }
+    ]
+  },
+  {
+    "title": "ななみちゃん 第2シリーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法娜娜咪 第二季"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2005-06-17T16:00:00.000Z",
+    "end": "2005-12-23T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "yic7KSLAWhsQnpQ0",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "216378"
       }
     ]
   }

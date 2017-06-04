@@ -52,6 +52,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "8kMibvCSKibjiabGYE",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "iqiyi",
         "id": "a_19rrha0521",
         "begin": "2016-11-07T03:01:42.000Z",
@@ -180,6 +190,35 @@
       {
         "site": "bangumi",
         "id": "5467"
+      }
+    ]
+  },
+  {
+    "title": "青いブリンク",
+    "titleTranslate": {
+      "zh-Hans": [
+        "青色杜马"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-04-07T16:00:00.000Z",
+    "end": "1990-03-16T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "vfTQTrYcjMotqxM",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "10262"
       }
     ]
   }

@@ -686,5 +686,34 @@
         "id": "755"
       }
     ]
+  },
+  {
+    "title": "Genius Party",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天才嘉年华"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.genius-party.jp/",
+    "begin": "2007-07-07T16:00:00.000Z",
+    "end": "2007-07-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "TPTPTbUbia8ksqhI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "8181"
+      }
+    ]
   }
 ]
