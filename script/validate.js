@@ -69,7 +69,22 @@ const validateUniqueBangumiId = readJsonPaths(ITEMS_DIRECTORY)
         });
     });
 
-Promise.all([validateItems, validateSites, validateUniqueBangumiId])
+const validateDate = readJsonPaths(ITEMS_DIRECTORY)
+    .then((itemPaths) => {
+        itemPaths.forEach((itemPath) => {
+            const { dir, name } = path.parse(path.relative(ITEMS_DIRECTORY, itemPath));
+            const date = `${dir}-${name}`;
+
+            const dataArray = fs.readJsonSync(itemPath);
+            dataArray.forEach((itemData) => {
+                if (date !== itemData.begin.slice(0, 7)) {
+                    throw new Error(`${itemData.title} (${itemData.begin}) should not be in ${dir}/${name}.json`);
+                }
+            });
+        });
+    });
+
+Promise.all([validateItems, validateSites, validateUniqueBangumiId, validateDate])
     .catch((error) => {
         console.error(error);
         process.exit(1);
