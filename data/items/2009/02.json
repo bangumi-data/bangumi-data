@@ -42,8 +42,47 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "fdKtK5P5aacKiaPA",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "1545"
+      }
+    ]
+  },
+  {
+    "title": "×××HOLiC 春夢記",
+    "titleTranslate": {
+      "zh-Hans": [
+        "×××HOLiC 春梦记"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://kc.kodansha.co.jp/tsubaholi/",
+    "begin": "2009-02-17T16:00:00.000Z",
+    "end": "2009-06-23T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "tI5591icFNXPWVLw",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "2898"
       }
     ]
   }

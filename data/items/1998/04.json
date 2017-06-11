@@ -310,7 +310,8 @@
     "title": "ロスト・ユニバース",
     "titleTranslate": {
       "zh-Hans": [
-        "失落的宇宙"
+        "失落的宇宙",
+        "宇宙刑警"
       ]
     },
     "lang": "ja",
@@ -319,6 +320,16 @@
     "end": "1998-09-25T16:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "icEdCwCiaOicjyfHYU",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "4400"
@@ -644,6 +655,35 @@
       {
         "site": "bangumi",
         "id": "33118"
+      }
+    ]
+  },
+  {
+    "title": "时空転抄ナスカ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "时空转抄纳斯卡"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1998-04-06T16:00:00.000Z",
+    "end": "1998-06-29T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "71gjoQlv3x2AicmY",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "51359"
       }
     ]
   }

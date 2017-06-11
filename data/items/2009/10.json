@@ -624,7 +624,8 @@
         "11eyes"
       ],
       "zh-Hans": [
-        "11eyes"
+        "11eyes",
+        "罪与罚与赎的少女"
       ]
     },
     "lang": "ja",
@@ -633,6 +634,16 @@
     "end": "2009-12-22T16:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "6T4Jhib9VxQNm5Ew",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "qq",
         "id": "2/272o2s3pkvl37u8",
@@ -1087,6 +1098,35 @@
       {
         "site": "bangumi",
         "id": "3759"
+      }
+    ]
+  },
+  {
+    "title": "冬のソナタ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "冬季恋歌"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://anime-wintersonata.com/index.html",
+    "begin": "2009-10-17T16:00:00.000Z",
+    "end": "2010-05-01T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "GTEMiavJYyAZp508",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "3171"
       }
     ]
   }

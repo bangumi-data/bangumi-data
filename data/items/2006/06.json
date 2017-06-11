@@ -39,25 +39,6 @@
     ]
   },
   {
-    "title": "NIGHT HEAD GENESIS",
-    "titleTranslate": {
-      "zh-Hans": [
-        "暗夜起源"
-      ]
-    },
-    "lang": "ja",
-    "officialSite": "http://web.archive.org/web/*/www.nighthead-genesis.jp/",
-    "begin": "2006-06-17T03:00:00.000Z",
-    "end": "2006-12-30T15:00:00.000Z",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "11209"
-      }
-    ]
-  },
-  {
     "title": "貧乏姉妹物語",
     "titleTranslate": {
       "zh-Hans": [
@@ -142,6 +123,16 @@
     "end": "2007-03-02T03:30:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "pptv",
+        "id": "f8iazMZnicb60QjvY",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
       {
         "site": "bangumi",
         "id": "1788"
