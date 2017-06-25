@@ -1238,7 +1238,7 @@
     "sites": [
       {
         "site": "pptv",
-        "id": "VqqWFHziaUpDzcdk",
+        "id": "uYhk4kqwIF7BP6c",
         "begin": "",
         "official": false,
         "premuiumOnly": false,
@@ -1279,6 +1279,35 @@
       {
         "site": "bangumi",
         "id": "48882"
+      }
+    ]
+  },
+  {
+    "title": "嘘喰い「廃坑のテロリスト編」",
+    "titleTranslate": {
+      "zh-Hans": [
+        "噬谎者 OVA"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://youngjump.jp/info/usogui_ova/",
+    "begin": "2012-10-19T16:00:00.000Z",
+    "end": "2012-10-19T16:45:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "60wopg505CKFA2s",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "106238"
       }
     ]
   }

@@ -72,6 +72,16 @@
     "comment": "",
     "sites": [
       {
+        "site": "pptv",
+        "id": "tOTgXsYsnNo9uyM",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "bangumi",
         "id": "47464"
       }
@@ -181,6 +191,35 @@
       {
         "site": "bangumi",
         "id": "42342"
+      }
+    ]
+  },
+  {
+    "title": "ダンタリアンの書架 荊姫",
+    "titleTranslate": {
+      "zh-Hans": [
+        "丹特丽安的书架 荆姬"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2012-08-11T16:00:00.000Z",
+    "end": "2012-08-11T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "G0M9uyOJibTeaGIA",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "46234"
       }
     ]
   }

@@ -75,5 +75,34 @@
         "id": "4008"
       }
     ]
+  },
+  {
+    "title": "アニ＊クリ15",
+    "titleTranslate": {
+      "zh-Hans": [
+        "NHK15个动画短片"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.nhk.or.jp/ani-kuri",
+    "begin": "2007-05-07T16:00:00.000Z",
+    "end": "2007-12-10T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "pUwopg505CKFA2s",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "4193"
+      }
+    ]
   }
 ]

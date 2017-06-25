@@ -14,7 +14,7 @@
     "sites": [
       {
         "site": "pptv",
-        "id": "LgTwbtY8rOpNyzM",
+        "id": "YMyoJo70ZKIFgibs",
         "begin": "",
         "official": false,
         "premuiumOnly": false,
@@ -122,6 +122,35 @@
       {
         "site": "bangumi",
         "id": "141588"
+      }
+    ]
+  },
+  {
+    "title": "学園ハンサム The Animation",
+    "titleTranslate": {
+      "zh-Hans": [
+        "学园帅哥"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.liverp.co.jp/ani_pu/gakuen-handsome/",
+    "begin": "2015-08-28T16:00:00.000Z",
+    "end": "2015-08-28T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "pptv",
+        "id": "8Fo2tByC8jCTEXk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "131090"
       }
     ]
   }
