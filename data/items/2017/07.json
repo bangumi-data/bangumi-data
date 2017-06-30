@@ -182,13 +182,22 @@
   },
   {
     "title": "ようこそ実力至上主義の教室へ",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "欢迎来到实力至上主义教室"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://you-zitsu.com/",
-    "begin": "2017-07-01T13:00:00.000Z",
+    "begin": "2017-07-12T14:30:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "214272"
+      }
+    ]
   },
   {
     "title": "ゲーマーズ！",
@@ -731,6 +740,21 @@
       {
         "site": "bangumi",
         "id": "163114"
+      }
+    ]
+  },
+  {
+    "title": "NEW GAME!!",
+    "titleTranslate": {},
+    "lang": "ja",
+    "officialSite": "http://newgame-anime.com/",
+    "begin": "2017-07-11T12:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "208908"
       }
     ]
   }
