@@ -18,7 +18,13 @@
       },
       {
         "site": "bilibili",
-        "id": "6306"
+        "id": "6306",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -41,7 +47,21 @@
       },
       {
         "site": "bilibili",
-        "id": "6320"
+        "id": "6320",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "z74efbfbd24784fefbfbd",
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -64,7 +84,13 @@
       },
       {
         "site": "bilibili",
-        "id": "6304"
+        "id": "6304",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -87,7 +113,13 @@
       },
       {
         "site": "bilibili",
-        "id": "6325"
+        "id": "6325",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -129,7 +161,13 @@
       },
       {
         "site": "bilibili",
-        "id": "6311"
+        "id": "6311",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -152,7 +190,13 @@
       },
       {
         "site": "bilibili",
-        "id": "6312"
+        "id": "6312",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -185,7 +229,13 @@
       },
       {
         "site": "bilibili",
-        "id": "6310"
+        "id": "6310",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -209,7 +259,13 @@
       },
       {
         "site": "bilibili",
-        "id": "6338"
+        "id": "6338",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -232,7 +288,13 @@
       },
       {
         "site": "bilibili",
-        "id": "6339"
+        "id": "6339",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -261,7 +323,13 @@
       },
       {
         "site": "bilibili",
-        "id": "6301"
+        "id": "6301",
+        "begin": "2017-07-01T16:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -322,7 +390,23 @@
       },
       {
         "site": "bilibili",
-        "id": "6302"
+        "id": "6302",
+        "begin": "2017-07-01T17:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh83a4d",
+        "begin": "2017-07-01T17:00:26.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -334,7 +418,16 @@
     "begin": "2017-07-06T15:00:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "youku",
+        "id": "z1b36efbfbdefbfbd2a45",
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      }
+    ]
   },
   {
     "title": "戦姫絶唱シンフォギアAXZ",
@@ -352,6 +445,16 @@
       {
         "site": "bangumi",
         "id": "163711"
+      },
+      {
+        "site": "acfun",
+        "id": "1480116",
+        "begin": "2017-07-01T17:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -374,7 +477,13 @@
       },
       {
         "site": "bilibili",
-        "id": "6341"
+        "id": "6341",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -397,7 +506,13 @@
       },
       {
         "site": "bilibili",
-        "id": "6328"
+        "id": "6328",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -417,6 +532,14 @@
       {
         "site": "bangumi",
         "id": "209408"
+      },
+      {
+        "site": "youku",
+        "id": "z5f6aefbfbd7a54efbfbd",
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -449,7 +572,13 @@
       },
       {
         "site": "bilibili",
-        "id": "6308"
+        "id": "6308",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -510,7 +639,21 @@
       },
       {
         "site": "bilibili",
-        "id": "6332"
+        "id": "6332",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "zefbfbdefbfbdefbfbd2a",
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -562,6 +705,14 @@
       {
         "site": "bangumi",
         "id": "165805"
+      },
+      {
+        "site": "youku",
+        "id": "zdbbd5607c5ca11e68ce4",
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -600,6 +751,14 @@
       {
         "site": "bangumi",
         "id": "216767"
+      },
+      {
+        "site": "youku",
+        "id": "zefbfbdefbfbd285c5b08",
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -641,7 +800,21 @@
       },
       {
         "site": "bilibili",
-        "id": "6314"
+        "id": "6314",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "z3cefbfbd37efbfbd5bef",
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -661,6 +834,14 @@
       {
         "site": "bangumi",
         "id": "202267"
+      },
+      {
+        "site": "youku",
+        "id": "z0befbfbd27efbfbd4fef",
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -721,7 +902,13 @@
       },
       {
         "site": "bilibili",
-        "id": "6319"
+        "id": "6319",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -744,7 +931,21 @@
       },
       {
         "site": "bilibili",
-        "id": "6324"
+        "id": "6324",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "zefbfbdefbfbd293d4fef",
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -768,7 +969,13 @@
       },
       {
         "site": "bilibili",
-        "id": "6326"
+        "id": "6326",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -845,7 +1052,13 @@
       },
       {
         "site": "bilibili",
-        "id": "6330"
+        "id": "6330",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
