@@ -132755,7 +132755,18 @@
       "begin": "2017-06-24T03:00:00.000Z",
       "end": "",
       "comment": "",
-      "sites": []
+      "sites": [
+        {
+          "site": "youku",
+          "id": "zefbfbd5379efbfbd57ef",
+          "begin": "2017-06-24T04:28:00.000Z",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        }
+      ]
     },
     {
       "id": "2017_07_0",
@@ -132774,6 +132785,16 @@
         {
           "site": "bangumi",
           "id": "178624"
+        },
+        {
+          "site": "bilibili",
+          "id": "6306",
+          "begin": "",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -132794,6 +132815,24 @@
         {
           "site": "bangumi",
           "id": "202261"
+        },
+        {
+          "site": "bilibili",
+          "id": "6320",
+          "begin": "",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "z74efbfbd24784fefbfbd",
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -132802,7 +132841,7 @@
       "title": "ナイツ＆マジック",
       "titleTranslate": {
         "zh-Hans": [
-          "骑士&amp;魔法"
+          "骑士&魔法"
         ]
       },
       "lang": "ja",
@@ -132814,6 +132853,16 @@
         {
           "site": "bangumi",
           "id": "193445"
+        },
+        {
+          "site": "bilibili",
+          "id": "6304",
+          "begin": "",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -132834,6 +132883,16 @@
         {
           "site": "bangumi",
           "id": "204317"
+        },
+        {
+          "site": "bilibili",
+          "id": "6325",
+          "begin": "",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -132874,6 +132933,16 @@
         {
           "site": "bangumi",
           "id": "208450"
+        },
+        {
+          "site": "bilibili",
+          "id": "6311",
+          "begin": "",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -132894,6 +132963,16 @@
         {
           "site": "bangumi",
           "id": "208754"
+        },
+        {
+          "site": "bilibili",
+          "id": "6312",
+          "begin": "",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -132925,6 +133004,16 @@
         {
           "site": "bangumi",
           "id": "192252"
+        },
+        {
+          "site": "bilibili",
+          "id": "6310",
+          "begin": "",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -132933,6 +133022,7 @@
       "title": "はじめてのギャル",
       "titleTranslate": {
         "zh-Hans": [
+          "第一次的辣妹",
           "第一次的Gal"
         ]
       },
@@ -132945,6 +133035,16 @@
         {
           "site": "bangumi",
           "id": "198675"
+        },
+        {
+          "site": "bilibili",
+          "id": "6338",
+          "begin": "",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -132965,6 +133065,16 @@
         {
           "site": "bangumi",
           "id": "214272"
+        },
+        {
+          "site": "bilibili",
+          "id": "6339",
+          "begin": "",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -132992,6 +133102,16 @@
         {
           "site": "bangumi",
           "id": "204855"
+        },
+        {
+          "site": "bilibili",
+          "id": "6301",
+          "begin": "2017-07-01T16:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -133052,6 +133172,26 @@
         {
           "site": "bangumi",
           "id": "175424"
+        },
+        {
+          "site": "bilibili",
+          "id": "6302",
+          "begin": "2017-07-01T17:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrh83a4d",
+          "begin": "2017-07-01T17:00:26.000Z",
+          "official": true,
+          "premuiumOnly": true,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -133064,7 +133204,16 @@
       "begin": "2017-07-06T15:00:00.000Z",
       "end": "",
       "comment": "",
-      "sites": []
+      "sites": [
+        {
+          "site": "youku",
+          "id": "z1b36efbfbdefbfbd2a45",
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        }
+      ]
     },
     {
       "id": "2017_07_17",
@@ -133083,6 +133232,16 @@
         {
           "site": "bangumi",
           "id": "163711"
+        },
+        {
+          "site": "acfun",
+          "id": "1480116",
+          "begin": "2017-07-01T17:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -133103,6 +133262,16 @@
         {
           "site": "bangumi",
           "id": "210231"
+        },
+        {
+          "site": "bilibili",
+          "id": "6341",
+          "begin": "",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -133123,6 +133292,16 @@
         {
           "site": "bangumi",
           "id": "194261"
+        },
+        {
+          "site": "bilibili",
+          "id": "6328",
+          "begin": "",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -133143,6 +133322,14 @@
         {
           "site": "bangumi",
           "id": "209408"
+        },
+        {
+          "site": "youku",
+          "id": "z5f6aefbfbd7a54efbfbd",
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -133174,6 +133361,16 @@
         {
           "site": "bangumi",
           "id": "211802"
+        },
+        {
+          "site": "bilibili",
+          "id": "6308",
+          "begin": "",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -133234,19 +133431,46 @@
         {
           "site": "bangumi",
           "id": "205485"
+        },
+        {
+          "site": "bilibili",
+          "id": "6332",
+          "begin": "",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "zefbfbdefbfbdefbfbd2a",
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
     {
       "id": "2017_07_26",
       "title": "バチカン奇跡調査官",
-      "titleTranslate": {},
+      "titleTranslate": {
+        "zh-Hans": [
+          "梵蒂冈奇迹调查官"
+        ]
+      },
       "lang": "ja",
       "officialSite": "http://kisekichosakan.jp/",
       "begin": "2017-07-14T15:00:00.000Z",
       "end": "",
       "comment": "",
-      "sites": []
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "197722"
+        }
+      ]
     },
     {
       "id": "2017_07_27",
@@ -133279,6 +133503,14 @@
         {
           "site": "bangumi",
           "id": "165805"
+        },
+        {
+          "site": "youku",
+          "id": "zdbbd5607c5ca11e68ce4",
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -133319,6 +133551,14 @@
         {
           "site": "bangumi",
           "id": "216767"
+        },
+        {
+          "site": "youku",
+          "id": "zefbfbdefbfbd285c5b08",
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -133359,6 +133599,24 @@
         {
           "site": "bangumi",
           "id": "198099"
+        },
+        {
+          "site": "bilibili",
+          "id": "6314",
+          "begin": "",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "z3cefbfbd37efbfbd5bef",
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -133379,6 +133637,14 @@
         {
           "site": "bangumi",
           "id": "202267"
+        },
+        {
+          "site": "youku",
+          "id": "z0befbfbd27efbfbd4fef",
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -133439,6 +133705,16 @@
         {
           "site": "bangumi",
           "id": "200084"
+        },
+        {
+          "site": "bilibili",
+          "id": "6319",
+          "begin": "",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -133459,6 +133735,24 @@
         {
           "site": "bangumi",
           "id": "186908"
+        },
+        {
+          "site": "bilibili",
+          "id": "6324",
+          "begin": "",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "youku",
+          "id": "zefbfbdefbfbd293d4fef",
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -133467,6 +133761,7 @@
       "title": "セントールの悩み",
       "titleTranslate": {
         "zh-Hans": [
+          "人马小姐的烦恼",
           "人马小姐不迷茫"
         ]
       },
@@ -133479,6 +133774,16 @@
         {
           "site": "bangumi",
           "id": "201754"
+        },
+        {
+          "site": "bilibili",
+          "id": "6326",
+          "begin": "",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -133513,7 +133818,7 @@
         ]
       },
       "lang": "ja",
-      "officialSite": "",
+      "officialSite": "http://enmusuyouko.com/",
       "begin": "2017-07-01T12:00:00.000Z",
       "end": "",
       "comment": "",
@@ -133557,6 +133862,62 @@
         {
           "site": "bangumi",
           "id": "208908"
+        },
+        {
+          "site": "bilibili",
+          "id": "6330",
+          "begin": "",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "id": "2017_07_44",
+      "title": "THE REFLECTION -ザ・リフレクション-",
+      "titleTranslate": {},
+      "lang": "ja",
+      "officialSite": "http://thereflection-anime.net/",
+      "begin": "2017-07-22T14:00:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "151974"
+        }
+      ]
+    },
+    {
+      "id": "2017_08_0",
+      "title": "終物語 第2期",
+      "titleTranslate": {
+        "zh-Hans": [
+          "终物语 下"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://www.monogatari-series.com/owarimonogatari/",
+      "begin": "2017-08-12T11:00:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "175596"
+        },
+        {
+          "site": "bilibili",
+          "id": "6345",
+          "begin": "",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     }
