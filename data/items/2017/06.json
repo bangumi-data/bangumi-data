@@ -1,21 +1,14 @@
 [
   {
-    "title": "レゴ フレンズ",
+    "title": "ひなろじ～from Luck & Logic～",
     "titleTranslate": {
+      "zh-Hans": [
+        "雏逻辑～from Luck ＆ Logic～"
+      ],
       "en": [
-        "LEGO Friends"
+        "Hina Logic - From Luck & Logic"
       ]
     },
-    "lang": "ja",
-    "officialSite": "http://www.tv-tokyo.co.jp/anime/lego_friends/",
-    "begin": "2017-06-13T09:25:00.000Z",
-    "end": "",
-    "comment": "",
-    "sites": []
-  },
-  {
-    "title": "ひなろじ～from Luck & Logic～",
-    "titleTranslate": {},
     "lang": "ja",
     "officialSite": "http://hinalogic.com/",
     "begin": "2017-06-24T03:00:00.000Z",
@@ -23,11 +16,15 @@
     "comment": "",
     "sites": [
       {
+        "site": "bangumi",
+        "id": "175362"
+      },
+      {
         "site": "youku",
-        "id": "zefbfbd5379efbfbd57ef",
+        "id": "efbfbd5379efbfbd57ef",
         "begin": "2017-06-24T04:28:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
+        "official": true,
+        "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""

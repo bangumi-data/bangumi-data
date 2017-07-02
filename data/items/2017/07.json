@@ -57,7 +57,9 @@
       },
       {
         "site": "youku",
-        "id": "z74efbfbd24784fefbfbd",
+        "id": "74efbfbd24784fefbfbd",
+        "begin": "",
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -208,7 +210,12 @@
     "begin": "2017-07-07T16:05:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "212008"
+      }
+    ]
   },
   {
     "title": "異世界食堂",
@@ -300,17 +307,30 @@
   },
   {
     "title": "ゲーマーズ！",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "GAMERS电玩咖"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://www.gamers-anime.com/",
     "begin": "2017-07-13T12:00:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "195816"
+      }
+    ]
   },
   {
     "title": "Fate/Apocrypha",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "Fate/Apocrypha"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://fate-apocrypha.com/",
     "begin": "2017-07-01T15:00:00.000Z",
@@ -401,7 +421,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh83a4d",
-        "begin": "2017-07-01T17:00:26.000Z",
+        "begin": "2017-07-01T17:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": false,
@@ -412,7 +432,11 @@
   },
   {
     "title": "最遊記RELOAD BLAST",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "最游记 RELOAD BLAST"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://saiyuki-rb.jp/",
     "begin": "2017-07-06T15:00:00.000Z",
@@ -420,9 +444,15 @@
     "comment": "",
     "sites": [
       {
+        "site": "bangumi",
+        "id": "187976"
+      },
+      {
         "site": "youku",
-        "id": "z1b36efbfbdefbfbd2a45",
-        "premuiumOnly": false,
+        "id": "1b36efbfbdefbfbd2a45",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
@@ -535,7 +565,9 @@
       },
       {
         "site": "youku",
-        "id": "z5f6aefbfbd7a54efbfbd",
+        "id": "5f6aefbfbd7a54efbfbd",
+        "begin": "",
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -545,13 +577,22 @@
   },
   {
     "title": "無責任ギャラクシー☆タイラー",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "无责任银河☆泰勒"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://www.dreamcreation.co.jp/musekinin/",
     "begin": "2017-07-13T16:30:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "216995"
+      }
+    ]
   },
   {
     "title": "妖怪アパートの幽雅な日常",
@@ -649,7 +690,9 @@
       },
       {
         "site": "youku",
-        "id": "zefbfbdefbfbdefbfbd2a",
+        "id": "efbfbdefbfbdefbfbd2a",
+        "begin": "",
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -678,13 +721,22 @@
   },
   {
     "title": "イケメン戦国◆時をかけるが恋は始まらない",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "美男战国 穿越时空的爱恋"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://anime-ikemen-sengoku.jp/",
     "begin": "2017-07-12T13:10:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "197200"
+      }
+    ]
   },
   {
     "title": "時間の支配者",
@@ -708,7 +760,9 @@
       },
       {
         "site": "youku",
-        "id": "zdbbd5607c5ca11e68ce4",
+        "id": "dbbd5607c5ca11e68ce4",
+        "begin": "",
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -754,7 +808,9 @@
       },
       {
         "site": "youku",
-        "id": "zefbfbdefbfbd285c5b08",
+        "id": "efbfbdefbfbd285c5b08",
+        "begin": "",
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -810,7 +866,9 @@
       },
       {
         "site": "youku",
-        "id": "z3cefbfbd37efbfbd5bef",
+        "id": "3cefbfbd37efbfbd5bef",
+        "begin": "",
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -837,8 +895,10 @@
       },
       {
         "site": "youku",
-        "id": "z0befbfbd27efbfbd4fef",
-        "premuiumOnly": false,
+        "id": "0befbfbd27efbfbd4fef",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
@@ -941,7 +1001,9 @@
       },
       {
         "site": "youku",
-        "id": "zefbfbdefbfbd293d4fef",
+        "id": "efbfbdefbfbd293d4fef",
+        "begin": "",
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -981,23 +1043,41 @@
   },
   {
     "title": "異世界はスマートフォンとともに。",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "带着智能手机闯荡异世界。"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://isesuma-anime.jp/",
     "begin": "2017-07-12T16:00:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "211723"
+      }
+    ]
   },
   {
     "title": "カイトアンサ",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "KAITO×ANSA"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://kaitoansa.com/",
     "begin": "2017-07-16T15:40:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "212021"
+      }
+    ]
   },
   {
     "title": "縁結びの妖狐ちゃん",
@@ -1039,7 +1119,14 @@
   },
   {
     "title": "NEW GAME!!",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "NEW GAME!!"
+      ],
+      "en": [
+        "NEW GAME!!"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://newgame-anime.com/",
     "begin": "2017-07-11T12:30:00.000Z",
