@@ -1,6 +1,6 @@
 [
   {
-    "title": "バトルガールハイスクール",
+    "title": "バトルガール ハイスクール",
     "titleTranslate": {
       "zh-Hans": [
         "战斗女子高校"
@@ -19,7 +19,7 @@
       {
         "site": "bilibili",
         "id": "6306",
-        "begin": "",
+        "begin": "2017-07-02T16:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -87,7 +87,7 @@
       {
         "site": "bilibili",
         "id": "6304",
-        "begin": "",
+        "begin": "2017-07-02T14:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -141,6 +141,16 @@
       {
         "site": "bangumi",
         "id": "207593"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh830zx",
+        "begin": "2017-07-02T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -222,6 +232,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "异世界食堂"
+      ],
+      "en": [
+        "Restaurant to Another World"
       ]
     },
     "lang": "ja",
@@ -237,7 +250,7 @@
       {
         "site": "bilibili",
         "id": "6310",
-        "begin": "",
+        "begin": "2017-07-03T17:35:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -464,6 +477,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "战姬绝唱SYMPHOGEAR AXZ"
+      ],
+      "en": [
+        "SYMPHOGEAR AXZ"
       ]
     },
     "lang": "ja",
@@ -614,8 +630,18 @@
       {
         "site": "bilibili",
         "id": "6308",
-        "begin": "",
+        "begin": "2017-07-03T14:30:00.000Z",
         "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "316347",
+        "begin": "2017-07-03T14:30:00.000Z",
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -639,6 +665,16 @@
       {
         "site": "bangumi",
         "id": "209412"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh83c1p",
+        "begin": "2017-07-03T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -786,6 +822,16 @@
       {
         "site": "bangumi",
         "id": "215726"
+      },
+      {
+        "site": "pptv",
+        "id": "Az0Xlf1j0xF08lo",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -807,9 +853,29 @@
         "id": "216767"
       },
       {
+        "site": "bilibili",
+        "id": "6346",
+        "begin": "2017-07-02T19:05:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh83cnx",
+        "begin": "2017-07-02T19:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "youku",
         "id": "efbfbdefbfbd285c5b08",
-        "begin": "",
+        "begin": "2017-07-02T19:30:00.000Z",
         "official": false,
         "premuiumOnly": false,
         "censored": false,
@@ -1151,7 +1217,11 @@
   },
   {
     "title": "THE REFLECTION -ザ・リフレクション-",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "THE REFLECTION"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://thereflection-anime.net/",
     "begin": "2017-07-22T14:00:00.000Z",
@@ -1161,6 +1231,40 @@
       {
         "site": "bangumi",
         "id": "151974"
+      }
+    ]
+  },
+  {
+    "title": "SHADOW OF LAFFANDOR ラファンドール国物語",
+    "titleTranslate": {},
+    "lang": "ja",
+    "officialSite": "http://shadowoflaffandor.com/",
+    "begin": "2017-07-12T14:50:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "218851"
+      }
+    ]
+  },
+  {
+    "title": "てーきゅう(第9期)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "网球少女 9期"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://te-kyu.com/",
+    "begin": "2017-07-12T13:40:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "212675"
       }
     ]
   }
