@@ -132756,7 +132756,7 @@
         {
           "site": "youku",
           "id": "efbfbd5379efbfbd57ef",
-          "begin": "2017-06-24T04:28:00.000Z",
+          "begin": "2017-06-24T04:30:00.000Z",
           "official": true,
           "premuiumOnly": true,
           "censored": false,
@@ -132946,7 +132946,7 @@
         {
           "site": "bilibili",
           "id": "6311",
-          "begin": "",
+          "begin": "2017-07-04T14:15:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
@@ -132976,7 +132976,7 @@
         {
           "site": "bilibili",
           "id": "6312",
-          "begin": "",
+          "begin": "2017-07-04T14:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
@@ -133246,7 +133246,7 @@
         {
           "site": "youku",
           "id": "1b36efbfbdefbfbd2a45",
-          "begin": "",
+          "begin": "2017-07-05T15:00:00.000Z",
           "official": false,
           "premuiumOnly": true,
           "censored": false,
@@ -133698,6 +133698,16 @@
         {
           "site": "bangumi",
           "id": "203010"
+        },
+        {
+          "site": "acfun",
+          "id": "1480113",
+          "begin": "2017-07-04T18:11:26.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -133722,17 +133732,17 @@
         {
           "site": "bilibili",
           "id": "6314",
-          "begin": "",
+          "begin": "2017-07-05T12:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
-          "censored": false,
+          "censored": true,
           "lang": "zh-Hans",
           "comment": ""
         },
         {
           "site": "youku",
           "id": "3cefbfbd37efbfbd5bef",
-          "begin": "",
+          "begin": "2017-07-05T12:00:00.000Z",
           "official": false,
           "premuiumOnly": false,
           "censored": false,
@@ -133762,7 +133772,7 @@
         {
           "site": "youku",
           "id": "0befbfbd27efbfbd4fef",
-          "begin": "",
+          "begin": "2017-07-06T18:55:00.000Z",
           "official": false,
           "premuiumOnly": true,
           "censored": false,
@@ -133832,7 +133842,7 @@
         {
           "site": "bilibili",
           "id": "6319",
-          "begin": "",
+          "begin": "2017-07-07T14:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
