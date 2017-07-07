@@ -80,6 +80,14 @@ const validateDate = readJsonPaths(ITEMS_DIRECTORY)
                 if (date !== itemData.begin.slice(0, 7)) {
                     throw new Error(`${itemData.title} (${itemData.begin}) should not be in ${dir}/${name}.json`);
                 }
+                if (!itemData.end) {
+                    const delta = new Date().toISOString().slice(0, 7).replace(/-/, '') - `${dir}${name}`;
+                    if (delta > 6) {
+                        console.warn(`[warn] ${itemData.title} in ${dir}/${name}.json lacks "end" field more than 6 months!`);
+                    } else if (delta > 3) {
+                        console.info(`[info] ${itemData.title} in ${dir}/${name}.json lacks "end" field more than 3 months.`);
+                    }
+                }
             });
         });
     });
