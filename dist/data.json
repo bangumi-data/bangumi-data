@@ -132817,7 +132817,7 @@
         {
           "site": "bilibili",
           "id": "6320",
-          "begin": "",
+          "begin": "2017-07-07T19:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
@@ -132827,7 +132827,7 @@
         {
           "site": "youku",
           "id": "74efbfbd24784fefbfbd",
-          "begin": "",
+          "begin": "2017-07-07T19:00:00.000Z",
           "official": false,
           "premuiumOnly": false,
           "censored": false,
@@ -132887,7 +132887,7 @@
         {
           "site": "bilibili",
           "id": "6325",
-          "begin": "",
+          "begin": "2017-07-08T18:08:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
@@ -133176,13 +133176,23 @@
       },
       "lang": "ja",
       "officialSite": "http://miabyss.com/",
-      "begin": "2017-07-07T16:40:00.000Z",
+      "begin": "2017-07-07T12:30:00.000Z",
       "end": "",
       "comment": "",
       "sites": [
         {
           "site": "bangumi",
           "id": "203526"
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrh83bd1",
+          "begin": "2017-07-07T14:00:00.000Z",
+          "official": true,
+          "premuiumOnly": true,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -133539,13 +133549,23 @@
       },
       "lang": "ja",
       "officialSite": "http://kisekichosakan.jp/",
-      "begin": "2017-07-14T15:00:00.000Z",
+      "begin": "2017-07-07T13:30:00.000Z",
       "end": "",
       "comment": "",
       "sites": [
         {
           "site": "bangumi",
           "id": "197722"
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrh830il",
+          "begin": "2017-07-07T15:00:00.000Z",
+          "official": true,
+          "premuiumOnly": true,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -133593,7 +133613,7 @@
         {
           "site": "youku",
           "id": "dbbd5607c5ca11e68ce4",
-          "begin": "",
+          "begin": "2017-07-07T16:00:00.000Z",
           "official": false,
           "premuiumOnly": false,
           "censored": false,
@@ -133819,6 +133839,16 @@
         {
           "site": "bangumi",
           "id": "204483"
+        },
+        {
+          "site": "acfun",
+          "id": "1480114",
+          "begin": "2017-07-06T18:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -133873,7 +133903,7 @@
         {
           "site": "bilibili",
           "id": "6324",
-          "begin": "",
+          "begin": "2017-07-08T15:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
@@ -133883,7 +133913,7 @@
         {
           "site": "youku",
           "id": "efbfbdefbfbd293d4fef",
-          "begin": "",
+          "begin": "2017-07-08T15:00:00.000Z",
           "official": false,
           "premuiumOnly": false,
           "censored": false,
