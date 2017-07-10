@@ -59,6 +59,16 @@
         "site": "youku",
         "id": "74efbfbd24784fefbfbd",
         "begin": "2017-07-07T19:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "acfun",
+        "id": "1480118",
+        "begin": "2017-07-07T19:00:00.000Z",
         "official": false,
         "premuiumOnly": false,
         "censored": false,
@@ -382,6 +392,16 @@
       {
         "site": "bangumi",
         "id": "211936"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh8319h",
+        "begin": "2017-07-09T14:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -462,7 +482,7 @@
     },
     "lang": "ja",
     "officialSite": "http://saiyuki-rb.jp/",
-    "begin": "2017-07-06T15:00:00.000Z",
+    "begin": "2017-07-05T13:00:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
@@ -552,7 +572,7 @@
     },
     "lang": "ja",
     "officialSite": "http://www.tenshi-no-3p.com/",
-    "begin": "2017-07-10T15:30:00.000Z",
+    "begin": "2017-07-10T11:00:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
@@ -563,7 +583,7 @@
       {
         "site": "bilibili",
         "id": "6328",
-        "begin": "",
+        "begin": "2017-07-10T12:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -610,7 +630,7 @@
     },
     "lang": "ja",
     "officialSite": "http://www.dreamcreation.co.jp/musekinin/",
-    "begin": "2017-07-13T16:30:00.000Z",
+    "begin": "2017-07-11T12:55:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
@@ -1017,6 +1037,36 @@
       {
         "site": "bangumi",
         "id": "213509"
+      },
+      {
+        "site": "letv",
+        "id": "10037659",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "LQicpZ881peNGxCw",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "6317",
+        "begin": "2017-07-09T03:18:21.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -1138,7 +1188,7 @@
       {
         "site": "bilibili",
         "id": "6326",
-        "begin": "",
+        "begin": "2017-07-09T14:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1156,7 +1206,7 @@
     },
     "lang": "ja",
     "officialSite": "http://isesuma-anime.jp/",
-    "begin": "2017-07-12T16:00:00.000Z",
+    "begin": "2017-07-11T11:30:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
@@ -1175,7 +1225,7 @@
     },
     "lang": "ja",
     "officialSite": "http://kaitoansa.com/",
-    "begin": "2017-07-16T15:40:00.000Z",
+    "begin": "2017-07-12T11:10:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
@@ -1201,6 +1251,76 @@
       {
         "site": "bangumi",
         "id": "215920"
+      },
+      {
+        "site": "bilibili",
+        "id": "6353",
+        "begin": "2017-07-01T02:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh83gpp",
+        "begin": "2017-07-01T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "10037541",
+        "begin": "2017-07-01T02:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "316372",
+        "begin": "2017-07-01T02:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "ibEErqRF35yWIBm4",
+        "begin": "2017-07-01T02:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "q/qzmn289abuigokp",
+        "begin": "2017-07-01T02:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "sohu",
+        "id": "s2017/dhphyxhnryb",
+        "begin": "2017-07-01T02:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -1279,7 +1399,7 @@
     "titleTranslate": {},
     "lang": "ja",
     "officialSite": "http://shadowoflaffandor.com/",
-    "begin": "2017-07-12T14:50:00.000Z",
+    "begin": "2017-07-12T13:50:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
