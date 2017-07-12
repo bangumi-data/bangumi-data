@@ -133540,7 +133540,7 @@
         {
           "site": "bilibili",
           "id": "6332",
-          "begin": "",
+          "begin": "2017-07-11T17:35:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
@@ -133550,8 +133550,18 @@
         {
           "site": "youku",
           "id": "efbfbdefbfbdefbfbd2a",
-          "begin": "",
+          "begin": "2017-07-11T17:35:00.000Z",
           "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrh86xb9",
+          "begin": "2017-07-11T17:35:00.000Z",
+          "official": true,
           "premuiumOnly": false,
           "censored": false,
           "lang": "zh-Hans",
@@ -133606,6 +133616,16 @@
         {
           "site": "bangumi",
           "id": "197200"
+        },
+        {
+          "site": "acfun",
+          "id": "1480115",
+          "begin": "2017-07-12T13:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -134020,6 +134040,16 @@
         {
           "site": "bangumi",
           "id": "211723"
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrh832wl",
+          "begin": "2017-07-11T12:30:00.000Z",
+          "official": true,
+          "premuiumOnly": true,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -134177,7 +134207,7 @@
         {
           "site": "bilibili",
           "id": "6330",
-          "begin": "",
+          "begin": "2017-07-11T14:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
@@ -134239,6 +134269,16 @@
         {
           "site": "bangumi",
           "id": "212675"
+        },
+        {
+          "site": "bilibili",
+          "id": "6337",
+          "begin": "2017-07-12T13:40:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
