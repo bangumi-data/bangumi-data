@@ -133067,7 +133067,17 @@
         {
           "site": "bilibili",
           "id": "6338",
-          "begin": "",
+          "begin": "2017-07-12T15:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrh86wrx",
+          "begin": "2017-07-12T15:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
@@ -133097,7 +133107,7 @@
         {
           "site": "bilibili",
           "id": "6339",
-          "begin": "",
+          "begin": "2017-07-12T17:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
@@ -133123,6 +133133,36 @@
         {
           "site": "bangumi",
           "id": "195816"
+        },
+        {
+          "site": "bilibili",
+          "id": "6340",
+          "begin": "2017-07-14T07:36:24.000Z",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "letv",
+          "id": "10037717",
+          "begin": "",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "VObSULgejswvrRU",
+          "begin": "",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -133426,6 +133466,26 @@
         {
           "site": "bangumi",
           "id": "216995"
+        },
+        {
+          "site": "bilibili",
+          "id": "6331",
+          "begin": "2017-07-13T11:46:38.000Z",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "UOrGRKwSgsAjoQk",
+          "begin": "",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -133516,6 +133576,36 @@
         {
           "site": "bangumi",
           "id": "211276"
+        },
+        {
+          "site": "bilibili",
+          "id": "6335",
+          "begin": "2017-07-13T07:14:16.000Z",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "letv",
+          "id": "10037718",
+          "begin": "",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "SicXfXcUrm9k8uiaI",
+          "begin": "",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -134058,7 +134148,7 @@
       "title": "カイトアンサ",
       "titleTranslate": {
         "zh-Hans": [
-          "KAITO×ANSA"
+          "解谜之音"
         ]
       },
       "lang": "ja",
@@ -134070,6 +134160,26 @@
         {
           "site": "bangumi",
           "id": "212021"
+        },
+        {
+          "site": "bilibili",
+          "id": "6376",
+          "begin": "2017-07-14T10:33:12.000Z",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "UevFQ6sRgb8iaoAg",
+          "begin": "",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -134180,6 +134290,26 @@
         {
           "site": "bangumi",
           "id": "163114"
+        },
+        {
+          "site": "bilibili",
+          "id": "6349",
+          "begin": "2017-07-13T07:10:44.000Z",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "RffhX8ctndsibvCQ",
+          "begin": "",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -134207,6 +134337,16 @@
         {
           "site": "bilibili",
           "id": "6330",
+          "begin": "2017-07-11T14:00:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrh876x1",
           "begin": "2017-07-11T14:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
@@ -134249,6 +134389,16 @@
         {
           "site": "bangumi",
           "id": "218851"
+        },
+        {
+          "site": "pptv",
+          "id": "UuzIRq4UhMIlows",
+          "begin": "",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -134275,6 +134425,36 @@
           "id": "6337",
           "begin": "2017-07-12T13:40:00.000Z",
           "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "id": "2017_07_47",
+      "title": "武蔵くんと村山さんは付き合ってみた。",
+      "titleTranslate": {
+        "zh-Hans": [
+          "武藏君和村山同学开始交往了。"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "https://ganma.jp/musamura",
+      "begin": "2017-07-10T16:00:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "219834"
+        },
+        {
+          "site": "pptv",
+          "id": "Qic3XVb0jk9E0sho",
+          "begin": "",
+          "official": false,
           "premuiumOnly": false,
           "censored": false,
           "lang": "zh-Hans",
