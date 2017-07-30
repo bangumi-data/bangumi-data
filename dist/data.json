@@ -133080,7 +133080,7 @@
           "begin": "2017-07-12T15:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
-          "censored": false,
+          "censored": true,
           "lang": "zh-Hans",
           "comment": ""
         },
@@ -133148,7 +133148,7 @@
           "site": "bilibili",
           "id": "6340",
           "begin": "2017-07-14T07:36:24.000Z",
-          "official": false,
+          "official": true,
           "premuiumOnly": false,
           "censored": false,
           "lang": "zh-Hans",
@@ -133272,6 +133272,9 @@
       "titleTranslate": {
         "zh-Hans": [
           "活击 刀剑乱舞"
+        ],
+        "en": [
+          "KATSUGEKI / TOUKEN RANBU"
         ]
       },
       "lang": "ja",
@@ -134149,6 +134152,9 @@
       "titleTranslate": {
         "zh-Hans": [
           "带着智能手机闯荡异世界。"
+        ],
+        "en": [
+          "In Another World With My Smartphone"
         ]
       },
       "lang": "ja",
@@ -134391,7 +134397,7 @@
       "title": "THE REFLECTION -ザ・リフレクション-",
       "titleTranslate": {
         "zh-Hans": [
-          "THE REFLECTION"
+          "反照者"
         ]
       },
       "lang": "ja",
@@ -134403,6 +134409,16 @@
         {
           "site": "bangumi",
           "id": "151974"
+        },
+        {
+          "site": "bilibili",
+          "id": "6343",
+          "begin": "2017-07-25T13:19:31.000Z",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -134529,6 +134545,65 @@
           "censored": false,
           "lang": "zh-Hans",
           "comment": ""
+        }
+      ]
+    },
+    {
+      "id": "2017_07_49",
+      "title": "マーベル フューチャー・アベンジャーズ",
+      "titleTranslate": {
+        "en": [
+          "MARVEL FUTURE AVENGERS"
+        ],
+        "zh-Hans": [
+          "漫威未来复仇者"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://dlife.disney.co.jp/program/marvel_starwars/future_avengers.html",
+      "begin": "2017-07-21T23:00:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "210324"
+        },
+        {
+          "site": "bilibili",
+          "id": "6342",
+          "begin": "2017-07-27T08:17:45.000Z",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "sIpm5EyyImDDQak",
+          "begin": "",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "id": "2017_07_50",
+      "title": "ユラユラすいぞくかん",
+      "titleTranslate": {},
+      "lang": "ja",
+      "officialSite": "http://www.ktv.jp/yurayura/",
+      "begin": "2017-07-23T20:04:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "221061"
         }
       ]
     },
