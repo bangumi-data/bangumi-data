@@ -125,6 +125,16 @@
       {
         "site": "bangumi",
         "id": "185442"
+      },
+      {
+        "site": "bilibili",
+        "id": "6418",
+        "begin": "2017-10-03T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -144,6 +154,16 @@
       {
         "site": "bangumi",
         "id": "211994"
+      },
+      {
+        "site": "bilibili",
+        "id": "6449",
+        "begin": "2017-10-03T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -182,6 +202,16 @@
       {
         "site": "bangumi",
         "id": "219483"
+      },
+      {
+        "site": "bilibili",
+        "id": "6424",
+        "begin": "2017-10-03T13:54:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -201,6 +231,16 @@
       {
         "site": "bangumi",
         "id": "211059"
+      },
+      {
+        "site": "bilibili",
+        "id": "6420",
+        "begin": "2017-10-03T18:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -295,6 +335,16 @@
       {
         "site": "bangumi",
         "id": "210272"
+      },
+      {
+        "site": "bilibili",
+        "id": "6433",
+        "begin": "2017-10-07T14:30:00.000Z",//有0集特番提前一周播出
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -587,6 +637,16 @@
       {
         "site": "bangumi",
         "id": "212609"
+      },
+      {
+        "site": "bilibili",
+        "id": "6421",
+        "begin": "2017-10-03T17:35:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -641,6 +701,16 @@
       {
         "site": "bangumi",
         "id": "202880"
+      },
+      { //B站译为“黑色五叶草”
+        "site": "bilibili",
+        "id": "6422",
+        "begin": "2017-10-03T10:25:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
