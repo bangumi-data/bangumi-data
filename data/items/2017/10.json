@@ -98,6 +98,26 @@
       {
         "site": "bangumi",
         "id": "211934"
+      },
+      {
+        "site": "bilibili",
+        "id": "6425",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhcafct",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -117,6 +137,16 @@
       {
         "site": "bangumi",
         "id": "221293"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhcb5fp",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -209,7 +239,11 @@
         "site": "youku",
         "id": "383fefbfbd14efbfbd17",
         "begin": "",
+<<<<<<< HEAD
         "official": false,
+=======
+        "official": true,
+>>>>>>> upstream/master
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -403,6 +437,16 @@
       {
         "site": "bangumi",
         "id": "219759"
+      },
+      {
+        "site": "bilibili",
+        "id": "6476",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -546,7 +590,11 @@
         "site": "youku",
         "id": "efbfbdd6a653efbfbd19",
         "begin": "",
+<<<<<<< HEAD
         "official": false,
+=======
+        "official": true,
+>>>>>>> upstream/master
         "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
@@ -670,7 +718,12 @@
     "begin": "2017-10-09T15:30:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220848"
+      }
+    ]
   },
   {
     "title": "Code:Realize ～創世の姫君～",
@@ -682,6 +735,13 @@
     "comment": "",
     "sites": [
       {
+<<<<<<< HEAD
+=======
+        "site": "bangumi",
+        "id": "144043"
+      },
+      {
+>>>>>>> upstream/master
         "site": "bilibili",
         "id": "6435",
         "begin": "",
@@ -734,18 +794,57 @@
       {
         "site": "bangumi",
         "id": "175530"
+      },
+      {
+        "site": "bilibili",
+        "id": "6452",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
   {
     "title": "aiseki MOGOL GIRL",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "丝缎女孩对谈"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://mogol-girl.com/",
     "begin": "2017-10-02T16:05:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "226816"
+      },
+      {
+        "site": "bilibili",
+        "id": "6479",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "efbfbd594c76efbfbdef",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      }
+    ]
   },
   {
     "title": "血界戦線 & BEYOND",
@@ -794,7 +893,12 @@
     "title": "結城友奈は勇者である -鷲尾須美の章-/-勇者の章-",
     "titleTranslate": {
       "zh-Hans": [
+<<<<<<< HEAD
         "结城友奈是勇者 鹫尾须美之章&勇者之章"
+=======
+        "结城友奈是勇者 鹫尾须美之章&勇者之章",
+        "结城友奈是勇者 第二季"
+>>>>>>> upstream/master
       ]
     },
     "lang": "ja",
@@ -804,6 +908,13 @@
     "comment": "",
     "sites": [
       {
+<<<<<<< HEAD
+=======
+        "site": "bangumi",
+        "id": "195937"
+      },
+      {
+>>>>>>> upstream/master
         "site": "bilibili",
         "id": "6448",
         "begin": "",
@@ -891,7 +1002,11 @@
         "site": "youku",
         "id": "efbfbd08efbfbd5e4611",
         "begin": "",
+<<<<<<< HEAD
         "official": false,
+=======
+        "official": true,
+>>>>>>> upstream/master
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -940,7 +1055,11 @@
         "site": "youku",
         "id": "e49c9defbfbd5911efbf",
         "begin": "2017-10-02T17:35:00.000Z",
+<<<<<<< HEAD
         "official": false,
+=======
+        "official": true,
+>>>>>>> upstream/master
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -977,18 +1096,18 @@
       {
         "site": "bangumi",
         "id": "212315"
+      },
+      {
+        "site": "bilibili",
+        "id": "6454",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
-  },
-  {
-    "title": "うっかりペネロペ(第4シリーズ)",
-    "titleTranslate": {},
-    "lang": "ja",
-    "officialSite": "http://penelope.tv/",
-    "begin": "2017-10-04T08:20:00.000Z",
-    "end": "",
-    "comment": "",
-    "sites": []
   },
   {
     "title": "ブラッククローバー",
@@ -1025,7 +1144,11 @@
         "site": "youku",
         "id": "cf863914efbfbdefbfbd",
         "begin": "",
+<<<<<<< HEAD
         "official": false,
+=======
+        "official": true,
+>>>>>>> upstream/master
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -1082,6 +1205,13 @@
     "comment": "",
     "sites": [
       {
+<<<<<<< HEAD
+=======
+        "site": "bangumi",
+        "id": "212004"
+      },
+      {
+>>>>>>> upstream/master
         "site": "bilibili",
         "id": "6474",
         "begin": "",
@@ -1114,23 +1244,22 @@
   },
   {
     "title": "銀魂. ポロリ編",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "银魂. 走光篇"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/gintama/",
     "begin": "2017-10-01T17:05:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
-  },
-  {
-    "title": "ファイアボール ユーモラス",
-    "titleTranslate": {},
-    "lang": "ja",
-    "officialSite": "http://dlife.disney.co.jp/program/disney/fireball_humorous.html",
-    "begin": "2017-10-06T12:55:00.000Z",
-    "end": "",
-    "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "218740"
+      }
+    ]
   },
   {
     "title": "王様ゲーム The Animation",
@@ -1148,6 +1277,16 @@
       {
         "site": "bangumi",
         "id": "221119"
+      },
+      {
+        "site": "bilibili",
+        "id": "6426",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -1192,6 +1331,194 @@
     "begin": "2017-10-06T13:00:00.000Z",
     "end": "",
     "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "202597"
+      }
+    ]
+  },
+  {
+    "title": "Wake Up, Girls! 新章",
+    "titleTranslate": {},
+    "lang": "ja",
+    "officialSite": "http://wakeupgirls3.jp/",
+    "begin": "2017-10-09T17:05:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "201212"
+      },
+      {
+        "site": "bilibili",
+        "id": "6442",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhca8w5",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "efbfbd03efbfbd2b2a4a",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ラブ米-WE LOVE RICE- 第2期",
+    "titleTranslate": {},
+    "lang": "ja",
+    "officialSite": "http://love-kome.com/",
+    "begin": "2017-10-07T14:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "218383"
+      },
+      {
+        "site": "bilibili",
+        "id": "6478",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "Dies irae",
+    "titleTranslate": {
+      "zh-Hans": [
+        "神怒之日"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://diesirae-anime.com/",
+    "begin": "2017-10-06T16:05:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "131901"
+      },
+      {
+        "site": "bilibili",
+        "id": "6430",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "大正ちっちゃいさん",
+    "titleTranslate": {},
+    "lang": "ja",
+    "officialSite": "http://mebius-anime.com/",
+    "begin": "2017-10-06T12:54:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "198707"
+      }
+    ]
+  },
+  {
+    "title": "GLAMOROUS HEROES",
+    "titleTranslate": {},
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2017-10-06T17:10:00.000Z",
+    "end": "",
+    "comment": "",
     "sites": []
+  },
+  {
+    "title": "タイムボカン 逆襲の三悪人",
+    "titleTranslate": {
+      "zh-Hans": [
+        "时间飞船 逆袭的三恶人"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.ytv.co.jp/timebokan/",
+    "begin": "2017-10-07T08:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "212009"
+      },
+      {
+        "site": "bilibili",
+        "id": "6477",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "いぬやしき",
+    "titleTranslate": {
+      "zh-Hans": [
+        "犬屋敷",
+        "犬舍"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.inuyashiki-project.com/",
+    "begin": "2017-10-12T15:55:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "202268"
+      },
+      {
+        "site": "youku",
+        "id": "efbfbd3652c6984b11ef",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      }
+    ]
   }
 ]
