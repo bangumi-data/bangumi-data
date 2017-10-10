@@ -3,7 +3,7 @@
     "title": "アイドルマスター SideM",
     "titleTranslate": {
       "zh-Hans": [
-        "偶像大师SideM"
+        "偶像大师 SideM"
       ]
     },
     "lang": "ja",
@@ -21,6 +21,16 @@
         "id": "6431",
         "begin": "2017-10-07T15:30:00.000Z",
         "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "318665",
+        "begin": "2017-10-07T15:30:00.000Z",
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -113,8 +123,18 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhcafct",
-        "begin": "",
+        "begin": "2017-10-04T16:00:00.000Z",
         "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "ibEIurBR66iaiaLCXE",
+        "begin": "2017-10-04T16:00:00.000Z",
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -142,7 +162,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhcb5fp",
-        "begin": "",
+        "begin": "2017-10-06T15:30:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": false,
@@ -184,7 +204,7 @@
     "title": "UQ HOLDER!～魔法先生ネギま！2～",
     "titleTranslate": {
       "zh-Hans": [
-        "悠久持有者！"
+        "悠久持有者！～魔法老师! 2～"
       ]
     },
     "lang": "ja",
@@ -500,7 +520,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhca411",
-        "begin": "",
+        "begin": "2017-10-06T17:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": false,
@@ -587,7 +607,7 @@
       {
         "site": "youku",
         "id": "efbfbdd6a653efbfbd19",
-        "begin": "",
+        "begin": "2017-10-07T17:30:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": false,
@@ -597,7 +617,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhcbanh",
-        "begin": "",
+        "begin": "2017-10-07T17:30:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": false,
@@ -639,8 +659,11 @@
     "title": "クジラの子らは砂上に歌う",
     "titleTranslate": {
       "zh-Hans": [
-        "鲸鱼之子们在沙丘上歌唱",
-        "泥鲸之子们在沙地上歌唱"
+        "泥鲸之子们在沙地上歌唱",
+        "鲸鱼之子们在沙丘上歌唱"
+      ],
+      "en": [
+        "Children of the Whales"
       ]
     },
     "lang": "ja",
@@ -656,7 +679,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhcbehh",
-        "begin": "",
+        "begin": "2017-10-08T15:30:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": false,
@@ -695,7 +718,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhcb365",
-        "begin": "",
+        "begin": "2017-10-07T17:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -706,7 +729,11 @@
   },
   {
     "title": "つうかあ",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "侧车搭档"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://twocartv.jp/",
     "begin": "2017-10-09T15:30:00.000Z",
@@ -716,12 +743,26 @@
       {
         "site": "bangumi",
         "id": "220848"
+      },
+      {
+        "site": "acfun",
+        "id": "1480151",
+        "begin": "2017-10-09T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
   {
     "title": "Code:Realize ～創世の姫君～",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "Code:Realize ～创世的姬君～"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://coderealize-anime.com/",
     "begin": "2017-10-08T16:35:00.000Z",
@@ -764,7 +805,7 @@
       {
         "site": "bilibili",
         "id": "6446",
-        "begin": "",
+        "begin": "2017-10-08T15:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -791,6 +832,16 @@
         "id": "6452",
         "begin": "",
         "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "KBP9eibNJufda2EA",
+        "begin": "",
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -828,7 +879,17 @@
       {
         "site": "youku",
         "id": "efbfbd594c76efbfbdef",
-        "begin": "2017-10-02T17:03:00.000Z",
+        "begin": "2017-10-02T17:05:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhcbbj9",
+        "begin": "2017-10-02T17:05:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -844,8 +905,8 @@
         "Blood Blockade Battlefront & BEYOND"
       ],
       "zh-Hans": [
-        "血界战线 &amp; BEYOND",
-        "幻界战线 &amp; BEYOND"
+        "血界战线 & BEYOND",
+        "幻界战线 & BEYOND"
       ]
     },
     "lang": "ja",
@@ -871,7 +932,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhcbd71",
-        "begin": "",
+        "begin": "2017-10-07T19:08:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -985,7 +1046,7 @@
       {
         "site": "youku",
         "id": "efbfbd08efbfbd5e4611",
-        "begin": "2017-10-01T14:28:31.000Z",
+        "begin": "2017-10-08T14:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -995,7 +1056,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhcbck5",
-        "begin": "",
+        "begin": "2017-10-08T14:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1005,7 +1066,7 @@
       {
         "site": "qq",
         "id": "x/xva6h38vn2qiy2w.html",
-        "begin": "",
+        "begin": "2017-10-08T14:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1102,8 +1163,8 @@
         "BLACK CLOVER"
       ],
       "zh-Hans": [
-        "黑色五叶草",
-        "黑色四叶草"
+        "黑色四叶草",
+        "黑色五叶草"
       ]
     },
     "lang": "ja",
@@ -1168,9 +1229,19 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhcadk5",
-        "begin": "",
+        "begin": "2017-10-03T16:30:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "mqWPDXXbS4nsatI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
@@ -1247,6 +1318,16 @@
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "6FM9uyOJibTeaGIA",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -1299,9 +1380,19 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhca1a5",
-        "begin": "",
+        "begin": "2017-10-05T23:58:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "JRYCgOhOvvxf3UU",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
@@ -1369,6 +1460,16 @@
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "rI9p50ib1JWPGRKw",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -1388,8 +1489,28 @@
       {
         "site": "bilibili",
         "id": "6478",
-        "begin": "",
+        "begin": "2017-10-08T17:00:00.000Z",
         "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "efbfbd75efbfbd47efbf",
+        "begin": "2017-10-08T17:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "318660",
+        "begin": "2017-10-08T17:00:00.000Z",
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -1427,7 +1548,7 @@
       {
         "site": "qq",
         "id": "q/qh4142yzut75cd0",
-        "begin": "",
+        "begin": "2017-10-06T17:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -1438,7 +1559,11 @@
   },
   {
     "title": "大正ちっちゃいさん",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "大正小小先生"
+      ]
+    },
     "lang": "ja",
     "officialSite": "http://mebius-anime.com/",
     "begin": "2017-10-06T12:54:00.000Z",
@@ -1448,18 +1573,47 @@
       {
         "site": "bangumi",
         "id": "198707"
+      },
+      {
+        "site": "pptv",
+        "id": "qZJibicGTKOnjbWcE",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
   {
     "title": "GLAMOROUS HEROES",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "魅力英雄"
+      ]
+    },
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://s.mxtv.jp/anime/glamorous_heroes/",
     "begin": "2017-10-06T17:10:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "227462"
+      },
+      {
+        "site": "youku",
+        "id": "efbfbd44efbfbd00efbf",
+        "begin": "2017-10-07T01:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      }
+    ]
   },
   {
     "title": "タイムボカン 逆襲の三悪人",
@@ -1517,6 +1671,133 @@
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ファイアボール ユーモラス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "火球 幽默之章"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://dlife.disney.co.jp/program/disney/fireball_humorous.html",
+    "begin": "2017-10-06T12:55:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "223134"
+      }
+    ]
+  },
+  {
+    "title": "ディアホライゾン(被)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Dia Horizon"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://s.mxtv.jp/anime/dia_horizon/",
+    "begin": "2017-10-02T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220667"
+      }
+    ]
+  },
+  {
+    "title": "EVIL OR LIVE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "理想禁区"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://evilorlive.jp/",
+    "begin": "2017-10-10T16:41:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "195713"
+      }
+    ]
+  },
+  {
+    "title": "カードファイト!! ヴァンガードG Z",
+    "titleTranslate": {
+      "en": [
+        "CARDFIGHT!! Vanguard G Z"
+      ],
+      "zh-Hans": [
+        "卡片战斗先导者 GZ"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/cf-vanguard-gz/",
+    "begin": "2017-10-08T01:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "221018"
+      },
+      {
+        "site": "pptv",
+        "id": "Bzchnwdt3RtibicGQ",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ROBO MASTERS THE ANIMATED SERIES",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机甲大师"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://anime.robomasters.com/",
+    "begin": "2017-10-13T13:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "208773"
+      }
+    ]
+  },
+  {
+    "title": "おにゃんこポン",
+    "titleTranslate": {
+      "en": [
+        "ONYANKOPON"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.onyankopon.jp/",
+    "begin": "2017-10-09T16:35:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220883"
       }
     ]
   }
