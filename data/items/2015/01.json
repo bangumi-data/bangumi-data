@@ -184,7 +184,7 @@
       {
         "site": "youku",
         "id": "33455b5a6dcf11e3a705",
-        "begin": "",
+        "begin": "2014-01-06T01:55:57.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -204,7 +204,7 @@
       {
         "site": "bilibili",
         "id": "1490",
-        "begin": "",
+        "begin": "2015-01-03T16:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -540,7 +540,7 @@
       {
         "site": "bilibili",
         "id": "1515",
-        "begin": "",
+        "begin": "2015-01-06T16:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2342,6 +2342,25 @@
       {
         "site": "saraba1st",
         "id": "1069504"
+      }
+    ]
+  },
+  {
+    "title": "快盗天使ツインエンジェル キュンキュン☆ときめきパラダイス!! OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "快盗天使双胞胎 OVA"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://twin-angel.com/media.html",
+    "begin": "2015-01-30T16:00:00.000Z",
+    "end": "2015-01-30T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "84705"
       }
     ]
   }
