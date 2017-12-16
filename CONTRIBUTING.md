@@ -24,11 +24,9 @@ dist/                                --> 存放构建后数据的目录
 
 ## 自动生成的字段
 
-所有 `items` 目录中的番组数据会依年月的顺序（均为 GMT+8）填入 `data.json` 的 `items` 数据，并赋予 `年份_月份_序号` 的 `id`。
+所有 `items` 目录中的番组数据会依年月的顺序（均为 GMT+8）填入 `data.json` 的 `items` 数据。
 
-所有 `sites` 目录中的站点元数据会放入构建后 `data.json` 的 `sites` 对象，并赋予与文件名相同的 `type` 值。
-
-因此 `id` 和 `type` 这两个字段不需要手动添加。
+所有 `siteMeta` 目录中的站点元数据会放入构建后 `data.json` 的 `sites` 对象，并赋予与文件名相同的 `type` 值。因此 `type` 这个字段不需要手动添加。
 
 ## 字段说明
 
@@ -37,6 +35,8 @@ dist/                                --> 存放构建后数据的目录
 所有涉及时间对象的字段，格式均为 [ISO 8601](https://zh.wikipedia.org/zh-hans/ISO_8601) 规范的字符串。
 
 所有涉及语言的字段，格式为 [`[ISO 639-1]-[ISO 15924]?`](https://tools.ietf.org/html/bcp47)，目前已有的为 `ja`、`en`、`zh-Hans`、`zh-Hant`。
+
+单个番组中的 `type` 字段可选的有 `tv`、`web`、`ova`、`movie`。
 
 ### 番组数据
 
@@ -59,10 +59,11 @@ dist/                                --> 存放构建后数据的目录
             "Re:Zero -Starting Life in Another World-"
         ]
     },
+    "type": "tv", // 番组类型 [required]
     "lang": "ja", // 番组语言 [required]
     "officialSite": "http://re-zero-anime.jp/", // 官网 [required]
-    "begin": "2016-04-03T16:35:00.000Z", // 番组开始时间，还未确定则置空 [required]
-    "end": "", // 番组完结时间，还未确定则置空 [required]
+    "begin": "2016-04-03T16:35:00.000Z", // tv/web：番组开始时间；movie：上映日期；ova：首话发售时间（未确定则置空） [required]
+    "end": "", // tv/web：番组完结时间；movie：无意义；ova：则为最终话发售时间（未确定则置空） [required]
     "comment": "", // 备注 [required]
     "sites": [ // 站点 [required]
         // 放送站点
@@ -70,10 +71,10 @@ dist/                                --> 存放构建后数据的目录
             "site": "bilibili", // 站点 name，请和最外层 sites 字段中的元数据对应 [required]
             "id": "3461", // 站点 id，可用于替换模板中相应的字段
             "url": "http://www.bilibili.com/sp/物语系列", // url，如果当前url不符合urlTemplate中的规则时使用，优先级高于id
-            "official": true, // 是否为官方放送。
-            "premuiumOnly": false, // 是否为收费观看。
-            "censored": true, // 是否有被和谐的情况存在。
-            "lang": "zh-Hans", // 翻译版本（字幕，配音）。
+            "official": true, // 是否为官方放送（若不确定则为 null）。
+            "premuiumOnly": false, // 是否为收费观看（若不确定则为 null）。
+            "censored": false, // 是否有被和谐的情况存在（若不确定则为 null）。
+            "exist": true, // 是否有实际视频（若不确定则为 null）。
             "begin": "2016-04-03T17:35:00.000Z", // 放送开始时间。
             "comment": "" // 备注
         },
@@ -85,7 +86,7 @@ dist/                                --> 存放构建后数据的目录
         // 资源（下载）站点
         {
             "site": "dmhy", // 站点 name，请和最外层 sites 字段中的元数据对应 [required]
-            "keyword": "從零" // 下载关键词，可用于替换模板中相应的字段
+            "id": "從零" // 下载关键词，可用于替换模板中相应的字段
         }
     ]
 }
