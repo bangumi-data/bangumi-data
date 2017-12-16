@@ -11,17 +11,17 @@ const readFilePaths = (startPoint, pattern = /.+/gi) => {
 
     return new Promise((resolve, reject) => {
         klaw(startPoint)
-        .on('data', (item) => {
-            if (pattern.test(item.path)) {
-                filePaths.push(item.path);
-            }
-        })
-        .on('error', (error) => {
-            reject(error);
-        })
-        .on('end', () => {
-            resolve(filePaths);
-        });
+            .on('data', (item) => {
+                if (pattern.test(item.path)) {
+                    filePaths.push(item.path);
+                }
+            })
+            .on('error', (error) => {
+                reject(error);
+            })
+            .on('end', () => {
+                resolve(filePaths);
+            });
     });
 };
 

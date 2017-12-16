@@ -51,9 +51,9 @@ const validateUniqueBangumiId = readJsonPaths(ITEMS_DIRECTORY)
         itemPaths.forEach((itemPath) => {
             const dataArray = fs.readJsonSync(itemPath);
             dataArray.forEach((itemData) => {
-                const id = (itemData.sites.find((site) => {
+                const { id } = (itemData.sites.find((site) => {
                     return site.site === 'bangumi';
-                }) || {}).id;
+                }) || {});
                 if (!id) {
                     return;
                 }
