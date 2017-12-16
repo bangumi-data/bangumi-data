@@ -1,10 +1,10 @@
 {
   "dmhy": {
     "title": "动漫花园",
-    "urlTemplate": "https://share.dmhy.org/topics/list?keyword={{keyword}}"
+    "urlTemplate": "https://share.dmhy.org/topics/list?keyword={{id}}"
   },
   "nyaa": {
     "title": "nyaa",
-    "urlTemplate": "https://www.nyaa.se/?page=search&term={{keyword}}"
+    "urlTemplate": "https://www.nyaa.se/?page=search&term={{id}}"
   }
 }
