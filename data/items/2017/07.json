@@ -15,17 +15,20 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "178624"
+        "id": "178624",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6306",
         "begin": "2017-07-02T16:30:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -45,47 +48,50 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "202261"
+        "id": "202261",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6320",
         "begin": "2017-07-07T19:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "youku",
         "id": "74efbfbd24784fefbfbd",
         "begin": "2017-07-07T19:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "acfun",
         "id": "1480118",
         "begin": "2017-07-07T19:00:00.000Z",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh86w2l",
         "begin": "2017-07-07T19:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -105,17 +111,20 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "193445"
+        "id": "193445",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6304",
         "begin": "2017-07-02T14:30:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -135,17 +144,20 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "204317"
+        "id": "204317",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6325",
         "begin": "2017-07-08T18:08:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -165,7 +177,10 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "207593"
+        "id": "207593",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "iqiyi",
@@ -173,9 +188,9 @@
         "begin": "2017-07-02T16:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -195,17 +210,20 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "208450"
+        "id": "208450",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6311",
         "begin": "2017-07-04T14:15:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -225,17 +243,20 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "208754"
+        "id": "208754",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6312",
         "begin": "2017-07-04T14:30:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -251,7 +272,10 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "212008"
+        "id": "212008",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -274,27 +298,30 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "192252"
+        "id": "192252",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6310",
         "begin": "2017-07-03T17:35:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "mgtv",
         "id": "319028",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -315,27 +342,30 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "198675"
+        "id": "198675",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6338",
         "begin": "2017-07-12T15:30:00.000Z",
         "official": true,
-        "premuiumOnly": false,
+        "premuiumOnly": null,
         "censored": true,
-        "lang": "zh-Hans",
-        "comment": ""
+        "comment": "",
+        "exist": null
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh86wrx",
         "begin": "2017-07-12T15:30:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -355,17 +385,20 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "214272"
+        "id": "214272",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6339",
         "begin": "2017-07-12T17:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -385,37 +418,40 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "195816"
+        "id": "195816",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6340",
         "begin": "2017-07-14T07:36:24.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "letv",
         "id": "10037717",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "pptv",
         "id": "VObSULgejswvrRU",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -435,17 +471,20 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "204855"
+        "id": "204855",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6301",
         "begin": "2017-07-01T16:30:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -465,7 +504,10 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "211936"
+        "id": "211936",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "iqiyi",
@@ -473,9 +515,9 @@
         "begin": "2017-07-09T14:30:00.000Z",
         "official": true,
         "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -495,7 +537,10 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "203526"
+        "id": "203526",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "iqiyi",
@@ -503,9 +548,9 @@
         "begin": "2017-07-07T14:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -528,17 +573,20 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "175424"
+        "id": "175424",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6302",
         "begin": "2017-07-01T17:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "iqiyi",
@@ -546,9 +594,9 @@
         "begin": "2017-07-01T17:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -568,7 +616,10 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "187976"
+        "id": "187976",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "youku",
@@ -576,9 +627,9 @@
         "begin": "2017-07-05T15:00:00.000Z",
         "official": false,
         "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -601,17 +652,20 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "163711"
+        "id": "163711",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "acfun",
         "id": "1480116",
         "begin": "2017-07-01T17:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -631,27 +685,30 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "210231"
+        "id": "210231",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6341",
         "begin": "2017-07-14T16:30:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh86w5p",
         "begin": "2017-07-14T16:30:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -671,17 +728,20 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "194261"
+        "id": "194261",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6328",
         "begin": "2017-07-10T12:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -701,17 +761,20 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "209408"
+        "id": "209408",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "youku",
         "id": "5f6aefbfbd7a54efbfbd",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -731,27 +794,30 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "216995"
+        "id": "216995",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6331",
         "begin": "2017-07-13T11:46:38.000Z",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "pptv",
         "id": "UOrGRKwSgsAjoQk",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -771,27 +837,30 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "211802"
+        "id": "211802",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6308",
         "begin": "2017-07-03T14:30:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "mgtv",
         "id": "316347",
         "begin": "2017-07-03T14:30:00.000Z",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -811,7 +880,10 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "209412"
+        "id": "209412",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "iqiyi",
@@ -819,9 +891,9 @@
         "begin": "2017-07-03T16:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -841,37 +913,40 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "211276"
+        "id": "211276",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6335",
         "begin": "2017-07-13T07:14:16.000Z",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "letv",
         "id": "10037718",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "pptv",
         "id": "SicXfXcUrm9k8uiaI",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -891,37 +966,40 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "205485"
+        "id": "205485",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6332",
         "begin": "2017-07-11T17:35:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "youku",
         "id": "efbfbdefbfbdefbfbd2a",
         "begin": "2017-07-11T17:35:00.000Z",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh86xb9",
         "begin": "2017-07-11T17:35:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -941,7 +1019,10 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "197722"
+        "id": "197722",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "iqiyi",
@@ -949,9 +1030,9 @@
         "begin": "2017-07-07T15:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -971,17 +1052,20 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "197200"
+        "id": "197200",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "acfun",
         "id": "1480115",
         "begin": "2017-07-12T13:30:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -1004,27 +1088,30 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "165805"
+        "id": "165805",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "mgtv",
         "id": "312408",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "youku",
         "id": "dbbd5607c5ca11e68ce4",
         "begin": "2017-07-07T16:00:00.000Z",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -1044,17 +1131,20 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "215726"
+        "id": "215726",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "pptv",
         "id": "Az0Xlf1j0xF08lo",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -1074,37 +1164,40 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "216767"
+        "id": "216767",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6346",
         "begin": "2017-07-02T19:05:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh83cnx",
         "begin": "2017-07-02T19:30:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "youku",
         "id": "efbfbdefbfbd285c5b08",
         "begin": "2017-07-02T19:30:00.000Z",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -1124,17 +1217,20 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "203010"
+        "id": "203010",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "acfun",
         "id": "1480113",
         "begin": "2017-07-04T18:11:26.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -1154,27 +1250,30 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "198099"
+        "id": "198099",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6314",
         "begin": "2017-07-05T12:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
+        "premuiumOnly": null,
         "censored": true,
-        "lang": "zh-Hans",
-        "comment": ""
+        "comment": "",
+        "exist": null
       },
       {
         "site": "youku",
         "id": "3cefbfbd37efbfbd5bef",
         "begin": "2017-07-05T12:00:00.000Z",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -1194,7 +1293,10 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "202267"
+        "id": "202267",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "youku",
@@ -1202,9 +1304,9 @@
         "begin": "2017-07-06T18:55:00.000Z",
         "official": false,
         "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -1224,37 +1326,40 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "213509"
+        "id": "213509",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "letv",
         "id": "10037659",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "pptv",
         "id": "LQicpZ881peNGxCw",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "bilibili",
         "id": "6317",
         "begin": "2017-07-09T03:18:21.000Z",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -1274,17 +1379,20 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "204483"
+        "id": "204483",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "acfun",
         "id": "1480114",
         "begin": "2017-07-06T18:30:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -1304,17 +1412,20 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "200084"
+        "id": "200084",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6319",
         "begin": "2017-07-07T14:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -1334,37 +1445,40 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "186908"
+        "id": "186908",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6324",
         "begin": "2017-07-08T15:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "youku",
         "id": "efbfbdefbfbd293d4fef",
         "begin": "2017-07-08T15:00:00.000Z",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh86wot",
         "begin": "2017-07-08T15:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -1385,17 +1499,20 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "201754"
+        "id": "201754",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6326",
         "begin": "2017-07-09T14:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -1418,7 +1535,10 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "211723"
+        "id": "211723",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "iqiyi",
@@ -1426,9 +1546,9 @@
         "begin": "2017-07-11T12:30:00.000Z",
         "official": true,
         "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -1448,27 +1568,30 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "212021"
+        "id": "212021",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6376",
         "begin": "2017-07-14T10:33:12.000Z",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "pptv",
         "id": "UevFQ6sRgb8iaoAg",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -1488,77 +1611,80 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "215920"
+        "id": "215920",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6353",
         "begin": "2017-07-01T02:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh83gpp",
         "begin": "2017-07-01T03:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "letv",
         "id": "10037541",
         "begin": "2017-07-01T02:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "mgtv",
         "id": "316372",
         "begin": "2017-07-01T02:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "pptv",
         "id": "ibEErqRF35yWIBm4",
         "begin": "2017-07-01T02:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "qq",
         "id": "q/qzmn289abuigokp",
         "begin": "2017-07-01T02:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "sohu",
         "id": "s2017/dhphyxhnryb",
         "begin": "2017-07-01T02:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -1578,27 +1704,30 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "163114"
+        "id": "163114",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6349",
         "begin": "2017-07-13T07:10:44.000Z",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "pptv",
         "id": "RffhX8ctndsibvCQ",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -1621,27 +1750,30 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "208908"
+        "id": "208908",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6330",
         "begin": "2017-07-11T14:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh876x1",
         "begin": "2017-07-11T14:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -1661,17 +1793,20 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "151974"
+        "id": "151974",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6343",
         "begin": "2017-07-25T13:19:31.000Z",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "iqiyi",
@@ -1679,9 +1814,9 @@
         "begin": "2017-08-07T12:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "mgtv",
@@ -1689,9 +1824,9 @@
         "begin": "",
         "official": false,
         "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -1707,17 +1842,20 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "218851"
+        "id": "218851",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "pptv",
         "id": "UuzIRq4UhMIlows",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -1737,17 +1875,20 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "212675"
+        "id": "212675",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6337",
         "begin": "2017-07-12T13:40:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -1767,17 +1908,20 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "219834"
+        "id": "219834",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "pptv",
         "id": "Qic3XVb0jk9E0sho",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -1797,27 +1941,30 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "217066"
+        "id": "217066",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6378",
         "begin": "2017-07-19T02:38:52.000Z",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "pptv",
         "id": "WibXPTbUbia8ksqhI",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -1840,27 +1987,30 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "210324"
+        "id": "210324",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6342",
         "begin": "2017-07-27T08:17:45.000Z",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "pptv",
         "id": "sIpm5EyyImDDQak",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   },
@@ -1876,7 +2026,10 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "221061"
+        "id": "221061",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   }

@@ -21,14 +21,17 @@
         "id": "a_19rrhb1359",
         "begin": "2015-08-14T17:05:28.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "bangumi",
-        "id": "1510"
+        "id": "1510",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -51,14 +54,17 @@
         "id": "a_19rro3oq90",
         "begin": "",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "bangumi",
-        "id": "45391"
+        "id": "45391",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -81,24 +87,27 @@
         "id": "a_19rrh60b3c",
         "begin": "2014-03-03T02:30:16.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "letv",
         "id": "80878",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "bangumi",
-        "id": "451"
+        "id": "451",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -121,14 +130,17 @@
         "id": "8zYSkPhezgxv7VU",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "bangumi",
-        "id": "1583"
+        "id": "1583",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   }

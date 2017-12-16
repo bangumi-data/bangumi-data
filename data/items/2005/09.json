@@ -15,7 +15,10 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "4756"
+        "id": "4756",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -38,24 +41,27 @@
         "begin": "",
         "official": true,
         "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
+        "censored": null,
         "comment": "",
-        "url": "http://vip.iqiyi.com/20110909/2fbdedacafd41bd8.html"
+        "url": "http://vip.iqiyi.com/20110909/2fbdedacafd41bd8.html",
+        "exist": null
       },
       {
         "site": "letv",
         "id": "76001",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "bangumi",
-        "id": "1890"
+        "id": "1890",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   }

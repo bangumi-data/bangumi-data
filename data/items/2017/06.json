@@ -18,7 +18,10 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "175362"
+        "id": "175362",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "youku",
@@ -26,9 +29,9 @@
         "begin": "2017-06-24T04:30:00.000Z",
         "official": true,
         "premuiumOnly": true,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   }

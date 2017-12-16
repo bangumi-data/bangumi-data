@@ -18,14 +18,17 @@
         "id": "8/8szu83s4qj0z4o0",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "bangumi",
-        "id": "148631"
+        "id": "148631",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -45,7 +48,10 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "18254"
+        "id": "18254",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   }

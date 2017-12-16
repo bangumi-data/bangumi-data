@@ -21,14 +21,17 @@
         "id": "u/u29kivvpuvfowk8",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "bangumi",
-        "id": "5365"
+        "id": "5365",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -51,7 +54,10 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "8590"
+        "id": "8590",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -74,14 +80,17 @@
         "id": "a_19rrhb1eeh",
         "begin": "2015-08-14T17:07:26.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "bangumi",
-        "id": "20234"
+        "id": "20234",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -104,14 +113,17 @@
         "id": "a_19rro3od8s",
         "begin": "",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "bangumi",
-        "id": "3140"
+        "id": "3140",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -133,15 +145,18 @@
         "site": "iqiyi",
         "begin": "",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
         "comment": "",
-        "url": "http://www.iqiyi.com/dongman/20120531/8041937e9c2f0d24.html"
+        "url": "http://www.iqiyi.com/dongman/20120531/8041937e9c2f0d24.html",
+        "exist": null
       },
       {
         "site": "bangumi",
-        "id": "1868"
+        "id": "1868",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   }

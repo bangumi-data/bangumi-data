@@ -21,14 +21,17 @@
         "id": "a_19rrha1k6d",
         "begin": "2016-11-28T09:39:42.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "bangumi",
-        "id": "47151"
+        "id": "47151",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -55,14 +58,17 @@
         "id": "a_19rrhb1b0h",
         "begin": "2015-12-02T01:25:31.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "bangumi",
-        "id": "9565"
+        "id": "9565",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   }

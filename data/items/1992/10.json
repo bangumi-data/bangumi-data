@@ -15,7 +15,10 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "9267"
+        "id": "9267",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -31,7 +34,10 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "161673"
+        "id": "161673",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -54,14 +60,17 @@
         "id": "LAjzcdkicrib1QzjY",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "bangumi",
-        "id": "8803"
+        "id": "8803",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -81,7 +90,10 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "19525"
+        "id": "19525",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -104,14 +116,17 @@
         "id": "5/5n2lnpamfl14923",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "bangumi",
-        "id": "2916"
+        "id": "2916",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -134,24 +149,27 @@
         "id": "H1AsqhJ46CaJB28",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "qq",
         "id": "b/bv4ksstk6j91sbj",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "bangumi",
-        "id": "3390"
+        "id": "3390",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   }

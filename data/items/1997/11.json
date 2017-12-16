@@ -18,14 +18,17 @@
         "id": "a_19rrhb1cip",
         "begin": "2015-11-10T07:05:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "bangumi",
-        "id": "4025"
+        "id": "4025",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   }

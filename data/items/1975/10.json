@@ -18,34 +18,37 @@
         "id": "8TwIhu5UxAJl40s",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "iqiyi",
         "id": "a_19rrjzu2kp",
         "begin": "2016-08-10T05:54:38.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "letv",
         "id": "82272",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "bangumi",
-        "id": "9540"
+        "id": "9540",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -70,14 +73,17 @@
         "id": "a_19rrhb1cb9",
         "begin": "2015-10-29T08:35:22.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "bangumi",
-        "id": "37176"
+        "id": "37176",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -97,7 +103,10 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "211288"
+        "id": "211288",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -117,7 +126,10 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "30171"
+        "id": "30171",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -137,7 +149,10 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "53760"
+        "id": "53760",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -157,7 +172,10 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "16805"
+        "id": "16805",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   }

@@ -15,17 +15,20 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "202615"
+        "id": "202615",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "bilibili",
         "id": "6163",
         "begin": "2017-05-09T16:00:00.000Z",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       }
     ]
   }

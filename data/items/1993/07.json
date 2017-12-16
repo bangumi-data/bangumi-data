@@ -15,7 +15,10 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "84984"
+        "id": "84984",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -38,14 +41,17 @@
         "id": "a_19rro0n4sk",
         "begin": "",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "bangumi",
-        "id": "82725"
+        "id": "82725",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -68,14 +74,17 @@
         "id": "a_19rro3osb4",
         "begin": "",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "bangumi",
-        "id": "45394"
+        "id": "45394",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -98,24 +107,27 @@
         "id": "3aGLCXHXR4XoZs4",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "iqiyi",
         "begin": "",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
         "comment": "",
-        "url": "http://www.iqiyi.com/dongman/20130715/839f4bf2c2cbe419.html"
+        "url": "http://www.iqiyi.com/dongman/20130715/839f4bf2c2cbe419.html",
+        "exist": null
       },
       {
         "site": "bangumi",
-        "id": "8966"
+        "id": "8966",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   }

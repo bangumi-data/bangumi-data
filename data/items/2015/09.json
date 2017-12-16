@@ -21,28 +21,34 @@
         "id": "n/ndd165x9imhawbd",
         "begin": "2015-09-24T16:30:00.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "tucao",
         "id": "DIABOLIK%20LOVERS%20MORE,BLOOD",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "bangumi",
-        "id": "124778"
+        "id": "124778",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       },
       {
         "site": "saraba1st",
-        "id": "1157747"
+        "id": "1157747",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -62,7 +68,10 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "132770"
+        "id": "132770",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -85,24 +94,27 @@
         "id": "UffhX8ctndsibvCQ",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "letv",
         "id": "10020353",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "bangumi",
-        "id": "119344"
+        "id": "119344",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   }

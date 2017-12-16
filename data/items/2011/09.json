@@ -21,14 +21,17 @@
         "id": "47403",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "bangumi",
-        "id": "20547"
+        "id": "20547",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -51,7 +54,10 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "18004"
+        "id": "18004",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -74,7 +80,10 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "20407"
+        "id": "20407",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -96,15 +105,18 @@
         "site": "iqiyi",
         "begin": "",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
+        "premuiumOnly": null,
+        "censored": null,
         "comment": "",
-        "url": "http://www.iqiyi.com/dongman/20120626/ece98897b70d6a00.html"
+        "url": "http://www.iqiyi.com/dongman/20120626/ece98897b70d6a00.html",
+        "exist": null
       },
       {
         "site": "bangumi",
-        "id": "12544"
+        "id": "12544",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -127,14 +139,17 @@
         "id": "xhDsatI4qOZJxy8",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "bangumi",
-        "id": "22739"
+        "id": "22739",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   }

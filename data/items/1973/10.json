@@ -18,14 +18,17 @@
         "id": "a_19rrhb1dwl",
         "begin": "2015-11-04T03:13:43.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "bangumi",
-        "id": "9302"
+        "id": "9302",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -45,7 +48,10 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "65284"
+        "id": "65284",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -65,7 +71,10 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "13561"
+        "id": "13561",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   },
@@ -85,7 +94,10 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "10944"
+        "id": "10944",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   }

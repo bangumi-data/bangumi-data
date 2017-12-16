@@ -18,14 +18,17 @@
         "id": "a_19rrhb1c4t",
         "begin": "2015-10-29T08:36:10.000Z",
         "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
+        "premuiumOnly": null,
+        "censored": null,
+        "comment": "",
+        "exist": null
       },
       {
         "site": "bangumi",
-        "id": "10392"
+        "id": "10392",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
       }
     ]
   }
