@@ -32,19 +32,16 @@ readJsonPaths(ITEMS_DIRECTORY)
 
         // 同步读取所有json文件
         itemPaths.forEach((itemPath) => {
-            const idPrefix = itemPath.match(/\d{4}(?:\/|\\)\d{2}/)[0].replace(/\/|\\/g, '_');
             let dataArray = fs.readJsonSync(itemPath);
 
-            dataArray = dataArray.map((itemData, index) => {
-                // example => 2016_06_0
-                const id = `${idPrefix}_${index}`;
+            dataArray = dataArray.map((itemData) => {
                 const result = Joi.validate(itemData, itemSchema);
 
                 if (result.error) {
                     throw result.error;
                 }
 
-                return Object.assign({ id }, itemData);
+                return itemData;
             });
 
             itemsData = itemsData.concat(dataArray);
@@ -85,7 +82,7 @@ readJsonPaths(ITEMS_DIRECTORY)
             }
 
             fs.writeJson(path.resolve(DIST_PATH, DIST_FILE_NAME), {
-                sites: sitesData,
+                siteMeta: sitesData,
                 items: itemsData
             }, (err) => {
                 if (err) {
