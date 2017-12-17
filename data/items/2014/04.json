@@ -745,7 +745,7 @@
         "PUCHIMAS!!-PETIT PETIT IDOLM@STER-"
       ]
     },
-    "type": "tv",
+    "type": "web",
     "lang": "ja",
     "officialSite": "http://puchimas.com/",
     "begin": "2014-04-05T15:30:00.000Z",
@@ -3556,7 +3556,15 @@
     "begin": "2014-04-11T09:20:00.000Z",
     "end": "2015-03-06T09:55:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "232980",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
+      }
+    ]
   },
   {
     "title": "猫のダヤン",
@@ -3588,7 +3596,7 @@
         "GO！GO！家电男子2"
       ]
     },
-    "type": "tv",
+    "type": "web",
     "lang": "ja",
     "officialSite": "http://kadendanshi.com/",
     "begin": "2014-04-29T08:59:00.000Z",
@@ -3726,7 +3734,7 @@
         "蜡笔小新 决一胜负！逆袭的机器人爸爸"
       ]
     },
-    "type": "tv",
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.shinchan-movie.com/",
     "begin": "2014-04-19T16:00:00.000Z",
@@ -3769,7 +3777,7 @@
         "天降之物Final 永远的我的鸟笼"
       ]
     },
-    "type": "tv",
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://kadokawa-anime.jp/soraoto/",
     "begin": "2014-04-26T16:00:00.000Z",
@@ -3845,7 +3853,7 @@
         "名侦探柯南 异次元的狙击手"
       ]
     },
-    "type": "tv",
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.conan-movie.jp/",
     "begin": "2014-04-19T16:00:00.000Z",

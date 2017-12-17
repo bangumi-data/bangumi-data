@@ -2007,7 +2007,7 @@
         "THE HEROIC LEGEND OF ARSLAN"
       ]
     },
-    "type": "ova",
+    "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.arslan.jp/",
     "begin": "2015-04-05T08:00:00.000Z",
@@ -3708,7 +3708,7 @@
         "NINJA SLAYER FROM ANIMATION"
       ]
     },
-    "type": "tv",
+    "type": "web",
     "lang": "ja",
     "officialSite": "http://www.ninjaslayer-animation.com/",
     "begin": "2015-04-16T14:00:00.000Z",
@@ -3843,7 +3843,15 @@
     "begin": "2015-04-03T09:20:00.000Z",
     "end": "2016-03-04T09:55:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "232981",
+        "censored": null,
+        "exist": null,
+        "premuiumOnly": null
+      }
+    ]
   },
   {
     "title": "GON -ゴン-(第2期)",
@@ -3996,7 +4004,7 @@
         "圣斗士星矢 黄金魂 -soul of gold-"
       ]
     },
-    "type": "tv",
+    "type": "web",
     "lang": "ja",
     "officialSite": "http://saintseiya-gold.com/",
     "begin": "2015-04-10T15:00:00.000Z",
@@ -4056,7 +4064,7 @@
         "尸兄 第二季"
       ]
     },
-    "type": "tv",
+    "type": "web",
     "lang": "zh-Hans",
     "officialSite": "http://ac.qq.com/event/sxdh/index.shtml",
     "begin": "2015-04-16T12:00:00.000Z",
@@ -4150,7 +4158,7 @@
         "龙珠Z 复活的弗利萨"
       ]
     },
-    "type": "tv",
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.d2015gw.com/",
     "begin": "2015-04-18T16:00:00.000Z",
@@ -4183,7 +4191,7 @@
         "名侦探柯南 业火的向日葵"
       ]
     },
-    "type": "tv",
+    "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.conan-movie.jp/",
     "begin": "2015-04-18T16:00:00.000Z",
