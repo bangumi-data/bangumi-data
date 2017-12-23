@@ -18,10 +18,10 @@
         "id": "3375",
         "begin": "2016-03-04T15:30:00.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -54,11 +54,11 @@
         "site": "mgtv",
         "id": "293305",
         "begin": "",
-        "official": false,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "tudou",
@@ -67,48 +67,48 @@
         "official": true,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "youku",
         "id": "40654fa2f09511e59e2a",
         "begin": "2016-03-26T10:00:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "acfun",
         "id": "1470402",
         "begin": "2016-03-26T10:00:00.000Z",
-        "official": true,
+        "official": null,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "sohu",
         "id": "s2016/dhpgwdz2",
         "begin": "2016-03-26T10:00:00.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "letv",
         "id": "10014412",
         "begin": "2016-03-26T10:00:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "tucao",
@@ -117,8 +117,8 @@
         "official": false,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": null,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -140,81 +140,81 @@
         "site": "acfun",
         "id": "1470443",
         "begin": "2016-03-25T02:00:00.000Z",
-        "official": true,
+        "official": null,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bilibili",
         "id": "3506",
         "begin": "2016-03-25T02:00:00.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "pptv",
         "id": "2WdRzzedDUuuLJQ",
         "begin": "2016-03-25T02:00:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
+        "official": false,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "qq",
         "id": "q/qkqu2uoheupjd48",
         "begin": "2016-03-25T02:00:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhadq6l",
         "begin": "2016-03-25T02:00:00.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "letv",
         "id": "10018933",
         "begin": "2016-03-25T02:00:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "sohu",
         "id": "s2016/yzdmx2",
         "begin": "2016-03-25T02:00:00.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "mgtv",
         "id": "291228",
         "begin": "2016-03-25T02:00:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -240,21 +240,21 @@
         "site": "iqiyi",
         "id": "a_19rrm3ae54",
         "begin": "",
-        "official": true,
+        "official": null,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": null,
+        "comment": ""
       },
       {
         "site": "letv",
         "id": "10035148",
         "begin": "",
-        "official": false,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -281,10 +281,10 @@
         "id": "a_19rrhbcjih",
         "begin": "2016-02-15T09:09:13.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -310,11 +310,11 @@
         "site": "iqiyi",
         "id": "a_19rr96czek",
         "begin": "",
-        "official": true,
+        "official": null,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": null,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -341,10 +341,10 @@
         "id": "xHNd20OpGVe6OKA",
         "begin": "",
         "official": false,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -371,10 +371,10 @@
         "id": "WibfRT7cdjcsurBQ",
         "begin": "",
         "official": false,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -401,10 +401,10 @@
         "id": "WibfRT7cdjcsurBQ",
         "begin": "",
         "official": false,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -431,10 +431,10 @@
         "id": "WibfRT7cdjcsurBQ",
         "begin": "",
         "official": false,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -481,10 +481,10 @@
         "id": "cribZF3iclVZP2dNw",
         "begin": "",
         "official": false,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",

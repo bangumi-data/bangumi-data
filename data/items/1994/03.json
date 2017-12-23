@@ -21,10 +21,10 @@
         "id": "a_19rrhb12s9",
         "begin": "2015-08-14T17:09:03.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -54,10 +54,10 @@
         "id": "5lQvrRV76ymMCnI",
         "begin": "",
         "official": false,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -80,16 +80,6 @@
     "comment": "",
     "sites": [
       {
-        "site": "iqiyi",
-        "id": "a_19rro0n7bs",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "comment": "",
-        "exist": null
-      },
-      {
         "site": "bangumi",
         "id": "82726"
       }
@@ -109,16 +99,6 @@
     "end": "1994-03-12T16:30:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rro3oifw",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "comment": "",
-        "exist": null
-      },
       {
         "site": "bangumi",
         "id": "45395"
@@ -140,16 +120,6 @@
     "comment": "",
     "sites": [
       {
-        "site": "iqiyi",
-        "id": "a_19rro3pisw",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "comment": "",
-        "exist": null
-      },
-      {
         "site": "bangumi",
         "id": "3731"
       }
@@ -170,24 +140,14 @@
     "comment": "",
     "sites": [
       {
-        "site": "iqiyi",
-        "id": "a_19rrh602sc",
-        "begin": "2014-03-03T02:28:45.000Z",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "comment": "",
-        "exist": null
-      },
-      {
         "site": "letv",
         "id": "80948",
         "begin": "",
-        "official": false,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",

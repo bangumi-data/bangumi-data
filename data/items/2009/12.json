@@ -37,11 +37,11 @@
         "site": "letv",
         "id": "6307",
         "begin": "",
-        "official": false,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -63,16 +63,6 @@
     "end": "2009-12-12T18:00:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rro4ghbc",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "comment": "",
-        "exist": null
-      },
       {
         "site": "bangumi",
         "id": "2462"
@@ -98,10 +88,10 @@
         "id": "EAicpZ881peNGxCw",
         "begin": "",
         "official": false,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",

@@ -14,16 +14,6 @@
     "comment": "",
     "sites": [
       {
-        "site": "iqiyi",
-        "id": "a_19rro0n3tg",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "comment": "",
-        "exist": null
-      },
-      {
         "site": "bangumi",
         "id": "82719"
       }
@@ -44,24 +34,14 @@
     "comment": "",
     "sites": [
       {
-        "site": "iqiyi",
-        "id": "a_19rrh5zwek",
-        "begin": "2014-03-03T02:28:05.000Z",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "comment": "",
-        "exist": null
-      },
-      {
         "site": "letv",
         "id": "80813",
         "begin": "",
-        "official": false,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",

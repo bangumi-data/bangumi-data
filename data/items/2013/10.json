@@ -17,21 +17,21 @@
         "site": "qq",
         "id": "o/ox39rizb1w9cbv1",
         "begin": "2013-10-02T13:00:00.000Z",
-        "official": true,
+        "official": null,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": null,
+        "comment": ""
       },
       {
         "site": "bilibili",
         "id": "485",
-        "begin": "2013-10-02T13:00:00.000Z",
+        "begin": "2013-10-01T16:00:00.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -62,50 +62,50 @@
         "id": "a_19rrh92469",
         "begin": "2017-01-17T01:00:16.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "letv",
         "id": "93274",
         "begin": "",
-        "official": false,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "sohu",
         "id": "s2013/jjdbf",
         "begin": "2013-10-02T19:00:00.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "acfun",
         "id": "78",
         "begin": "2013-10-02T19:00:00.000Z",
-        "official": true,
+        "official": null,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bilibili",
         "id": "3365",
-        "begin": "2013-10-02T19:00:00.000Z",
+        "begin": "2013-10-01T16:00:00.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -135,30 +135,30 @@
         "id": "qqONC3PZSYfqaNA",
         "begin": "",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhbgwzl",
         "begin": "2015-12-04T10:03:19.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "youku",
         "id": "5af840e4fe6811e2a705",
-        "begin": "",
+        "begin": "2013-10-05T03:39:47.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "tudou",
@@ -167,18 +167,18 @@
         "official": true,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "letv",
         "id": "93669",
         "begin": "",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -211,11 +211,11 @@
         "site": "youku",
         "id": "36d97dec03e811e38b3f",
         "begin": "",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "tudou",
@@ -224,38 +224,38 @@
         "official": true,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "pptv",
         "id": "n45q6FC2JmTHRa0",
         "begin": "",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "letv",
         "id": "93561",
         "begin": "",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "qq",
         "id": "v/v3ahv9tmgwosl37",
         "begin": "",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -284,22 +284,22 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgjao0x",
-        "begin": "2013-10-03T16:00:00.000Z",
+        "begin": "2014-04-09T22:49:50.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "acfun",
         "id": "95",
         "begin": "2013-10-03T16:00:00.000Z",
-        "official": true,
+        "official": null,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -329,51 +329,51 @@
         "site": "pptv",
         "id": "21M9uyOJibTeaGIA",
         "begin": "",
-        "official": false,
-        "premuiumOnly": null,
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhb1465",
         "begin": "2016-01-04T06:42:53.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "letv",
         "id": "93555",
         "begin": "",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "sohu",
         "id": "s2013/jsxh",
         "begin": "",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "acfun",
         "id": "79",
         "begin": "",
-        "official": true,
+        "official": null,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -402,12 +402,12 @@
       {
         "site": "youku",
         "id": "12b8f2e01c4211e3a705",
-        "begin": "",
+        "begin": "2013-10-18T00:33:52.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "tudou",
@@ -416,18 +416,18 @@
         "official": true,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhayx3d",
         "begin": "2015-03-26T03:23:12.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -514,21 +514,21 @@
         "site": "qq",
         "id": "r/rur1k9y16jaqici",
         "begin": "2013-10-03T18:30:00.000Z",
-        "official": true,
+        "official": null,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": null,
+        "comment": ""
       },
       {
         "site": "bilibili",
         "id": "468",
-        "begin": "2013-10-03T18:30:00.000Z",
+        "begin": "2013-10-02T16:00:00.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -561,31 +561,31 @@
         "site": "acfun",
         "id": "98",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "letv",
         "id": "93029",
         "begin": "2013-10-03T17:10:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "bilibili",
         "id": "419",
-        "begin": "2013-10-03T17:10:00.000Z",
+        "begin": "2013-10-02T16:00:00.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -645,51 +645,51 @@
         "site": "pptv",
         "id": "gotl40uxIVicCQKg",
         "begin": "",
-        "official": false,
-        "premuiumOnly": null,
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "letv",
         "id": "93540",
         "begin": "",
-        "official": false,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhc0xgd",
         "begin": "2014-12-16T08:07:07.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "youku",
         "id": "b9229c08e3cb11e29748",
-        "begin": "",
+        "begin": "2013-10-05T18:49:48.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bilibili",
         "id": "289",
-        "begin": "",
+        "begin": "2013-10-04T16:00:00.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -748,30 +748,30 @@
         "id": "GBXicfeVLuiclc2kI",
         "begin": "",
         "official": false,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "letv",
         "id": "93136",
         "begin": "2013-10-04T18:00:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "bilibili",
         "id": "4382",
-        "begin": "2013-10-04T18:00:00.000Z",
+        "begin": "2013-10-03T16:00:01.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -825,10 +825,10 @@
         "id": "a_19rrhax8kd",
         "begin": "2015-01-05T06:21:18.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "tudou",
@@ -837,48 +837,48 @@
         "official": true,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "youku",
         "id": "0d218d7619ca11e38b3f",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": null,
+        "begin": "2013-10-07T02:44:13.000Z",
+        "official": false,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "qq",
         "id": "u/u0ae6bix0kt4lag",
         "begin": "",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "letv",
         "id": "93552",
         "begin": "",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bilibili",
         "id": "489",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": null,
+        "begin": "2013-10-05T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -907,12 +907,12 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgjanw9",
-        "begin": "2013-10-05T16:30:00.000Z",
+        "begin": "2013-10-05T16:30:12.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -941,11 +941,11 @@
         "site": "pptv",
         "id": "jYFr6VG3J2XIRq4",
         "begin": "",
-        "official": false,
-        "premuiumOnly": null,
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "tudou",
@@ -954,38 +954,38 @@
         "official": true,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "youku",
         "id": "e9c14c84e22611e29748",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": null,
+        "begin": "2013-10-07T04:22:08.000Z",
+        "official": false,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "qq",
         "id": "j/jye92pufaaq3fvr",
         "begin": "",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bilibili",
         "id": "473",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": null,
+        "begin": "2013-10-05T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1017,22 +1017,22 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgjao65",
-        "begin": "2013-10-06T02:30:00.000Z",
+        "begin": "2014-09-12T06:28:32.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "acfun",
         "id": "103",
         "begin": "2013-10-06T02:30:00.000Z",
-        "official": true,
+        "official": null,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1065,41 +1065,41 @@
         "site": "acfun",
         "id": "106",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "mgtv",
         "id": "108321",
         "begin": "",
-        "official": false,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "letv",
         "id": "93450",
         "begin": "2013-10-06T15:30:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bilibili",
         "id": "480",
-        "begin": "2013-10-06T15:30:00.000Z",
+        "begin": "2013-10-05T16:00:00.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1131,22 +1131,22 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgjanth",
-        "begin": "2013-10-06T16:00:00.000Z",
+        "begin": "2013-10-06T16:00:04.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "acfun",
         "id": "91",
         "begin": "2013-10-06T16:00:00.000Z",
-        "official": true,
+        "official": null,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1175,31 +1175,31 @@
         "site": "letv",
         "id": "93028",
         "begin": "2013-10-06T08:05:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "bilibili",
         "id": "471",
-        "begin": "2013-10-06T08:05:00.000Z",
+        "begin": "2013-10-05T16:00:00.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "acfun",
         "id": "107",
         "begin": "2013-10-06T08:05:00.000Z",
-        "official": true,
+        "official": null,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1229,41 +1229,41 @@
         "site": "pptv",
         "id": "joRw7la8LGrNS7M",
         "begin": "",
-        "official": false,
-        "premuiumOnly": null,
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "mgtv",
         "id": "41613",
         "begin": "",
-        "official": false,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "youku",
         "id": "e5894f40e3ca11e29748",
-        "begin": "",
+        "begin": "2013-10-06T08:03:08.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "qq",
         "id": "5/53x6bbyb07ebl3s",
         "begin": "",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "tudou",
@@ -1272,38 +1272,38 @@
         "official": true,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrgjann1",
         "begin": "2014-09-12T06:23:25.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "letv",
         "id": "93033",
         "begin": "",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bilibili",
         "id": "1625",
-        "begin": "",
+        "begin": "2013-10-04T16:00:00.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1333,21 +1333,21 @@
         "site": "kankan",
         "id": "74027",
         "begin": "2013-10-06T14:00:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "youku",
         "id": "0995377e0da211e1a046",
-        "begin": "2013-10-06T14:00:00.000Z",
+        "begin": "2013-10-07T04:25:00.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "tudou",
@@ -1356,18 +1356,18 @@
         "official": true,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "bilibili",
         "id": "486",
-        "begin": "2013-10-06T14:00:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
+        "begin": "2013-10-05T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1396,12 +1396,12 @@
       {
         "site": "bilibili",
         "id": "502",
-        "begin": "",
+        "begin": "2013-10-04T16:00:00.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1435,21 +1435,21 @@
         "site": "pptv",
         "id": "QcyoJo70ZKIFgibs",
         "begin": "",
-        "official": false,
-        "premuiumOnly": null,
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "youku",
         "id": "8fd33520055d11e3a705",
-        "begin": "",
+        "begin": "2013-10-06T07:48:34.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "tudou",
@@ -1458,38 +1458,38 @@
         "official": true,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "qq",
         "id": "n/nvaj06cswye3rv0",
         "begin": "",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bilibili",
         "id": "460",
-        "begin": "",
+        "begin": "2013-10-04T16:00:00.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "acfun",
         "id": "61",
         "begin": "",
-        "official": true,
+        "official": null,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1515,21 +1515,21 @@
         "site": "qq",
         "id": "h/hspj1p1lk40jmsz",
         "begin": "",
-        "official": false,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "youku",
         "id": "6236bbae032911e38b3f",
-        "begin": "",
+        "begin": "2013-10-13T09:19:22.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "tudou",
@@ -1538,18 +1538,18 @@
         "official": true,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "bilibili",
         "id": "1578",
-        "begin": "",
+        "begin": "2013-10-04T16:00:00.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1580,30 +1580,30 @@
         "id": "ooZy8FiaibLmzPTbU",
         "begin": "",
         "official": false,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "letv",
         "id": "93675",
         "begin": "",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bilibili",
         "id": "19",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": null,
+        "begin": "2013-10-05T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1635,22 +1635,22 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgjanhh",
-        "begin": "2013-10-07T15:30:00.000Z",
+        "begin": "2013-10-07T12:00:09.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "acfun",
         "id": "89",
         "begin": "2013-10-07T15:30:00.000Z",
-        "official": true,
+        "official": null,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1679,12 +1679,12 @@
       {
         "site": "youku",
         "id": "0d2fcdb00a1f11e3a705",
-        "begin": "2013-10-06T16:35:00.000Z",
+        "begin": "2013-10-05T03:35:38.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": true,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "tudou",
@@ -1693,8 +1693,8 @@
         "official": true,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1730,20 +1730,20 @@
         "id": "a_19rrgjaks5",
         "begin": "2016-08-09T06:51:09.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "acfun",
         "id": "90",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1768,12 +1768,12 @@
       {
         "site": "youku",
         "id": "88da380a055711e3b8b7",
-        "begin": "2013-10-07T17:05:00.000Z",
+        "begin": "2013-10-04T03:32:17.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": true,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "tudou",
@@ -1782,8 +1782,8 @@
         "official": true,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1812,11 +1812,11 @@
         "site": "youku",
         "id": "3dfc462efe6911e2a705",
         "begin": "",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "tudou",
@@ -1825,38 +1825,38 @@
         "official": true,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "letv",
         "id": "93453",
         "begin": "",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "bilibili",
         "id": "483",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": null,
+        "begin": "2013-10-06T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "acfun",
         "id": "75",
         "begin": "",
-        "official": true,
+        "official": null,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1885,12 +1885,12 @@
       {
         "site": "youku",
         "id": "838fc1c8030211e3b8b7",
-        "begin": "2013-10-07T17:35:00.000Z",
+        "begin": "2013-10-04T02:44:26.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "tudou",
@@ -1899,8 +1899,8 @@
         "official": true,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -1958,20 +1958,20 @@
         "id": "s2013/blazblue1",
         "begin": "2013-10-08T20:00:00.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "youku",
         "id": "229398e2e3d911e29748",
-        "begin": "2013-10-08T20:00:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
+        "begin": "2013-10-09T01:54:37.000Z",
+        "official": false,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -2004,31 +2004,31 @@
         "site": "acfun",
         "id": "99",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "letv",
         "id": "93220",
         "begin": "2013-10-10T16:50:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "bilibili",
         "id": "475",
-        "begin": "2013-10-10T16:50:00.000Z",
+        "begin": "2013-10-09T16:00:00.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -2060,30 +2060,30 @@
         "id": "9XZia4EiauHlyicPaU",
         "begin": "",
         "official": false,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "letv",
         "id": "93138",
         "begin": "2013-10-09T17:30:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bilibili",
         "id": "2673",
-        "begin": "2013-10-09T17:30:00.000Z",
+        "begin": "2013-10-08T16:00:00.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -2112,22 +2112,22 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgjanrd",
-        "begin": "2013-10-10T20:35:00.000Z",
+        "begin": "2013-10-10T20:35:12.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "acfun",
         "id": "97",
         "begin": "2013-10-10T20:35:00.000Z",
-        "official": true,
+        "official": null,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -2156,31 +2156,31 @@
         "site": "acfun",
         "id": "100",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "letv",
         "id": "93129",
         "begin": "2013-10-10T16:25:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "bilibili",
         "id": "476",
-        "begin": "2013-10-10T16:25:00.000Z",
+        "begin": "2013-10-09T16:00:00.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -2214,20 +2214,20 @@
         "id": "ia4Nt61O5KWfKSLA",
         "begin": "",
         "official": false,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "qq",
         "id": "s/sil8p038h3hthpd",
         "begin": "",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "tudou",
@@ -2236,28 +2236,28 @@
         "official": true,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "youku",
         "id": "8ef6f2500a2011e38b3f",
-        "begin": "",
+        "begin": "2013-10-11T02:37:41.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bilibili",
         "id": "495",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": null,
+        "begin": "2013-10-09T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -2291,61 +2291,61 @@
         "site": "qq",
         "id": "5/5seimij3v9kms9y",
         "begin": "",
-        "official": false,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "sohu",
         "id": "s2016/jlbkmxy1",
         "begin": "",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "mgtv",
         "id": "167671",
         "begin": "",
-        "official": false,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhab3gh",
         "begin": "2016-01-08T10:36:36.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "pptv",
         "id": "VicbiaYMguntwicvSU",
         "begin": "",
-        "official": true,
-        "premuiumOnly": null,
+        "official": false,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "qq",
         "id": "o/o6ftuwm1j0xfa62",
         "begin": "",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "tudou",
@@ -2354,28 +2354,28 @@
         "official": true,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "youku",
         "id": "ca5b9dc41c3f11e3b8b7",
-        "begin": "",
+        "begin": "2015-12-23T17:11:17.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "letv",
         "id": "93548",
         "begin": "",
-        "official": true,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "tucao",
@@ -2384,8 +2384,8 @@
         "official": false,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": null,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -2411,11 +2411,11 @@
         "site": "letv",
         "id": "93668",
         "begin": "",
-        "official": false,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -2441,11 +2441,11 @@
         "site": "pptv",
         "id": "6m9JxyibVBUOmJIw",
         "begin": "",
-        "official": false,
+        "official": null,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": null,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -2472,10 +2472,10 @@
         "id": "HwTwbtY8rOpNyzM",
         "begin": "",
         "official": false,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",

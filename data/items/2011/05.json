@@ -17,11 +17,11 @@
         "site": "letv",
         "id": "42560",
         "begin": "",
-        "official": false,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -45,23 +45,23 @@
     "sites": [
       {
         "site": "iqiyi",
-        "id": "dongman/20120614/2c994b8572f6a002",
         "begin": "",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
+        "exist": true,
         "comment": "",
-        "exist": null
+        "url": "http://www.iqiyi.com/v_19rrk78dhk.html"
       },
       {
         "site": "letv",
         "id": "87681",
         "begin": "",
-        "official": false,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -108,10 +108,10 @@
         "id": "n8mzMZnicb60QjvY",
         "begin": "",
         "official": false,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -138,10 +138,10 @@
         "id": "pOjUUrogkM4xrxc",
         "begin": "",
         "official": false,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",

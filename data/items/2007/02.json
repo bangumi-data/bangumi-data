@@ -21,10 +21,10 @@
         "id": "a_19rrhabcll",
         "begin": "",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "tudou",
@@ -33,28 +33,28 @@
         "official": true,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "bilibili",
         "id": "3287",
-        "begin": "2007-02-15T11:00:00.000Z",
+        "begin": "2016-01-14T11:30:00.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "youku",
         "id": "cc001f06962411de83b1",
-        "begin": "2007-02-15T11:00:00.000Z",
+        "begin": "2013-04-06T02:47:00.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "tucao",
@@ -63,8 +63,8 @@
         "official": false,
         "premuiumOnly": null,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": null,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -111,10 +111,10 @@
         "id": "camTEXnfT43wbtY",
         "begin": "",
         "official": false,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -161,10 +161,10 @@
         "id": "a_19rrhb14x1",
         "begin": "2015-08-18T04:13:41.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",

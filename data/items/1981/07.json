@@ -17,11 +17,11 @@
         "site": "qq",
         "id": "l/lk34bbjniysk41a",
         "begin": "",
-        "official": false,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -43,16 +43,6 @@
     "end": "1981-07-18T16:25:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rro0na58",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "comment": "",
-        "exist": null
-      },
       {
         "site": "bangumi",
         "id": "47011"

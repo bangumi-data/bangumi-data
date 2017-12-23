@@ -21,10 +21,10 @@
         "id": "NgD7eeFHticVY1j4",
         "begin": "",
         "official": false,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -50,11 +50,11 @@
         "site": "qq",
         "id": "k/kd7sd8mpyq2j2nn",
         "begin": "",
-        "official": false,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -77,16 +77,6 @@
     "comment": "",
     "sites": [
       {
-        "site": "iqiyi",
-        "id": "a_19rro3ovv4",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "comment": "",
-        "exist": null
-      },
-      {
         "site": "bangumi",
         "id": "44942"
       }
@@ -107,24 +97,14 @@
     "comment": "",
     "sites": [
       {
-        "site": "iqiyi",
-        "id": "a_19rrh60b9s",
-        "begin": "2014-03-03T02:30:05.000Z",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "comment": "",
-        "exist": null
-      },
-      {
         "site": "letv",
         "id": "80870",
         "begin": "",
-        "official": false,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",

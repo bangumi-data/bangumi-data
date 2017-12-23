@@ -20,11 +20,11 @@
         "site": "qq",
         "id": "u/u29kivvpuvfowk8",
         "begin": "",
-        "official": false,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": true,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -74,10 +74,10 @@
         "id": "a_19rrhb1eeh",
         "begin": "2015-08-14T17:07:26.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -99,16 +99,6 @@
     "end": "2006-12-09T16:20:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rro3od8s",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "comment": "",
-        "exist": null
-      },
       {
         "site": "bangumi",
         "id": "3140"
@@ -133,11 +123,11 @@
         "site": "iqiyi",
         "begin": "",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
+        "exist": true,
         "comment": "",
-        "url": "http://www.iqiyi.com/dongman/20120531/8041937e9c2f0d24.html",
-        "exist": null
+        "url": "http://www.iqiyi.com/dongman/20120531/8041937e9c2f0d24.html"
       },
       {
         "site": "bangumi",

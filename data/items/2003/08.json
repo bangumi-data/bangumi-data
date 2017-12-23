@@ -14,34 +14,14 @@
     "comment": "",
     "sites": [
       {
-        "site": "pptv",
-        "id": "nrmEAmrQQH7hX8c",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": null,
-        "censored": null,
-        "comment": "",
-        "exist": null
-      },
-      {
-        "site": "qq",
-        "id": "y/y2rp64m54epu293",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": null,
-        "censored": null,
-        "comment": "",
-        "exist": null
-      },
-      {
         "site": "mgtv",
         "id": "291729",
         "begin": "",
-        "official": false,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": false,
+        "comment": ""
       },
       {
         "site": "bangumi",

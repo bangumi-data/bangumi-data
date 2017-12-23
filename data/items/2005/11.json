@@ -14,16 +14,6 @@
     "comment": "",
     "sites": [
       {
-        "site": "pptv",
-        "id": "7VcysBhib7iayPDXU",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": null,
-        "censored": null,
-        "comment": "",
-        "exist": null
-      },
-      {
         "site": "bangumi",
         "id": "10180"
       }
@@ -51,10 +41,10 @@
         "id": "a_19rrhb1ebd",
         "begin": "2015-08-14T17:06:47.000Z",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",
@@ -101,20 +91,20 @@
         "id": "QIt181vBMWicSULg",
         "begin": "",
         "official": false,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "qq",
         "id": "f/ff8gwhoafxcojuz",
         "begin": "",
-        "official": false,
-        "premuiumOnly": null,
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "bangumi",

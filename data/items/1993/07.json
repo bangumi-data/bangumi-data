@@ -34,16 +34,6 @@
     "comment": "",
     "sites": [
       {
-        "site": "iqiyi",
-        "id": "a_19rro0n4sk",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "comment": "",
-        "exist": null
-      },
-      {
         "site": "bangumi",
         "id": "82725"
       }
@@ -63,16 +53,6 @@
     "end": "1993-07-10T16:30:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rro3osb4",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "comment": "",
-        "exist": null
-      },
       {
         "site": "bangumi",
         "id": "45394"
@@ -98,20 +78,20 @@
         "id": "3aGLCXHXR4XoZs4",
         "begin": "",
         "official": false,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "comment": "",
-        "exist": null
+        "exist": true,
+        "comment": ""
       },
       {
         "site": "iqiyi",
         "begin": "",
         "official": true,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
+        "exist": true,
         "comment": "",
-        "url": "http://www.iqiyi.com/dongman/20130715/839f4bf2c2cbe419.html",
-        "exist": null
+        "url": "http://www.iqiyi.com/dongman/20130715/839f4bf2c2cbe419.html"
       },
       {
         "site": "bangumi",
