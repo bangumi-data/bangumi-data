@@ -255,6 +255,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "战刻夜想曲"
+      ],
+      "en": [
+        "SENGOKU NIGHT BLOOD"
       ]
     },
     "type": "tv",
@@ -303,6 +306,16 @@
         "id": "a_19rrh85bp9",
         "begin": "2017-10-03T14:55:07.000Z",
         "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "a9TAPqYMfLodmwM",
+        "begin": "",
+        "official": false,
         "premuiumOnly": false,
         "censored": null,
         "exist": true,
@@ -607,6 +620,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "NgnjYckvn91AviaY",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -790,6 +813,16 @@
         "premuiumOnly": false,
         "censored": null,
         "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "8EkjoQlv3x2AicmY",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
         "comment": ""
       }
     ]
@@ -1228,6 +1261,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "rY5q6FC2JmTHRa0",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1325,6 +1368,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "maKODHTaSojradE",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1387,6 +1440,16 @@
         "id": "6474",
         "begin": "2017-10-04T11:00:00.000Z",
         "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "o5x49l7ENHLVU7s",
+        "begin": "",
+        "official": false,
         "premuiumOnly": false,
         "censored": null,
         "exist": true,
@@ -1463,7 +1526,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://kingsgame-anime.com/",
     "begin": "2017-10-05T14:30:00.000Z",
     "end": "",
     "comment": "",
@@ -1535,7 +1598,7 @@
     "lang": "ja",
     "officialSite": "http://anime.dream-fes.com/",
     "begin": "2017-10-06T13:00:00.000Z",
-    "end": "",
+    "end": "2017-12-22T13:30:00.000Z",
     "comment": "",
     "sites": [
       {
