@@ -100,26 +100,6 @@
     "comment": "",
     "sites": [
       {
-        "site": "pptv",
-        "id": "f8u2NJwCcrATkfk",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
-        "site": "qq",
-        "id": "5/5nvw9i8zmyq7rqn",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
         "site": "bangumi",
         "id": "1103"
       }
@@ -211,7 +191,7 @@
         "id": "o/oc9be21zz9l9zun",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
+        "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""

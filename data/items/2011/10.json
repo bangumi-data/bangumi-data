@@ -49,7 +49,7 @@
       {
         "site": "sohu",
         "id": "s2012/hunter",
-        "begin": "2011-10-02T20:00:00.000Z",
+        "begin": "",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -281,7 +281,7 @@
         "site": "pptv",
         "id": "1ficJR68VhcMmpAw",
         "begin": "",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -514,16 +514,6 @@
     "comment": "",
     "sites": [
       {
-        "site": "pptv",
-        "id": "JXRQzjacDEqtK5M",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
         "site": "bangumi",
         "id": "17883"
       }
@@ -568,7 +558,7 @@
         "id": "5/524dazlp04ww8uh",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
+        "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
@@ -774,7 +764,7 @@
         "site": "pptv",
         "id": "VoN9ib2PJOXfaWMA",
         "begin": "",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -809,26 +799,6 @@
     "end": "2011-12-23T16:35:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "LnhEwiaqQAD6hH4c",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
-        "site": "qq",
-        "id": "q/q9ksaifvnzsm2ci",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "20813"

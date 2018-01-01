@@ -15,7 +15,7 @@
       {
         "site": "youku",
         "id": "033b8b22863111e2b16f",
-        "begin": "",
+        "begin": "2013-04-09T00:15:26.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -65,7 +65,7 @@
       {
         "site": "youku",
         "id": "fe815c40309111e3b8b7",
-        "begin": "",
+        "begin": "2013-10-09T04:04:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -208,7 +208,7 @@
       {
         "site": "bilibili",
         "id": "2700",
-        "begin": "",
+        "begin": "2013-04-03T16:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -587,7 +587,7 @@
         "site": "pptv",
         "id": "BibvFQ6sRgb8iaoAg",
         "begin": "",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -732,7 +732,7 @@
         "site": "pptv",
         "id": "1KiaEAmrQQH7hX8c",
         "begin": "",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -1210,7 +1210,7 @@
         "site": "pptv",
         "id": "AP3XVb0jk9E0sho",
         "begin": "",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -1230,7 +1230,12 @@
     "begin": "2013-04-05T09:20:00.000Z",
     "end": "2014-02-21T09:55:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "232975"
+      }
+    ]
   },
   {
     "title": "デュエル・マスターズ ビクトリーＶ3",

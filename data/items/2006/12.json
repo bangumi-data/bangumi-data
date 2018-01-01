@@ -20,7 +20,7 @@
         "id": "u/u29kivvpuvfowk8",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
+        "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
@@ -95,16 +95,6 @@
     "end": "2006-12-09T16:20:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rro3od8s",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "3140"

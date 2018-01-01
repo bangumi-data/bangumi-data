@@ -121,21 +121,11 @@
     "comment": "",
     "sites": [
       {
-        "site": "iqiyi",
-        "id": "a_19rrk09e7p",
-        "begin": "2012-07-09T23:44:17.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
         "site": "qq",
         "id": "4/4qw8q7lcsf7yh8z",
         "begin": "",
         "official": false,
-        "premuiumOnly": false,
+        "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""

@@ -30,7 +30,7 @@
         "id": "8ccb75fa3a7411e69e2a",
         "begin": "2016-07-01T15:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
+        "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
@@ -428,7 +428,7 @@
         "id": "edb852fe3a7c11e6a080",
         "begin": "2016-07-07T16:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
+        "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
@@ -938,7 +938,7 @@
         "site": "youku",
         "id": "ea3b7d353cd511e6bdbb",
         "begin": "2016-07-04T13:00:00.000Z",
-        "official": true,
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -1205,7 +1205,7 @@
         "id": "caa6e1e63da011e69b6d",
         "begin": "2016-07-05T15:30:00.000Z",
         "official": true,
-        "premuiumOnly": false,
+        "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
@@ -1449,7 +1449,7 @@
         "id": "c87eb8763d9b11e69b6d",
         "begin": "2016-07-05T16:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
+        "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
@@ -1939,7 +1939,7 @@
         "id": "eb1d7b003e7311e6a080",
         "begin": "2016-07-08T15:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
+        "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
@@ -2060,7 +2060,7 @@
         "id": "7c5cb5243e7211e69b6d",
         "begin": "2016-07-08T13:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
+        "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
@@ -2214,7 +2214,7 @@
         "id": "f387c01e3db711e6b32f",
         "begin": "2016-07-14T16:30:00.000Z",
         "official": true,
-        "premuiumOnly": false,
+        "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
@@ -2277,7 +2277,7 @@
         "site": "pptv",
         "id": "9kIurBR66iaiaLCXE",
         "begin": "",
-        "official": true,
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -2316,7 +2316,7 @@
       {
         "site": "bilibili",
         "id": "5050",
-        "begin": "",
+        "begin": "2016-07-07T16:00:01.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2446,7 +2446,7 @@
         "id": "503b58c0a88a11e5a080",
         "begin": "2016-07-10T16:00:00.000Z",
         "official": true,
-        "premuiumOnly": false,
+        "premuiumOnly": true,
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""

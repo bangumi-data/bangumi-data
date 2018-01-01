@@ -16,7 +16,7 @@
         "site": "pptv",
         "id": "BFslowtx4RibCAGg",
         "begin": "",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -45,7 +45,7 @@
         "site": "pptv",
         "id": "3ALibfORKuvhb2UE",
         "begin": "",
-        "official": false,
+        "official": true,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -317,16 +317,6 @@
     "end": "2012-03-17T17:30:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "iqiyi",
-        "id": "a_19rro3t3r0",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": false,
-        "lang": "zh-Hans",
-        "comment": ""
-      },
       {
         "site": "letv",
         "id": "79497",
