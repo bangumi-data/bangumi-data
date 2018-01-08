@@ -1054,6 +1054,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "n/nubvtawpmjjgvu7",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1618,7 +1628,7 @@
     "lang": "ja",
     "officialSite": "http://wakeupgirls3.jp/",
     "begin": "2017-10-09T17:05:00.000Z",
-    "end": "2018-01-01T17:35:00.000Z",
+    "end": "2018-01-07T17:35:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2098,6 +2108,56 @@
       {
         "site": "bangumi",
         "id": "220883"
+      }
+    ]
+  },
+  {
+    "title": "モンスターストライク セカンドシーズン 消えゆく宇宙編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪物弹珠 第二季 消失的宇宙篇"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://anime.monster-strike.com/",
+    "begin": "2017-10-07T11:00:00.000Z",
+    "end": "2018-01-06T11:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "227164"
+      },
+      {
+        "site": "bilibili",
+        "id": "6500",
+        "begin": "2017-10-07T11:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhchrd1",
+        "begin": "2017-10-09T09:56:05.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "v/v3obqqj0prpvpet",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }
