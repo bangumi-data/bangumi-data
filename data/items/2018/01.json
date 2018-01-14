@@ -231,7 +231,12 @@
   },
   {
     "title": "BEATLESS",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "BEATLESS",
+        "没有心跳的少女"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://beatless-anime.jp/",
@@ -323,6 +328,9 @@
     "titleTranslate": {
       "en": [
         "SLOW START"
+      ],
+      "zh-Hans": [
+        "Slow Start"
       ]
     },
     "type": "tv",
@@ -590,6 +598,9 @@
       "zh-Hans": [
         "哈库梅伊与蜜珂析",
         "妖精森林的小不点"
+      ],
+      "en": [
+        "Hakumei & Mikochi Tiny little life in the woods"
       ]
     },
     "type": "tv",
@@ -650,6 +661,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "皇帝圣印战记"
+      ],
+      "en": [
+        "Record of Grancrest War"
       ]
     },
     "type": "tv",
@@ -1125,7 +1139,7 @@
     "title": "オーバーロードII",
     "titleTranslate": {
       "en": [
-        "OVERLORD Ⅱ"
+        "OVERLORD II"
       ],
       "zh-Hans": [
         "OVERLORD 第二季"
@@ -1158,6 +1172,7 @@
     "title": "伊藤潤二『コレクション』",
     "titleTranslate": {
       "zh-Hans": [
+        "伊藤润二惊选集",
         "伊藤润二 Collection"
       ]
     },
@@ -1410,9 +1425,9 @@
         "怪兽娘～奥特怪兽拟人化计划～ 第二季"
       ]
     },
-    "type": "web",
+    "type": "tv",
     "lang": "ja",
-    "officialSite": "http://kaiju-gk.jp/anime/",
+    "officialSite": "http://kaiju-gk.jp/anime/2nd/",
     "begin": "2018-01-09T12:54:00.000Z",
     "end": "",
     "comment": "",
@@ -1510,6 +1525,107 @@
       {
         "site": "bangumi",
         "id": "230517"
+      }
+    ]
+  },
+  {
+    "title": "DEVILMAN crybaby",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恶魔人 crybaby",
+        "恶魔人 哭泣之子"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://devilman-crybaby.com/",
+    "begin": "2018-01-05T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "211311"
+      }
+    ]
+  },
+  {
+    "title": "剣王朝",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剑王朝"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2018-01-05T17:10:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "222884"
+      }
+    ]
+  },
+  {
+    "title": "一人之下 the outcast 羅天大醮篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "一人之下 第二季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://hitorinoshita2.com/",
+    "begin": "2018-01-20T18:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "206925"
+      }
+    ]
+  },
+  {
+    "title": "ポチっと発明 ピカちんキット",
+    "titleTranslate": {
+      "en": [
+        "PIKACHIN KIT"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://pikachin.com/",
+    "begin": "2018-01-06T00:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "227778"
+      }
+    ]
+  },
+  {
+    "title": "銀の墓守りII",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银之守墓人 第二季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://ginno-guardian.jp/",
+    "begin": "2018-01-13T12:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "217239"
       }
     ]
   }
