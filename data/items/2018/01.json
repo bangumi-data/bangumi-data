@@ -1628,5 +1628,35 @@
         "id": "217239"
       }
     ]
+  },
+  {
+    "title": "衛宮さんちの今日のごはん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "卫宫家今天的饭"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://emiya-gohan.com",
+    "begin": "2018-01-01T12:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "234349"
+      },
+      {
+        "site": "bilibili",
+        "id": "22504",
+        "begin": "2018-01-01T12:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]
