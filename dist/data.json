@@ -130614,16 +130614,6 @@
         {
           "site": "bangumi",
           "id": "202615"
-        },
-        {
-          "site": "bilibili",
-          "id": "6163",
-          "begin": "2017-05-09T16:00:00.000Z",
-          "official": false,
-          "premuiumOnly": false,
-          "censored": false,
-          "lang": "zh-Hans",
-          "comment": ""
         }
       ]
     },
@@ -131273,6 +131263,16 @@
           "censored": false,
           "lang": "zh-Hans",
           "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "ickMtqxN56SeKCHA",
+          "begin": "",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -131792,6 +131792,16 @@
           "id": "1480113",
           "begin": "2017-07-04T18:11:26.000Z",
           "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "LxH7eeFHticVY1j4",
+          "begin": "",
+          "official": false,
           "premuiumOnly": false,
           "censored": false,
           "lang": "zh-Hans",
@@ -133426,6 +133436,16 @@
           "censored": false,
           "lang": "zh-Hans",
           "comment": ""
+        },
+        {
+          "site": "pptv",
+          "id": "FCcRjicddzQtu7FQ",
+          "begin": "",
+          "official": false,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     },
@@ -134900,7 +134920,7 @@
         {
           "site": "bilibili",
           "id": "21603",
-          "begin": "",
+          "begin": "2018-01-12T07:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
@@ -134931,7 +134951,7 @@
         {
           "site": "bilibili",
           "id": "21594",
-          "begin": "",
+          "begin": "2018-01-12T07:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
@@ -134964,7 +134984,7 @@
         {
           "site": "iqiyi",
           "id": "a_19rrh1oryd",
-          "begin": "",
+          "begin": "2018-01-11T16:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
@@ -135011,7 +135031,7 @@
       "title": "BEATLESS",
       "titleTranslate": {
         "zh-Hans": [
-          "BEATLESS",
+          "BEATLESS -没有心跳的少女-",
           "没有心跳的少女"
         ]
       },
@@ -135029,7 +135049,7 @@
           "site": "youku",
           "id": "496870efbfbdefbfbd67",
           "begin": "2018-01-12T17:40:00.000Z",
-          "official": false,
+          "official": true,
           "premuiumOnly": true,
           "censored": false,
           "lang": "zh-Hans",
@@ -135224,7 +135244,7 @@
         {
           "site": "iqiyi",
           "id": "a_19rrh1qb8l",
-          "begin": "",
+          "begin": "2018-01-16T17:35:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
@@ -135235,7 +135255,7 @@
           "site": "youku",
           "id": "efbfbd0877efbfbdefbf",
           "begin": "2018-01-16T17:35:00.000Z",
-          "official": false,
+          "official": true,
           "premuiumOnly": false,
           "censored": false,
           "lang": "zh-Hans",
@@ -135330,7 +135350,7 @@
         {
           "site": "bilibili",
           "id": "21720",
-          "begin": "",
+          "begin": "2018-01-12T07:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
@@ -135360,7 +135380,7 @@
         {
           "site": "iqiyi",
           "id": "a_19rrh1ss1p",
-          "begin": "",
+          "begin": "2018-01-08T15:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
@@ -135394,7 +135414,7 @@
         {
           "site": "bilibili",
           "id": "21717",
-          "begin": "",
+          "begin": "2018-01-12T13:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
@@ -135606,7 +135626,7 @@
         {
           "site": "iqiyi",
           "id": "a_19rrh1qfh9",
-          "begin": "",
+          "begin": "2018-01-08T18:05:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
@@ -135617,7 +135637,7 @@
           "site": "youku",
           "id": "efbfbd65efbfbd53efbf",
           "begin": "2018-01-08T18:05:00.000Z",
-          "official": false,
+          "official": true,
           "premuiumOnly": true,
           "censored": false,
           "lang": "zh-Hans",
@@ -135659,7 +135679,7 @@
         {
           "site": "iqiyi",
           "id": "a_19rrh1h5d9",
-          "begin": "2018-01-07T00:55:06.000Z",
+          "begin": "2018-01-07T01:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
@@ -135679,7 +135699,7 @@
         {
           "site": "qq",
           "id": "e/enddu63r2aa01la",
-          "begin": "",
+          "begin": "2018-01-07T01:00:00.000Z",
           "official": false,
           "premuiumOnly": false,
           "censored": false,
@@ -135687,9 +135707,19 @@
           "comment": ""
         },
         {
+          "site": "sohu",
+          "id": "s2018/mksnyclearcard",
+          "begin": "2018-01-07T01:00:00.000Z",
+          "official": true,
+          "premuiumOnly": true,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        },
+        {
           "site": "youku",
           "id": "54e5babfefbfbdefbfbd",
-          "begin": "2018-01-07T00:58:00.000Z",
+          "begin": "2018-01-07T01:00:00.000Z",
           "official": true,
           "premuiumOnly": true,
           "censored": false,
@@ -135704,6 +135734,9 @@
       "titleTranslate": {
         "zh-Hans": [
           "三丽鸥男子"
+        ],
+        "en": [
+          "SANRIO BOYS"
         ]
       },
       "lang": "ja",
@@ -135769,7 +135802,7 @@
         {
           "site": "iqiyi",
           "id": "a_19rrh1sj25",
-          "begin": "",
+          "begin": "2018-01-08T15:30:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
@@ -135842,7 +135875,7 @@
         {
           "site": "mgtv",
           "id": "321321",
-          "begin": "",
+          "begin": "2018-01-10T14:30:00.000Z",
           "official": false,
           "premuiumOnly": false,
           "censored": false,
@@ -135872,7 +135905,7 @@
         {
           "site": "iqiyi",
           "id": "a_19rrh1qpkt",
-          "begin": "",
+          "begin": "2018-01-12T14:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
@@ -135888,6 +135921,9 @@
         "zh-Hans": [
           "牙斗",
           "牙斗兽娘"
+        ],
+        "en": [
+          "KILLING BITES"
         ]
       },
       "lang": "ja",
@@ -135904,7 +135940,7 @@
           "site": "youku",
           "id": "67d89910efbfbd5c11ef",
           "begin": "2018-01-12T18:10:00.000Z",
-          "official": false,
+          "official": true,
           "premuiumOnly": false,
           "censored": false,
           "lang": "zh-Hans",
@@ -135982,6 +136018,9 @@
       "titleTranslate": {
         "zh-Hans": [
           "七美德"
+        ],
+        "en": [
+          "THE SEVEN HEAVENLY VIRTUES"
         ]
       },
       "lang": "ja",
@@ -136071,7 +136110,7 @@
           "site": "youku",
           "id": "efbfbdefbfbd0360efbf",
           "begin": "2018-01-11T19:00:00.000Z",
-          "official": false,
+          "official": true,
           "premuiumOnly": false,
           "censored": false,
           "lang": "zh-Hans",
@@ -136197,7 +136236,7 @@
     },
     {
       "id": "2018_01_41",
-      "title": "怪獣娘～ウルトラ怪獣擬人化計画～ 第2期",
+      "title": "怪獣娘 ～ウルトラ怪獣擬人化計画～(第2期)",
       "titleTranslate": {
         "zh-Hans": [
           "怪兽娘～奥特怪兽拟人化计划～ 第二季"
@@ -136216,7 +136255,7 @@
         {
           "site": "iqiyi",
           "id": "a_19rrh0z2qt",
-          "begin": "",
+          "begin": "2018-01-09T14:00:00.000Z",
           "official": true,
           "premuiumOnly": false,
           "censored": false,
@@ -136246,7 +136285,7 @@
         {
           "site": "bilibili",
           "id": "21464",
-          "begin": "",
+          "begin": "2018-01-27T16:30:00.000Z",
           "official": true,
           "premuiumOnly": true,
           "censored": false,
@@ -136403,6 +136442,70 @@
         {
           "site": "bangumi",
           "id": "217239"
+        }
+      ]
+    },
+    {
+      "id": "2018_01_50",
+      "title": "衛宮さんちの今日のごはん",
+      "titleTranslate": {
+        "zh-Hans": [
+          "卫宫家今天的饭"
+        ],
+        "en": [
+          "Today,s MENU for EMIYA Family"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://emiya-gohan.com",
+      "begin": "2018-01-01T12:00:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "234349"
+        },
+        {
+          "site": "bilibili",
+          "id": "22504",
+          "begin": "2018-01-01T13:30:00.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "id": "2018_02_0",
+      "title": "HUGっと！プリキュア",
+      "titleTranslate": {
+        "zh-Hans": [
+          "拥抱！光之美少女",
+          "HUGtto！光之美少女"
+        ]
+      },
+      "lang": "ja",
+      "officialSite": "http://www.toei-anim.co.jp/tv/hugtto_precure/",
+      "begin": "2018-02-03T23:30:00.000Z",
+      "end": "",
+      "comment": "",
+      "sites": [
+        {
+          "site": "bangumi",
+          "id": "228046"
+        },
+        {
+          "site": "iqiyi",
+          "id": "a_19rrh0tfud",
+          "begin": "2018-02-04T03:22:10.000Z",
+          "official": true,
+          "premuiumOnly": false,
+          "censored": false,
+          "lang": "zh-Hans",
+          "comment": ""
         }
       ]
     }
