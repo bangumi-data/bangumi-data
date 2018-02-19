@@ -29,6 +29,10 @@
       {
         "site": "bangumi",
         "id": "49131"
+      },
+      {
+        "site": "nicovideo",
+        "id": "date-a-live"
       }
     ]
   },
@@ -52,6 +56,10 @@
       {
         "site": "bangumi",
         "id": "46728"
+      },
+      {
+        "site": "nicovideo",
+        "id": "rdg"
       }
     ]
   },
@@ -225,6 +233,10 @@
       {
         "site": "bangumi",
         "id": "66338"
+      },
+      {
+        "site": "nicovideo",
+        "id": "saipuu"
       }
     ]
   },
@@ -425,6 +437,30 @@
       {
         "site": "bangumi",
         "id": "68461"
+      }
+    ]
+  },
+  {
+    "title": "ドラゴンボールZ 神と神",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙珠Z 神与神"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.dragonball2013.com/",
+    "begin": "2013-03-30T16:00:00.000Z",
+    "end": "2013-03-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "44636"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dragonball2013"
       }
     ]
   }

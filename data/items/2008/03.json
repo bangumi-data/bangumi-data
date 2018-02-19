@@ -26,6 +26,10 @@
       {
         "site": "bangumi",
         "id": "3760"
+      },
+      {
+        "site": "nicovideo",
+        "id": "busgamer"
       }
     ]
   },
@@ -179,6 +183,10 @@
       {
         "site": "bangumi",
         "id": "118574"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hokuto-no-ken"
       }
     ]
   },
@@ -249,6 +257,26 @@
       {
         "site": "bangumi",
         "id": "161694"
+      }
+    ]
+  },
+  {
+    "title": "ToHeart2 ad",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://aquaplus.jp/th2ad/product.html",
+    "begin": "2008-03-26T16:00:00.000Z",
+    "end": "2008-08-08T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8884"
+      },
+      {
+        "site": "nicovideo",
+        "id": "th2ad"
       }
     ]
   }

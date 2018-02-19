@@ -16,6 +16,10 @@
       {
         "site": "bangumi",
         "id": "14588"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yuruyuri"
       }
     ]
   },
@@ -79,6 +83,10 @@
       {
         "site": "bangumi",
         "id": "11577"
+      },
+      {
+        "site": "nicovideo",
+        "id": "idolmaster-anime"
       }
     ]
   },
@@ -102,6 +110,10 @@
       {
         "site": "bangumi",
         "id": "14427"
+      },
+      {
+        "site": "nicovideo",
+        "id": "blood-c"
       }
     ]
   },
@@ -135,6 +147,10 @@
       {
         "site": "bangumi",
         "id": "12333"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kamisama-anime"
       }
     ]
   },
@@ -228,6 +244,10 @@
       {
         "site": "bangumi",
         "id": "11973"
+      },
+      {
+        "site": "nicovideo",
+        "id": "utapri"
       }
     ]
   },
@@ -291,6 +311,10 @@
       {
         "site": "bangumi",
         "id": "10761"
+      },
+      {
+        "site": "nicovideo",
+        "id": "twin-angel"
       }
     ]
   },
@@ -321,6 +345,10 @@
       {
         "site": "bangumi",
         "id": "11145"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bakatest2"
       }
     ]
   },
@@ -341,6 +369,10 @@
       {
         "site": "bangumi",
         "id": "10283"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nekogami"
       }
     ]
   },
@@ -381,6 +413,10 @@
       {
         "site": "bangumi",
         "id": "10261"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ikokumeiro"
       }
     ]
   },
@@ -421,6 +457,10 @@
       {
         "site": "bangumi",
         "id": "15237"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kamimemo"
       }
     ]
   },
@@ -464,6 +504,10 @@
       {
         "site": "bangumi",
         "id": "13485"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ro-kyu-bu"
       }
     ]
   },
@@ -487,6 +531,10 @@
       {
         "site": "bangumi",
         "id": "10460"
+      },
+      {
+        "site": "nicovideo",
+        "id": "itsu-ten"
       }
     ]
   },
@@ -557,6 +605,10 @@
       {
         "site": "bangumi",
         "id": "12536"
+      },
+      {
+        "site": "nicovideo",
+        "id": "natsume3"
       }
     ]
   },
@@ -730,6 +782,10 @@
       {
         "site": "bangumi",
         "id": "16996"
+      },
+      {
+        "site": "nicovideo",
+        "id": "moritasan"
       }
     ]
   },
@@ -753,6 +809,10 @@
       {
         "site": "bangumi",
         "id": "10158"
+      },
+      {
+        "site": "nicovideo",
+        "id": "R-15"
       }
     ]
   },
@@ -856,6 +916,10 @@
       {
         "site": "bangumi",
         "id": "18624"
+      },
+      {
+        "site": "nicovideo",
+        "id": "penguindrum"
       }
     ]
   },
@@ -1096,6 +1160,54 @@
       {
         "site": "bangumi",
         "id": "33514"
+      }
+    ]
+  },
+  {
+    "title": "ひぐらしのなく頃に煌",
+    "titleTranslate": {
+      "zh-Hans": [
+        "寒蝉鸣泣之时 煌"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.oyashirosama.com/web/kira/index.html",
+    "begin": "2011-07-21T16:00:00.000Z",
+    "end": "2012-01-25T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "14429"
+      },
+      {
+        "site": "nicovideo",
+        "id": "oyashirosama04"
+      }
+    ]
+  },
+  {
+    "title": "鋼の錬金術師 嘆きの丘の聖なる星",
+    "titleTranslate": {
+      "zh-Hans": [
+        "钢之炼金术师 叹息之丘的圣星"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.hagaren.jp",
+    "begin": "2011-07-02T16:00:00.000Z",
+    "end": "2011-07-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10799"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hagaren-milos"
       }
     ]
   }

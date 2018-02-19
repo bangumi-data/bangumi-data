@@ -46,5 +46,9 @@
   "mgtv": {
     "title": "芒果tv",
     "urlTemplate": "http://www.mgtv.com/h/{{id}}.html"
+  },
+  "nicovideo": {
+    "title": "Niconico",
+    "urlTemplate": "http://ch.nicovideo.jp/{{id}}"
   }
 }

@@ -29,6 +29,30 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "hinalogic"
+      }
+    ]
+  },
+  {
+    "title": "KING OF PRISM  PRIDE the HERO",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kinpri.com/",
+    "begin": "2017-06-10T16:00:00.000Z",
+    "end": "2017-06-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "192559"
+      },
+      {
+        "site": "nicovideo",
+        "id": "PRIDE_the_HERO"
       }
     ]
   }

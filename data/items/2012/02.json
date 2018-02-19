@@ -19,6 +19,10 @@
       {
         "site": "bangumi",
         "id": "22179"
+      },
+      {
+        "site": "nicovideo",
+        "id": "blackrockshooter"
       }
     ]
   },
@@ -122,6 +126,10 @@
       {
         "site": "bangumi",
         "id": "43159"
+      },
+      {
+        "site": "nicovideo",
+        "id": "patema"
       }
     ]
   },
@@ -152,6 +160,30 @@
       {
         "site": "bangumi",
         "id": "24546"
+      }
+    ]
+  },
+  {
+    "title": "ベルセルク 黄金時代篇I 覇王の卵",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剑风传奇 黄金时代篇I 霸王之卵"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.berserkfilm.com/",
+    "begin": "2012-02-04T16:00:00.000Z",
+    "end": "2012-02-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10840"
+      },
+      {
+        "site": "nicovideo",
+        "id": "berserkfilm"
       }
     ]
   }

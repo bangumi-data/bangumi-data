@@ -26,6 +26,10 @@
       {
         "site": "bangumi",
         "id": "20113"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ribon-highscore"
       }
     ]
   },
@@ -86,6 +90,10 @@
       {
         "site": "bangumi",
         "id": "12697"
+      },
+      {
+        "site": "nicovideo",
+        "id": "TOS-anime03"
       }
     ]
   },
@@ -116,6 +124,54 @@
       {
         "site": "bangumi",
         "id": "14952"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sora-anime"
+      }
+    ]
+  },
+  {
+    "title": "日本おもしろ昔話",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2011-11-28T16:00:00.000Z",
+    "end": "2012-02-13T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "238313"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nom"
+      }
+    ]
+  },
+  {
+    "title": "この男子、宇宙人と戦えます。",
+    "titleTranslate": {
+      "zh-Hans": [
+        "这个男子，在与外星人作战"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.konodan.com/",
+    "begin": "2011-11-18T16:00:00.000Z",
+    "end": "2011-11-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "22946"
+      },
+      {
+        "site": "nicovideo",
+        "id": "konodan"
       }
     ]
   }

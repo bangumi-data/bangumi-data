@@ -96,6 +96,10 @@
       {
         "site": "bangumi",
         "id": "1377"
+      },
+      {
+        "site": "nicovideo",
+        "id": "umineko-anime"
       }
     ]
   },
@@ -156,6 +160,10 @@
       {
         "site": "bangumi",
         "id": "1742"
+      },
+      {
+        "site": "nicovideo",
+        "id": "zetsubou3"
       }
     ]
   },
@@ -216,6 +224,10 @@
       {
         "site": "bangumi",
         "id": "1731"
+      },
+      {
+        "site": "nicovideo",
+        "id": "taisho-y"
       }
     ]
   },
@@ -249,6 +261,10 @@
       {
         "site": "bangumi",
         "id": "1729"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ga"
       }
     ]
   },
@@ -292,6 +308,10 @@
       {
         "site": "bangumi",
         "id": "1952"
+      },
+      {
+        "site": "nicovideo",
+        "id": "canaan"
       }
     ]
   },
@@ -312,6 +332,10 @@
       {
         "site": "bangumi",
         "id": "1671"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch330"
       }
     ]
   },
@@ -362,6 +386,10 @@
       {
         "site": "bangumi",
         "id": "1512"
+      },
+      {
+        "site": "nicovideo",
+        "id": "spicy-wolf-02"
       }
     ]
   },
@@ -394,6 +422,10 @@
       {
         "site": "bangumi",
         "id": "1758"
+      },
+      {
+        "site": "nicovideo",
+        "id": "aoihana"
       }
     ]
   },
@@ -607,6 +639,54 @@
       {
         "site": "bangumi",
         "id": "31525"
+      }
+    ]
+  },
+  {
+    "title": "アジール・セッション",
+    "titleTranslate": {
+      "zh-Hans": [
+        "收容所之战"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2009-07-25T16:00:00.000Z",
+    "end": "2009-07-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "86861"
+      },
+      {
+        "site": "nicovideo",
+        "id": "as"
+      }
+    ]
+  },
+  {
+    "title": "センコロール",
+    "titleTranslate": {
+      "zh-Hans": [
+        "千子"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.cencoroll.com",
+    "begin": "2009-07-28T16:00:00.000Z",
+    "end": "2009-07-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3179"
+      },
+      {
+        "site": "nicovideo",
+        "id": "cencoroll"
       }
     ]
   }

@@ -26,6 +26,10 @@
       {
         "site": "bangumi",
         "id": "55110"
+      },
+      {
+        "site": "nicovideo",
+        "id": "imouto-okan"
       }
     ]
   },
@@ -46,6 +50,10 @@
       {
         "site": "bangumi",
         "id": "54435"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gdgd2"
       }
     ]
   },
@@ -79,6 +87,10 @@
       {
         "site": "bangumi",
         "id": "52586"
+      },
+      {
+        "site": "nicovideo",
+        "id": "petit-idolmaster"
       }
     ]
   },
@@ -99,6 +111,10 @@
       {
         "site": "bangumi",
         "id": "56117"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nekomonogatari"
       }
     ]
   },
@@ -129,6 +145,10 @@
       {
         "site": "bangumi",
         "id": "54728"
+      },
+      {
+        "site": "nicovideo",
+        "id": "milky-holmes_alt2"
       }
     ]
   },
@@ -329,6 +349,50 @@
       {
         "site": "bangumi",
         "id": "58311"
+      }
+    ]
+  },
+  {
+    "title": "インフェルノコップ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "地狱刑事"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://youtube.com/animebancho",
+    "begin": "2012-12-25T16:00:00.000Z",
+    "end": "2013-03-18T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "59160"
+      },
+      {
+        "site": "nicovideo",
+        "id": "infernocop"
+      }
+    ]
+  },
+  {
+    "title": "スーラジ　ザ・ライジングスター",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2012-12-23T16:00:00.000Z",
+    "end": "2013-06-30T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "238309"
+      },
+      {
+        "site": "nicovideo",
+        "id": "suraj"
       }
     ]
   }

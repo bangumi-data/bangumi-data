@@ -156,6 +156,10 @@
       {
         "site": "bangumi",
         "id": "17792"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hayate-movie"
       }
     ]
   },
@@ -206,6 +210,10 @@
       {
         "site": "bangumi",
         "id": "18371"
+      },
+      {
+        "site": "nicovideo",
+        "id": "copihan"
       }
     ]
   },
@@ -236,6 +244,30 @@
       {
         "site": "bangumi",
         "id": "22756"
+      }
+    ]
+  },
+  {
+    "title": "魔法先生ネギま! ANIME FINAL",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法老师涅吉! ANIME FINAL"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.negihaya.com/index.html",
+    "begin": "2011-08-27T16:00:00.000Z",
+    "end": "2011-08-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "34585"
+      },
+      {
+        "site": "nicovideo",
+        "id": "negima-movie"
       }
     ]
   }

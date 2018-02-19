@@ -127,6 +127,10 @@
       {
         "site": "bangumi",
         "id": "921"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lastexile"
       }
     ]
   },
@@ -190,6 +194,10 @@
       {
         "site": "bangumi",
         "id": "2326"
+      },
+      {
+        "site": "nicovideo",
+        "id": "stellvia"
       }
     ]
   },
@@ -560,6 +568,10 @@
       {
         "site": "bangumi",
         "id": "3754"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tv-GB"
       }
     ]
   },
@@ -700,6 +712,10 @@
       {
         "site": "bangumi",
         "id": "1948"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kinonotabi01"
       }
     ]
   },
@@ -830,6 +846,30 @@
       {
         "site": "bangumi",
         "id": "161689"
+      }
+    ]
+  },
+  {
+    "title": "ラーゼフォン 多元変奏曲",
+    "titleTranslate": {
+      "zh-Hans": [
+        "翼神传说 多元变奏曲"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.mediafactory.co.jp/anime/rahxephon/movie/index.html",
+    "begin": "2003-04-19T16:00:00.000Z",
+    "end": "2003-04-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3997"
+      },
+      {
+        "site": "nicovideo",
+        "id": "rahxephon-m"
       }
     ]
   }

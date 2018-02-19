@@ -96,6 +96,10 @@
       {
         "site": "bangumi",
         "id": "4390"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yutori-chan"
       }
     ]
   },
@@ -126,6 +130,10 @@
       {
         "site": "bangumi",
         "id": "4450"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hetaria-world-series"
       }
     ]
   },
@@ -266,6 +274,34 @@
       {
         "site": "bangumi",
         "id": "4480"
+      },
+      {
+        "site": "nicovideo",
+        "id": "TOS-anime02"
+      }
+    ]
+  },
+  {
+    "title": "這いよる! ニャルアニ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "潜行吧！奈亚子"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://ga.sbcr.jp/bunko_blog/nyaruani/",
+    "begin": "2010-03-15T16:00:00.000Z",
+    "end": "2010-03-15T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "18079"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch820"
       }
     ]
   }

@@ -129,6 +129,50 @@
       {
         "site": "bangumi",
         "id": "8082"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hetaria-world-series"
+      }
+    ]
+  },
+  {
+    "title": "ToHeart2 adnext",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://aquaplus.jp/th2adnext/index.html",
+    "begin": "2010-09-23T16:00:00.000Z",
+    "end": "2010-12-22T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8725"
+      },
+      {
+        "site": "nicovideo",
+        "id": "th2adnext"
+      }
+    ]
+  },
+  {
+    "title": "あぐかる",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://puyukai.com/agukaru/",
+    "begin": "2010-09-17T16:00:00.000Z",
+    "end": "2014-04-01T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "112147"
+      },
+      {
+        "site": "nicovideo",
+        "id": "agukaru"
       }
     ]
   }

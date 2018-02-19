@@ -70,6 +70,10 @@
       {
         "site": "bangumi",
         "id": "61141"
+      },
+      {
+        "site": "nicovideo",
+        "id": "robotanime"
       }
     ]
   },
@@ -141,6 +145,10 @@
       {
         "site": "bangumi",
         "id": "48702"
+      },
+      {
+        "site": "nicovideo",
+        "id": "stardriver-movie"
       }
     ]
   },
@@ -201,6 +209,30 @@
       {
         "site": "bangumi",
         "id": "69069"
+      }
+    ]
+  },
+  {
+    "title": "ベルセルク  黄金時代篇III 降臨",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剑风传奇 黄金时代篇III 降临"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.berserkfilm.com/",
+    "begin": "2013-02-01T16:00:00.000Z",
+    "end": "2013-02-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "45241"
+      },
+      {
+        "site": "nicovideo",
+        "id": "berserkfilm"
       }
     ]
   }

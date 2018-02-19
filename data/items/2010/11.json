@@ -26,6 +26,10 @@
       {
         "site": "bangumi",
         "id": "10494"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kakokawa"
       }
     ]
   },
@@ -179,6 +183,30 @@
       {
         "site": "bangumi",
         "id": "8452"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tamayura"
+      }
+    ]
+  },
+  {
+    "title": "TRIP TREK",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://trip.oh-news.net/",
+    "begin": "2010-11-10T16:00:00.000Z",
+    "end": "2011-01-26T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10070"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch84"
       }
     ]
   }

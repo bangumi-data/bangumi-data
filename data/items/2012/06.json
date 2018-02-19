@@ -29,6 +29,10 @@
       {
         "site": "bangumi",
         "id": "27568"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kingdom1"
       }
     ]
   },
@@ -119,6 +123,54 @@
       {
         "site": "bangumi",
         "id": "42253"
+      }
+    ]
+  },
+  {
+    "title": "ベルセルク 黄金時代篇II ドルドレイ攻略",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剑风传奇 黄金时代篇II 多尔多雷攻略"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.berserkfilm.com/",
+    "begin": "2012-06-23T16:00:00.000Z",
+    "end": "2012-06-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "45240"
+      },
+      {
+        "site": "nicovideo",
+        "id": "berserkfilm"
+      }
+    ]
+  },
+  {
+    "title": "図書館戦争 革命のつばさ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "图书馆战争 革命之翼"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.kadokawa.co.jp/toshokan-sensou/",
+    "begin": "2012-06-16T16:00:00.000Z",
+    "end": "2012-06-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "34025"
+      },
+      {
+        "site": "nicovideo",
+        "id": "toshokan"
       }
     ]
   }

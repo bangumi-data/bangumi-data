@@ -69,6 +69,10 @@
       {
         "site": "bangumi",
         "id": "2782"
+      },
+      {
+        "site": "nicovideo",
+        "id": "naruto_shippu"
       }
     ]
   },
@@ -192,6 +196,50 @@
       {
         "site": "bangumi",
         "id": "36974"
+      }
+    ]
+  },
+  {
+    "title": "ToHeart2 OVA",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://aquaplus.jp/th2v/product.html",
+    "begin": "2007-02-28T16:00:00.000Z",
+    "end": "2007-09-28T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8883"
+      },
+      {
+        "site": "nicovideo",
+        "id": "th2v"
+      }
+    ]
+  },
+  {
+    "title": "真救世主伝説 北斗の拳 ユリア伝",
+    "titleTranslate": {
+      "zh-Hans": [
+        "真救世主传说 北斗神拳 尤莉娅传"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2007-02-23T16:00:00.000Z",
+    "end": "2007-02-23T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "118572"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hokuto-no-ken"
       }
     ]
   }
