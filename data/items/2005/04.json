@@ -159,7 +159,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "basilisk"
+        "id": "basilisk",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -233,7 +239,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "aquarion"
+        "id": "aquarion",
+        "begin": "2011-12-03T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -785,7 +797,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "mushiking"
+        "id": "mushiking",
+        "begin": "2011-09-20T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },

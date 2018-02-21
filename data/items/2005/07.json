@@ -285,7 +285,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "dcss"
+        "id": "dcss",
+        "begin": "2012-07-11T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -572,7 +578,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "hagaren-shamballa"
+        "id": "hagaren-shamballa",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

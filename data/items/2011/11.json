@@ -29,7 +29,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "ribon-highscore"
+        "id": "ribon-highscore",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -93,7 +99,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "TOS-anime03"
+        "id": "TOS-anime03",
+        "begin": "2016-07-06T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -127,7 +139,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "sora-anime"
+        "id": "sora-anime",
+        "begin": "2012-02-17T16:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -147,7 +165,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "nom"
+        "id": "nom",
+        "begin": "2011-11-28T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -171,7 +195,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "konodan"
+        "id": "konodan",
+        "begin": "2012-04-27T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

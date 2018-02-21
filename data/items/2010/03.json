@@ -99,7 +99,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "yutori-chan"
+        "id": "yutori-chan",
+        "begin": "2012-07-18T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -133,7 +139,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "hetaria-world-series"
+        "id": "hetaria-world-series",
+        "begin": "2012-12-28T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -277,7 +289,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "TOS-anime02"
+        "id": "TOS-anime02",
+        "begin": "2016-07-06T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -301,7 +319,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "ch820"
+        "id": "ch820",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

@@ -46,7 +46,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "dlmb"
+        "id": "dlmb",
+        "begin": "2015-10-11T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -110,7 +116,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "kokosake"
+        "id": "kokosake",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -134,7 +146,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "wakeupgirls_seisilyun"
+        "id": "wakeupgirls_seisilyun",
+        "begin": "2014-01-13T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

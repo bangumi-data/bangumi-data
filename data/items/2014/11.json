@@ -61,7 +61,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "animatorexpo"
+        "id": "animatorexpo",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -175,7 +181,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "zeushi-kun"
+        "id": "zeushi-kun",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

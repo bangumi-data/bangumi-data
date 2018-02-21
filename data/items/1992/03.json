@@ -32,7 +32,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "sailormoon"
+        "id": "sailormoon",
+        "begin": "2014-07-11T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -56,7 +62,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "DBZ_gekitotsu"
+        "id": "DBZ_gekitotsu",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },

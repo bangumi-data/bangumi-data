@@ -32,7 +32,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "robot-girlsz2"
+        "id": "robot-girlsz2",
+        "begin": "2015-05-20T13:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -148,7 +154,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "mushishi-tokubetsuhen02"
+        "id": "mushishi-tokubetsuhen02",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -172,7 +184,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "bakavon"
+        "id": "bakavon",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

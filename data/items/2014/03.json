@@ -52,7 +52,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "vanguard-lm"
+        "id": "vanguard-lm",
+        "begin": "2014-03-18T10:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -522,7 +528,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "wild-adapter"
+        "id": "wild-adapter",
+        "begin": "2017-04-07T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

@@ -159,7 +159,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "naruto"
+        "id": "naruto",
+        "begin": "2015-07-15T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -493,7 +499,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "duelmasters01"
+        "id": "duelmasters01",
+        "begin": "2014-11-27T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

@@ -72,7 +72,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "elfenlied"
+        "id": "elfenlied",
+        "begin": "2018-01-30T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -126,7 +132,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "fafner"
+        "id": "fafner",
+        "begin": "2011-12-02T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -346,7 +358,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "lupin-3rd-SP"
+        "id": "lupin-3rd-SP",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },

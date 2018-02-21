@@ -32,7 +32,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "hinalogic"
+        "id": "hinalogic",
+        "begin": "2017-07-05T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -52,7 +58,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "PRIDE_the_HERO"
+        "id": "PRIDE_the_HERO",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

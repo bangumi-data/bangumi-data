@@ -159,7 +159,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "hayate-movie"
+        "id": "hayate-movie",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -213,7 +219,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "copihan"
+        "id": "copihan",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -267,7 +279,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "negima-movie"
+        "id": "negima-movie",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

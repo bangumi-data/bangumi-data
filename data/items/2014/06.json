@@ -221,7 +221,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "agukaru"
+        "id": "agukaru",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -245,7 +251,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "p3m"
+        "id": "p3m",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

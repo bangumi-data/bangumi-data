@@ -29,7 +29,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "busgamer"
+        "id": "busgamer",
+        "begin": "2017-04-07T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -186,7 +192,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "hokuto-no-ken"
+        "id": "hokuto-no-ken",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -276,7 +288,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "th2ad"
+        "id": "th2ad",
+        "begin": "2012-03-03T13:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

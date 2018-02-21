@@ -19,7 +19,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "mariaholic"
+        "id": "mariaholic",
+        "begin": "2012-07-04T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -173,7 +179,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "zokunatsume"
+        "id": "zokunatsume",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -227,7 +239,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "hetaria-axis-powers"
+        "id": "hetaria-axis-powers",
+        "begin": "2012-12-28T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -334,7 +352,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "minami-ke3"
+        "id": "minami-ke3",
+        "begin": "2017-09-09T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },

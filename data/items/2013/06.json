@@ -42,7 +42,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "kingdom2"
+        "id": "kingdom2",
+        "begin": "2016-01-24T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -146,7 +152,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "donyatsu"
+        "id": "donyatsu",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

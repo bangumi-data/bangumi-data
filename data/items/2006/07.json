@@ -75,7 +75,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "tyocosis"
+        "id": "tyocosis",
+        "begin": "2012-09-05T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -142,7 +148,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "zero-tsukaima"
+        "id": "zero-tsukaima",
+        "begin": "2011-12-14T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -570,7 +582,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "hoshizora"
+        "id": "hoshizora",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

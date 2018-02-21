@@ -19,7 +19,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "funaanime"
+        "id": "funaanime",
+        "begin": "2015-04-04T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -415,7 +421,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "movie-sidonia"
+        "id": "movie-sidonia",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

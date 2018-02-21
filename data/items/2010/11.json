@@ -29,7 +29,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "kakokawa"
+        "id": "kakokawa",
+        "begin": "2010-10-12T03:00:05.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -186,7 +192,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "tamayura"
+        "id": "tamayura",
+        "begin": "2012-02-29T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -206,7 +218,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "ch84"
+        "id": "ch84",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

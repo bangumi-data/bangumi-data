@@ -30,7 +30,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "creamy-mami"
+        "id": "creamy-mami",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -74,7 +80,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "catseye"
+        "id": "catseye",
+        "begin": "2011-11-02T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

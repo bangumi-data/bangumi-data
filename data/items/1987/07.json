@@ -19,7 +19,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "DB_majinjyou"
+        "id": "DB_majinjyou",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -43,7 +49,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "saint_seiya"
+        "id": "saint_seiya",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

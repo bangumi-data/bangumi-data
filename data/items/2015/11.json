@@ -89,7 +89,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "digimon-matome"
+        "id": "digimon-matome",
+        "begin": "2016-04-01T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -177,7 +183,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "strike-the-blood-ova"
+        "id": "strike-the-blood-ova",
+        "begin": "2016-11-17T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

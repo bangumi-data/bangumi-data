@@ -32,7 +32,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "date-a-live"
+        "id": "date-a-live",
+        "begin": "2014-01-19T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -59,7 +65,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "rdg"
+        "id": "rdg",
+        "begin": "2014-01-05T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -236,7 +248,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "saipuu"
+        "id": "saipuu",
+        "begin": "2013-04-18T04:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -460,7 +478,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "dragonball2013"
+        "id": "dragonball2013",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

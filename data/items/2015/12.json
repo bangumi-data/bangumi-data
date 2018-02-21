@@ -457,7 +457,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "movie-highspeed"
+        "id": "movie-highspeed",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

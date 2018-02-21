@@ -42,7 +42,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "ch60024"
+        "id": "ch60024",
+        "begin": "2011-06-23T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -96,7 +102,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "kayochu"
+        "id": "kayochu",
+        "begin": "2011-10-07T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

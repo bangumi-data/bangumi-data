@@ -29,7 +29,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "imouto-okan"
+        "id": "imouto-okan",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -53,7 +59,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "gdgd2"
+        "id": "gdgd2",
+        "begin": "2014-08-18T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -90,7 +102,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "petit-idolmaster"
+        "id": "petit-idolmaster",
+        "begin": "2013-03-11T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -114,7 +132,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "nekomonogatari"
+        "id": "nekomonogatari",
+        "begin": "2013-10-22T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -148,7 +172,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "milky-holmes_alt2"
+        "id": "milky-holmes_alt2",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -372,7 +402,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "infernocop"
+        "id": "infernocop",
+        "begin": "2015-06-11T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -392,7 +428,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "suraj"
+        "id": "suraj",
+        "begin": "2013-08-02T11:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

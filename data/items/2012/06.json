@@ -32,7 +32,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "kingdom1"
+        "id": "kingdom1",
+        "begin": "2015-12-24T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -146,7 +152,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "berserkfilm"
+        "id": "berserkfilm",
+        "begin": "2017-03-03T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -170,7 +182,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "toshokan"
+        "id": "toshokan",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

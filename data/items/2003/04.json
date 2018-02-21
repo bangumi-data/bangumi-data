@@ -130,7 +130,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "lastexile"
+        "id": "lastexile",
+        "begin": "2011-11-18T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -197,7 +203,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "stellvia"
+        "id": "stellvia",
+        "begin": "2013-12-27T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -571,7 +583,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "tv-GB"
+        "id": "tv-GB",
+        "begin": "2017-05-29T11:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -715,7 +733,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "kinonotabi01"
+        "id": "kinonotabi01",
+        "begin": "2017-08-19T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -869,7 +893,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "rahxephon-m"
+        "id": "rahxephon-m",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

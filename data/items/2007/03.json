@@ -39,7 +39,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "gurren-lagann"
+        "id": "gurren-lagann",
+        "begin": "2015-12-28T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -203,7 +209,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "5cm"
+        "id": "5cm",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -293,7 +305,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "mushiking-movie02"
+        "id": "mushiking-movie02",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

@@ -22,7 +22,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "blackrockshooter"
+        "id": "blackrockshooter",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -129,7 +135,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "patema"
+        "id": "patema",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -183,7 +195,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "berserkfilm"
+        "id": "berserkfilm",
+        "begin": "2017-03-03T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

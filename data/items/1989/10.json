@@ -152,7 +152,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "PATLABOR_ON_TELEVISION"
+        "id": "PATLABOR_ON_TELEVISION",
+        "begin": "2016-10-14T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -196,7 +202,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "warau"
+        "id": "warau",
+        "begin": "2017-03-15T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -220,7 +232,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "ch61049"
+        "id": "ch61049",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

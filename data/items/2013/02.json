@@ -73,7 +73,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "robotanime"
+        "id": "robotanime",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -148,7 +154,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "stardriver-movie"
+        "id": "stardriver-movie",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -232,7 +244,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "berserkfilm"
+        "id": "berserkfilm",
+        "begin": "2017-03-03T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

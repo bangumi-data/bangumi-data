@@ -72,7 +72,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "naruto_shippu"
+        "id": "naruto_shippu",
+        "begin": "2015-07-15T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -215,7 +221,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "th2v"
+        "id": "th2v",
+        "begin": "2012-03-03T13:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -239,7 +251,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "hokuto-no-ken"
+        "id": "hokuto-no-ken",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

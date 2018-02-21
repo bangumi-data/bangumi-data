@@ -82,7 +82,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "short-yume-100"
+        "id": "short-yume-100",
+        "begin": "2017-04-12T09:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -186,7 +192,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "pp-movie"
+        "id": "pp-movie",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -210,7 +222,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "zunko"
+        "id": "zunko",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

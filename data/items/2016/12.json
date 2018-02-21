@@ -292,7 +292,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "popin-q"
+        "id": "popin-q",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -396,7 +402,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "inazma-delivery-new"
+        "id": "inazma-delivery-new",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

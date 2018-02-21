@@ -82,7 +82,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "shinsekaiyori"
+        "id": "shinsekaiyori",
+        "begin": "2012-10-04T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -216,7 +222,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "asura-movie"
+        "id": "asura-movie",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -250,7 +262,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "ch60379"
+        "id": "ch60379",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },

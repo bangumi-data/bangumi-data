@@ -59,7 +59,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "kenpudenki-berserk-anime"
+        "id": "kenpudenki-berserk-anime",
+        "begin": "2016-07-27T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -173,7 +179,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "vampire-miyu"
+        "id": "vampire-miyu",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

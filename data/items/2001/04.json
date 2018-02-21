@@ -60,7 +60,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "angelic"
+        "id": "angelic",
+        "begin": "2012-06-06T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -130,7 +136,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "digimon_t"
+        "id": "digimon_t",
+        "begin": "2016-12-01T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -337,7 +349,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "noir-anime"
+        "id": "noir-anime",
+        "begin": "2014-01-30T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },

@@ -66,7 +66,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "anime-ryu"
+        "id": "anime-ryu",
+        "begin": "2017-02-10T09:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -140,7 +146,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "digimon-adventure-tri04"
+        "id": "digimon-adventure-tri04",
+        "begin": "2016-04-01T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -174,7 +186,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "aooni-anime"
+        "id": "aooni-anime",
+        "begin": "2016-10-03T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -271,7 +289,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "sao-movie"
+        "id": "sao-movie",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -295,7 +319,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "movie-trinity-7"
+        "id": "movie-trinity-7",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

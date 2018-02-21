@@ -132,7 +132,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "hetaria-world-series"
+        "id": "hetaria-world-series",
+        "begin": "2012-12-28T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -152,7 +158,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "th2adnext"
+        "id": "th2adnext",
+        "begin": "2012-03-03T13:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -172,7 +184,13 @@
       },
       {
         "site": "nicovideo",
-        "id": "agukaru"
+        "id": "agukaru",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }
