@@ -29,6 +29,16 @@
       {
         "site": "bangumi",
         "id": "6934"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch331",
+        "begin": "2011-02-03T18:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -49,6 +59,16 @@
       {
         "site": "bangumi",
         "id": "10076"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch820",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -220,6 +240,36 @@
       {
         "site": "bangumi",
         "id": "10954"
+      }
+    ]
+  },
+  {
+    "title": "“文学少女”メモワールIII-恋する乙女の狂想曲（ラプソディ）-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "文学少女 热恋少女们的狂想曲"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2010-12-24T16:00:00.000Z",
+    "end": "2010-12-24T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "6814"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bungakushoujo-memoire",
+        "begin": "2011-11-23T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

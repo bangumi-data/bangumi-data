@@ -87,6 +87,16 @@
       {
         "site": "bangumi",
         "id": "47464"
+      },
+      {
+        "site": "nicovideo",
+        "id": "milky-holmes_alt",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -227,6 +237,66 @@
       {
         "site": "bangumi",
         "id": "46234"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 FAIRY TAIL 鳳凰の巫女",
+    "titleTranslate": {
+      "zh-Hans": [
+        "妖精的尾巴 剧场版 凤凰巫女"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://fairytail-movie.com/",
+    "begin": "2012-08-18T16:00:00.000Z",
+    "end": "2012-08-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "30361"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fairytail_houounomiko",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "侵略!!イカ娘 OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "侵略！！乌贼娘 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2012-08-08T16:00:00.000Z",
+    "end": "2014-09-08T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "46703"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ikamusume-ova-01",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

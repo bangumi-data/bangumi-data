@@ -28,5 +28,35 @@
         "id": "10275"
       }
     ]
+  },
+  {
+    "title": "ホイッスル!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哨声响起"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-05-06T16:00:00.000Z",
+    "end": "2003-02-03T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "27541"
+      },
+      {
+        "site": "nicovideo",
+        "id": "whistle",
+        "begin": "2017-01-01T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

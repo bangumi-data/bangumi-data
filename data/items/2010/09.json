@@ -129,6 +129,68 @@
       {
         "site": "bangumi",
         "id": "8082"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hetaria-world-series",
+        "begin": "2012-12-28T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ToHeart2 adnext",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://aquaplus.jp/th2adnext/index.html",
+    "begin": "2010-09-23T16:00:00.000Z",
+    "end": "2010-12-22T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8725"
+      },
+      {
+        "site": "nicovideo",
+        "id": "th2adnext",
+        "begin": "2012-03-03T13:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "あぐかる",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://puyukai.com/agukaru/",
+    "begin": "2010-09-17T16:00:00.000Z",
+    "end": "2014-04-01T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "112147"
+      },
+      {
+        "site": "nicovideo",
+        "id": "agukaru",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

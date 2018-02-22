@@ -112,17 +112,17 @@ dist/                                --> 存放构建后数据的目录
 
 各个放送站点的 url 均为专辑页面，以下列表中，突出部分为 id：
 
-* [http://www.acfun.tv/v/ab<kbd>1480039</kbd>](http://www.acfun.tv/v/ab1480039)
-* [http://bangumi.bilibili.com/anime/<kbd>5507</kbd>](http://bangumi.bilibili.com/anime/5507)
+* [http://www.acfun.cn/v/ab<kbd>1480039</kbd>](http://www.acfun.cn/v/ab1480039)
+* [https://bangumi.bilibili.com/anime/<kbd>5507</kbd>](https://bangumi.bilibili.com/anime/5507)
 * [http://www.iqiyi.com/<kbd>a_19rrh9uqb5</kbd>.html](http://www.iqiyi.com/a_19rrh9uqb5.html)
 * [http://movie.kankan.com/movie/<kbd>87458</kbd>](http://movie.kankan.com/movie/87458)
-* [http://www.le.com/comic/<kbd>10029954</kbd>.html](http://www.le.com/comic/10029954.html)
-* [http://www.mgtv.com/h/<kbd>301218</kbd>.html](http://www.mgtv.com/h/301218.html)
+* [https://www.le.com/comic/<kbd>10029954</kbd>.html](https://www.le.com/comic/10029954.html)
+* [https://www.mgtv.com/h/<kbd>301218</kbd>.html](https://www.mgtv.com/h/301218.html)
+* [http://ch.nicovideo.jp/<kbd>kemono-friends</kbd>](http://ch.nicovideo.jp/kemono-friends)
 * [http://v.pptv.com/page/<kbd>adq2NJwCcrATkfk</kbd>.html](http://v.pptv.com/page/adq2NJwCcrATkfk.html)
-* [http://tv.sohu.com/<kbd>s2011/yjdwb/</kbd>](http://tv.sohu.com/s2011/yjdwb/)
-* [http://v.qq.com/detail/<kbd>g/gyf3u5vx0m42531</kbd>.html](http://v.qq.com/detail/g/gyf3u5vx0m42531.html)
-* [http://www.tudou.com/albumcover/<kbd>uu4R6eeDa8Q</kbd>.html](http://www.tudou.com/albumcover/uu4R6eeDa8Q.html)
-* [http://www.youku.com/show_page/id_z<kbd>4d8cce35815111e6b16e</kbd>.html](http://www.youku.com/show_page/id_z4d8cce35815111e6b16.html)
+* [https://tv.sohu.com/<kbd>s2011/yjdwb</kbd>](https://tv.sohu.com/s2011/yjdwb/)
+* [https://v.qq.com/detail/<kbd>g/gyf3u5vx0m42531</kbd>.html](https://v.qq.com/detail/g/gyf3u5vx0m42531.html)
+* [https://list.youku.com/show/id_z<kbd>4d8cce35815111e6b16e</kbd>.html](https://list.youku.com/show/id_z4d8cce35815111e6b16</kbd>.html)
 
 ## 验证
 

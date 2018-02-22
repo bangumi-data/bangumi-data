@@ -117,5 +117,35 @@
         "id": "2127"
       }
     ]
+  },
+  {
+    "title": "プレイヤーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "歌魂斗"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://anime.softgarage.com/prayers/index.html",
+    "begin": "2005-08-26T16:00:00.000Z",
+    "end": "2005-11-25T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "74561"
+      },
+      {
+        "site": "nicovideo",
+        "id": "amg-players",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
   }
 ]

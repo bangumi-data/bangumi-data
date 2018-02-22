@@ -49,6 +49,16 @@
       {
         "site": "bangumi",
         "id": "90632"
+      },
+      {
+        "site": "nicovideo",
+        "id": "vanguard-lm",
+        "begin": "2014-03-18T10:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -495,6 +505,36 @@
       {
         "site": "bangumi",
         "id": "100857"
+      }
+    ]
+  },
+  {
+    "title": "WILD ADAPTER",
+    "titleTranslate": {
+      "zh-Hans": [
+        "疾暴执行部"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://wild-adapter.com/",
+    "begin": "2014-03-26T16:00:00.000Z",
+    "end": "2015-09-30T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "83933"
+      },
+      {
+        "site": "nicovideo",
+        "id": "wild-adapter",
+        "begin": "2017-04-07T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

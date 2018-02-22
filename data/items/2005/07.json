@@ -282,6 +282,16 @@
       {
         "site": "bangumi",
         "id": "2680"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dcss",
+        "begin": "2012-07-11T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -545,6 +555,36 @@
       {
         "site": "bangumi",
         "id": "27880"
+      }
+    ]
+  },
+  {
+    "title": "鋼の錬金術師 シャンバラを征く者",
+    "titleTranslate": {
+      "zh-Hans": [
+        "钢之炼金术师 香巴拉的征服者"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2005-07-23T16:00:00.000Z",
+    "end": "2005-07-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1935"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hagaren-shamballa",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

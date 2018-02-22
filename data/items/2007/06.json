@@ -118,5 +118,35 @@
         "id": "216383"
       }
     ]
+  },
+  {
+    "title": "テイルズ オブ シンフォニア THE ANIMATION",
+    "titleTranslate": {
+      "zh-Hans": [
+        "仙乐传说"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://ova-tos.com/sylvarant/",
+    "begin": "2007-06-08T16:00:00.000Z",
+    "end": "2007-12-21T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3014"
+      },
+      {
+        "site": "nicovideo",
+        "id": "TOS-anime01",
+        "begin": "2016-07-06T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

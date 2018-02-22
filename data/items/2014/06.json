@@ -204,5 +204,61 @@
         "id": "104879"
       }
     ]
+  },
+  {
+    "title": "あぐかる PLAY WITH IBARAKI編",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://puyukai.com/agukaru/",
+    "begin": "2014-06-06T16:00:00.000Z",
+    "end": "2015-03-28T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "238437"
+      },
+      {
+        "site": "nicovideo",
+        "id": "agukaru",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "PERSONA3 THE MOVIE #2 Midsummer Knight's Dream",
+    "titleTranslate": {
+      "zh-Hans": [
+        "女神异闻录3 剧场版 第二章 仲夏骑士之梦"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.p3m.jp/",
+    "begin": "2014-06-07T16:00:00.000Z",
+    "end": "2014-06-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "88731"
+      },
+      {
+        "site": "nicovideo",
+        "id": "p3m",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
   }
 ]

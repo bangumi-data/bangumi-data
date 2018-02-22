@@ -436,5 +436,35 @@
         "id": "147359"
       }
     ]
+  },
+  {
+    "title": "映画 ハイ☆スピード！－Free! Starting Days－",
+    "titleTranslate": {
+      "zh-Hans": [
+        "High☆Speed! -Free! Starting Days-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://movie-highspeed.com/",
+    "begin": "2015-12-05T16:00:00.000Z",
+    "end": "2015-12-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "129246"
+      },
+      {
+        "site": "nicovideo",
+        "id": "movie-highspeed",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
   }
 ]

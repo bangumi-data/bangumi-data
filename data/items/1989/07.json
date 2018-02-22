@@ -56,6 +56,16 @@
       {
         "site": "bangumi",
         "id": "44939"
+      },
+      {
+        "site": "nicovideo",
+        "id": "DBZ",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -116,6 +126,36 @@
       {
         "site": "bangumi",
         "id": "217850"
+      }
+    ]
+  },
+  {
+    "title": "機動警察パトレイバー the Movie",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动警察 东京毁灭战"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-07-15T16:00:00.000Z",
+    "end": "1989-07-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "9979"
+      },
+      {
+        "site": "nicovideo",
+        "id": "PATLABOR_01",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

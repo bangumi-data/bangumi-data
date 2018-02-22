@@ -28,5 +28,35 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "直感×アルゴリズム♪",
+    "titleTranslate": {
+      "zh-Hans": [
+        "麟&犀×AI韵律♪"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://project-algorhythm.com/",
+    "begin": "2017-08-17T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "212022"
+      },
+      {
+        "site": "nicovideo",
+        "id": "project-algorhythm",
+        "begin": "2017-08-24T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

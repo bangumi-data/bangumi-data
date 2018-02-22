@@ -73,6 +73,16 @@
       {
         "site": "bangumi",
         "id": "168905"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mononokean",
+        "begin": "2016-07-09T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -269,6 +279,32 @@
       {
         "site": "bangumi",
         "id": "162771"
+      }
+    ]
+  },
+  {
+    "title": "いっぽう日本昔ばなし",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2016-06-01T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "211023"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ippou-mukashibanashi",
+        "begin": "2017-07-16T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

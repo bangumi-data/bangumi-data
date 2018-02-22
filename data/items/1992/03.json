@@ -29,6 +29,16 @@
       {
         "site": "bangumi",
         "id": "1510"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sailormoon",
+        "begin": "2014-07-11T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -49,6 +59,16 @@
       {
         "site": "bangumi",
         "id": "45391"
+      },
+      {
+        "site": "nicovideo",
+        "id": "DBZ_gekitotsu",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },

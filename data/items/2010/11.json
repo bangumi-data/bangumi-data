@@ -26,6 +26,16 @@
       {
         "site": "bangumi",
         "id": "10494"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kakokawa",
+        "begin": "2010-10-12T03:00:05.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -179,6 +189,42 @@
       {
         "site": "bangumi",
         "id": "8452"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tamayura",
+        "begin": "2012-02-29T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "TRIP TREK",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://trip.oh-news.net/",
+    "begin": "2010-11-10T16:00:00.000Z",
+    "end": "2011-01-26T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10070"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch84",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

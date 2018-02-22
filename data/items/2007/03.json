@@ -36,6 +36,16 @@
       {
         "site": "bangumi",
         "id": "770"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gurren-lagann",
+        "begin": "2015-12-28T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -196,6 +206,16 @@
       {
         "site": "bangumi",
         "id": "927"
+      },
+      {
+        "site": "nicovideo",
+        "id": "5cm",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -266,6 +286,32 @@
       {
         "site": "bangumi",
         "id": "1999"
+      }
+    ]
+  },
+  {
+    "title": "甲虫王者ムシキング スーパーバトルムービー 〜闇の改造甲虫〜",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2007-03-21T16:00:00.000Z",
+    "end": "2007-03-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "238455"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mushiking-movie02",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

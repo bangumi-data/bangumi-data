@@ -156,6 +156,16 @@
       {
         "site": "bangumi",
         "id": "3425"
+      },
+      {
+        "site": "nicovideo",
+        "id": "naruto",
+        "begin": "2015-07-15T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -466,6 +476,36 @@
       {
         "site": "bangumi",
         "id": "7217"
+      }
+    ]
+  },
+  {
+    "title": "デュエル・マスターズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "决斗大师"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-10-21T16:00:00.000Z",
+    "end": "2003-04-04T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "191115"
+      },
+      {
+        "site": "nicovideo",
+        "id": "duelmasters01",
+        "begin": "2014-11-27T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

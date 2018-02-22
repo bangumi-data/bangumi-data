@@ -206,6 +206,16 @@
       {
         "site": "bangumi",
         "id": "2333"
+      },
+      {
+        "site": "nicovideo",
+        "id": "airantou",
+        "begin": "2012-09-16T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -366,6 +376,16 @@
       {
         "site": "bangumi",
         "id": "276"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch329",
+        "begin": "2011-01-02T05:00:01.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -396,6 +416,16 @@
       {
         "site": "bangumi",
         "id": "1267"
+      },
+      {
+        "site": "nicovideo",
+        "id": "oofuri",
+        "begin": "2017-09-26T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -486,6 +516,16 @@
       {
         "site": "bangumi",
         "id": "19136"
+      },
+      {
+        "site": "nicovideo",
+        "id": "polyphonica",
+        "begin": "2013-07-29T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1008,6 +1048,16 @@
       {
         "site": "bangumi",
         "id": "1967"
+      },
+      {
+        "site": "nicovideo",
+        "id": "heroicage",
+        "begin": "2015-04-16T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1118,6 +1168,16 @@
       {
         "site": "bangumi",
         "id": "9732"
+      },
+      {
+        "site": "nicovideo",
+        "id": "konnyaku",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -1331,6 +1391,16 @@
       {
         "site": "bangumi",
         "id": "1862"
+      },
+      {
+        "site": "nicovideo",
+        "id": "shakugan-movie",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -1361,6 +1431,16 @@
       {
         "site": "bangumi",
         "id": "118573"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hokuto-no-ken",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -1471,6 +1551,36 @@
       {
         "site": "bangumi",
         "id": "192007"
+      }
+    ]
+  },
+  {
+    "title": "最遊記RELOAD -burial-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "最游记RELOAD 埋葬篇"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://saiyuki-ova.net/web/top.htm",
+    "begin": "2007-04-27T16:00:00.000Z",
+    "end": "2008-03-28T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "6993"
+      },
+      {
+        "site": "nicovideo",
+        "id": "saiyukireload",
+        "begin": "2014-03-24T14:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

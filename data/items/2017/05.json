@@ -16,6 +16,72 @@
       {
         "site": "bangumi",
         "id": "202615"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yugioh-vrains",
+        "begin": "2017-06-05T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 FAIRY TAIL -DRAGON CRY-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "妖精的尾巴 剧场版 DRAGON CRY"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://gaga.ne.jp/FT.DC/",
+    "begin": "2017-05-06T16:00:00.000Z",
+    "end": "2017-05-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "133975"
+      },
+      {
+        "site": "nicovideo",
+        "id": "FT_DC",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "BLAME!",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.blame.jp/",
+    "begin": "2017-05-20T16:00:00.000Z",
+    "end": "2017-05-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "155359"
+      },
+      {
+        "site": "nicovideo",
+        "id": "blame",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

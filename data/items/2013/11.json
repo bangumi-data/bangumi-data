@@ -174,5 +174,95 @@
         "id": "82233"
       }
     ]
+  },
+  {
+    "title": "にゃんころり ～けんぷろ学園～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "喵翻滚 ~贤Pro学园~"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://ch.nicovideo.jp/nya/",
+    "begin": "2013-11-05T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "184662"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nya",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "PERSONA3 THE MOVIE #1 Spring of Birth",
+    "titleTranslate": {
+      "zh-Hans": [
+        "女神异闻录3 剧场版 第一章 春生"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.p3m.jp/",
+    "begin": "2013-11-23T16:00:00.000Z",
+    "end": "2013-11-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "43404"
+      },
+      {
+        "site": "nicovideo",
+        "id": "p3m",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "サカサマのパテマ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "颠倒的帕特玛"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://patema.jp/",
+    "begin": "2013-11-09T16:00:00.000Z",
+    "end": "2013-11-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "29414"
+      },
+      {
+        "site": "nicovideo",
+        "id": "patema",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
   }
 ]

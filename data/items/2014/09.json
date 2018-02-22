@@ -288,5 +288,35 @@
         "id": "114062"
       }
     ]
+  },
+  {
+    "title": "劇場版 gdgd妖精s っていう映画はどうかな…?",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 gdgd妖精s"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://gdgdfairy.com/",
+    "begin": "2014-09-27T16:00:00.000Z",
+    "end": "2014-09-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "103276"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gdgd-movie",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
   }
 ]

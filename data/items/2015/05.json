@@ -29,6 +29,16 @@
       {
         "site": "bangumi",
         "id": "121002"
+      },
+      {
+        "site": "nicovideo",
+        "id": "robot-girlsz2",
+        "begin": "2015-05-20T13:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -141,6 +151,46 @@
       {
         "site": "bangumi",
         "id": "120700"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mushishi-tokubetsuhen02",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "天才バカヴォン 蘇るフランダースの犬",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天才傻瓜 复活的弗兰德之犬"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://bakavon.com/",
+    "begin": "2015-05-23T16:00:00.000Z",
+    "end": "2015-05-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "120240"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bakavon",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

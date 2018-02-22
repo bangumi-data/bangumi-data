@@ -63,6 +63,16 @@
       {
         "site": "bangumi",
         "id": "191056"
+      },
+      {
+        "site": "nicovideo",
+        "id": "anime-ryu",
+        "begin": "2017-02-10T09:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -133,6 +143,16 @@
       {
         "site": "bangumi",
         "id": "192202"
+      },
+      {
+        "site": "nicovideo",
+        "id": "digimon-adventure-tri04",
+        "begin": "2016-04-01T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -163,6 +183,16 @@
       {
         "site": "bangumi",
         "id": "189660"
+      },
+      {
+        "site": "nicovideo",
+        "id": "aooni-anime",
+        "begin": "2016-10-03T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -236,6 +266,66 @@
       {
         "site": "bangumi",
         "id": "203325"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 ソードアート・オンライン -オーディナル・スケール-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "刀剑神域：序列之争"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://sao-movie.net/",
+    "begin": "2017-02-18T16:00:00.000Z",
+    "end": "2017-02-18T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "148099"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sao-movie",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 トリニティセブン -悠久図書館と錬金術少女-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 七人魔法使 -悠久图书馆与炼金术少女-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://movie.trinity-7.com/",
+    "begin": "2017-02-25T16:00:00.000Z",
+    "end": "2017-02-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "186570"
+      },
+      {
+        "site": "nicovideo",
+        "id": "movie-trinity-7",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

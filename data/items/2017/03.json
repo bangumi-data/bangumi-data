@@ -79,6 +79,16 @@
       {
         "site": "bangumi",
         "id": "191324"
+      },
+      {
+        "site": "nicovideo",
+        "id": "short-yume-100",
+        "begin": "2017-04-12T09:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -159,6 +169,66 @@
       {
         "site": "bangumi",
         "id": "212187"
+      }
+    ]
+  },
+  {
+    "title": "劇場版プリパラ み～んなでかがやけ！キラリン☆スターライブ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "美妙天堂剧场版 大家一起闪耀！KIRARIN☆STARLIVE！"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://pp-movie.com/",
+    "begin": "2017-03-04T16:00:00.000Z",
+    "end": "2017-03-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "196559"
+      },
+      {
+        "site": "nicovideo",
+        "id": "pp-movie",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ずんだホライずん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "ZUNDA HORIZON"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://animetamago.jp/title.php?id=4",
+    "begin": "2017-03-11T16:00:00.000Z",
+    "end": "2017-03-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "184318"
+      },
+      {
+        "site": "nicovideo",
+        "id": "zunko",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

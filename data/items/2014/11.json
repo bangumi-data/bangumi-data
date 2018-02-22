@@ -58,6 +58,16 @@
       {
         "site": "bangumi",
         "id": "116370"
+      },
+      {
+        "site": "nicovideo",
+        "id": "animatorexpo",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -148,6 +158,36 @@
       {
         "site": "bangumi",
         "id": "86870"
+      }
+    ]
+  },
+  {
+    "title": "おにくだいすき！ ゼウシくん 2期",
+    "titleTranslate": {
+      "zh-Hans": [
+        "无肉不欢的宙牛君 2期"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://zeushi-kun.jp/",
+    "begin": "2014-11-29T16:00:00.000Z",
+    "end": "2015-03-29T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "119033"
+      },
+      {
+        "site": "nicovideo",
+        "id": "zeushi-kun",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

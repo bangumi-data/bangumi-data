@@ -16,6 +16,16 @@
       {
         "site": "bangumi",
         "id": "127806"
+      },
+      {
+        "site": "nicovideo",
+        "id": "funaanime",
+        "begin": "2015-04-04T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -388,6 +398,36 @@
       {
         "site": "bangumi",
         "id": "108009"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 シドニアの騎士",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 希德尼娅的骑士"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.knightsofsidonia.com/",
+    "begin": "2015-03-06T16:00:00.000Z",
+    "end": "2015-03-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "118098"
+      },
+      {
+        "site": "nicovideo",
+        "id": "movie-sidonia",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

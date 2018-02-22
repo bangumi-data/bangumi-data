@@ -26,6 +26,16 @@
       {
         "site": "bangumi",
         "id": "136311"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nachup",
+        "begin": "2015-08-28T12:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -156,6 +166,36 @@
       {
         "site": "bangumi",
         "id": "131090"
+      }
+    ]
+  },
+  {
+    "title": "BORUTO -NARUTO THE MOVIE-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "火影忍者 剧场版 博人传"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://boruto-movie.com/",
+    "begin": "2015-08-07T16:00:00.000Z",
+    "end": "2015-08-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "120191"
+      },
+      {
+        "site": "nicovideo",
+        "id": "boruto-movie",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

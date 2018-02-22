@@ -39,6 +39,16 @@
       {
         "site": "bangumi",
         "id": "62281"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kingdom2",
+        "begin": "2016-01-24T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -119,6 +129,36 @@
       {
         "site": "bangumi",
         "id": "66523"
+      }
+    ]
+  },
+  {
+    "title": "どーにゃつ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "甜甜圈猫"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://donyatsu.jp",
+    "begin": "2013-06-01T16:00:00.000Z",
+    "end": "2013-06-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "94548"
+      },
+      {
+        "site": "nicovideo",
+        "id": "donyatsu",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

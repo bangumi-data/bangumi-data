@@ -29,6 +29,16 @@
       {
         "site": "bangumi",
         "id": "27568"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kingdom1",
+        "begin": "2015-12-24T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -119,6 +129,66 @@
       {
         "site": "bangumi",
         "id": "42253"
+      }
+    ]
+  },
+  {
+    "title": "ベルセルク 黄金時代篇II ドルドレイ攻略",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剑风传奇 黄金时代篇II 多尔多雷攻略"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.berserkfilm.com/",
+    "begin": "2012-06-23T16:00:00.000Z",
+    "end": "2012-06-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "45240"
+      },
+      {
+        "site": "nicovideo",
+        "id": "berserkfilm",
+        "begin": "2017-03-03T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "図書館戦争 革命のつばさ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "图书馆战争 革命之翼"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.kadokawa.co.jp/toshokan-sensou/",
+    "begin": "2012-06-16T16:00:00.000Z",
+    "end": "2012-06-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "34025"
+      },
+      {
+        "site": "nicovideo",
+        "id": "toshokan",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

@@ -48,5 +48,35 @@
         "id": "37168"
       }
     ]
+  },
+  {
+    "title": "ゴッドマジンガー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "远古魔神"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1984-04-15T16:00:00.000Z",
+    "end": "1984-09-23T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37265"
+      },
+      {
+        "site": "nicovideo",
+        "id": "God-Mazinger",
+        "begin": "2011-11-09T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]
