@@ -84,5 +84,34 @@
         "id": "10944"
       }
     ]
+  },
+  {
+    "title": "空手バカ一代",
+    "titleTranslate": {
+      "zh-Hans": [
+        "空手傻瓜一代"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1973-10-03T16:00:00.000Z",
+    "end": "1974-09-25T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "89330"
+      },
+      {
+        "site": "nicovideo",
+        "id": "karate",
+        "begin": "2012-02-21T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
+      }
+    ]
   }
 ]

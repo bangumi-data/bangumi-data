@@ -247,6 +247,74 @@
       {
         "site": "bangumi",
         "id": "95300"
+      },
+      {
+        "site": "nicovideo",
+        "id": "wondermomo",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "夏目友人帳 いつかゆきのひに",
+    "titleTranslate": {
+      "zh-Hans": [
+        "夏目友人帐 曾几何时下雪之日"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2014-02-05T16:00:00.000Z",
+    "end": "2014-02-05T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "84501"
+      },
+      {
+        "site": "nicovideo",
+        "id": "natsume-yuki",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "エクスメイデン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "X Maiden"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://xmaiden.jp",
+    "begin": "2014-02-28T16:00:00.000Z",
+    "end": "2014-06-20T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "93382"
+      },
+      {
+        "site": "nicovideo",
+        "id": "xmaiden",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   }

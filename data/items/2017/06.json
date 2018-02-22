@@ -28,6 +28,41 @@
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "hinalogic",
+        "begin": "2017-07-05T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "KING OF PRISM  PRIDE the HERO",
+    "titleTranslate": {},
+    "lang": "ja",
+    "officialSite": "http://kinpri.com/",
+    "begin": "2017-06-10T16:00:00.000Z",
+    "end": "2017-06-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "192559"
+      },
+      {
+        "site": "nicovideo",
+        "id": "PRIDE_the_HERO",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   }

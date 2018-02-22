@@ -55,5 +55,34 @@
         "id": "127779"
       }
     ]
+  },
+  {
+    "title": "コブラ SPACE ADVENTURE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哥普拉 剧场版"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1982-07-03T16:00:00.000Z",
+    "end": "1982-07-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "67751"
+      },
+      {
+        "site": "nicovideo",
+        "id": "cobra-adventure",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
+      }
+    ]
   }
 ]

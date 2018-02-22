@@ -29,6 +29,16 @@
       {
         "site": "saraba1st",
         "id": "1067041"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tukimonogatari",
+        "begin": "2015-09-01T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -215,6 +225,35 @@
       {
         "site": "bangumi",
         "id": "84701"
+      }
+    ]
+  },
+  {
+    "title": "ストライクウィッチーズ Operation Victory Arrow",
+    "titleTranslate": {
+      "zh-Hans": [
+        "强袭魔女 胜利之箭行动"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://w-witch.jp",
+    "begin": "2014-12-12T16:00:00.000Z",
+    "end": "2015-05-02T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "85339"
+      },
+      {
+        "site": "nicovideo",
+        "id": "s-witchOVA",
+        "begin": "2016-10-11T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   }

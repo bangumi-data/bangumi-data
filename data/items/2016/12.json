@@ -281,6 +281,16 @@
       {
         "site": "bangumi",
         "id": "126185"
+      },
+      {
+        "site": "nicovideo",
+        "id": "popin-q",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -358,6 +368,35 @@
       {
         "site": "bangumi",
         "id": "169942"
+      }
+    ]
+  },
+  {
+    "title": "イナズマデリバリー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "闪电宅急送"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.inazma-delivery.com",
+    "begin": "2016-12-09T16:00:00.000Z",
+    "end": "2017-02-10T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "227230"
+      },
+      {
+        "site": "nicovideo",
+        "id": "inazma-delivery-new",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   }

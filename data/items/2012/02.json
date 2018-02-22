@@ -18,6 +18,16 @@
       {
         "site": "bangumi",
         "id": "22179"
+      },
+      {
+        "site": "nicovideo",
+        "id": "blackrockshooter",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -118,6 +128,16 @@
       {
         "site": "bangumi",
         "id": "43159"
+      },
+      {
+        "site": "nicovideo",
+        "id": "patema",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -147,6 +167,35 @@
       {
         "site": "bangumi",
         "id": "24546"
+      }
+    ]
+  },
+  {
+    "title": "ベルセルク 黄金時代篇I 覇王の卵",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剑风传奇 黄金时代篇I 霸王之卵"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.berserkfilm.com/",
+    "begin": "2012-02-04T16:00:00.000Z",
+    "end": "2012-02-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10840"
+      },
+      {
+        "site": "nicovideo",
+        "id": "berserkfilm",
+        "begin": "2017-03-03T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   }

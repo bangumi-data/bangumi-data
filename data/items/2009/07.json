@@ -93,6 +93,16 @@
       {
         "site": "bangumi",
         "id": "1377"
+      },
+      {
+        "site": "nicovideo",
+        "id": "umineko-anime",
+        "begin": "2016-08-19T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -151,6 +161,16 @@
       {
         "site": "bangumi",
         "id": "1742"
+      },
+      {
+        "site": "nicovideo",
+        "id": "zetsubou3",
+        "begin": "2016-10-31T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -209,6 +229,16 @@
       {
         "site": "bangumi",
         "id": "1731"
+      },
+      {
+        "site": "nicovideo",
+        "id": "taisho-y",
+        "begin": "2014-01-24T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -241,6 +271,16 @@
       {
         "site": "bangumi",
         "id": "1729"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ga",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -282,6 +322,16 @@
       {
         "site": "bangumi",
         "id": "1952"
+      },
+      {
+        "site": "nicovideo",
+        "id": "canaan",
+        "begin": "2012-04-15T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -301,6 +351,16 @@
       {
         "site": "bangumi",
         "id": "1671"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch330",
+        "begin": "2011-01-03T09:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -350,6 +410,16 @@
       {
         "site": "bangumi",
         "id": "1512"
+      },
+      {
+        "site": "nicovideo",
+        "id": "spicy-wolf-02",
+        "begin": "2011-10-30T10:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -381,6 +451,16 @@
       {
         "site": "bangumi",
         "id": "1758"
+      },
+      {
+        "site": "nicovideo",
+        "id": "aoihana",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -588,6 +668,64 @@
       {
         "site": "bangumi",
         "id": "31525"
+      }
+    ]
+  },
+  {
+    "title": "アジール・セッション",
+    "titleTranslate": {
+      "zh-Hans": [
+        "收容所之战"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2009-07-25T16:00:00.000Z",
+    "end": "2009-07-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "86861"
+      },
+      {
+        "site": "nicovideo",
+        "id": "as",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "センコロール",
+    "titleTranslate": {
+      "zh-Hans": [
+        "千子"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.cencoroll.com",
+    "begin": "2009-07-28T16:00:00.000Z",
+    "end": "2009-07-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3179"
+      },
+      {
+        "site": "nicovideo",
+        "id": "cencoroll",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   }

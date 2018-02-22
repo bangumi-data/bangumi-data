@@ -80,5 +80,34 @@
         "id": "67832"
       }
     ]
+  },
+  {
+    "title": "伝染るんです",
+    "titleTranslate": {
+      "zh-Hans": [
+        "传染"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://utsuru.jp/",
+    "begin": "2009-08-21T16:00:00.000Z",
+    "end": "2009-10-23T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "41256"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch287",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
+      }
+    ]
   }
 ]

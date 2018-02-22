@@ -144,6 +144,16 @@
       {
         "site": "bangumi",
         "id": "8484"
+      },
+      {
+        "site": "nicovideo",
+        "id": "PATLABOR_ON_TELEVISION",
+        "begin": "2016-10-14T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -163,6 +173,64 @@
       {
         "site": "bangumi",
         "id": "213109"
+      }
+    ]
+  },
+  {
+    "title": "笑ゥせぇるすまん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "黑色推销员"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-10-10T16:00:00.000Z",
+    "end": "1992-09-29T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "36224"
+      },
+      {
+        "site": "nicovideo",
+        "id": "warau",
+        "begin": "2017-03-15T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "プロジェクトA子 完結篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "A子计划4 完结篇"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-10-07T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "55060"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch61049",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   }

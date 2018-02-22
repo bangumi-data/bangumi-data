@@ -42,6 +42,16 @@
       {
         "site": "saraba1st",
         "id": "1157747"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dlmb",
+        "begin": "2015-10-11T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -100,6 +110,45 @@
       {
         "site": "bangumi",
         "id": "119344"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kokosake",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "Wake Up, Girls! 青春の影",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Wake Up, Girls! 青春之影"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://wakeupgirls2.jp/",
+    "begin": "2015-09-25T16:00:00.000Z",
+    "end": "2015-09-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "119985"
+      },
+      {
+        "site": "nicovideo",
+        "id": "wakeupgirls_seisilyun",
+        "begin": "2014-01-13T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   }

@@ -69,6 +69,16 @@
       {
         "site": "bangumi",
         "id": "6414"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tyocosis",
+        "begin": "2012-09-05T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -130,6 +140,16 @@
       {
         "site": "bangumi",
         "id": "1880"
+      },
+      {
+        "site": "nicovideo",
+        "id": "zero-tsukaima",
+        "begin": "2011-12-14T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -521,6 +541,35 @@
       {
         "site": "bangumi",
         "id": "21065"
+      }
+    ]
+  },
+  {
+    "title": "星空キセキ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "星空奇迹"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2006-07-10T16:00:00.000Z",
+    "end": "2006-07-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "5941"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hoshizora",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   }

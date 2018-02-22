@@ -1,0 +1,31 @@
+[
+  {
+    "title": "プロジェクトA子",
+    "titleTranslate": {
+      "zh-Hans": [
+        "A子计划"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-06-21T16:00:00.000Z",
+    "end": "1986-06-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8380"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch61031",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
+      }
+    ]
+  }
+]

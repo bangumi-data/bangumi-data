@@ -25,6 +25,16 @@
       {
         "site": "bangumi",
         "id": "55110"
+      },
+      {
+        "site": "nicovideo",
+        "id": "imouto-okan",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -44,6 +54,16 @@
       {
         "site": "bangumi",
         "id": "54435"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gdgd2",
+        "begin": "2014-08-18T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -76,6 +96,16 @@
       {
         "site": "bangumi",
         "id": "52586"
+      },
+      {
+        "site": "nicovideo",
+        "id": "petit-idolmaster",
+        "begin": "2013-03-11T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -95,6 +125,16 @@
       {
         "site": "bangumi",
         "id": "56117"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nekomonogatari",
+        "begin": "2013-10-22T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -124,6 +164,16 @@
       {
         "site": "bangumi",
         "id": "54728"
+      },
+      {
+        "site": "nicovideo",
+        "id": "milky-holmes_alt2",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -317,6 +367,60 @@
       {
         "site": "bangumi",
         "id": "58311"
+      }
+    ]
+  },
+  {
+    "title": "インフェルノコップ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "地狱刑事"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "https://youtube.com/animebancho",
+    "begin": "2012-12-25T16:00:00.000Z",
+    "end": "2013-03-18T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "59160"
+      },
+      {
+        "site": "nicovideo",
+        "id": "infernocop",
+        "begin": "2015-06-11T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "スーラジ　ザ・ライジングスター",
+    "titleTranslate": {},
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2012-12-23T16:00:00.000Z",
+    "end": "2013-06-30T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "238309"
+      },
+      {
+        "site": "nicovideo",
+        "id": "suraj",
+        "begin": "2013-08-02T11:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   }

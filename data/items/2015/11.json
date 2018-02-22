@@ -83,6 +83,16 @@
       {
         "site": "bangumi",
         "id": "109739"
+      },
+      {
+        "site": "nicovideo",
+        "id": "digimon-matome",
+        "begin": "2016-04-01T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -145,6 +155,35 @@
       {
         "site": "bangumi",
         "id": "145745"
+      }
+    ]
+  },
+  {
+    "title": "ストライク・ザ・ブラッド ヴァルキュリアの王国篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "噬血狂袭 女武神的王国篇"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.strike-the-blood.com/",
+    "begin": "2015-11-25T16:00:00.000Z",
+    "end": "2015-12-23T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "128322"
+      },
+      {
+        "site": "nicovideo",
+        "id": "strike-the-blood-ova",
+        "begin": "2016-11-17T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   }

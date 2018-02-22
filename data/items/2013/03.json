@@ -28,6 +28,16 @@
       {
         "site": "bangumi",
         "id": "49131"
+      },
+      {
+        "site": "nicovideo",
+        "id": "date-a-live",
+        "begin": "2014-01-19T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -50,6 +60,16 @@
       {
         "site": "bangumi",
         "id": "46728"
+      },
+      {
+        "site": "nicovideo",
+        "id": "rdg",
+        "begin": "2014-01-05T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -218,6 +238,16 @@
       {
         "site": "bangumi",
         "id": "66338"
+      },
+      {
+        "site": "nicovideo",
+        "id": "saipuu",
+        "begin": "2013-04-18T04:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -412,6 +442,35 @@
       {
         "site": "bangumi",
         "id": "68461"
+      }
+    ]
+  },
+  {
+    "title": "ドラゴンボールZ 神と神",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙珠Z 神与神"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.dragonball2013.com/",
+    "begin": "2013-03-30T16:00:00.000Z",
+    "end": "2013-03-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "44636"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dragonball2013",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   }

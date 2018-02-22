@@ -122,6 +122,16 @@
       {
         "site": "bangumi",
         "id": "921"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lastexile",
+        "begin": "2011-11-18T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -183,6 +193,16 @@
       {
         "site": "bangumi",
         "id": "2326"
+      },
+      {
+        "site": "nicovideo",
+        "id": "stellvia",
+        "begin": "2013-12-27T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -539,6 +559,16 @@
       {
         "site": "bangumi",
         "id": "3754"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tv-GB",
+        "begin": "2017-05-29T11:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -674,6 +704,16 @@
       {
         "site": "bangumi",
         "id": "1948"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kinonotabi01",
+        "begin": "2017-08-19T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -800,6 +840,35 @@
       {
         "site": "bangumi",
         "id": "161689"
+      }
+    ]
+  },
+  {
+    "title": "ラーゼフォン 多元変奏曲",
+    "titleTranslate": {
+      "zh-Hans": [
+        "翼神传说 多元变奏曲"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.mediafactory.co.jp/anime/rahxephon/movie/index.html",
+    "begin": "2003-04-19T16:00:00.000Z",
+    "end": "2003-04-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3997"
+      },
+      {
+        "site": "nicovideo",
+        "id": "rahxephon-m",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   }

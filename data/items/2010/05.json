@@ -17,5 +17,34 @@
         "id": "83252"
       }
     ]
+  },
+  {
+    "title": "劇場版“文学少女”",
+    "titleTranslate": {
+      "zh-Hans": [
+        "文学少女 剧场版"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.bungakushoujo.jp/",
+    "begin": "2010-05-01T16:00:00.000Z",
+    "end": "2010-05-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3183"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bungakushoujo",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
+      }
+    ]
   }
 ]

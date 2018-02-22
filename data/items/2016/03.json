@@ -29,6 +29,16 @@
       {
         "site": "saraba1st",
         "id": "1203752"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kanoneko",
+        "begin": "2016-03-04T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -284,6 +294,16 @@
       {
         "site": "bangumi",
         "id": "156734"
+      },
+      {
+        "site": "nicovideo",
+        "id": "digimon-matome",
+        "begin": "2016-04-01T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -477,6 +497,35 @@
       {
         "site": "bangumi",
         "id": "149257"
+      }
+    ]
+  },
+  {
+    "title": "映画プリパラ み～んなのあこがれ♪レッツゴー☆プリパリ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "美妙天堂剧场版 大～家的憧憬♪出发吧☆美妙巴黎"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://pp-movie.com/",
+    "begin": "2016-03-12T16:00:00.000Z",
+    "end": "2016-03-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "161449"
+      },
+      {
+        "site": "nicovideo",
+        "id": "pp-movie03",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   }

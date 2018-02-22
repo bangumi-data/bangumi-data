@@ -96,6 +96,16 @@
       {
         "site": "bangumi",
         "id": "1426"
+      },
+      {
+        "site": "nicovideo",
+        "id": "phantom-r",
+        "begin": "2012-06-20T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -135,6 +145,16 @@
       {
         "site": "bangumi",
         "id": "1428"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hagaren-fa",
+        "begin": "2015-04-10T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -280,6 +300,16 @@
       {
         "site": "bangumi",
         "id": "1434"
+      },
+      {
+        "site": "nicovideo",
+        "id": "queensblade01",
+        "begin": "2012-04-11T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -589,6 +619,16 @@
       {
         "site": "bangumi",
         "id": "1429"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch327",
+        "begin": "2010-07-31T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -691,6 +731,16 @@
       {
         "site": "bangumi",
         "id": "1442"
+      },
+      {
+        "site": "nicovideo",
+        "id": "polyphonica_cs",
+        "begin": "2013-07-30T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -823,6 +873,16 @@
       {
         "site": "bangumi",
         "id": "2088"
+      },
+      {
+        "site": "nicovideo",
+        "id": "souten_anime",
+        "begin": "2016-06-22T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -1109,6 +1169,16 @@
       {
         "site": "bangumi",
         "id": "1606"
+      },
+      {
+        "site": "nicovideo",
+        "id": "haruhi_2009",
+        "begin": "2016-07-11T01:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   },
@@ -1235,6 +1305,31 @@
       {
         "site": "bangumi",
         "id": "12655"
+      }
+    ]
+  },
+  {
+    "title": "ToHeart2 adplus",
+    "titleTranslate": {},
+    "lang": "ja",
+    "officialSite": "http://aquaplus.jp/th2adplus/",
+    "begin": "2009-04-24T16:00:00.000Z",
+    "end": "2009-10-07T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1011"
+      },
+      {
+        "site": "nicovideo",
+        "id": "th2adnext",
+        "begin": "2012-03-03T13:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
       }
     ]
   }
