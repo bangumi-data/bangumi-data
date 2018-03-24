@@ -3920,6 +3920,16 @@
       {
         "site": "bangumi",
         "id": "89279"
+      },
+      {
+        "site": "pptv",
+        "id": "NQHradE3pibVIxia4",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -4003,6 +4013,66 @@
         "begin": "2013-11-24T08:28:42.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "12歳。",
+    "titleTranslate": {
+      "zh-Hans": [
+        "12岁。"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2014-04-03T16:00:00.000Z",
+    "end": "2014-12-27T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "101268"
+      },
+      {
+        "site": "pptv",
+        "id": "SNKibPKQKergbmQE",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "たまこラブストーリー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "玉子爱情故事"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://tamakolovestory.com",
+    "begin": "2014-04-26T16:00:00.000Z",
+    "end": "2014-04-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "90880"
+      },
+      {
+        "site": "pptv",
+        "id": "7HZia4EiauHlyicPaU",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""

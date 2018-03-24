@@ -29,5 +29,35 @@
         "id": "211293"
       }
     ]
+  },
+  {
+    "title": "あじむ 〜海岸物語〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海岸物语"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-06-15T16:00:00.000Z",
+    "end": "2002-02-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "61959"
+      },
+      {
+        "site": "pptv",
+        "id": "AyoVkicth0Q9y8Fg",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

@@ -26,6 +26,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "ibZ32dNxCsvBT0Tk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -116,6 +126,36 @@
       {
         "site": "bangumi",
         "id": "41867"
+      }
+    ]
+  },
+  {
+    "title": "絶愛",
+    "titleTranslate": {
+      "zh-Hans": [
+        "绝爱"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-07-29T16:00:00.000Z",
+    "end": "1992-07-29T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "5425"
+      },
+      {
+        "site": "pptv",
+        "id": "u4B7ibWHHN3XYVr4",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
       }
     ]
   }

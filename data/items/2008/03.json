@@ -159,6 +159,16 @@
       {
         "site": "bangumi",
         "id": "476"
+      },
+      {
+        "site": "pptv",
+        "id": "7qoHhe1TwwFk4ko",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -294,6 +304,36 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "超劇場版ケロロ軍曹3 ケロロ対ケロロ天空大決戦であります!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超剧场版 Keroro军曹3 Keroro 对 Keroro 天空大决战"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.keroro-movie.net/",
+    "begin": "2008-03-01T16:00:00.000Z",
+    "end": "2008-03-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3763"
+      },
+      {
+        "site": "pptv",
+        "id": "9LQdmwNp2Rd6ibGA",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       }
     ]

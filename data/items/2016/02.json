@@ -205,5 +205,95 @@
         "id": "168898"
       }
     ]
+  },
+  {
+    "title": "探偵オペラ ミルキィホームズ ～逆襲のミルキィホームズ～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "侦探歌剧 少女福尔摩斯 ～逆袭的少女福尔摩斯～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.mh-movie.com/",
+    "begin": "2016-02-27T16:00:00.000Z",
+    "end": "2016-02-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "144465"
+      },
+      {
+        "site": "pptv",
+        "id": "TicbiaYMguntwicvSU",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 selector destructed WIXOSS",
+    "titleTranslate": {
+      "zh-Hans": [
+        "选择破坏者WIXOSS"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://selector-wixoss.com/movie/",
+    "begin": "2016-02-13T16:00:00.000Z",
+    "end": "2016-02-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "131540"
+      },
+      {
+        "site": "pptv",
+        "id": "kbqWFHziaUpDzcdk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "新劇場版 頭文字D Legend3 -夢現-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "头文字D Legend3 -梦现-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://initiald-movie.com",
+    "begin": "2016-02-06T16:00:00.000Z",
+    "end": "2016-02-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "111761"
+      },
+      {
+        "site": "pptv",
+        "id": "cOzIRq4UhMIlows",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

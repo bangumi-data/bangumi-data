@@ -58,5 +58,65 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "劇場版 マクロスF 虚空歌姫〜イツワリノウタヒメ〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 超时空要塞F 虚空歌姬"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.macrossf.com",
+    "begin": "2009-11-21T16:00:00.000Z",
+    "end": "2009-11-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "2504"
+      },
+      {
+        "site": "pptv",
+        "id": "kHicUUrogkM4xrxc",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "懺・さよなら絶望先生 番外地",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忏・再见绝望先生 番外地"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://zetsubou.kc.kodansha.co.jp/",
+    "begin": "2009-11-17T16:00:00.000Z",
+    "end": "2009-11-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3805"
+      },
+      {
+        "site": "pptv",
+        "id": "T39JxyibVBUOmJIw",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

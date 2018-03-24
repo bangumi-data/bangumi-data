@@ -270,6 +270,76 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "WJRw7la8LGrNS7M",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "グラール騎士団",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哥拉尔骑士团"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://goulart.jp/",
+    "begin": "2010-12-18T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10570"
+      },
+      {
+        "site": "pptv",
+        "id": "gLaRD3fdTYvubNQ",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "怪物王女 OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪物王女 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2010-12-09T16:00:00.000Z",
+    "end": "2011-10-07T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10488"
+      },
+      {
+        "site": "pptv",
+        "id": "b9eyMJjibbqwPjfU",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

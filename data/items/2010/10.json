@@ -1072,6 +1072,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "WJRw7la8LGrNS7M",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1088,6 +1098,96 @@
       {
         "site": "bangumi",
         "id": "238449"
+      }
+    ]
+  },
+  {
+    "title": "ひだまりスケッチ×☆☆☆ 特別編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "向阳素描×☆☆☆ 特别篇"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.tbs.co.jp/anime/hidamari/index-j.html",
+    "begin": "2010-10-27T16:00:00.000Z",
+    "end": "2010-10-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "9639"
+      },
+      {
+        "site": "pptv",
+        "id": "LxnkYsowoN5Bvyc",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "夜桜四重奏 〜ホシノウミ〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "夜樱四重奏 星之海"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://kc.kodansha.co.jp/yozakura/",
+    "begin": "2010-10-08T16:00:00.000Z",
+    "end": "2011-11-09T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "9385"
+      },
+      {
+        "site": "pptv",
+        "id": "ZdSvLZX7a6kMiavI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ひよ恋",
+    "titleTranslate": {
+      "zh-Hans": [
+        "绯色恋"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2010-10-02T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "9380"
+      },
+      {
+        "site": "pptv",
+        "id": "JBXwbtY8rOpNyzM",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

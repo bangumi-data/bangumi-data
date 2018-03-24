@@ -423,7 +423,7 @@
     "sites": [
       {
         "site": "pptv",
-        "id": "Lx33dd1DsicFU0jo",
+        "id": "xmdRzzedDUuuLJQ",
         "begin": "",
         "official": false,
         "premuiumOnly": false,
@@ -463,6 +463,46 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "speBic2fNPXveXMQ",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "Wake Up, Girls! Beyond the Bottom",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Wake Up, Girls! 超越深限"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://wakeupgirls2.jp/",
+    "begin": "2015-12-11T16:00:00.000Z",
+    "end": "2015-12-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "128801"
+      },
+      {
+        "site": "pptv",
+        "id": "Vib7KSLAWhsQnpQ0",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]

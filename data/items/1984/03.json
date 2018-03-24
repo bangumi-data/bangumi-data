@@ -26,6 +26,16 @@
       {
         "site": "bangumi",
         "id": "439"
+      },
+      {
+        "site": "pptv",
+        "id": "7qoHhe1TwwFk4ko",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -53,6 +63,36 @@
         "begin": "2011-11-30T06:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "名探偵ホームズ 青い紅玉の巻/海底の財宝の巻",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探福尔摩斯 蓝柘榴石之卷/海底的财宝之卷"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1984-03-11T16:00:00.000Z",
+    "end": "1984-03-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "72554"
+      },
+      {
+        "site": "pptv",
+        "id": "DwzoZs40pOJFwys",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""

@@ -568,6 +568,16 @@
       {
         "site": "bangumi",
         "id": "2969"
+      },
+      {
+        "site": "pptv",
+        "id": "NQHradE3pibVIxia4",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -708,6 +718,36 @@
       {
         "site": "bangumi",
         "id": "51359"
+      }
+    ]
+  },
+  {
+    "title": "夢で逢えたら〜OVAストーリーズ〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "如果在梦里遇见你 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1998-04-21T16:00:00.000Z",
+    "end": "1998-12-19T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "45772"
+      },
+      {
+        "site": "pptv",
+        "id": "Y9eyMJjibbqwPjfU",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

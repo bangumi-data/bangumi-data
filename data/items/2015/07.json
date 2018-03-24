@@ -4107,6 +4107,16 @@
       {
         "site": "bangumi",
         "id": "108820"
+      },
+      {
+        "site": "pptv",
+        "id": "jLiaUEnrgUI7xb9c",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -4272,6 +4282,36 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "12歳。 第2期",
+    "titleTranslate": {
+      "zh-Hans": [
+        "12岁 第二季"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2015-07-03T16:00:00.000Z",
+    "end": "2015-12-01T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "139786"
+      },
+      {
+        "site": "pptv",
+        "id": "Ig3nZc0zoibFEwiao",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]

@@ -4415,5 +4415,35 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "ゼーガペイン ADP",
+    "titleTranslate": {
+      "zh-Hans": [
+        "ZEGAPAIN ADP"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.zegapain.net/",
+    "begin": "2016-10-15T16:00:00.000Z",
+    "end": "2016-10-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "175581"
+      },
+      {
+        "site": "pptv",
+        "id": "61E7uSGH9zWYFn4",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

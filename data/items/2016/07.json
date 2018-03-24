@@ -960,6 +960,16 @@
         "comment": ""
       },
       {
+        "site": "sohu",
+        "id": "s2018/dhpnewgame",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
         "site": "youku",
         "id": "c9b2f1283cd611e6abda",
         "begin": "2016-07-05T17:00:00.000Z",
@@ -1760,6 +1770,16 @@
         "site": "pptv",
         "id": "FSQQjvZczApt61M",
         "begin": "2016-07-06T14:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "sohu",
+        "id": "s2018/dhpyuege",
+        "begin": "",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -3228,6 +3248,16 @@
       {
         "site": "bangumi",
         "id": "144846"
+      },
+      {
+        "site": "pptv",
+        "id": "uIhk4kqwIF7BP6c",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -3318,6 +3348,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "uYlj4UmvH13APqY",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -3347,6 +3387,36 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ポケモン・ザ・ムービーXY＆Z ボルケニオンと機巧のマギアナ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Pokémon the movie XY&Z 波尔凯尼恩与机巧的玛机雅娜"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-sun-moon.cn/movie/m19/",
+    "begin": "2016-07-16T16:00:00.000Z",
+    "end": "2016-07-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "140307"
+      },
+      {
+        "site": "pptv",
+        "id": "a9ia0MpoAcK4Rjicc",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
         "comment": ""
       }
     ]

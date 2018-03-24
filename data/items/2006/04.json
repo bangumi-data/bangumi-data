@@ -1811,6 +1811,16 @@
       {
         "site": "bangumi",
         "id": "2976"
+      },
+      {
+        "site": "pptv",
+        "id": "NQHradE3pibVIxia4",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1861,6 +1871,36 @@
       {
         "site": "bangumi",
         "id": "2691"
+      }
+    ]
+  },
+  {
+    "title": "大魔法峠",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大魔法峠"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.punie.jp/",
+    "begin": "2006-04-05T16:00:00.000Z",
+    "end": "2007-03-21T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3054"
+      },
+      {
+        "site": "pptv",
+        "id": "ASwXlf1j0xF08lo",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

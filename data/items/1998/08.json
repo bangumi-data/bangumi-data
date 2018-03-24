@@ -46,6 +46,16 @@
       {
         "site": "bangumi",
         "id": "11647"
+      },
+      {
+        "site": "pptv",
+        "id": "RfTgXsYsnNo9uyM",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
       }
     ]
   },
@@ -136,6 +146,36 @@
       {
         "site": "bangumi",
         "id": "23213"
+      }
+    ]
+  },
+  {
+    "title": "機動戦艦ナデシコ -The prince of darkness-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战舰 -The prince of darkness-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.b-ch.com/cgi-bin/contents/ttl/det.cgi?ttl_c=444",
+    "begin": "1998-08-08T16:00:00.000Z",
+    "end": "1998-08-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "516"
+      },
+      {
+        "site": "pptv",
+        "id": "yX1X1T2jE1G0Mpo",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

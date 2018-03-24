@@ -262,5 +262,65 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "劇場版 アイカツ!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "偶像活动 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.aikatsu-movie.net/",
+    "begin": "2014-12-13T16:00:00.000Z",
+    "end": "2014-12-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "98294"
+      },
+      {
+        "site": "pptv",
+        "id": "HQXvbdU7qiblMyjI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "山田くんと7人の魔女 OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "山田君与7位魔女 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.yamajo-anime.com/",
+    "begin": "2014-12-17T16:00:00.000Z",
+    "end": "2015-05-15T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "105951"
+      },
+      {
+        "site": "pptv",
+        "id": "1HBc2kKoGFa5N58",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]
