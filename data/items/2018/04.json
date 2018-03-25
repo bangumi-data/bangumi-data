@@ -464,7 +464,12 @@
     "begin": "2018-04-07T16:30:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "205310"
+      }
+    ]
   },
   {
     "title": "ニル・アドミラリの天秤",
@@ -509,7 +514,12 @@
     "begin": "2018-04-11T16:35:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "129807"
+      }
+    ]
   },
   {
     "title": "ヲタクに恋は難しい",
@@ -648,7 +658,12 @@
     "begin": "2018-04-07T08:35:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "227739"
+      }
+    ]
   },
   {
     "title": "お前はまだグンマを知らない",
@@ -772,14 +787,23 @@
   },
   {
     "title": "ピアノの森(TVシリーズ)",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "钢琴之森"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://piano-anime.jp/",
     "begin": "2018-04-08T15:10:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "228380"
+      }
+    ]
   },
   {
     "title": "ひそねとまそたん",
