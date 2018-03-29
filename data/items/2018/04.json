@@ -202,6 +202,16 @@
       {
         "site": "bangumi",
         "id": "225631"
+      },
+      {
+        "site": "bilibili",
+        "id": "23850",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -419,7 +429,8 @@
     "title": "魔法少女 俺",
     "titleTranslate": {
       "zh-Hans": [
-        "魔法少女☆俺"
+        "魔法少女☆俺",
+        "魔法少女 俺"
       ]
     },
     "type": "tv",
@@ -432,6 +443,16 @@
       {
         "site": "bangumi",
         "id": "109956"
+      },
+      {
+        "site": "bilibili",
+        "id": "23871",
+        "begin": "2018-04-02T14:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -569,6 +590,36 @@
       {
         "site": "bangumi",
         "id": "186180"
+      },
+      {
+        "site": "bilibili",
+        "id": "23811",
+        "begin": "2018-03-28T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh1tbu5",
+        "begin": "2018-03-28T14:55:09.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "e/e3yh815x8vf82oi",
+        "begin": "2018-03-28T15:00:00.000Z",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
