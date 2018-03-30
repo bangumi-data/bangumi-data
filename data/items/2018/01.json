@@ -547,7 +547,7 @@
       {
         "site": "bilibili",
         "id": "21469",
-        "begin": "",
+        "begin": "2018-01-16T17:35:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1995,6 +1995,72 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "22082",
+        "begin": "2018-01-11T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "r/r38rckf1m8686vc",
+        "begin": "2018-01-11T16:00:01.000Z",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "一人之下 第二季",
+    "titleTranslate": {
+      "ja": [
+        "一人之下 the outcast 羅天大醮篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "zh-Hans",
+    "officialSite": "http://hitorinoshita2.com/",
+    "begin": "2018-01-20T18:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "nicovideo",
+        "id": "hitorinoshita2",
+        "begin": "2018-01-09T18:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "6402",
+        "begin": "2017-10-27T02:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "3/3enwc74hj562xjd",
+        "begin": "2018-01-20T18:00:00.000Z",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2037,6 +2103,46 @@
     },
     "type": "tv",
     "lang": "ja",
+    "officialSite": "http://ginno-guardian.jp/",
+    "begin": "2018-01-13T12:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "217239"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ginno-guardian2",
+        "begin": "2018-01-13T13:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "efbfbd15d385efbfbdef",
+        "begin": "2018-01-11T02:00:07.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "银之守墓人 第二季",
+    "titleTranslate": {
+      "ja": [
+        "銀の墓守りII"
+      ]
+    },
+    "type": "tv",
+    "lang": "zh-Hans",
     "officialSite": "http://ginno-guardian.jp/",
     "begin": "2018-01-13T12:00:00.000Z",
     "end": "",
