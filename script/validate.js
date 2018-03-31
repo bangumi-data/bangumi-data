@@ -57,14 +57,15 @@ const validateUniqueBangumiId = readJsonPaths(ITEMS_DIRECTORY)
                 if (!id) {
                     return;
                 }
-                if (idMap[id]) {
+                const key = `${itemData.lang}_${id}`;
+                if (idMap[key]) {
                     const paths = [
-                        path.relative(ITEMS_DIRECTORY, idMap[id]),
+                        path.relative(ITEMS_DIRECTORY, idMap[key]),
                         path.relative(ITEMS_DIRECTORY, itemPath)
                     ];
                     throw new Error(`Bangumi ID ${id} is duplicated in ${paths.join(' and ')}`);
                 }
-                idMap[id] = itemPath;
+                idMap[key] = itemPath;
             });
         });
     });
