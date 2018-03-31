@@ -159,5 +159,38 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "サイボーグ009 CALL OF JUSTICE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "人造人009"
+      ],
+      "en": [
+        "CYBORG009 CALL OF JUSTICE"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.cyborg009.jp",
+    "begin": "2016-11-23T16:00:00.000Z",
+    "end": "2016-11-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "187465"
+      },
+      {
+        "site": "netflix",
+        "id": "80057749",
+        "begin": "2017-02-10T08:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": "虽然 Type 为 movie 但是 Netflix 目前将其做成 14 集 TV 分割形式放送"
+      }
+    ]
   }
 ]

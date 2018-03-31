@@ -3,7 +3,8 @@
     "title": "ドキドキ！プリキュア",
     "titleTranslate": {
       "en": [
-        "DOKIDOKI! PRECURE"
+        "DOKIDOKI! PRECURE",
+        "Glitter Force Doki Doki"
       ],
       "zh-Hans": [
         "DokiDoki! 光之美少女",
@@ -40,6 +41,16 @@
       {
         "site": "bangumi",
         "id": "55100"
+      },
+      {
+        "site": "netflix",
+        "id": "80175619",
+        "begin": "2017-08-18T07:00:00.000Z",
+        "official": null,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },

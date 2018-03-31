@@ -222,5 +222,38 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "サイボーグ009VSデビルマン",
+    "titleTranslate": {
+      "en": [
+        "Cyborg 009 VS Devilman"
+      ],
+      "zh-Hans": [
+        "人造人009VS恶魔人"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://009vsdevilman.com/",
+    "begin": "2015-11-10T16:00:00.000Z",
+    "end": "2015-11-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "129976"
+      },
+      {
+        "site": "netflix",
+        "id": "80094557",
+        "begin": "2016-04-01T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": "分割为 TV 放送"
+      }
+    ]
   }
 ]

@@ -1543,11 +1543,10 @@
     "title": "ID-0",
     "titleTranslate": {
       "zh-Hans": [
-        "ID-0",
-        "迷你动画剧场ID-0问答"
+        "ID-0"
       ],
       "en": [
-        "ID-0 ALL MEMORIES EXIST WITH \"I-Machines\""
+        "ID-0"
       ]
     },
     "type": "tv",
@@ -1600,6 +1599,16 @@
       {
         "site": "bangumi",
         "id": "189446"
+      },
+      {
+        "site": "netflix",
+        "id": "80174918",
+        "begin": "2017-10-06T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },

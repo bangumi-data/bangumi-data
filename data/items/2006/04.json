@@ -354,6 +354,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "樱兰高校男公关部"
+      ],
+      "en": [
+        "Ouran High School Host Club"
       ]
     },
     "type": "tv",
@@ -392,6 +395,16 @@
         "id": "hostbu",
         "begin": "2014-04-15T06:00:00.000Z",
         "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "70205014",
+        "begin": "2017-04-01T07:00:00.000Z",
+        "official": null,
         "premuiumOnly": true,
         "censored": null,
         "exist": true,

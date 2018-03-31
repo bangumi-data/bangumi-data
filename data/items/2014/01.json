@@ -1343,6 +1343,16 @@
       {
         "site": "saraba1st",
         "id": "988689"
+      },
+      {
+        "site": "netflix",
+        "id": "80041161",
+        "begin": "2015-08-01T07:00:00.000Z",
+        "official": null,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2814,6 +2824,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "虫师 蚀日之翳"
+      ],
+      "en": [
+        "Mushi-Shi -Next Passage-"
       ]
     },
     "type": "tv",
@@ -2835,6 +2848,16 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "70205008",
+        "begin": "2015-08-01T07:00:00.000Z",
+        "official": null,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]

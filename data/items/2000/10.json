@@ -127,6 +127,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "犬夜叉"
+      ],
+      "en": [
+        "InuYasha"
       ]
     },
     "type": "tv",
@@ -159,6 +162,16 @@
       {
         "site": "bangumi",
         "id": "2784"
+      },
+      {
+        "site": "netflix",
+        "id": "70204995",
+        "begin": "2016-12-15T08:00:00.000Z",
+        "official": null,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },

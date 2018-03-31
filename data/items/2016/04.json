@@ -2386,7 +2386,8 @@
     "title": "クロムクロ",
     "titleTranslate": {
       "zh-Hans": [
-        "黑色残骸"
+        "黑色残骸",
+        "黑骸"
       ],
       "en": [
         "KUROMUKURO"
@@ -2452,6 +2453,16 @@
         "id": "kuromukuro",
         "begin": "2017-01-18T06:00:00.000Z",
         "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80103318",
+        "begin": "2016-07-04T07:00:00.000Z",
+        "official": null,
         "premuiumOnly": true,
         "censored": null,
         "exist": true,
@@ -3250,6 +3261,16 @@
       {
         "site": "saraba1st",
         "id": "1158991"
+      },
+      {
+        "site": "netflix",
+        "id": "80103331",
+        "begin": "2016-07-14T07:00:00.000Z",
+        "official": null,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },

@@ -546,6 +546,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80180849",
+        "begin": "2017-11-07T08:00:00.000Z",
+        "official": null,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -870,6 +880,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "狂赌之渊"
+      ],
+      "en": [
+        "Kakegurui"
       ]
     },
     "type": "tv",
@@ -891,6 +904,16 @@
         "premuiumOnly": false,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80175351",
+        "begin": "2018-02-01T08:00:00.000Z",
+        "official": null,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -2430,6 +2453,36 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "Castlevania",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恶魔城"
+      ]
+    },
+    "type": "web",
+    "lang": "en",
+    "officialSite": "https://www.netflix.com/title/80095241",
+    "begin": "2017-07-07T07:00:00.000Z",
+    "end": "2017-07-07T07:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "208708"
+      },
+      {
+        "site": "netflix",
+        "id": "80095241",
+        "begin": "2017-07-07T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": true,
         "comment": ""
