@@ -342,5 +342,35 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "劇場版BLEACH 地獄篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "死神剧场版 地狱篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/bleach/",
+    "begin": "2010-12-03T16:00:00.000Z",
+    "end": "2010-12-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "18480"
+      },
+      {
+        "site": "netflix",
+        "id": "70260383",
+        "begin": "2016-10-15T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

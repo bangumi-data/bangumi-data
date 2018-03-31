@@ -191,6 +191,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "剑风传奇 黄金时代篇I 霸王之卵"
+      ],
+      "en": [
+        "Berserk: The Golden Age Arc I - The Egg of the King"
       ]
     },
     "type": "movie",
@@ -209,6 +212,16 @@
         "id": "berserkfilm",
         "begin": "2017-03-03T06:00:00.000Z",
         "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "70258995",
+        "begin": "2016-10-15T07:00:00.000Z",
+        "official": null,
         "premuiumOnly": true,
         "censored": null,
         "exist": true,

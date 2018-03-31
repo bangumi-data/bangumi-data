@@ -181,5 +181,35 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "HALO Legends",
+    "titleTranslate": {
+      "zh-Hans": [
+        "光环：传奇"
+      ]
+    },
+    "type": "movie",
+    "lang": "en",
+    "officialSite": "http://warnervideo.com/halolegendsdvd/",
+    "begin": "2010-02-16T00:00:00.000Z",
+    "end": "2010-02-16T00:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3782"
+      },
+      {
+        "site": "netflix",
+        "id": "70129415",
+        "begin": "2017-05-01T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

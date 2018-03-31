@@ -58,5 +58,38 @@
         "id": "18179"
       }
     ]
+  },
+  {
+    "title": "劇場版BLEACH Fade to Black 君の名を呼ぶ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "死神剧场版 消逝于黑暗中 呼唤着你的名字"
+      ],
+      "en": [
+        "Bleach The Movie: Fade to Black"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/bleach/",
+    "begin": "2008-12-12T16:00:00.000Z",
+    "end": "2008-12-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "2875"
+      },
+      {
+        "site": "netflix",
+        "id": "70208801",
+        "begin": "2016-10-15T07:00:00.000Z",
+        "official": null,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]
