@@ -1,25 +1,5 @@
 [
   {
-    "title": "あまんちゅ！～あどばんす～",
-    "titleTranslate": {
-      "zh-Hans": [
-        "蓝海少女 第二季"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://amanchu-anime.com/",
-    "begin": "2018-03-25T11:30:00.000Z",
-    "end": "",
-    "comment": "",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "229947"
-      }
-    ]
-  },
-  {
     "title": "デュエル・マスターズ！",
     "titleTranslate": {
       "en": [
@@ -39,6 +19,82 @@
       {
         "site": "bangumi",
         "id": "240513"
+      },
+      {
+        "site": "nicovideo",
+        "id": "duelmasters_2018",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "キャラとおたまじゃくし島",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www6.nhk.or.jp/nhkpr/post/original.html?i=13624&f=prtw",
+    "begin": "2018-03-29T15:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "239747"
+      }
+    ]
+  },
+  {
+    "title": "ソードガイ The Animation",
+    "titleTranslate": {
+      "zh-Hans": [
+        "SWORD GAI 装刀凯"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://swordgai-anime.com/",
+    "begin": "2018-03-23T16:00:00.000Z",
+    "end": "2018-03-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "114706"
+      },
+      {
+        "site": "bilibili",
+        "id": "23875",
+        "begin": "2018-03-31T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgzccfp",
+        "begin": "2018-03-24T08:55:06.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "08b5b5f6e42e11e5a080",
+        "begin": "2018-03-24T08:58:06.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }
