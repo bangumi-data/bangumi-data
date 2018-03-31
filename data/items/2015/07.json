@@ -1397,6 +1397,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80040119",
+        "begin": "2015-10-09T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -4015,6 +4025,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "小魔女学园 魔法游行"
+      ],
+      "en": [
+        "Little Witch Academia: The Enchanted Parade"
       ]
     },
     "type": "movie",
@@ -4037,6 +4050,16 @@
       {
         "site": "bangumi",
         "id": "124646"
+      },
+      {
+        "site": "netflix",
+        "id": "80078599",
+        "begin": "2015-10-09T19:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },

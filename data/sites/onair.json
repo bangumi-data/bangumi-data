@@ -50,5 +50,9 @@
   "nicovideo": {
     "title": "Niconico",
     "urlTemplate": "http://ch.nicovideo.jp/{{id}}"
+  },
+  "netflix": {
+    "title": "Netflix",
+    "urlTemplate": "https://www.netflix.com/title/{{id}}"
   }
 }

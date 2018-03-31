@@ -168,5 +168,38 @@
         "id": "2083"
       }
     ]
+  },
+  {
+    "title": "劇場版 NARUTO -ナルト- 大興奮!みかづき島のアニマル騒動だってばよ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "火影忍者剧场版 大兴奋！三日月岛上的动物骚乱"
+      ],
+      "en": [
+        "Naruto the Movie 3: Guardians of the Crescent Moon Kingdom"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://web.archive.org/web/20081216021804/http://pierrot.jp/title/naruto/movie2006/index.html",
+    "begin": "2006-08-04T16:00:00.000Z",
+    "end": "2006-08-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "22108"
+      },
+      {
+        "site": "netflix",
+        "id": "70108386",
+        "begin": "2017-09-01T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

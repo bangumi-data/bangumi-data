@@ -236,6 +236,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "女神异闻录3 剧场版 第二章 仲夏骑士之梦"
+      ],
+      "en": [
+        "Persona 3 the Movie: #2 Midsummer Knight's Dream"
       ]
     },
     "type": "movie",
@@ -257,6 +260,49 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80040329",
+        "begin": "2015-08-07T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "攻殻機動隊ARISE border:3 Ghost Tears",
+    "titleTranslate": {
+      "zh-Hans": [
+        "攻壳机动队ARISE border:3 Ghost Tears"
+      ],
+      "en": [
+        "Ghost in the Shell: Arise – Border 3: Ghost Tears"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kokaku-a.jp/arise/",
+    "begin": "2014-06-17T16:00:00.000Z",
+    "end": "2014-06-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "89486"
+      },
+      {
+        "site": "netflix",
+        "id": "80021983",
+        "begin": "2017-01-31T08:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]

@@ -137,6 +137,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "噬魂师"
+      ],
+      "en": [
+        "Soul Eater"
       ]
     },
     "type": "tv",
@@ -154,6 +157,16 @@
         "site": "nicovideo",
         "id": "souleater",
         "begin": "2012-04-18T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "70205024",
+        "begin": "2017-12-01T08:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
@@ -794,6 +807,16 @@
         "site": "nicovideo",
         "id": "vampire-knight",
         "begin": "2014-10-08T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "70309457",
+        "begin": "2016-10-15T07:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,

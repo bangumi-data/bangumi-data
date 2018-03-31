@@ -284,6 +284,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "青之驱魔师"
+      ],
+      "en": [
+        "Blue Exorcist"
       ]
     },
     "type": "tv",
@@ -331,6 +334,16 @@
         "site": "nicovideo",
         "id": "ao-ex",
         "begin": "2012-08-08T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "70304252",
+        "begin": "2017-03-02T07:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
@@ -937,6 +950,16 @@
       {
         "site": "bangumi",
         "id": "10385"
+      },
+      {
+        "site": "netflix",
+        "id": "80039972",
+        "begin": "2017-10-15T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },

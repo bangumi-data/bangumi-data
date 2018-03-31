@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "犬夜叉 红莲之蓬莱岛"
+      ],
+      "en": [
+        "InuYasha: The Movie 4: Fire on the Mystic Island"
       ]
     },
     "type": "movie",
@@ -46,6 +49,16 @@
       {
         "site": "bangumi",
         "id": "19392"
+      },
+      {
+        "site": "netflix",
+        "id": "70052492",
+        "begin": "2017-09-01T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

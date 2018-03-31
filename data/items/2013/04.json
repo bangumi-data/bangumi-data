@@ -344,6 +344,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80006149",
+        "begin": "2017-01-31T08:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -595,6 +605,16 @@
         "site": "nicovideo",
         "id": "shingeki",
         "begin": "2013-04-10T13:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "70299043",
+        "begin": "2017-01-10T08:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
@@ -1023,6 +1043,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "翠星之加尔刚蒂亚"
+      ],
+      "en": [
+        "Gargantia on the Verdurous Planet"
       ]
     },
     "type": "tv",
@@ -1054,6 +1077,16 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80039789",
+        "begin": "2016-12-01T08:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]

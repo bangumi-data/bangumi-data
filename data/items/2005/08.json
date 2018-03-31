@@ -147,5 +147,38 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "劇場版 NARUTO -ナルト- 大激突!幻の地底遺跡だってばよ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "火影忍者剧场版 大激突！幻之地底遗迹"
+      ],
+      "en": [
+        "Naruto the Movie 2: Legend of the Stone of Gelel"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://web.archive.org/web/20090220135714/http://pierrot.jp/title/naruto/movie2005/index.html",
+    "begin": "2005-08-05T16:00:00.000Z",
+    "end": "2005-08-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "22109"
+      },
+      {
+        "site": "netflix",
+        "id": "70101321",
+        "begin": "2017-09-01T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

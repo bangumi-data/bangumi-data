@@ -126,6 +126,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "70204980",
+        "begin": "2018-01-01T08:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -443,6 +453,9 @@
       "zh-Hans": [
         "神枪少女",
         "枪姬"
+      ],
+      "en": [
+        "GUNSLINGER GIRL"
       ]
     },
     "type": "tv",
@@ -475,6 +488,16 @@
       {
         "site": "bangumi",
         "id": "3304"
+      },
+      {
+        "site": "netflix",
+        "id": "70204989",
+        "begin": "2018-01-01T08:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },

@@ -78,5 +78,38 @@
         "id": "55603"
       }
     ]
+  },
+  {
+    "title": "劇場版 NARUTO -ナルト- 大活劇!雪姫忍法帖だってばよ!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "火影忍者剧场版 大活剧！雪姬忍法帖！！"
+      ],
+      "en": [
+        "Naruto the Movie: Ninja Clash in the Land of Snow"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://web.archive.org/web/20090416194756/http://pierrot.jp/title/naruto/movie/index.html",
+    "begin": "2004-08-20T16:00:00.000Z",
+    "end": "2004-08-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "22107"
+      },
+      {
+        "site": "netflix",
+        "id": "70074559",
+        "begin": "2017-09-01T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

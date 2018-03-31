@@ -36,7 +36,8 @@
     "title": "スマイルプリキュア！",
     "titleTranslate": {
       "en": [
-        "SMILE PRECURE!"
+        "SMILE PRECURE!",
+        "Glitter Force"
       ],
       "zh-Hans": [
         "Smile 光之美少女！"
@@ -72,6 +73,16 @@
       {
         "site": "bangumi",
         "id": "27332"
+      },
+      {
+        "site": "netflix",
+        "id": "80057968",
+        "begin": "2015-12-18T08:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -180,6 +191,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "剑风传奇 黄金时代篇I 霸王之卵"
+      ],
+      "en": [
+        "Berserk: The Golden Age Arc I - The Egg of the King"
       ]
     },
     "type": "movie",
@@ -197,6 +211,16 @@
         "site": "nicovideo",
         "id": "berserkfilm",
         "begin": "2017-03-03T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "70258995",
+        "begin": "2016-10-15T07:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,

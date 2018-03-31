@@ -6,7 +6,8 @@
         "名侦探柯南"
       ],
       "en": [
-        "Detective Conan"
+        "Detective Conan",
+        "Case Closed"
       ]
     },
     "type": "tv",
@@ -99,6 +100,16 @@
       {
         "site": "bangumi",
         "id": "899"
+      },
+      {
+        "site": "netflix",
+        "id": "80090370",
+        "begin": "2016-01-01T08:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -167,6 +178,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "浪客剑心"
+      ],
+      "en": [
+        "Rurouni Kenshin"
       ]
     },
     "type": "tv",
@@ -204,6 +218,16 @@
         "site": "nicovideo",
         "id": "rurouni-kenshin-tokyo",
         "begin": "2014-09-13T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80016571",
+        "begin": "2016-01-01T08:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,

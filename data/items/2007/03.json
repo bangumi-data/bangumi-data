@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "天元突破 红莲螺岩"
+      ],
+      "en": [
+        "Gurren Lagann"
       ]
     },
     "type": "tv",
@@ -41,6 +44,16 @@
         "site": "nicovideo",
         "id": "gurren-lagann",
         "begin": "2015-12-28T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "70213196",
+        "begin": "2017-09-01T07:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,

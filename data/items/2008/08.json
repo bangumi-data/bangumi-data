@@ -74,5 +74,38 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "劇場版 NARUTO -ナルト- 疾風伝 絆",
+    "titleTranslate": {
+      "zh-Hans": [
+        "火影忍者疾风传 剧场版 羁绊"
+      ],
+      "en": [
+        "Naruto Shippuden the Movie: Bonds"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.naruto-movie.com/",
+    "begin": "2008-08-01T16:00:00.000Z",
+    "end": "2008-08-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "22444"
+      },
+      {
+        "site": "netflix",
+        "id": "70105699",
+        "begin": "2016-10-15T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

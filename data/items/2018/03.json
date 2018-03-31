@@ -97,5 +97,66 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "B: The Beginning",
+    "titleTranslate": {
+      "zh-Hans": [
+        "B：彼之初",
+        "B：起点"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.b-animation.jp/",
+    "begin": "2018-03-02T08:00:00.000Z",
+    "end": "2018-03-02T08:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "170241"
+      },
+      {
+        "site": "netflix",
+        "id": "80097594",
+        "begin": "2018-03-02T08:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "A.I.C.O. Incarnation",
+    "titleTranslate": {
+      "zh-Hans": [
+        "A.I.C.O.：化身"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.project-aico.com/",
+    "begin": "2018-03-09T08:00:00.000Z",
+    "end": "2018-03-09T08:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "221292"
+      },
+      {
+        "site": "netflix",
+        "id": "80161848",
+        "begin": "2018-03-09T08:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

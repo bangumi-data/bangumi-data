@@ -640,6 +640,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "Fate/stay night [Unlimited Blade Works]"
+      ],
+      "en": [
+        "Fate/stay night: Unlimited Blade Works"
       ]
     },
     "type": "tv",
@@ -731,6 +734,16 @@
         "site": "nicovideo",
         "id": "fate-sn2",
         "begin": "2014-10-04T17:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80040330",
+        "begin": "2015-08-01T07:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
@@ -1147,6 +1160,16 @@
         "site": "nicovideo",
         "id": "7-taizai",
         "begin": "2014-10-11T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80050063",
+        "begin": "2015-11-01T07:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
@@ -2536,6 +2559,16 @@
       {
         "site": "saraba1st",
         "id": "1042677"
+      },
+      {
+        "site": "netflix",
+        "id": "80041089",
+        "begin": "2016-03-01T08:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
