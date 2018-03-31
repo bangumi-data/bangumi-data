@@ -220,6 +220,16 @@
       {
         "site": "bangumi",
         "id": "113078"
+      },
+      {
+        "site": "bilibili",
+        "id": "343",
+        "begin": "2014-09-26T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -306,6 +316,35 @@
         "premuiumOnly": true,
         "censored": false,
         "lang": "ja",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ディーふらぐ! OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "属性同好会 OAD"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2014-09-23T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "100705"
+      },
+      {
+        "site": "pptv",
+        "id": "xV85txibF9TOWFHw",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
         "comment": ""
       }
     ]

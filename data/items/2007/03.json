@@ -239,6 +239,16 @@
       {
         "site": "bangumi",
         "id": "475"
+      },
+      {
+        "site": "pptv",
+        "id": "7qoHhe1TwwFk4ko",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -301,6 +311,64 @@
         "premuiumOnly": true,
         "censored": false,
         "lang": "ja",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "MURDER PRINCESS",
+    "titleTranslate": {
+      "zh-Hans": [
+        "杀戮公主"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2007-03-28T16:00:00.000Z",
+    "end": "2007-08-29T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1265"
+      },
+      {
+        "site": "pptv",
+        "id": "Z9umJIzyYqADgek",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "超劇場版ケロロ軍曹2 深海のプリンセスであります!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超剧场版 Keroro军曹2 深海的公主"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.keroro-movie.net/",
+    "begin": "2007-03-17T16:00:00.000Z",
+    "end": "2007-03-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3762"
+      },
+      {
+        "site": "pptv",
+        "id": "9LQdmwNp2Rd6ibGA",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
         "comment": ""
       }
     ]

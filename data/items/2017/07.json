@@ -865,7 +865,7 @@
       {
         "site": "youku",
         "id": "5f6aefbfbd7a54efbfbd",
-        "begin": "",
+        "begin": "2017-08-03T02:14:27.000Z",
         "official": false,
         "premuiumOnly": false,
         "censored": false,
@@ -1598,6 +1598,16 @@
         "censored": false,
         "lang": "ja",
         "comment": ""
+      },
+      {
+        "site": "sohu",
+        "id": "s2018/18ifmjywl",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -1980,6 +1990,16 @@
         "comment": ""
       },
       {
+        "site": "sohu",
+        "id": "s2018/dhpnewgame2",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "nicovideo",
         "id": "newgame2",
         "begin": "2017-07-18T15:30:00.000Z",
@@ -2328,6 +2348,35 @@
         "premuiumOnly": true,
         "censored": false,
         "lang": "ja",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "結城友奈は勇者である -鷲尾須美の章- 第3章 やくそく",
+    "titleTranslate": {
+      "zh-Hans": [
+        "结城友奈是勇者 -鹫尾须美之章- 第3章 约定"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://yuyuyu.tv/washio/",
+    "begin": "2017-07-08T16:00:00.000Z",
+    "end": "2017-07-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "207168"
+      },
+      {
+        "site": "pptv",
+        "id": "KAicpZ881peNGxCw",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
         "comment": ""
       }
     ]

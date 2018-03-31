@@ -190,6 +190,45 @@
         "censored": false,
         "lang": "ja",
         "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "1X1X1T2jE1G0Mpo",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "アイカツ！ミュージックアワード みんなで賞をもらっちゃいまSHOW！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "偶像活动 MUSIC AWARD 让我们一起领奖吧！"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.aikatsu.com/event/ma2015/",
+    "begin": "2015-08-22T16:00:00.000Z",
+    "end": "2015-08-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "120188"
+      },
+      {
+        "site": "pptv",
+        "id": "HQXvbdU7qiblMyjI",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   }

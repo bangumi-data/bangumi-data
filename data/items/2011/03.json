@@ -180,6 +180,16 @@
       {
         "site": "bangumi",
         "id": "19130"
+      },
+      {
+        "site": "pptv",
+        "id": "7qoHhe1TwwFk4ko",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -343,6 +353,35 @@
         "premuiumOnly": true,
         "censored": false,
         "lang": "ja",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ショコラの魔法",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法巧克力专门店"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2011-03-03T16:00:00.000Z",
+    "end": "2012-12-28T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10461"
+      },
+      {
+        "site": "pptv",
+        "id": "Zb6aGIDmVpT3dd0",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
         "comment": ""
       }
     ]

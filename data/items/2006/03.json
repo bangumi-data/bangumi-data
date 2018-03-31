@@ -103,6 +103,16 @@
       {
         "site": "bangumi",
         "id": "473"
+      },
+      {
+        "site": "pptv",
+        "id": "7qoHhe1TwwFk4ko",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -248,6 +258,35 @@
       {
         "site": "bangumi",
         "id": "764"
+      }
+    ]
+  },
+  {
+    "title": "超劇場版ケロロ軍曹",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超剧场版 Keroro军曹"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.keroro-movie.net/",
+    "begin": "2006-03-11T16:00:00.000Z",
+    "end": "2006-03-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3761"
+      },
+      {
+        "site": "pptv",
+        "id": "9LQdmwNp2Rd6ibGA",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   }

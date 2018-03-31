@@ -161,6 +161,16 @@
       {
         "site": "bangumi",
         "id": "95800"
+      },
+      {
+        "site": "pptv",
+        "id": "BiaELiafFXxwVo5k4",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -190,6 +200,93 @@
       {
         "site": "bangumi",
         "id": "100450"
+      }
+    ]
+  },
+  {
+    "title": "宇宙兄弟#0",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙兄弟#0"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://wwws.warnerbros.co.jp/uchukyodai-movie/",
+    "begin": "2014-08-09T16:00:00.000Z",
+    "end": "2014-08-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "90502"
+      },
+      {
+        "site": "pptv",
+        "id": "fsmjIYnvX50AfuY",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "新劇場版 頭文字D Legend1 -覚醒-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "头文字D Legend1 -觉醒-"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://initiald-movie.com/",
+    "begin": "2014-08-23T16:00:00.000Z",
+    "end": "2014-08-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "78796"
+      },
+      {
+        "site": "pptv",
+        "id": "cOzIRq4UhMIlows",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "アオハライド OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "青春之旅 OAD"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://aoha-anime.com/",
+    "begin": "2014-08-25T16:00:00.000Z",
+    "end": "2014-12-12T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "103812"
+      },
+      {
+        "site": "pptv",
+        "id": "xWpGxCySAkCjIYk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   }

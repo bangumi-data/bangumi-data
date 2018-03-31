@@ -702,13 +702,13 @@
     ]
   },
   {
-    "title": "霊剣山 星屑たちの宴",
+    "title": "从前有座灵剑山",
     "titleTranslate": {
-      "zh-Hans": [
-        "从前有座灵剑山"
+      "ja": [
+        "霊剣山 星屑たちの宴"
       ]
     },
-    "lang": "ja",
+    "lang": "zh-Hans",
     "officialSite": "http://reikenzan.net/",
     "begin": "2016-01-08T15:00:00.000Z",
     "end": "2016-03-25T15:30:00.000Z",
@@ -728,7 +728,7 @@
         "site": "acfun",
         "id": "1470428",
         "begin": "2016-01-08T02:00:00.000Z",
-        "official": true,
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -778,7 +778,7 @@
         "site": "letv",
         "id": "10015978",
         "begin": "2016-01-08T02:00:00.000Z",
-        "official": true,
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -788,7 +788,7 @@
         "site": "qq",
         "id": "6/6x0u5d1a30t9jw9",
         "begin": "2016-01-08T02:00:00.000Z",
-        "official": true,
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -816,7 +816,96 @@
         "site": "mgtv",
         "id": "168359",
         "begin": "2016-01-08T02:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "霊剣山 星屑たちの宴",
+    "titleTranslate": {
+      "zh-Hans": [
+        "从前有座灵剑山"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://reikenzan.net/",
+    "begin": "2016-01-08T15:00:00.000Z",
+    "end": "2016-03-25T15:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "146861"
+      },
+      {
+        "site": "bilibili",
+        "id": "3614",
+        "begin": "2016-01-08T02:00:00.000Z",
         "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "acfun",
+        "id": "1470428_2",
+        "begin": "2016-01-08T02:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "672f94e0ba8411e59e2a",
+        "begin": "2016-01-08T02:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "q5lz8VmicL23QTrY",
+        "begin": "2016-01-08T02:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrha987l",
+        "begin": "2016-01-08T02:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "u/ubup3ru3ecypyw6",
+        "begin": "2016-01-08T02:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "290970",
+        "begin": "2016-01-08T02:00:00.000Z",
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -2659,6 +2748,35 @@
         "premuiumOnly": true,
         "censored": false,
         "lang": "ja",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "赤髪の白雪姫 OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "赤发白雪姬 OAD"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2016-01-05T16:00:00.000Z",
+    "end": "2016-01-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "144620"
+      },
+      {
+        "site": "pptv",
+        "id": "YcyoJo70ZKIFgibs",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
         "comment": ""
       }
     ]

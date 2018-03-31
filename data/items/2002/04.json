@@ -483,6 +483,16 @@
       {
         "site": "bangumi",
         "id": "2972"
+      },
+      {
+        "site": "pptv",
+        "id": "NQHradE3pibVIxia4",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -589,6 +599,64 @@
       {
         "site": "bangumi",
         "id": "6937"
+      }
+    ]
+  },
+  {
+    "title": "ゲートキーパーズ21",
+    "titleTranslate": {
+      "zh-Hans": [
+        "地球守护者21"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.gonzo.co.jp/works/0002.html",
+    "begin": "2002-04-24T16:00:00.000Z",
+    "end": "2003-01-08T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "19040"
+      },
+      {
+        "site": "pptv",
+        "id": "mNKuLJT6aqgLiafE",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ルパン三世 生きていた魔術師",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世 活下来的魔术师"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-04-03T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "84990"
+      },
+      {
+        "site": "pptv",
+        "id": "ibZ32dNxCsvBT0Tk",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   }

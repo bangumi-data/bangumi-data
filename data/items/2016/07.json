@@ -945,6 +945,16 @@
         "comment": ""
       },
       {
+        "site": "sohu",
+        "id": "s2018/dhpnewgame",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
         "site": "youku",
         "id": "c9b2f1283cd611e6abda",
         "begin": "2016-07-05T17:00:00.000Z",
@@ -1733,6 +1743,16 @@
         "site": "pptv",
         "id": "FSQQjvZczApt61M",
         "begin": "2016-07-06T14:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "sohu",
+        "id": "s2018/dhpyuege",
+        "begin": "",
         "official": true,
         "premuiumOnly": false,
         "censored": false,
@@ -2615,6 +2635,102 @@
     "sites": [
       {
         "site": "pptv",
+        "id": "wm9JxyibVBUOmJIw",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "o/ozvao2u23k1nf9o",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "10024378",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "295078",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "5210",
+        "begin": "2016-07-07T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhaqfsd",
+        "begin": "2016-07-08T02:33:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "175457"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hitorinoshita",
+        "begin": "2016-09-14T06:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "一人之下",
+    "titleTranslate": {
+      "ja": [
+        "一人之下 the outcast"
+      ],
+      "en": [
+        "Hitori no Shita The Outcast"
+      ]
+    },
+    "lang": "zh-Hans",
+    "officialSite": "http://hitorinoshita.com/",
+    "begin": "2016-07-02T12:00:00.000Z",
+    "end": "2016-09-24T12:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "175457"
+      },
+      {
+        "site": "pptv",
         "id": "9kIurBR66iaiaLCXE",
         "begin": "",
         "official": false,
@@ -2627,7 +2743,7 @@
         "site": "qq",
         "id": "0/0vjw392pdevdan3",
         "begin": "",
-        "official": true,
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -2637,7 +2753,7 @@
         "site": "letv",
         "id": "10022999",
         "begin": "",
-        "official": true,
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -2647,7 +2763,7 @@
         "site": "mgtv",
         "id": "294102",
         "begin": "",
-        "official": true,
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -2671,20 +2787,6 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "175457"
-      },
-      {
-        "site": "nicovideo",
-        "id": "hitorinoshita",
-        "begin": "2016-09-14T06:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": false,
-        "lang": "ja",
         "comment": ""
       }
     ]
@@ -3177,6 +3279,16 @@
       {
         "site": "bangumi",
         "id": "144846"
+      },
+      {
+        "site": "pptv",
+        "id": "uIhk4kqwIF7BP6c",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -3264,6 +3376,16 @@
         "censored": false,
         "lang": "ja",
         "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "uYlj4UmvH13APqY",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -3292,6 +3414,35 @@
         "premuiumOnly": true,
         "censored": false,
         "lang": "ja",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ポケモン・ザ・ムービーXY＆Z ボルケニオンと機巧のマギアナ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Pokémon the movie XY&Z 波尔凯尼恩与机巧的玛机雅娜"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-sun-moon.cn/movie/m19/",
+    "begin": "2016-07-16T16:00:00.000Z",
+    "end": "2016-07-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "140307"
+      },
+      {
+        "site": "pptv",
+        "id": "a9ia0MpoAcK4Rjicc",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
         "comment": ""
       }
     ]

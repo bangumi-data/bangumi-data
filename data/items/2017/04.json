@@ -2638,6 +2638,112 @@
     "sites": [
       {
         "site": "bilibili",
+        "id": "6060",
+        "begin": "2017-03-31T02:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "10035880",
+        "begin": "2017-03-31T02:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "313603",
+        "begin": "2017-03-31T02:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9fkfl",
+        "begin": "2017-03-31T02:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "y/yn3kar593j2b1lm",
+        "begin": "2017-03-31T02:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "sohu",
+        "id": "s2017/dhpyzsmr",
+        "begin": "2017-03-31T02:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "TfXfXcUrm9k8uiaI",
+        "begin": "2017-03-31T02:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "173850"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ginno-guardian",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "ja",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "银之守墓人",
+    "titleTranslate": {
+      "en": [
+        "THE SILVER GUARDIAN"
+      ],
+      "ja": [
+        "銀の墓守り"
+      ]
+    },
+    "lang": "zh-Hans",
+    "officialSite": "http://ginno-guardian.jp/",
+    "begin": "2017-04-01T12:00:00.000Z",
+    "end": "2017-06-17T12:15:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "173850"
+      },
+      {
+        "site": "bilibili",
         "id": "5856",
         "begin": "2017-03-31T02:00:00.000Z",
         "official": true,
@@ -2650,7 +2756,7 @@
         "site": "letv",
         "id": "10035403",
         "begin": "2017-03-31T02:00:00.000Z",
-        "official": true,
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -2660,7 +2766,7 @@
         "site": "mgtv",
         "id": "313299",
         "begin": "2017-03-31T02:00:00.000Z",
-        "official": true,
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -2680,7 +2786,7 @@
         "site": "qq",
         "id": "c/co1rct64uxcugab",
         "begin": "2017-03-31T02:00:00.000Z",
-        "official": true,
+        "official": false,
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
@@ -2704,20 +2810,6 @@
         "premuiumOnly": false,
         "censored": false,
         "lang": "zh-Hans",
-        "comment": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "173850"
-      },
-      {
-        "site": "nicovideo",
-        "id": "ginno-guardian",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": false,
-        "lang": "ja",
         "comment": ""
       }
     ]
@@ -3201,6 +3293,35 @@
       {
         "site": "bangumi",
         "id": "238403"
+      }
+    ]
+  },
+  {
+    "title": "結城友奈は勇者である -鷲尾須美の章- 第2章 たましい",
+    "titleTranslate": {
+      "zh-Hans": [
+        "结城友奈是勇者 -鹫尾须美之章- 第2章 魂"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "http://yuyuyu.tv/washio/",
+    "begin": "2017-04-15T16:00:00.000Z",
+    "end": "2017-04-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "207167"
+      },
+      {
+        "site": "pptv",
+        "id": "KAicpZ881peNGxCw",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   }

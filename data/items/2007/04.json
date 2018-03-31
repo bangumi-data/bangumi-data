@@ -1467,6 +1467,16 @@
       {
         "site": "bangumi",
         "id": "2977"
+      },
+      {
+        "site": "pptv",
+        "id": "NQHradE3pibVIxia4",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -1533,6 +1543,35 @@
         "premuiumOnly": true,
         "censored": false,
         "lang": "ja",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "サクラ大戦 ニューヨーク・紐育",
+    "titleTranslate": {
+      "zh-Hans": [
+        "樱花大战 纽约"
+      ]
+    },
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2007-04-04T16:00:00.000Z",
+    "end": "2007-08-01T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "20934"
+      },
+      {
+        "site": "pptv",
+        "id": "0hfxb9c9retOzDQ",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": false,
+        "lang": "zh-Hans",
         "comment": ""
       }
     ]
