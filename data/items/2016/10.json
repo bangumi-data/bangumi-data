@@ -3671,6 +3671,73 @@
     "sites": [
       {
         "site": "bilibili",
+        "id": "5595",
+        "begin": "2016-10-06T03:46:28.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "tH9Z1ziblFVO2NJw",
+        "begin": "2016-10-04T02:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "10030284",
+        "begin": "2016-10-04T16:00:00.000Z",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "188050"
+      },
+      {
+        "site": "nicovideo",
+        "id": "cheating-craft",
+        "begin": "2016-10-05T12:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "一课一练",
+    "titleTranslate": {
+      "en": [
+        "CHEATING CRAFT"
+      ],
+      "ja": [
+        "チーティングクラフト"
+      ]
+    },
+    "type": "tv",
+    "lang": "zh-Hans",
+    "officialSite": "http://cheating-craft.com/",
+    "begin": "2016-10-05T09:30:00.000Z",
+    "end": "2016-12-20T09:45:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "188050"
+      },
+      {
+        "site": "bilibili",
         "id": "5570",
         "begin": "2016-10-06T03:46:28.000Z",
         "official": true,
@@ -3695,20 +3762,6 @@
         "begin": "2016-10-04T16:00:00.000Z",
         "official": null,
         "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "188050"
-      },
-      {
-        "site": "nicovideo",
-        "id": "cheating-craft",
-        "begin": "2016-10-05T12:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -4014,6 +4067,100 @@
     "sites": [
       {
         "site": "bilibili",
+        "id": "5599",
+        "begin": "2016-09-30T02:59:09.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "pptv",
+        "id": "pY5q6FC2JmTHRa0",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "u/ugr1y9sr4qi4uea",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9stix",
+        "begin": "2016-10-09T03:11:52.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "10030106",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "mgtv",
+        "id": "302531",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "191653"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bloodivores",
+        "begin": "2016-10-03T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "时空使徒",
+    "titleTranslate": {
+      "ja": [
+        "Bloodivores"
+      ]
+    },
+    "type": "tv",
+    "lang": "zh-Hans",
+    "officialSite": "http://bloodivores.com/",
+    "begin": "2016-10-01T12:00:00.000Z",
+    "end": "2016-12-16T12:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "191653"
+      },
+      {
+        "site": "bilibili",
         "id": "5572",
         "begin": "2016-09-30T02:59:09.000Z",
         "official": true,
@@ -4068,20 +4215,6 @@
         "begin": "",
         "official": null,
         "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "bangumi",
-        "id": "191653"
-      },
-      {
-        "site": "nicovideo",
-        "id": "bloodivores",
-        "begin": "2016-10-03T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
         "censored": null,
         "exist": true,
         "comment": ""

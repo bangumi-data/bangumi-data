@@ -202,6 +202,16 @@
       {
         "site": "bangumi",
         "id": "225631"
+      },
+      {
+        "site": "bilibili",
+        "id": "23850",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -236,7 +246,7 @@
       ],
       "zh-Hans": [
         "魔性之线DEVIL'S LINE",
-        "魔性之线"
+        "恶魔战线"
       ]
     },
     "type": "tv",
@@ -419,7 +429,8 @@
     "title": "魔法少女 俺",
     "titleTranslate": {
       "zh-Hans": [
-        "魔法少女☆俺"
+        "魔法少女☆俺",
+        "魔法少女 俺"
       ]
     },
     "type": "tv",
@@ -432,6 +443,16 @@
       {
         "site": "bangumi",
         "id": "109956"
+      },
+      {
+        "site": "bilibili",
+        "id": "23871",
+        "begin": "2018-04-02T14:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -457,7 +478,11 @@
   },
   {
     "title": "LOST SONG",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "失落的歌谣"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://lost-song.com/",
@@ -468,6 +493,16 @@
       {
         "site": "bangumi",
         "id": "205310"
+      },
+      {
+        "site": "bilibili",
+        "id": "23879",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -567,8 +602,84 @@
     "comment": "",
     "sites": [
       {
+        "site": "bilibili",
+        "id": "23811",
+        "begin": "2018-03-28T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh1tbu5",
+        "begin": "2018-03-28T14:55:09.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "e/e3yh815x8vf82oi",
+        "begin": "2018-03-28T15:00:00.000Z",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "重神机潘多拉",
+    "titleTranslate": {
+      "ja": [
+        "重神機パンドーラ"
+      ]
+    },
+    "type": "tv",
+    "lang": "zh-Hans",
+    "officialSite": "http://www.project-pandora.jp/",
+    "begin": "2018-04-04T14:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
         "site": "bangumi",
         "id": "186180"
+      },
+      {
+        "site": "bilibili",
+        "id": "23919",
+        "begin": "2018-03-28T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh1tbu5",
+        "begin": "2018-03-28T14:55:09.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "2/225pc9y4ogg0pqq",
+        "begin": "2018-03-28T15:00:00.000Z",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -682,6 +793,16 @@
       {
         "site": "bangumi",
         "id": "237046"
+      },
+      {
+        "site": "bilibili",
+        "id": "23825",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -878,6 +999,16 @@
       {
         "site": "bangumi",
         "id": "234378"
+      },
+      {
+        "site": "bilibili",
+        "id": "23866",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -1014,6 +1145,66 @@
       {
         "site": "bangumi",
         "id": "232072"
+      }
+    ]
+  },
+  {
+    "title": "あっくんとカノジョ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "敦君与女朋友"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://akkun-kanojo.jp/",
+    "begin": "2018-04-06T14:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "230940"
+      },
+      {
+        "site": "bilibili",
+        "id": "23838",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "鹿楓堂よついろ日和",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鹿枫堂四色日和"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://rokuhoudou-anime.jp/",
+    "begin": "2018-04-10T16:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "227136"
+      },
+      {
+        "site": "bilibili",
+        "id": "23873",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }
