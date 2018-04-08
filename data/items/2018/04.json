@@ -20,7 +20,7 @@
       {
         "site": "bilibili",
         "id": "23877",
-        "begin": "",
+        "begin": "2018-04-07T17:30:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
@@ -61,7 +61,7 @@
       {
         "site": "bilibili",
         "id": "23859",
-        "begin": "",
+        "begin": "2018-04-05T13:30:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
@@ -104,7 +104,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh05ogd",
-        "begin": "",
+        "begin": "2018-04-05T11:25:08.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -217,7 +217,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgyopwl",
-        "begin": "",
+        "begin": "2018-04-06T16:25:07.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -247,7 +247,7 @@
       {
         "site": "bilibili",
         "id": "23829",
-        "begin": "",
+        "begin": "2018-04-05T15:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -280,7 +280,7 @@
       {
         "site": "bilibili",
         "id": "23850",
-        "begin": "",
+        "begin": "2018-04-06T12:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -309,6 +309,16 @@
       {
         "site": "bangumi",
         "id": "225021"
+      },
+      {
+        "site": "youku",
+        "id": "e0ba5ab762ab4561bafd",
+        "begin": "2018-04-06T17:58:00.000Z",
+        "official": false,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -337,7 +347,7 @@
       {
         "site": "bilibili",
         "id": "23846",
-        "begin": "",
+        "begin": "2018-04-07T15:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -347,7 +357,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh05nlh",
-        "begin": "",
+        "begin": "2018-04-07T15:25:06.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -481,7 +491,7 @@
       {
         "site": "bilibili",
         "id": "23595",
-        "begin": "",
+        "begin": "2018-04-03T10:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -512,7 +522,7 @@
       {
         "site": "bilibili",
         "id": "23857",
-        "begin": "",
+        "begin": "2018-04-06T17:35:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -522,7 +532,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgyopad",
-        "begin": "",
+        "begin": "2018-04-06T17:30:07.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -532,7 +542,7 @@
       {
         "site": "nicovideo",
         "id": "nobunaga-no-shinobi03",
-        "begin": "",
+        "begin": "2018-04-07T03:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
@@ -562,7 +572,7 @@
       {
         "site": "bilibili",
         "id": "23861",
-        "begin": "",
+        "begin": "2018-04-02T17:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -653,7 +663,7 @@
       {
         "site": "bilibili",
         "id": "23824",
-        "begin": "",
+        "begin": "2018-04-04T13:25:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -733,7 +743,7 @@
       {
         "site": "bilibili",
         "id": "23848",
-        "begin": "",
+        "begin": "2018-04-01T13:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -743,7 +753,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh1tc0l",
-        "begin": "",
+        "begin": "2018-04-01T12:55:07.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -758,6 +768,16 @@
         "premuiumOnly": false,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "76efbfbd27efbfbdefbf",
+        "begin": "2018-04-01T12:58:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -841,6 +861,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "重神机潘多拉"
+      ],
+      "en": [
+        "LAST HOPE"
       ]
     },
     "type": "tv",
@@ -876,6 +899,16 @@
         "begin": "2018-03-28T15:00:00.000Z",
         "official": null,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80221272",
+        "begin": "2018-03-29T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -953,7 +986,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgyjath",
-        "begin": "",
+        "begin": "2018-04-03T17:55:08.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -986,7 +1019,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh0kgvh",
-        "begin": "",
+        "begin": "2018-04-07T16:25:08.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1026,7 +1059,7 @@
       {
         "site": "bilibili",
         "id": "23878",
-        "begin": "",
+        "begin": "2018-04-07T17:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
@@ -1036,7 +1069,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhf76lh",
-        "begin": "",
+        "begin": "2018-04-07T16:55:07.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1076,7 +1109,7 @@
       {
         "site": "bilibili",
         "id": "23821",
-        "begin": "",
+        "begin": "2018-04-07T11:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1106,7 +1139,7 @@
       {
         "site": "bilibili",
         "id": "23825",
-        "begin": "",
+        "begin": "2018-04-07T16:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1136,7 +1169,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh0thmt",
-        "begin": "",
+        "begin": "2018-04-01T03:24:25.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1166,7 +1199,7 @@
       {
         "site": "bilibili",
         "id": "23870",
-        "begin": "",
+        "begin": "2018-04-03T13:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1352,7 +1385,7 @@
       {
         "site": "bilibili",
         "id": "23841",
-        "begin": "",
+        "begin": "2018-04-08T02:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1362,9 +1395,19 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgymz6t",
-        "begin": "",
+        "begin": "2018-04-08T01:55:06.000Z",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "a104308a08934ec59742",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -1418,6 +1461,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "b1ea43d04db14269b2fe",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -1445,7 +1498,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhca3al",
-        "begin": "",
+        "begin": "2018-04-05T20:05:04.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1475,7 +1528,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh0gytx",
-        "begin": "",
+        "begin": "2018-04-02T14:55:06.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1558,7 +1611,7 @@
       {
         "site": "bilibili",
         "id": "23834",
-        "begin": "",
+        "begin": "2018-04-01T16:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
@@ -1568,7 +1621,7 @@
       {
         "site": "nicovideo",
         "id": "anime-umamusume",
-        "begin": "",
+        "begin": "2018-04-07T03:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
@@ -1631,7 +1684,7 @@
       {
         "site": "bilibili",
         "id": "23838",
-        "begin": "",
+        "begin": "2018-04-06T14:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1641,7 +1694,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgyn0zh",
-        "begin": "",
+        "begin": "2018-04-06T14:25:08.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1768,7 +1821,7 @@
       {
         "site": "bilibili",
         "id": "23882",
-        "begin": "",
+        "begin": "2018-04-02T10:25:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1778,9 +1831,19 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgyp04l",
-        "begin": "",
+        "begin": "2018-04-02T10:20:06.000Z",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "30c74046e30f487eb6a8",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -1824,7 +1887,7 @@
       {
         "site": "bilibili",
         "id": "23862",
-        "begin": "",
+        "begin": "2018-04-03T12:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1854,7 +1917,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgypo7h",
-        "begin": "",
+        "begin": "2018-04-07T23:10:07.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1920,7 +1983,7 @@
       {
         "site": "bilibili",
         "id": "23868",
-        "begin": "",
+        "begin": "2018-04-02T17:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1986,7 +2049,7 @@
       {
         "site": "bilibili",
         "id": "23880",
-        "begin": "",
+        "begin": "2018-04-05T18:02:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -2042,7 +2105,7 @@
       {
         "site": "bilibili",
         "id": "23858",
-        "begin": "",
+        "begin": "2018-04-07T09:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -2052,7 +2115,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh1t7kd",
-        "begin": "",
+        "begin": "2018-04-07T09:25:07.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -2082,7 +2145,7 @@
       {
         "site": "bilibili",
         "id": "23842",
-        "begin": "",
+        "begin": "2018-04-06T15:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -2168,6 +2231,56 @@
       {
         "site": "bangumi",
         "id": "239750"
+      }
+    ]
+  },
+  {
+    "title": "実験品家族",
+    "titleTranslate": {
+      "zh-Hans": [
+        "实验品家庭"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://jp.frankenstein-family.com/",
+    "begin": "2018-04-09T12:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "206700"
+      }
+    ]
+  },
+  {
+    "title": "实验品家庭",
+    "titleTranslate": {
+      "ja": [
+        "実験品家族"
+      ]
+    },
+    "type": "web",
+    "lang": "zh-Hans",
+    "officialSite": "http://jp.frankenstein-family.com/",
+    "begin": "2018-04-09T12:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "206700"
+      },
+      {
+        "site": "qq",
+        "id": "g/g6da8tj74x97ebk",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }
