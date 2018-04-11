@@ -399,7 +399,7 @@
       {
         "site": "bilibili",
         "id": "23818",
-        "begin": "",
+        "begin": "2018-04-08T15:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -460,7 +460,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh05oat",
-        "begin": "",
+        "begin": "2018-04-11T16:31:23.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -655,6 +655,36 @@
     ]
   },
   {
+    "title": "魔法少女 俺",
+    "titleTranslate": {
+      "ja": [
+        "魔法少女 俺"
+      ]
+    },
+    "type": "tv",
+    "lang": "zh-Hans",
+    "officialSite": "http://magicalgirl-ore.com/",
+    "begin": "2018-04-02T13:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "109956"
+      },
+      {
+        "site": "bilibili",
+        "id": "23942",
+        "begin": "2018-04-02T14:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
     "title": "ありすorありす",
     "titleTranslate": {
       "zh-Hans": [
@@ -828,8 +858,41 @@
       {
         "site": "qq",
         "id": "g/gvz5bapszkkjbw8",
-        "begin": "",
+        "begin": "2018-04-11T18:00:00.000Z",
         "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "命运石之门 0",
+    "titleTranslate": {
+      "ja": [
+        "シュタインズ・ゲート ゼロ"
+      ],
+      "en": [
+        "STEINS;GATE 0"
+      ]
+    },
+    "type": "tv",
+    "lang": "zh-Hans",
+    "officialSite": "http://steinsgate0-anime.com/",
+    "begin": "2018-04-11T16:35:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "129807"
+      },
+      {
+        "site": "qq",
+        "id": "q/qrerfaf3wjgrj1w",
+        "begin": "2018-04-11T18:00:00.000Z",
+        "official": null,
         "premuiumOnly": false,
         "censored": null,
         "exist": true,
@@ -1259,7 +1322,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh1gx6l",
-        "begin": "",
+        "begin": "2018-04-09T15:25:07.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1289,7 +1352,7 @@
       {
         "site": "bilibili",
         "id": "23817",
-        "begin": "",
+        "begin": "2018-04-11T16:35:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1299,7 +1362,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh1osfx",
-        "begin": "",
+        "begin": "2018-04-11T16:30:07.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1349,7 +1412,7 @@
       {
         "site": "bilibili",
         "id": "23851",
-        "begin": "",
+        "begin": "2018-04-08T18:40:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1465,7 +1528,7 @@
       {
         "site": "bilibili",
         "id": "23866",
-        "begin": "",
+        "begin": "2018-04-08T17:35:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1475,7 +1538,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgymykl",
-        "begin": "",
+        "begin": "2018-04-08T17:30:06.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1611,7 +1674,7 @@
       {
         "site": "nicovideo",
         "id": "kanshu",
-        "begin": "",
+        "begin": "2018-04-01T16:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
@@ -1668,7 +1731,8 @@
         "CAPTAIN TSUBASA"
       ],
       "zh-Hans": [
-        "足球小将"
+        "足球小将",
+        "队长小翼"
       ]
     },
     "type": "tv",
@@ -1685,11 +1749,44 @@
       {
         "site": "mgtv",
         "id": "322974",
-        "begin": "",
+        "begin": "2018-04-02T18:30:00.000Z",
         "official": null,
         "premuiumOnly": false,
         "censored": null,
         "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "足球小将",
+    "titleTranslate": {
+      "en": [
+        "CAPTAIN TSUBASA"
+      ],
+      "ja": [
+        "キャプテン翼"
+      ]
+    },
+    "type": "tv",
+    "lang": "zh-Hans",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/captaintsubasa2018/",
+    "begin": "2018-04-02T16:35:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "232072"
+      },
+      {
+        "site": "mgtv",
+        "id": "322751",
+        "begin": "2018-04-02T18:30:00.000Z",
+        "official": null,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -1776,7 +1873,7 @@
       {
         "site": "bilibili",
         "id": "23873",
-        "begin": "",
+        "begin": "2018-04-10T16:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1829,7 +1926,7 @@
       {
         "site": "nicovideo",
         "id": "lupin-pt5",
-        "begin": "",
+        "begin": "2018-04-04T03:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
@@ -2291,7 +2388,7 @@
       {
         "site": "bilibili",
         "id": "23823",
-        "begin": "",
+        "begin": "2018-04-07T15:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
