@@ -2486,5 +2486,35 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "奴隷区 The Animation",
+    "titleTranslate": {
+      "zh-Hans": [
+        "奴隶区 我与23人的奴隶"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://doreiku-anime.com/",
+    "begin": "2018-04-12T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "23860",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": false,
+        "exist": true,
+        "begin": "2018-04-12T17:00:00.000Z",
+        "comment": ""
+      },
+      {
+        "site": "bangumi",
+        "id": "227231"
+      }
+    ]
   }
 ]
