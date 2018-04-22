@@ -9,6 +9,7 @@ const ITEMS_DIRECTORY = 'data/items/';
 const SITES_DIRECTORY = 'data/sites/';
 const DIST_PATH = 'dist/';
 const DIST_FILE_NAME = 'data.json';
+const LATEST_FILE_NAME = 'latest.json';
 
 /** @type {Array} 保存所有番组数据 */
 let itemsData = [];
@@ -88,7 +89,29 @@ readJsonPaths(ITEMS_DIRECTORY)
                 if (err) {
                     console.error(err);
                 } else {
-                    console.log('done');
+                    console.log(`${DIST_FILE_NAME}: done`);
+                }
+            });
+
+            const outdate = new Date();
+            outdate.setMonth(outdate.getMonth() - 6);
+
+            const latestItemsData = itemsData.filter((item) => {
+                // 未确定播放时间,则一定是新数据
+                if (item.begin === '') {
+                    return true;
+                }
+                return new Date(item.begin) > outdate;
+            });
+
+            fs.writeJson(path.resolve(DIST_PATH, LATEST_FILE_NAME), {
+                siteMeta: sitesData,
+                items: latestItemsData
+            }, (err) => {
+                if (err) {
+                    console.error(err);
+                } else {
+                    console.log(`${LATEST_FILE_NAME}: done`);
                 }
             });
         });
