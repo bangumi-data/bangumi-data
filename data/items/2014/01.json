@@ -340,6 +340,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80006397",
+        "begin": "2017-12-31T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": "港区可见"
       }
     ]
   },
@@ -1175,6 +1185,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "妖怪手表"
+      ],
+      "en": [
+        "YO-KAI WATCH"
       ]
     },
     "type": "tv",
@@ -1221,6 +1234,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80087629",
+        "begin": "2016-07-31T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": "港区可见"
       }
     ]
   },
