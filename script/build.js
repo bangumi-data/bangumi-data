@@ -8,13 +8,44 @@ const itemSchema = require('./schema/item');
 const ITEMS_DIRECTORY = 'data/items/';
 const SITES_DIRECTORY = 'data/sites/';
 const DIST_PATH = 'dist/';
-const DIST_FILE_NAME = 'data.json';
-const LATEST_FILE_NAME = 'latest.json';
 
 /** @type {Array} 保存所有番组数据 */
-let itemsData = [];
+const itemsData = [];
 /** @type {Object} 保存所有站点元数据 */
 let sitesData = {};
+
+const task = [
+    {
+        target: 'data.json',
+        transform: (list) => {
+            return list.reduce((prev, curr) => {
+                return prev.concat(curr.data);
+            }, []);
+        }
+    },
+    {
+        target: 'latest.json',
+        transform: (list) => {
+            return list.slice(-6).reduce((prev, curr) => {
+                return prev.concat(curr.data);
+            }, []);
+        }
+    }
+    // another example
+    // {
+    //     target: 'still_playing.json',
+    //     transform: (list) => {
+    //         return list
+    //             .reduce((prev, curr) => {
+    //                 return prev.concat(curr.data);
+    //             }, [])
+    //             .filter((value) => {
+    //                 // 没有结束时间,仍然在放送中
+    //                 return value.end === '';
+    //             });
+    //     }
+    // }
+];
 
 readJsonPaths(ITEMS_DIRECTORY)
     .then((itemPaths) => {
@@ -32,7 +63,8 @@ readJsonPaths(ITEMS_DIRECTORY)
         });
 
         // 同步读取所有json文件
-        itemPaths.forEach((itemPath) => {
+        /** @type {Array<{path: string, data: Array}>} path-data mapper  */
+        const pathAndDataList = itemPaths.map((itemPath) => {
             let dataArray = fs.readJsonSync(itemPath);
 
             dataArray = dataArray.map((itemData) => {
@@ -45,7 +77,14 @@ readJsonPaths(ITEMS_DIRECTORY)
                 return itemData;
             });
 
-            itemsData = itemsData.concat(dataArray);
+            return { path: itemPath, data: dataArray };
+        });
+
+        task.forEach((t) => {
+            itemsData.push({
+                target: t.target,
+                content: t.transform(pathAndDataList)
+            });
         });
 
         return Promise.resolve(itemsData);
@@ -82,37 +121,21 @@ readJsonPaths(ITEMS_DIRECTORY)
                 console.error(error);
             }
 
-            fs.writeJson(path.resolve(DIST_PATH, DIST_FILE_NAME), {
-                siteMeta: sitesData,
-                items: itemsData
-            }, (err) => {
-                if (err) {
-                    console.error(err);
-                } else {
-                    console.log(`${DIST_FILE_NAME}: done`);
-                }
-            });
-
-            const outdate = new Date();
-            outdate.setMonth(outdate.getMonth() - 6);
-
-            const latestItemsData = itemsData.filter((item) => {
-                // 未确定播放时间,则一定是新数据
-                if (item.begin === '') {
-                    return true;
-                }
-                return new Date(item.begin) > outdate;
-            });
-
-            fs.writeJson(path.resolve(DIST_PATH, LATEST_FILE_NAME), {
-                siteMeta: sitesData,
-                items: latestItemsData
-            }, (err) => {
-                if (err) {
-                    console.error(err);
-                } else {
-                    console.log(`${LATEST_FILE_NAME}: done`);
-                }
+            itemsData.forEach((it) => {
+                fs.writeJson(
+                    path.resolve(DIST_PATH, it.target),
+                    {
+                        siteMeta: sitesData,
+                        items: it.content
+                    },
+                    (err) => {
+                        if (err) {
+                            console.error(err);
+                        } else {
+                            console.log(`${it.target}: done`);
+                        }
+                    }
+                );
             });
         });
     })
