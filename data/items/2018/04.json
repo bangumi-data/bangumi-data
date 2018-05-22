@@ -443,7 +443,7 @@
     "titleTranslate": {
       "zh-Hans": [
         "最后的终止符：没有终焉的螺旋物语",
-        "最后的休止符"
+        "最后的休止符 无止境的螺旋物语"
       ]
     },
     "type": "tv",
@@ -602,7 +602,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://ch.nicovideo.jp/tokyoghoul_re",
     "begin": "2018-04-03T14:00:00.000Z",
     "end": "",
     "comment": "",
@@ -629,6 +629,9 @@
       "zh-Hans": [
         "魔法少女☆俺",
         "魔法少女 俺"
+      ],
+      "en": [
+        "Magical Girl Ore"
       ]
     },
     "type": "tv",
@@ -1082,7 +1085,8 @@
         "SWORD ART ONLINE ALTERNATIVE \"GUN GALE ONLINE\""
       ],
       "zh-Hans": [
-        "刀剑神域 Alternative GGO"
+        "刀剑神域 Alternative GGO",
+        "刀剑神域外传 Gun Gale Online"
       ]
     },
     "type": "tv",
@@ -1235,7 +1239,8 @@
     "title": "ゲゲゲの鬼太郎(2018)",
     "titleTranslate": {
       "zh-Hans": [
-        "鬼太郎第六季"
+        "鬼太郎第六季",
+        "鬼太郎 第六季"
       ]
     },
     "type": "tv",
@@ -1443,7 +1448,11 @@
   },
   {
     "title": "ひそねとまそたん",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "桧曾根与间租谭"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://hisomaso.com/",
@@ -1476,7 +1485,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://www.b-ch.com/ttl/index_html5.php?ttl_c=5991",
     "begin": "2018-04-07T23:30:00.000Z",
     "end": "",
     "comment": "",
@@ -1748,7 +1757,7 @@
     "titleTranslate": {
       "zh-Hans": [
         "马娘 PrettyDerby",
-        "赛马娘"
+        "赛马娘 PrettyDerby"
       ]
     },
     "type": "tv",
@@ -1785,7 +1794,7 @@
     ]
   },
   {
-    "title": "キャプテン翼",
+    "title": "キャプテン翼(2018)",
     "titleTranslate": {
       "en": [
         "CAPTAIN TSUBASA"
@@ -1825,7 +1834,7 @@
         "CAPTAIN TSUBASA"
       ],
       "ja": [
-        "キャプテン翼"
+        "キャプテン翼(2018)"
       ]
     },
     "type": "tv",
@@ -2422,6 +2431,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "异世界居酒屋～古都阿伊特力亚的居酒屋「阿信」"
+      ],
+      "en": [
+        "Isekai Izakaya ~Koto Aitheria no Izakaya Nobu~"
       ]
     },
     "type": "tv",
@@ -2645,6 +2657,116 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "フューチャーカード バディファイトX オールスターファイト",
+    "titleTranslate": {
+      "en": [
+        "FUTURE CARD BUDDYFIGHT X ALL STAR FIGHT"
+      ],
+      "zh-Hans": [
+        "未来卡搭档对战X 全明星对战"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://tv-aichi.co.jp/fc-buddyfightX/",
+    "begin": "2018-04-06T23:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "242454"
+      }
+    ]
+  },
+  {
+    "title": "レディスポ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Lady Sport"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://s.mxtv.jp/anime/ladysp/",
+    "begin": "2018-04-09T16:20:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "239962"
+      }
+    ]
+  },
+  {
+    "title": "ふるさと 日本の昔ばなし セレクション",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/mukashibanashi/",
+    "begin": "2018-04-08T01:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": []
+  },
+  {
+    "title": "妖怪ウォッチ シャドウサイド",
+    "titleTranslate": {
+      "zh-Hans": [
+        "妖怪手表 阴影面"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/youkai-watch-ss/",
+    "begin": "2018-04-13T22:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "240592"
+      }
+    ]
+  },
+  {
+    "title": "黒猫モンロヲ",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://kuronekomonroe.net/",
+    "begin": "2018-04-16T17:46:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "237838"
+      }
+    ]
+  },
+  {
+    "title": "SNSポリス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "SNS警察"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://ch.nicovideo.jp/sns-police",
+    "begin": "2018-04-08T02:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "228148"
       }
     ]
   }
