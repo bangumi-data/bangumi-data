@@ -2705,14 +2705,23 @@
   },
   {
     "title": "ふるさと 日本の昔ばなし セレクション",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "故乡 日本的古老传说 选集"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/mukashibanashi/",
     "begin": "2018-04-08T01:30:00.000Z",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "247549"
+      }
+    ]
   },
   {
     "title": "妖怪ウォッチ シャドウサイド",
