@@ -208,6 +208,26 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "isekaimaou-anime",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "b/bgf0avtujy3yciw",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -366,6 +386,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "cingeki-anime03",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -439,6 +469,16 @@
         "premuiumOnly": false,
         "censored": null,
         "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "planet-with",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
         "comment": ""
       }
     ]
@@ -777,6 +817,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "yume-100",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -792,7 +842,7 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://satsuriku.com/",
-    "begin": "2018-07-06T13:30:00.000Z",
+    "begin": "2018-07-06T11:30:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
@@ -818,6 +868,26 @@
         "premuiumOnly": false,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "satsuriku",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "u/u8rljkriw7yeorg",
+        "begin": "2018-07-06T13:00:00.000Z",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -934,6 +1004,16 @@
         "begin": "2018-07-07T17:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "ongaku-shoujo",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -1064,6 +1144,16 @@
         "begin": "2018-07-03T20:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "tonegawa-anime",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -1350,6 +1440,7 @@
     "title": "BANANA FISH",
     "titleTranslate": {
       "zh-Hans": [
+        "BANANA FISH",
         "战栗杀机"
       ]
     },
@@ -1707,6 +1798,36 @@
       {
         "site": "bangumi",
         "id": "246431"
+      }
+    ]
+  },
+  {
+    "title": "あるゾンビ少女の災難",
+    "titleTranslate": {
+      "zh-Hans": [
+        "某僵尸少女的灾难"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.zombie-girl.net/",
+    "begin": "2018-07-04T16:00:00.000Z",
+    "end": "2018-07-04T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "101994"
+      },
+      {
+        "site": "nicovideo",
+        "id": "aruzombie-sainan",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }
