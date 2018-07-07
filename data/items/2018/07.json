@@ -109,7 +109,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://ch.nicovideo.jp/senjyushi",
     "begin": "2018-07-03T14:00:00.000Z",
     "end": "",
     "comment": "",
@@ -121,9 +121,19 @@
       {
         "site": "bilibili",
         "id": "24618",
-        "begin": "",
+        "begin": "2018-07-03T15:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "senjyushi",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -151,7 +161,7 @@
       {
         "site": "bilibili",
         "id": "24567",
-        "begin": "",
+        "begin": "2018-07-03T16:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -182,7 +192,7 @@
       {
         "site": "bilibili",
         "id": "24627",
-        "begin": "",
+        "begin": "2018-07-05T14:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -192,7 +202,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgytgwd",
-        "begin": "",
+        "begin": "2018-07-05T13:55:11.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -223,7 +233,7 @@
       {
         "site": "bilibili",
         "id": "24584",
-        "begin": "",
+        "begin": "2018-07-06T13:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -279,7 +289,7 @@
       {
         "site": "bilibili",
         "id": "24588",
-        "begin": "",
+        "begin": "2018-07-07T16:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -350,7 +360,7 @@
       {
         "site": "bilibili",
         "id": "24594",
-        "begin": "",
+        "begin": "2018-07-03T14:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -384,7 +394,7 @@
       {
         "site": "bilibili",
         "id": "24605",
-        "begin": "",
+        "begin": "2018-07-02T18:55:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -761,7 +771,7 @@
       {
         "site": "bilibili",
         "id": "24619",
-        "begin": "",
+        "begin": "2018-07-05T13:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -793,7 +803,7 @@
       {
         "site": "bilibili",
         "id": "24625",
-        "begin": "",
+        "begin": "2018-07-06T13:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -803,7 +813,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgytf8l",
-        "begin": "",
+        "begin": "2018-07-06T12:55:12.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -878,7 +888,7 @@
       {
         "site": "bilibili",
         "id": "24583",
-        "begin": "",
+        "begin": "2018-07-05T12:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -921,7 +931,7 @@
       {
         "site": "bilibili",
         "id": "24632",
-        "begin": "",
+        "begin": "2018-07-07T17:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -955,7 +965,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh6y4sl",
-        "begin": "",
+        "begin": "2018-07-06T13:25:12.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1051,7 +1061,7 @@
       {
         "site": "bilibili",
         "id": "24611",
-        "begin": "",
+        "begin": "2018-07-03T20:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1134,7 +1144,7 @@
       {
         "site": "bilibili",
         "id": "24609",
-        "begin": "",
+        "begin": "2018-07-06T06:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1164,7 +1174,7 @@
       {
         "site": "bilibili",
         "id": "24628",
-        "begin": "",
+        "begin": "2018-07-07T16:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1210,6 +1220,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "phantowa",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -1234,7 +1254,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh6y6l9",
-        "begin": "",
+        "begin": "2018-07-05T04:15:38.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1307,7 +1327,7 @@
       {
         "site": "bilibili",
         "id": "24613",
-        "begin": "",
+        "begin": "2018-07-06T12:54:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1347,7 +1367,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgytq5h",
-        "begin": "",
+        "begin": "2018-07-06T00:13:01.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1443,7 +1463,8 @@
     "title": "じょしおちっ！～2階から女の子が…降ってきた!?～",
     "titleTranslate": {
       "zh-Hans": [
-        "天降少女！～从2层落下了少女！？～"
+        "天降少女！～从2层落下了少女！？～",
+        "落女子！有女孩子从二楼掉下来了！？"
       ]
     },
     "type": "tv",
@@ -1490,7 +1511,7 @@
       {
         "site": "bilibili",
         "id": "24635",
-        "begin": "",
+        "begin": "2018-07-06T19:55:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1582,6 +1603,125 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "銀魂. (銀ノ魂篇 後半戦)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银魂. 银之魂篇 后半战",
+        "银魂. 银之魂篇 第二季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/gintama/",
+    "begin": "2018-07-08T16:35:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "240811"
+      },
+      {
+        "site": "youku",
+        "id": "cc0026e0962411de83b1",
+        "begin": "2011-10-28T04:57:52.000Z",
+        "official": false,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "スペースバグ",
+    "titleTranslate": {
+      "en": [
+        "Space bug"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.spacebug-special.com/",
+    "begin": "2018-07-08T01:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": []
+  },
+  {
+    "title": "兄に付ける薬はない！2 -快把我哥帯走2-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "没有给我哥吃的药！2"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://fanworks.co.jp/news/20180625_ani/",
+    "begin": "2018-07-09T12:54:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "219143"
+      },
+      {
+        "site": "nicovideo",
+        "id": "anitsuke2",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "おしえて魔法のペンデュラム～リルリルフェアリル～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "告诉我魔法之摆～莉露莉露妖精莉露～"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://fairilu.jp/",
+    "begin": "2018-07-06T23:15:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "237762"
+      }
+    ]
+  },
+  {
+    "title": "BanG Dream! ガルパ☆ピコ",
+    "titleTranslate": {
+      "en": [
+        "BanG Dream! Girls Band Party!★PICO"
+      ],
+      "zh-Hans": [
+        "BanG Dream! 少女乐团派对！☆PICO"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://anime.bang-dream.com/pico/",
+    "begin": "2018-07-06T13:45:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "246431"
       }
     ]
   }
