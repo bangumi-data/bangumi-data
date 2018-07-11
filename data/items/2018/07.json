@@ -787,6 +787,16 @@
       {
         "site": "bangumi",
         "id": "218572"
+      },
+      {
+        "site": "bilibili",
+        "id": "24595",
+        "begin": "2018-07-10T17:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1825,6 +1835,36 @@
         "begin": "",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ソードガイ The Animation PartⅡ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "SWORD GAI 装刀凯  PartⅡ"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://swordgai-anime.com/",
+    "begin": "2018-07-31T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "241865"
+      },
+      {
+        "site": "bilibili",
+        "id": "25002",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
         "exist": false,
         "comment": ""
