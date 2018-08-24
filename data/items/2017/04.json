@@ -2538,7 +2538,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "喧哗番长 乙女-Girl Beats Boys-",
-        "喧哗番长 乙女 Girl Beats Boys"
+        "喧哗番长 乙女 Girl Beats Boys",
+        "最强番长是少女"
       ]
     },
     "type": "tv",
@@ -3425,6 +3426,36 @@
         "id": "KAicpZ881peNGxCw",
         "begin": "",
         "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "阿拉德：宿命之门",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阿拉德：宿命之门"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2017-04-28T16:00:00.000Z",
+    "end": "2017-09-01T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "209955"
+      },
+      {
+        "site": "mgtv",
+        "id": "314318",
+        "begin": "",
+        "official": null,
         "premuiumOnly": false,
         "censored": null,
         "exist": true,

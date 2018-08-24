@@ -2296,7 +2296,11 @@
   },
   {
     "title": "こねこのチー ポンポンらー大旅行",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "甜甜私房猫 吃饱啦大旅行"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://chissweethome.com/",
@@ -2307,6 +2311,16 @@
       {
         "site": "bangumi",
         "id": "219377"
+      },
+      {
+        "site": "mgtv",
+        "id": "325000",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
