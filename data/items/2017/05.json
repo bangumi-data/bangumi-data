@@ -94,5 +94,35 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "バイオハザード ヴェンデッタ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "生化危机 复仇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://biohazard-vendetta.com/",
+    "begin": "2017-05-27T16:00:00.000Z",
+    "end": "2017-05-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "148729"
+      },
+      {
+        "site": "letv",
+        "id": "10037456",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

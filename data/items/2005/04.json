@@ -167,6 +167,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "18858",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -715,6 +725,16 @@
       {
         "site": "bangumi",
         "id": "1961"
+      },
+      {
+        "site": "letv",
+        "id": "38143",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1095,6 +1115,36 @@
       {
         "site": "bangumi",
         "id": "161691"
+      }
+    ]
+  },
+  {
+    "title": "映画 ふたりはプリキュア マックスハート",
+    "titleTranslate": {
+      "zh-Hans": [
+        "光之美少女 Max Heart 秘密花园"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/movie/2005_precure/",
+    "begin": "2005-04-16T16:00:00.000Z",
+    "end": "2005-04-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "4396"
+      },
+      {
+        "site": "letv",
+        "id": "89803",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

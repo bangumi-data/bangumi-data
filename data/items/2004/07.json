@@ -447,5 +447,35 @@
         "id": "90610"
       }
     ]
+  },
+  {
+    "title": "スチームボーイ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蒸汽男孩"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.steamboy.net/top.shtml",
+    "begin": "2004-07-17T16:00:00.000Z",
+    "end": "2004-07-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1938"
+      },
+      {
+        "site": "letv",
+        "id": "10002013",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

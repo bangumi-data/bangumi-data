@@ -471,6 +471,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "29292",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -525,6 +535,16 @@
       {
         "site": "bangumi",
         "id": "5651"
+      },
+      {
+        "site": "letv",
+        "id": "29309",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -770,6 +790,16 @@
       {
         "site": "bangumi",
         "id": "7312"
+      },
+      {
+        "site": "letv",
+        "id": "29187",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -900,6 +930,36 @@
         "begin": "2017-09-01T07:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "家庭教師ヒットマンREBORN！ボンゴレ式修学旅行、来る！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "家庭教师HITMAN REBORN！彭格列式修学旅行、来了！"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2010-07-21T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "18576"
+      },
+      {
+        "site": "letv",
+        "id": "28993",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""

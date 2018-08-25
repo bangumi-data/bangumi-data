@@ -118,5 +118,35 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "AKIRA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阿基拉"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-07-16T16:00:00.000Z",
+    "end": "1988-07-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "5118"
+      },
+      {
+        "site": "letv",
+        "id": "10002031",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

@@ -259,5 +259,31 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "Sonic Boom",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.sonicthehedgehog.com/boom/en/",
+    "begin": "2014-11-08T16:00:00.000Z",
+    "end": "2015-11-14T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "144637"
+      },
+      {
+        "site": "letv",
+        "id": "10008560",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

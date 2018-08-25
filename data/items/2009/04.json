@@ -202,6 +202,16 @@
       {
         "site": "bangumi",
         "id": "3643"
+      },
+      {
+        "site": "letv",
+        "id": "6172",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1051,6 +1061,16 @@
       {
         "site": "bangumi",
         "id": "16981"
+      },
+      {
+        "site": "letv",
+        "id": "6171",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1092,6 +1112,16 @@
       {
         "site": "bangumi",
         "id": "3637"
+      },
+      {
+        "site": "letv",
+        "id": "10018941",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1434,6 +1464,36 @@
       {
         "site": "bangumi",
         "id": "2454"
+      }
+    ]
+  },
+  {
+    "title": "爆丸 バトルブローラーズ ニューヴェストロイア",
+    "titleTranslate": {
+      "zh-Hans": [
+        "爆丸2 大爆破"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/bakugan2/",
+    "begin": "2009-04-12T16:00:00.000Z",
+    "end": "2010-05-09T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "83250"
+      },
+      {
+        "site": "letv",
+        "id": "17789",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

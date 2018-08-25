@@ -155,5 +155,35 @@
         "id": "1868"
       }
     ]
+  },
+  {
+    "title": "映画 ふたりはプリキュア SplashStar チクタク危機一髪",
+    "titleTranslate": {
+      "zh-Hans": [
+        "光之美少女 Splash Star 滴答危机一发"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/movie/2006_precureSS/",
+    "begin": "2006-12-09T16:00:00.000Z",
+    "end": "2006-12-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "4398"
+      },
+      {
+        "site": "letv",
+        "id": "89803",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

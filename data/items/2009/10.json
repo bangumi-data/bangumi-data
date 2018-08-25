@@ -997,6 +997,16 @@
       {
         "site": "bangumi",
         "id": "2477"
+      },
+      {
+        "site": "letv",
+        "id": "10961",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1209,6 +1219,16 @@
       {
         "site": "bangumi",
         "id": "3110"
+      },
+      {
+        "site": "letv",
+        "id": "10221",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1295,6 +1315,36 @@
         "id": "50s2tByC8jCTEXk",
         "begin": "",
         "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "映画 フレッシュプリキュア! おもちゃの国は秘密がいっぱい!?",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Fresh 光之美少女! 玩具王国有很多秘密!?"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/movie/2009_fresh_precure/",
+    "begin": "2009-10-31T16:00:00.000Z",
+    "end": "2009-10-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "4394"
+      },
+      {
+        "site": "letv",
+        "id": "89803",
+        "begin": "",
+        "official": null,
         "premuiumOnly": false,
         "censored": null,
         "exist": true,
