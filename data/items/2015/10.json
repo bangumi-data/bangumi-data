@@ -452,6 +452,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh9i3il",
+        "begin": "2017-04-14T16:02:49.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -788,6 +798,16 @@
         "begin": "2015-10-06T03:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh83ph1",
+        "begin": "2017-06-30T16:02:28.000Z",
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -1548,6 +1568,16 @@
       {
         "site": "saraba1st",
         "id": "1131688"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh82u99",
+        "begin": "2017-06-30T16:02:42.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1703,6 +1733,16 @@
       {
         "site": "saraba1st",
         "id": "1130468"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh84jt1",
+        "begin": "2017-06-30T16:02:42.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2013,6 +2053,16 @@
         "begin": "2015-10-05T16:30:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh830n9",
+        "begin": "2017-06-30T16:02:37.000Z",
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -2983,6 +3033,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh82xr9",
+        "begin": "2017-06-30T16:02:47.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -3818,6 +3878,7 @@
     "title": "ポケットモンスター XY＆Z",
     "titleTranslate": {
       "zh-Hans": [
+        "精灵宝可梦XY&Z",
         "口袋妖怪 XY & Z"
       ],
       "en": [
@@ -3884,6 +3945,16 @@
         "id": "o/o638xbha5jz73ya",
         "begin": "",
         "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh1mkud",
+        "begin": "2017-11-06T10:05:08.000Z",
+        "official": true,
         "premuiumOnly": false,
         "censored": null,
         "exist": true,
@@ -3996,12 +4067,12 @@
     "sites": [
       {
         "site": "iqiyi",
-        "id": "a_19rrkvw6mo",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
+        "id": "a_19rrhb4tzt",
+        "begin": "2015-08-07T08:45:07.000Z",
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
-        "exist": null,
+        "exist": true,
         "comment": ""
       },
       {
@@ -4123,6 +4194,32 @@
         "id": "dMKuLJT6aqgLiafE",
         "begin": "",
         "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "猫のダヤン　日本へ行く",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://anime-dayan.com/",
+    "begin": "2015-10-17T16:00:00.000Z",
+    "end": "2016-01-09T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "258329"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh5n9sd",
+        "begin": "2018-08-24T09:59:15.000Z",
+        "official": true,
         "premuiumOnly": false,
         "censored": null,
         "exist": true,

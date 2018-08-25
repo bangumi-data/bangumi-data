@@ -14,18 +14,18 @@
     "comment": "",
     "sites": [
       {
-        "site": "iqiyi",
-        "id": "a_19rro3wphk",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
-      },
-      {
         "site": "bangumi",
         "id": "211095"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb4kld",
+        "begin": "2015-08-11T08:03:32.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },

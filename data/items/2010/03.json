@@ -226,6 +226,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh6mk3l",
+        "begin": "2018-05-31T16:00:22.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -346,6 +356,36 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "映画 プリキュアオールスターズDX2 希望の光☆レインボージュエルを守れ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "光之美少女全明星DX2 希望之光☆守护彩虹宝石!"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/movie/2010_precure_allstars//index.html",
+    "begin": "2010-03-20T16:00:00.000Z",
+    "end": "2010-03-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "13041"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb4tzt",
+        "begin": "2015-08-07T08:45:07.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]

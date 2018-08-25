@@ -169,6 +169,16 @@
       {
         "site": "bangumi",
         "id": "212187"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhd0rb1",
+        "begin": "2017-08-29T08:37:22.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -255,6 +265,36 @@
         "id": "KAicpZ881peNGxCw",
         "begin": "",
         "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "映画 プリキュア ドリームスターズ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "光之美少女 Dream Stars"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.precure-dreamstars.com/",
+    "begin": "2017-03-18T16:00:00.000Z",
+    "end": "2017-03-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "196355"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb4tzt",
+        "begin": "2015-08-07T08:45:07.000Z",
+        "official": true,
         "premuiumOnly": false,
         "censored": null,
         "exist": true,

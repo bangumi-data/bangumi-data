@@ -618,6 +618,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhgk0n1",
+        "begin": "2017-11-07T00:30:07.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1289,6 +1299,16 @@
         "begin": "2013-10-10T15:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh8353p",
+        "begin": "2017-07-14T06:06:16.000Z",
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -2591,8 +2611,7 @@
     "titleTranslate": {
       "zh-Hans": [
         "精灵宝可梦XY",
-        "口袋妖怪 XY",
-        "精灵宝可梦XY1"
+        "口袋妖怪 XY"
       ],
       "en": [
         "Pokemon XY"

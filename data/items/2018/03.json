@@ -37,7 +37,7 @@
     "titleTranslate": {},
     "type": "tv",
     "lang": "ja",
-    "officialSite": "http://www6.nhk.or.jp/nhkpr/post/original.html?i=13624&f=prtw",
+    "officialSite": "https://www.nhk.or.jp/school/cara-tama/",
     "begin": "2018-03-29T15:30:00.000Z",
     "end": "",
     "comment": "",
@@ -194,6 +194,159 @@
         "id": "2968800df8f34b9bb376",
         "begin": "2018-03-10T05:12:59.000Z",
         "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh1tbol",
+        "begin": "2018-05-02T01:28:55.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "映画 プリキュア スーパースターズ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "光之美少女 Super Stars"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.precure-superstars.com/",
+    "begin": "2018-03-17T16:00:00.000Z",
+    "end": "2018-03-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "231716"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb4tzt",
+        "begin": "2015-08-07T08:45:07.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "重神機パンドーラ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "重神机潘多拉"
+      ],
+      "en": [
+        "LAST HOPE"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.project-pandora.jp/",
+    "begin": "2018-03-28T14:30:00.000Z",
+    "end": "2018-09-19T15:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "186180"
+      },
+      {
+        "site": "bilibili",
+        "id": "23811",
+        "begin": "2018-03-28T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh1tbu5",
+        "begin": "2018-03-28T14:55:09.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "e/e3yh815x8vf82oi",
+        "begin": "2018-03-28T15:00:00.000Z",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80221272",
+        "begin": "2018-03-29T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "重神机潘多拉",
+    "titleTranslate": {
+      "ja": [
+        "重神機パンドーラ"
+      ]
+    },
+    "type": "tv",
+    "lang": "zh-Hans",
+    "officialSite": "http://www.project-pandora.jp/",
+    "begin": "2018-03-28T14:30:00.000Z",
+    "end": "2018-09-19T15:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "186180"
+      },
+      {
+        "site": "bilibili",
+        "id": "23919",
+        "begin": "2018-03-28T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgyp57x",
+        "begin": "2018-03-28T14:55:06.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "2/225pc9y4ogg0pqq",
+        "begin": "2018-03-28T15:00:00.000Z",
+        "official": null,
         "premuiumOnly": false,
         "censored": null,
         "exist": true,

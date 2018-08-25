@@ -26,6 +26,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb4015",
+        "begin": "2016-02-04T10:34:13.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -55,6 +65,16 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhb4um9",
+        "begin": "2016-02-16T07:22:34.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -100,7 +120,7 @@
     "lang": "ja",
     "officialSite": "http://animejapan.cplaza.ne.jp/b-ch/otomo_sp/rb_carnival_ova/index.html",
     "begin": "1987-07-21T16:00:00.000Z",
-    "end": "",
+    "end": "1987-07-21T16:00:00.000Z",
     "comment": "",
     "sites": [
       {

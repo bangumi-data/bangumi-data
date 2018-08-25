@@ -584,6 +584,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh8772l",
+        "begin": "2017-09-30T01:56:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1353,8 +1363,8 @@
       },
       {
         "site": "iqiyi",
-        "id": "a_19rrhay53x",
-        "begin": "2015-07-04T15:30:00.000Z",
+        "id": "a_19rrhb5awh",
+        "begin": "2017-07-01T07:26:57.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -4359,6 +4369,26 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "告白実行委員会  今好きになる。ショートストーリー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "告白实行委员会 我于此刻恋上你"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://honeyworks.jp/release/06.html",
+    "begin": "2015-07-15T16:00:00.000Z",
+    "end": "2015-07-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "142153"
       }
     ]
   }
