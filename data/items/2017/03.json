@@ -301,5 +301,35 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "ハイスクール・フリート OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "高校舰队 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.hai-furi.com/",
+    "begin": "2017-03-31T16:00:00.000Z",
+    "end": "2017-05-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "193509"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hai-furi-ova",
+        "begin": "2018-05-31T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

@@ -3305,5 +3305,35 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "黒執事 Book of Murder",
+    "titleTranslate": {
+      "zh-Hans": [
+        "黑执事 幽鬼城杀人事件篇"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.kuroshitsuji.tv/ova/",
+    "begin": "2014-10-25T16:00:00.000Z",
+    "end": "2014-11-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "100511"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kuroshitsuji-bom",
+        "begin": "2018-06-13T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

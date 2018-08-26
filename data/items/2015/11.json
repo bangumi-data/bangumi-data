@@ -256,5 +256,31 @@
         "comment": "分割为 TV 放送"
       }
     ]
+  },
+  {
+    "title": "こども刑事めめたん",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2015-11-07T16:00:00.000Z",
+    "end": "2015-12-26T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "258393"
+      },
+      {
+        "site": "nicovideo",
+        "id": "memetan-anime",
+        "begin": "2016-04-29T01:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

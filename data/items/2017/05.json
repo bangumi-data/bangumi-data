@@ -124,5 +124,31 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "Caribadix",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-osaka.co.jp/ip4/jcd/short_anime.html",
+    "begin": "2017-05-07T16:00:00.000Z",
+    "end": "2018-03-25T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "258392"
+      },
+      {
+        "site": "nicovideo",
+        "id": "caribadix",
+        "begin": "2018-04-27T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

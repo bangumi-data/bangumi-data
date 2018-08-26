@@ -356,6 +356,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "asobiasobase",
+        "begin": "2018-07-15T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -600,6 +610,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "revuestarlight",
+        "begin": "2018-07-12T21:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -757,6 +777,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "lord-of-vermilion",
+        "begin": "2018-07-21T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -787,6 +817,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "jashin_anime",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -814,6 +854,16 @@
         "begin": "2018-07-10T17:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "angolmois",
+        "begin": "2018-07-18T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -1147,6 +1197,16 @@
       {
         "site": "bangumi",
         "id": "217300"
+      },
+      {
+        "site": "nicovideo",
+        "id": "shingeki_season3",
+        "begin": "2018-07-30T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1845,6 +1905,16 @@
       {
         "site": "bangumi",
         "id": "237762"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fairilu",
+        "begin": "2018-07-28T22:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1875,6 +1945,16 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "girls-band-party-pico",
+        "begin": "2018-08-23T11:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -1967,6 +2047,92 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "K SEVEN STORIES Episode 1「R:b ～BLAZE～」",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://k-project.jpn.com/",
+    "begin": "2018-07-07T16:00:00.000Z",
+    "end": "2018-08-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "181464"
+      },
+      {
+        "site": "nicovideo",
+        "id": "k-seven-stories",
+        "begin": "2018-07-07T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "スペースバグ",
+    "titleTranslate": {
+      "en": [
+        "Space Bug"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.spacebug-special.com/",
+    "begin": "2018-07-08T01:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "258390"
+      },
+      {
+        "site": "nicovideo",
+        "id": "space-bug",
+        "begin": "2018-07-09T14:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ているず おぶ ざ れいず 劇場",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场镜光传说"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://torays.tales-ch.jp/special/shortAnime/",
+    "begin": "2018-07-20T16:00:00.000Z",
+    "end": "2018-07-21T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "232793"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tales-of-the-rays-theater",
+        "begin": "2018-07-21T12:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]

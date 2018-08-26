@@ -3994,5 +3994,55 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "ずっと前から好きでした。～告白実行委員会～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "从很久以前就喜欢你了。～告白实行委员会～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.honeyworks-movie.jp/1st/",
+    "begin": "2016-04-23T16:00:00.000Z",
+    "end": "2016-04-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "140020"
+      },
+      {
+        "site": "nicovideo",
+        "id": "zuttomaekarasukideshita",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "猫も、オンダケ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "与猫同住的恩田家"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2016-04-01T16:00:00.000Z",
+    "end": "2016-06-17T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "175254"
+      }
+    ]
   }
 ]

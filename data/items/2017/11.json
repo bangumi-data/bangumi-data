@@ -39,6 +39,76 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "itsudatte",
+        "begin": "2018-07-31T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ご注文はうさぎですか？？～Dear My Sister～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "请问您今天要来点兔子吗？？～Dear My Sister～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.gochiusa.com/ova/",
+    "begin": "2017-11-11T16:00:00.000Z",
+    "end": "2017-11-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "181995"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gochiusa-dms",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 はいからさんが通る 前編 ～紅緒、花の17歳～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 窈窕淑女 前篇 ～红绪、花样的17岁～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://haikarasan.net/",
+    "begin": "2017-11-11T16:00:00.000Z",
+    "end": "2017-11-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "184151"
+      },
+      {
+        "site": "nicovideo",
+        "id": "haikarasan",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

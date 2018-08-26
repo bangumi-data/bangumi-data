@@ -228,5 +228,35 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "劇場版 天元突破グレンラガン 紅蓮篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天元突破红莲螺岩 红莲篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.gurren-lagann-movie.net/",
+    "begin": "2008-09-06T16:00:00.000Z",
+    "end": "2008-09-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3995"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gurren-lagann-movie-gurren",
+        "begin": "2018-05-31T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

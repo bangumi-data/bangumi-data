@@ -316,5 +316,35 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "這いよれ! ニャル子さんF",
+    "titleTranslate": {
+      "zh-Hans": [
+        "潜行吧！奈亚子F"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://nyaruko.com/",
+    "begin": "2015-05-30T16:00:00.000Z",
+    "end": "2015-05-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "111081"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nyaruko-f",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
   }
 ]

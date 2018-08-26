@@ -87,6 +87,46 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "spiritpact2",
+        "begin": "2018-02-24T13:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 ときめきレストラン☆☆☆ MIRACLE6",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版心跳餐厅 MIRACLE6"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://tokires-movie.com/",
+    "begin": "2018-02-10T16:00:00.000Z",
+    "end": "2018-02-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "223517"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tokires-movie",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }

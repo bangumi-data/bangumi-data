@@ -449,5 +449,31 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "パッコロリン",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.nhk.or.jp/kids/program/pakkororin.html",
+    "begin": "2011-03-28T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "258394"
+      },
+      {
+        "site": "nicovideo",
+        "id": "pakkororin",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
   }
 ]

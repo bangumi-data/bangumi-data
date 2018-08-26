@@ -1460,6 +1460,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "3lion-anime2",
+        "begin": "2018-04-24T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2522,6 +2532,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "robomasters",
+        "begin": "2018-04-14T12:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2672,6 +2692,32 @@
         "premuiumOnly": false,
         "censored": null,
         "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "Fate/stay night [Heaven’s Feel] I.presage flower",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.fate-sn.com/",
+    "begin": "2017-10-14T16:00:00.000Z",
+    "end": "2017-10-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "109375"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fate-sn1",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
         "comment": ""
       }
     ]

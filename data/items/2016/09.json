@@ -510,5 +510,35 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "映画 聲の形",
+    "titleTranslate": {
+      "zh-Hans": [
+        "声之形"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://koenokatachi-movie.com/",
+    "begin": "2016-09-17T16:00:00.000Z",
+    "end": "2016-09-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "117777"
+      },
+      {
+        "site": "nicovideo",
+        "id": "koenokatachi",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
   }
 ]
