@@ -56,6 +56,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2398",
+        "begin": "1988-04-29T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -229,6 +239,16 @@
       {
         "site": "bangumi",
         "id": "7667"
+      },
+      {
+        "site": "bilibili",
+        "id": "2391",
+        "begin": "1988-12-31T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

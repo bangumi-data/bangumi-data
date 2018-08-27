@@ -2369,6 +2369,16 @@
       {
         "site": "bangumi",
         "id": "223134"
+      },
+      {
+        "site": "bilibili",
+        "id": "20603",
+        "begin": "2017-10-05T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2569,6 +2579,16 @@
         "begin": "2017-12-21T15:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "6501",
+        "begin": "2017-10-09T17:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""

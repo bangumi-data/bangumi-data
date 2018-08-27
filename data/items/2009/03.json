@@ -36,6 +36,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "168",
+        "begin": "2009-03-25T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -316,6 +326,16 @@
       {
         "site": "bangumi",
         "id": "2895"
+      },
+      {
+        "site": "bilibili",
+        "id": "2855",
+        "begin": "2009-03-16T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
