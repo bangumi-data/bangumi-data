@@ -26,6 +26,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "24571",
+        "begin": "2018-07-01T13:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1291,7 +1301,7 @@
       {
         "site": "nicovideo",
         "id": "shinya-bakabon",
-        "begin": "",
+        "begin": "2018-07-15T15:30:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
@@ -2012,7 +2022,7 @@
       {
         "site": "bilibili",
         "id": "25002",
-        "begin": "",
+        "begin": "2018-07-31T07:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
