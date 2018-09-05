@@ -13,14 +13,33 @@ validLang.forEach((lang) => {
 
 const validType = ['tv', 'web', 'movie', 'ova'];
 
+const ISOJoi = Joi.extend((joi) => {
+    return {
+        base: joi.string(),
+        name: 'string',
+        language: {
+            isoString: 'needs to be same as that after `.toISOString()`'
+        },
+        rules: [{
+            name: 'isoString',
+            validate(params, value, state, options) {
+                if (value !== new Date(value).toISOString()) {
+                    return this.createError('string.isoString', { v: value }, state, options);
+                }
+                return value;
+            }
+        }]
+    };
+});
+
 module.exports = Joi.object().keys({
     title: Joi.string().trim().required(),
     titleTranslate: Joi.object().keys(titleTranslateKeySchema).required(),
     type: Joi.string().valid(validType).required(),
     lang: Joi.string().valid(validLang).required(),
     officialSite: Joi.string().uri().required().allow(''),
-    begin: Joi.string().isoDate().required().allow(''),
-    end: Joi.string().isoDate().required().allow(''),
+    begin: ISOJoi.string().isoString().required().allow(''),
+    end: ISOJoi.string().isoString().required().allow(''),
     comment: Joi.string().required().trim().allow(''),
     sites: Joi.array().items(Joi.object()
         .keys({
@@ -33,7 +52,7 @@ module.exports = Joi.object().keys({
         })
         .when(Joi.object().keys({ site: Joi.valid(Object.keys(onairSite)) }).unknown(), {
             then: Joi.object().keys({
-                begin: Joi.string().isoDate().required().allow(''),
+                begin: ISOJoi.string().isoString().required().allow(''),
                 official: Joi.boolean().required().allow(null),
                 premuiumOnly: Joi.boolean().required().allow(null),
                 censored: Joi.boolean().required().allow(null),
