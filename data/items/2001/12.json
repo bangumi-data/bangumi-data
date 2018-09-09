@@ -115,6 +115,16 @@
         "censored": null,
         "exist": null,
         "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3910",
+        "begin": "2001-12-21T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -236,6 +246,16 @@
       {
         "site": "bangumi",
         "id": "20928"
+      },
+      {
+        "site": "bilibili",
+        "id": "3411",
+        "begin": "2001-12-21T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

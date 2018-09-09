@@ -285,6 +285,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "682",
+        "begin": "2013-03-11T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -380,6 +390,16 @@
         "site": "iqiyi",
         "id": "a_19rrh6mmih",
         "begin": "2018-05-31T16:11:29.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3898",
+        "begin": "2013-03-08T16:00:01.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,

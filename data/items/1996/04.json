@@ -69,16 +69,6 @@
       },
       {
         "site": "bilibili",
-        "id": "5471",
-        "begin": "1995-12-15T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "bilibili",
         "id": "2306",
         "begin": "1996-04-04T16:00:00.000Z",
         "official": false,
@@ -216,6 +206,16 @@
       {
         "site": "bangumi",
         "id": "37252"
+      },
+      {
+        "site": "bilibili",
+        "id": "2298",
+        "begin": "1996-04-03T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },

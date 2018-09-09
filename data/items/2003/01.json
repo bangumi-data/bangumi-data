@@ -136,6 +136,16 @@
       {
         "site": "bangumi",
         "id": "2001"
+      },
+      {
+        "site": "bilibili",
+        "id": "1959",
+        "begin": "2003-01-07T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -286,6 +296,16 @@
       {
         "site": "bangumi",
         "id": "3395"
+      },
+      {
+        "site": "bilibili",
+        "id": "1234",
+        "begin": "2003-01-09T16:00:00.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
