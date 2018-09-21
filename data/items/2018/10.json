@@ -85,6 +85,16 @@
       {
         "site": "bangumi",
         "id": "235128"
+      },
+      {
+        "site": "bilibili",
+        "id": "25681",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -141,6 +151,16 @@
       {
         "site": "bangumi",
         "id": "257844"
+      },
+      {
+        "site": "bilibili",
+        "id": "25623",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -185,6 +205,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "关于我转生后成为史莱姆的那件事"
+      ],
+      "en": [
+        "That Time I Got Reincarnated as a Slime"
       ]
     },
     "type": "tv",
@@ -197,6 +220,16 @@
       {
         "site": "bangumi",
         "id": "239816"
+      },
+      {
+        "site": "bilibili",
+        "id": "25739",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -313,6 +346,16 @@
       {
         "site": "bangumi",
         "id": "240038"
+      },
+      {
+        "site": "bilibili",
+        "id": "25733",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -320,7 +363,8 @@
     "title": "うちのメイドがウザすぎる！",
     "titleTranslate": {
       "zh-Hans": [
-        "我家的女仆太烦人了！"
+        "我家的女仆太烦人了！",
+        "我家的女仆有够烦！"
       ]
     },
     "type": "tv",
@@ -333,6 +377,16 @@
       {
         "site": "bangumi",
         "id": "242670"
+      },
+      {
+        "site": "bilibili",
+        "id": "25613",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -433,6 +487,16 @@
       {
         "site": "bangumi",
         "id": "243981"
+      },
+      {
+        "site": "bilibili",
+        "id": "25622",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -460,7 +524,8 @@
     "title": "となりの吸血鬼さん",
     "titleTranslate": {
       "zh-Hans": [
-        "邻家的吸血鬼小妹"
+        "邻家的吸血鬼小妹",
+        "邻家索菲"
       ]
     },
     "type": "tv",
@@ -473,6 +538,16 @@
       {
         "site": "bangumi",
         "id": "241158"
+      },
+      {
+        "site": "bilibili",
+        "id": "25619",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -493,6 +568,16 @@
       {
         "site": "bangumi",
         "id": "236196"
+      },
+      {
+        "site": "bilibili",
+        "id": "25624",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -500,7 +585,8 @@
     "title": "俺が好きなのは妹だけど妹じゃない",
     "titleTranslate": {
       "zh-Hans": [
-        "我喜欢的是妹妹但不是妹妹"
+        "我喜欢的是妹妹但不是妹妹",
+        "我喜欢的是小说里的你"
       ]
     },
     "type": "tv",
@@ -513,6 +599,16 @@
       {
         "site": "bangumi",
         "id": "228255"
+      },
+      {
+        "site": "bilibili",
+        "id": "25717",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -533,6 +629,16 @@
       {
         "site": "bangumi",
         "id": "242633"
+      },
+      {
+        "site": "bilibili",
+        "id": "25697",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -545,7 +651,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://ch.nicovideo.jp/dakaretai-1st",
     "begin": "2018-10-05T15:00:00.000Z",
     "end": "",
     "comment": "",
@@ -558,7 +664,11 @@
   },
   {
     "title": "ユリシーズ ジャンヌ・ダルクと錬金の騎士",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "尤利西斯 贞德与炼金骑士"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://ulysses-anime.jp/",
@@ -574,7 +684,11 @@
   },
   {
     "title": "CONCEPTION",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "为我而生 CONCEPTION"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://conception-anime.com/",
@@ -585,6 +699,16 @@
       {
         "site": "bangumi",
         "id": "245531"
+      },
+      {
+        "site": "bilibili",
+        "id": "25607",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -592,7 +716,8 @@
     "title": "ガイコツ書店員 本田さん",
     "titleTranslate": {
       "zh-Hans": [
-        "骸骨书店员本田君"
+        "骸骨书店员本田君",
+        "书店里的骷髅店员本田"
       ]
     },
     "type": "tv",
@@ -605,6 +730,242 @@
       {
         "site": "bangumi",
         "id": "225850"
+      },
+      {
+        "site": "bilibili",
+        "id": "25663",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "東京喰種:re 最終章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "东京喰种:re 第二季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2018-10-09T14:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "244878"
+      }
+    ]
+  },
+  {
+    "title": "学園BASARA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "学园BASARA"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tbs.co.jp/anime/gakuen_basara/",
+    "begin": "2018-10-04T16:28:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "241949"
+      }
+    ]
+  },
+  {
+    "title": "ひもてはうす",
+    "titleTranslate": {
+      "en": [
+        "HIMOTE HOUSE"
+      ],
+      "zh-Hans": [
+        "不受欢迎者之家"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://himotehouse.com/",
+    "begin": "2018-10-07T15:45:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "228898"
+      }
+    ]
+  },
+  {
+    "title": "RErideD -刻越えのデリダ-",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://rerided.com/",
+    "begin": "2018-10-03T16:05:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "240800"
+      }
+    ]
+  },
+  {
+    "title": "でびどる！",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2018-10-04T16:05:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "261082"
+      }
+    ]
+  },
+  {
+    "title": "閃乱カグラ SHINOVI MASTER -東京妖魔篇-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "闪乱神乐 SHINOVI MASTER -东京妖魔篇-"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://senran2.tv/",
+    "begin": "2018-10-12T17:10:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "221190"
+      }
+    ]
+  },
+  {
+    "title": "メルクストーリア -無気力少年と瓶の中の少女-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "梅露可物语 -没精神的少年与瓶中的少女-",
+        "梅露可物语"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.mercstoria.jp/",
+    "begin": "2018-10-11T14:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "236612"
+      },
+      {
+        "site": "bilibili",
+        "id": "25699",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "叛逆性ミリオンアーサー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "叛逆性百万亚瑟王"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://hangyakusei-anime.com/",
+    "begin": "2018-10-25T13:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "240974"
+      },
+      {
+        "site": "bilibili",
+        "id": "25720",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ラディアン",
+    "titleTranslate": {
+      "en": [
+        "RADIANT"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.nhk.or.jp/anime/radiant/",
+    "begin": "2018-10-06T08:35:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "236597"
+      }
+    ]
+  },
+  {
+    "title": "ツルネ ―風舞高校弓道部―",
+    "titleTranslate": {
+      "zh-Hans": [
+        "弦音 -风舞高中弓道部-"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://tsurune.com/",
+    "begin": "2018-10-14T15:10:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "228378"
+      },
+      {
+        "site": "bilibili",
+        "id": "25696",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }
