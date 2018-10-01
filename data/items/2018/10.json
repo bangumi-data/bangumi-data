@@ -100,7 +100,11 @@
   },
   {
     "title": "RELEASE THE SPYCE",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "月影特工"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "",
@@ -111,6 +115,16 @@
       {
         "site": "bangumi",
         "id": "236510"
+      },
+      {
+        "site": "acfun",
+        "id": "5022156",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
       }
     ]
   },
@@ -118,7 +132,8 @@
     "title": "あかねさす少女",
     "titleTranslate": {
       "zh-Hans": [
-        "夕照少女"
+        "夕照少女",
+        "茜色少女"
       ]
     },
     "type": "tv",
@@ -131,6 +146,16 @@
       {
         "site": "bangumi",
         "id": "241033"
+      },
+      {
+        "site": "acfun",
+        "id": "5022158",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
       }
     ]
   },
@@ -274,7 +299,8 @@
         "SWORD ART ONLINE Alicization"
       ],
       "zh-Hans": [
-        "刀剑神域 Alicization篇"
+        "刀剑神域 Alicization篇",
+        "刀剑神域 Alicization"
       ]
     },
     "type": "tv",
@@ -293,6 +319,16 @@
         "id": "25510",
         "begin": "",
         "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh1temd",
+        "begin": "",
+        "official": true,
         "premuiumOnly": false,
         "censored": null,
         "exist": false,
@@ -337,6 +373,16 @@
         "censored": null,
         "exist": null,
         "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh1tfn9",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -357,6 +403,16 @@
       {
         "site": "bangumi",
         "id": "240346"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh5ky7t",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -406,6 +462,16 @@
         "id": "25733",
         "begin": "",
         "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh6z4oh",
+        "begin": "",
+        "official": true,
         "premuiumOnly": false,
         "censored": null,
         "exist": false,
@@ -461,6 +527,16 @@
       {
         "site": "bangumi",
         "id": "251547"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh1gx6l",
+        "begin": "2018-10-08T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -468,7 +544,8 @@
     "title": "ソラとウミのアイダ",
     "titleTranslate": {
       "zh-Hans": [
-        "宇宙与瀚海之间"
+        "宇宙与瀚海之间",
+        "天空与海洋之间"
       ]
     },
     "type": "tv",
@@ -481,6 +558,26 @@
       {
         "site": "bangumi",
         "id": "220658"
+      },
+      {
+        "site": "acfun",
+        "id": "5022159",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "25687",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -488,7 +585,9 @@
     "title": "ゾンビランドサガ",
     "titleTranslate": {
       "zh-Hans": [
-        "僵尸世界"
+        "僵尸世界",
+        "ZOMBIE LAND SAGA",
+        "佐贺偶像是传奇"
       ]
     },
     "type": "tv",
@@ -501,6 +600,26 @@
       {
         "site": "bangumi",
         "id": "252655"
+      },
+      {
+        "site": "acfun",
+        "id": "5022161",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "25689",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -521,6 +640,16 @@
       {
         "site": "bangumi",
         "id": "234059"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh6z4f9",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -571,6 +700,16 @@
       {
         "site": "bangumi",
         "id": "240562"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh70a9p",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -628,6 +767,16 @@
         "id": "25624",
         "begin": "",
         "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh5b6h5",
+        "begin": "",
+        "official": true,
         "premuiumOnly": false,
         "censored": null,
         "exist": false,
@@ -693,6 +842,26 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "25836",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh707kx",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -733,6 +902,16 @@
       {
         "site": "bangumi",
         "id": "227098"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh707zp",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -805,6 +984,16 @@
         "censored": null,
         "exist": null,
         "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh70aed",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -825,6 +1014,16 @@
       {
         "site": "bangumi",
         "id": "244878"
+      },
+      {
+        "site": "bilibili",
+        "id": "25727",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -845,6 +1044,16 @@
       {
         "site": "bangumi",
         "id": "241949"
+      },
+      {
+        "site": "acfun",
+        "id": "5022160",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
       }
     ]
   },
@@ -965,6 +1174,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh40p5h",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -1003,6 +1222,11 @@
     "titleTranslate": {
       "en": [
         "RADIANT"
+      ],
+      "zh-Hans": [
+        "RADIANT",
+        "虚空魔境",
+        "虚空魔法使"
       ]
     },
     "type": "tv",
@@ -1015,6 +1239,16 @@
       {
         "site": "bangumi",
         "id": "236597"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh73tp5",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -1111,6 +1345,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh6z5bd",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -1134,6 +1378,16 @@
       {
         "site": "bangumi",
         "id": "223127"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh6lqht",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -1257,6 +1511,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh40qo1",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -1277,6 +1541,150 @@
       {
         "site": "bangumi",
         "id": "256863"
+      }
+    ]
+  },
+  {
+    "title": "トロールズ：シング・ダンス・ハグ！",
+    "titleTranslate": {
+      "en": [
+        "Trolls Sing Dance Hug"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/trolls/",
+    "begin": "2018-10-03T08:55:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": []
+  },
+  {
+    "title": "BAKUMATSU",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tbs.co.jp/anime/BAKUMATSU/",
+    "begin": "2018-10-04T17:13:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "241181"
+      }
+    ]
+  },
+  {
+    "title": "イナズマイレブン オリオンの刻印",
+    "titleTranslate": {
+      "zh-Hans": [
+        "闪电十一人 俄里翁的刻印"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/inazuma2018/",
+    "begin": "2018-10-05T08:55:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "259877"
+      }
+    ]
+  },
+  {
+    "title": "ほしの島のにゃんこ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "星之岛喵喵"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2018-10-05T22:55:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "262384"
+      }
+    ]
+  },
+  {
+    "title": "おこしやす、ちとせちゃん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "欢迎光临千岁酱"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://vap.co.jp/chitosechan/",
+    "begin": "2018-10-05T16:35:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "255550"
+      }
+    ]
+  },
+  {
+    "title": "グラゼニ シーズン2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "钱进球场 第二季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://ch.nicovideo.jp/gurazeni",
+    "begin": "2018-10-05T13:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "251060"
+      },
+      {
+        "site": "bilibili",
+        "id": "25666",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "FAIRY TAIL ファイナルシリーズ",
+    "titleTranslate": {
+      "en": [
+        "FAIRY TAIL FINAL SERIES"
+      ],
+      "zh-Hans": [
+        "妖精的尾巴 最终季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/fairytail/",
+    "begin": "2018-10-06T22:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "174186"
       }
     ]
   }
