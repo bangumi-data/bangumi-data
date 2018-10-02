@@ -70,30 +70,25 @@ const validateUniqueBangumiId = readJsonPaths(ITEMS_DIRECTORY)
         });
     });
 
-const validateDate = readJsonPaths(ITEMS_DIRECTORY)
+const validateUniqueSiteInSites = readJsonPaths(ITEMS_DIRECTORY)
     .then((itemPaths) => {
         itemPaths.forEach((itemPath) => {
-            const { dir, name } = path.parse(path.relative(ITEMS_DIRECTORY, itemPath));
-            const date = `${dir}-${name}`;
-
             const dataArray = fs.readJsonSync(itemPath);
             dataArray.forEach((itemData) => {
-                if (date !== itemData.begin.slice(0, 7)) {
-                    throw new Error(`${itemData.title} (${itemData.begin}) should not be in ${dir}/${name}.json`);
-                }
-                if (!itemData.end) {
-                    const delta = new Date().toISOString().slice(0, 7).replace(/-/, '') - `${dir}${name}`;
-                    if (delta > 6) {
-                        console.warn(`[warn] ${itemData.title} in ${dir}/${name}.json lacks "end" field more than 6 months!`);
-                    } else if (delta > 3) {
-                        console.info(`[info] ${itemData.title} in ${dir}/${name}.json lacks "end" field more than 3 months.`);
-                    }
+                const siteNames = itemData.sites.map(({ site }) => { return site; });
+                if ([...new Set(siteNames)].length !== siteNames.length) {
+                    throw new Error(`Sites of ${itemData.title} is not unique in ${itemPath}`);
                 }
             });
         });
     });
 
-Promise.all([validateItems, validateSites, validateUniqueBangumiId, validateDate])
+Promise.all([
+    validateItems,
+    validateSites,
+    validateUniqueBangumiId,
+    validateUniqueSiteInSites
+])
     .catch((error) => {
         console.error(error);
         process.exit(1);
