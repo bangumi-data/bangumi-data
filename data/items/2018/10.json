@@ -118,10 +118,20 @@
       },
       {
         "site": "acfun",
-        "url": "http://www.acfun.cn/bangumi/ab5022156",
+        "url": "http://www.acfun.cn/bangumi/aa5022156",
         "begin": "",
         "official": false,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "releasethespyce",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -149,12 +159,22 @@
       },
       {
         "site": "acfun",
-        "url": "http://www.acfun.cn/bangumi/ab5022158",
+        "url": "http://www.acfun.cn/bangumi/aa5022158",
         "begin": "2018-10-01T11:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": true,
         "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "akanesasushojo",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
         "comment": ""
       }
     ]
@@ -246,6 +266,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "tiramisu-anime2",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -330,6 +360,16 @@
         "begin": "",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "sao-alicization",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -561,7 +601,7 @@
       },
       {
         "site": "acfun",
-        "url": "http://www.acfun.cn/bangumi/ab5022159",
+        "url": "http://www.acfun.cn/bangumi/aa5022159",
         "begin": "",
         "official": true,
         "premuiumOnly": false,
@@ -592,7 +632,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://zombielandsaga.com/",
     "begin": "2018-10-04T15:00:00.000Z",
     "end": "",
     "comment": "",
@@ -603,7 +643,7 @@
       },
       {
         "site": "acfun",
-        "url": "http://www.acfun.cn/bangumi/ab5022161",
+        "url": "http://www.acfun.cn/bangumi/aa5022161",
         "begin": "",
         "official": true,
         "premuiumOnly": false,
@@ -617,6 +657,16 @@
         "begin": "",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "zombielandsaga",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -650,6 +700,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "hinomaru-zumou",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -677,6 +737,16 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "yagakimi",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -741,6 +811,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "kyuketsukisan-anime",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -781,6 +861,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "animayell",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -809,6 +899,16 @@
         "begin": "",
         "official": false,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "imo-imo",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -994,6 +1094,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "gaikotsu-honda-anime",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -1047,7 +1157,7 @@
       },
       {
         "site": "acfun",
-        "url": "http://www.acfun.cn/bangumi/ab5022160",
+        "url": "http://www.acfun.cn/bangumi/aa5022160",
         "begin": "",
         "official": true,
         "premuiumOnly": false,
@@ -1107,6 +1217,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "rerided",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -1123,6 +1243,16 @@
       {
         "site": "bangumi",
         "id": "261082"
+      },
+      {
+        "site": "nicovideo",
+        "id": "devidol",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -1299,6 +1429,16 @@
       {
         "site": "bangumi",
         "id": "250802"
+      },
+      {
+        "site": "nicovideo",
+        "id": "jingaisan",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -1355,6 +1495,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "kazetsuyo-anime",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -1385,6 +1535,16 @@
         "begin": "",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "kitsunenokoe",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -1572,6 +1732,16 @@
       {
         "site": "bangumi",
         "id": "241181"
+      },
+      {
+        "site": "nicovideo",
+        "id": "anime_BAKUMATSU",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -1685,6 +1855,16 @@
       {
         "site": "bangumi",
         "id": "174186"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhbp78p",
+        "begin": "2018-10-06T23:30:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }
