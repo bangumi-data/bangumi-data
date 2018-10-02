@@ -118,12 +118,12 @@
       },
       {
         "site": "acfun",
-        "id": "5022156",
+        "url": "http://www.acfun.cn/bangumi/ab5022156",
         "begin": "",
-        "official": null,
-        "premuiumOnly": null,
+        "official": false,
+        "premuiumOnly": false,
         "censored": null,
-        "exist": null,
+        "exist": false,
         "comment": ""
       }
     ]
@@ -149,12 +149,12 @@
       },
       {
         "site": "acfun",
-        "id": "5022158",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
+        "url": "http://www.acfun.cn/bangumi/ab5022158",
+        "begin": "2018-10-01T11:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": true,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -240,7 +240,7 @@
       {
         "site": "bilibili",
         "id": "25806",
-        "begin": "",
+        "begin": "2018-10-01T17:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -273,7 +273,7 @@
       {
         "site": "bilibili",
         "id": "25739",
-        "begin": "",
+        "begin": "2018-10-01T16:30:00.000Z",
         "official": false,
         "premuiumOnly": false,
         "censored": null,
@@ -561,12 +561,12 @@
       },
       {
         "site": "acfun",
-        "id": "5022159",
+        "url": "http://www.acfun.cn/bangumi/ab5022159",
         "begin": "",
-        "official": null,
-        "premuiumOnly": null,
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
-        "exist": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -603,12 +603,12 @@
       },
       {
         "site": "acfun",
-        "id": "5022161",
+        "url": "http://www.acfun.cn/bangumi/ab5022161",
         "begin": "",
-        "official": null,
-        "premuiumOnly": null,
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
-        "exist": null,
+        "exist": false,
         "comment": ""
       },
       {
@@ -1047,12 +1047,12 @@
       },
       {
         "site": "acfun",
-        "id": "5022160",
+        "url": "http://www.acfun.cn/bangumi/ab5022160",
         "begin": "",
-        "official": null,
-        "premuiumOnly": null,
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
-        "exist": null,
+        "exist": false,
         "comment": ""
       }
     ]
