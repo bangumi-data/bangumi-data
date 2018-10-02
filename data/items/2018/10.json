@@ -236,6 +236,16 @@
         "censored": null,
         "exist": null,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "ssss-gridman",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -318,6 +328,26 @@
         "premuiumOnly": false,
         "censored": null,
         "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh707nd",
+        "begin": "2018-10-01T16:25:07.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "ten-sura",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
         "comment": ""
       }
     ]
@@ -476,6 +506,16 @@
       {
         "site": "bangumi",
         "id": "238006"
+      },
+      {
+        "site": "nicovideo",
+        "id": "goblin-slayer",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -513,6 +553,16 @@
         "begin": "",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "ao-buta",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -962,6 +1012,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "beelmama",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -982,6 +1042,16 @@
       {
         "site": "bangumi",
         "id": "241265"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dakaretai-1st",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -1009,6 +1079,16 @@
         "begin": "",
         "official": true,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "ulysses-anime",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": false,
         "comment": ""
@@ -1273,6 +1353,16 @@
       {
         "site": "bangumi",
         "id": "221190"
+      },
+      {
+        "site": "nicovideo",
+        "id": "senran2",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -1585,12 +1675,8 @@
     ]
   },
   {
-    "title": "イングレス",
-    "titleTranslate": {
-      "en": [
-        "INGRESS THE ANIMATION"
-      ]
-    },
+    "title": "INGRESS THE ANIMATION",
+    "titleTranslate": {},
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://ingressanime.com/",
@@ -1703,21 +1789,6 @@
         "id": "256863"
       }
     ]
-  },
-  {
-    "title": "トロールズ：シング・ダンス・ハグ！",
-    "titleTranslate": {
-      "en": [
-        "Trolls Sing Dance Hug"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://www.tv-tokyo.co.jp/anime/trolls/",
-    "begin": "2018-10-03T08:55:00.000Z",
-    "end": "",
-    "comment": "",
-    "sites": []
   },
   {
     "title": "BAKUMATSU",
@@ -1865,6 +1936,72 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "終電後、カプセルホテルで、上司に微熱伝わる夜。",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2018-10-07T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "258081"
+      },
+      {
+        "site": "nicovideo",
+        "id": "syu_capu",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "走り続けてよかったって。",
+    "titleTranslate": {
+      "zh-Hans": [
+        "能继续奔跑下去真是太好了。"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://hashiyoka.com/",
+    "begin": "2018-10-08T17:40:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "259135"
+      }
+    ]
+  },
+  {
+    "title": "おとなの防具屋さん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大人的防具店"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2018-10-08T16:25:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "262112"
       }
     ]
   }

@@ -76,6 +76,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "mahouritsu",
+        "begin": "2018-09-03T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -103,6 +113,36 @@
         "begin": "2018-07-07T03:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ワンピース エピソードオブ 空島",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海贼王SP空岛篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2018-08-25T16:00:00.000Z",
+    "end": "2018-08-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "256278"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrgxoyjx",
+        "begin": "2018-08-26T03:54:40.000Z",
+        "official": true,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""
