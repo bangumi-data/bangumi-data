@@ -51,7 +51,11 @@
   },
   {
     "title": "DOUBLE DECKER! ダグ&キリル",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "道格&基里尔"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://dabudeka.com/",
@@ -62,6 +66,16 @@
       {
         "site": "bangumi",
         "id": "234761"
+      },
+      {
+        "site": "bilibili",
+        "id": "25605",
+        "begin": "2018-09-30T14:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }
