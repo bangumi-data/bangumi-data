@@ -1,7 +1,7 @@
 const path = require('path');
 const fs = require('fs-extra');
-const { readJsonPaths } = require('./utils');
 const Joi = require('joi');
+const { readJsonPaths } = require('./utils');
 const siteSchema = require('./schema/site');
 const itemSchema = require('./schema/item');
 
