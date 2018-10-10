@@ -522,6 +522,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "Code Geass 反叛的鲁路修"
+      ],
+      "en": [
+        "Code Geass: Lelouch of the Rebellion"
       ]
     },
     "type": "tv",
@@ -554,6 +557,16 @@
       {
         "site": "bangumi",
         "id": "793"
+      },
+      {
+        "site": "netflix",
+        "id": "80065146",
+        "begin": "2017-12-13T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
