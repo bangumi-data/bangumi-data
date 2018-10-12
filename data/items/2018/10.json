@@ -685,9 +685,11 @@
     "title": "ゾンビランドサガ",
     "titleTranslate": {
       "zh-Hans": [
-        "僵尸世界",
-        "ZOMBIE LAND SAGA",
-        "佐贺偶像是传奇"
+        "佐贺偶像是传奇",
+        "僵尸乐园佐贺"
+      ],
+      "en": [
+        "ZOMBIE LAND SAGA"
       ]
     },
     "type": "tv",
@@ -1544,7 +1546,12 @@
   },
   {
     "title": "爆釣バーハンター",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "爆钓王",
+        "爆钓 Bar Hunter"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.toei-anim.co.jp/tv/bbh/",
@@ -1555,6 +1562,16 @@
       {
         "site": "bangumi",
         "id": "240464"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh5b5nt",
+        "begin": "2018-10-02T10:55:06.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2029,7 +2046,9 @@
     "title": "その時、カノジョは",
     "titleTranslate": {
       "zh-Hans": [
-        "那时，那个女孩。"
+        "那时，那个女孩。",
+        "彼时彼女",
+        "那时的她"
       ]
     },
     "type": "tv",
@@ -2042,6 +2061,46 @@
       {
         "site": "bangumi",
         "id": "259054"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh45j41",
+        "begin": "2018-10-06T16:25:07.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "愛玩怪獣",
+    "titleTranslate": {
+      "zh-Hans": [
+        "爱玩怪兽"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/aigan_kaiju/",
+    "begin": "2018-10-07T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "263322"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh40qeh",
+        "begin": "2018-10-06T22:54:06.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }
