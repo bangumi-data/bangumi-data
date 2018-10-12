@@ -516,6 +516,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh709x1",
+        "begin": "2018-10-06T16:30:00.000Z",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -759,6 +769,16 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "25730",
+        "begin": "2018-10-05T13:00:00.000Z",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -1717,6 +1737,16 @@
       {
         "site": "bangumi",
         "id": "249243"
+      },
+      {
+        "site": "bilibili",
+        "id": "24365",
+        "begin": "2018-10-03T13:24:00.000Z",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
