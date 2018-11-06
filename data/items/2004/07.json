@@ -56,6 +56,16 @@
       {
         "site": "bangumi",
         "id": "10509"
+      },
+      {
+        "site": "bilibili",
+        "id": "1894",
+        "begin": "2004-07-10T15:30:00.000Z",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -146,6 +156,16 @@
         "begin": "2011-12-02T06:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "1867",
+        "begin": "2004-07-04T16:30:00.000Z",
+        "official": null,
+        "premuiumOnly": null,
         "censored": null,
         "exist": true,
         "comment": ""
