@@ -24,5 +24,65 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "聖闘士星矢 Saintia翔",
+    "titleTranslate": {
+      "zh-Hans": [
+        "圣斗士星矢 圣斗少女翔"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.saintia-sho.com/",
+    "begin": "2018-12-10T10:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "202250"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh40fa5",
+        "begin": "2018-12-10T11:25:09.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "斉木楠雄のΨ難 完結編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "齐木楠雄的灾难 完结篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.saikikusuo.com/spot/anime/",
+    "begin": "2018-12-27T22:35:00.000Z",
+    "end": "2018-12-27T23:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "251831"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhvm9yx",
+        "begin": "2018-12-27T23:30:16.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]
