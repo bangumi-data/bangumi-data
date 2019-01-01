@@ -2301,5 +2301,35 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "劇場版 進撃の巨人 Season2〜覚醒の咆哮〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 进击的巨人 Season2～觉醒的咆哮～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://shingeki.tv/movie_season2/",
+    "begin": "2018-01-13T16:00:00.000Z",
+    "end": "2018-01-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "228407"
+      },
+      {
+        "site": "nicovideo",
+        "id": "shingeki_movie_season2",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
   }
 ]

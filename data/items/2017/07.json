@@ -2552,5 +2552,35 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "ノーゲーム・ノーライフ ゼロ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "NO GAME NO LIFE 游戏人生 ZERO"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://ngnl.jp/",
+    "begin": "2017-07-15T16:00:00.000Z",
+    "end": "2017-07-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "187276"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ngnl-zero",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
   }
 ]

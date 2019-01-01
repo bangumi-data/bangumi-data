@@ -335,5 +335,35 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "劇場版 進撃の巨人 前編〜紅蓮の弓矢〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 进击的巨人 前篇～红莲的弓矢～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2014-11-22T16:00:00.000Z",
+    "end": "2014-11-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "101266"
+      },
+      {
+        "site": "nicovideo",
+        "id": "shingeki_movie",
+        "begin": "2018-12-27T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

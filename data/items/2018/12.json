@@ -82,6 +82,66 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "26347",
+        "begin": "2018-12-28T00:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "saikikusuo_final",
+        "begin": "2018-12-28T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "PERSONA5 the Animation Dark Sun…",
+    "titleTranslate": {
+      "zh-Hans": [
+        "女神异闻录5 Dark Sun…"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://p5a.jp/",
+    "begin": "2018-12-30T15:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "262382"
+      },
+      {
+        "site": "bilibili",
+        "id": "26354",
+        "begin": "2018-12-30T17:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "p5a_DarkSun",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   }
