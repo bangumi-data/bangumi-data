@@ -528,6 +528,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "Happy Sugar Life"
+      ],
+      "en": [
+        "Happy Sugar Life"
       ]
     },
     "type": "tv",
@@ -540,6 +543,16 @@
       {
         "site": "bangumi",
         "id": "240828"
+      },
+      {
+        "site": "nicovideo",
+        "id": "happysugarlife",
+        "begin": "2018-10-29T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -569,6 +582,16 @@
         "premuiumOnly": false,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "grandblue-anime",
+        "begin": "2018-12-21T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -607,7 +630,7 @@
     "title": "少女☆歌劇 レヴュースタァライト",
     "titleTranslate": {
       "zh-Hans": [
-        "少女☆歌剧 Revue・Starlight"
+        "少女☆歌剧 Revue Starlight"
       ],
       "en": [
         "Revue Starlight"
@@ -697,7 +720,7 @@
     "lang": "ja",
     "officialSite": "http://baki-anime.jp/",
     "begin": "2018-07-01T15:30:00.000Z",
-    "end": "",
+    "end": "2018-12-23T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -949,7 +972,7 @@
     "lang": "ja",
     "officialSite": "http://satsuriku.com/",
     "begin": "2018-07-06T11:30:00.000Z",
-    "end": "",
+    "end": "2018-10-26T12:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1217,7 +1240,7 @@
     "lang": "ja",
     "officialSite": "https://shingeki.tv/season3/",
     "begin": "2018-07-22T15:35:00.000Z",
-    "end": "",
+    "end": "2018-10-14T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1247,7 +1270,7 @@
     "lang": "ja",
     "officialSite": "http://www.tonegawa-anime.com/",
     "begin": "2018-07-03T17:04:00.000Z",
-    "end": "",
+    "end": "2018-12-25T17:09:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1567,7 +1590,7 @@
     "lang": "ja",
     "officialSite": "http://bananafish.tv/",
     "begin": "2018-07-05T15:55:00.000Z",
-    "end": "",
+    "end": "2018-12-20T17:15:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1858,7 +1881,7 @@
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/gintama/",
     "begin": "2018-07-08T16:35:00.000Z",
-    "end": "",
+    "end": "2018-10-07T17:05:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1888,7 +1911,7 @@
     "lang": "ja",
     "officialSite": "http://fanworks.co.jp/news/20180625_ani/",
     "begin": "2018-07-09T12:54:00.000Z",
-    "end": "",
+    "end": "2018-12-17T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1928,7 +1951,7 @@
     "lang": "ja",
     "officialSite": "http://fairilu.jp/",
     "begin": "2018-07-06T23:15:00.000Z",
-    "end": "",
+    "end": "2019-01-05T23:45:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2130,8 +2153,7 @@
     "title": "スペースバグ",
     "titleTranslate": {
       "en": [
-        "Space Bug",
-        "Space bug"
+        "Space Bug"
       ]
     },
     "type": "tv",

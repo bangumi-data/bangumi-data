@@ -229,5 +229,35 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "映画けいおん！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "轻音少女 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.tbs.co.jp/anime/k-on/",
+    "begin": "2011-12-03T16:00:00.000Z",
+    "end": "2011-12-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "12426"
+      },
+      {
+        "site": "nicovideo",
+        "id": "k-on_movie",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
   }
 ]

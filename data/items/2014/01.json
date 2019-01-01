@@ -3125,5 +3125,35 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "君のいる町 OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "有你的小镇 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://kc.kodansha.co.jp/kimino/index.html",
+    "begin": "2014-01-17T16:00:00.000Z",
+    "end": "2014-03-17T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "84506"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kiminoirumachi_OAD",
+        "begin": "2018-10-18T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

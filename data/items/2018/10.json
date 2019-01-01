@@ -83,6 +83,7 @@
     "title": "ジョジョの奇妙な冒険 黄金の風",
     "titleTranslate": {
       "en": [
+        "JOJO's Bizarre Adventure Golden Wind",
         "LE BIZZARRE AVVENTURE DI GIOGIO Parte5 VENTO AUREO"
       ],
       "zh-Hans": [
@@ -121,9 +122,9 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://releasethespyce.jp/",
     "begin": "2018-10-07T14:30:00.000Z",
-    "end": "",
+    "end": "2018-12-22T18:08:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -164,7 +165,7 @@
     "lang": "ja",
     "officialSite": "http://akanesasushojo.com/",
     "begin": "2018-10-01T10:30:00.000Z",
-    "end": "",
+    "end": "2018-12-17T11:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -204,7 +205,7 @@
     "lang": "ja",
     "officialSite": "http://sidem-wakemini.com/",
     "begin": "2018-10-09T12:54:00.000Z",
-    "end": "",
+    "end": "2018-12-25T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -237,14 +238,15 @@
     "title": "SSSS.GRIDMAN",
     "titleTranslate": {
       "zh-Hans": [
-        "电光超人古立特"
+        "电光超人古立特",
+        "SSSS.古立特"
       ]
     },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://gridman.net/",
     "begin": "2018-10-06T15:00:00.000Z",
-    "end": "",
+    "end": "2018-12-22T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -278,13 +280,16 @@
     "titleTranslate": {
       "zh-Hans": [
         "宇宙战舰提拉米斯 2"
+      ],
+      "en": [
+        "SPACE BATTLESHIP TIRAMISU II"
       ]
     },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://tiramisu-anime.com/",
     "begin": "2018-10-01T16:00:00.000Z",
-    "end": "",
+    "end": "2018-12-24T16:10:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -317,6 +322,7 @@
     "title": "転生したらスライムだった件",
     "titleTranslate": {
       "zh-Hans": [
+        "关于我转生变成史莱姆这档事",
         "关于我转生后成为史莱姆的那件事"
       ],
       "en": [
@@ -389,7 +395,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://sao-alicization.net/",
     "begin": "2018-10-06T15:00:00.000Z",
     "end": "",
     "comment": "",
@@ -501,7 +507,7 @@
     "lang": "ja",
     "officialSite": "http://juliet-anime.com/",
     "begin": "2018-10-05T16:25:00.000Z",
-    "end": "",
+    "end": "2018-12-21T17:05:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -516,6 +522,16 @@
         "premuiumOnly": false,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "juliet-anime",
+        "begin": "2018-12-21T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -534,7 +550,7 @@
     "lang": "ja",
     "officialSite": "http://www.goblinslayer.jp/",
     "begin": "2018-10-06T16:30:00.000Z",
-    "end": "",
+    "end": "2018-12-25T03:25:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -574,7 +590,7 @@
     "lang": "ja",
     "officialSite": "http://ao-buta.com/",
     "begin": "2018-10-03T17:20:00.000Z",
-    "end": "",
+    "end": "2018-12-26T17:50:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -625,7 +641,7 @@
     "lang": "ja",
     "officialSite": "http://uzamaid.com/",
     "begin": "2018-10-05T16:40:00.000Z",
-    "end": "",
+    "end": "2018-12-21T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -665,7 +681,7 @@
     "lang": "ja",
     "officialSite": "http://kamuy-anime.com/",
     "begin": "2018-10-08T14:00:00.000Z",
-    "end": "",
+    "end": "2018-12-24T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -696,7 +712,7 @@
     "lang": "ja",
     "officialSite": "http://soraumi-anime.com/",
     "begin": "2018-10-03T15:00:00.000Z",
-    "end": "",
+    "end": "2018-12-19T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -750,7 +766,7 @@
     "lang": "ja",
     "officialSite": "https://zombielandsaga.com/",
     "begin": "2018-10-04T15:00:00.000Z",
-    "end": "",
+    "end": "2018-12-20T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -798,7 +814,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://hinomaru-zumou.com/",
     "begin": "2018-10-05T13:00:00.000Z",
     "end": "",
     "comment": "",
@@ -844,13 +860,16 @@
     "titleTranslate": {
       "zh-Hans": [
         "终将成为你"
+      ],
+      "en": [
+        "Bloom Into You"
       ]
     },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://yagakimi.com/",
     "begin": "2018-10-05T12:30:00.000Z",
-    "end": "",
+    "end": "2018-12-28T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -890,7 +909,7 @@
     "lang": "ja",
     "officialSite": "http://iroduku.jp/",
     "begin": "2018-10-05T16:55:00.000Z",
-    "end": "",
+    "end": "2018-12-28T18:35:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -921,7 +940,7 @@
     "lang": "ja",
     "officialSite": "http://kyuketsukisan-anime.com/",
     "begin": "2018-10-06T13:00:00.000Z",
-    "end": "",
+    "end": "2018-12-21T12:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -961,7 +980,7 @@
     "lang": "ja",
     "officialSite": "http://animayell.com/",
     "begin": "2018-10-07T15:00:00.000Z",
-    "end": "",
+    "end": "2018-12-23T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1012,7 +1031,7 @@
     "lang": "ja",
     "officialSite": "http://imo-imo.jp/",
     "begin": "2018-10-10T16:35:00.000Z",
-    "end": "",
+    "end": "2018-12-19T12:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1045,14 +1064,14 @@
     "title": "ベルゼブブ嬢のお気に召すまま。",
     "titleTranslate": {
       "zh-Hans": [
-        "只要贝尔哲布布大小姐喜欢就好"
+        "只要贝尔哲布布大小姐喜欢就好。"
       ]
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://beelmama.com/",
     "begin": "2018-10-10T17:50:00.000Z",
-    "end": "",
+    "end": "2018-12-26T18:20:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1102,7 +1121,7 @@
     "lang": "ja",
     "officialSite": "http://ch.nicovideo.jp/dakaretai-1st",
     "begin": "2018-10-05T15:00:00.000Z",
-    "end": "",
+    "end": "2018-12-28T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1132,7 +1151,7 @@
     "lang": "ja",
     "officialSite": "http://ulysses-anime.jp/",
     "begin": "2018-10-07T13:00:00.000Z",
-    "end": "",
+    "end": "2018-12-30T13:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1173,7 +1192,7 @@
     "lang": "ja",
     "officialSite": "http://conception-anime.com/",
     "begin": "2018-10-09T16:30:00.000Z",
-    "end": "",
+    "end": "2018-12-25T17:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1188,6 +1207,16 @@
         "premuiumOnly": false,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "conception-anime",
+        "begin": "2018-11-04T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -1204,7 +1233,7 @@
     "lang": "ja",
     "officialSite": "http://gaikotsu-honda-anime.com/",
     "begin": "2018-10-07T15:30:00.000Z",
-    "end": "",
+    "end": "2018-12-23T15:45:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1262,9 +1291,9 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://www.marv.jp/special/tokyoghoul/",
     "begin": "2018-10-09T14:00:00.000Z",
-    "end": "",
+    "end": "2018-12-18T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1294,7 +1323,7 @@
     "lang": "ja",
     "officialSite": "http://www.tbs.co.jp/anime/gakuen_basara/",
     "begin": "2018-10-04T16:28:00.000Z",
-    "end": "",
+    "end": "2018-12-20T17:08:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1310,6 +1339,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "gakuen_basara",
+        "begin": "2018-11-18T11:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1320,14 +1359,14 @@
         "HIMOTE HOUSE"
       ],
       "zh-Hans": [
-        "不受欢迎者之家"
+        "不受欢迎之家"
       ]
     },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://himotehouse.com/",
     "begin": "2018-10-07T15:45:00.000Z",
-    "end": "",
+    "end": "2018-12-23T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1357,7 +1396,7 @@
     "lang": "ja",
     "officialSite": "http://rerided.com/",
     "begin": "2018-10-03T16:05:00.000Z",
-    "end": "",
+    "end": "2018-12-19T16:35:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1391,9 +1430,9 @@
     "titleTranslate": {},
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://devidol.com",
     "begin": "2018-10-04T16:05:00.000Z",
-    "end": "",
+    "end": "2018-12-20T16:20:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1423,7 +1462,7 @@
     "lang": "ja",
     "officialSite": "http://senran2.tv/",
     "begin": "2018-10-12T17:10:00.000Z",
-    "end": "",
+    "end": "2018-12-28T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1446,15 +1485,18 @@
     "title": "メルクストーリア -無気力少年と瓶の中の少女-",
     "titleTranslate": {
       "zh-Hans": [
-        "梅露可物语 -没精神的少年与瓶中的少女-",
-        "梅露可物语"
+        "梅露可物语",
+        "梅露可物语 -无精打采的少年与瓶中少女-"
+      ],
+      "en": [
+        "Merc Storia: The Apathetic Boy and the Girl in a Bottle"
       ]
     },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.mercstoria.jp/",
     "begin": "2018-10-11T14:30:00.000Z",
-    "end": "",
+    "end": "2018-12-27T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1498,13 +1540,16 @@
     "titleTranslate": {
       "zh-Hans": [
         "叛逆性百万亚瑟王"
+      ],
+      "en": [
+        "Han-Gyaku-Sei Million Arthur"
       ]
     },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://hangyakusei-anime.com/",
     "begin": "2018-10-25T13:00:00.000Z",
-    "end": "",
+    "end": "2018-12-27T13:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1519,6 +1564,16 @@
         "premuiumOnly": false,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "hangyakusei-anime",
+        "begin": "2018-10-28T15:30:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -1569,7 +1624,7 @@
     "lang": "ja",
     "officialSite": "http://tsurune.com/",
     "begin": "2018-10-14T15:10:00.000Z",
-    "end": "",
+    "end": "2019-01-20T15:40:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1599,7 +1654,7 @@
     "lang": "ja",
     "officialSite": "http://ch.nicovideo.jp/jingaisan",
     "begin": "2018-10-02T16:00:00.000Z",
-    "end": "",
+    "end": "2018-12-18T16:05:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1723,7 +1778,7 @@
     "lang": "ja",
     "officialSite": "http://kitsune-no-koe.com/",
     "begin": "2018-10-10T17:00:00.000Z",
-    "end": "",
+    "end": "2018-12-21T13:45:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1787,12 +1842,16 @@
   },
   {
     "title": "INGRESS THE ANIMATION",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "Ingress"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://ingressanime.com/",
     "begin": "2018-10-17T15:55:00.000Z",
-    "end": "",
+    "end": "2018-12-26T15:55:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1812,7 +1871,7 @@
     "lang": "ja",
     "officialSite": "http://xuanyuansword.net/",
     "begin": "2018-10-01T17:20:00.000Z",
-    "end": "",
+    "end": "2018-12-24T17:35:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1840,9 +1899,9 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://www.yte.co.jp/program/detail.php?id=107",
     "begin": "2018-10-03T13:24:00.000Z",
-    "end": "",
+    "end": "2018-12-19T13:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1882,7 +1941,7 @@
     "lang": "ja",
     "officialSite": "http://www.ytv.co.jp/animegyakuten/",
     "begin": "2018-10-06T08:30:00.000Z",
-    "end": "",
+    "end": "2019-01-19T09:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1922,7 +1981,7 @@
     "lang": "ja",
     "officialSite": "http://www.souten-regenesis.com/",
     "begin": "2018-10-08T16:30:00.000Z",
-    "end": "",
+    "end": "2018-12-24T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1933,12 +1992,16 @@
   },
   {
     "title": "BAKUMATSU",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "恋爱幕末男友外传～在时空的彼方盛开之恋～"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.tbs.co.jp/anime/BAKUMATSU/",
     "begin": "2018-10-04T17:13:00.000Z",
-    "end": "",
+    "end": "2018-12-20T17:38:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2048,7 +2111,7 @@
     "lang": "ja",
     "officialSite": "http://ch.nicovideo.jp/gurazeni",
     "begin": "2018-10-05T13:30:00.000Z",
-    "end": "",
+    "end": "2018-12-21T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2112,12 +2175,16 @@
   },
   {
     "title": "終電後、カプセルホテルで、上司に微熱伝わる夜。",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "末班车后､在胶囊旅馆里､向上司传递微热的夜晚"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://shucap.cf-anime.com/",
     "begin": "2018-10-07T16:00:00.000Z",
-    "end": "",
+    "end": "2018-12-23T16:05:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2141,13 +2208,16 @@
     "titleTranslate": {
       "zh-Hans": [
         "能继续奔跑下去真是太好了。"
+      ],
+      "en": [
+        "I'm glad I could keep running."
       ]
     },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://hashiyoka.com/",
     "begin": "2018-10-08T17:40:00.000Z",
-    "end": "",
+    "end": "2018-10-29T17:55:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2167,7 +2237,7 @@
     "lang": "ja",
     "officialSite": "",
     "begin": "2018-10-08T16:25:00.000Z",
-    "end": "",
+    "end": "2018-12-24T16:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2189,7 +2259,7 @@
     "lang": "ja",
     "officialSite": "http://www.sonokano.com/",
     "begin": "2018-10-06T15:35:00.000Z",
-    "end": "",
+    "end": "2018-12-22T15:40:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2242,6 +2312,32 @@
         "begin": "2018-10-07T16:00:00.000Z",
         "official": null,
         "premuiumOnly": null,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "せいぜいがんばれ！魔法少女くるみ 2期",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.seizeiganbare.jp",
+    "begin": "2018-10-27T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "256948"
+      },
+      {
+        "site": "nicovideo",
+        "id": "seizeiganbare02",
+        "begin": "2018-11-05T15:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": true,
         "comment": ""
