@@ -167,6 +167,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "50781",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -220,6 +230,66 @@
         "begin": "2012-04-27T06:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "トワノクオン 第五章 双絶の来復",
+    "titleTranslate": {
+      "zh-Hans": [
+        "永远之久远 第五章 双绝的来复"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.towanoquon.com",
+    "begin": "2011-11-05T16:00:00.000Z",
+    "end": "2011-11-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "47728"
+      },
+      {
+        "site": "letv",
+        "id": "46312",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "トワノクオン 第六章 永久の久遠",
+    "titleTranslate": {
+      "zh-Hans": [
+        "永远之久远 第六章 永远之永恒"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.towanoquon.com",
+    "begin": "2011-11-26T16:00:00.000Z",
+    "end": "2011-11-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "47729"
+      },
+      {
+        "site": "letv",
+        "id": "46312",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""

@@ -40,7 +40,8 @@
         "Marmalade Boy"
       ],
       "zh-Hans": [
-        "橘子酱男孩"
+        "橘子酱男孩",
+        "果酱男孩"
       ]
     },
     "type": "tv",
@@ -69,6 +70,16 @@
         "id": "2324",
         "begin": "1994-03-12T16:00:00.000Z",
         "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "29242",
+        "begin": "",
+        "official": null,
         "premuiumOnly": false,
         "censored": null,
         "exist": true,

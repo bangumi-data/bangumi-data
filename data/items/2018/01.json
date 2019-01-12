@@ -473,6 +473,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "ceb92cefbfbdefbfbdef",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
       }
     ]
   },
@@ -1903,6 +1913,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "efbfbd751f66efbfbd01",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
       }
     ]
   },
@@ -2339,6 +2359,26 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "宇宙戦艦ヤマト2202 愛の戦士たち 第四章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战舰大和号2202 爱的战士们 第四章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://yamato2202.net/",
+    "begin": "2018-01-27T16:00:00.000Z",
+    "end": "2018-01-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "192153"
       }
     ]
   }

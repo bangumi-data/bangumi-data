@@ -544,6 +544,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "15387",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -983,6 +993,36 @@
         "id": "5749",
         "begin": "2008-07-18T16:00:01.000Z",
         "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "GHOST IN THE SHELL / 攻殻機動隊2.0",
+    "titleTranslate": {
+      "zh-Hans": [
+        "攻壳机动队2.0"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2008-07-12T16:00:00.000Z",
+    "end": "2008-07-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10291"
+      },
+      {
+        "site": "letv",
+        "id": "71773",
+        "begin": "",
+        "official": null,
         "premuiumOnly": false,
         "censored": null,
         "exist": true,

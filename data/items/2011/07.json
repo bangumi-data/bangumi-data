@@ -195,6 +195,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "44978",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -418,6 +428,16 @@
         "begin": "2011-07-08T16:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "45008",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
         "censored": null,
         "exist": true,
         "comment": ""
@@ -1586,6 +1606,46 @@
         "id": "1090",
         "begin": "2011-07-01T16:00:00.000Z",
         "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "71857",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "トワノクオン 第二章 混沌の蘭舞",
+    "titleTranslate": {
+      "zh-Hans": [
+        "永远之久远 第二章 混沌的兰舞"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.towanoquon.com",
+    "begin": "2011-07-16T16:00:00.000Z",
+    "end": "2011-07-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "47725"
+      },
+      {
+        "site": "letv",
+        "id": "46312",
+        "begin": "",
+        "official": null,
         "premuiumOnly": false,
         "censored": null,
         "exist": true,

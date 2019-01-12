@@ -349,5 +349,55 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "恋するシロクマ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恋爱的白熊"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://koisurushirokuma.jp/",
+    "begin": "2017-02-28T16:00:00.000Z",
+    "end": "2018-02-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "202156"
+      },
+      {
+        "site": "letv",
+        "id": "10037653",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "宇宙戦艦ヤマト2202 愛の戦士たち 第一章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战舰大和号2202 爱的战士们 第一章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://yamato2202.net/",
+    "begin": "2017-02-25T16:00:00.000Z",
+    "end": "2017-02-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "176025"
+      }
+    ]
   }
 ]

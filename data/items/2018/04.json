@@ -1239,6 +1239,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "3acea77735904b2296ad",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
       }
     ]
   },
@@ -2530,6 +2540,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "efbfbd1b3aefbfbdefbf",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
       }
     ]
   },
@@ -3190,6 +3210,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "7cc4d59f89e7489ba836",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
+        "comment": ""
       }
     ]
   },
@@ -3222,6 +3252,46 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "リズと青い鳥",
+    "titleTranslate": {
+      "zh-Hans": [
+        "莉兹与青鸟"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://liz-bluebird.com/",
+    "begin": "2018-04-21T16:00:00.000Z",
+    "end": "2018-04-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "216371"
+      },
+      {
+        "site": "pptv",
+        "id": "JGhFwyuRATibiaIIg",
+        "begin": "",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "youku",
+        "id": "fc65ffd3afac444683d1",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": null,
+        "censored": null,
+        "exist": null,
         "comment": ""
       }
     ]

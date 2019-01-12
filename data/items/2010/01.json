@@ -515,6 +515,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "15039",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -641,6 +651,16 @@
         "id": "1596",
         "begin": "2010-01-03T16:00:00.000Z",
         "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "letv",
+        "id": "14551",
+        "begin": "",
+        "official": null,
         "premuiumOnly": false,
         "censored": null,
         "exist": true,
@@ -815,6 +835,16 @@
       {
         "site": "bangumi",
         "id": "92388"
+      },
+      {
+        "site": "letv",
+        "id": "41192",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -841,6 +871,36 @@
         "id": "oFw4th6E9DKVE3s",
         "begin": "",
         "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "遙かなる時空の中で3 終わりなき運命",
+    "titleTranslate": {
+      "zh-Hans": [
+        "遥远时空中3 无尽的命运"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.gamecity.ne.jp/neoromance/tv/haruka/destiny/",
+    "begin": "2010-01-03T16:00:00.000Z",
+    "end": "2010-01-03T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3811"
+      },
+      {
+        "site": "letv",
+        "id": "41924",
+        "begin": "",
+        "official": null,
         "premuiumOnly": false,
         "censored": null,
         "exist": true,
