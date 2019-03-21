@@ -849,6 +849,16 @@
         "censored": null,
         "exist": null,
         "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80135674",
+        "begin": "2017-08-31T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -1269,6 +1279,16 @@
         "site": "nicovideo",
         "id": "re-zero-anime",
         "begin": "2016-04-09T14:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80131659",
+        "begin": "2018-12-31T16:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,

@@ -391,6 +391,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "龙与虎"
+      ],
+      "en": [
+        "Toradora!"
       ]
     },
     "type": "tv",
@@ -468,6 +471,16 @@
         "site": "nicovideo",
         "id": "toradora",
         "begin": "2011-11-27T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80049275",
+        "begin": "2018-12-12T16:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,

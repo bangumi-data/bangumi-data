@@ -836,7 +836,8 @@
     "title": "ピアノの森",
     "titleTranslate": {
       "zh-Hans": [
-        "钢琴之森"
+        "钢琴之森",
+        "琴之森"
       ]
     },
     "type": "movie",
@@ -866,6 +867,16 @@
         "begin": "2007-07-20T16:00:01.000Z",
         "official": false,
         "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80986797",
+        "begin": "2018-09-28T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
         "censored": null,
         "exist": true,
         "comment": ""
