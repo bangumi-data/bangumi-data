@@ -75,7 +75,8 @@
         "黑街GANGSTA"
       ],
       "en": [
-        "GANGSTA"
+        "GANGSTA",
+        "Gamgsta."
       ]
     },
     "type": "tv",
@@ -151,6 +152,16 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": false,
+        "comment": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80201315",
+        "begin": "2019-02-28T16:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]
