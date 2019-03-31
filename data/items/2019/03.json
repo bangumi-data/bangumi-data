@@ -28,5 +28,61 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "Cannon Busters",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.cannonbusters.com/",
+    "begin": "2019-03-01T16:00:00.000Z",
+    "end": "2019-03-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "186447"
+      },
+      {
+        "site": "bilibili",
+        "id": "26782",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 トリニティセブン -天空図書館と真紅の魔王-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 七人魔法使 天空图书馆与真红的魔王"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://movie.trinity-7.com/",
+    "begin": "2019-03-29T16:00:00.000Z",
+    "end": "2019-03-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "252432"
+      },
+      {
+        "site": "bilibili",
+        "id": "26927",
+        "begin": "2019-03-29T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

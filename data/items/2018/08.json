@@ -148,5 +148,35 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "劇場版 のんのんびより ばけーしょん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 悠哉日常大王 Vacation"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://nonnontv.com/movie/",
+    "begin": "2018-08-25T16:00:00.000Z",
+    "end": "2018-08-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "215618"
+      },
+      {
+        "site": "bilibili",
+        "id": "26632",
+        "begin": "2019-02-27T01:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

@@ -95,7 +95,7 @@
     "lang": "ja",
     "officialSite": "http://www.aikatsu.net/",
     "begin": "2018-04-05T09:25:00.000Z",
-    "end": "",
+    "end": "2019-03-28T09:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1960,7 +1960,7 @@
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/captaintsubasa2018/",
     "begin": "2018-04-02T16:35:00.000Z",
-    "end": "",
+    "end": "2019-04-01T16:50:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1993,7 +1993,7 @@
     "lang": "zh-Hans",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/captaintsubasa2018/",
     "begin": "2018-04-02T16:35:00.000Z",
-    "end": "",
+    "end": "2019-04-01T16:50:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2286,7 +2286,7 @@
     "lang": "ja",
     "officialSite": "http://www9.nhk.or.jp/anime/wasimo/",
     "begin": "2018-04-02T09:00:00.000Z",
-    "end": "",
+    "end": "2019-01-07T09:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2306,7 +2306,7 @@
     "lang": "ja",
     "officialSite": "http://gogo-gomachan.com/",
     "begin": "2018-04-03T09:45:00.000Z",
-    "end": "",
+    "end": "2019-02-26T09:45:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2447,7 +2447,7 @@
     "lang": "ja",
     "officialSite": "http://neco-neco.jp/",
     "begin": "2018-04-04T09:45:00.000Z",
-    "end": "",
+    "end": "2019-02-27T09:45:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2638,10 +2638,14 @@
   },
   {
     "title": "テレビ野郎 ナナーナ",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "香蕉怪大叔 呐呐~呐"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "http://www.tv-tokyo.co.jp/nana-na/",
+    "officialSite": "https://www.tv-tokyo.co.jp/nana-na/",
     "begin": "2018-04-06T13:48:00.000Z",
     "end": "2018-09-14T12:54:00.000Z",
     "comment": "",
@@ -2877,7 +2881,7 @@
     "lang": "ja",
     "officialSite": "http://meisakukun.com/",
     "begin": "2018-04-06T09:20:00.000Z",
-    "end": "",
+    "end": "2019-02-22T09:20:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3131,7 +3135,7 @@
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/youkai-watch-ss/",
     "begin": "2018-04-13T22:00:00.000Z",
-    "end": "",
+    "end": "2019-03-29T09:25:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3217,7 +3221,7 @@
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/four_of_a_kind/",
     "begin": "2018-04-02T16:00:00.000Z",
-    "end": "",
+    "end": "2018-10-07T18:05:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3315,6 +3319,36 @@
         "premuiumOnly": null,
         "censored": null,
         "exist": null,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 SERVAMP -サーヴァンプ- Alice in the Garden",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 吸血鬼仆人 Alice in the Garden"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://servamp-movie.jp/",
+    "begin": "2018-04-07T16:00:00.000Z",
+    "end": "2018-04-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "229938"
+      },
+      {
+        "site": "bilibili",
+        "id": "25951",
+        "begin": "2018-11-01T10:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]

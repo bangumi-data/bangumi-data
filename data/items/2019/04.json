@@ -39,6 +39,16 @@
       {
         "site": "bangumi",
         "id": "226256"
+      },
+      {
+        "site": "bilibili",
+        "id": "26794",
+        "begin": "2019-04-09T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -46,7 +56,8 @@
     "title": "ぼくたちは勉強ができない",
     "titleTranslate": {
       "zh-Hans": [
-        "我们真的学不来"
+        "我们真的学不来",
+        "我们无法一起学习"
       ]
     },
     "type": "tv",
@@ -59,6 +70,16 @@
       {
         "site": "bangumi",
         "id": "257369"
+      },
+      {
+        "site": "bilibili",
+        "id": "26767",
+        "begin": "2019-04-06T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -115,6 +136,16 @@
       {
         "site": "bangumi",
         "id": "262865"
+      },
+      {
+        "site": "bilibili",
+        "id": "26768",
+        "begin": "2019-04-08T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -122,7 +153,8 @@
     "title": "ひとりぼっちの○○生活",
     "titleTranslate": {
       "zh-Hans": [
-        "孤独地躲在墙角画圈圈"
+        "孤独地躲在墙角画圈圈",
+        "一个人的〇〇小日子"
       ]
     },
     "type": "tv",
@@ -135,6 +167,16 @@
       {
         "site": "bangumi",
         "id": "241335"
+      },
+      {
+        "site": "bilibili",
+        "id": "26818",
+        "begin": "2019-04-04T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -155,6 +197,16 @@
       {
         "site": "bangumi",
         "id": "268510"
+      },
+      {
+        "site": "bilibili",
+        "id": "26870",
+        "begin": "2019-04-04T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -195,6 +247,16 @@
       {
         "site": "bangumi",
         "id": "266455"
+      },
+      {
+        "site": "bilibili",
+        "id": "26766",
+        "begin": "2019-04-04T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -235,6 +297,16 @@
       {
         "site": "bangumi",
         "id": "204135"
+      },
+      {
+        "site": "bilibili",
+        "id": "26771",
+        "begin": "2019-04-01T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -255,6 +327,16 @@
       {
         "site": "bangumi",
         "id": "247886"
+      },
+      {
+        "site": "bilibili",
+        "id": "26871",
+        "begin": "2019-04-06T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -275,6 +357,16 @@
       {
         "site": "bangumi",
         "id": "245665"
+      },
+      {
+        "site": "bilibili",
+        "id": "26801",
+        "begin": "2019-04-06T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -295,6 +387,16 @@
       {
         "site": "bangumi",
         "id": "268320"
+      },
+      {
+        "site": "bilibili",
+        "id": "26876",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -376,7 +478,11 @@
   },
   {
     "title": "RobiHachi",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "RobiHachi"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://robihachi.jp/",
@@ -387,6 +493,16 @@
       {
         "site": "bangumi",
         "id": "267250"
+      },
+      {
+        "site": "bilibili",
+        "id": "26917",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -403,13 +519,23 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://hangyakusei-anime.com/",
-    "begin": "",
+    "begin": "2019-04-04T13:00:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "261048"
+      },
+      {
+        "site": "bilibili",
+        "id": "26880",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -423,7 +549,7 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://namuami-utena-anime.com/",
-    "begin": "",
+    "begin": "2019-04-08T11:00:00.000Z",
     "end": "",
     "comment": "",
     "sites": [
@@ -473,6 +599,16 @@
       {
         "site": "bangumi",
         "id": "254762"
+      },
+      {
+        "site": "bilibili",
+        "id": "26769",
+        "begin": "2019-04-11T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -519,6 +655,16 @@
       {
         "site": "bangumi",
         "id": "267615"
+      },
+      {
+        "site": "bilibili",
+        "id": "26809",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -546,6 +692,7 @@
     "title": "八月のシンデレラナイン",
     "titleTranslate": {
       "zh-Hans": [
+        "八月的棒球甜心",
         "八月的灰姑娘棒球队"
       ]
     },
@@ -559,6 +706,16 @@
       {
         "site": "bangumi",
         "id": "255667"
+      },
+      {
+        "site": "bilibili",
+        "id": "26775",
+        "begin": "2019-04-07T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -618,6 +775,387 @@
       {
         "site": "bangumi",
         "id": "239646"
+      },
+      {
+        "site": "bilibili",
+        "id": "26802",
+        "begin": "2019-04-11T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "洗い屋さん！～俺とアイツが女湯で!?～",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2019-04-07T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "275610"
+      }
+    ]
+  },
+  {
+    "title": "爆丸バトルプラネット",
+    "titleTranslate": {
+      "en": [
+        "BAKUGAN Battle Planet"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.bakugan.jp/",
+    "begin": "2019-04-01T08:55:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "279468"
+      }
+    ]
+  },
+  {
+    "title": "凹凸世界",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://aotu.7doc.cn/ja/",
+    "begin": "2019-04-13T17:10:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "80913"
+      }
+    ]
+  },
+  {
+    "title": "MIX",
+    "titleTranslate": {
+      "zh-Hans": [
+        "MIX"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2019-04-06T08:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "255980"
+      },
+      {
+        "site": "bilibili",
+        "id": "26770",
+        "begin": "2019-04-05T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "わしも-wasimo-(第7シリーズ)",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www9.nhk.or.jp/anime/wasimo/",
+    "begin": "2019-04-01T09:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "279469"
+      }
+    ]
+  },
+  {
+    "title": "少年アシベ GO!GO!ゴマちゃん(第4シリーズ)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少年阿贝GO！GO！小芝麻 第4季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://gogo-gomachan.com/",
+    "begin": "2019-04-02T09:45:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "279470"
+      },
+      {
+        "site": "bilibili",
+        "id": "26879",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "BAKUMATSUクライシス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恋爱幕末男友～于时之彼方盛开之恋～CRISIS"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tbs.co.jp/anime/BAKUMATSU/",
+    "begin": "2019-04-04T17:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "269824"
+      }
+    ]
+  },
+  {
+    "title": "ねこねこ日本史(第4シリーズ)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "猫猫日本史 第四季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://neco-neco.jp/",
+    "begin": "2019-04-03T09:45:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "279471"
+      }
+    ]
+  },
+  {
+    "title": "この音とまれ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "一弦定音！"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.konooto-anime.jp/",
+    "begin": "2019-04-06T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "254788"
+      }
+    ]
+  },
+  {
+    "title": "妖怪ウォッチ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "妖怪手表！"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/youkai-watch2019/",
+    "begin": "2019-04-05T09:25:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "279472"
+      }
+    ]
+  },
+  {
+    "title": "あはれ！名作くん(第4期)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "做得很好！名作君 第四季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://meisakukun.com/",
+    "begin": "2019-04-05T09:20:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "279473"
+      }
+    ]
+  },
+  {
+    "title": "デュエル・マスターズ!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "决斗大师！！"
+      ],
+      "en": [
+        "DUEL MASTERS"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.shopro.co.jp/tv/duelmasters/",
+    "begin": "2019-04-06T23:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "279474"
+      }
+    ]
+  },
+  {
+    "title": "キャロル&チューズデイ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "卡罗尔与星期二"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://caroleandtuesday.com/?lang=ja",
+    "begin": "2019-04-10T16:05:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "239912"
+      },
+      {
+        "site": "bilibili",
+        "id": "26875",
+        "begin": "2019-04-09T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "テレビ野郎 ナナーナ　わくわく洞窟ランド",
+    "titleTranslate": {
+      "zh-Hans": [
+        "香蕉怪大叔 呐呐~呐 好奇洞穴乐园"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.tv-tokyo.co.jp/nana-na/",
+    "begin": "2019-04-11T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "279475"
+      },
+      {
+        "site": "bilibili",
+        "id": "26881",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "真夜中のオカルト公務員",
+    "titleTranslate": {
+      "zh-Hans": [
+        "深夜的超自然公务员"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://occultkoumuin.com/",
+    "begin": "2019-04-07T15:30:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "250724"
+      },
+      {
+        "site": "bilibili",
+        "id": "26777",
+        "begin": "2019-04-07T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ULTRAMAN",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动奥特曼"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://anime.heros-ultraman.com/",
+    "begin": "2019-04-01T16:00:00.000Z",
+    "end": "2019-04-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "231247"
+      },
+      {
+        "site": "bilibili",
+        "id": "26765",
+        "begin": "2019-04-02T07:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

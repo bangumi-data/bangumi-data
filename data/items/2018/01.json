@@ -2424,5 +2424,35 @@
         "id": "192153"
       }
     ]
+  },
+  {
+    "title": "映画 中二病でも恋がしたい！ -Take On Me-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "中二病也要谈恋爱！ -Take On Me-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.anime-chu-2.com/",
+    "begin": "2018-01-06T16:00:00.000Z",
+    "end": "2018-01-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "215425"
+      },
+      {
+        "site": "bilibili",
+        "id": "25045",
+        "begin": "2018-07-17T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

@@ -333,7 +333,7 @@
     "lang": "ja",
     "officialSite": "http://www.ten-sura.com/",
     "begin": "2018-10-01T15:00:00.000Z",
-    "end": "",
+    "end": "2019-03-25T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -407,7 +407,7 @@
     "lang": "ja",
     "officialSite": "https://sao-alicization.net/",
     "begin": "2018-10-06T15:00:00.000Z",
-    "end": "",
+    "end": "2019-03-30T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1477,7 +1477,11 @@
   },
   {
     "title": "でびどる！",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "恶魔偶像"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://devidol.com",
@@ -1644,7 +1648,7 @@
     "lang": "ja",
     "officialSite": "http://www.nhk.or.jp/anime/radiant/",
     "begin": "2018-10-06T08:35:00.000Z",
-    "end": "",
+    "end": "2019-02-23T09:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2117,6 +2121,16 @@
         "censored": null,
         "exist": null,
         "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "25848",
+        "begin": "2018-10-01T17:00:00.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2373,6 +2387,16 @@
         "censored": null,
         "exist": null,
         "comment": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "25856",
+        "begin": "2018-10-07T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   },
@@ -2560,6 +2584,36 @@
         "premuiumOnly": null,
         "censored": null,
         "exist": null,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "RWBY Volume 6",
+    "titleTranslate": {
+      "zh-Hans": [
+        "红白黑黄 第六季"
+      ]
+    },
+    "type": "web",
+    "lang": "en",
+    "officialSite": "http://roosterteeth.com/show/rwby",
+    "begin": "2018-10-27T16:00:00.000Z",
+    "end": "2019-01-26T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "256155"
+      },
+      {
+        "site": "bilibili",
+        "id": "25955",
+        "begin": "2018-10-26T16:00:01.000Z",
+        "official": false,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
         "comment": ""
       }
     ]

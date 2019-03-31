@@ -1,7 +1,10 @@
 [
   {
-    "title": "スター☆トゥインクル プリキュア",
+    "title": "スター☆トゥインクルプリキュア",
     "titleTranslate": {
+      "en": [
+        "STAR☆TWINKLE PRECURE"
+      ],
       "zh-Hans": [
         "星光☆闪亮 光之美少女"
       ]
@@ -21,6 +24,52 @@
         "site": "iqiyi",
         "id": "a_19rrhul389",
         "begin": "2019-02-03T03:32:28.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "今日もツノがある",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://tsunoanime.jp/",
+    "begin": "2019-02-26T19:28:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "271304"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 王室教師ハイネ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "王室教师海涅 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2019-02-16T16:00:00.000Z",
+    "end": "2019-02-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "260948"
+      },
+      {
+        "site": "bilibili",
+        "id": "26619",
+        "begin": "2019-02-16T16:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
