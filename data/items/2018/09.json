@@ -118,5 +118,65 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "フリクリ オルタナ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "FLCL Alternative"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://flcl-anime.com/alterna/",
+    "begin": "2018-09-07T16:00:00.000Z",
+    "end": "2018-09-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "175398"
+      },
+      {
+        "site": "nicovideo",
+        "id": "flcl_alterna_progre",
+        "begin": "2019-02-01T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "フリクリ プログレ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "FLCL Progressive"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://flcl-anime.com/progre/",
+    "begin": "2018-09-28T16:00:00.000Z",
+    "end": "2018-09-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "175399"
+      },
+      {
+        "site": "nicovideo",
+        "id": "flcl_alterna_progre",
+        "begin": "2019-02-01T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      }
+    ]
   }
 ]

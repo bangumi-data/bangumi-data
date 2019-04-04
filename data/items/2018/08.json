@@ -178,5 +178,35 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "title": "劇場版 七つの大罪 天空の囚われ人",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 七大罪 天空的囚人"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.7-taizai-movie.net/",
+    "begin": "2018-08-18T16:00:00.000Z",
+    "end": "2018-08-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "219927"
+      },
+      {
+        "site": "nicovideo",
+        "id": "7-taizai-movie",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
   }
 ]
