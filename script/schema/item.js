@@ -23,10 +23,15 @@ const ISOJoi = Joi.extend((joi) => {
         rules: [{
             name: 'isoString',
             validate(params, value, state, options) {
-                if (value !== new Date(value).toISOString()) {
-                    return this.createError('string.isoString', { v: value }, state, options);
+                let valid = true;
+                try {
+                    valid = value === new Date(value).toISOString();
+                } catch (err) {
+                    valid = false;
                 }
-                return value;
+                return valid
+                    ? value
+                    : this.createError('string.isoString', { v: value }, state, options);
             }
         }]
     };
