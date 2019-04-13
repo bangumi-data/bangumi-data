@@ -23,11 +23,11 @@
       {
         "site": "mgtv",
         "id": "329073",
-        "begin": "",
+        "begin": "2019-04-04T10:30:00.000Z",
         "official": null,
-        "premuiumOnly": null,
+        "premuiumOnly": true,
         "censored": null,
-        "exist": null,
+        "exist": true,
         "comment": ""
       }
     ]
@@ -53,7 +53,7 @@
       {
         "site": "bilibili",
         "id": "26794",
-        "begin": "2019-04-09T16:00:01.000Z",
+        "begin": "2019-04-10T15:30:01.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -63,17 +63,17 @@
       {
         "site": "mgtv",
         "id": "329075",
-        "begin": "",
+        "begin": "2019-04-10T15:30:01.000Z",
         "official": null,
-        "premuiumOnly": null,
+        "premuiumOnly": true,
         "censored": null,
-        "exist": null,
+        "exist": true,
         "comment": ""
       },
       {
         "site": "qq",
         "id": "b/bnuzcobdr4lporv",
-        "begin": "",
+        "begin": "2019-04-10T15:30:01.000Z",
         "official": null,
         "premuiumOnly": false,
         "censored": null,
@@ -341,7 +341,7 @@
       {
         "site": "nicovideo",
         "id": "fruba",
-        "begin": "",
+        "begin": "2019-04-13T03:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
@@ -511,7 +511,7 @@
       {
         "site": "bilibili",
         "id": "26876",
-        "begin": "",
+        "begin": "2019-04-02T13:54:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -521,7 +521,7 @@
       {
         "site": "nicovideo",
         "id": "cingeki-anime-cs",
-        "begin": "",
+        "begin": "2019-04-03T03:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
@@ -667,7 +667,7 @@
       {
         "site": "bilibili",
         "id": "26917",
-        "begin": "",
+        "begin": "2019-04-08T15:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -700,7 +700,7 @@
       {
         "site": "bilibili",
         "id": "26880",
-        "begin": "",
+        "begin": "2019-04-04T13:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -859,7 +859,7 @@
       {
         "site": "bilibili",
         "id": "26809",
-        "begin": "",
+        "begin": "2019-04-02T10:30:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -869,7 +869,7 @@
       {
         "site": "nicovideo",
         "id": "diaace_2",
-        "begin": "",
+        "begin": "2019-04-10T03:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
@@ -1147,7 +1147,7 @@
       {
         "site": "bilibili",
         "id": "26879",
-        "begin": "",
+        "begin": "2019-04-02T12:00:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1177,7 +1177,7 @@
       {
         "site": "nicovideo",
         "id": "BAKUMATSU2",
-        "begin": "",
+        "begin": "2019-04-12T15:00:00.000Z",
         "official": true,
         "premuiumOnly": true,
         "censored": null,
@@ -1340,7 +1340,7 @@
       {
         "site": "bilibili",
         "id": "26881",
-        "begin": "",
+        "begin": "2019-04-11T11:53:00.000Z",
         "official": true,
         "premuiumOnly": false,
         "censored": null,
@@ -1422,9 +1422,9 @@
         "id": "328949",
         "begin": "",
         "official": null,
-        "premuiumOnly": null,
+        "premuiumOnly": false,
         "censored": null,
-        "exist": null,
+        "exist": true,
         "comment": ""
       },
       {
