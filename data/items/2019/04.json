@@ -224,7 +224,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "孤独地躲在墙角画圈圈",
-        "一个人的〇〇小日子"
+        "一个人的〇〇小日子",
+        "一个人的○○小日子"
       ]
     },
     "type": "tv",
@@ -298,6 +299,9 @@
       ],
       "zh-Hant": [
         "滿腦都是○○的我沒辦法談戀愛"
+      ],
+      "en": [
+        "Ao-chan Can't Study!"
       ]
     },
     "type": "tv",
@@ -327,7 +331,8 @@
     "title": "フルーツバスケット(2019)",
     "titleTranslate": {
       "zh-Hans": [
-        "水果篮子"
+        "水果篮子",
+        "水果篮子 第一季"
       ]
     },
     "type": "tv",
@@ -398,6 +403,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "在世界尽头咏唱恋曲的少女YU-NO"
+      ],
+      "en": [
+        "YU-NO: A girl who chants love at the bound of this world."
       ]
     },
     "type": "tv",
@@ -635,7 +643,11 @@
   },
   {
     "title": "Fairy gone フェアリーゴーン",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "Fairy gone"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://www.fairygone.com/",
@@ -896,6 +908,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "拾又之国"
+      ],
+      "en": [
+        "MAGMELL OF THE SEA BLUE"
       ]
     },
     "type": "tv",
@@ -1033,7 +1048,11 @@
   },
   {
     "title": "洗い屋さん！～俺とアイツが女湯で!?～",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "洗浴服务！～我和那家伙在女浴池！？～"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "",
@@ -1097,7 +1116,8 @@
     "title": "MIX",
     "titleTranslate": {
       "zh-Hans": [
-        "MIX"
+        "MIX",
+        "MIX：明青故事"
       ]
     },
     "type": "tv",
@@ -1143,7 +1163,8 @@
     "title": "少年アシベ GO!GO!ゴマちゃん(第4シリーズ)",
     "titleTranslate": {
       "zh-Hans": [
-        "少年阿贝GO！GO！小芝麻 第4季"
+        "少年阿贝GO！GO！小芝麻 第4季",
+        "少年阿贝GO！GO！小芝麻 第四季"
       ]
     },
     "type": "tv",
@@ -1306,7 +1327,11 @@
     "title": "キャロル&チューズデイ",
     "titleTranslate": {
       "zh-Hans": [
-        "卡罗尔与星期二"
+        "卡罗尔与星期二",
+        "CAROLE & TUESDAY"
+      ],
+      "en": [
+        "CAROLE & TUESDAY"
       ]
     },
     "type": "tv",
@@ -1489,6 +1514,46 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "進撃の巨人 Season3 Part.2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "进击的巨人 第三季 Part.2"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2019-04-28T15:10:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "263750"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士ガンダム THE ORIGIN 前夜 赤い彗星",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达 THE ORIGIN 前夜 红色彗星"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.gundam-the-origin.net/tv/index.html",
+    "begin": "2019-04-28T15:35:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "267412"
       }
     ]
   }
