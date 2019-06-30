@@ -1636,7 +1636,7 @@
     "lang": "ja",
     "officialSite": "http://www.takaratomy-arts.co.jp/specials/prichan/",
     "begin": "2018-04-08T01:00:00.000Z",
-    "end": "",
+    "end": "2019-03-31T01:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2144,7 +2144,7 @@
     "lang": "ja",
     "officialSite": "http://www.tv-tokyo.co.jp/anime/beyblade/",
     "begin": "2018-04-02T08:55:00.000Z",
-    "end": "",
+    "end": "2019-03-25T09:25:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3389,6 +3389,16 @@
         "premuiumOnly": false,
         "censored": null,
         "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "servamp-movie",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
         "comment": ""
       }
     ]

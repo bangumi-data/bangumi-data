@@ -92,6 +92,46 @@
         "censored": null,
         "exist": null,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "movie-trinity-7-hlcl",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "グリザイア：ファントムトリガー THE ANIMATIION 01/02",
+    "titleTranslate": {
+      "zh-Hans": [
+        "灰色：幻影扳机 01/02"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://grisaia-pt.com/gptanime/",
+    "begin": "2019-03-15T16:00:00.000Z",
+    "end": "2019-03-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "219263"
+      },
+      {
+        "site": "nicovideo",
+        "id": "grisaia-pt",
+        "begin": "2019-04-17T03:00:00.000Z",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": true,
+        "comment": ""
       }
     ]
   }

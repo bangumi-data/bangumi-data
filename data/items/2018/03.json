@@ -447,5 +447,35 @@
         "id": "216419"
       }
     ]
+  },
+  {
+    "title": "文豪ストレイドッグス DEAD APPLE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "文豪野犬 DEAD APPLE"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://bungo-stray-dogs.jp/",
+    "begin": "2018-03-03T16:00:00.000Z",
+    "end": "2018-03-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "209596"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bungo-stray-dogs-dead-apple",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
+      }
+    ]
   }
 ]
