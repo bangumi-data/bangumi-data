@@ -1076,5 +1076,65 @@
         "id": "285670"
       }
     ]
+  },
+  {
+    "title": "聖闘士星矢: Knights of the Zodiac",
+    "titleTranslate": {
+      "zh-Hans": [
+        "圣斗士星矢：黄道十二宫战士"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2019-07-19T16:00:00.000Z",
+    "end": "2019-07-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "221295"
+      },
+      {
+        "site": "netflix",
+        "id": "80186926",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": null,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "ケンガンアシュラ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "拳愿阿修罗"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://kengan.net/",
+    "begin": "2019-07-31T16:00:00.000Z",
+    "end": "2019-07-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "132817"
+      },
+      {
+        "site": "netflix",
+        "id": "80992228",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": null,
+        "comment": ""
+      }
+    ]
   }
 ]
