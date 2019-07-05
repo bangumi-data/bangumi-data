@@ -66,6 +66,16 @@
         "censored": null,
         "exist": false,
         "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhshzg5",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -128,6 +138,16 @@
         "premuiumOnly": false,
         "censored": null,
         "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "toaru-accelerator",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
         "comment": ""
       }
     ]
@@ -208,6 +228,16 @@
         "premuiumOnly": false,
         "censored": null,
         "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "takagi3_me2",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
         "comment": ""
       }
     ]
@@ -505,6 +535,16 @@
         "premuiumOnly": false,
         "censored": null,
         "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rri0l9d5",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
         "comment": ""
       }
     ]
@@ -856,6 +896,36 @@
       {
         "site": "bangumi",
         "id": "159159"
+      },
+      {
+        "site": "bilibili",
+        "id": "27997",
+        "begin": "2019-07-06T16:00:01.000Z",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "qq",
+        "id": "m/ma1qf0ko6p095l9",
+        "begin": "",
+        "official": null,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "ensemblestars-anime",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -929,6 +999,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "astra-anime",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -961,6 +1041,16 @@
         "premuiumOnly": false,
         "censored": null,
         "exist": true,
+        "comment": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "copcraft",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
         "comment": ""
       }
     ]
@@ -1082,6 +1172,16 @@
         "censored": null,
         "exist": true,
         "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rri0k0st",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": false,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -1102,6 +1202,16 @@
       {
         "site": "bangumi",
         "id": "270229"
+      },
+      {
+        "site": "nicovideo",
+        "id": "wakanobu",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
+        "comment": ""
       }
     ]
   },
@@ -1323,6 +1433,52 @@
         "premuiumOnly": true,
         "censored": null,
         "exist": null,
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "title": "トライナイツ",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.ntv.co.jp/tryknights/",
+    "begin": "2019-07-30T16:29:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "277423"
+      }
+    ]
+  },
+  {
+    "title": "超次元ゲイム ネプテューヌ ～ねぷのなつやすみ2019～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超次元游戏 海王星 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://nep-anime.tv/",
+    "begin": "2019-07-08T16:00:00.000Z",
+    "end": "2019-07-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "279365"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nep-anime-ova",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": null,
+        "exist": false,
         "comment": ""
       }
     ]
