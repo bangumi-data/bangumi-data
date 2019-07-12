@@ -11,17 +11,11 @@
     "officialSite": "",
     "begin": "1973-10-13T10:00:00.000Z",
     "end": "1974-03-30T10:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrhb1dwl",
-        "begin": "2015-11-04T03:13:43.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-11-04T03:13:43.000Z"
       },
       {
         "site": "bangumi",
@@ -41,7 +35,6 @@
     "officialSite": "http://www.mxtv.co.jp/samurai_g/",
     "begin": "1973-10-07T22:30:00.000Z",
     "end": "1974-09-15T23:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -61,7 +54,6 @@
     "officialSite": "",
     "begin": "1973-10-04T10:00:00.000Z",
     "end": "1974-03-28T10:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -81,7 +73,6 @@
     "officialSite": "http://www.tatsunoko.co.jp/works/archive/cassyan.html",
     "begin": "1973-10-02T18:08:00.000Z",
     "end": "1974-06-25T18:35:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -89,13 +80,8 @@
       },
       {
         "site": "bilibili",
-        "id": "6401",
-        "begin": "2008-10-01T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "10572",
+        "begin": "2008-10-01T16:00:00.000Z"
       }
     ]
   },
@@ -111,7 +97,6 @@
     "officialSite": "",
     "begin": "1973-10-03T16:00:00.000Z",
     "end": "1974-09-25T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -120,12 +105,7 @@
       {
         "site": "nicovideo",
         "id": "karate",
-        "begin": "2012-02-21T06:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2012-02-21T06:00:00.000Z"
       }
     ]
   }

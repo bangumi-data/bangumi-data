@@ -7,77 +7,36 @@
     "officialSite": "http://ac.qq.com/event/huyao/index.html",
     "begin": "2015-06-26T12:00:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
-      {
-        "site": "acfun",
-        "id": "1470335",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
       {
         "site": "bilibili",
         "id": "2543",
-        "begin": "2015-06-25T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-06-25T16:00:00.000Z"
       },
       {
         "site": "pptv",
         "id": "xWxIxia6UBEKlI4s",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "qq",
         "id": "0/0sdnyl7h86atoyt",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhb5yg1",
-        "begin": "2016-03-15T10:02:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-03-15T10:02:00.000Z"
       },
       {
         "site": "letv",
         "id": "10010294",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "mgtv",
         "id": "156998",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -97,17 +56,11 @@
     "officialSite": "http://typhoon-noruda.com/",
     "begin": "2015-06-05T16:00:00.000Z",
     "end": "2015-06-05T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "10008488",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -127,17 +80,11 @@
     "officialSite": "",
     "begin": "2015-06-24T16:00:00.000Z",
     "end": "2015-06-24T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "1ntV0zuhEUibyMJg",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -157,7 +104,6 @@
     "officialSite": "http://yowapeda.com/reroad/",
     "begin": "2015-06-12T16:00:00.000Z",
     "end": "2015-06-12T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -166,12 +112,7 @@
       {
         "site": "pptv",
         "id": "ety4Np4EdLIVkics",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -187,7 +128,6 @@
     "officialSite": "",
     "begin": "2015-06-27T16:00:00.000Z",
     "end": "2015-06-27T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -196,12 +136,7 @@
       {
         "site": "nicovideo",
         "id": "shingeki_movie",
-        "begin": "2018-12-27T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-12-27T03:00:00.000Z"
       }
     ]
   }

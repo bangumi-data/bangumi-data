@@ -11,27 +11,16 @@
     "officialSite": "",
     "begin": "2010-06-23T16:00:00.000Z",
     "end": "2010-06-23T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "29836",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "pptv",
         "id": "bNynJY3zY6EEguo",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -51,7 +40,6 @@
     "officialSite": "",
     "begin": "2010-06-25T16:00:00.000Z",
     "end": "2010-06-25T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -60,32 +48,17 @@
       {
         "site": "nicovideo",
         "id": "bungakushoujo-memoire",
-        "begin": "2011-11-23T06:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2011-11-23T06:00:00.000Z"
       },
       {
         "site": "pptv",
         "id": "WJRw7la8LGrNS7M",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "letv",
         "id": "29271",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -101,7 +74,6 @@
     "officialSite": "http://www.uchushow.net/index.html",
     "begin": "2010-06-26T16:00:00.000Z",
     "end": "2010-06-26T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -110,12 +82,7 @@
       {
         "site": "nicovideo",
         "id": "uchushow",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   }

@@ -15,17 +15,11 @@
     "officialSite": "http://asahi.co.jp/suite_precure/",
     "begin": "2011-02-05T23:30:00.000Z",
     "end": "2012-01-29T00:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrhb14k1",
-        "begin": "2015-08-14T17:08:48.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-08-14T17:08:48.000Z"
       },
       {
         "site": "bangumi",
@@ -48,7 +42,6 @@
     "officialSite": "http://wwws.warnerbros.co.jp/supernatural/",
     "begin": "2011-02-23T13:00:00.000Z",
     "end": "2011-04-06T13:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -68,7 +61,6 @@
     "officialSite": "http://www.bakugan.jp/",
     "begin": "2011-02-13T16:30:00.000Z",
     "end": "2012-01-26T17:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -88,17 +80,11 @@
     "officialSite": "http://sbr-gx.jp",
     "begin": "2011-02-01T16:00:00.000Z",
     "end": "2011-02-01T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "AEo2tByC8jCTEXk",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -118,17 +104,11 @@
     "officialSite": "http://dbeat.bandaivisual.co.jp/koisento/",
     "begin": "2011-02-25T16:00:00.000Z",
     "end": "2011-02-25T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "hb2IBm7URILlY8s",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -148,7 +128,6 @@
     "officialSite": "http://www.bakatest.com/ova/index.html",
     "begin": "2011-02-23T16:00:00.000Z",
     "end": "2011-03-30T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -157,32 +136,17 @@
       {
         "site": "nicovideo",
         "id": "ch60021",
-        "begin": "2011-04-29T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2011-04-29T03:00:00.000Z"
       },
       {
         "site": "pptv",
         "id": "PQUAfuZMvPpd20M",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "3486",
-        "begin": "2011-02-22T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2011-02-22T16:00:01.000Z"
       }
     ]
   },
@@ -198,7 +162,6 @@
     "officialSite": "http://kc.kodansha.co.jp/megamisama/",
     "begin": "2011-02-23T16:00:00.000Z",
     "end": "2013-08-23T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -207,22 +170,12 @@
       {
         "site": "pptv",
         "id": "Vdu1M5sBca8SkPg",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "3759",
-        "begin": "2011-02-22T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2011-02-22T16:00:01.000Z"
       }
     ]
   },
@@ -238,7 +191,6 @@
     "officialSite": "http://www.macrossf.com/movie2/",
     "begin": "2011-02-26T16:00:00.000Z",
     "end": "2011-02-26T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -247,12 +199,7 @@
       {
         "site": "pptv",
         "id": "kHicUUrogkM4xrxc",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   }

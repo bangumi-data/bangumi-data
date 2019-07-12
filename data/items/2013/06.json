@@ -15,27 +15,16 @@
     "officialSite": "http://www9.nhk.or.jp/anime/kingdom2/",
     "begin": "2013-06-08T14:45:00.000Z",
     "end": "2014-03-01T15:25:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrifq03u",
-        "begin": "2013-08-22T08:07:35.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2013-08-22T08:07:35.000Z"
       },
       {
         "site": "bilibili",
         "id": "583",
-        "begin": "2013-06-07T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2013-06-07T16:00:00.000Z"
       },
       {
         "site": "bangumi",
@@ -44,12 +33,7 @@
       {
         "site": "nicovideo",
         "id": "kingdom2",
-        "begin": "2016-01-24T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-01-24T15:00:00.000Z"
       }
     ]
   },
@@ -65,17 +49,11 @@
     "officialSite": "http://garasunokamendesuga.ponycanyon.co.jp/movie/",
     "begin": "2013-06-22T16:00:00.000Z",
     "end": "2013-06-22T17:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "YfLeXMQqmtg7uSE",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -84,12 +62,7 @@
       {
         "site": "bilibili",
         "id": "4046",
-        "begin": "2013-06-21T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2013-06-21T16:00:01.000Z"
       }
     ]
   },
@@ -105,7 +78,6 @@
     "officialSite": "",
     "begin": "2013-06-15T16:00:00.000Z",
     "end": "2013-06-15T18:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -125,17 +97,11 @@
     "officialSite": "http://d-game.dengeki.com/RO-KYU-BU/index.html",
     "begin": "2013-06-22T16:00:00.000Z",
     "end": "2013-06-22T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "SzIenARq2hh7ibWE",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -155,7 +121,6 @@
     "officialSite": "http://donyatsu.jp",
     "begin": "2013-06-01T16:00:00.000Z",
     "end": "2013-06-01T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -164,12 +129,7 @@
       {
         "site": "nicovideo",
         "id": "donyatsu",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -188,7 +148,6 @@
     "officialSite": "http://kokaku-a.jp/arise/",
     "begin": "2013-06-21T16:00:00.000Z",
     "end": "2013-06-21T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -197,12 +156,7 @@
       {
         "site": "netflix",
         "id": "80002073",
-        "begin": "2017-01-31T08:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-01-31T08:00:00.000Z"
       }
     ]
   }

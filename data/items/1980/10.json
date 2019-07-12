@@ -11,67 +11,31 @@
     "officialSite": "http://www.mxtv.co.jp/atom/",
     "begin": "1980-10-01T22:00:00.000Z",
     "end": "1981-12-23T22:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "1byYFn7kVJL1c9s",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrjabctp",
-        "begin": "2011-01-24T01:12:47.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2011-01-24T01:12:47.000Z"
       },
       {
         "site": "qq",
         "id": "z/zgi40gqg05wouh9",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "sohu",
         "id": "s2014/tbatm",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "acfun",
-        "id": "1464318",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "mgtv",
         "id": "103250",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -80,12 +44,7 @@
       {
         "site": "bilibili",
         "id": "2449",
-        "begin": "1980-09-30T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1980-09-30T16:00:00.000Z"
       }
     ]
   },
@@ -101,7 +60,6 @@
     "officialSite": "http://www.mxtv.co.jp/tetsujin28/",
     "begin": "1980-10-03T22:30:00.000Z",
     "end": "1981-09-25T10:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -110,12 +68,7 @@
       {
         "site": "bilibili",
         "id": "1951",
-        "begin": "1980-10-02T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1980-10-02T16:00:00.000Z"
       }
     ]
   },
@@ -131,7 +84,6 @@
     "officialSite": "",
     "begin": "1980-10-13T12:00:00.000Z",
     "end": "1981-08-31T12:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -140,12 +92,7 @@
       {
         "site": "nicovideo",
         "id": "ashitano-joe",
-        "begin": "2012-02-15T06:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2012-02-15T06:00:00.000Z"
       }
     ]
   }

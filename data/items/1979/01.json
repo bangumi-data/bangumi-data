@@ -11,7 +11,6 @@
     "officialSite": "http://www9.nhk.or.jp/anime/anne/",
     "begin": "1979-01-07T22:30:00.000Z",
     "end": "1979-12-30T23:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -20,12 +19,7 @@
       {
         "site": "bilibili",
         "id": "2460",
-        "begin": "1979-01-07T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1979-01-07T16:00:00.000Z"
       }
     ]
   }

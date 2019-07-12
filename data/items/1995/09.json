@@ -14,17 +14,11 @@
     "officialSite": "http://www.toei-anim.co.jp/lineup/tv/gokinjyo/",
     "begin": "1995-09-10T16:00:00.000Z",
     "end": "1996-09-01T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "JAn0ctpAsO5Rzzc",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -33,12 +27,7 @@
       {
         "site": "bilibili",
         "id": "2315",
-        "begin": "1995-09-09T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1995-09-09T16:00:00.000Z"
       }
     ]
   }

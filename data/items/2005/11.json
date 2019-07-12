@@ -11,7 +11,6 @@
     "officialSite": "http://www.kadokawa.co.jp/karin/index.php",
     "begin": "2005-11-03T15:00:00.000Z",
     "end": "2006-05-11T15:45:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -20,12 +19,7 @@
       {
         "site": "bilibili",
         "id": "1847",
-        "begin": "2005-11-02T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2005-11-02T16:00:00.000Z"
       }
     ]
   },
@@ -44,17 +38,11 @@
     "officialSite": "http://www.tv-asahi.co.jp/gaiking/",
     "begin": "2005-11-12T01:50:00.000Z",
     "end": "2006-09-23T22:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrhb1ebd",
-        "begin": "2015-08-14T17:06:47.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-08-14T17:06:47.000Z"
       },
       {
         "site": "bangumi",
@@ -74,7 +62,6 @@
     "officialSite": "",
     "begin": "2005-11-03T13:30:00.000Z",
     "end": "2006-05-11T14:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -94,41 +81,20 @@
     "officialSite": "",
     "begin": "2005-11-01T16:00:00.000Z",
     "end": "2006-06-23T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "QIt181vBMWicSULg",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "qq",
         "id": "f/ff8gwhoafxcojuz",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
         "id": "3393"
-      },
-      {
-        "site": "bilibili",
-        "id": "2782",
-        "begin": "2005-10-31T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
       }
     ]
   }

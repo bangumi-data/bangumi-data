@@ -11,7 +11,6 @@
     "officialSite": "",
     "begin": "2018-11-03T16:00:00.000Z",
     "end": "2018-12-01T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -20,22 +19,12 @@
       {
         "site": "nicovideo",
         "id": "k-seven-stories",
-        "begin": "2018-07-07T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-07-07T03:00:00.000Z"
       },
       {
         "site": "bilibili",
-        "id": "24978",
-        "begin": "2018-11-03T16:00:00.000Z",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "113852",
+        "begin": "2018-11-03T16:00:00.000Z"
       }
     ]
   },
@@ -51,7 +40,6 @@
     "officialSite": "http://itachiland.com/okojoandyamane/",
     "begin": "2018-07-19T15:00:00.000Z",
     "end": "2019-01-08T15:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -71,7 +59,6 @@
     "officialSite": "http://yamato2202.net/",
     "begin": "2018-11-02T16:00:00.000Z",
     "end": "2018-11-02T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -80,12 +67,7 @@
       {
         "site": "pptv",
         "id": "1xz5d99FtfNW1Dw",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -101,7 +83,6 @@
     "officialSite": "http://eurekaseven.jp/",
     "begin": "2018-11-10T16:00:00.000Z",
     "end": "2018-11-10T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -110,12 +91,7 @@
       {
         "site": "nicovideo",
         "id": "anemone-eurekaseven",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -131,7 +107,6 @@
     "officialSite": "http://kaiju-gk.jp/anime/black/",
     "begin": "2018-11-23T16:00:00.000Z",
     "end": "2018-11-23T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -140,12 +115,7 @@
       {
         "site": "nicovideo",
         "id": "kaiju-girls-black",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -161,7 +131,6 @@
     "officialSite": "http://www.monogatari-series.com/zokuowarimonogatari",
     "begin": "2018-11-10T16:00:00.000Z",
     "end": "2018-11-10T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -170,12 +139,7 @@
       {
         "site": "nicovideo",
         "id": "zokuowarimonogatari",
-        "begin": "2019-05-20T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2019-05-20T03:00:00.000Z"
       }
     ]
   }

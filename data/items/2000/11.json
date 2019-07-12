@@ -11,7 +11,6 @@
     "officialSite": "",
     "begin": "2000-11-18T16:00:00.000Z",
     "end": "2000-11-18T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -20,22 +19,12 @@
       {
         "site": "nicovideo",
         "id": "blood-vampire",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "2170",
-        "begin": "2000-11-17T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2000-11-17T16:00:00.000Z"
       }
     ]
   }

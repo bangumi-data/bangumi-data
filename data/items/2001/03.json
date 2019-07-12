@@ -11,17 +11,11 @@
     "officialSite": "http://www.tv-tokyo.co.jp/gals/",
     "begin": "2001-03-31T23:30:00.000Z",
     "end": "2002-03-31T00:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "HlErqRF35yWIBm4",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -41,7 +35,6 @@
     "officialSite": "",
     "begin": "2001-03-03T16:00:00.000Z",
     "end": "2001-03-03T17:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -61,7 +54,6 @@
     "officialSite": "",
     "begin": "2001-03-03T16:00:00.000Z",
     "end": "2001-03-03T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -70,12 +62,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhb4tgp",
-        "begin": "2015-08-06T12:03:19.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-08-06T12:03:19.000Z"
       }
     ]
   },
@@ -91,17 +78,11 @@
     "officialSite": "",
     "begin": "2001-03-10T16:00:00.000Z",
     "end": "2001-03-10T17:40:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "80960",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -110,42 +91,22 @@
       {
         "site": "pptv",
         "id": "7qoHhe1TwwFk4ko",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "qq",
         "id": "z/z8alyhrvkd3jp2y",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh6mou1",
-        "begin": "2018-05-31T16:12:58.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-05-31T16:12:58.000Z"
       },
       {
         "site": "bilibili",
         "id": "3865",
-        "begin": "2001-03-09T16:00:01.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2001-03-09T16:00:01.000Z"
       }
     ]
   }

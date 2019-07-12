@@ -11,18 +11,7 @@
     "officialSite": "http://www.koroq-anime.com/",
     "begin": "2016-12-22T16:40:00.000Z",
     "end": "2017-03-09T16:50:00.000Z",
-    "comment": "",
     "sites": [
-      {
-        "site": "bilibili",
-        "id": "5830",
-        "begin": "2016-12-22T16:40:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "186072"
@@ -44,17 +33,11 @@
     "officialSite": "http://anime.fate-go.jp/",
     "begin": "2016-12-31T15:00:00.000Z",
     "end": "2016-12-31T15:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bilibili",
         "id": "5747",
-        "begin": "2016-12-31T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-12-31T15:00:00.000Z"
       },
       {
         "site": "bangumi",
@@ -74,17 +57,11 @@
     "officialSite": "",
     "begin": "2016-12-25T16:00:00.000Z",
     "end": "2016-12-25T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "10033860",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -93,12 +70,7 @@
       {
         "site": "bilibili",
         "id": "5833",
-        "begin": "2016-12-24T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-12-24T16:00:01.000Z"
       }
     ]
   },
@@ -115,37 +87,21 @@
     "officialSite": "http://movie.kurobas.com/",
     "begin": "2016-12-03T16:00:00.000Z",
     "end": "2016-12-03T18:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "rZN9ib2PJOXfaWMA",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh9ar69",
-        "begin": "2017-02-28T16:00:59.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-02-28T16:00:59.000Z"
       },
       {
         "site": "letv",
         "id": "10035150",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -165,27 +121,16 @@
     "officialSite": "http://www.tv-tokyo.co.jp/anime/osomatsusan/oumatsusan/",
     "begin": "2016-12-12T16:00:00.000Z",
     "end": "2016-12-12T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rr9ym5rg",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "letv",
         "id": "10033176",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -194,12 +139,7 @@
       {
         "site": "bilibili",
         "id": "5763",
-        "begin": "2016-12-13T06:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-12-13T06:30:00.000Z"
       }
     ]
   },
@@ -215,27 +155,16 @@
     "officialSite": "http://mikagesha.com/",
     "begin": "2016-12-20T16:00:00.000Z",
     "end": "2016-12-20T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "WibrGRKwSgsAjoQk",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "letv",
         "id": "10033637",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -244,12 +173,7 @@
       {
         "site": "bilibili",
         "id": "5882",
-        "begin": "2016-12-19T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-12-19T16:00:01.000Z"
       }
     ]
   },
@@ -266,27 +190,16 @@
     "officialSite": "http://chronicle-anime.com/",
     "begin": "2016-12-03T16:00:00.000Z",
     "end": "2016-12-03T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "IhQAfuZMvPpd20M",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrha8tqp",
-        "begin": "2016-12-16T08:55:22.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-12-16T08:55:22.000Z"
       },
       {
         "site": "bangumi",
@@ -295,12 +208,7 @@
       {
         "site": "bilibili",
         "id": "5769",
-        "begin": "2016-12-15T16:00:01.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-12-15T16:00:01.000Z"
       }
     ]
   },
@@ -316,17 +224,11 @@
     "officialSite": "http://www.popin-q.com/",
     "begin": "2016-12-23T16:00:00.000Z",
     "end": "2016-12-23T17:40:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrh9cn1h",
-        "begin": "2017-03-12T08:07:44.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-03-12T08:07:44.000Z"
       },
       {
         "site": "bangumi",
@@ -335,12 +237,7 @@
       {
         "site": "nicovideo",
         "id": "popin-q",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -356,7 +253,6 @@
     "officialSite": "http://www.ytv.co.jp/conan/episodeone/",
     "begin": "2016-12-09T16:00:00.000Z",
     "end": "2016-12-09T17:35:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -376,17 +272,11 @@
     "officialSite": "https://shingekinobahamut-virginsoul.jp",
     "begin": "2016-12-28T16:00:00.000Z",
     "end": "2017-02-20T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "Ixj0ctpAsO5Rzzc",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -406,17 +296,11 @@
     "officialSite": "http://danmachi.com/danmachi/",
     "begin": "2016-12-07T16:00:00.000Z",
     "end": "2016-12-07T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "DTgUkvpg0A5x71c",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -436,7 +320,6 @@
     "officialSite": "http://www.inazma-delivery.com",
     "begin": "2016-12-09T16:00:00.000Z",
     "end": "2017-02-10T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -445,22 +328,12 @@
       {
         "site": "nicovideo",
         "id": "inazma-delivery-new",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhcbahx",
-        "begin": "2017-09-30T11:00:05.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-09-30T11:00:05.000Z"
       }
     ]
   },
@@ -476,7 +349,6 @@
     "officialSite": "http://www.honeyworks-movie.jp/",
     "begin": "2016-12-17T16:00:00.000Z",
     "end": "2016-12-17T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -485,22 +357,12 @@
       {
         "site": "nicovideo",
         "id": "sukininarusonoshunkanwo",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "5576",
-        "begin": "2016-12-16T16:00:01.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-12-16T16:00:01.000Z"
       }
     ]
   }

@@ -11,7 +11,6 @@
     "officialSite": "http://www.momose-net.com/",
     "begin": "1998-08-25T16:00:00.000Z",
     "end": "1998-10-05T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -31,17 +30,11 @@
     "officialSite": "",
     "begin": "1998-08-01T16:00:00.000Z",
     "end": "1998-08-01T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "qq",
         "id": "i/iatciy3zx6euxfz",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -50,22 +43,12 @@
       {
         "site": "pptv",
         "id": "RfTgXsYsnNo9uyM",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "3908",
-        "begin": "1998-07-31T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1998-07-31T16:00:01.000Z"
       }
     ]
   },
@@ -81,17 +64,11 @@
     "officialSite": "",
     "begin": "1998-08-01T16:00:00.000Z",
     "end": "1998-08-01T17:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "qq",
         "id": "p/pqd8onvspoiw24u",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -111,17 +88,11 @@
     "officialSite": "",
     "begin": "1998-08-01T16:00:00.000Z",
     "end": "1998-08-01T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "qq",
         "id": "i/izkiu4p8jljjjvk",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -141,31 +112,15 @@
     "officialSite": "",
     "begin": "1998-08-25T16:00:00.000Z",
     "end": "1999-03-25T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "ou3XVb0jk9E0sho",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
         "id": "23213"
-      },
-      {
-        "site": "bilibili",
-        "id": "2353",
-        "begin": "1998-08-24T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
       }
     ]
   },
@@ -181,7 +136,6 @@
     "officialSite": "http://www.b-ch.com/cgi-bin/contents/ttl/det.cgi?ttl_c=444",
     "begin": "1998-08-08T16:00:00.000Z",
     "end": "1998-08-08T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -190,12 +144,7 @@
       {
         "site": "pptv",
         "id": "yX1X1T2jE1G0Mpo",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   }

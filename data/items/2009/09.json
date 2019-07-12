@@ -11,7 +11,6 @@
     "officialSite": "http://queensblade.tv/",
     "begin": "2009-09-23T23:00:00.000Z",
     "end": "2009-12-09T23:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -20,12 +19,7 @@
       {
         "site": "nicovideo",
         "id": "queensblade02",
-        "begin": "2012-04-11T06:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2012-04-11T06:00:00.000Z"
       }
     ]
   },
@@ -41,27 +35,16 @@
     "officialSite": "http://www.sunrise-inc.co.jp/battlespirits2/",
     "begin": "2009-09-12T22:00:00.000Z",
     "end": "2010-09-04T22:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "hMfBP6cNfbsenAQ",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrk7hgtt",
-        "begin": "2012-12-11T11:56:51.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2012-12-11T11:56:51.000Z"
       },
       {
         "site": "bangumi",
@@ -81,7 +64,6 @@
     "officialSite": "http://wwwz.fujitv.co.jp/leo/index.html",
     "begin": "2009-09-05T16:00:00.000Z",
     "end": "2009-09-05T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -101,17 +83,11 @@
     "officialSite": "http://www.a1c.jp/~chuchu/top.html",
     "begin": "2009-09-26T16:00:00.000Z",
     "end": "2009-11-27T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "30210",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -131,17 +107,11 @@
     "officialSite": "http://negima.kc.kodansha.co.jp",
     "begin": "2009-09-17T16:00:00.000Z",
     "end": "2010-08-17T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "4CwYlv5k1BJ181s",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -150,22 +120,12 @@
       {
         "site": "nicovideo",
         "id": "negima-oad02",
-        "begin": "2017-09-07T06:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-09-07T06:00:00.000Z"
       },
       {
         "site": "bilibili",
         "id": "3773",
-        "begin": "2009-09-16T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2009-09-16T16:00:01.000Z"
       }
     ]
   }

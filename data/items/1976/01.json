@@ -11,17 +11,11 @@
     "officialSite": "",
     "begin": "1976-01-02T16:00:00.000Z",
     "end": "1976-06-25T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "qq",
         "id": "8/8szu83s4qj0z4o0",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -41,7 +35,6 @@
     "officialSite": "http://www.nippon-animation.co.jp/work/hahawotazunete_sanzenri.html",
     "begin": "1976-01-04T03:30:00.000Z",
     "end": "1976-12-26T23:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -50,12 +43,7 @@
       {
         "site": "bilibili",
         "id": "5948",
-        "begin": "1976-01-03T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1976-01-03T16:00:01.000Z"
       }
     ]
   }

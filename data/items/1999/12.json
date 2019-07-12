@@ -11,7 +11,6 @@
     "officialSite": "",
     "begin": "1999-12-18T16:00:00.000Z",
     "end": "2000-12-21T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -20,22 +19,12 @@
       {
         "site": "pptv",
         "id": "zwLibfORKuvhb2UE",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "3404",
-        "begin": "1999-12-17T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1999-12-17T16:00:01.000Z"
       }
     ]
   }

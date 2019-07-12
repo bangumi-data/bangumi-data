@@ -11,17 +11,11 @@
     "officialSite": "http://www.haruhi.tv/haruchuru/",
     "begin": "2009-02-14T07:00:00.000Z",
     "end": "2009-05-08T13:04:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "7CUfnQVr2xl8ibmI",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -30,12 +24,7 @@
       {
         "site": "letv",
         "id": "43941",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -51,17 +40,11 @@
     "officialSite": "http://www.haruhi.tv/haruchuru/",
     "begin": "2009-02-14T07:00:00.000Z",
     "end": "2009-05-08T13:02:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "fdKtK5P5aacKiaPA",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -70,12 +53,7 @@
       {
         "site": "bilibili",
         "id": "4734",
-        "begin": "2009-02-13T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2009-02-13T16:00:01.000Z"
       }
     ]
   },
@@ -91,17 +69,11 @@
     "officialSite": "http://kc.kodansha.co.jp/tsubaholi/",
     "begin": "2009-02-17T16:00:00.000Z",
     "end": "2009-06-23T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "tI5591icFNXPWVLw",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -110,12 +82,7 @@
       {
         "site": "bilibili",
         "id": "3390",
-        "begin": "2009-02-16T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2009-02-16T16:00:01.000Z"
       }
     ]
   },
@@ -131,7 +98,6 @@
     "officialSite": "http://oyashirosama.com/web/rei/index.htm",
     "begin": "2009-02-25T16:00:00.000Z",
     "end": "2009-08-21T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -140,22 +106,7 @@
       {
         "site": "nicovideo",
         "id": "oyashirosama03",
-        "begin": "2017-06-16T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "id": "1774",
-        "begin": "2009-02-24T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-06-16T15:00:00.000Z"
       }
     ]
   }

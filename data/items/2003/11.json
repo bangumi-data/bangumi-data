@@ -13,7 +13,6 @@
     "officialSite": "http://www3.nhk.or.jp/anime/spica/",
     "begin": "2003-11-01T00:00:00.000Z",
     "end": "2004-03-27T00:25:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -22,22 +21,12 @@
       {
         "site": "pptv",
         "id": "Sic3IRq4UhMIlows",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "3093",
-        "begin": "2003-10-31T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2003-10-31T16:00:00.000Z"
       }
     ]
   },
@@ -53,17 +42,11 @@
     "officialSite": "http://www.bo-bobo.com/",
     "begin": "2003-11-08T10:28:00.000Z",
     "end": "2005-10-29T02:20:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "VPnEQqoQgL4hnwc",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -72,22 +55,7 @@
       {
         "site": "nicovideo",
         "id": "bobobo_bo_bo_bobo",
-        "begin": "2018-04-22T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "id": "5153",
-        "begin": "2003-11-07T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-04-22T03:00:00.000Z"
       }
     ]
   },
@@ -106,17 +74,11 @@
     "officialSite": "http://www.fujitv.co.jp/b_hp/chrono/",
     "begin": "2003-11-24T18:08:00.000Z",
     "end": "2004-06-09T18:28:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "uZpl40uxIVicCQKg",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -139,27 +101,16 @@
     "officialSite": "http://www.sonypictures.jp/archive/movie/worldcinema/tgf/",
     "begin": "2003-11-08T16:00:00.000Z",
     "end": "2003-11-08T18:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "qq",
         "id": "c/cna8dlk8kzztn41",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "mgtv",
         "id": "157295",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -168,12 +119,7 @@
       {
         "site": "bilibili",
         "id": "2597",
-        "begin": "2003-11-07T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2003-11-07T16:00:00.000Z"
       }
     ]
   },
@@ -189,7 +135,6 @@
     "officialSite": "",
     "begin": "2003-11-27T16:00:00.000Z",
     "end": "2004-01-22T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -198,12 +143,7 @@
       {
         "site": "nicovideo",
         "id": "ch61035",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   }

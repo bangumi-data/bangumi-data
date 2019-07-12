@@ -11,7 +11,6 @@
     "officialSite": "http://www.hipira.net/",
     "begin": "2009-12-21T07:30:00.000Z",
     "end": "2009-12-25T08:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -31,17 +30,11 @@
     "officialSite": "http://www.ne.jp/asahi/magneticwave/popcan/kowa/",
     "begin": "2009-12-29T16:00:00.000Z",
     "end": "2009-12-29T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "6307",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -50,12 +43,7 @@
       {
         "site": "bilibili",
         "id": "3292",
-        "begin": "2009-12-28T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2009-12-28T16:00:01.000Z"
       }
     ]
   },
@@ -71,7 +59,6 @@
     "officialSite": "http://www.onepiece-movie.com/",
     "begin": "2009-12-12T16:00:00.000Z",
     "end": "2009-12-12T18:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -91,17 +78,11 @@
     "officialSite": "",
     "begin": "2009-12-23T16:00:00.000Z",
     "end": "2009-12-23T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "EAicpZ881peNGxCw",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -121,7 +102,6 @@
     "officialSite": "http://yanyan-machiko.com/",
     "begin": "2009-12-25T16:00:00.000Z",
     "end": "2015-08-20T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -130,12 +110,7 @@
       {
         "site": "nicovideo",
         "id": "ch313",
-        "begin": "2010-01-26T07:32:57.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2010-01-26T07:32:57.000Z"
       }
     ]
   }

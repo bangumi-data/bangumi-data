@@ -11,21 +11,10 @@
     "officialSite": "http://kemonozume.net/",
     "begin": "2006-08-05T15:30:00.000Z",
     "end": "2006-11-04T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "4237"
-      },
-      {
-        "site": "bilibili",
-        "id": "1433",
-        "begin": "2006-08-04T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
       }
     ]
   },
@@ -42,57 +31,31 @@
     "officialSite": "http://www.kids-station.com/minisite/gyagumanga2/",
     "begin": "2006-08-05T13:30:00.000Z",
     "end": "2006-10-21T13:37:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "OnRQzjacDEqtK5M",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrgjb8bl",
-        "begin": "2014-09-12T06:42:56.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2014-09-12T06:42:56.000Z"
       },
       {
         "site": "qq",
         "id": "2/2w0n7vwp4l18dj4",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "letv",
         "id": "15960",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "mgtv",
         "id": "42752",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -101,12 +64,7 @@
       {
         "site": "bilibili",
         "id": "1594",
-        "begin": "2006-08-04T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2006-08-04T16:00:00.000Z"
       }
     ]
   },
@@ -122,7 +80,6 @@
     "officialSite": "http://web.archive.org/web/*/www.rams.jp/hanoka/",
     "begin": "2006-08-07T16:00:00.000Z",
     "end": "2006-10-30T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -142,7 +99,6 @@
     "officialSite": "http://www.pokemon-movie.jp/",
     "begin": "2006-08-01T16:00:00.000Z",
     "end": "2006-08-01T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -162,7 +118,6 @@
     "officialSite": "",
     "begin": "2006-08-04T16:00:00.000Z",
     "end": "2006-11-17T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -182,7 +137,6 @@
     "officialSite": "http://www.wowow.co.jp/anime/chevalier/",
     "begin": "2006-08-19T09:55:00.000Z",
     "end": "2007-02-24T10:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -191,22 +145,12 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhgeb59",
-        "begin": "2017-11-16T07:24:26.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-11-16T07:24:26.000Z"
       },
       {
         "site": "bilibili",
         "id": "2776",
-        "begin": "2006-08-18T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2006-08-18T16:00:00.000Z"
       }
     ]
   },
@@ -225,7 +169,6 @@
     "officialSite": "https://web.archive.org/web/20081216021804/http://pierrot.jp/title/naruto/movie2006/index.html",
     "begin": "2006-08-04T16:00:00.000Z",
     "end": "2006-08-04T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -234,12 +177,7 @@
       {
         "site": "netflix",
         "id": "70108386",
-        "begin": "2017-09-01T07:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-09-01T07:00:00.000Z"
       }
     ]
   }

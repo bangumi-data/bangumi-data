@@ -11,7 +11,6 @@
     "officialSite": "",
     "begin": "2018-09-01T16:00:00.000Z",
     "end": "2018-10-06T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -20,12 +19,7 @@
       {
         "site": "nicovideo",
         "id": "k-seven-stories",
-        "begin": "2018-07-07T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-07-07T03:00:00.000Z"
       }
     ]
   },
@@ -41,7 +35,6 @@
     "officialSite": "http://coco-tama.com/",
     "begin": "2018-09-06T08:55:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -50,12 +43,7 @@
       {
         "site": "nicovideo",
         "id": "coco-tama",
-        "begin": "2018-09-11T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-09-11T03:00:00.000Z"
       }
     ]
   },
@@ -71,7 +59,6 @@
     "officialSite": "http://dabudeka.com/",
     "begin": "2018-09-30T13:30:00.000Z",
     "end": "2018-12-30T14:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -79,13 +66,8 @@
       },
       {
         "site": "bilibili",
-        "id": "25605",
-        "begin": "2018-09-30T14:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "140652",
+        "begin": "2018-09-30T14:00:00.000Z"
       }
     ]
   },
@@ -101,7 +83,6 @@
     "officialSite": "http://kimisui-anime.com/",
     "begin": "2018-09-01T16:00:00.000Z",
     "end": "2018-09-01T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -110,12 +91,7 @@
       {
         "site": "nicovideo",
         "id": "kimisui-anime",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -131,7 +107,6 @@
     "officialSite": "http://flcl-anime.com/alterna/",
     "begin": "2018-09-07T16:00:00.000Z",
     "end": "2018-09-07T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -140,12 +115,7 @@
       {
         "site": "nicovideo",
         "id": "flcl_alterna_progre",
-        "begin": "2019-02-01T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2019-02-01T03:00:00.000Z"
       }
     ]
   },
@@ -161,7 +131,6 @@
     "officialSite": "http://flcl-anime.com/progre/",
     "begin": "2018-09-28T16:00:00.000Z",
     "end": "2018-09-28T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -170,12 +139,7 @@
       {
         "site": "nicovideo",
         "id": "flcl_alterna_progre",
-        "begin": "2019-02-01T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2019-02-01T03:00:00.000Z"
       }
     ]
   }

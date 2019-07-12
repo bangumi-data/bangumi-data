@@ -11,7 +11,6 @@
     "officialSite": "http://www.fujitv.co.jp/sazaesan/",
     "begin": "1969-10-05T09:30:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -20,12 +19,7 @@
       {
         "site": "bilibili",
         "id": "2486",
-        "begin": "1969-10-04T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1969-10-04T16:00:00.000Z"
       }
     ]
   },
@@ -41,7 +35,6 @@
     "officialSite": "http://www.toei-anim.co.jp/lineup/tv/tigermask/",
     "begin": "1969-10-02T14:00:00.000Z",
     "end": "1971-09-30T14:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -61,7 +54,6 @@
     "officialSite": "http://www.tatsunoko.co.jp/tatsunoko_gekijo/",
     "begin": "1969-10-05T22:30:00.000Z",
     "end": "1970-09-27T23:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -69,13 +61,8 @@
       },
       {
         "site": "bilibili",
-        "id": "20554",
-        "begin": "1969-10-04T16:00:01.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "8272",
+        "begin": "1969-10-04T16:00:01.000Z"
       }
     ]
   }

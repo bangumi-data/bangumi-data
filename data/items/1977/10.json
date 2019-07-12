@@ -11,17 +11,11 @@
     "officialSite": "http://www.sunrise-anime.jp/sunrise-inc/works/detail.php?cid=18",
     "begin": "1977-10-08T16:00:00.000Z",
     "end": "1978-03-25T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "QpZy8FiaibLmzPTbU",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -30,12 +24,7 @@
       {
         "site": "bilibili",
         "id": "3082",
-        "begin": "1977-10-07T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1977-10-07T16:00:00.000Z"
       }
     ]
   },
@@ -51,7 +40,6 @@
     "officialSite": "",
     "begin": "1977-10-01T22:30:00.000Z",
     "end": "1978-09-30T23:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -71,7 +59,6 @@
     "officialSite": "http://www.tms-e.co.jp/search/introduction.php?pdt_no=53",
     "begin": "1977-10-03T22:30:00.000Z",
     "end": "1980-10-06T23:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -80,22 +67,12 @@
       {
         "site": "nicovideo",
         "id": "lupin-3rd-2nd",
-        "begin": "2011-10-26T06:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2011-10-26T06:00:00.000Z"
       },
       {
         "site": "bilibili",
         "id": "2470",
-        "begin": "1977-10-02T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1977-10-02T16:00:00.000Z"
       }
     ]
   }

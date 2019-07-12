@@ -11,7 +11,6 @@
     "officialSite": "",
     "begin": "1978-04-02T16:00:00.000Z",
     "end": "1979-08-26T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -31,21 +30,10 @@
     "officialSite": "",
     "begin": "1978-04-01T10:00:00.000Z",
     "end": "1979-01-27T11:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "37180"
-      },
-      {
-        "site": "bilibili",
-        "id": "2463",
-        "begin": "1978-04-01T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
       }
     ]
   },
@@ -61,7 +49,6 @@
     "officialSite": "http://www.nippon-animation.co.jp/work/ikkyu_san.html",
     "begin": "1978-04-10T22:30:00.000Z",
     "end": "1978-10-23T23:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -81,7 +68,6 @@
     "officialSite": "http://www.nippon-animation.co.jp/na/conan/",
     "begin": "1978-04-04T10:25:00.000Z",
     "end": "1978-10-31T10:55:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -90,22 +76,12 @@
       {
         "site": "nicovideo",
         "id": "conan",
-        "begin": "2015-11-20T06:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-11-20T06:00:00.000Z"
       },
       {
         "site": "bilibili",
         "id": "2464",
-        "begin": "1978-04-04T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1978-04-04T16:00:00.000Z"
       }
     ]
   }

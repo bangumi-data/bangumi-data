@@ -11,7 +11,6 @@
     "officialSite": "http://anime-ch.nicovideo.jp/ontama/",
     "begin": "2009-08-07T10:00:00.000Z",
     "end": "2009-11-06T10:13:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -27,7 +26,6 @@
     "officialSite": "http://www.uchurei.com/",
     "begin": "2009-08-09T08:15:00.000Z",
     "end": "2009-09-18T17:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -47,7 +45,6 @@
     "officialSite": "http://www.pokemon-movie.jp/",
     "begin": "2009-08-01T17:10:00.000Z",
     "end": "2009-08-01T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -67,17 +64,11 @@
     "officialSite": "http://www.barnumlaboratory.com/",
     "begin": "2009-08-31T16:00:00.000Z",
     "end": "2009-08-31T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "CvLeXMQqmtg7uSE",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -97,7 +88,6 @@
     "officialSite": "http://utsuru.jp/",
     "begin": "2009-08-21T16:00:00.000Z",
     "end": "2009-10-23T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -106,12 +96,7 @@
       {
         "site": "nicovideo",
         "id": "ch287",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -127,7 +112,6 @@
     "officialSite": "",
     "begin": "2009-08-26T16:00:00.000Z",
     "end": "2010-11-24T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -136,12 +120,7 @@
       {
         "site": "pptv",
         "id": "p4eCAGjOPnzfXcU",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -160,7 +139,6 @@
     "officialSite": "http://www.naruto-movie.com/",
     "begin": "2009-08-01T00:00:00.000Z",
     "end": "2009-08-01T00:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -169,12 +147,7 @@
       {
         "site": "netflix",
         "id": "80045673",
-        "begin": "2017-09-01T07:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-09-01T07:00:00.000Z"
       }
     ]
   }

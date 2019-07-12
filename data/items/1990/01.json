@@ -12,37 +12,21 @@
     "officialSite": "",
     "begin": "1990-01-04T16:00:00.000Z",
     "end": "1991-12-23T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "TH5KyDCWBkSnJY0",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrk0gz0d",
-        "begin": "2012-03-21T06:49:26.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2012-03-21T06:49:26.000Z"
       },
       {
         "site": "qq",
         "id": "g/gu60xakyjp8dtgk",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -51,12 +35,7 @@
       {
         "site": "bilibili",
         "id": "5397",
-        "begin": "1990-01-03T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1990-01-03T16:00:01.000Z"
       }
     ]
   },
@@ -73,37 +52,21 @@
     "officialSite": "",
     "begin": "1990-01-07T16:00:00.000Z",
     "end": "1992-09-27T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "gqaSEHjeTozvbdU",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrk1980p",
-        "begin": "2014-04-09T23:53:55.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2014-04-09T23:53:55.000Z"
       },
       {
         "site": "letv",
         "id": "81066",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -123,7 +86,6 @@
     "officialSite": "",
     "begin": "1990-01-06T16:00:00.000Z",
     "end": "1990-12-29T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -132,12 +94,7 @@
       {
         "site": "nicovideo",
         "id": "heiseitensai-bakabon",
-        "begin": "2018-07-03T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-07-03T15:00:00.000Z"
       }
     ]
   }

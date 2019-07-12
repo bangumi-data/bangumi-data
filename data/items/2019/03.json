@@ -11,7 +11,6 @@
     "officialSite": "http://yamato2202.net/",
     "begin": "2019-03-01T16:00:00.000Z",
     "end": "2019-03-01T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -20,12 +19,7 @@
       {
         "site": "pptv",
         "id": "ibjUiaoAhu3hxicicWU",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -37,7 +31,6 @@
     "officialSite": "http://www.cannonbusters.com/",
     "begin": "2019-03-01T16:00:00.000Z",
     "end": "2019-03-01T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -45,13 +38,8 @@
       },
       {
         "site": "bilibili",
-        "id": "26782",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "id": "22020937",
+        "begin": ""
       }
     ]
   },
@@ -67,7 +55,6 @@
     "officialSite": "http://movie.trinity-7.com/",
     "begin": "2019-03-29T16:00:00.000Z",
     "end": "2019-03-29T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -75,33 +62,18 @@
       },
       {
         "site": "bilibili",
-        "id": "26927",
-        "begin": "2019-03-29T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "24662313",
+        "begin": "2019-03-29T03:00:00.000Z"
       },
       {
         "site": "youku",
         "id": "dbcb0550bf3b4e8699fa",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "nicovideo",
         "id": "movie-trinity-7-hlcl",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -117,7 +89,6 @@
     "officialSite": "http://grisaia-pt.com/gptanime/",
     "begin": "2019-03-15T16:00:00.000Z",
     "end": "2019-03-15T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -126,12 +97,7 @@
       {
         "site": "nicovideo",
         "id": "grisaia-pt",
-        "begin": "2019-04-17T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2019-04-17T03:00:00.000Z"
       }
     ]
   }

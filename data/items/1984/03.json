@@ -11,17 +11,11 @@
     "officialSite": "",
     "begin": "1984-03-17T16:00:00.000Z",
     "end": "1984-03-17T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "80815",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -30,32 +24,17 @@
       {
         "site": "pptv",
         "id": "7qoHhe1TwwFk4ko",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "qq",
         "id": "z/z8alyhrvkd3jp2y",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "3867",
-        "begin": "1984-03-16T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1984-03-16T16:00:01.000Z"
       }
     ]
   },
@@ -71,7 +50,6 @@
     "officialSite": "",
     "begin": "1984-03-03T22:30:00.000Z",
     "end": "1985-12-25T23:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -80,12 +58,7 @@
       {
         "site": "nicovideo",
         "id": "lupin-3rd-3rd",
-        "begin": "2011-11-30T06:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2011-11-30T06:00:00.000Z"
       }
     ]
   },
@@ -101,7 +74,6 @@
     "officialSite": "",
     "begin": "1984-03-11T16:00:00.000Z",
     "end": "1984-03-11T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -110,12 +82,7 @@
       {
         "site": "pptv",
         "id": "DwzoZs40pOJFwys",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   }

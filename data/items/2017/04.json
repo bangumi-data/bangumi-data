@@ -11,17 +11,11 @@
     "officialSite": "http://anime.granbluefantasy.jp/",
     "begin": "2017-04-01T15:00:00.000Z",
     "end": "2017-06-24T15:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "fTEamXXn3hxicicWU",
-        "begin": "2017-04-01T16:30:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-01T16:30:00.000Z"
       },
       {
         "site": "bangumi",
@@ -30,12 +24,7 @@
       {
         "site": "nicovideo",
         "id": "anime_granbluefantasy",
-        "begin": "2017-04-04T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-04T03:00:00.000Z"
       }
     ]
   },
@@ -55,27 +44,16 @@
     "officialSite": "http://www.saenai.tv/",
     "begin": "2017-04-13T15:55:00.000Z",
     "end": "2017-06-22T16:25:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "SP3XVb0jk9E0sho",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh9f1yl",
-        "begin": "2017-04-13T16:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-13T16:30:00.000Z"
       },
       {
         "site": "bangumi",
@@ -99,17 +77,11 @@
     "officialSite": "http://danmachi.com/sword_oratoria/",
     "begin": "2017-04-14T15:30:00.000Z",
     "end": "2017-06-30T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrh9f4qt",
-        "begin": "2017-04-14T17:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-14T17:00:00.000Z"
       },
       {
         "site": "bangumi",
@@ -118,12 +90,7 @@
       {
         "site": "nicovideo",
         "id": "danmachi_gaiden",
-        "begin": "2017-04-18T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-18T03:00:00.000Z"
       }
     ]
   },
@@ -143,37 +110,11 @@
     "officialSite": "http://sagrada-anime.com/",
     "begin": "2017-04-05T14:30:00.000Z",
     "end": "2017-09-13T15:00:00.000Z",
-    "comment": "",
     "sites": [
-      {
-        "site": "acfun",
-        "id": "1480091",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
       {
         "site": "youku",
         "id": "ac0ab02ad88911e69e06",
-        "begin": "2017-04-05T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "tudou",
-        "id": "RC4VeE5Wkhc",
-        "begin": "2017-04-05T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2017-04-05T16:00:00.000Z"
       },
       {
         "site": "bangumi",
@@ -182,12 +123,7 @@
       {
         "site": "nicovideo",
         "id": "sagrada-anime",
-        "begin": "2017-04-07T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-07T15:00:00.000Z"
       }
     ]
   },
@@ -206,27 +142,16 @@
     "officialSite": "http://shingeki.tv/season2/",
     "begin": "2017-04-01T13:00:00.000Z",
     "end": "2017-06-17T13:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrh9brh9",
-        "begin": "2017-04-01T20:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-01T20:00:00.000Z"
       },
       {
         "site": "bilibili",
         "id": "5970",
-        "begin": "2017-04-01T19:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-01T19:30:00.000Z"
       },
       {
         "site": "bangumi",
@@ -235,12 +160,7 @@
       {
         "site": "nicovideo",
         "id": "shingeki_season2",
-        "begin": "2017-03-24T06:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-03-24T06:00:00.000Z"
       }
     ]
   },
@@ -256,67 +176,31 @@
     "officialSite": "http://cingeki-anime.com/",
     "begin": "2017-04-04T12:55:00.000Z",
     "end": "2017-06-27T13:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "sohu",
         "id": "s2017/dhpoxdsjcb",
-        "begin": "2017-04-04T13:55:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-04T13:55:00.000Z"
       },
       {
         "site": "youku",
         "id": "70efbfbd5d23144811ef",
-        "begin": "2017-04-04T13:55:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "tudou",
-        "id": "_UKJ9sX-aTc",
-        "begin": "2017-04-04T13:55:00.000Z",
-        "official": false,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2017-04-04T13:55:00.000Z"
       },
       {
         "site": "mgtv",
         "id": "314020",
-        "begin": "2017-04-04T13:55:00.000Z",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-04T13:55:00.000Z"
       },
       {
         "site": "pptv",
         "id": "MgbycNgibruxPzTU",
-        "begin": "2017-04-04T13:55:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-04T13:55:00.000Z"
       },
       {
         "site": "bilibili",
         "id": "5966",
-        "begin": "2017-04-04T13:55:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-04T13:55:00.000Z"
       },
       {
         "site": "bangumi",
@@ -325,12 +209,7 @@
       {
         "site": "nicovideo",
         "id": "cingeki-anime",
-        "begin": "2017-05-17T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-05-17T03:00:00.000Z"
       }
     ]
   },
@@ -346,7 +225,6 @@
     "officialSite": "http://www.tbs.co.jp/anime/drivehead/",
     "begin": "2017-04-14T22:00:00.000Z",
     "end": "2017-06-30T22:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -355,22 +233,12 @@
       {
         "site": "iqiyi",
         "id": "a_19rrheijc5",
-        "begin": "2017-10-25T21:41:27.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-10-25T21:41:27.000Z"
       },
       {
         "site": "bilibili",
-        "id": "6522",
-        "begin": "2017-04-15T01:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "6084",
+        "begin": "2017-04-15T01:30:00.000Z"
       }
     ]
   },
@@ -386,17 +254,11 @@
     "officialSite": "http://www.tbs.co.jp/anime/cp/",
     "begin": "2017-04-06T16:59:00.000Z",
     "end": "2017-06-22T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bilibili",
         "id": "6000",
-        "begin": "2017-04-07T04:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-07T04:00:00.000Z"
       },
       {
         "site": "bangumi",
@@ -405,12 +267,7 @@
       {
         "site": "nicovideo",
         "id": "cp",
-        "begin": "2017-04-12T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-12T03:00:00.000Z"
       }
     ]
   },
@@ -429,17 +286,11 @@
     "officialSite": "http://rokuaka.jp/",
     "begin": "2017-04-04T11:30:00.000Z",
     "end": "2017-06-20T12:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrh9f27t",
-        "begin": "2017-04-04T13:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-04T13:00:00.000Z"
       },
       {
         "site": "bangumi",
@@ -448,12 +299,7 @@
       {
         "site": "nicovideo",
         "id": "rokuaka",
-        "begin": "2017-04-08T15:30:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-08T15:30:00.000Z"
       }
     ]
   },
@@ -470,27 +316,16 @@
     "officialSite": "http://www.fagirl.com/",
     "begin": "2017-04-03T16:05:00.000Z",
     "end": "2017-06-19T16:35:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrh9f66t",
-        "begin": "2017-04-03T17:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-03T17:30:00.000Z"
       },
       {
         "site": "bilibili",
         "id": "5994",
-        "begin": "2017-04-03T17:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-03T17:30:00.000Z"
       },
       {
         "site": "bangumi",
@@ -499,12 +334,7 @@
       {
         "site": "nicovideo",
         "id": "fagirl",
-        "begin": "2017-04-07T13:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-07T13:00:00.000Z"
       }
     ]
   },
@@ -521,27 +351,16 @@
     "officialSite": "http://www.alicetozouroku.com/",
     "begin": "2017-04-02T13:30:00.000Z",
     "end": "2017-06-25T14:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bilibili",
         "id": "5995",
-        "begin": "2017-04-02T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-02T15:00:00.000Z"
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh9f64p",
-        "begin": "2017-04-02T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-02T15:00:00.000Z"
       },
       {
         "site": "bangumi",
@@ -550,12 +369,7 @@
       {
         "site": "nicovideo",
         "id": "alicetozouroku",
-        "begin": "2017-05-31T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-05-31T03:00:00.000Z"
       }
     ]
   },
@@ -571,18 +385,7 @@
     "officialSite": "http://renaiboukun.com/",
     "begin": "2017-04-06T17:35:00.000Z",
     "end": "2017-06-22T18:05:00.000Z",
-    "comment": "",
     "sites": [
-      {
-        "site": "bilibili",
-        "id": "5996",
-        "begin": "2017-04-06T18:35:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
       {
         "site": "bangumi",
         "id": "159795"
@@ -590,12 +393,7 @@
       {
         "site": "nicovideo",
         "id": "renaiboukun",
-        "begin": "2017-04-07T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-07T03:00:00.000Z"
       }
     ]
   },
@@ -613,17 +411,11 @@
     "officialSite": "http://eromanga-sensei.com/",
     "begin": "2017-04-08T15:30:00.000Z",
     "end": "2017-06-24T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bilibili",
         "id": "5997",
-        "begin": "2017-04-08T17:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-08T17:00:00.000Z"
       },
       {
         "site": "bangumi",
@@ -632,12 +424,7 @@
       {
         "site": "nicovideo",
         "id": "eromanga-sensei",
-        "begin": "2017-04-12T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-12T15:00:00.000Z"
       }
     ]
   },
@@ -653,17 +440,11 @@
     "officialSite": "http://sukasuka-anime.com",
     "begin": "2017-04-11T14:30:00.000Z",
     "end": "2017-06-27T15:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrh9f4gx",
-        "begin": "2017-04-11T17:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-11T17:00:00.000Z"
       },
       {
         "site": "bangumi",
@@ -672,12 +453,7 @@
       {
         "site": "nicovideo",
         "id": "sukasuka_anime",
-        "begin": "2017-04-19T15:30:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-19T15:30:00.000Z"
       }
     ]
   },
@@ -693,17 +469,11 @@
     "officialSite": "http://tsukigakirei.jp",
     "begin": "2017-04-06T15:00:00.000Z",
     "end": "2017-06-29T15:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bilibili",
         "id": "5989",
-        "begin": "2017-04-06T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-06T15:00:00.000Z"
       },
       {
         "site": "bangumi",
@@ -723,17 +493,11 @@
     "officialSite": "http://tsugumomo.com",
     "begin": "2017-04-02T14:30:00.000Z",
     "end": "2017-06-18T15:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bilibili",
         "id": "5988",
-        "begin": "2017-04-02T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-02T16:00:00.000Z"
       },
       {
         "site": "bangumi",
@@ -742,12 +506,7 @@
       {
         "site": "nicovideo",
         "id": "tsugumomo",
-        "begin": "2017-04-06T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-06T15:00:00.000Z"
       }
     ]
   },
@@ -764,27 +523,16 @@
     "officialSite": "http://zeronosyo.com",
     "begin": "2017-04-10T14:30:00.000Z",
     "end": "2017-06-26T15:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bilibili",
         "id": "6001",
-        "begin": "2017-04-10T15:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-10T15:30:00.000Z"
       },
       {
         "site": "mgtv",
         "id": "315437",
-        "begin": "2017-04-10T15:30:00.000Z",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-10T15:30:00.000Z"
       },
       {
         "site": "bangumi",
@@ -793,12 +541,7 @@
       {
         "site": "nicovideo",
         "id": "zeronosyo",
-        "begin": "2017-04-17T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-17T15:00:00.000Z"
       }
     ]
   },
@@ -814,17 +557,11 @@
     "officialSite": "http://sakura-quest.com",
     "begin": "2017-04-05T15:00:00.000Z",
     "end": "2017-09-20T15:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bilibili",
         "id": "5992",
-        "begin": "2017-04-05T16:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-05T16:30:00.000Z"
       },
       {
         "site": "bangumi",
@@ -833,12 +570,7 @@
       {
         "site": "nicovideo",
         "id": "sakura-quest",
-        "begin": "2017-04-07T14:30:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-07T14:30:00.000Z"
       }
     ]
   },
@@ -857,57 +589,26 @@
     "officialSite": "http://nobunaga-no-shinobi.com/",
     "begin": "2017-04-07T16:35:00.000Z",
     "end": "2017-09-29T16:40:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrh9f8t5",
-        "begin": "2017-04-07T17:35:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-07T17:35:00.000Z"
       },
       {
         "site": "letv",
         "id": "10035912",
-        "begin": "2017-04-07T17:35:00.000Z",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2017-04-07T17:35:00.000Z"
       },
       {
         "site": "youku",
         "id": "efbfbd7cefbfbd10112f",
-        "begin": "2017-04-07T17:35:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "tudou",
-        "id": "nNF6raEiQAg",
-        "begin": "2017-04-07T17:35:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2017-04-07T17:35:00.000Z"
       },
       {
         "site": "bilibili",
         "id": "5965",
-        "begin": "2017-04-07T17:35:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-07T17:35:00.000Z"
       },
       {
         "site": "bangumi",
@@ -916,12 +617,7 @@
       {
         "site": "nicovideo",
         "id": "nobunaga-no-shinobi02",
-        "begin": "2017-04-09T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-09T03:00:00.000Z"
       }
     ]
   },
@@ -940,47 +636,16 @@
     "officialSite": "http://heroaca.com/",
     "begin": "2017-04-01T08:30:00.000Z",
     "end": "2017-09-30T09:00:00.000Z",
-    "comment": "",
     "sites": [
       {
-        "site": "acfun",
-        "id": "1480105",
-        "begin": "2017-04-01T09:30:00.000Z",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
         "site": "bilibili",
-        "id": "5969",
-        "begin": "2017-04-01T09:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "91212",
+        "begin": "2017-04-01T09:30:00.000Z"
       },
       {
         "site": "youku",
         "id": "efbfbd1004efbfbd3478",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
-      },
-      {
-        "site": "tudou",
-        "id": "pEFBZGfERLo",
-        "begin": "2017-04-01T09:30:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -989,32 +654,17 @@
       {
         "site": "qq",
         "id": "o/o1550gzahixfttn",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh8h95x",
-        "begin": "2018-04-14T02:54:47.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-04-14T02:54:47.000Z"
       },
       {
         "site": "mgtv",
         "id": "315217",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -1030,37 +680,11 @@
     "officialSite": "http://anime-rinne.com/",
     "begin": "2017-04-08T08:35:00.000Z",
     "end": "2017-09-23T09:00:00.000Z",
-    "comment": "",
     "sites": [
-      {
-        "site": "acfun",
-        "id": "1480099",
-        "begin": "2017-04-08T11:00:00.000Z",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
       {
         "site": "youku",
         "id": "05202e5b111911efbfbd",
-        "begin": "2017-04-08T11:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "tudou",
-        "id": "syDRJaJg4Tw",
-        "begin": "2017-04-08T11:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2017-04-08T11:00:00.000Z"
       },
       {
         "site": "bangumi",
@@ -1069,12 +693,7 @@
       {
         "site": "nicovideo",
         "id": "rinne03",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -1091,77 +710,31 @@
     "officialSite": "http://www.natsume-anime.jp/",
     "begin": "2017-04-11T16:35:00.000Z",
     "end": "2017-06-20T17:05:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "mgtv",
         "id": "314036",
-        "begin": "2017-04-11T19:00:00.000Z",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-11T19:00:00.000Z"
       },
       {
         "site": "sohu",
         "id": "s2017/xmyrz6",
-        "begin": "2017-04-11T19:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-11T19:00:00.000Z"
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh9f5ut",
-        "begin": "2017-04-11T19:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "acfun",
-        "id": "1480106",
-        "begin": "2017-04-11T19:00:00.000Z",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-11T19:00:00.000Z"
       },
       {
         "site": "youku",
         "id": "efbfbd7defbfbd3d06ef",
-        "begin": "2017-04-11T19:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "tudou",
-        "id": "2ztR0qbh6i4",
-        "begin": "2017-04-11T19:00:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2017-04-11T19:00:00.000Z"
       },
       {
         "site": "bilibili",
         "id": "5977",
-        "begin": "2017-04-11T19:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-11T19:00:00.000Z"
       },
       {
         "site": "bangumi",
@@ -1170,22 +743,12 @@
       {
         "site": "nicovideo",
         "id": "natsume6",
-        "begin": "2017-04-12T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-12T03:00:00.000Z"
       },
       {
         "site": "qq",
         "id": "r/rzuinvatj34ekz7",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -1202,37 +765,21 @@
     "officialSite": "http://twinangel-break.com/",
     "begin": "2017-04-07T13:00:00.000Z",
     "end": "2017-06-23T13:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bilibili",
         "id": "5955",
-        "begin": "2017-04-15T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-15T03:00:00.000Z"
       },
       {
         "site": "letv",
         "id": "10036007",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "pptv",
         "id": "LRXicfeVLuiclc2kI",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -1241,12 +788,7 @@
       {
         "site": "nicovideo",
         "id": "twinangel-break",
-        "begin": "2017-04-17T15:30:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-17T15:30:00.000Z"
       }
     ]
   },
@@ -1265,37 +807,16 @@
     "officialSite": "http://seikaisuru-kado.com/",
     "begin": "2017-04-07T13:30:00.000Z",
     "end": "2017-06-29T03:25:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "10036008",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "acfun",
-        "id": "1480103",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "pptv",
         "id": "UibfRT7cdjcsurBQ",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -1304,22 +825,7 @@
       {
         "site": "nicovideo",
         "id": "seikaisuru-kado",
-        "begin": "2017-04-13T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "id": "5982",
-        "begin": "2017-04-06T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-13T03:00:00.000Z"
       }
     ]
   },
@@ -1339,17 +845,11 @@
     "officialSite": "http://machiavellism-anime.jp/",
     "begin": "2017-04-05T14:00:00.000Z",
     "end": "2017-06-21T14:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrh9f4jd",
-        "begin": "2017-04-05T16:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-05T16:30:00.000Z"
       },
       {
         "site": "bangumi",
@@ -1358,12 +858,7 @@
       {
         "site": "nicovideo",
         "id": "machiavellism",
-        "begin": "2017-04-16T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-16T16:00:00.000Z"
       }
     ]
   },
@@ -1382,37 +877,11 @@
     "officialSite": "http://uchoten2-anime.com/",
     "begin": "2017-04-09T13:00:00.000Z",
     "end": "2017-06-25T13:30:00.000Z",
-    "comment": "",
     "sites": [
-      {
-        "site": "acfun",
-        "id": "1480098",
-        "begin": "2017-04-09T13:30:00.000Z",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
       {
         "site": "youku",
         "id": "efbfbdefbfbdefbfbd08",
-        "begin": "2017-04-09T13:30:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "tudou",
-        "id": "SpDRKeq36sU",
-        "begin": "2017-04-09T13:30:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2017-04-09T13:30:00.000Z"
       },
       {
         "site": "bangumi",
@@ -1421,12 +890,7 @@
       {
         "site": "nicovideo",
         "id": "uchoten2-anime",
-        "begin": "2017-04-14T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-14T15:00:00.000Z"
       }
     ]
   },
@@ -1445,27 +909,16 @@
     "officialSite": "http://www.tv-tokyo.co.jp/anime/rilurilufairilu/",
     "begin": "2017-04-07T08:55:00.000Z",
     "end": "2018-03-30T09:25:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "VurGRKwSgsAjoQk",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "5958",
-        "begin": "2017-04-09T03:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-09T03:00:00.000Z"
       },
       {
         "site": "bangumi",
@@ -1485,27 +938,16 @@
     "officialSite": "http://recreators.tv/",
     "begin": "2017-04-08T14:30:00.000Z",
     "end": "2017-09-16T15:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bilibili",
         "id": "5998",
-        "begin": "2017-04-08T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-08T16:00:00.000Z"
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh9f1v5",
-        "begin": "2017-04-08T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-08T16:00:00.000Z"
       },
       {
         "site": "bangumi",
@@ -1514,12 +956,7 @@
       {
         "site": "youku",
         "id": "efbfbd42efbfbdefbfbd",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -1535,17 +972,11 @@
     "officialSite": "http://warau-new.jp/",
     "begin": "2017-04-03T14:00:00.000Z",
     "end": "2017-06-19T14:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bilibili",
         "id": "5951",
-        "begin": "2017-04-03T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-03T15:00:00.000Z"
       },
       {
         "site": "bangumi",
@@ -1554,12 +985,7 @@
       {
         "site": "nicovideo",
         "id": "warau-new",
-        "begin": "2017-04-04T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-04T15:00:00.000Z"
       }
     ]
   },
@@ -1575,47 +1001,16 @@
     "officialSite": "http://hstar-mu.com/",
     "begin": "2017-04-03T15:00:00.000Z",
     "end": "2017-06-19T15:30:00.000Z",
-    "comment": "",
     "sites": [
-      {
-        "site": "acfun",
-        "id": "1480094",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
       {
         "site": "youku",
         "id": "3a3f0490e2b011e69e06",
-        "begin": "2017-04-03T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "tudou",
-        "id": "sE4psYU06jI",
-        "begin": "2017-04-03T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2017-04-03T16:00:00.000Z"
       },
       {
         "site": "bilibili",
         "id": "5973",
-        "begin": "2017-04-03T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-03T16:00:00.000Z"
       },
       {
         "site": "bangumi",
@@ -1624,22 +1019,12 @@
       {
         "site": "nicovideo",
         "id": "hstar-mu02",
-        "begin": "2017-04-03T15:30:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-03T15:30:00.000Z"
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh83325",
-        "begin": "2017-06-30T16:02:45.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-06-30T16:02:45.000Z"
       }
     ]
   },
@@ -1658,47 +1043,16 @@
     "officialSite": "http://id-zero.com/",
     "begin": "2017-04-09T14:00:00.000Z",
     "end": "2017-06-25T14:30:00.000Z",
-    "comment": "",
     "sites": [
-      {
-        "site": "acfun",
-        "id": "1480100",
-        "begin": "2017-04-09T16:00:00.000Z",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
       {
         "site": "youku",
         "id": "24efbfbd204509efbfbd",
-        "begin": "2017-04-09T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "tudou",
-        "id": "MF_XuRLHVXg",
-        "begin": "2017-04-09T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2017-04-09T16:00:00.000Z"
       },
       {
         "site": "bilibili",
         "id": "5999",
-        "begin": "2017-04-09T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-09T16:00:00.000Z"
       },
       {
         "site": "bangumi",
@@ -1707,12 +1061,7 @@
       {
         "site": "netflix",
         "id": "80174918",
-        "begin": "2017-10-06T07:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-10-06T07:00:00.000Z"
       }
     ]
   },
@@ -1729,27 +1078,16 @@
     "officialSite": "http://fukumenkei-anime.jp/",
     "begin": "2017-04-11T14:00:00.000Z",
     "end": "2017-06-27T14:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrh9f60d",
-        "begin": "2017-04-11T15:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-11T15:30:00.000Z"
       },
       {
         "site": "bilibili",
         "id": "5981",
-        "begin": "2017-04-11T15:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-11T15:30:00.000Z"
       },
       {
         "site": "bangumi",
@@ -1769,17 +1107,11 @@
     "officialSite": "http://www.tbs.co.jp/anime/kabukibu/",
     "begin": "2017-04-06T17:29:00.000Z",
     "end": "2017-06-22T18:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bilibili",
         "id": "5991",
-        "begin": "2017-04-06T18:28:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-06T18:28:00.000Z"
       },
       {
         "site": "bangumi",
@@ -1788,12 +1120,7 @@
       {
         "site": "nicovideo",
         "id": "kabukibu",
-        "begin": "2017-04-21T14:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-21T14:00:00.000Z"
       }
     ]
   },
@@ -1812,7 +1139,6 @@
     "officialSite": "http://www.shopro.co.jp/tv/duelmasters/",
     "begin": "2017-04-01T23:30:00.000Z",
     "end": "2018-03-25T23:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -1821,12 +1147,7 @@
       {
         "site": "nicovideo",
         "id": "duelmasters_2017",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -1846,47 +1167,16 @@
     "officialSite": "http://www.beyblade.tv/",
     "begin": "2017-04-03T08:55:00.000Z",
     "end": "2018-03-26T09:25:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "youku",
         "id": "4fefbfbdefbfbd7816ef",
-        "begin": "2017-04-03T16:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "tudou",
-        "id": "Wylt_kdgbVU",
-        "begin": "2017-04-03T16:30:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2017-04-03T16:30:00.000Z"
       },
       {
         "site": "pptv",
         "id": "LxP9eibNJufda2EA",
-        "begin": "2017-04-03T16:30:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "acfun",
-        "id": "1480097",
-        "begin": "2017-04-03T16:30:00.000Z",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-03T16:30:00.000Z"
       },
       {
         "site": "bangumi",
@@ -1906,7 +1196,6 @@
     "officialSite": "http://www9.nhk.or.jp/anime/wasimo/",
     "begin": "2017-04-03T09:00:00.000Z",
     "end": "2017-11-14T09:10:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -1931,67 +1220,26 @@
     "officialSite": "http://www.tv-tokyo.co.jp/anime/ipp/",
     "begin": "2017-04-04T08:55:00.000Z",
     "end": "2018-03-27T09:25:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "10035810",
-        "begin": "2017-04-04T09:55:00.000Z",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2017-04-04T09:55:00.000Z"
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh9f5s1",
-        "begin": "2017-04-04T09:55:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "acfun",
-        "id": "1480095",
-        "begin": "2017-04-04T09:55:00.000Z",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-04T09:55:00.000Z"
       },
       {
         "site": "youku",
         "id": "105b2befbfbd09efbfbd",
-        "begin": "2017-04-04T09:55:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "tudou",
-        "id": "hhG7Y5sJi78",
-        "begin": "2017-04-04T09:55:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2017-04-04T09:55:00.000Z"
       },
       {
         "site": "bilibili",
         "id": "5963",
-        "begin": "2017-04-04T09:55:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-04T09:55:00.000Z"
       },
       {
         "site": "bangumi",
@@ -2000,12 +1248,7 @@
       {
         "site": "nicovideo",
         "id": "ipp",
-        "begin": "2017-04-14T12:30:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-14T12:30:00.000Z"
       }
     ]
   },
@@ -2022,67 +1265,26 @@
     "officialSite": "http://www.tv-tokyo.co.jp/anime/yamizukan/",
     "begin": "2017-04-02T18:35:00.000Z",
     "end": "2017-06-25T18:40:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrh9f8xh",
-        "begin": "2017-04-02T19:35:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-02T19:35:00.000Z"
       },
       {
         "site": "letv",
         "id": "10035761",
-        "begin": "2017-04-02T19:35:00.000Z",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
-      },
-      {
-        "site": "acfun",
-        "id": "1480096",
-        "begin": "2017-04-02T19:35:00.000Z",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-02T19:35:00.000Z"
       },
       {
         "site": "youku",
         "id": "6e07112411efbfbd11ef",
-        "begin": "2017-04-02T19:35:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "tudou",
-        "id": "FtO1_WOcyjU",
-        "begin": "2017-04-02T19:35:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2017-04-02T19:35:00.000Z"
       },
       {
         "site": "bilibili",
         "id": "6011",
-        "begin": "2017-04-02T19:05:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-02T19:05:00.000Z"
       },
       {
         "site": "bangumi",
@@ -2091,12 +1293,7 @@
       {
         "site": "nicovideo",
         "id": "yamizukan",
-        "begin": "2017-04-03T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-03T03:00:00.000Z"
       }
     ]
   },
@@ -2112,27 +1309,11 @@
     "officialSite": "http://soryo.w-anime.com/",
     "begin": "2017-04-02T16:00:00.000Z",
     "end": "2017-06-18T16:05:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "t4xo5k60JGLFQ6s",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "id": "5960",
-        "begin": "2017-04-03T02:40:00.000Z",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -2141,12 +1322,7 @@
       {
         "site": "nicovideo",
         "id": "soryo-w-anime",
-        "begin": "2017-12-22T09:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-12-22T09:00:00.000Z"
       }
     ]
   },
@@ -2164,47 +1340,21 @@
     "officialSite": "http://gogo-gomachan.com/",
     "begin": "2017-04-04T09:45:00.000Z",
     "end": "2018-02-13T10:15:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrh9f6b5",
-        "begin": "2017-04-04T12:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-04T12:00:00.000Z"
       },
       {
         "site": "youku",
         "id": "410affe6e5d311e5b32f",
-        "begin": "2016-04-05T11:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "tudou",
-        "id": "qiBO_bk7hZY",
-        "begin": "2016-04-05T11:00:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2016-04-05T11:00:00.000Z"
       },
       {
         "site": "bilibili",
         "id": "6010",
-        "begin": "2017-04-04T12:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-04T12:00:00.000Z"
       },
       {
         "site": "bangumi",
@@ -2224,67 +1374,26 @@
     "officialSite": "http://heine-royal.com/",
     "begin": "2017-04-04T17:05:00.000Z",
     "end": "2017-06-20T17:35:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrh9f8up",
-        "begin": "2017-04-04T18:05:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-04T18:05:00.000Z"
       },
       {
         "site": "letv",
         "id": "10035811",
-        "begin": "2017-04-04T18:05:00.000Z",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
-      },
-      {
-        "site": "acfun",
-        "id": "1480093",
-        "begin": "2017-04-04T18:05:00.000Z",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-04T18:05:00.000Z"
       },
       {
         "site": "youku",
         "id": "efbfbdefbfbd3befbfbd",
-        "begin": "2017-04-04T18:05:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "tudou",
-        "id": "jjWggTdz9pI",
-        "begin": "2017-04-04T18:05:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2017-04-04T18:05:00.000Z"
       },
       {
         "site": "bilibili",
         "id": "5990",
-        "begin": "2017-04-04T18:05:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-04T18:05:00.000Z"
       },
       {
         "site": "bangumi",
@@ -2293,12 +1402,7 @@
       {
         "site": "nicovideo",
         "id": "heine-royal",
-        "begin": "2017-04-05T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-05T15:00:00.000Z"
       }
     ]
   },
@@ -2315,57 +1419,26 @@
     "officialSite": "http://www.tv-tokyo.co.jp/anime/boruto/",
     "begin": "2017-04-05T08:55:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "10035769",
-        "begin": "2017-04-09T09:30:00.000Z",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2017-04-09T09:30:00.000Z"
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh9f0tx",
-        "begin": "2017-04-09T09:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-09T09:30:00.000Z"
       },
       {
         "site": "youku",
         "id": "311801efbfbd111211ef",
-        "begin": "2017-04-09T09:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "tudou",
-        "id": "ffdR6DGHMFI",
-        "begin": "2017-04-09T09:30:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2017-04-09T09:30:00.000Z"
       },
       {
         "site": "bilibili",
         "id": "5978",
-        "begin": "2017-04-09T09:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-09T09:30:00.000Z"
       },
       {
         "site": "bangumi",
@@ -2374,12 +1447,7 @@
       {
         "site": "nicovideo",
         "id": "boruto",
-        "begin": "2017-04-09T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-09T15:00:00.000Z"
       }
     ]
   },
@@ -2395,17 +1463,11 @@
     "officialSite": "http://akunogundan.com/",
     "begin": "2017-04-05T13:30:00.000Z",
     "end": "2017-06-21T13:50:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bilibili",
         "id": "5956",
-        "begin": "2017-04-05T13:45:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-05T13:45:00.000Z"
       },
       {
         "site": "bangumi",
@@ -2414,12 +1476,7 @@
       {
         "site": "nicovideo",
         "id": "akunogundan",
-        "begin": "2017-04-07T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-07T15:00:00.000Z"
       }
     ]
   },
@@ -2435,47 +1492,16 @@
     "officialSite": "http://love-kome.com/",
     "begin": "2017-04-05T13:45:00.000Z",
     "end": "2017-06-21T13:55:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "mgtv",
         "id": "313990",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "acfun",
-        "id": "1480092",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "youku",
         "id": "7e4458bae2ca11e6b9bb",
-        "begin": "2017-04-05T14:45:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "tudou",
-        "id": "mAf8Sxudxb4",
-        "begin": "2017-04-05T14:45:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2017-04-05T14:45:00.000Z"
       },
       {
         "site": "bangumi",
@@ -2484,12 +1510,7 @@
       {
         "site": "nicovideo",
         "id": "love-kome-anime",
-        "begin": "2017-04-07T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-07T15:00:00.000Z"
       }
     ]
   },
@@ -2505,37 +1526,11 @@
     "officialSite": "http://berserk-anime.com/",
     "begin": "2017-04-07T13:00:00.000Z",
     "end": "2017-06-23T14:00:00.000Z",
-    "comment": "",
     "sites": [
-      {
-        "site": "acfun",
-        "id": "1480101",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
       {
         "site": "pptv",
         "id": "VOzIRq4UhMIlows",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "id": "5967",
-        "begin": "2017-04-08T02:15:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -2544,12 +1539,7 @@
       {
         "site": "nicovideo",
         "id": "berserk-anime",
-        "begin": "2016-07-24T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-07-24T03:00:00.000Z"
       }
     ]
   },
@@ -2565,37 +1555,16 @@
     "officialSite": "https://shingekinobahamut-virginsoul.jp",
     "begin": "2017-04-07T17:10:00.000Z",
     "end": "2017-09-29T17:25:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "10036009",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "acfun",
-        "id": "1480102",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "5968",
-        "begin": "2017-04-08T02:15:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-08T02:15:00.000Z"
       },
       {
         "site": "bangumi",
@@ -2604,22 +1573,12 @@
       {
         "site": "nicovideo",
         "id": "bahamut-vs",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "youku",
         "id": "4dbc9c25e2bf11e6acec",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -2637,17 +1596,11 @@
     "officialSite": "http://kbo-anime.com/",
     "begin": "2017-04-12T13:30:00.000Z",
     "end": "2017-06-28T13:40:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "mgtv",
         "id": "314097",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -2656,12 +1609,7 @@
       {
         "site": "nicovideo",
         "id": "kbo-anime",
-        "begin": "2017-04-12T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-12T15:00:00.000Z"
       }
     ]
   },
@@ -2677,17 +1625,11 @@
     "officialSite": "http://oneroom-anime.com/",
     "begin": "2017-04-12T13:40:00.000Z",
     "end": "2017-06-28T13:45:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bilibili",
         "id": "5959",
-        "begin": "2017-04-12T13:40:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-12T13:40:00.000Z"
       },
       {
         "site": "bangumi",
@@ -2696,12 +1638,7 @@
       {
         "site": "nicovideo",
         "id": "Room_Mate",
-        "begin": "2017-04-13T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-13T03:00:00.000Z"
       }
     ]
   },
@@ -2718,7 +1655,6 @@
     "officialSite": "http://www.7-sins.tv/",
     "begin": "2017-04-14T15:00:00.000Z",
     "end": "2017-07-29T13:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -2727,12 +1663,7 @@
       {
         "site": "nicovideo",
         "id": "7-sins",
-        "begin": "2017-04-15T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-15T03:00:00.000Z"
       }
     ]
   },
@@ -2751,17 +1682,11 @@
     "officialSite": "http://atom-tb.com/",
     "begin": "2017-04-15T14:00:00.000Z",
     "end": "2017-07-08T14:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bilibili",
         "id": "5979",
-        "begin": "2017-04-15T16:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-15T16:30:00.000Z"
       },
       {
         "site": "bangumi",
@@ -2770,12 +1695,7 @@
       {
         "site": "nicovideo",
         "id": "atom-tb",
-        "begin": "2017-04-17T06:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-17T06:00:00.000Z"
       }
     ]
   },
@@ -2791,7 +1711,6 @@
     "officialSite": "http://neco-neco.jp/",
     "begin": "2017-04-05T09:45:00.000Z",
     "end": "2018-02-28T10:15:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -2814,77 +1733,41 @@
     "officialSite": "http://ginno-guardian.jp/",
     "begin": "2017-04-01T12:00:00.000Z",
     "end": "2017-06-17T12:15:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bilibili",
         "id": "6060",
-        "begin": "2017-03-31T02:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-03-31T02:00:00.000Z"
       },
       {
         "site": "letv",
         "id": "10035880",
-        "begin": "2017-03-31T02:00:00.000Z",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-03-31T02:00:00.000Z"
       },
       {
         "site": "mgtv",
         "id": "313603",
-        "begin": "2017-03-31T02:00:00.000Z",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-03-31T02:00:00.000Z"
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh9fkfl",
-        "begin": "2017-03-31T02:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-03-31T02:00:00.000Z"
       },
       {
         "site": "qq",
         "id": "y/yn3kar593j2b1lm",
-        "begin": "2017-03-31T02:00:00.000Z",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-03-31T02:00:00.000Z"
       },
       {
         "site": "sohu",
         "id": "s2017/dhpyzsmr",
-        "begin": "2017-03-31T02:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-03-31T02:00:00.000Z"
       },
       {
         "site": "pptv",
         "id": "TfXfXcUrm9k8uiaI",
-        "begin": "2017-03-31T02:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-03-31T02:00:00.000Z"
       },
       {
         "site": "bangumi",
@@ -2893,12 +1776,7 @@
       {
         "site": "nicovideo",
         "id": "ginno-guardian",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -2917,7 +1795,6 @@
     "officialSite": "http://ginno-guardian.jp/",
     "begin": "2017-04-01T12:00:00.000Z",
     "end": "2017-06-17T12:15:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -2926,72 +1803,37 @@
       {
         "site": "bilibili",
         "id": "5856",
-        "begin": "2017-03-31T02:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-03-31T02:00:00.000Z"
       },
       {
         "site": "letv",
         "id": "10035403",
-        "begin": "2017-03-31T02:00:00.000Z",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-03-31T02:00:00.000Z"
       },
       {
         "site": "mgtv",
         "id": "313299",
-        "begin": "2017-03-31T02:00:00.000Z",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-03-31T02:00:00.000Z"
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh9fs0d",
-        "begin": "2017-03-31T02:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-03-31T02:00:00.000Z"
       },
       {
         "site": "qq",
         "id": "c/co1rct64uxcugab",
-        "begin": "2017-03-31T02:00:00.000Z",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-03-31T02:00:00.000Z"
       },
       {
         "site": "sohu",
         "id": "s2017/yzsmrzwb",
-        "begin": "2017-03-31T02:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-03-31T02:00:00.000Z"
       },
       {
         "site": "pptv",
         "id": "q5B8ibmLIOHbZV78",
-        "begin": "2017-03-31T02:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-03-31T02:00:00.000Z"
       }
     ]
   },
@@ -3007,7 +1849,6 @@
     "officialSite": "http://ch.nicovideo.jp/peso-game-line-me-anime",
     "begin": "2017-04-03T12:55:00.000Z",
     "end": "2017-06-19T13:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -3016,22 +1857,12 @@
       {
         "site": "nicovideo",
         "id": "peso-game-line-me-anime",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "6068",
-        "begin": "2017-04-02T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-02T16:00:01.000Z"
       }
     ]
   },
@@ -3047,17 +1878,11 @@
     "officialSite": "http://hinakonote.jp",
     "begin": "2017-04-07T12:00:00.000Z",
     "end": "2017-06-23T12:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bilibili",
         "id": "5993",
-        "begin": "2017-04-07T13:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-07T13:30:00.000Z"
       },
       {
         "site": "bangumi",
@@ -3066,12 +1891,7 @@
       {
         "site": "nicovideo",
         "id": "hinakonote",
-        "begin": "2017-04-14T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-14T16:00:00.000Z"
       }
     ]
   },
@@ -3087,27 +1907,11 @@
     "officialSite": "http://www.tv-tokyo.co.jp/anime/mukashibanashi/",
     "begin": "2017-04-02T00:00:00.000Z",
     "end": "2018-03-25T00:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "youku",
         "id": "7c49efbfbdefbfbd11ef",
-        "begin": "2017-04-02T01:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "tudou",
-        "id": "XO_kkMadc2Q",
-        "begin": "2017-04-02T01:00:00.000Z",
-        "official": false,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2017-04-02T01:00:00.000Z"
       },
       {
         "site": "bangumi",
@@ -3116,12 +1920,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrheh3kd",
-        "begin": "2018-01-07T00:55:04.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-01-07T00:55:04.000Z"
       }
     ]
   },
@@ -3138,17 +1937,11 @@
     "officialSite": "http://www.aikatsu.net/",
     "begin": "2017-04-06T09:25:00.000Z",
     "end": "2018-03-29T09:55:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrh9f4mh",
-        "begin": "2017-04-06T11:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-06T11:30:00.000Z"
       },
       {
         "site": "bangumi",
@@ -3168,7 +1961,6 @@
     "officialSite": "http://www.tv-tokyo.co.jp/anime/cocotama/index2.html",
     "begin": "2017-04-06T09:00:00.000Z",
     "end": "2018-03-29T09:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -3188,27 +1980,16 @@
     "officialSite": "http://s.mxtv.jp/anime/anitsuke/",
     "begin": "2017-04-07T12:55:00.000Z",
     "end": "2017-06-23T13:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "qq",
         "id": "m/maa2g8kqchabbgl",
-        "begin": "2017-03-28T02:00:00.000Z",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-03-28T02:00:00.000Z"
       },
       {
         "site": "bilibili",
         "id": "6015",
-        "begin": "2017-03-28T02:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-03-28T02:00:00.000Z"
       },
       {
         "site": "bangumi",
@@ -3217,12 +1998,7 @@
       {
         "site": "nicovideo",
         "id": "anitsuke",
-        "begin": "2017-04-09T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-09T15:00:00.000Z"
       }
     ]
   },
@@ -3238,7 +2014,6 @@
     "officialSite": "http://meisakukun.com/",
     "begin": "2017-04-07T09:20:00.000Z",
     "end": "2018-02-23T09:55:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -3258,17 +2033,11 @@
     "officialSite": "http://www.nhk.or.jp/anime/nintama/yotei/",
     "begin": "2017-04-03T08:35:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "VibvFQ6sRgb8iaoAg",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -3277,12 +2046,7 @@
       {
         "site": "youku",
         "id": "75ed8cfa4bfc463483b4",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -3298,7 +2062,6 @@
     "officialSite": "http://www.tv-tokyo.co.jp/anime/snack-world/",
     "begin": "2017-04-13T10:25:00.000Z",
     "end": "2018-04-19T10:25:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -3307,22 +2070,12 @@
       {
         "site": "nicovideo",
         "id": "snack-world",
-        "begin": "2017-04-20T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-20T03:00:00.000Z"
       },
       {
         "site": "bilibili",
         "id": "6004",
-        "begin": "2017-04-12T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-12T16:00:01.000Z"
       }
     ]
   },
@@ -3338,37 +2091,21 @@
     "officialSite": "http://anime.kakutora.com/",
     "begin": "2017-04-12T07:00:00.000Z",
     "end": "2017-11-29T07:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bilibili",
         "id": "6069",
-        "begin": "2017-04-14T03:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-14T03:00:00.000Z"
       },
       {
         "site": "letv",
         "id": "10036060",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "pptv",
         "id": "hrqWFHziaUpDzcdk",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -3377,12 +2114,7 @@
       {
         "site": "nicovideo",
         "id": "trinary",
-        "begin": "2017-04-26T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-04-26T15:00:00.000Z"
       }
     ]
   },
@@ -3398,17 +2130,11 @@
     "officialSite": "http://pasu-chi.com/",
     "begin": "2017-04-14T21:30:00.000Z",
     "end": "2017-12-16T22:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "nqKODHTaSojradE",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -3428,27 +2154,11 @@
     "officialSite": "http://pasu-chi.com/",
     "begin": "2017-04-14T21:30:00.000Z",
     "end": "2017-12-16T22:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "lqqGBGzSQoDjYck",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "id": "5954",
-        "begin": "2017-04-17T03:25:00.000Z",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -3469,7 +2179,6 @@
     "officialSite": "http://anime.monster-strike.com/",
     "begin": "2017-04-01T15:00:00.000Z",
     "end": "2017-09-02T15:15:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -3478,52 +2187,27 @@
       {
         "site": "bilibili",
         "id": "6059",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhdz2gt",
-        "begin": "2017-08-14T10:31:53.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-08-14T10:31:53.000Z"
       },
       {
         "site": "pptv",
         "id": "xnVf3UWrG1m8OqI",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "qq",
         "id": "w/wrqntnqyx2vhs7v",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "youku",
         "id": "45efbfbd1fefbfbd5bef",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -3535,7 +2219,6 @@
     "officialSite": "http://www.panpaka.com",
     "begin": "2017-04-07T16:00:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -3555,7 +2238,6 @@
     "officialSite": "http://yuyuyu.tv/washio/",
     "begin": "2017-04-15T16:00:00.000Z",
     "end": "2017-04-15T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -3564,12 +2246,7 @@
       {
         "site": "pptv",
         "id": "KAicpZ881peNGxCw",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -3585,7 +2262,6 @@
     "officialSite": "",
     "begin": "2017-04-28T16:00:00.000Z",
     "end": "2017-09-01T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -3594,22 +2270,12 @@
       {
         "site": "mgtv",
         "id": "314318",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "youku",
         "id": "efbfbd17efbfbd6f3aef",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -3625,7 +2291,6 @@
     "officialSite": "http://www.conan-movie.jp/",
     "begin": "2017-04-15T16:00:00.000Z",
     "end": "2017-04-15T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -3634,12 +2299,7 @@
       {
         "site": "qq",
         "id": "5/5wg77t6vu3utemv",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -3655,7 +2315,6 @@
     "officialSite": "http://tm.iwatobi-sc.com/",
     "begin": "2017-04-22T16:00:00.000Z",
     "end": "2017-04-22T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -3664,12 +2323,7 @@
       {
         "site": "nicovideo",
         "id": "free-tm-movie",
-        "begin": "2018-07-01T06:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-07-01T06:00:00.000Z"
       }
     ]
   }

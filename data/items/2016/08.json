@@ -14,7 +14,6 @@
     "officialSite": "http://www.7-taizai.net/",
     "begin": "2016-08-28T08:30:00.000Z",
     "end": "2016-09-18T08:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -23,12 +22,7 @@
       {
         "site": "nicovideo",
         "id": "7-taizai02",
-        "begin": "2016-08-28T09:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-08-28T09:00:00.000Z"
       }
     ]
   },
@@ -40,27 +34,16 @@
     "officialSite": "http://ac.qq.com/event/835d044d6dd88a012ef06a244da6d3a6.html",
     "begin": "2016-08-25T12:00:00.000Z",
     "end": "2017-01-12T12:15:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "dbibZF3iclVZP2dNw",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "qq",
         "id": "9/9fan764zm5pe3m8",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -80,27 +63,11 @@
     "officialSite": "http://www.kizumonogatari-movie.com/",
     "begin": "2016-08-19T16:00:00.000Z",
     "end": "2016-08-19T17:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "youku",
         "id": "383c6440a6d611e0a046",
-        "begin": "2017-02-23T05:00:00.000Z",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
-      },
-      {
-        "site": "tudou",
-        "id": "jEqiWcizq8A",
-        "begin": "2017-02-23T05:00:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2017-02-23T05:00:00.000Z"
       },
       {
         "site": "bangumi",
@@ -120,17 +87,11 @@
     "officialSite": "",
     "begin": "2016-08-05T16:00:00.000Z",
     "end": "2016-10-21T16:05:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "lZ9591icFNXPWVLw",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -139,12 +100,7 @@
       {
         "site": "bilibili",
         "id": "5437",
-        "begin": "2016-08-04T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-08-04T16:00:01.000Z"
       }
     ]
   },
@@ -161,17 +117,11 @@
     "officialSite": "http://gundam-bf.net/try_special/",
     "begin": "2016-08-21T16:00:00.000Z",
     "end": "2016-08-21T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "q5139V3DM3HUUro",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -191,17 +141,11 @@
     "officialSite": "http://under-the-dog.com/",
     "begin": "2016-08-01T16:00:00.000Z",
     "end": "2016-08-01T16:40:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "VN66OKAGdrQXlf0",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -210,12 +154,7 @@
       {
         "site": "bilibili",
         "id": "6071",
-        "begin": "2016-07-31T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-07-31T16:00:01.000Z"
       }
     ]
   }

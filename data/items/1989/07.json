@@ -12,17 +12,11 @@
     "officialSite": "",
     "begin": "1989-07-21T16:00:00.000Z",
     "end": "1990-08-31T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrha4tbh",
-        "begin": "2016-12-06T01:58:55.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-12-06T01:58:55.000Z"
       },
       {
         "site": "bangumi",
@@ -42,17 +36,11 @@
     "officialSite": "",
     "begin": "1989-07-15T16:00:00.000Z",
     "end": "1989-07-15T16:50:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrhb4015",
-        "begin": "2016-02-04T10:34:13.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-02-04T10:34:13.000Z"
       },
       {
         "site": "bangumi",
@@ -61,12 +49,7 @@
       {
         "site": "nicovideo",
         "id": "DBZ",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -82,17 +65,11 @@
     "officialSite": "",
     "begin": "1989-07-29T16:00:00.000Z",
     "end": "1989-07-29T17:40:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrh9spg5",
-        "begin": "2017-01-24T08:06:01.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-01-24T08:06:01.000Z"
       },
       {
         "site": "bangumi",
@@ -112,17 +89,11 @@
     "officialSite": "",
     "begin": "1989-07-01T16:00:00.000Z",
     "end": "1989-08-02T15:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "9WtFwyuRATibiaIIg",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -142,7 +113,6 @@
     "officialSite": "",
     "begin": "1989-07-15T16:00:00.000Z",
     "end": "1989-07-15T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -151,22 +121,12 @@
       {
         "site": "nicovideo",
         "id": "PATLABOR_01",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "4016",
-        "begin": "1989-07-14T16:00:01.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1989-07-14T16:00:01.000Z"
       }
     ]
   }

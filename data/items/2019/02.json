@@ -14,7 +14,6 @@
     "officialSite": "http://www.toei-anim.co.jp/tv/startwinkle_precure/",
     "begin": "2019-02-02T23:30:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -23,12 +22,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhul389",
-        "begin": "2019-02-03T03:32:28.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2019-02-03T03:32:28.000Z"
       }
     ]
   },
@@ -40,7 +34,6 @@
     "officialSite": "http://tsunoanime.jp/",
     "begin": "2019-02-26T19:28:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -49,12 +42,7 @@
       {
         "site": "nicovideo",
         "id": "tsunoanime",
-        "begin": "2019-02-21T13:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2019-02-21T13:00:00.000Z"
       }
     ]
   },
@@ -70,7 +58,6 @@
     "officialSite": "",
     "begin": "2019-02-16T16:00:00.000Z",
     "end": "2019-02-16T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -78,33 +65,18 @@
       },
       {
         "site": "bilibili",
-        "id": "26619",
-        "begin": "2019-02-16T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "16179187",
+        "begin": "2019-02-16T16:00:00.000Z"
       },
       {
         "site": "youku",
         "id": "80a9fe723ec04a909a0e",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "nicovideo",
         "id": "movie-heine",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -116,7 +88,6 @@
     "officialSite": "",
     "begin": "2019-02-02T16:00:00.000Z",
     "end": "2019-04-20T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -125,12 +96,7 @@
       {
         "site": "nicovideo",
         "id": "horamimi2",
-        "begin": "2019-04-12T13:30:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2019-04-12T13:30:00.000Z"
       }
     ]
   }

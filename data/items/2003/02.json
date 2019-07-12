@@ -11,17 +11,11 @@
     "officialSite": "http://www.toei-anim.co.jp/tv/nadja/",
     "begin": "2003-02-01T23:30:00.000Z",
     "end": "2004-01-25T00:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "grGMCnLYSIbpZ88",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -30,12 +24,7 @@
       {
         "site": "bilibili",
         "id": "1992",
-        "begin": "2003-02-01T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2003-02-01T16:00:00.000Z"
       }
     ]
   },
@@ -51,7 +40,6 @@
     "officialSite": "http://www.crushgear-nitro.net/",
     "begin": "2003-02-01T22:00:00.000Z",
     "end": "2004-01-24T22:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -67,7 +55,6 @@
     "officialSite": "",
     "begin": "2003-02-05T16:00:00.000Z",
     "end": "2003-02-05T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -76,12 +63,7 @@
       {
         "site": "nicovideo",
         "id": "it-supermilk-chan",
-        "begin": "2011-06-17T12:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2011-06-17T12:00:00.000Z"
       }
     ]
   },
@@ -97,7 +79,6 @@
     "officialSite": "",
     "begin": "2003-02-05T16:00:00.000Z",
     "end": "2003-04-16T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -106,12 +87,7 @@
       {
         "site": "pptv",
         "id": "o4RicicWXLO3ncWsI",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   }

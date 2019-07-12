@@ -12,17 +12,11 @@
     "officialSite": "http://www.toei-anim.co.jp/tv/doremi_D/",
     "begin": "2002-02-02T23:30:00.000Z",
     "end": "2003-01-26T00:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrhb13bp",
-        "begin": "2015-08-14T17:07:41.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-08-14T17:07:41.000Z"
       },
       {
         "site": "bangumi",
@@ -42,7 +36,6 @@
     "officialSite": "http://www.madhouse.co.jp/works/2003-2002/works_tv_galaxyange2.html",
     "begin": "2002-02-03T10:00:00.000Z",
     "end": "2002-03-31T10:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -51,12 +44,7 @@
       {
         "site": "bilibili",
         "id": "1943",
-        "begin": "2002-02-02T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2002-02-02T16:00:00.000Z"
       }
     ]
   },
@@ -72,17 +60,11 @@
     "officialSite": "",
     "begin": "2002-02-02T16:00:00.000Z",
     "end": "2002-02-02T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "17266",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -91,12 +73,7 @@
       {
         "site": "nicovideo",
         "id": "hoshinokoe",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   }

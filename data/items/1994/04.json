@@ -11,7 +11,6 @@
     "officialSite": "",
     "begin": "1994-04-05T16:00:00.000Z",
     "end": "1995-03-28T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -20,12 +19,7 @@
       {
         "site": "nicovideo",
         "id": "redbaron",
-        "begin": "2011-11-23T06:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2011-11-23T06:00:00.000Z"
       }
     ]
   },
@@ -41,27 +35,16 @@
     "officialSite": "http://www.g-gundam.net/",
     "begin": "1994-04-01T16:00:00.000Z",
     "end": "1995-03-31T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "CzgDgelPvic1g3kY",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "qq",
         "id": "w/w0nbxlyqmc6clnc",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -81,27 +64,16 @@
     "officialSite": "http://www.shinchan-movie.com/",
     "begin": "1994-04-23T16:00:00.000Z",
     "end": "1994-04-23T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "3aGLCXHXR4XoZs4",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "begin": "",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "comment": "",
-        "url": "http://www.iqiyi.com/dongman/20130715/d7a321d48f825733.html",
-        "exist": null
+        "url": "http://www.iqiyi.com/dongman/20130715/d7a321d48f825733.html"
       },
       {
         "site": "bangumi",
@@ -110,22 +82,12 @@
       {
         "site": "qq",
         "id": "b/bymafsjpccgo4bw",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
-        "id": "3870",
-        "begin": "1994-04-22T16:00:01.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "10472",
+        "begin": "1994-04-22T16:00:01.000Z"
       }
     ]
   },
@@ -141,17 +103,11 @@
     "officialSite": "",
     "begin": "1994-04-01T16:00:00.000Z",
     "end": "1995-02-01T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "NHdRzzedDUuuLJQ",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -160,12 +116,7 @@
       {
         "site": "bilibili",
         "id": "3809",
-        "begin": "1994-03-31T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1994-03-31T16:00:01.000Z"
       }
     ]
   },
@@ -181,17 +132,11 @@
     "officialSite": "",
     "begin": "1994-04-06T16:00:00.000Z",
     "end": "1995-03-23T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "LmBc2kKoGFa5N58",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -211,17 +156,11 @@
     "officialSite": "",
     "begin": "1994-04-05T16:00:00.000Z",
     "end": "1995-03-28T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "dLibKCHDWRoTnZc0",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",

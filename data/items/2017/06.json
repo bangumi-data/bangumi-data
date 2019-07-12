@@ -14,7 +14,6 @@
     "officialSite": "http://hinalogic.com/",
     "begin": "2017-06-24T03:00:00.000Z",
     "end": "2017-09-16T03:24:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -23,22 +22,12 @@
       {
         "site": "youku",
         "id": "efbfbd5379efbfbd57ef",
-        "begin": "2017-06-24T04:30:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-06-24T04:30:00.000Z"
       },
       {
         "site": "nicovideo",
         "id": "hinalogic",
-        "begin": "2017-07-05T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-07-05T03:00:00.000Z"
       }
     ]
   },
@@ -50,7 +39,6 @@
     "officialSite": "http://kinpri.com/",
     "begin": "2017-06-10T16:00:00.000Z",
     "end": "2017-06-10T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -59,12 +47,7 @@
       {
         "site": "nicovideo",
         "id": "PRIDE_the_HERO",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -80,7 +63,6 @@
     "officialSite": "http://mahouka.jp/",
     "begin": "2017-06-17T16:00:00.000Z",
     "end": "2017-06-17T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -89,32 +71,17 @@
       {
         "site": "pptv",
         "id": "Jh33dd1DsicFU0jo",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "nicovideo",
         "id": "mahouka_movie",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "youku",
         "id": "efbfbdefbfbdceb6efbf",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -130,7 +97,6 @@
     "officialSite": "http://yamato2202.net/",
     "begin": "2017-06-24T16:00:00.000Z",
     "end": "2017-06-24T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -139,12 +105,7 @@
       {
         "site": "youku",
         "id": "efbfbdefbfbdefbfbdd8",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   }

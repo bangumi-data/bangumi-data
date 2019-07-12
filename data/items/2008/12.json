@@ -11,27 +11,16 @@
     "officialSite": "http://maikaze.com/",
     "begin": "2008-12-30T16:00:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "VYVicicWXLO3ncWsI",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "letv",
         "id": "23613",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -51,7 +40,6 @@
     "officialSite": "",
     "begin": "2008-12-20T16:00:00.000Z",
     "end": "2008-12-20T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -60,12 +48,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhb4kld",
-        "begin": "2015-08-11T08:03:32.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-08-11T08:03:32.000Z"
       }
     ]
   },
@@ -84,7 +67,6 @@
     "officialSite": "http://www.tv-tokyo.co.jp/bleach/",
     "begin": "2008-12-12T16:00:00.000Z",
     "end": "2008-12-12T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -93,12 +75,7 @@
       {
         "site": "netflix",
         "id": "70208801",
-        "begin": "2016-10-15T07:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-10-15T07:00:00.000Z"
       }
     ]
   }

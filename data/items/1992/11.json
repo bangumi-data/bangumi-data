@@ -11,17 +11,11 @@
     "officialSite": "",
     "begin": "1992-11-01T16:00:00.000Z",
     "end": "1993-06-01T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "HU46uCCG9jSXFX0",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -30,12 +24,7 @@
       {
         "site": "bilibili",
         "id": "3808",
-        "begin": "1992-10-31T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1992-10-31T16:00:00.000Z"
       }
     ]
   }

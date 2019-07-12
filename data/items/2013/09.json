@@ -11,65 +11,30 @@
     "officialSite": "http://ssb-love.tv/",
     "begin": "2013-09-13T16:53:00.000Z",
     "end": "2013-12-13T17:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "youku",
         "id": "50a2ad0a08b311e3b8b7",
-        "begin": "2013-09-13T22:30:05.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "tudou",
-        "id": "o3pTET0Lh68",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2013-09-13T22:30:05.000Z"
       },
       {
         "site": "qq",
         "id": "v/v3qmzely1mvcn9i",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "letv",
         "id": "93252",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "pptv",
         "id": "V9fBP6cNfbsenAQ",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
         "id": "79701"
-      },
-      {
-        "site": "saraba1st",
-        "id": "956573"
       }
     ]
   },
@@ -85,45 +50,20 @@
     "officialSite": "http://anime-dialover.com/",
     "begin": "2013-09-16T14:30:00.000Z",
     "end": "2013-12-09T14:45:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "qq",
         "id": "p/p5yfnziow4uwunf",
-        "begin": "2013-09-23T15:30:00.000Z",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "id": "479",
-        "begin": "2013-09-15T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2013-09-23T15:30:00.000Z"
       },
       {
         "site": "bangumi",
         "id": "64993"
       },
       {
-        "site": "saraba1st",
-        "id": "955887"
-      },
-      {
         "site": "nicovideo",
         "id": "anime-dialover",
-        "begin": "2013-09-21T16:45:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2013-09-21T16:45:00.000Z"
       }
     ]
   },
@@ -139,7 +79,6 @@
     "officialSite": "http://www.tv-tokyo.co.jp/anime/tamagotchi2013/index2.html",
     "begin": "2013-09-05T09:30:00.000Z",
     "end": "2014-03-27T10:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -159,17 +98,11 @@
     "officialSite": "http://www.sunrise-inc.co.jp/battlespirits6/",
     "begin": "2013-09-21T22:00:00.000Z",
     "end": "2014-09-20T22:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "5GhEwiaqQAD6hH4c",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -192,17 +125,11 @@
     "officialSite": "http://www3.nhk.or.jp/anime/oshiri/",
     "begin": "2013-09-30T09:25:00.000Z",
     "end": "2014-03-27T10:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "oayIBm7URILlY8s",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -222,37 +149,21 @@
     "officialSite": "http://www.geass.jp/akito/",
     "begin": "2013-09-14T16:00:00.000Z",
     "end": "2013-09-14T17:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "otmjIYnvX50AfuY",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh9mhz9",
-        "begin": "2016-08-31T16:02:16.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-08-31T16:02:16.000Z"
       },
       {
         "site": "letv",
         "id": "82177",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -275,27 +186,16 @@
     "officialSite": "http://harlock-movie.com/",
     "begin": "2013-09-07T16:00:00.000Z",
     "end": "2013-09-07T17:55:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "zVIibvCSKibjiabGYE",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rro3wd2c",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -304,12 +204,7 @@
       {
         "site": "netflix",
         "id": "80000768",
-        "begin": "2014-08-01T07:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2014-08-01T07:00:00.000Z"
       }
     ]
   },
@@ -325,17 +220,11 @@
     "officialSite": "http://www.daikaijyu.com/rush/",
     "begin": "2013-09-18T16:00:00.000Z",
     "end": "2014-02-05T16:05:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "ITUfnQVr2xl8ibmI",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -344,12 +233,7 @@
       {
         "site": "bilibili",
         "id": "4384",
-        "begin": "2013-09-17T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2013-09-17T16:00:01.000Z"
       }
     ]
   },
@@ -365,17 +249,11 @@
     "officialSite": "http://www.tbs.co.jp/anime/oregairu/",
     "begin": "2013-09-19T16:00:00.000Z",
     "end": "2013-09-19T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "W86qKJD2ZqQHhe0",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -384,12 +262,7 @@
       {
         "site": "bilibili",
         "id": "3437",
-        "begin": "2013-09-18T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2013-09-18T16:00:01.000Z"
       }
     ]
   },
@@ -405,7 +278,6 @@
     "officialSite": "",
     "begin": "2013-09-13T16:00:00.000Z",
     "end": "2013-09-13T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -414,22 +286,12 @@
       {
         "site": "pptv",
         "id": "OjMdmwNp2Rd6ibGA",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "3514",
-        "begin": "2013-09-12T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2013-09-12T16:00:01.000Z"
       }
     ]
   }

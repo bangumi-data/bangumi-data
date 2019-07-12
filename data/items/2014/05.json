@@ -12,17 +12,11 @@
     "officialSite": "http://www.project-magi.com/sinbad/",
     "begin": "2014-05-16T16:00:00.000Z",
     "end": "2015-07-17T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrhb2zx5",
-        "begin": "2015-04-21T09:43:55.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-04-21T09:43:55.000Z"
       },
       {
         "site": "bangumi",
@@ -42,17 +36,11 @@
     "officialSite": "",
     "begin": "2014-05-16T16:00:00.000Z",
     "end": "2014-06-22T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "xFdBvyeNicTueHIQ",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -61,12 +49,7 @@
       {
         "site": "bilibili",
         "id": "212",
-        "begin": "2014-05-15T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2014-05-15T16:00:00.000Z"
       }
     ]
   },
@@ -82,17 +65,11 @@
     "officialSite": "http://www.ntv.co.jp/gj/",
     "begin": "2014-05-05T16:00:00.000Z",
     "end": "2014-05-05T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "ta2HBW3TQ4HkYso",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -101,12 +78,7 @@
       {
         "site": "bilibili",
         "id": "3075",
-        "begin": "2014-05-04T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2014-05-04T16:00:00.000Z"
       }
     ]
   }

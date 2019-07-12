@@ -11,7 +11,6 @@
     "officialSite": "http://www.nagoyatv.com/anime-history/data/data26/data26.html",
     "begin": "2000-02-05T22:00:00.000Z",
     "end": "2001-09-30T22:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -32,17 +31,11 @@
     "officialSite": "http://www.toei-anim.co.jp/tv/doremi_s/index.html",
     "begin": "2000-02-05T23:30:00.000Z",
     "end": "2001-01-28T00:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrhb1dd5",
-        "begin": "2015-08-14T17:06:02.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-08-14T17:06:02.000Z"
       },
       {
         "site": "bangumi",
@@ -62,27 +55,11 @@
     "officialSite": "http://www.toei-anim.co.jp/tv/mashura/",
     "begin": "2000-02-05T16:00:00.000Z",
     "end": "2000-09-23T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrhb1drx",
-        "begin": "2015-08-14T17:07:34.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "acfun",
-        "id": "1464502",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-08-14T17:07:34.000Z"
       },
       {
         "site": "bangumi",

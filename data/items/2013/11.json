@@ -7,77 +7,36 @@
     "officialSite": "",
     "begin": "2013-11-15T02:30:00.000Z",
     "end": "2015-02-27T04:00:00.000Z",
-    "comment": "",
     "sites": [
-      {
-        "site": "acfun",
-        "id": "1470017",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
       {
         "site": "pptv",
         "id": "Wb6aGIDmVpT3dd0",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "qq",
         "id": "h/hpxk7hpq715lw3o",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrgj8yuh",
-        "begin": "2014-04-09T22:50:16.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2014-04-09T22:50:16.000Z"
       },
       {
         "site": "letv",
         "id": "94506",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "sohu",
         "id": "s2013/csyx",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "mgtv",
         "id": "100159",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -97,17 +56,11 @@
     "officialSite": "http://www.ntv.co.jp/kinro/lineup/20131129/",
     "begin": "2013-11-15T16:00:00.000Z",
     "end": "2013-11-15T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "n4tl40uxIVicCQKg",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -127,17 +80,11 @@
     "officialSite": "http://www.shashinkan-aoshigure.com/aoshigure/",
     "begin": "2013-11-09T16:00:00.000Z",
     "end": "2013-11-09T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "10008182",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -146,12 +93,7 @@
       {
         "site": "bilibili",
         "id": "2820",
-        "begin": "2013-11-08T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2013-11-08T16:00:00.000Z"
       }
     ]
   },
@@ -167,17 +109,11 @@
     "officialSite": "http://www.tbs.co.jp/anime/hidamari/",
     "begin": "2013-11-27T16:00:00.000Z",
     "end": "2013-11-27T17:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "jIBs6lK4KGbJR68",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -186,22 +122,12 @@
       {
         "site": "bilibili",
         "id": "3823",
-        "begin": "2013-11-26T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2013-11-26T16:00:01.000Z"
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh7jfkl",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -217,7 +143,6 @@
     "officialSite": "http://ch.nicovideo.jp/nya/",
     "begin": "2013-11-05T16:00:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -226,12 +151,7 @@
       {
         "site": "nicovideo",
         "id": "nya",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -247,7 +167,6 @@
     "officialSite": "http://www.p3m.jp/",
     "begin": "2013-11-23T16:00:00.000Z",
     "end": "2013-11-23T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -256,22 +175,12 @@
       {
         "site": "nicovideo",
         "id": "p3m",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "2845",
-        "begin": "2013-11-22T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2013-11-22T16:00:00.000Z"
       }
     ]
   },
@@ -287,7 +196,6 @@
     "officialSite": "http://patema.jp/",
     "begin": "2013-11-09T16:00:00.000Z",
     "end": "2013-11-09T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -296,22 +204,12 @@
       {
         "site": "nicovideo",
         "id": "patema",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "3668",
-        "begin": "2013-11-08T16:00:01.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2013-11-08T16:00:01.000Z"
       }
     ]
   },
@@ -327,7 +225,6 @@
     "officialSite": "http://www.bayonetta-movie.com/",
     "begin": "2013-11-23T16:00:00.000Z",
     "end": "2013-11-23T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -336,12 +233,7 @@
       {
         "site": "pptv",
         "id": "ZfXfXcUrm9k8uiaI",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -360,7 +252,6 @@
     "officialSite": "http://kokaku-a.jp/arise/",
     "begin": "2013-11-29T16:00:00.000Z",
     "end": "2013-11-29T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -369,12 +260,7 @@
       {
         "site": "netflix",
         "id": "80002074",
-        "begin": "2017-01-31T08:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-01-31T08:00:00.000Z"
       }
     ]
   }

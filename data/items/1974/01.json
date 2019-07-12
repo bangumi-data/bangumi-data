@@ -11,17 +11,11 @@
     "officialSite": "http://www.heidi.ne.jp/",
     "begin": "1974-01-06T01:20:00.000Z",
     "end": "1974-12-29T01:45:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "IxjjYckvn91AviaY",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -30,12 +24,7 @@
       {
         "site": "bilibili",
         "id": "2480",
-        "begin": "1974-01-05T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1974-01-05T16:00:00.000Z"
       }
     ]
   }

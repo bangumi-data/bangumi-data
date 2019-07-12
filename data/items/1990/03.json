@@ -11,17 +11,11 @@
     "officialSite": "http://www.mashin-eiyuuden-wataru.net/wataru2/",
     "begin": "1990-03-09T16:00:00.000Z",
     "end": "1991-03-08T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "XOvWVLwiaktAzsRk",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -30,22 +24,12 @@
       {
         "site": "qq",
         "id": "3/30ixdve8pnydu50",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrgyamz9",
-        "begin": "2018-05-16T08:31:01.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-05-16T08:31:01.000Z"
       }
     ]
   },
@@ -61,7 +45,6 @@
     "officialSite": "",
     "begin": "1990-03-10T16:00:00.000Z",
     "end": "1990-03-10T17:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -70,22 +53,12 @@
       {
         "site": "nicovideo",
         "id": "DBZ_konoyodeitiban",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhb4015",
-        "begin": "2016-02-04T10:34:13.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-02-04T10:34:13.000Z"
       }
     ]
   },
@@ -101,17 +74,11 @@
     "officialSite": "",
     "begin": "1990-03-10T16:00:00.000Z",
     "end": "1990-03-10T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "80869",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -120,22 +87,12 @@
       {
         "site": "qq",
         "id": "z/z8alyhrvkd3jp2y",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "2558",
-        "begin": "1990-03-09T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1990-03-09T16:00:00.000Z"
       }
     ]
   }

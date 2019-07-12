@@ -11,17 +11,11 @@
     "officialSite": "http://www.starchild.co.jp/special/kujira/",
     "begin": "2007-08-25T14:30:00.000Z",
     "end": "2007-11-10T14:35:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "VJZy8FiaibLmzPTbU",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -37,7 +31,6 @@
     "officialSite": "http://www.shin-ei-animation.jp/sensoudouwa/index.html",
     "begin": "2007-08-15T16:00:00.000Z",
     "end": "2007-08-15T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -57,21 +50,10 @@
     "officialSite": "http://wwwz.fujitv.co.jp/miyori/index.html",
     "begin": "2007-08-25T16:00:00.000Z",
     "end": "2007-08-25T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "13761"
-      },
-      {
-        "site": "bilibili",
-        "id": "4775",
-        "begin": "2007-08-24T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
       }
     ]
   },
@@ -87,7 +69,6 @@
     "officialSite": "",
     "begin": "2007-08-18T16:00:00.000Z",
     "end": "2007-08-18T17:20:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -96,12 +77,7 @@
       {
         "site": "bilibili",
         "id": "5432",
-        "begin": "2007-08-17T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2007-08-17T16:00:01.000Z"
       }
     ]
   },
@@ -117,7 +93,6 @@
     "officialSite": "http://www.pokemon-movie.jp/",
     "begin": "2007-08-01T17:10:00.000Z",
     "end": "2007-08-01T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -140,7 +115,6 @@
     "officialSite": "http://www.naruto-movie.com/",
     "begin": "2007-08-03T16:00:00.000Z",
     "end": "2007-08-03T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -149,12 +123,7 @@
       {
         "site": "netflix",
         "id": "70124999",
-        "begin": "2016-10-15T07:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-10-15T07:00:00.000Z"
       }
     ]
   },
@@ -170,7 +139,6 @@
     "officialSite": "http://www.bin-kan.com/",
     "begin": "2007-08-24T16:00:00.000Z",
     "end": "2007-11-21T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -179,12 +147,7 @@
       {
         "site": "letv",
         "id": "86281",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   }

@@ -14,17 +14,11 @@
     "officialSite": "http://sta-ska.com/index.html",
     "begin": "2010-12-23T17:10:00.000Z",
     "end": "2011-06-16T17:50:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "ADUQjvZczApt61M",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -33,22 +27,12 @@
       {
         "site": "nicovideo",
         "id": "ch331",
-        "begin": "2011-02-03T18:30:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2011-02-03T18:30:00.000Z"
       },
       {
         "site": "bilibili",
         "id": "954",
-        "begin": "2010-12-22T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2010-12-22T16:00:00.000Z"
       }
     ]
   },
@@ -64,7 +48,6 @@
     "officialSite": "http://ga.sbcr.jp/bunko_blog/nyaruani/",
     "begin": "2010-12-10T15:30:00.000Z",
     "end": "2011-03-04T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -73,22 +56,12 @@
       {
         "site": "nicovideo",
         "id": "ch820",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "408",
-        "begin": "2010-12-09T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2010-12-09T16:00:00.000Z"
       }
     ]
   },
@@ -104,17 +77,11 @@
     "officialSite": "",
     "begin": "2010-12-29T16:00:00.000Z",
     "end": "2010-12-29T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "42248",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -134,7 +101,6 @@
     "officialSite": "",
     "begin": "2010-12-23T16:00:00.000Z",
     "end": "2010-12-23T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -155,17 +121,11 @@
     "officialSite": "",
     "begin": "2010-12-18T16:00:00.000Z",
     "end": "2010-12-18T17:20:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "dLaSEHjeTozvbdU",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -186,17 +146,11 @@
     "officialSite": "http://www.fafner.jp/h-and-e/index.html",
     "begin": "2010-12-25T16:00:00.000Z",
     "end": "2010-12-25T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrjzmwtl",
-        "begin": "2012-07-01T06:24:13.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2012-07-01T06:24:13.000Z"
       },
       {
         "site": "bangumi",
@@ -205,12 +159,7 @@
       {
         "site": "bilibili",
         "id": "3847",
-        "begin": "2010-12-24T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2010-12-24T16:00:01.000Z"
       }
     ]
   },
@@ -226,17 +175,11 @@
     "officialSite": "http://www.ciao.shogakukan.co.jp/",
     "begin": "2010-12-28T16:00:00.000Z",
     "end": "2013-04-03T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "EP7aWMAmltQ3tR0",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -256,31 +199,15 @@
     "officialSite": "",
     "begin": "2010-12-18T16:00:00.000Z",
     "end": "2010-12-18T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "M2lT0TmfD02wLpY",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
         "id": "10954"
-      },
-      {
-        "site": "bilibili",
-        "id": "4610",
-        "begin": "2012-02-14T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
       }
     ]
   },
@@ -296,7 +223,6 @@
     "officialSite": "",
     "begin": "2010-12-24T16:00:00.000Z",
     "end": "2010-12-24T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -305,32 +231,17 @@
       {
         "site": "nicovideo",
         "id": "bungakushoujo-memoire",
-        "begin": "2011-11-23T06:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2011-11-23T06:00:00.000Z"
       },
       {
         "site": "pptv",
         "id": "WJRw7la8LGrNS7M",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "letv",
         "id": "29271",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -346,7 +257,6 @@
     "officialSite": "http://goulart.jp/",
     "begin": "2010-12-18T16:00:00.000Z",
     "end": "2010-12-18T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -355,12 +265,7 @@
       {
         "site": "pptv",
         "id": "gLaRD3fdTYvubNQ",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -376,7 +281,6 @@
     "officialSite": "",
     "begin": "2010-12-09T16:00:00.000Z",
     "end": "2011-10-07T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -385,12 +289,7 @@
       {
         "site": "pptv",
         "id": "b9eyMJjibbqwPjfU",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -406,7 +305,6 @@
     "officialSite": "http://www.tv-tokyo.co.jp/bleach/",
     "begin": "2010-12-03T16:00:00.000Z",
     "end": "2010-12-03T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -415,12 +313,7 @@
       {
         "site": "netflix",
         "id": "70260383",
-        "begin": "2016-10-15T07:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-10-15T07:00:00.000Z"
       }
     ]
   }

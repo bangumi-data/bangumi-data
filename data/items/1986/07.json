@@ -11,7 +11,6 @@
     "officialSite": "",
     "begin": "1986-07-12T16:00:00.000Z",
     "end": "1986-07-12T17:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -20,12 +19,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhb4kld",
-        "begin": "2015-08-11T08:03:32.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-08-11T08:03:32.000Z"
       }
     ]
   },
@@ -41,7 +35,6 @@
     "officialSite": "",
     "begin": "1986-07-20T16:00:00.000Z",
     "end": "1986-07-20T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -50,22 +43,12 @@
       {
         "site": "letv",
         "id": "36845",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "5569",
-        "begin": "1985-12-31T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1985-12-31T16:00:01.000Z"
       }
     ]
   }

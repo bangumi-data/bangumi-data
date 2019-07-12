@@ -11,7 +11,6 @@
     "officialSite": "http://www.tms-e.com/search/index.php?pdt_no=4",
     "begin": "1971-09-25T22:58:00.000Z",
     "end": "1972-06-24T23:15:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -20,12 +19,7 @@
       {
         "site": "nicovideo",
         "id": "bakabon",
-        "begin": "2011-09-20T06:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2011-09-20T06:00:00.000Z"
       }
     ]
   }
