@@ -1,15 +1,11 @@
 {
   "acfun": {
     "title": "AcFun",
-    "urlTemplate": "http://www.acfun.cn/v/ab{{id}}"
+    "urlTemplate": "https://www.acfun.cn/bangumi/aa{{id}}"
   },
   "bilibili": {
     "title": "哔哩哔哩",
-    "urlTemplate": "https://bangumi.bilibili.com/anime/{{id}}"
-  },
-  "tucao": {
-    "title": "TUCAO",
-    "urlTemplate": "http://www.tucao.tv/index.php?m=search&c=index&a=init2&q={{id}}"
+    "urlTemplate": "https://www.bilibili.com/bangumi/media/md{{id}}/"
   },
   "sohu": {
     "title": "搜狐视频",
@@ -18,10 +14,6 @@
   "youku": {
     "title": "优酷",
     "urlTemplate": "https://list.youku.com/show/id_z{{id}}.html"
-  },
-  "tudou": {
-    "title": "土豆",
-    "urlTemplate": "https://www.tudou.com/albumcover/{{id}}.html"
   },
   "qq": {
     "title": "腾讯视频",
@@ -38,10 +30,6 @@
   "pptv": {
     "title": "PPTV",
     "urlTemplate": "http://v.pptv.com/page/{{id}}.html"
-  },
-  "kankan": {
-    "title": "响巢看看",
-    "urlTemplate": "http://movie.kankan.com/movie/{{id}}"
   },
   "mgtv": {
     "title": "芒果tv",

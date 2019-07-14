@@ -12,31 +12,15 @@
     "officialSite": "http://kyonoasukashow.com/",
     "begin": "2012-08-03T14:25:00.000Z",
     "end": "2013-01-04T14:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "vd6qKJD2ZqQHhe0",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
         "id": "46079"
-      },
-      {
-        "site": "bilibili",
-        "id": "1678",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
       }
     ]
   },
@@ -52,17 +36,11 @@
     "officialSite": "http://www.toei-anim.co.jp/tv/onep/campaign/nami_sp/",
     "begin": "2012-08-25T16:00:00.000Z",
     "end": "2012-08-25T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "begin": "",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "comment": "",
-        "url": "http://www.iqiyi.com/v_19rro4guhk.html",
-        "exist": null
+        "url": "http://www.iqiyi.com/v_19rro4guhk.html"
       },
       {
         "site": "bangumi",
@@ -82,17 +60,11 @@
     "officialSite": "http://milky-holmes.com/anime/series/",
     "begin": "2012-08-25T16:00:00.000Z",
     "end": "2012-08-25T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "tOTgXsYsnNo9uyM",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -101,12 +73,7 @@
       {
         "site": "nicovideo",
         "id": "milky-holmes_alt",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -122,17 +89,11 @@
     "officialSite": "http://b.bngi-channel.jp/lag-rin",
     "begin": "2012-08-23T16:00:00.000Z",
     "end": "2012-08-23T17:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "81606",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -141,12 +102,7 @@
       {
         "site": "bilibili",
         "id": "3812",
-        "begin": "2012-08-22T16:00:01.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2012-08-22T16:00:01.000Z"
       }
     ]
   },
@@ -162,27 +118,16 @@
     "officialSite": "http://www.geass.jp/akito/",
     "begin": "2012-08-04T16:00:00.000Z",
     "end": "2012-08-04T17:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "otmjIYnvX50AfuY",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "letv",
         "id": "82177",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -202,17 +147,11 @@
     "officialSite": "http://www.kyousogiga.com/",
     "begin": "2012-08-31T16:00:00.000Z",
     "end": "2012-12-22T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "WISAicmbMPHrdW8M",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -221,12 +160,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhb4oit",
-        "begin": "2015-09-23T08:10:24.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-09-23T08:10:24.000Z"
       }
     ]
   },
@@ -242,17 +176,11 @@
     "officialSite": "",
     "begin": "2012-08-11T16:00:00.000Z",
     "end": "2012-08-11T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "G0M9uyOJibTeaGIA",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -261,12 +189,7 @@
       {
         "site": "bilibili",
         "id": "3521",
-        "begin": "2012-08-10T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2012-08-10T16:00:01.000Z"
       }
     ]
   },
@@ -282,7 +205,6 @@
     "officialSite": "http://fairytail-movie.com/",
     "begin": "2012-08-18T16:00:00.000Z",
     "end": "2012-08-18T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -291,22 +213,12 @@
       {
         "site": "nicovideo",
         "id": "fairytail_houounomiko",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
-        "id": "4498",
-        "begin": "2012-08-17T16:00:01.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "57752",
+        "begin": "2012-08-17T16:00:01.000Z"
       }
     ]
   },
@@ -322,7 +234,6 @@
     "officialSite": "",
     "begin": "2012-08-08T16:00:00.000Z",
     "end": "2014-09-08T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -331,12 +242,7 @@
       {
         "site": "nicovideo",
         "id": "ikamusume-ova-01",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -352,7 +258,6 @@
     "officialSite": "http://www.jpet-movie.com/",
     "begin": "2012-08-11T16:00:00.000Z",
     "end": "2012-08-11T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -361,22 +266,12 @@
       {
         "site": "pptv",
         "id": "P9G7OaEHd7UYlv4",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "4508",
-        "begin": "2012-08-10T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2012-08-10T16:00:01.000Z"
       }
     ]
   }

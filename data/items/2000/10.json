@@ -11,17 +11,11 @@
     "officialSite": "http://www.dendoh.net/index.html",
     "begin": "2000-10-04T09:00:00.000Z",
     "end": "2001-06-27T09:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "wKWPDXXbS4nsatI",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -30,12 +24,7 @@
       {
         "site": "bilibili",
         "id": "2143",
-        "begin": "2000-10-03T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2000-10-03T16:00:00.000Z"
       }
     ]
   },
@@ -51,7 +40,6 @@
     "officialSite": "http://www.tms-e.com/library/on_air_back/devil/",
     "begin": "2000-10-06T22:30:00.000Z",
     "end": "2001-09-28T23:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -60,12 +48,7 @@
       {
         "site": "bilibili",
         "id": "2081",
-        "begin": "2000-10-07T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2000-10-07T16:00:00.000Z"
       }
     ]
   },
@@ -81,7 +64,6 @@
     "officialSite": "http://www.telecom-anime.com/cybersix/japanese/index.html",
     "begin": "2000-10-16T16:00:00.000Z",
     "end": "2001-01-08T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -101,7 +83,6 @@
     "officialSite": "http://www.vap.co.jp/ippo/",
     "begin": "2000-10-03T10:30:00.000Z",
     "end": "2002-03-12T11:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -110,22 +91,12 @@
       {
         "site": "nicovideo",
         "id": "ippo_anime",
-        "begin": "2014-04-22T06:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2014-04-22T06:00:00.000Z"
       },
       {
         "site": "bilibili",
         "id": "500",
-        "begin": "2000-10-02T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2000-10-02T16:00:00.000Z"
       }
     ]
   },
@@ -144,7 +115,6 @@
     "officialSite": "http://www.gonzo.co.jp/works/0001.html",
     "begin": "2000-10-03T00:30:00.000Z",
     "end": "2000-12-26T01:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -153,12 +123,7 @@
       {
         "site": "bilibili",
         "id": "2161",
-        "begin": "2000-10-02T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2000-10-02T16:00:00.000Z"
       }
     ]
   },
@@ -177,27 +142,16 @@
     "officialSite": "http://www.ytv.co.jp/inuyasha/index_set.html",
     "begin": "2000-10-16T10:30:00.000Z",
     "end": "2004-09-13T11:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "qq",
         "id": "4/4qw8q7lcsf7yh8z",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "letv",
         "id": "46169",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -206,12 +160,7 @@
       {
         "site": "netflix",
         "id": "70204995",
-        "begin": "2016-12-15T08:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-12-15T08:00:00.000Z"
       }
     ]
   },
@@ -227,41 +176,20 @@
     "officialSite": "http://www.sonymusic.co.jp/Animation/gravi/",
     "begin": "2000-10-04T08:00:00.000Z",
     "end": "2001-01-10T08:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "v4p181vBMWicSULg",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "qq",
         "id": "i/ipyt80um6hrpcpu",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
         "id": "2912"
-      },
-      {
-        "site": "bilibili",
-        "id": "2159",
-        "begin": "2000-10-03T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
       }
     ]
   },
@@ -277,21 +205,10 @@
     "officialSite": "http://www.sonymusic.co.jp/Animation/Kikaider/",
     "begin": "2000-10-16T13:30:00.000Z",
     "end": "2001-01-08T14:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "18457"
-      },
-      {
-        "site": "bilibili",
-        "id": "2158",
-        "begin": "2000-10-15T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
       }
     ]
   },
@@ -307,7 +224,6 @@
     "officialSite": "http://www.mediafactory.co.jp/c000051/archives/015/006/15615.html",
     "begin": "2000-10-05T10:00:00.000Z",
     "end": "2001-03-23T10:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -327,7 +243,6 @@
     "officialSite": "http://www.fujitv.co.jp/b_hp/kaidan/",
     "begin": "2000-10-22T08:00:00.000Z",
     "end": "2001-03-25T08:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -336,22 +251,12 @@
       {
         "site": "nicovideo",
         "id": "gakkou-no-kaidan",
-        "begin": "2018-07-06T06:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-07-06T06:00:00.000Z"
       },
       {
         "site": "bilibili",
         "id": "2171",
-        "begin": "2000-10-21T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2000-10-21T16:00:00.000Z"
       }
     ]
   },
@@ -367,7 +272,6 @@
     "officialSite": "http://www.bones.co.jp/works/tv01/index.html",
     "begin": "2000-10-24T11:00:00.000Z",
     "end": "2001-05-01T11:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -387,27 +291,16 @@
     "officialSite": "http://www.jvcmusic.co.jp/m-serve/tv/soma/index.html",
     "begin": "2000-10-05T02:00:00.000Z",
     "end": "2001-03-29T02:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "ZdKtK5P5aacKiaPA",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "qq",
         "id": "z/z7tsublda0lj93i",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -416,12 +309,7 @@
       {
         "site": "bilibili",
         "id": "2168",
-        "begin": "2000-10-04T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2000-10-04T16:00:00.000Z"
       }
     ]
   },
@@ -437,17 +325,11 @@
     "officialSite": "http://www.toei-anim.co.jp/tv/tetsuya/",
     "begin": "2000-10-07T16:00:00.000Z",
     "end": "2001-03-24T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrhb1e5t",
-        "begin": "2015-11-04T03:09:34.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-11-04T03:09:34.000Z"
       },
       {
         "site": "bangumi",
@@ -467,41 +349,20 @@
     "officialSite": "http://www.jcstaff.co.jp/sho-sai/ya-shokai/yami-syokai.htm",
     "begin": "2000-10-02T16:00:00.000Z",
     "end": "2000-12-28T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "icEI9uyOJibTeaGIA",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "letv",
         "id": "21509",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
         "id": "2908"
-      },
-      {
-        "site": "bilibili",
-        "id": "5343",
-        "begin": "2000-10-01T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
       }
     ]
   },
@@ -517,17 +378,11 @@
     "officialSite": "",
     "begin": "2000-10-21T16:00:00.000Z",
     "end": "2000-10-21T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "qq",
         "id": "o/oku52t51m1rgmh1",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -536,12 +391,7 @@
       {
         "site": "bilibili",
         "id": "3760",
-        "begin": "2000-10-20T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2000-10-20T16:00:01.000Z"
       }
     ]
   }

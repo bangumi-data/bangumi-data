@@ -13,17 +13,11 @@
     "officialSite": "",
     "begin": "1994-01-16T16:00:00.000Z",
     "end": "1994-12-18T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrk0m4ad",
-        "begin": "2012-04-05T02:23:38.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2012-04-05T02:23:38.000Z"
       },
       {
         "site": "bangumi",
@@ -43,17 +37,11 @@
     "officialSite": "",
     "begin": "1994-01-07T16:00:00.000Z",
     "end": "1995-06-30T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "6yUfnQVr2xl8ibmI",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -73,7 +61,6 @@
     "officialSite": "",
     "begin": "1994-01-21T16:00:00.000Z",
     "end": "1997-01-24T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -82,12 +69,7 @@
       {
         "site": "pptv",
         "id": "ZKaiaIIjuXpzicfeU",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   }

@@ -11,7 +11,6 @@
     "officialSite": "http://s.mxtv.jp/polymer/",
     "begin": "1974-10-04T10:00:00.000Z",
     "end": "1975-03-28T10:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -19,13 +18,8 @@
       },
       {
         "site": "bilibili",
-        "id": "6489",
-        "begin": "1974-09-30T16:00:01.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "10612",
+        "begin": "1974-09-30T16:00:01.000Z"
       }
     ]
   },
@@ -41,7 +35,6 @@
     "officialSite": "http://www.gyatoruzu.net/",
     "begin": "1974-10-05T15:30:00.000Z",
     "end": "1976-03-27T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -61,7 +54,6 @@
     "officialSite": "http://www.bandaivisual.co.jp/yamato/data/frame_saga.html",
     "begin": "1974-10-06T17:30:00.000Z",
     "end": "1975-03-30T18:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -70,12 +62,7 @@
       {
         "site": "bilibili",
         "id": "2451",
-        "begin": "1974-10-05T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1974-10-05T16:00:00.000Z"
       }
     ]
   }

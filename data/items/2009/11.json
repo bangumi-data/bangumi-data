@@ -12,17 +12,11 @@
     "officialSite": "http://juiz.jp/blog/",
     "begin": "2009-11-28T16:00:00.000Z",
     "end": "2009-11-28T17:20:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrg7wdlp",
-        "begin": "2013-06-06T06:26:05.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2013-06-06T06:26:05.000Z"
       },
       {
         "site": "bangumi",
@@ -31,12 +25,7 @@
       {
         "site": "bilibili",
         "id": "2675",
-        "begin": "2009-11-27T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2009-11-27T16:00:00.000Z"
       }
     ]
   },
@@ -52,7 +41,6 @@
     "officialSite": "http://www.mai-mai.jp/index.html",
     "begin": "2009-11-21T16:00:00.000Z",
     "end": "2009-11-21T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -61,12 +49,7 @@
       {
         "site": "nicovideo",
         "id": "mai-mai",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -82,7 +65,6 @@
     "officialSite": "http://www.macrossf.com",
     "begin": "2009-11-21T16:00:00.000Z",
     "end": "2009-11-21T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -91,12 +73,7 @@
       {
         "site": "pptv",
         "id": "kHicUUrogkM4xrxc",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -112,7 +89,6 @@
     "officialSite": "http://zetsubou.kc.kodansha.co.jp/",
     "begin": "2009-11-17T16:00:00.000Z",
     "end": "2009-11-17T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -121,12 +97,7 @@
       {
         "site": "pptv",
         "id": "T39JxyibVBUOmJIw",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   }

@@ -7,7 +7,6 @@
     "officialSite": "http://www.shin-ei-animation.jp/sensoudouwa08/",
     "begin": "2008-08-13T16:00:00.000Z",
     "end": "2008-08-13T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -27,7 +26,6 @@
     "officialSite": "http://www.pokemon-movie.jp/",
     "begin": "2008-08-01T17:10:00.000Z",
     "end": "2008-08-01T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -47,17 +45,11 @@
     "officialSite": "http://negima.kc.kodansha.co.jp/alaalba/",
     "begin": "2008-08-12T16:00:00.000Z",
     "end": "2009-02-17T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "ImpW1DyiaElCzMZk",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -66,22 +58,12 @@
       {
         "site": "nicovideo",
         "id": "negima-oad",
-        "begin": "2017-08-30T06:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-08-30T06:00:00.000Z"
       },
       {
         "site": "letv",
         "id": "9195",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -100,7 +82,6 @@
     "officialSite": "http://www.naruto-movie.com/",
     "begin": "2008-08-01T16:00:00.000Z",
     "end": "2008-08-01T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -109,12 +90,7 @@
       {
         "site": "netflix",
         "id": "70105699",
-        "begin": "2016-10-15T07:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-10-15T07:00:00.000Z"
       }
     ]
   }

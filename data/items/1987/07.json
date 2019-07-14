@@ -11,7 +11,6 @@
     "officialSite": "",
     "begin": "1987-07-18T16:00:00.000Z",
     "end": "1987-07-18T16:45:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -20,22 +19,12 @@
       {
         "site": "nicovideo",
         "id": "DB_majinjyou",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhb4015",
-        "begin": "2016-02-04T10:34:13.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-02-04T10:34:13.000Z"
       }
     ]
   },
@@ -51,7 +40,6 @@
     "officialSite": "",
     "begin": "1987-07-18T16:00:00.000Z",
     "end": "1987-07-18T16:45:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -60,22 +48,12 @@
       {
         "site": "nicovideo",
         "id": "saint_seiya",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhb4um9",
-        "begin": "2016-02-16T07:22:34.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-02-16T07:22:34.000Z"
       }
     ]
   },
@@ -91,7 +69,6 @@
     "officialSite": "",
     "begin": "1987-07-03T16:00:00.000Z",
     "end": "1988-03-28T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -100,12 +77,7 @@
       {
         "site": "qq",
         "id": "p/pre4y0gnrshqogq",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -121,7 +93,6 @@
     "officialSite": "http://animejapan.cplaza.ne.jp/b-ch/otomo_sp/rb_carnival_ova/index.html",
     "begin": "1987-07-21T16:00:00.000Z",
     "end": "1987-07-21T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -130,12 +101,7 @@
       {
         "site": "letv",
         "id": "10002045",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   }

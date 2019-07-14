@@ -11,7 +11,6 @@
     "officialSite": "http://www.vifam.net/",
     "begin": "1998-03-21T16:00:00.000Z",
     "end": "1998-10-03T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -31,17 +30,11 @@
     "officialSite": "",
     "begin": "1998-03-07T16:00:00.000Z",
     "end": "1998-03-07T18:40:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrh9zj65",
-        "begin": "2016-10-31T16:00:43.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-10-31T16:00:43.000Z"
       },
       {
         "site": "bangumi",
@@ -61,7 +54,6 @@
     "officialSite": "",
     "begin": "1998-03-07T16:00:00.000Z",
     "end": "1998-03-07T16:55:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -81,17 +73,11 @@
     "officialSite": "",
     "begin": "1998-03-07T16:00:00.000Z",
     "end": "1998-03-07T17:40:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "80953",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -100,22 +86,12 @@
       {
         "site": "pptv",
         "id": "7qoHhe1TwwFk4ko",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "qq",
         "id": "z/z8alyhrvkd3jp2y",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   }

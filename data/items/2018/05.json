@@ -11,7 +11,6 @@
     "officialSite": "http://www.oshiri-tantei.com/",
     "begin": "2018-05-03T00:00:00.000Z",
     "end": "2018-08-25T00:20:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -20,22 +19,12 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgypp05",
-        "begin": "2018-05-03T02:55:06.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-05-03T02:55:06.000Z"
       },
       {
         "site": "nicovideo",
         "id": "oshiri-tantei",
-        "begin": "2018-05-11T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-05-11T03:00:00.000Z"
       }
     ]
   },
@@ -54,7 +43,6 @@
     "officialSite": "http://ch.nicovideo.jp/cf-vanguard",
     "begin": "2018-05-05T13:30:00.000Z",
     "end": "2019-04-27T14:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -63,12 +51,7 @@
       {
         "site": "nicovideo",
         "id": "cf-vanguard",
-        "begin": "2018-05-10T11:30:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-05-10T11:30:00.000Z"
       }
     ]
   },
@@ -84,17 +67,11 @@
     "officialSite": "http://www.tobe-hero.com/season2/",
     "begin": "2018-05-19T12:00:00.000Z",
     "end": "2018-07-07T12:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bilibili",
-        "id": "22087",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "23352",
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -103,12 +80,7 @@
       {
         "site": "nicovideo",
         "id": "TO_BE_HEROINE",
-        "begin": "2018-05-19T13:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-05-19T13:00:00.000Z"
       }
     ]
   },
@@ -124,7 +96,6 @@
     "officialSite": "",
     "begin": "2018-05-05T16:00:00.000Z",
     "end": "2018-05-05T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -133,22 +104,12 @@
       {
         "site": "nicovideo",
         "id": "digimon-adventure-tri06",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "youku",
         "id": "efbfbd52efbfbd0befbf",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -164,7 +125,6 @@
     "officialSite": "http://yamato2202.net/",
     "begin": "2018-05-25T16:00:00.000Z",
     "end": "2018-05-25T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -180,7 +140,6 @@
     "officialSite": "http://pp-movie.com/",
     "begin": "2018-05-05T16:00:00.000Z",
     "end": "2018-05-05T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -189,12 +148,7 @@
       {
         "site": "nicovideo",
         "id": "pp-movie-pretty-rhythm",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   }

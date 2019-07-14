@@ -45,7 +45,7 @@ module.exports = Joi.object().keys({
     officialSite: Joi.string().uri().required().allow(''),
     begin: ISOJoi.string().isoString().required().allow(''),
     end: ISOJoi.string().isoString().required().allow(''),
-    comment: Joi.string().required().trim().allow(''),
+    comment: Joi.string().trim().allow(''),
     sites: Joi.array().items(Joi.object()
         .keys({
             site: Joi.string().valid(Object.keys(allSite)),
@@ -58,11 +58,7 @@ module.exports = Joi.object().keys({
         .when(Joi.object().keys({ site: Joi.valid(Object.keys(onairSite)) }).unknown(), {
             then: Joi.object().keys({
                 begin: ISOJoi.string().isoString().required().allow(''),
-                official: Joi.boolean().required().allow(null),
-                premuiumOnly: Joi.boolean().required().allow(null),
-                censored: Joi.boolean().required().allow(null),
-                exist: Joi.boolean().required().allow(null),
-                comment: Joi.string().trim().required().allow('')
+                comment: Joi.string().trim().allow('')
             })
         }))
 });

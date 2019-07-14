@@ -11,7 +11,6 @@
     "officialSite": "http://www.ikkitousen.com/",
     "begin": "2010-03-26T01:00:00.000Z",
     "end": "2010-06-11T01:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -31,7 +30,6 @@
     "officialSite": "http://www.hanakappa.jp/",
     "begin": "2010-03-28T22:15:00.000Z",
     "end": "2010-12-10T22:15:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -51,17 +49,11 @@
     "officialSite": "http://www.toei-anim.co.jp/tv/marie_gali/",
     "begin": "2010-03-30T09:55:00.000Z",
     "end": "2011-03-22T10:25:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrhb12wx",
-        "begin": "2015-08-14T17:09:03.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-08-14T17:09:03.000Z"
       },
       {
         "site": "bangumi",
@@ -81,17 +73,11 @@
     "officialSite": "http://yutori-chan.jp/",
     "begin": "2010-03-16T03:30:00.000Z",
     "end": "2010-11-29T04:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "XOicaWMAmltQ3tR0",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -100,22 +86,7 @@
       {
         "site": "nicovideo",
         "id": "yutori-chan",
-        "begin": "2012-07-18T06:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "id": "1049",
-        "begin": "2010-03-15T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2012-07-18T06:00:00.000Z"
       }
     ]
   },
@@ -131,17 +102,11 @@
     "officialSite": "http://hetalia.com/top.htm",
     "begin": "2010-03-26T07:00:00.000Z",
     "end": "2010-09-03T07:05:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "10018939",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -150,12 +115,7 @@
       {
         "site": "nicovideo",
         "id": "hetaria-world-series",
-        "begin": "2012-12-28T07:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2012-12-28T07:00:00.000Z"
       }
     ]
   },
@@ -171,31 +131,15 @@
     "officialSite": "http://www.animax.co.jp/feature/index.php?code=NN10000946",
     "begin": "2010-03-27T16:00:00.000Z",
     "end": "2010-03-27T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "j6CbGYHnV5X4dt4",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
         "id": "4282"
-      },
-      {
-        "site": "bilibili",
-        "id": "5928",
-        "begin": "2010-03-26T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
       }
     ]
   },
@@ -211,17 +155,11 @@
     "officialSite": "http://doraeiga.com/2010/",
     "begin": "2010-03-06T16:00:00.000Z",
     "end": "2010-03-06T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "30066",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -230,42 +168,22 @@
       {
         "site": "pptv",
         "id": "7qoHhe1TwwFk4ko",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "qq",
         "id": "z/z8alyhrvkd3jp2y",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh6mk3l",
-        "begin": "2018-05-31T16:00:22.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-05-31T16:00:22.000Z"
       },
       {
         "site": "bilibili",
         "id": "3883",
-        "begin": "2010-03-05T16:00:01.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2010-03-05T16:00:01.000Z"
       }
     ]
   },
@@ -282,17 +200,11 @@
     "officialSite": "http://juiz.jp/blog/",
     "begin": "2010-03-13T16:00:00.000Z",
     "end": "2010-03-13T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrg7wfm5",
-        "begin": "2013-06-06T06:26:12.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2013-06-06T06:26:12.000Z"
       },
       {
         "site": "bangumi",
@@ -301,12 +213,7 @@
       {
         "site": "bilibili",
         "id": "5106",
-        "begin": "2010-03-12T16:00:01.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2010-03-12T16:00:01.000Z"
       }
     ]
   },
@@ -322,7 +229,6 @@
     "officialSite": "http://www.nhk.or.jp/anime/nintama/",
     "begin": "2010-03-29T08:35:00.000Z",
     "end": "2010-09-16T09:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -342,17 +248,11 @@
     "officialSite": "http://ova-tos.com/index.php",
     "begin": "2010-03-25T16:00:00.000Z",
     "end": "2011-02-25T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "ZcbBP6cNfbsenAQ",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -361,22 +261,12 @@
       {
         "site": "nicovideo",
         "id": "TOS-anime02",
-        "begin": "2016-07-06T06:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-07-06T06:00:00.000Z"
       },
       {
         "site": "bilibili",
         "id": "3975",
-        "begin": "2010-03-24T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2010-03-24T16:00:01.000Z"
       }
     ]
   },
@@ -392,7 +282,6 @@
     "officialSite": "http://ga.sbcr.jp/bunko_blog/nyaruani/",
     "begin": "2010-03-15T16:00:00.000Z",
     "end": "2010-03-15T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -401,12 +290,7 @@
       {
         "site": "nicovideo",
         "id": "ch820",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -422,7 +306,6 @@
     "officialSite": "http://www.toei-anim.co.jp/movie/2010_precure_allstars//index.html",
     "begin": "2010-03-20T16:00:00.000Z",
     "end": "2010-03-20T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -431,12 +314,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhb4tzt",
-        "begin": "2015-08-07T08:45:07.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-08-07T08:45:07.000Z"
       }
     ]
   }

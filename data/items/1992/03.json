@@ -14,17 +14,11 @@
     "officialSite": "http://sailormoon.channel.or.jp/",
     "begin": "1992-03-07T16:00:00.000Z",
     "end": "1993-02-27T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrhb1359",
-        "begin": "2015-08-14T17:05:28.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-08-14T17:05:28.000Z"
       },
       {
         "site": "bangumi",
@@ -33,12 +27,7 @@
       {
         "site": "nicovideo",
         "id": "sailormoon",
-        "begin": "2014-07-11T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2014-07-11T15:00:00.000Z"
       }
     ]
   },
@@ -54,7 +43,6 @@
     "officialSite": "",
     "begin": "1992-03-07T16:00:00.000Z",
     "end": "1992-03-07T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -63,22 +51,12 @@
       {
         "site": "nicovideo",
         "id": "DBZ_gekitotsu",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhb4015",
-        "begin": "2016-02-04T10:34:13.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-02-04T10:34:13.000Z"
       }
     ]
   },
@@ -94,17 +72,11 @@
     "officialSite": "",
     "begin": "1992-03-07T16:00:00.000Z",
     "end": "1992-03-07T17:40:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "80878",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -113,32 +85,17 @@
       {
         "site": "pptv",
         "id": "7qoHhe1TwwFk4ko",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "qq",
         "id": "z/z8alyhrvkd3jp2y",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "2560",
-        "begin": "1992-03-06T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1992-03-06T16:00:00.000Z"
       }
     ]
   },
@@ -154,17 +111,11 @@
     "officialSite": "",
     "begin": "1992-03-27T16:00:00.000Z",
     "end": "1992-08-28T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "8zYSkPhezgxv7VU",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -172,13 +123,8 @@
       },
       {
         "site": "bilibili",
-        "id": "6533",
-        "begin": "1992-03-26T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "7932",
+        "begin": "1992-03-26T16:00:01.000Z"
       }
     ]
   }

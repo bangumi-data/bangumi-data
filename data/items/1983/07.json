@@ -12,17 +12,11 @@
     "officialSite": "http://pierrot.jp/title/magicgirl/",
     "begin": "1983-07-01T09:00:00.000Z",
     "end": "1984-06-29T09:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "qq",
         "id": "h/h6r8lxcw2ho24z8",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -31,42 +25,22 @@
       {
         "site": "nicovideo",
         "id": "creamy-mami",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "sohu",
         "id": "s2018/dhpmfxts",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrgyoz11",
-        "begin": "2018-04-01T01:00:25.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-04-01T01:00:25.000Z"
       },
       {
         "site": "bilibili",
         "id": "5600",
-        "begin": "1983-06-30T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1983-06-30T16:00:01.000Z"
       }
     ]
   },
@@ -82,7 +56,6 @@
     "officialSite": "",
     "begin": "1983-07-09T16:00:00.000Z",
     "end": "1983-07-09T17:20:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -102,7 +75,6 @@
     "officialSite": "http://www.tms-e.com/bb_mobile/cats_eye/",
     "begin": "1983-07-11T14:00:00.000Z",
     "end": "1985-07-08T14:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -111,22 +83,12 @@
       {
         "site": "nicovideo",
         "id": "catseye",
-        "begin": "2011-11-02T06:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2011-11-02T06:00:00.000Z"
       },
       {
         "site": "bilibili",
         "id": "2876",
-        "begin": "1983-07-10T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1983-07-10T16:00:00.000Z"
       }
     ]
   }

@@ -14,7 +14,6 @@
     "officialSite": "http://www.noitamina-brs.jp/",
     "begin": "2012-02-02T15:45:00.000Z",
     "end": "2012-03-22T16:20:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -23,22 +22,12 @@
       {
         "site": "nicovideo",
         "id": "blackrockshooter",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "letv",
         "id": "71587",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -59,27 +48,16 @@
     "officialSite": "http://asahi.co.jp/smile_precure/",
     "begin": "2012-02-04T23:30:00.000Z",
     "end": "2013-01-27T00:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "l76KCHDWRoTnZc0",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhb14nh",
-        "begin": "2015-10-09T03:15:46.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-10-09T03:15:46.000Z"
       },
       {
         "site": "bangumi",
@@ -88,12 +66,7 @@
       {
         "site": "netflix",
         "id": "80057968",
-        "begin": "2015-12-18T08:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-12-18T08:00:00.000Z"
       }
     ]
   },
@@ -109,31 +82,15 @@
     "officialSite": "http://www.animebunko.com/minori/",
     "begin": "2012-02-15T16:00:00.000Z",
     "end": "2012-02-15T16:40:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "aZxo5k60JGLFQ6s",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
         "id": "13344"
-      },
-      {
-        "site": "bilibili",
-        "id": "4612",
-        "begin": "2012-02-14T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
       }
     ]
   },
@@ -149,17 +106,11 @@
     "officialSite": "http://patema.jp/",
     "begin": "2012-02-25T16:00:00.000Z",
     "end": "2012-08-25T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "8CoWlPxia0hBz8Vk",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -168,12 +119,7 @@
       {
         "site": "nicovideo",
         "id": "patema",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -189,31 +135,15 @@
     "officialSite": "http://www.animebunko.com/naokosan/",
     "begin": "2012-02-15T16:00:00.000Z",
     "end": "2012-02-15T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "M2lT0TmfD02wLpY",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
         "id": "24546"
-      },
-      {
-        "site": "bilibili",
-        "id": "4610",
-        "begin": "2012-02-14T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
       }
     ]
   },
@@ -232,7 +162,6 @@
     "officialSite": "http://www.berserkfilm.com/",
     "begin": "2012-02-04T16:00:00.000Z",
     "end": "2012-02-04T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -241,22 +170,12 @@
       {
         "site": "nicovideo",
         "id": "berserkfilm",
-        "begin": "2017-03-03T06:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-03-03T06:00:00.000Z"
       },
       {
         "site": "netflix",
         "id": "70258995",
-        "begin": "2016-10-15T07:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-10-15T07:00:00.000Z"
       }
     ]
   },
@@ -272,7 +191,6 @@
     "officialSite": "",
     "begin": "2012-02-03T16:00:00.000Z",
     "end": "2012-02-03T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -281,22 +199,7 @@
       {
         "site": "pptv",
         "id": "KCQQjvZczApt61M",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "id": "4616",
-        "begin": "2012-02-02T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   }

@@ -11,17 +11,11 @@
     "officialSite": "",
     "begin": "1976-04-01T16:00:00.000Z",
     "end": "1977-01-27T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrhb1eit",
-        "begin": "2015-08-14T17:06:44.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-08-14T17:06:44.000Z"
       },
       {
         "site": "bangumi",
@@ -41,7 +35,6 @@
     "officialSite": "http://www.eiken-anime.jp/works/ufod/",
     "begin": "1976-04-06T12:30:00.000Z",
     "end": "1976-09-28T13:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -61,7 +54,6 @@
     "officialSite": "http://www.toei-anim.co.jp/lineup/tv/hayabusa/",
     "begin": "1976-04-02T07:30:00.000Z",
     "end": "1976-09-17T08:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -81,7 +73,6 @@
     "officialSite": "http://www.tatsunoko.co.jp/works_animation/archive/gordam.html",
     "begin": "1976-04-04T12:00:00.000Z",
     "end": "1976-12-26T15:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -101,21 +92,10 @@
     "officialSite": "",
     "begin": "1976-04-17T23:00:00.000Z",
     "end": "1977-05-28T11:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "37177"
-      },
-      {
-        "site": "bilibili",
-        "id": "2474",
-        "begin": "1976-04-16T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
       }
     ]
   }

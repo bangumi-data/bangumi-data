@@ -11,7 +11,6 @@
     "officialSite": "",
     "begin": "2018-08-10T16:00:00.000Z",
     "end": "2019-01-15T16:05:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -19,33 +18,18 @@
       },
       {
         "site": "bilibili",
-        "id": "25235",
-        "begin": "2018-08-10T02:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "121632",
+        "begin": "2018-08-10T02:00:00.000Z"
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh5d28h",
-        "begin": "2018-08-10T02:00:10.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-08-10T02:00:10.000Z"
       },
       {
         "site": "youku",
         "id": "2b3198dba4224afeb63c",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -61,7 +45,6 @@
     "officialSite": "http://mahouritsu.com/",
     "begin": "2018-08-03T16:00:00.000Z",
     "end": "2018-10-19T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -70,22 +53,12 @@
       {
         "site": "qq",
         "id": "g/gfjzjo0ea0f5oqn",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "nicovideo",
         "id": "mahouritsu",
-        "begin": "2018-09-03T15:30:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-09-03T15:30:00.000Z"
       }
     ]
   },
@@ -101,7 +74,6 @@
     "officialSite": "",
     "begin": "2018-08-04T16:00:00.000Z",
     "end": "2018-09-01T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -110,12 +82,7 @@
       {
         "site": "nicovideo",
         "id": "k-seven-stories",
-        "begin": "2018-07-07T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-07-07T03:00:00.000Z"
       }
     ]
   },
@@ -131,7 +98,6 @@
     "officialSite": "",
     "begin": "2018-08-25T16:00:00.000Z",
     "end": "2018-08-25T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -140,12 +106,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgxoyjx",
-        "begin": "2018-08-26T03:54:40.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-08-26T03:54:40.000Z"
       }
     ]
   },
@@ -161,7 +122,6 @@
     "officialSite": "http://nonnontv.com/movie/",
     "begin": "2018-08-25T16:00:00.000Z",
     "end": "2018-08-25T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -169,23 +129,13 @@
       },
       {
         "site": "bilibili",
-        "id": "26632",
-        "begin": "2019-02-27T01:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "16899731",
+        "begin": "2019-02-27T01:00:00.000Z"
       },
       {
         "site": "youku",
         "id": "97eeedf898794a38bbc3",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -201,7 +151,6 @@
     "officialSite": "http://www.7-taizai-movie.net/",
     "begin": "2018-08-18T16:00:00.000Z",
     "end": "2018-08-18T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -210,12 +159,7 @@
       {
         "site": "nicovideo",
         "id": "7-taizai-movie",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   }

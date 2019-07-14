@@ -11,17 +11,11 @@
     "officialSite": "http://www.fujitv.co.jp/b_hp/kotikame/index.html",
     "begin": "1996-06-16T16:00:00.000Z",
     "end": "2004-12-19T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "BjEMiavJYyAZp508",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -30,12 +24,7 @@
       {
         "site": "bilibili",
         "id": "2299",
-        "begin": "1996-06-16T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1996-06-16T16:00:00.000Z"
       }
     ]
   }

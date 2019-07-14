@@ -15,87 +15,36 @@
     "officialSite": "http://www.ytv.co.jp/conan/",
     "begin": "1996-01-08T10:00:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
-      {
-        "site": "kankan",
-        "id": "85224",
-        "begin": "1996-01-13T11:30:00.000Z",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
       {
         "site": "iqiyi",
         "id": "a_19rrhc0gyd",
-        "begin": "2016-09-28T12:45:45.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-09-28T12:45:45.000Z"
       },
       {
         "site": "qq",
         "id": "5/53q0eh78q97e4d1",
-        "begin": "1996-01-13T11:30:00.000Z",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1996-01-13T11:30:00.000Z"
       },
       {
         "site": "sohu",
         "id": "s2012/mztkn",
-        "begin": "1996-01-13T11:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1996-01-13T11:30:00.000Z"
       },
       {
         "site": "letv",
         "id": "5938",
-        "begin": "1996-01-13T11:30:00.000Z",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1996-01-13T11:30:00.000Z"
       },
       {
         "site": "pptv",
         "id": "ac24Np4EdLIVkics",
-        "begin": "1996-01-13T11:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "tudou",
-        "id": "7-W5njV4CQI",
-        "begin": "1996-01-13T11:30:00.000Z",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "1996-01-13T11:30:00.000Z"
       },
       {
         "site": "youku",
         "id": "cc003400962411de83b1",
-        "begin": "2012-05-10T10:15:24.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2012-05-10T10:15:24.000Z"
       },
       {
         "site": "bangumi",
@@ -104,12 +53,7 @@
       {
         "site": "netflix",
         "id": "80090370",
-        "begin": "2016-01-01T08:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-01-01T08:00:00.000Z"
       }
     ]
   },
@@ -125,47 +69,26 @@
     "officialSite": "http://cgi.shopro.co.jp/tv/let_go/",
     "begin": "1996-01-08T09:00:00.000Z",
     "end": "1997-12-22T09:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "BlkjoQlv3x2AicmY",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rriftxv1",
-        "begin": "2013-08-07T10:21:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2013-08-07T10:21:00.000Z"
       },
       {
         "site": "qq",
         "id": "y/yfn3bjrmshbtski",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "mgtv",
         "id": "48285",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -188,27 +111,16 @@
     "officialSite": "http://www.sonymusic.co.jp/Movie/TV/Kenshin/",
     "begin": "1996-01-10T16:00:00.000Z",
     "end": "1998-09-08T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "UfLNS7MZiaccqqBA",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "qq",
         "id": "k/k6d2ovf4jl79n58",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -217,32 +129,17 @@
       {
         "site": "nicovideo",
         "id": "rurouni-kenshin-tokyo",
-        "begin": "2014-09-13T06:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2014-09-13T06:00:00.000Z"
       },
       {
         "site": "netflix",
         "id": "80016571",
-        "begin": "2016-01-01T08:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-01-01T08:00:00.000Z"
       },
       {
         "site": "bilibili",
         "id": "2303",
-        "begin": "1996-01-09T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1996-01-09T16:00:00.000Z"
       }
     ]
   },
@@ -262,17 +159,11 @@
     "officialSite": "",
     "begin": "1996-01-05T16:00:00.000Z",
     "end": "1996-01-05T16:45:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "qq",
         "id": "w/w44r23kw9ljdyyp",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -281,12 +172,7 @@
       {
         "site": "letv",
         "id": "10004313",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -302,27 +188,16 @@
     "officialSite": "",
     "begin": "1996-01-25T16:00:00.000Z",
     "end": "1999-07-25T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "fdSvLZX7a6kMiavI",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "qq",
         "id": "8/87lrosxr1yta375",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -343,17 +218,11 @@
     "officialSite": "",
     "begin": "1996-01-07T16:00:00.000Z",
     "end": "1998-03-29T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrhb12ad",
-        "begin": "2015-10-29T09:09:06.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-10-29T09:09:06.000Z"
       },
       {
         "site": "bangumi",

@@ -14,17 +14,11 @@
     "officialSite": "http://www.wagnaria.com/2nd/",
     "begin": "2011-09-03T14:30:00.000Z",
     "end": "2011-12-24T15:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "47403",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -33,22 +27,12 @@
       {
         "site": "nicovideo",
         "id": "working-02",
-        "begin": "2011-10-08T16:30:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2011-10-08T16:30:00.000Z"
       },
       {
         "site": "bilibili",
         "id": "867",
-        "begin": "2011-09-03T14:30:00.000Z",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2011-09-03T14:30:00.000Z"
       }
     ]
   },
@@ -67,7 +51,6 @@
     "officialSite": "http://www.ika-musume.com/",
     "begin": "2011-09-26T17:00:00.000Z",
     "end": "2011-12-26T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -76,12 +59,7 @@
       {
         "site": "nicovideo",
         "id": "ikamusume-02",
-        "begin": "2011-10-03T15:30:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2011-10-03T15:30:00.000Z"
       }
     ]
   },
@@ -100,7 +78,6 @@
     "officialSite": "http://www.nagoyatv.com/battlespirits_heroes/",
     "begin": "2011-09-17T22:00:00.000Z",
     "end": "2012-09-01T22:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -120,17 +97,11 @@
     "officialSite": "http://www.hotarubi.info/",
     "begin": "2011-09-17T16:00:00.000Z",
     "end": "2011-09-17T16:45:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "begin": "",
-        "official": true,
-        "premuiumOnly": null,
-        "censored": null,
-        "comment": "",
-        "url": "http://www.iqiyi.com/dongman/20120626/ece98897b70d6a00.html",
-        "exist": null
+        "url": "http://www.iqiyi.com/dongman/20120626/ece98897b70d6a00.html"
       },
       {
         "site": "bangumi",
@@ -150,17 +121,11 @@
     "officialSite": "http://www.busou.konami.jp/",
     "begin": "2011-09-22T16:00:00.000Z",
     "end": "2011-09-22T16:05:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "xhDsatI4qOZJxy8",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -169,12 +134,7 @@
       {
         "site": "bilibili",
         "id": "740",
-        "begin": "2011-09-21T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2011-09-21T16:00:00.000Z"
       }
     ]
   },
@@ -190,7 +150,6 @@
     "officialSite": "http://www.towanoquon.com",
     "begin": "2011-09-10T16:00:00.000Z",
     "end": "2011-09-10T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -199,12 +158,7 @@
       {
         "site": "letv",
         "id": "46312",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   }

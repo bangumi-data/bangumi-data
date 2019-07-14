@@ -11,17 +11,11 @@
     "officialSite": "http://www.corda-primopasso.com/",
     "begin": "2009-03-26T15:00:00.000Z",
     "end": "2009-06-05T15:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "0x3nZc0zoibFEwiao",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -30,22 +24,12 @@
       {
         "site": "nicovideo",
         "id": "corda-secondo",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "168",
-        "begin": "2009-03-25T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2009-03-25T16:00:00.000Z"
       }
     ]
   },
@@ -61,7 +45,6 @@
     "officialSite": "http://www.tv-tokyo.co.jp/anime/chissweet2009/",
     "begin": "2009-03-29T21:40:00.000Z",
     "end": "2009-09-23T21:45:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -81,17 +64,11 @@
     "officialSite": "http://www.nhk.or.jp/kids/program/main.html",
     "begin": "2009-03-30T08:40:00.000Z",
     "end": "2013-03-21T21:55:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "icjAMiavJYyAZp508",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -111,31 +88,15 @@
     "officialSite": "http://www.joke-charady-365.com/charady_top.html",
     "begin": "2009-03-31T15:40:00.000Z",
     "end": "2010-03-30T15:45:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "RIeBic2fNPXveXMQ",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
         "id": "1546"
-      },
-      {
-        "site": "bilibili",
-        "id": "1121",
-        "begin": "2009-03-31T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
       }
     ]
   },
@@ -151,7 +112,6 @@
     "officialSite": "http://www.toei-anim.co.jp/tv/marie_gali01/",
     "begin": "2009-03-31T10:25:00.000Z",
     "end": "2010-03-23T10:55:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -171,7 +131,6 @@
     "officialSite": "http://www.ntv.co.jp/lupin-conan/",
     "begin": "2009-03-27T16:00:00.000Z",
     "end": "2009-03-27T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -191,17 +150,11 @@
     "officialSite": "http://doraeiga.com/2009/",
     "begin": "2009-03-07T16:00:00.000Z",
     "end": "2009-03-07T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "81026",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -210,32 +163,17 @@
       {
         "site": "pptv",
         "id": "7qoHhe1TwwFk4ko",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "qq",
         "id": "z/z8alyhrvkd3jp2y",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh6mkdh",
-        "begin": "2018-05-31T16:11:26.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-05-31T16:11:26.000Z"
       }
     ]
   },
@@ -251,7 +189,6 @@
     "officialSite": "http://www.toei-anim.co.jp/movie/2009_precure_allstars/",
     "begin": "2009-03-20T16:00:00.000Z",
     "end": "2009-03-20T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -260,12 +197,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhb4tzt",
-        "begin": "2015-08-07T08:45:07.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-08-07T08:45:07.000Z"
       }
     ]
   },
@@ -281,7 +213,6 @@
     "officialSite": "",
     "begin": "2009-03-06T16:00:00.000Z",
     "end": "2009-03-06T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -301,7 +232,6 @@
     "officialSite": "http://www.nhk.or.jp/anime/nintama/",
     "begin": "2009-03-30T08:35:00.000Z",
     "end": "2009-07-31T09:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -321,17 +251,11 @@
     "officialSite": "http://www.shonenmagazine.com/tsubasa_tokyo/",
     "begin": "2009-03-17T16:00:00.000Z",
     "end": "2009-05-15T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "R5Vv7VW7K2nMSrI",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -340,22 +264,12 @@
       {
         "site": "bilibili",
         "id": "2855",
-        "begin": "2009-03-16T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2009-03-16T16:00:00.000Z"
       },
       {
         "site": "letv",
         "id": "10388",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -371,17 +285,11 @@
     "officialSite": "",
     "begin": "2009-03-27T16:00:00.000Z",
     "end": "2009-05-29T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "t5dy8FiaibLmzPTbU",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -401,7 +309,6 @@
     "officialSite": "http://www.keroro-movie.net/",
     "begin": "2009-03-07T16:00:00.000Z",
     "end": "2009-03-07T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -410,12 +317,7 @@
       {
         "site": "pptv",
         "id": "9LQdmwNp2Rd6ibGA",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   }

@@ -11,17 +11,11 @@
     "officialSite": "http://www.tv-tokyo.co.jp/anime/pokemon_sunmoon/",
     "begin": "2016-11-17T10:55:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "10032274",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -30,42 +24,22 @@
       {
         "site": "mgtv",
         "id": "321993",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "sohu",
         "id": "s2018/jlbkmtyyl",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "qq",
         "id": "8/8rbtcil5a2heb7d",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrgzmpot",
-        "begin": "2018-04-30T16:01:59.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-04-30T16:01:59.000Z"
       }
     ]
   },
@@ -82,17 +56,11 @@
     "officialSite": "http://kamigaminoki.com/",
     "begin": "2016-11-24T16:25:00.000Z",
     "end": "2017-04-27T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "dculI4vxYZ8CgOg",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -101,22 +69,12 @@
       {
         "site": "nicovideo",
         "id": "kamigaminoki",
-        "begin": "2017-01-13T09:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-01-13T09:00:00.000Z"
       },
       {
         "site": "bilibili",
         "id": "5909",
-        "begin": "2016-11-23T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-11-23T16:00:01.000Z"
       }
     ]
   },
@@ -132,17 +90,11 @@
     "officialSite": "",
     "begin": "2016-11-11T16:00:00.000Z",
     "end": "2016-12-21T16:01:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "4FZCwCiaOicjyfHYU",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -162,17 +114,11 @@
     "officialSite": "",
     "begin": "2016-11-25T16:00:00.000Z",
     "end": "2016-04-01T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "NgzoZs40pOJFwys",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -192,7 +138,6 @@
     "officialSite": "http://www.kinmosa.com/",
     "begin": "2016-11-12T16:00:00.000Z",
     "end": "2016-11-12T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -201,22 +146,12 @@
       {
         "site": "pptv",
         "id": "t4Fr6VG3J2XIRq4",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
-        "id": "6205",
-        "begin": "2016-11-11T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "8692",
+        "begin": "2016-11-11T16:00:01.000Z"
       }
     ]
   },
@@ -235,7 +170,6 @@
     "officialSite": "http://www.cyborg009.jp",
     "begin": "2016-11-23T16:00:00.000Z",
     "end": "2016-11-23T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -245,10 +179,6 @@
         "site": "netflix",
         "id": "80057749",
         "begin": "2017-02-10T08:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
         "comment": "原始版本为剧场版但是 Netflix 目前将其做成 14 集 TV 分割形式放送"
       }
     ]
@@ -268,7 +198,6 @@
     "officialSite": "http://www.konosekai.jp/",
     "begin": "2016-11-11T16:00:00.000Z",
     "end": "2016-11-12T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -277,12 +206,7 @@
       {
         "site": "netflix",
         "id": "80192244",
-        "begin": "2018-03-15T07:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-03-15T07:00:00.000Z"
       }
     ]
   }

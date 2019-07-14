@@ -7,7 +7,6 @@
     "officialSite": "",
     "begin": "2018-12-01T16:00:00.000Z",
     "end": "2018-12-01T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -16,12 +15,7 @@
       {
         "site": "nicovideo",
         "id": "k-seven-stories",
-        "begin": "2018-07-07T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-07-07T03:00:00.000Z"
       }
     ]
   },
@@ -37,7 +31,6 @@
     "officialSite": "https://www.saintia-sho.com/",
     "begin": "2018-12-10T10:00:00.000Z",
     "end": "2019-02-25T10:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -46,22 +39,12 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh40fa5",
-        "begin": "2018-12-10T11:25:09.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-12-10T11:25:09.000Z"
       },
       {
         "site": "pptv",
         "id": "9zgVkicth0Q9y8Fg",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -77,7 +60,6 @@
     "officialSite": "http://www.saikikusuo.com/spot/anime/",
     "begin": "2018-12-27T22:35:00.000Z",
     "end": "2018-12-27T23:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -86,42 +68,22 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhvm9yx",
-        "begin": "2018-12-27T23:30:16.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-12-27T23:30:16.000Z"
       },
       {
         "site": "bilibili",
-        "id": "26347",
-        "begin": "2018-12-28T00:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "5195852",
+        "begin": "2018-12-28T00:00:00.000Z"
       },
       {
         "site": "nicovideo",
         "id": "saikikusuo_final",
-        "begin": "2018-12-28T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-12-28T15:00:00.000Z"
       },
       {
         "site": "youku",
         "id": "f41aa66f58ee4943a067",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -137,7 +99,6 @@
     "officialSite": "https://p5a.jp/",
     "begin": "2018-12-30T15:00:00.000Z",
     "end": "2018-12-30T15:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -145,23 +106,13 @@
       },
       {
         "site": "bilibili",
-        "id": "26354",
-        "begin": "2018-12-30T17:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "5581418",
+        "begin": "2018-12-30T17:00:00.000Z"
       },
       {
         "site": "nicovideo",
         "id": "p5a_DarkSun",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   }

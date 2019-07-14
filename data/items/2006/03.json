@@ -11,7 +11,6 @@
     "officialSite": "http://www.momo100100.com/",
     "begin": "2006-03-02T15:30:00.000Z",
     "end": "2006-04-06T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -20,12 +19,7 @@
       {
         "site": "bilibili",
         "id": "1395",
-        "begin": "2006-03-01T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2006-03-01T16:00:00.000Z"
       }
     ]
   },
@@ -42,47 +36,26 @@
     "officialSite": "http://www.tv-tokyo.co.jp/anime/tennipri/ova/index.html",
     "begin": "2006-03-24T16:00:00.000Z",
     "end": "2009-01-23T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "JicicZV78lldM2tBw",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrjtiagp",
-        "begin": "2012-12-12T03:29:06.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2012-12-12T03:29:06.000Z"
       },
       {
         "site": "qq",
         "id": "a/acfk5vfysdwag2u",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "letv",
         "id": "18425",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -91,22 +64,12 @@
       {
         "site": "mgtv",
         "id": "103475",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
-        "id": "4934",
-        "begin": "2006-03-23T16:00:01.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "33232",
+        "begin": "2006-03-23T16:00:01.000Z"
       }
     ]
   },
@@ -122,17 +85,11 @@
     "officialSite": "http://doraeiga.com/2006/",
     "begin": "2006-03-04T16:00:00.000Z",
     "end": "2006-03-04T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "81023",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -141,32 +98,17 @@
       {
         "site": "pptv",
         "id": "7qoHhe1TwwFk4ko",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "qq",
         "id": "z/z8alyhrvkd3jp2y",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh6miux",
-        "begin": "2018-05-31T16:00:11.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-05-31T16:00:11.000Z"
       }
     ]
   },
@@ -182,17 +124,11 @@
     "officialSite": "http://www.z-gundam.net/z3/",
     "begin": "2006-03-04T16:00:00.000Z",
     "end": "2006-03-04T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "qq",
         "id": "v/vtivtiq6tmaojet",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -212,17 +148,11 @@
     "officialSite": "http://www.amuse-s-e.co.jp/hokuto/",
     "begin": "2006-03-11T16:00:00.000Z",
     "end": "2006-03-11T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "qq",
         "id": "p/prx8eje3t5q99mm",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -231,12 +161,7 @@
       {
         "site": "nicovideo",
         "id": "hokuto-no-ken",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -252,7 +177,6 @@
     "officialSite": "http://www.toei-anim.co.jp/movie/2006_onepiece/",
     "begin": "2006-03-04T16:00:00.000Z",
     "end": "2006-03-04T17:35:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -272,17 +196,11 @@
     "officialSite": "http://ar-tonelico.jp",
     "begin": "2006-03-22T16:00:00.000Z",
     "end": "2006-03-22T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "RywIhu5UxAJl40s",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -302,31 +220,15 @@
     "officialSite": "http://mv.avex.jp/5-2/index.html",
     "begin": "2006-03-24T16:00:00.000Z",
     "end": "2007-03-21T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "UYaCAGjOPnzfXcU",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
         "id": "764"
-      },
-      {
-        "site": "bilibili",
-        "id": "3762",
-        "begin": "2006-03-23T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
       }
     ]
   },
@@ -342,7 +244,6 @@
     "officialSite": "http://www.keroro-movie.net/",
     "begin": "2006-03-11T16:00:00.000Z",
     "end": "2006-03-11T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -351,12 +252,7 @@
       {
         "site": "pptv",
         "id": "9LQdmwNp2Rd6ibGA",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   }

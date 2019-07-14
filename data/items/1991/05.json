@@ -11,27 +11,16 @@
     "officialSite": "",
     "begin": "1991-05-22T16:00:00.000Z",
     "end": "1992-09-24T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "zRnjYckvn91AviaY",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "qq",
         "id": "l/l8yeq8hadkbh258",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -51,7 +40,6 @@
     "officialSite": "http://www.mxtv.co.jp/maison/",
     "begin": "1991-05-21T16:00:00.000Z",
     "end": "1991-05-21T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -60,12 +48,7 @@
       {
         "site": "bilibili",
         "id": "3963",
-        "begin": "1991-05-20T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1991-05-20T16:00:01.000Z"
       }
     ]
   }

@@ -11,7 +11,6 @@
     "officialSite": "http://www.precure-superstars.com/",
     "begin": "2018-10-27T16:00:00.000Z",
     "end": "2018-10-27T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -20,12 +19,7 @@
       {
         "site": "nicovideo",
         "id": "futariha-precure",
-        "begin": "2018-10-12T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-10-12T15:00:00.000Z"
       }
     ]
   },
@@ -41,7 +35,6 @@
     "officialSite": "",
     "begin": "2018-10-06T16:00:00.000Z",
     "end": "2018-11-03T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -50,12 +43,7 @@
       {
         "site": "nicovideo",
         "id": "k-seven-stories",
-        "begin": "2018-07-07T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-07-07T03:00:00.000Z"
       }
     ]
   },
@@ -71,7 +59,6 @@
     "officialSite": "http://haikarasan.net/",
     "begin": "2018-10-19T16:00:00.000Z",
     "end": "2018-10-19T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -95,7 +82,6 @@
     "officialSite": "http://jojo-animation.com/",
     "begin": "2018-10-05T16:05:00.000Z",
     "end": "2019-07-28T16:35:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -103,13 +89,8 @@
       },
       {
         "site": "bilibili",
-        "id": "25681",
-        "begin": "2018-10-05T17:35:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "id": "135652",
+        "begin": "2018-10-05T17:35:00.000Z"
       }
     ]
   },
@@ -125,7 +106,6 @@
     "officialSite": "http://releasethespyce.jp/",
     "begin": "2018-10-07T14:30:00.000Z",
     "end": "2018-12-22T18:08:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -133,23 +113,13 @@
       },
       {
         "site": "acfun",
-        "url": "http://www.acfun.cn/bangumi/aa5022156",
-        "begin": "2018-10-07T18:30:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "id": "5022156",
+        "begin": "2018-10-07T18:30:00.000Z"
       },
       {
         "site": "nicovideo",
         "id": "releasethespyce",
-        "begin": "2018-10-09T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-09T03:00:00.000Z"
       }
     ]
   },
@@ -166,7 +136,6 @@
     "officialSite": "http://akanesasushojo.com/",
     "begin": "2018-10-01T10:30:00.000Z",
     "end": "2018-12-17T11:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -174,23 +143,13 @@
       },
       {
         "site": "acfun",
-        "url": "http://www.acfun.cn/bangumi/aa5022158",
-        "begin": "2018-10-01T11:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": true,
-        "exist": true,
-        "comment": ""
+        "id": "5022158",
+        "begin": "2018-10-01T11:00:00.000Z"
       },
       {
         "site": "nicovideo",
         "id": "akanesasushojo",
-        "begin": "2018-10-01T10:30:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-01T10:30:00.000Z"
       }
     ]
   },
@@ -206,7 +165,6 @@
     "officialSite": "http://sidem-wakemini.com/",
     "begin": "2018-10-09T12:54:00.000Z",
     "end": "2018-12-25T13:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -214,23 +172,13 @@
       },
       {
         "site": "bilibili",
-        "id": "25623",
-        "begin": "2018-10-09T13:54:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "id": "139472",
+        "begin": "2018-10-09T13:54:00.000Z"
       },
       {
         "site": "nicovideo",
         "id": "sidem-wakemini",
-        "begin": "2018-10-10T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-10T03:00:00.000Z"
       }
     ]
   },
@@ -247,7 +195,6 @@
     "officialSite": "http://gridman.net/",
     "begin": "2018-10-06T15:00:00.000Z",
     "end": "2018-12-22T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -256,22 +203,12 @@
       {
         "site": "qq",
         "id": "o/o28lfr4elqppz6q",
-        "begin": "2018-10-06T18:00:00.000Z",
-        "official": null,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-10-06T18:00:00.000Z"
       },
       {
         "site": "nicovideo",
         "id": "ssss-gridman",
-        "begin": "2018-10-13T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-13T15:00:00.000Z"
       }
     ]
   },
@@ -290,7 +227,6 @@
     "officialSite": "http://tiramisu-anime.com/",
     "begin": "2018-10-01T16:00:00.000Z",
     "end": "2018-12-24T16:10:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -298,23 +234,13 @@
       },
       {
         "site": "bilibili",
-        "id": "25806",
-        "begin": "2018-10-01T17:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "id": "140332",
+        "begin": "2018-10-01T17:00:00.000Z"
       },
       {
         "site": "nicovideo",
         "id": "tiramisu-anime2",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -334,7 +260,6 @@
     "officialSite": "http://www.ten-sura.com/",
     "begin": "2018-10-01T15:00:00.000Z",
     "end": "2019-03-25T15:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -342,53 +267,28 @@
       },
       {
         "site": "bilibili",
-        "id": "25739",
-        "begin": "2018-10-01T16:30:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "id": "139252",
+        "begin": "2018-10-01T16:30:00.000Z"
       },
       {
         "site": "qq",
         "id": "3/3qpalo6ldy0i4bf",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh707nd",
-        "begin": "2018-10-01T16:25:07.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-10-01T16:25:07.000Z"
       },
       {
         "site": "nicovideo",
         "id": "ten-sura",
-        "begin": "2018-10-03T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-03T03:00:00.000Z"
       },
       {
         "site": "mgtv",
         "id": "327848",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -408,7 +308,6 @@
     "officialSite": "https://sao-alicization.net/",
     "begin": "2018-10-06T15:00:00.000Z",
     "end": "2019-03-30T15:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -416,33 +315,18 @@
       },
       {
         "site": "bilibili",
-        "id": "25510",
-        "begin": "2018-10-06T16:30:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "id": "130412",
+        "begin": "2018-10-06T16:30:00.000Z"
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh1temd",
-        "begin": "2018-10-06T16:25:08.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-06T16:25:08.000Z"
       },
       {
         "site": "nicovideo",
         "id": "sao-alicization",
-        "begin": "2018-10-13T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-13T16:00:00.000Z"
       }
     ]
   },
@@ -458,7 +342,6 @@
     "officialSite": "http://toaru-project.com/index_3/",
     "begin": "2018-10-05T13:00:00.000Z",
     "end": "2019-04-05T13:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -466,43 +349,23 @@
       },
       {
         "site": "bilibili",
-        "id": "25617",
-        "begin": "2018-10-05T14:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "id": "134912",
+        "begin": "2018-10-05T14:30:00.000Z"
       },
       {
         "site": "qq",
         "id": "u/u3r3qhz2icswkw1",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh1tfn9",
-        "begin": "2018-10-05T14:25:07.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-05T14:25:07.000Z"
       },
       {
         "site": "nicovideo",
         "id": "index_3",
-        "begin": "2018-10-11T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-11T03:00:00.000Z"
       }
     ]
   },
@@ -518,7 +381,6 @@
     "officialSite": "http://juliet-anime.com/",
     "begin": "2018-10-05T16:25:00.000Z",
     "end": "2018-12-21T17:05:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -527,22 +389,12 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh5ky7t",
-        "begin": "2018-10-05T18:25:07.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-05T18:25:07.000Z"
       },
       {
         "site": "nicovideo",
         "id": "juliet-anime",
-        "begin": "2018-12-21T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-12-21T03:00:00.000Z"
       }
     ]
   },
@@ -561,7 +413,6 @@
     "officialSite": "http://www.goblinslayer.jp/",
     "begin": "2018-10-06T16:30:00.000Z",
     "end": "2018-12-25T03:25:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -570,22 +421,12 @@
       {
         "site": "nicovideo",
         "id": "goblin-slayer",
-        "begin": "2018-10-06T16:30:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-06T16:30:00.000Z"
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh709x1",
-        "begin": "2018-10-06T16:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-10-06T16:30:00.000Z"
       }
     ]
   },
@@ -601,7 +442,6 @@
     "officialSite": "http://ao-buta.com/",
     "begin": "2018-10-03T17:20:00.000Z",
     "end": "2018-12-26T17:50:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -609,33 +449,18 @@
       },
       {
         "site": "bilibili",
-        "id": "25733",
-        "begin": "2018-10-03T18:50:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "id": "134932",
+        "begin": "2018-10-03T18:50:00.000Z"
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh6z4oh",
-        "begin": "2018-10-03T18:45:07.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-03T18:45:07.000Z"
       },
       {
         "site": "nicovideo",
         "id": "ao-buta",
-        "begin": "2018-10-07T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-07T03:00:00.000Z"
       }
     ]
   },
@@ -652,31 +477,15 @@
     "officialSite": "http://uzamaid.com/",
     "begin": "2018-10-05T16:40:00.000Z",
     "end": "2018-12-21T14:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "242670"
       },
       {
-        "site": "bilibili",
-        "id": "25613",
-        "begin": "2018-10-05T15:30:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
-      },
-      {
         "site": "nicovideo",
         "id": "uzamaid",
-        "begin": "2018-10-13T15:30:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-13T15:30:00.000Z"
       }
     ]
   },
@@ -692,7 +501,6 @@
     "officialSite": "http://kamuy-anime.com/",
     "begin": "2018-10-08T14:00:00.000Z",
     "end": "2018-12-24T14:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -701,12 +509,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh1gx6l",
-        "begin": "2018-10-08T15:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-10-08T15:30:00.000Z"
       }
     ]
   },
@@ -723,7 +526,6 @@
     "officialSite": "http://soraumi-anime.com/",
     "begin": "2018-10-03T15:00:00.000Z",
     "end": "2018-12-19T15:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -731,33 +533,18 @@
       },
       {
         "site": "acfun",
-        "url": "http://www.acfun.cn/bangumi/aa5022159",
-        "begin": "2018-10-03T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "id": "5022159",
+        "begin": "2018-10-03T16:00:00.000Z"
       },
       {
         "site": "bilibili",
-        "id": "25687",
-        "begin": "2018-10-03T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "id": "140752",
+        "begin": "2018-10-03T16:00:00.000Z"
       },
       {
         "site": "nicovideo",
         "id": "soraumi-anime",
-        "begin": "2018-10-10T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-10T03:00:00.000Z"
       }
     ]
   },
@@ -777,7 +564,6 @@
     "officialSite": "https://zombielandsaga.com/",
     "begin": "2018-10-04T15:00:00.000Z",
     "end": "2018-12-20T15:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -785,33 +571,18 @@
       },
       {
         "site": "acfun",
-        "url": "http://www.acfun.cn/bangumi/aa5022161",
-        "begin": "2018-10-04T16:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "id": "5022161",
+        "begin": "2018-10-04T16:30:00.000Z"
       },
       {
         "site": "bilibili",
-        "id": "25689",
-        "begin": "2018-10-04T16:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "id": "140772",
+        "begin": "2018-10-04T16:30:00.000Z"
       },
       {
         "site": "nicovideo",
         "id": "zombielandsaga",
-        "begin": "2018-10-07T13:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-07T13:00:00.000Z"
       }
     ]
   },
@@ -827,7 +598,6 @@
     "officialSite": "http://hinomaru-zumou.com/",
     "begin": "2018-10-05T13:00:00.000Z",
     "end": "2019-03-29T13:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -836,42 +606,22 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh6z4f9",
-        "begin": "2018-10-05T14:55:07.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-05T14:55:07.000Z"
       },
       {
         "site": "nicovideo",
         "id": "hinomaru-zumou",
-        "begin": "2018-10-11T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-11T03:00:00.000Z"
       },
       {
         "site": "bilibili",
-        "id": "25730",
-        "begin": "2018-10-05T13:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "139672",
+        "begin": "2018-10-05T13:00:00.000Z"
       },
       {
         "site": "youku",
         "id": "e1be99b8f2b34a68a701",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -890,7 +640,6 @@
     "officialSite": "http://yagakimi.com/",
     "begin": "2018-10-05T12:30:00.000Z",
     "end": "2018-12-28T13:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -898,23 +647,13 @@
       },
       {
         "site": "bilibili",
-        "id": "25622",
-        "begin": "2018-10-05T14:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "id": "138832",
+        "begin": "2018-10-05T14:00:00.000Z"
       },
       {
         "site": "nicovideo",
         "id": "yagakimi",
-        "begin": "2018-10-11T15:30:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-11T15:30:00.000Z"
       }
     ]
   },
@@ -930,7 +669,6 @@
     "officialSite": "http://iroduku.jp/",
     "begin": "2018-10-05T16:55:00.000Z",
     "end": "2018-12-28T18:35:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -939,12 +677,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh70a9p",
-        "begin": "2018-10-05T17:20:06.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-05T17:20:06.000Z"
       }
     ]
   },
@@ -961,7 +694,6 @@
     "officialSite": "http://kyuketsukisan-anime.com/",
     "begin": "2018-10-06T13:00:00.000Z",
     "end": "2018-12-21T12:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -969,23 +701,13 @@
       },
       {
         "site": "bilibili",
-        "id": "25619",
-        "begin": "2018-10-05T13:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "id": "139632",
+        "begin": "2018-10-05T13:00:00.000Z"
       },
       {
         "site": "nicovideo",
         "id": "kyuketsukisan-anime",
-        "begin": "2018-10-13T16:30:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-13T16:30:00.000Z"
       }
     ]
   },
@@ -1001,7 +723,6 @@
     "officialSite": "http://animayell.com/",
     "begin": "2018-10-07T15:00:00.000Z",
     "end": "2018-12-23T15:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -1009,43 +730,23 @@
       },
       {
         "site": "bilibili",
-        "id": "25624",
-        "begin": "2018-10-07T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "id": "139392",
+        "begin": "2018-10-07T16:00:00.000Z"
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh5b6h5",
-        "begin": "2018-10-07T15:55:06.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-07T15:55:06.000Z"
       },
       {
         "site": "nicovideo",
         "id": "animayell",
-        "begin": "2018-10-11T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-11T15:00:00.000Z"
       },
       {
         "site": "youku",
         "id": "6f30448090fa4a56a061",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -1062,7 +763,6 @@
     "officialSite": "http://imo-imo.jp/",
     "begin": "2018-10-10T16:35:00.000Z",
     "end": "2018-12-19T12:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -1070,23 +770,13 @@
       },
       {
         "site": "bilibili",
-        "id": "25717",
-        "begin": "2018-10-10T14:30:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "id": "139612",
+        "begin": "2018-10-10T14:30:00.000Z"
       },
       {
         "site": "nicovideo",
         "id": "imo-imo",
-        "begin": "2018-10-17T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-17T15:00:00.000Z"
       }
     ]
   },
@@ -1102,7 +792,6 @@
     "officialSite": "http://beelmama.com/",
     "begin": "2018-10-10T17:50:00.000Z",
     "end": "2018-12-26T18:20:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -1110,33 +799,18 @@
       },
       {
         "site": "bilibili",
-        "id": "25697",
-        "begin": "2018-10-10T18:50:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "id": "139272",
+        "begin": "2018-10-10T18:50:00.000Z"
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh707kx",
-        "begin": "2018-10-10T18:45:08.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-10T18:45:08.000Z"
       },
       {
         "site": "nicovideo",
         "id": "beelmama",
-        "begin": "2018-10-15T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-15T03:00:00.000Z"
       }
     ]
   },
@@ -1152,7 +826,6 @@
     "officialSite": "http://ch.nicovideo.jp/dakaretai-1st",
     "begin": "2018-10-05T15:00:00.000Z",
     "end": "2018-12-28T15:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -1161,12 +834,7 @@
       {
         "site": "nicovideo",
         "id": "dakaretai-1st",
-        "begin": "2018-10-08T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-08T03:00:00.000Z"
       }
     ]
   },
@@ -1182,7 +850,6 @@
     "officialSite": "http://ulysses-anime.jp/",
     "begin": "2018-10-07T13:00:00.000Z",
     "end": "2018-12-30T13:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -1191,22 +858,12 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh707zp",
-        "begin": "2018-10-07T13:55:06.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-07T13:55:06.000Z"
       },
       {
         "site": "nicovideo",
         "id": "ulysses-anime",
-        "begin": "2018-10-11T15:30:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-11T15:30:00.000Z"
       }
     ]
   },
@@ -1223,31 +880,15 @@
     "officialSite": "http://conception-anime.com/",
     "begin": "2018-10-09T16:30:00.000Z",
     "end": "2018-12-25T17:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "245531"
       },
       {
-        "site": "bilibili",
-        "id": "25607",
-        "begin": "2018-10-09T16:30:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
-      },
-      {
         "site": "nicovideo",
         "id": "conception-anime",
-        "begin": "2018-11-04T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-11-04T15:00:00.000Z"
       }
     ]
   },
@@ -1264,7 +905,6 @@
     "officialSite": "http://gaikotsu-honda-anime.com/",
     "begin": "2018-10-07T15:30:00.000Z",
     "end": "2018-12-23T15:45:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -1272,53 +912,28 @@
       },
       {
         "site": "bilibili",
-        "id": "25663",
-        "begin": "2018-10-07T16:45:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "id": "134952",
+        "begin": "2018-10-07T16:45:00.000Z"
       },
       {
         "site": "qq",
         "id": "x/xhuchai0qv1s0gy",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh70aed",
-        "begin": "2018-10-07T16:40:06.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-07T16:40:06.000Z"
       },
       {
         "site": "nicovideo",
         "id": "gaikotsu-honda-anime",
-        "begin": "2018-10-07T15:30:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-07T15:30:00.000Z"
       },
       {
         "site": "youku",
         "id": "39abc53891a1483d906e",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -1334,7 +949,6 @@
     "officialSite": "http://www.marv.jp/special/tokyoghoul/",
     "begin": "2018-10-09T14:00:00.000Z",
     "end": "2018-12-18T14:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -1342,13 +956,8 @@
       },
       {
         "site": "bilibili",
-        "id": "25727",
-        "begin": "2018-10-09T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "id": "140692",
+        "begin": "2018-10-09T15:00:00.000Z"
       }
     ]
   },
@@ -1364,7 +973,6 @@
     "officialSite": "http://www.tbs.co.jp/anime/gakuen_basara/",
     "begin": "2018-10-04T16:28:00.000Z",
     "end": "2018-12-20T17:08:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -1372,23 +980,13 @@
       },
       {
         "site": "acfun",
-        "url": "http://www.acfun.cn/bangumi/aa5022160",
-        "begin": "2018-10-04T18:20:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "id": "5022160",
+        "begin": "2018-10-04T18:20:00.000Z"
       },
       {
         "site": "nicovideo",
         "id": "gakuen_basara",
-        "begin": "2018-11-18T11:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-11-18T11:00:00.000Z"
       }
     ]
   },
@@ -1407,7 +1005,6 @@
     "officialSite": "http://himotehouse.com/",
     "begin": "2018-10-07T15:45:00.000Z",
     "end": "2018-12-23T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -1416,22 +1013,12 @@
       {
         "site": "nicovideo",
         "id": "himotehouse_anime",
-        "begin": "2018-10-11T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-10-11T15:00:00.000Z"
       },
       {
         "site": "youku",
         "id": "9fd74b2316b7497496d5",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -1447,7 +1034,6 @@
     "officialSite": "http://rerided.com/",
     "begin": "2018-10-03T16:05:00.000Z",
     "end": "2018-12-19T16:35:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -1455,23 +1041,13 @@
       },
       {
         "site": "bilibili",
-        "id": "25610",
-        "begin": "2018-09-22T14:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "139372",
+        "begin": "2018-09-22T14:00:00.000Z"
       },
       {
         "site": "nicovideo",
         "id": "rerided",
-        "begin": "2018-10-04T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-04T03:00:00.000Z"
       }
     ]
   },
@@ -1487,7 +1063,6 @@
     "officialSite": "https://devidol.com",
     "begin": "2018-10-04T16:05:00.000Z",
     "end": "2018-12-20T16:20:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -1496,12 +1071,7 @@
       {
         "site": "nicovideo",
         "id": "devidol",
-        "begin": "2018-10-04T16:35:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-04T16:35:00.000Z"
       }
     ]
   },
@@ -1517,7 +1087,6 @@
     "officialSite": "http://senran2.tv/",
     "begin": "2018-10-12T17:10:00.000Z",
     "end": "2018-12-28T15:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -1526,12 +1095,7 @@
       {
         "site": "nicovideo",
         "id": "senran2",
-        "begin": "2018-10-17T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-17T03:00:00.000Z"
       }
     ]
   },
@@ -1551,7 +1115,6 @@
     "officialSite": "http://www.mercstoria.jp/",
     "begin": "2018-10-11T14:30:00.000Z",
     "end": "2018-12-27T14:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -1559,33 +1122,18 @@
       },
       {
         "site": "bilibili",
-        "id": "25699",
-        "begin": "2018-10-11T14:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "id": "139452",
+        "begin": "2018-10-11T14:30:00.000Z"
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh40p5h",
-        "begin": "2018-10-11T14:25:06.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-11T14:25:06.000Z"
       },
       {
         "site": "nicovideo",
         "id": "mercstoria",
-        "begin": "2018-10-15T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-15T15:00:00.000Z"
       }
     ]
   },
@@ -1604,7 +1152,6 @@
     "officialSite": "http://hangyakusei-anime.com/",
     "begin": "2018-10-25T13:00:00.000Z",
     "end": "2018-12-27T13:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -1612,23 +1159,13 @@
       },
       {
         "site": "bilibili",
-        "id": "25720",
-        "begin": "2018-10-25T13:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "id": "139412",
+        "begin": "2018-10-25T13:00:00.000Z"
       },
       {
         "site": "nicovideo",
         "id": "hangyakusei-anime",
-        "begin": "2018-10-28T15:30:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-10-28T15:30:00.000Z"
       }
     ]
   },
@@ -1649,7 +1186,6 @@
     "officialSite": "http://www.nhk.or.jp/anime/radiant/",
     "begin": "2018-10-06T08:35:00.000Z",
     "end": "2019-02-23T09:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -1658,12 +1194,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh73tp5",
-        "begin": "2018-10-06T10:25:07.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-06T10:25:07.000Z"
       }
     ]
   },
@@ -1679,7 +1210,6 @@
     "officialSite": "http://tsurune.com/",
     "begin": "2018-10-14T15:10:00.000Z",
     "end": "2019-01-20T15:40:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -1687,13 +1217,8 @@
       },
       {
         "site": "bilibili",
-        "id": "25696",
-        "begin": "2018-10-21T17:10:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "id": "139292",
+        "begin": "2018-10-21T17:10:00.000Z"
       }
     ]
   },
@@ -1709,7 +1234,6 @@
     "officialSite": "http://ch.nicovideo.jp/jingaisan",
     "begin": "2018-10-02T16:00:00.000Z",
     "end": "2018-12-18T16:05:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -1718,42 +1242,22 @@
       {
         "site": "nicovideo",
         "id": "jingaisan",
-        "begin": "2018-10-09T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-09T15:00:00.000Z"
       },
       {
         "site": "bilibili",
-        "id": "25711",
-        "begin": "2018-10-02T16:00:00.000Z",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "142612",
+        "begin": "2018-10-02T16:00:00.000Z"
       },
       {
         "site": "pptv",
         "id": "MHpT0TmfD02wLpY",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "youku",
         "id": "c14cdbcdd5ea4405b61c",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -1770,7 +1274,6 @@
     "officialSite": "http://www.toei-anim.co.jp/tv/bbh/",
     "begin": "2018-10-02T08:55:00.000Z",
     "end": "2019-03-26T09:25:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -1779,12 +1282,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh5b5nt",
-        "begin": "2018-10-02T10:55:06.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-10-02T10:55:06.000Z"
       }
     ]
   },
@@ -1800,7 +1298,6 @@
     "officialSite": "http://kazetsuyo-anime.com/",
     "begin": "2018-10-02T16:34:00.000Z",
     "end": "2019-03-26T17:05:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -1808,43 +1305,23 @@
       },
       {
         "site": "bilibili",
-        "id": "25742",
-        "begin": "2018-10-02T17:29:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "id": "139352",
+        "begin": "2018-10-02T17:29:00.000Z"
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh6z5bd",
-        "begin": "2018-10-02T17:25:06.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-02T17:25:06.000Z"
       },
       {
         "site": "nicovideo",
         "id": "kazetsuyo-anime",
-        "begin": "2018-10-04T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-04T15:00:00.000Z"
       },
       {
         "site": "mgtv",
         "id": "326589",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -1863,7 +1340,6 @@
     "officialSite": "http://kitsune-no-koe.com/",
     "begin": "2018-10-10T17:00:00.000Z",
     "end": "2018-12-21T13:45:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -1872,22 +1348,12 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh6lqht",
-        "begin": "2018-10-18T23:30:07.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-18T23:30:07.000Z"
       },
       {
         "site": "nicovideo",
         "id": "kitsunenokoe",
-        "begin": "2018-10-11T16:10:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-11T16:10:00.000Z"
       }
     ]
   },
@@ -1906,7 +1372,6 @@
     "officialSite": "",
     "begin": "2018-10-11T13:30:00.000Z",
     "end": "2019-06-27T13:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -1914,13 +1379,8 @@
       },
       {
         "site": "bilibili",
-        "id": "25615",
-        "begin": "2018-10-10T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "id": "139432",
+        "begin": "2018-10-10T15:00:00.000Z"
       }
     ]
   },
@@ -1936,7 +1396,6 @@
     "officialSite": "http://ingressanime.com/",
     "begin": "2018-10-17T15:55:00.000Z",
     "end": "2018-12-26T15:55:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -1945,22 +1404,12 @@
       {
         "site": "pptv",
         "id": "sib7HRa0Tg8Ekogo",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "youku",
         "id": "e4e6b437e16746fa82f8",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -1976,7 +1425,6 @@
     "officialSite": "http://xuanyuansword.net/",
     "begin": "2018-10-01T17:20:00.000Z",
     "end": "2018-12-24T17:35:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -1985,22 +1433,12 @@
       {
         "site": "nicovideo",
         "id": "xuanyuansword",
-        "begin": "2018-10-05T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-10-05T03:00:00.000Z"
       },
       {
         "site": "youku",
         "id": "ac807426248b4f689137",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -2016,7 +1454,6 @@
     "officialSite": "https://www.yte.co.jp/program/detail.php?id=107",
     "begin": "2018-10-03T13:24:00.000Z",
     "end": "2018-12-19T13:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -2024,23 +1461,13 @@
       },
       {
         "site": "bilibili",
-        "id": "24365",
-        "begin": "2018-10-03T13:24:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "96092",
+        "begin": "2018-10-03T13:24:00.000Z"
       },
       {
         "site": "nicovideo",
         "id": "horamimi",
-        "begin": "2018-10-04T13:55:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-10-04T13:55:00.000Z"
       }
     ]
   },
@@ -2056,7 +1483,6 @@
     "officialSite": "http://www.ytv.co.jp/animegyakuten/",
     "begin": "2018-10-06T08:30:00.000Z",
     "end": "2019-01-19T09:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -2064,23 +1490,13 @@
       },
       {
         "site": "bilibili",
-        "id": "25740",
-        "begin": "2018-10-06T10:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "id": "139332",
+        "begin": "2018-10-06T10:00:00.000Z"
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh40qo1",
-        "begin": "2018-10-06T09:55:08.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-06T09:55:08.000Z"
       }
     ]
   },
@@ -2096,7 +1512,6 @@
     "officialSite": "http://www.souten-regenesis.com/",
     "begin": "2018-10-08T16:30:00.000Z",
     "end": "2018-12-24T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -2105,32 +1520,17 @@
       {
         "site": "pptv",
         "id": "1h36eOBGtvRX1T0",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "youku",
         "id": "53bb422602a14473ae69",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
-        "id": "25848",
-        "begin": "2018-10-01T17:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "140972",
+        "begin": "2018-10-01T17:00:00.000Z"
       }
     ]
   },
@@ -2146,7 +1546,6 @@
     "officialSite": "http://www.tbs.co.jp/anime/BAKUMATSU/",
     "begin": "2018-10-04T17:13:00.000Z",
     "end": "2018-12-20T17:38:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -2155,12 +1554,7 @@
       {
         "site": "nicovideo",
         "id": "anime_BAKUMATSU",
-        "begin": "2018-10-05T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-05T15:00:00.000Z"
       }
     ]
   },
@@ -2176,7 +1570,6 @@
     "officialSite": "http://www.tv-tokyo.co.jp/anime/inazuma2018/",
     "begin": "2018-10-05T08:55:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -2185,22 +1578,12 @@
       {
         "site": "nicovideo",
         "id": "inazuma_orion",
-        "begin": "2018-10-10T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-10T03:00:00.000Z"
       },
       {
         "site": "youku",
         "id": "edc6e8528cf84a46b09a",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -2216,7 +1599,6 @@
     "officialSite": "",
     "begin": "2018-10-05T22:55:00.000Z",
     "end": "2019-03-29T22:55:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -2236,7 +1618,6 @@
     "officialSite": "http://vap.co.jp/chitosechan/",
     "begin": "2018-10-05T16:35:00.000Z",
     "end": "2019-03-29T16:35:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -2245,12 +1626,7 @@
       {
         "site": "nicovideo",
         "id": "chitosechan",
-        "begin": "2018-10-06T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-10-06T03:00:00.000Z"
       }
     ]
   },
@@ -2266,21 +1642,10 @@
     "officialSite": "http://ch.nicovideo.jp/gurazeni",
     "begin": "2018-10-05T13:30:00.000Z",
     "end": "2018-12-21T14:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "251060"
-      },
-      {
-        "site": "bilibili",
-        "id": "25666",
-        "begin": "2018-10-05T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
       }
     ]
   },
@@ -2299,7 +1664,6 @@
     "officialSite": "http://www.tv-tokyo.co.jp/anime/fairytail/",
     "begin": "2018-10-06T22:00:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -2308,22 +1672,12 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhbp78p",
-        "begin": "2018-10-06T23:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-10-06T23:30:00.000Z"
       },
       {
         "site": "nicovideo",
         "id": "fairytail_final",
-        "begin": "2018-10-08T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-10-08T03:00:00.000Z"
       }
     ]
   },
@@ -2339,7 +1693,6 @@
     "officialSite": "https://shucap.cf-anime.com/",
     "begin": "2018-10-07T16:00:00.000Z",
     "end": "2018-12-23T16:05:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -2348,12 +1701,7 @@
       {
         "site": "nicovideo",
         "id": "syu_capu",
-        "begin": "2018-10-07T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": "2018-10-07T16:00:00.000Z"
       }
     ]
   },
@@ -2372,7 +1720,6 @@
     "officialSite": "http://hashiyoka.com/",
     "begin": "2018-10-08T17:40:00.000Z",
     "end": "2018-10-29T17:55:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -2381,22 +1728,12 @@
       {
         "site": "youku",
         "id": "ecfc18d9505348439c17",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
-        "id": "25856",
-        "begin": "2018-10-07T16:00:01.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "2435657",
+        "begin": "2018-10-07T16:00:01.000Z"
       }
     ]
   },
@@ -2412,7 +1749,6 @@
     "officialSite": "",
     "begin": "2018-10-08T16:25:00.000Z",
     "end": "2018-12-24T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -2434,7 +1770,6 @@
     "officialSite": "http://www.sonokano.com/",
     "begin": "2018-10-06T15:35:00.000Z",
     "end": "2018-12-22T15:40:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -2443,12 +1778,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh45j41",
-        "begin": "2018-10-06T16:25:07.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-10-06T16:25:07.000Z"
       }
     ]
   },
@@ -2464,7 +1794,6 @@
     "officialSite": "http://www.tv-tokyo.co.jp/anime/aigan_kaiju/",
     "begin": "2018-10-07T16:00:00.000Z",
     "end": "2019-09-22T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -2473,32 +1802,17 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh40qeh",
-        "begin": "2018-10-06T22:54:06.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-10-06T22:54:06.000Z"
       },
       {
         "site": "bilibili",
-        "id": "25851",
-        "begin": "2018-10-07T16:00:00.000Z",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "141052",
+        "begin": "2018-10-07T16:00:00.000Z"
       },
       {
         "site": "youku",
         "id": "025a041ead444cad8b64",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -2510,7 +1824,6 @@
     "officialSite": "https://www.seizeiganbare.jp",
     "begin": "2018-10-27T16:00:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -2519,12 +1832,7 @@
       {
         "site": "nicovideo",
         "id": "seizeiganbare02",
-        "begin": "2018-11-05T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-11-05T15:00:00.000Z"
       }
     ]
   },
@@ -2540,7 +1848,6 @@
     "officialSite": "http://yamato2202.net",
     "begin": "2018-10-05T16:00:00.000Z",
     "end": "2019-03-29T16:23:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -2549,12 +1856,7 @@
       {
         "site": "pptv",
         "id": "ticLbWcEnl9U4th4",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -2570,7 +1872,6 @@
     "officialSite": "http://www.thunderboltfantasy.com/season2/",
     "begin": "2018-10-01T16:00:00.000Z",
     "end": "2018-12-24T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -2579,12 +1880,7 @@
       {
         "site": "youku",
         "id": "20ec0115cf6d4e5ab5e1",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -2600,7 +1896,6 @@
     "officialSite": "http://roosterteeth.com/show/rwby",
     "begin": "2018-10-27T16:00:00.000Z",
     "end": "2019-01-26T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -2608,13 +1903,8 @@
       },
       {
         "site": "bilibili",
-        "id": "25955",
-        "begin": "2018-10-26T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "2430940",
+        "begin": "2018-10-26T16:00:01.000Z"
       }
     ]
   }

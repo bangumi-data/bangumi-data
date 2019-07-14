@@ -11,17 +11,11 @@
     "officialSite": "http://www.mousou.tv/",
     "begin": "2004-02-02T15:05:00.000Z",
     "end": "2004-05-17T15:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "DCEcmgJo2BZ5918",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -30,12 +24,7 @@
       {
         "site": "bilibili",
         "id": "1917",
-        "begin": "2004-02-01T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2004-02-01T16:00:00.000Z"
       }
     ]
   },
@@ -51,31 +40,15 @@
     "officialSite": "http://www.yu-go.jp/",
     "begin": "2004-02-24T15:00:00.000Z",
     "end": "2004-05-25T15:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "uIeCAGjOPnzfXcU",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
         "id": "3305"
-      },
-      {
-        "site": "bilibili",
-        "id": "1933",
-        "begin": "2004-02-23T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
       }
     ]
   },
@@ -91,17 +64,11 @@
     "officialSite": "",
     "begin": "2004-02-21T16:00:00.000Z",
     "end": "2004-02-21T17:40:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "xayIBm7URILlY8s",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -121,7 +88,6 @@
     "officialSite": "http://www.toei-anim.co.jp/movie/2004_seiya/index.html",
     "begin": "2004-02-14T16:00:00.000Z",
     "end": "2004-02-14T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -130,22 +96,12 @@
       {
         "site": "nicovideo",
         "id": "saint_seiya",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhb4um9",
-        "begin": "2016-02-16T07:22:34.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-02-16T07:22:34.000Z"
       }
     ]
   }

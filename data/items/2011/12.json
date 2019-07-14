@@ -12,27 +12,16 @@
     "officialSite": "http://www.gundam-seed.net/",
     "begin": "2011-12-23T16:00:00.000Z",
     "end": "2012-11-25T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrk21ldh",
-        "begin": "2017-03-02T09:20:16.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-03-02T09:20:16.000Z"
       },
       {
         "site": "qq",
         "id": "d/dm1mifa4wc4jssg",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -52,7 +41,6 @@
     "officialSite": "",
     "begin": "2011-12-01T16:00:00.000Z",
     "end": "2011-12-01T16:12:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -72,7 +60,6 @@
     "officialSite": "",
     "begin": "2011-12-23T16:00:00.000Z",
     "end": "2011-12-23T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -92,17 +79,11 @@
     "officialSite": "http://basketarmy.jp/",
     "begin": "2011-12-22T16:00:00.000Z",
     "end": "2012-12-20T16:05:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "ncmzMZnicb60QjvY",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -111,22 +92,7 @@
       {
         "site": "letv",
         "id": "72940",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "id": "830",
-        "begin": "2011-12-21T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -142,17 +108,11 @@
     "officialSite": "",
     "begin": "2011-12-14T16:00:00.000Z",
     "end": "2012-01-18T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "3gYCgOhOvvxf3UU",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -172,7 +132,6 @@
     "officialSite": "http://lupin-3rd.net/",
     "begin": "2011-12-02T16:00:00.000Z",
     "end": "2011-12-02T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -181,12 +140,7 @@
       {
         "site": "bilibili",
         "id": "3953",
-        "begin": "2011-12-01T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2011-12-01T16:00:01.000Z"
       }
     ]
   },
@@ -202,17 +156,11 @@
     "officialSite": "http://www.kyousogiga.com/",
     "begin": "2011-12-10T16:00:00.000Z",
     "end": "2011-12-10T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "UYVicicWXLO3ncWsI",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -221,12 +169,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhb4oit",
-        "begin": "2015-09-23T08:10:24.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-09-23T08:10:24.000Z"
       }
     ]
   },
@@ -242,7 +185,6 @@
     "officialSite": "http://www.tbs.co.jp/anime/k-on/",
     "begin": "2011-12-03T16:00:00.000Z",
     "end": "2011-12-03T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -251,12 +193,7 @@
       {
         "site": "nicovideo",
         "id": "k-on_movie",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   }

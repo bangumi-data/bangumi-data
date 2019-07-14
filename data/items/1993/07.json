@@ -11,7 +11,6 @@
     "officialSite": "http://lupin-3rd.net/sakuhin_tvsp.html",
     "begin": "1993-07-23T16:00:00.000Z",
     "end": "1993-07-23T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -20,32 +19,17 @@
       {
         "site": "nicovideo",
         "id": "lupin-3rd-SP",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "pptv",
         "id": "ibZ32dNxCsvBT0Tk",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "3935",
-        "begin": "1993-07-22T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1993-07-22T16:00:01.000Z"
       }
     ]
   },
@@ -61,7 +45,6 @@
     "officialSite": "",
     "begin": "1993-07-10T16:00:00.000Z",
     "end": "1993-07-10T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -70,12 +53,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhb54vl",
-        "begin": "2015-08-04T01:02:58.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-08-04T01:02:58.000Z"
       }
     ]
   },
@@ -91,7 +69,6 @@
     "officialSite": "",
     "begin": "1993-07-10T16:00:00.000Z",
     "end": "1993-07-10T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -100,22 +77,12 @@
       {
         "site": "nicovideo",
         "id": "DBZ_gingagirigiri",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhb4015",
-        "begin": "2016-02-04T10:34:13.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-02-04T10:34:13.000Z"
       }
     ]
   },
@@ -131,26 +98,15 @@
     "officialSite": "http://www.shinchan-movie.com/",
     "begin": "1993-07-24T16:00:00.000Z",
     "end": "1993-07-24T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "3aGLCXHXR4XoZs4",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": "",
         "url": "http://www.iqiyi.com/dongman/20130715/839f4bf2c2cbe419.html"
       },
       {
@@ -160,22 +116,12 @@
       {
         "site": "qq",
         "id": "b/bymafsjpccgo4bw",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
-        "id": "3868",
-        "begin": "1993-07-23T16:00:01.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "18452",
+        "begin": "1993-07-23T16:00:01.000Z"
       }
     ]
   }

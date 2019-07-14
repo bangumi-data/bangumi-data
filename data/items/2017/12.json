@@ -11,7 +11,6 @@
     "officialSite": "http://donten-anime.jp/",
     "begin": "2017-12-02T16:00:00.000Z",
     "end": "2017-12-02T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -20,22 +19,12 @@
       {
         "site": "nicovideo",
         "id": "donten-anime",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
-        "id": "25450",
-        "begin": "2018-09-01T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "128432",
+        "begin": "2018-09-01T03:00:00.000Z"
       }
     ]
   },
@@ -51,7 +40,6 @@
     "officialSite": "http://touken-hanamaru.jp/movie/",
     "begin": "2017-12-01T16:00:00.000Z",
     "end": "2017-12-01T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -60,12 +48,7 @@
       {
         "site": "qq",
         "id": "k/kb42ukton38fpbn",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -81,7 +64,6 @@
     "officialSite": "http://www.inazma-delivery.com",
     "begin": "2017-12-08T16:00:00.000Z",
     "end": "2018-03-02T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -90,32 +72,17 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh71jc5",
-        "begin": "2018-07-04T00:00:11.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-07-04T00:00:11.000Z"
       },
       {
         "site": "nicovideo",
         "id": "inazma-delivery2",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "youku",
         "id": "712415662cab4b149550",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   }

@@ -11,7 +11,6 @@
     "officialSite": "http://www.broccoli.co.jp/dejiko/panyo/",
     "begin": "2002-01-05T15:30:00.000Z",
     "end": "2002-09-30T03:07:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -31,17 +30,11 @@
     "officialSite": "http://www.d-rights.com/beyblade/2002/",
     "begin": "2002-01-07T09:00:00.000Z",
     "end": "2002-12-30T09:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "3WxIxia6UBEKlI4s",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -61,7 +54,6 @@
     "officialSite": "http://www.toei-anim.co.jp/tv/niku/",
     "begin": "2002-01-09T09:00:00.000Z",
     "end": "2002-12-25T09:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -81,7 +73,6 @@
     "officialSite": "http://www.telecom-anime.com/patapata/japanese/",
     "begin": "2002-01-05T22:00:00.000Z",
     "end": "2002-07-29T22:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -101,17 +92,11 @@
     "officialSite": "http://www.mediafactory.co.jp/anime/rahxephon/index.html",
     "begin": "2002-01-21T15:00:00.000Z",
     "end": "2002-09-10T15:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "3WxX1T2jE1G0Mpo",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -120,22 +105,12 @@
       {
         "site": "nicovideo",
         "id": "rahxephon",
-        "begin": "2012-05-02T06:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2012-05-02T06:00:00.000Z"
       },
       {
         "site": "bilibili",
         "id": "2079",
-        "begin": "2002-01-20T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2002-01-20T16:00:00.000Z"
       }
     ]
   },
@@ -151,47 +126,26 @@
     "officialSite": "http://www.please-please.jp/one/",
     "begin": "2002-01-10T22:00:00.000Z",
     "end": "2002-03-28T22:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "6CEbmQFn1xV49l4",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrh9aqwp",
-        "begin": "2017-02-28T16:01:13.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-02-28T16:01:13.000Z"
       },
       {
         "site": "qq",
         "id": "0/0kaee397yk6ou0e",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "letv",
         "id": "37048",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -200,12 +154,7 @@
       {
         "site": "bilibili",
         "id": "2068",
-        "begin": "2002-01-09T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2002-01-09T16:00:00.000Z"
       }
     ]
   },
@@ -221,31 +170,15 @@
     "officialSite": "http://www.sonymusic.co.jp/Animation/mirage/",
     "begin": "2002-01-07T13:30:00.000Z",
     "end": "2002-04-01T14:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "ZaehH4ftXZvibfOQ",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
         "id": "2914"
-      },
-      {
-        "site": "bilibili",
-        "id": "2078",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
       }
     ]
   },
@@ -261,7 +194,6 @@
     "officialSite": "http://www.tdd-1.com/",
     "begin": "2002-01-15T01:30:00.000Z",
     "end": "2002-06-25T02:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -281,17 +213,11 @@
     "officialSite": "http://www.fujitv.co.jp/jp/b_hp/kanon/index.html",
     "begin": "2002-01-30T18:25:00.000Z",
     "end": "2002-03-27T18:55:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "qox39V3DM3HUUro",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -300,12 +226,7 @@
       {
         "site": "bilibili",
         "id": "1374",
-        "begin": "2002-01-29T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2002-01-29T16:00:00.000Z"
       }
     ]
   },
@@ -321,21 +242,10 @@
     "officialSite": "http://web.archive.org/*/http://www.tv-tokyo.co.jp/anime/nana/main_index.html",
     "begin": "2002-01-10T16:00:00.000Z",
     "end": "2002-06-27T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "74906"
-      },
-      {
-        "site": "bilibili",
-        "id": "5251",
-        "begin": "2002-01-09T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
       }
     ]
   },
@@ -351,41 +261,20 @@
     "officialSite": "",
     "begin": "2002-01-03T16:00:00.000Z",
     "end": "2002-03-28T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "Wt6pJ4ic1ZaMGhOw",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "qq",
         "id": "c/cojjinwv7myueh1",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
         "id": "11514"
-      },
-      {
-        "site": "bilibili",
-        "id": "2044",
-        "begin": "2002-01-02T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
       }
     ]
   },
@@ -401,7 +290,6 @@
     "officialSite": "",
     "begin": "2002-01-17T16:00:00.000Z",
     "end": "2002-04-17T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -410,12 +298,7 @@
       {
         "site": "pptv",
         "id": "ooWAicmbMPHrdW8M",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   }

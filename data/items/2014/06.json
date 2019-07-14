@@ -7,87 +7,41 @@
     "officialSite": "http://ac.qq.com/event/sxdh/index.shtml",
     "begin": "2014-06-27T12:00:00.000Z",
     "end": "2016-01-20T12:15:00.000Z",
-    "comment": "",
     "sites": [
-      {
-        "site": "acfun",
-        "id": "1470010",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
       {
         "site": "bilibili",
         "id": "1700",
-        "begin": "2014-07-24T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2014-07-24T16:00:00.000Z"
       },
       {
         "site": "pptv",
         "id": "tQfQT7cdjcsurDA",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "qq",
         "id": "b/bo64ctd5rtyc2fi",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhlwfaw",
-        "begin": "2014-09-12T06:20:12.000Z",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": "2014-09-12T06:20:12.000Z"
       },
       {
         "site": "letv",
         "id": "10002875",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "sohu",
         "id": "s2014/wpys",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "mgtv",
         "id": "100147",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -107,7 +61,6 @@
     "officialSite": "http://www.toei-anim.co.jp/movie/seiya_cg/",
     "begin": "2014-06-21T16:00:00.000Z",
     "end": "2014-06-21T17:35:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -116,12 +69,7 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhb4um9",
-        "begin": "2016-02-16T07:22:34.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-02-16T07:22:34.000Z"
       }
     ]
   },
@@ -137,7 +85,6 @@
     "officialSite": "http://www.daikaijyu.com/rush/",
     "begin": "2014-06-24T16:00:00.000Z",
     "end": "2014-10-14T16:05:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -157,17 +104,11 @@
     "officialSite": "http://www.tv-tokyo.co.jp/anime/inazumago/best_eleven/",
     "begin": "2014-06-13T16:00:00.000Z",
     "end": "2014-06-13T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "50AsqhJ46CaJB28",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -187,17 +128,11 @@
     "officialSite": "",
     "begin": "2014-06-17T16:00:00.000Z",
     "end": "2014-06-17T16:04:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "wlo2tByC8jCTEXk",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -213,7 +148,6 @@
     "officialSite": "http://puyukai.com/agukaru/",
     "begin": "2014-06-06T16:00:00.000Z",
     "end": "2015-03-28T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -222,12 +156,7 @@
       {
         "site": "nicovideo",
         "id": "agukaru",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -246,7 +175,6 @@
     "officialSite": "http://www.p3m.jp/",
     "begin": "2014-06-07T16:00:00.000Z",
     "end": "2014-06-07T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -255,22 +183,12 @@
       {
         "site": "nicovideo",
         "id": "p3m",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "netflix",
         "id": "80040329",
-        "begin": "2015-08-07T07:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-08-07T07:00:00.000Z"
       }
     ]
   },
@@ -289,7 +207,6 @@
     "officialSite": "http://kokaku-a.jp/arise/",
     "begin": "2014-06-17T16:00:00.000Z",
     "end": "2014-06-17T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -298,12 +215,7 @@
       {
         "site": "netflix",
         "id": "80021983",
-        "begin": "2017-01-31T08:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-01-31T08:00:00.000Z"
       }
     ]
   }

@@ -11,7 +11,6 @@
     "officialSite": "http://www.supermilk-chan.com/",
     "begin": "2000-01-27T16:00:00.000Z",
     "end": "2000-04-13T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -20,12 +19,7 @@
       {
         "site": "nicovideo",
         "id": "oh-supermilk-chan",
-        "begin": "2011-06-17T12:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2011-06-17T12:00:00.000Z"
       }
     ]
   },
@@ -41,7 +35,6 @@
     "officialSite": "http://www.b-ch.com/cgi-bin/contents/ttl/det.cgi?ttl_c=416",
     "begin": "2000-01-26T16:00:00.000Z",
     "end": "2000-04-19T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -50,12 +43,7 @@
       {
         "site": "bilibili",
         "id": "2151",
-        "begin": "2000-01-25T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2000-01-25T16:00:00.000Z"
       }
     ]
   },
@@ -71,17 +59,11 @@
     "officialSite": "",
     "begin": "2000-01-10T16:00:00.000Z",
     "end": "2000-03-27T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "qq",
         "id": "m/m0gjz15r0yh4530",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -90,12 +72,7 @@
       {
         "site": "bilibili",
         "id": "2167",
-        "begin": "2000-01-09T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2000-01-09T16:00:00.000Z"
       }
     ]
   },
@@ -111,17 +88,11 @@
     "officialSite": "",
     "begin": "2000-01-05T16:00:00.000Z",
     "end": "2000-03-22T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "BCkUkvpg0A5x71c",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -130,22 +101,12 @@
       {
         "site": "bilibili",
         "id": "2150",
-        "begin": "2000-01-04T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2000-01-04T16:00:00.000Z"
       },
       {
         "site": "nicovideo",
         "id": "boogiepop-phantom",
-        "begin": "2018-09-21T09:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-09-21T09:00:00.000Z"
       }
     ]
   }

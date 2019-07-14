@@ -11,27 +11,16 @@
     "officialSite": "http://seikishi.com/",
     "begin": "2009-05-01T16:00:00.000Z",
     "end": "2009-05-26T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "vOzYVr4klNI1sxs",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "letv",
         "id": "6376",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -51,7 +40,6 @@
     "officialSite": "http://www.first-squad.com/",
     "begin": "2009-05-13T16:00:00.000Z",
     "end": "2009-05-13T17:15:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -72,27 +60,16 @@
     "officialSite": "http://www.tenipuri.jp/dvd05/01.html",
     "begin": "2009-05-26T16:00:00.000Z",
     "end": "2009-09-25T17:15:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "MRXicfeVLuiclc2kI",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrjrjyhp",
-        "begin": "2013-01-29T07:31:47.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2013-01-29T07:31:47.000Z"
       },
       {
         "site": "bangumi",
@@ -101,22 +78,12 @@
       {
         "site": "mgtv",
         "id": "103523",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
-        "id": "23775",
-        "begin": "2009-05-26T12:09:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "73412",
+        "begin": "2009-05-26T12:09:00.000Z"
       }
     ]
   },
@@ -132,31 +99,15 @@
     "officialSite": "http://annex.s-manga.net/dogs/",
     "begin": "2009-05-19T16:00:00.000Z",
     "end": "2009-07-17T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "7VYxrxd97SuODHQ",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
         "id": "2430"
-      },
-      {
-        "site": "bilibili",
-        "id": "4705",
-        "begin": "2009-05-18T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
       }
     ]
   },
@@ -172,7 +123,6 @@
     "officialSite": "",
     "begin": "2009-05-01T16:00:00.000Z",
     "end": "2009-12-04T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -181,12 +131,7 @@
       {
         "site": "letv",
         "id": "12878",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   }

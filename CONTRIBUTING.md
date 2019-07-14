@@ -62,19 +62,15 @@ dist/                                --> 存放构建后数据的目录
     "type": "tv", // 番组类型 [required]
     "lang": "ja", // 番组语言 [required]
     "officialSite": "http://re-zero-anime.jp/", // 官网 [required]
-    "begin": "2016-04-03T16:35:00.000Z", // tv/web：番组开始时间；movie：上映日期；ova：首话发售时间（未确定则置空） [required]
+    "begin": "2016-04-03T16:35:00.000Z", // tv/web：番组开始时间；movie：上映日期；ova：首话发售时间 [required]
     "end": "", // tv/web：番组完结时间；movie：无意义；ova：则为最终话发售时间（未确定则置空） [required]
-    "comment": "", // 备注 [required]
+    "comment": "", // 备注
     "sites": [ // 站点 [required]
         // 放送站点
         {
             "site": "bilibili", // 站点 name，请和最外层 sites 字段中的元数据对应 [required]
             "id": "3461", // 站点 id，可用于替换模板中相应的字段
             "url": "http://www.bilibili.com/sp/物语系列", // url，如果当前url不符合urlTemplate中的规则时使用，优先级高于id
-            "official": true, // 是否为官方放送（若不确定则为 null）。
-            "premuiumOnly": false, // 是否为收费观看（若不确定则为 null）。
-            "censored": false, // 是否有被和谐的情况存在（若不确定则为 null）。
-            "exist": true, // 是否有实际视频（若不确定则为 null）。
             "begin": "2016-04-03T17:35:00.000Z", // 放送开始时间。
             "comment": "" // 备注
         },
@@ -99,7 +95,7 @@ dist/                                --> 存放构建后数据的目录
     // 站点字段名，和番组数据中 sites 数组中元素的 site 字段名对应
     "bangumi": {
         "title": "番组计划", // 站点名称 [required]
-        "urlTemplate": "http://bangumi.tv/subject/{{id}}" // 站点 url 模板
+        "urlTemplate": "https://bangumi.tv/subject/{{id}}" // 站点 url 模板
     }
 }
 ```
@@ -108,21 +104,21 @@ dist/                                --> 存放构建后数据的目录
 
 通过站点的 `site` 字段获取到站点元数据中相应的 `urlTemplate`，并用相应的字段数据替换掉模板中用两层花括号包裹的占位符。
 
-例如：`id` 为 `12345`，`urlTemplate` 为 `http://www.a.com/?id={{id}}`，则替换后为 `http://www.a.com/?id=12345`
+例如：`id` 为 `12345`，`urlTemplate` 为 `https://www.a.com/?id={{id}}`，则替换后为 `https://www.a.com/?id=12345`
 
 各个放送站点的 url 均为专辑页面，以下列表中，突出部分为 id：
 
-* [http://www.acfun.cn/v/ab<kbd>1480039</kbd>](http://www.acfun.cn/v/ab1480039)
-* [https://bangumi.bilibili.com/anime/<kbd>5507</kbd>](https://bangumi.bilibili.com/anime/5507)
-* [http://www.iqiyi.com/<kbd>a_19rrh9uqb5</kbd>.html](http://www.iqiyi.com/a_19rrh9uqb5.html)
-* [http://movie.kankan.com/movie/<kbd>87458</kbd>](http://movie.kankan.com/movie/87458)
+* [https://www.acfun.cn/bangumi/aa<kbd>5022161</kbd>](https://www.acfun.cn/bangumi/aa5022161)
+* [https://www.bilibili.com/bangumi/media/md<kbd>5507</kbd>](https://www.bilibili.com/bangumi/media/md5507)
+* [https://www.iqiyi.com/<kbd>a_19rrh9uqb5</kbd>.html](https://www.iqiyi.com/a_19rrh9uqb5.html)
 * [https://www.le.com/comic/<kbd>10029954</kbd>.html](https://www.le.com/comic/10029954.html)
 * [https://www.mgtv.com/h/<kbd>301218</kbd>.html](https://www.mgtv.com/h/301218.html)
-* [http://ch.nicovideo.jp/<kbd>kemono-friends</kbd>](http://ch.nicovideo.jp/kemono-friends)
+* [https://ch.nicovideo.jp/<kbd>kemono-friends</kbd>](https://ch.nicovideo.jp/kemono-friends)
 * [http://v.pptv.com/page/<kbd>adq2NJwCcrATkfk</kbd>.html](http://v.pptv.com/page/adq2NJwCcrATkfk.html)
 * [https://tv.sohu.com/<kbd>s2011/yjdwb</kbd>](https://tv.sohu.com/s2011/yjdwb/)
 * [https://v.qq.com/detail/<kbd>g/gyf3u5vx0m42531</kbd>.html](https://v.qq.com/detail/g/gyf3u5vx0m42531.html)
 * [https://list.youku.com/show/id_z<kbd>4d8cce35815111e6b16e</kbd>.html](https://list.youku.com/show/id_z4d8cce35815111e6b16</kbd>.html)
+* [https://www.netflix.com/title/<kbd>81033445</kbd>](https://www.netflix.com/title/81033445)
 
 ## 验证
 

@@ -11,27 +11,16 @@
     "officialSite": "",
     "begin": "1989-03-25T16:00:00.000Z",
     "end": "1989-08-25T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "cq2XFX3jU5H0cto",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "qq",
         "id": "h/hyeg0kuopccwl8b",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -51,7 +40,6 @@
     "officialSite": "",
     "begin": "1989-03-18T16:00:00.000Z",
     "end": "1989-03-18T16:45:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -60,22 +48,12 @@
       {
         "site": "nicovideo",
         "id": "saint_seiya",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhb4um9",
-        "begin": "2016-02-16T07:22:34.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-02-16T07:22:34.000Z"
       }
     ]
   },
@@ -91,17 +69,11 @@
     "officialSite": "",
     "begin": "1989-03-11T16:00:00.000Z",
     "end": "1989-03-11T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "79694",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -110,32 +82,17 @@
       {
         "site": "pptv",
         "id": "7qoHhe1TwwFk4ko",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "qq",
         "id": "z/z8alyhrvkd3jp2y",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "2557",
-        "begin": "1989-03-10T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1989-03-10T16:00:00.000Z"
       }
     ]
   }

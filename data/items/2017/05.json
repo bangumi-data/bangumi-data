@@ -11,7 +11,6 @@
     "officialSite": "http://www.tv-tokyo.co.jp/anime/yugioh-vrains/",
     "begin": "2017-05-10T09:25:00.000Z",
     "end": "",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -20,32 +19,17 @@
       {
         "site": "nicovideo",
         "id": "yugioh-vrains",
-        "begin": "2017-06-05T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-06-05T15:00:00.000Z"
       },
       {
         "site": "pptv",
         "id": "IxYCgOhOvvxf3UU",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "youku",
         "id": "cc91efbfbd44354211ef",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -61,7 +45,6 @@
     "officialSite": "http://gaga.ne.jp/FT.DC/",
     "begin": "2017-05-06T16:00:00.000Z",
     "end": "2017-05-06T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -70,12 +53,7 @@
       {
         "site": "nicovideo",
         "id": "FT_DC",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -87,7 +65,6 @@
     "officialSite": "http://www.blame.jp/",
     "begin": "2017-05-20T16:00:00.000Z",
     "end": "2017-05-20T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -96,22 +73,12 @@
       {
         "site": "nicovideo",
         "id": "blame",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "netflix",
         "id": "80115466",
-        "begin": "2017-05-19T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-05-19T15:00:00.000Z"
       }
     ]
   },
@@ -127,7 +94,6 @@
     "officialSite": "http://biohazard-vendetta.com/",
     "begin": "2017-05-27T16:00:00.000Z",
     "end": "2017-05-27T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -136,12 +102,7 @@
       {
         "site": "letv",
         "id": "10037456",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -153,7 +114,6 @@
     "officialSite": "http://www.tv-osaka.co.jp/ip4/jcd/short_anime.html",
     "begin": "2017-05-07T16:00:00.000Z",
     "end": "2018-03-25T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -162,12 +122,7 @@
       {
         "site": "nicovideo",
         "id": "caribadix",
-        "begin": "2018-04-27T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-04-27T15:00:00.000Z"
       }
     ]
   }

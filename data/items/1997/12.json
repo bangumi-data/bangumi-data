@@ -11,21 +11,10 @@
     "officialSite": "http://www.anime-int.com/works/burn-up/scramble/",
     "begin": "1997-12-12T16:00:00.000Z",
     "end": "1998-07-01T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "36810"
-      },
-      {
-        "site": "bilibili",
-        "id": "4028",
-        "begin": "1997-12-11T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
       }
     ]
   },
@@ -41,17 +30,11 @@
     "officialSite": "http://www.macross.co.jp/",
     "begin": "1997-12-18T16:00:00.000Z",
     "end": "1998-07-25T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "qq",
         "id": "j/j9j0tgpss02qg39",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -71,27 +54,16 @@
     "officialSite": "http://www.macross.co.jp/",
     "begin": "1997-12-20T16:00:00.000Z",
     "end": "1997-12-20T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "zmRf3UWrG1m8OqI",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "qq",
         "id": "6/6dypzbjwcdovtjd",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -111,7 +83,6 @@
     "officialSite": "",
     "begin": "1997-12-18T16:00:00.000Z",
     "end": "1998-07-25T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -120,22 +91,12 @@
       {
         "site": "pptv",
         "id": "zgP9eibNJufda2EA",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "2291",
-        "begin": "1997-12-17T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1997-12-17T16:00:00.000Z"
       }
     ]
   }

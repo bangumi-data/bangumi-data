@@ -11,17 +11,11 @@
     "officialSite": "http://www.fujitv.co.jp/b_hp/fullmeta/",
     "begin": "2003-08-25T17:28:00.000Z",
     "end": "2003-11-17T18:23:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "mgtv",
         "id": "291729",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -30,12 +24,7 @@
       {
         "site": "qq",
         "id": "f/ftkqogti5jszz3n",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -51,7 +40,6 @@
     "officialSite": "http://www.ytv.co.jp/massugu03/",
     "begin": "2003-08-18T00:55:00.000Z",
     "end": "2003-08-21T01:20:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -71,7 +59,6 @@
     "officialSite": "http://lupin-3rd.net/sakuhin_tvsp.html",
     "begin": "2003-08-01T16:00:00.000Z",
     "end": "2003-08-01T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -80,32 +67,17 @@
       {
         "site": "nicovideo",
         "id": "lupin-3rd-SP",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "pptv",
         "id": "ibZ32dNxCsvBT0Tk",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "3952",
-        "begin": "2003-07-31T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2003-07-31T16:00:01.000Z"
       }
     ]
   },
@@ -121,7 +93,6 @@
     "officialSite": "",
     "begin": "2003-08-22T16:00:00.000Z",
     "end": "2003-08-29T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -130,22 +101,12 @@
       {
         "site": "pptv",
         "id": "CjsGhOxSwgBj4Uk",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "3969",
-        "begin": "2003-08-21T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2003-08-21T16:00:01.000Z"
       }
     ]
   }

@@ -11,17 +11,11 @@
     "officialSite": "",
     "begin": "1993-08-07T16:00:00.000Z",
     "end": "1993-08-07T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "qq",
         "id": "m/mmgowdl01xcnz23",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -30,22 +24,12 @@
       {
         "site": "nicovideo",
         "id": "PATLABOR_02",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "4015",
-        "begin": "1993-08-06T16:00:01.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1993-08-06T16:00:01.000Z"
       }
     ]
   }

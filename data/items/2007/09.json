@@ -11,17 +11,11 @@
     "officialSite": "http://web.archive.org/web/*/www.moonlightmile.jp/",
     "begin": "2007-09-13T14:00:00.000Z",
     "end": "2007-12-13T14:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "zgH7eeFHticVY1j4",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -41,31 +35,15 @@
     "officialSite": "",
     "begin": "2007-09-15T16:00:00.000Z",
     "end": "2007-09-15T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "qq",
         "id": "4/4huihrcxu6nvc1x",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
         "id": "3686"
-      },
-      {
-        "site": "bilibili",
-        "id": "1179",
-        "begin": "2007-09-14T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
       }
     ]
   },
@@ -81,7 +59,6 @@
     "officialSite": "http://www.evangelion.co.jp/",
     "begin": "2007-09-01T16:00:00.000Z",
     "end": "2007-09-01T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -90,22 +67,12 @@
       {
         "site": "qq",
         "id": "t/tr5q6ohz06g4tzx",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "nicovideo",
         "id": "evangelion_new_movie_jo",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -121,7 +88,6 @@
     "officialSite": "http://www.stranja.jp/",
     "begin": "2007-09-29T16:00:00.000Z",
     "end": "2007-09-29T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -130,22 +96,12 @@
       {
         "site": "qq",
         "id": "n/n845812mqzji6l1",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "3151",
-        "begin": "2007-09-29T16:00:00.000Z",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2007-09-29T16:00:00.000Z"
       }
     ]
   }

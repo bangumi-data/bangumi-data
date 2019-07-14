@@ -11,7 +11,6 @@
     "officialSite": "http://www.tt2-anime.com/top.html",
     "begin": "2006-11-11T16:00:00.000Z",
     "end": "2007-02-17T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -31,7 +30,6 @@
     "officialSite": "http://web.archive.org/web/*/www.rgbadv.com/",
     "begin": "2006-11-19T00:30:00.000Z",
     "end": "2007-01-21T01:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -51,17 +49,11 @@
     "officialSite": "http://web.archive.org/web/*/www.s-strain.jp/",
     "begin": "2006-11-01T22:00:00.000Z",
     "end": "2007-02-14T15:35:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "zficJR68VhcMmpAw",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -82,27 +74,16 @@
     "officialSite": "http://www.sonypictures.jp/movies/paprika/",
     "begin": "2006-11-25T16:00:00.000Z",
     "end": "2006-11-25T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "QCoGhOxSwgBj4Uk",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "letv",
         "id": "10002033",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -122,7 +103,6 @@
     "officialSite": "http://www.gokigenyou.com/",
     "begin": "2006-11-29T16:00:00.000Z",
     "end": "2007-07-25T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -131,22 +111,7 @@
       {
         "site": "pptv",
         "id": "Mn1HxS2TA0GkIoo",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
-      },
-      {
-        "site": "bilibili",
-        "id": "2704",
-        "begin": "2006-11-28T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   }

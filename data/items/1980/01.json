@@ -12,17 +12,11 @@
     "officialSite": "",
     "begin": "1980-01-06T16:00:00.000Z",
     "end": "1980-12-28T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrk0lwe9",
-        "begin": "2012-04-05T02:25:39.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2012-04-05T02:25:39.000Z"
       },
       {
         "site": "bangumi",
@@ -38,7 +32,6 @@
     "officialSite": "http://www.tatsunoko.co.jp/works/archive/littlebit.html",
     "begin": "1980-01-07T23:00:00.000Z",
     "end": "1980-06-30T23:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -61,7 +54,6 @@
     "officialSite": "http://www9.nhk.or.jp/anime/nils/",
     "begin": "1980-01-08T12:00:00.000Z",
     "end": "1981-03-17T13:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -70,12 +62,7 @@
       {
         "site": "bilibili",
         "id": "2447",
-        "begin": "1980-01-07T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1980-01-07T16:00:00.000Z"
       }
     ]
   }

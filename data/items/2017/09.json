@@ -11,7 +11,6 @@
     "officialSite": "",
     "begin": "2017-09-13T16:00:00.000Z",
     "end": "2017-09-13T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -20,42 +19,22 @@
       {
         "site": "mgtv",
         "id": "322697",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "qq",
         "id": "j/jodsh3q8h6lulgl",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "letv",
         "id": "10038142",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "youku",
         "id": "efbfbdd398efbfbdefbf",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -71,7 +50,6 @@
     "officialSite": "http://digimon-adventure.net/",
     "begin": "2017-09-30T16:00:00.000Z",
     "end": "2017-09-30T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -80,22 +58,12 @@
       {
         "site": "nicovideo",
         "id": "digimon-adventure-tri05",
-        "begin": "2018-06-01T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-06-01T03:00:00.000Z"
       },
       {
         "site": "youku",
         "id": "efbfbd42efbfbd6defbf",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -111,7 +79,6 @@
     "officialSite": "http://eurekaseven.jp/",
     "begin": "2017-09-16T16:00:00.000Z",
     "end": "2017-09-16T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -120,12 +87,7 @@
       {
         "site": "nicovideo",
         "id": "eurekaseven-hievolution1",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   }

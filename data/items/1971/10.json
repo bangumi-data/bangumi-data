@@ -12,17 +12,11 @@
     "officialSite": "",
     "begin": "1971-10-07T10:00:00.000Z",
     "end": "1972-09-28T10:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrhb12dh",
-        "begin": "2015-10-29T08:36:30.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-10-29T08:36:30.000Z"
       },
       {
         "site": "bangumi",
@@ -42,7 +36,6 @@
     "officialSite": "http://www.lupin-3rd.net/",
     "begin": "1971-10-24T03:00:00.000Z",
     "end": "1972-03-26T03:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -51,12 +44,7 @@
       {
         "site": "nicovideo",
         "id": "lupin-3rd-1st",
-        "begin": "2011-09-20T06:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2011-09-20T06:00:00.000Z"
       }
     ]
   }

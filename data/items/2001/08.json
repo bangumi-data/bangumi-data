@@ -11,7 +11,6 @@
     "officialSite": "http://lupin-3rd.net/sakuhin_tvsp.html",
     "begin": "2001-08-03T16:00:00.000Z",
     "end": "2001-08-03T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -20,32 +19,17 @@
       {
         "site": "nicovideo",
         "id": "lupin-3rd-SP",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "pptv",
         "id": "ibZ32dNxCsvBT0Tk",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "3949",
-        "begin": "2001-08-02T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2001-08-02T16:00:01.000Z"
       }
     ]
   },
@@ -61,7 +45,6 @@
     "officialSite": "http://c-you.jp/daiokishin/",
     "begin": "2001-08-18T16:00:00.000Z",
     "end": "2001-08-18T17:25:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",

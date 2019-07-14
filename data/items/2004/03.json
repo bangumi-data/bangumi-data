@@ -11,7 +11,6 @@
     "officialSite": "http://www.nifty.com/moe/hit/index.html",
     "begin": "2004-03-08T15:05:00.000Z",
     "end": "2004-04-26T15:50:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -31,7 +30,6 @@
     "officialSite": "http://www.ytv.co.jp/massugu/index.html",
     "begin": "2004-03-27T02:00:00.000Z",
     "end": "2004-04-01T02:25:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -51,17 +49,11 @@
     "officialSite": "http://www.gundam-seed.net/",
     "begin": "2004-03-22T01:30:00.000Z",
     "end": "2004-10-22T02:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "HzgDgelPvic1g3kY",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -81,41 +73,20 @@
     "officialSite": "http://www.shall-luck.co.jp/interlude",
     "begin": "2004-03-25T16:00:00.000Z",
     "end": "2004-08-27T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "12Rf3UWrG1m8OqI",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "qq",
         "id": "b/bwjz1tr8hgjt8yw",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
         "id": "3498"
-      },
-      {
-        "site": "bilibili",
-        "id": "5943",
-        "begin": "2004-03-24T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
       }
     ]
   },
@@ -131,17 +102,11 @@
     "officialSite": "",
     "begin": "2004-03-06T16:00:00.000Z",
     "end": "2004-03-06T17:40:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "81022",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -150,32 +115,17 @@
       {
         "site": "pptv",
         "id": "7qoHhe1TwwFk4ko",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "qq",
         "id": "z/z8alyhrvkd3jp2y",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "2568",
-        "begin": "2004-03-05T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2004-03-05T16:00:00.000Z"
       }
     ]
   },
@@ -191,7 +141,6 @@
     "officialSite": "",
     "begin": "2004-03-03T16:00:00.000Z",
     "end": "2004-08-18T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -200,12 +149,7 @@
       {
         "site": "pptv",
         "id": "pH9KyDCWBkSnJY0",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": null,
-        "censored": null,
-        "exist": null,
-        "comment": ""
+        "begin": ""
       }
     ]
   }

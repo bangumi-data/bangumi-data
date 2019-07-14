@@ -14,17 +14,11 @@
     "officialSite": "http://www.toei-video.co.jp/BD/slamdunk.html",
     "begin": "1993-10-16T16:00:00.000Z",
     "end": "1996-03-23T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrhb244t",
-        "begin": "2015-11-28T11:19:28.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-11-28T11:19:28.000Z"
       },
       {
         "site": "bangumi",
@@ -33,12 +27,7 @@
       {
         "site": "nicovideo",
         "id": "SLAM_DUNK",
-        "begin": "2017-11-06T03:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-11-06T03:00:00.000Z"
       }
     ]
   },
@@ -54,17 +43,11 @@
     "officialSite": "",
     "begin": "1993-10-21T16:00:00.000Z",
     "end": "1993-10-21T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "7kUvrRV76ymMCnI",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -84,7 +67,6 @@
     "officialSite": "",
     "begin": "1993-10-01T16:00:00.000Z",
     "end": "1994-02-01T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -93,22 +75,12 @@
       {
         "site": "pptv",
         "id": "Xu3YVr4klNI1sxs",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "4001",
-        "begin": "1992-12-31T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1992-12-31T16:00:01.000Z"
       }
     ]
   }

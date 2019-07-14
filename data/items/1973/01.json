@@ -11,7 +11,6 @@
     "officialSite": "http://www.mxtv.co.jp/rockychack/",
     "begin": "1973-01-07T22:30:00.000Z",
     "end": "1973-12-30T23:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -31,21 +30,10 @@
     "officialSite": "http://www.toei-anim.co.jp/lineup/tv/babil2/",
     "begin": "1973-01-01T08:00:00.000Z",
     "end": "1973-09-24T08:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "37266"
-      },
-      {
-        "site": "bilibili",
-        "id": "2140",
-        "begin": "1972-12-31T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
       }
     ]
   }

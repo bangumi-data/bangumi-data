@@ -11,7 +11,6 @@
     "officialSite": "http://www.gyao.jp/bkids/tamago/index.php",
     "begin": "2007-11-29T03:00:00.000Z",
     "end": "2008-02-14T03:03:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -31,17 +30,11 @@
     "officialSite": "http://www.shonenmagazine.com/tsubasa_tokyo/",
     "begin": "2007-11-16T16:00:00.000Z",
     "end": "2008-03-17T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "k8G7OaEHd7UYlv4",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -50,22 +43,12 @@
       {
         "site": "bilibili",
         "id": "2854",
-        "begin": "2007-11-15T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2007-11-15T16:00:00.000Z"
       },
       {
         "site": "letv",
         "id": "10387",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -77,7 +60,6 @@
     "officialSite": "",
     "begin": "2007-11-22T16:00:00.000Z",
     "end": "2007-11-22T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -86,12 +68,7 @@
       {
         "site": "nicovideo",
         "id": "ch157",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -107,7 +84,6 @@
     "officialSite": "http://www.toei-anim.co.jp/movie/2007_precure5/",
     "begin": "2007-11-10T16:00:00.000Z",
     "end": "2007-11-10T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -116,22 +92,12 @@
       {
         "site": "letv",
         "id": "89803",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhb4tzt",
-        "begin": "2015-08-07T08:45:07.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-08-07T08:45:07.000Z"
       }
     ]
   }

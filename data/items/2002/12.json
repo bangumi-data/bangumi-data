@@ -14,27 +14,16 @@
     "officialSite": "",
     "begin": "2002-12-28T16:00:00.000Z",
     "end": "2002-12-28T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "qq",
         "id": "a/acpxdje8xzn3jp4",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "letv",
         "id": "46372",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -43,12 +32,7 @@
       {
         "site": "netflix",
         "id": "70018513",
-        "begin": "2017-09-01T07:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-09-01T07:00:00.000Z"
       }
     ]
   },
@@ -64,17 +48,11 @@
     "officialSite": "",
     "begin": "2002-12-18T16:00:00.000Z",
     "end": "2003-03-26T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "0gYCgOhOvvxf3UU",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -94,17 +72,11 @@
     "officialSite": "http://www.macross.co.jp/zero/",
     "begin": "2002-12-21T16:00:00.000Z",
     "end": "2004-10-22T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "Q5Rw7la8LGrNS7M",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -113,12 +85,7 @@
       {
         "site": "bilibili",
         "id": "3566",
-        "begin": "2002-12-20T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2002-12-20T16:00:01.000Z"
       }
     ]
   },
@@ -134,7 +101,6 @@
     "officialSite": "",
     "begin": "2002-12-18T16:00:00.000Z",
     "end": "2002-12-18T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -143,12 +109,7 @@
       {
         "site": "bilibili",
         "id": "3407",
-        "begin": "2002-12-17T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2002-12-17T16:00:01.000Z"
       }
     ]
   }

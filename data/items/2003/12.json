@@ -14,37 +14,21 @@
     "officialSite": "http://www.inuyasha-movie.com/",
     "begin": "2003-12-20T16:00:00.000Z",
     "end": "2003-12-20T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "qq",
         "id": "j/jouk3zs06zpvsx1",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "letv",
         "id": "46371",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "pptv",
         "id": "56MQjvZczApt61M",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -53,12 +37,7 @@
       {
         "site": "netflix",
         "id": "70036200",
-        "begin": "2017-09-01T07:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-09-01T07:00:00.000Z"
       }
     ]
   },
@@ -74,17 +53,11 @@
     "officialSite": "http://hareguu.bandaivisual.co.jp/",
     "begin": "2003-12-21T16:00:00.000Z",
     "end": "2004-06-25T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "9VgjoQlv3x2AicmY",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -93,22 +66,12 @@
       {
         "site": "iqiyi",
         "id": "a_19rrgj957t",
-        "begin": "2014-04-09T23:31:05.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2014-04-09T23:31:05.000Z"
       },
       {
         "site": "bilibili",
         "id": "2093",
-        "begin": "2003-12-20T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2003-12-20T16:00:00.000Z"
       }
     ]
   }

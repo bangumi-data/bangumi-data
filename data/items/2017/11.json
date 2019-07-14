@@ -14,7 +14,6 @@
     "officialSite": "http://www.honeyworks-movie.jp/",
     "begin": "2017-11-24T15:00:00.000Z",
     "end": "2017-12-29T15:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -23,32 +22,17 @@
       {
         "site": "bilibili",
         "id": "6470",
-        "begin": "2017-11-24T16:30:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2017-11-24T16:30:00.000Z"
       },
       {
         "site": "pptv",
         "id": "FSkDgelPvic1g3kY",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "nicovideo",
         "id": "itsudatte",
-        "begin": "2018-07-31T15:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2018-07-31T15:00:00.000Z"
       }
     ]
   },
@@ -64,7 +48,6 @@
     "officialSite": "http://www.gochiusa.com/ova/",
     "begin": "2017-11-11T16:00:00.000Z",
     "end": "2017-11-11T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -73,22 +56,12 @@
       {
         "site": "nicovideo",
         "id": "gochiusa-dms",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
-        "id": "24702",
-        "begin": "2018-08-08T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "id": "122632",
+        "begin": "2018-08-08T16:00:00.000Z"
       }
     ]
   },
@@ -104,7 +77,6 @@
     "officialSite": "http://haikarasan.net/",
     "begin": "2017-11-11T16:00:00.000Z",
     "end": "2017-11-11T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -113,12 +85,7 @@
       {
         "site": "nicovideo",
         "id": "haikarasan",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   }

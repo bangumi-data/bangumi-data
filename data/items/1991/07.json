@@ -11,7 +11,6 @@
     "officialSite": "",
     "begin": "1991-07-14T16:00:00.000Z",
     "end": "1992-05-31T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -20,12 +19,7 @@
       {
         "site": "bilibili",
         "id": "2346",
-        "begin": "1991-07-13T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1991-07-13T16:00:00.000Z"
       }
     ]
   },
@@ -41,7 +35,6 @@
     "officialSite": "",
     "begin": "1991-07-20T16:00:00.000Z",
     "end": "1991-07-20T16:45:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -50,22 +43,12 @@
       {
         "site": "nicovideo",
         "id": "DBZ_tobikkiri",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhb4015",
-        "begin": "2016-02-04T10:34:13.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-02-04T10:34:13.000Z"
       }
     ]
   },
@@ -81,17 +64,11 @@
     "officialSite": "",
     "begin": "1991-07-25T16:00:00.000Z",
     "end": "1992-03-19T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "Ej0Ihu5UxAJl40s",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",

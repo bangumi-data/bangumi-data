@@ -7,7 +7,6 @@
     "officialSite": "http://www.nhk.or.jp/asianleaders/",
     "begin": "2013-05-09T15:00:00.000Z",
     "end": "2013-10-03T15:50:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -27,17 +26,11 @@
     "officialSite": "http://www.tv-tokyo.co.jp/anime/inazumago/",
     "begin": "2013-05-08T10:00:00.000Z",
     "end": "2014-03-19T10:55:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "TsqmJIzyYqADgek",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -60,7 +53,6 @@
     "officialSite": "http://comic-meteor.jp/sp/tendoro/",
     "begin": "2013-05-12T16:00:00.000Z",
     "end": "2013-05-12T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -69,22 +61,12 @@
       {
         "site": "letv",
         "id": "89672",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "602",
-        "begin": "2013-05-11T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2013-05-11T16:00:00.000Z"
       }
     ]
   },
@@ -100,17 +82,11 @@
     "officialSite": "http://www.kotonohanoniwa.jp",
     "begin": "2013-05-31T16:00:00.000Z",
     "end": "2013-05-31T16:40:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "87682",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -119,22 +95,12 @@
       {
         "site": "nicovideo",
         "id": "kotonohanoniwa",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "2546",
-        "begin": "2013-05-30T16:00:00.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2013-05-30T16:00:00.000Z"
       }
     ]
   },
@@ -150,7 +116,6 @@
     "officialSite": "http://www.saint023.com/",
     "begin": "2013-05-10T16:00:00.000Z",
     "end": "2013-05-10T17:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -159,32 +124,17 @@
       {
         "site": "nicovideo",
         "id": "saint023",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "pptv",
         "id": "W9fBP6cNfbsenAQ",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "3230",
-        "begin": "2013-05-09T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2013-05-09T16:00:01.000Z"
       }
     ]
   },
@@ -200,17 +150,11 @@
     "officialSite": "",
     "begin": "2013-05-21T16:00:00.000Z",
     "end": "2013-06-28T16:05:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "aibfRT7cdjcsurBQ",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -219,12 +163,7 @@
       {
         "site": "bilibili",
         "id": "679",
-        "begin": "2013-05-20T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2013-05-20T16:00:00.000Z"
       }
     ]
   }

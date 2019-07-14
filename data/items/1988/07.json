@@ -11,7 +11,6 @@
     "officialSite": "",
     "begin": "1988-07-09T16:00:00.000Z",
     "end": "1988-07-09T16:45:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -20,22 +19,12 @@
       {
         "site": "nicovideo",
         "id": "DB_makafusigi",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhb4015",
-        "begin": "2016-02-04T10:34:13.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-02-04T10:34:13.000Z"
       }
     ]
   },
@@ -51,7 +40,6 @@
     "officialSite": "",
     "begin": "1988-07-23T16:00:00.000Z",
     "end": "1988-07-23T17:15:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -60,22 +48,12 @@
       {
         "site": "nicovideo",
         "id": "saint_seiya",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhb4um9",
-        "begin": "2016-02-16T07:22:34.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2016-02-16T07:22:34.000Z"
       }
     ]
   },
@@ -91,17 +69,11 @@
     "officialSite": "http://www.pro-reed.com/works/tv_series/w016.html",
     "begin": "1988-07-02T10:00:00.000Z",
     "end": "1988-12-24T10:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "EV0npQ1z4yGEAmo",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -110,12 +82,7 @@
       {
         "site": "bilibili",
         "id": "2400",
-        "begin": "1988-07-01T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1988-07-01T16:00:00.000Z"
       }
     ]
   },
@@ -131,7 +98,6 @@
     "officialSite": "",
     "begin": "1988-07-21T16:00:00.000Z",
     "end": "1989-04-01T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -140,12 +106,7 @@
       {
         "site": "pptv",
         "id": "4086uCCG9jSXFX0",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -161,7 +122,6 @@
     "officialSite": "",
     "begin": "1988-07-16T16:00:00.000Z",
     "end": "1988-07-16T16:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -170,22 +130,12 @@
       {
         "site": "letv",
         "id": "10002031",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "5489",
-        "begin": "1988-07-15T16:00:01.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "1988-07-15T16:00:01.000Z"
       }
     ]
   }

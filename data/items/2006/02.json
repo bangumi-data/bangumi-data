@@ -11,7 +11,6 @@
     "officialSite": "http://www.mxtv.co.jp/papiyon/index.html",
     "begin": "2006-02-09T18:23:00.000Z",
     "end": "2006-03-16T19:08:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -31,17 +30,11 @@
     "officialSite": "http://www.tbs.co.jp/rec-aka/",
     "begin": "2006-02-02T17:10:00.000Z",
     "end": "2006-04-06T17:40:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "UOjTUbkfj80wrhY",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -50,12 +43,7 @@
       {
         "site": "bilibili",
         "id": "1397",
-        "begin": "2006-02-01T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2006-02-01T16:00:00.000Z"
       }
     ]
   },
@@ -74,7 +62,6 @@
     "officialSite": "http://www.ergoproxy.com/",
     "begin": "2006-02-05T08:30:00.000Z",
     "end": "2006-08-12T10:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -94,17 +81,11 @@
     "officialSite": "http://asahi.co.jp/precure_ss/",
     "begin": "2006-02-04T23:30:00.000Z",
     "end": "2007-01-28T00:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrhb156x",
-        "begin": "2015-09-02T04:11:36.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2015-09-02T04:11:36.000Z"
       },
       {
         "site": "bangumi",
@@ -124,17 +105,11 @@
     "officialSite": "http://www.tbs.co.jp/bincho/",
     "begin": "2006-02-02T03:00:00.000Z",
     "end": "2006-03-30T03:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "8D8KiaPBWxgRn5U0",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -143,12 +118,7 @@
       {
         "site": "bilibili",
         "id": "1394",
-        "begin": "2006-02-01T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2006-02-01T16:00:00.000Z"
       }
     ]
   },
@@ -164,31 +134,15 @@
     "officialSite": "http://www.geneon-ent.co.jp/rondorobe/anime/hellsing/index.html",
     "begin": "2006-02-10T16:00:00.000Z",
     "end": "2012-12-26T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "46008",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
         "id": "493"
-      },
-      {
-        "site": "bilibili",
-        "id": "2131",
-        "begin": "2006-02-09T16:00:00.000Z",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
       }
     ]
   }

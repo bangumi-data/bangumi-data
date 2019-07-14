@@ -12,17 +12,11 @@
     "officialSite": "http://www.nagoyatv.com/battlespirits_brave/",
     "begin": "2010-09-11T22:00:00.000Z",
     "end": "2011-09-10T22:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "iqiyi",
         "id": "a_19rrjskcw9",
-        "begin": "2013-01-29T04:25:14.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2013-01-29T04:25:14.000Z"
       },
       {
         "site": "bangumi",
@@ -46,57 +40,31 @@
     "officialSite": "http://www.tv-tokyo.co.jp/anime/pokemon_bw/",
     "begin": "2010-09-23T08:30:00.000Z",
     "end": "2012-06-14T09:00:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "pptv",
         "id": "icFdBvyeNicTueHIQ",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrjtscel",
-        "begin": "2012-12-25T00:42:07.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2012-12-25T00:42:07.000Z"
       },
       {
         "site": "qq",
         "id": "h/hibacbz0801byjb",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "letv",
         "id": "10006539",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "sohu",
         "id": "s2017/dhpjlbkm4",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -105,12 +73,7 @@
       {
         "site": "bilibili",
         "id": "6164",
-        "begin": "2010-09-22T16:00:01.000Z",
-        "official": true,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2010-09-22T16:00:01.000Z"
       }
     ]
   },
@@ -126,17 +89,11 @@
     "officialSite": "http://hetalia.com/top.htm",
     "begin": "2010-09-10T07:00:00.000Z",
     "end": "2011-02-18T07:05:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "letv",
         "id": "10018939",
-        "begin": "",
-        "official": null,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       },
       {
         "site": "bangumi",
@@ -145,12 +102,7 @@
       {
         "site": "nicovideo",
         "id": "hetaria-world-series",
-        "begin": "2012-12-28T07:00:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2012-12-28T07:00:00.000Z"
       }
     ]
   },
@@ -162,7 +114,6 @@
     "officialSite": "http://aquaplus.jp/th2adnext/index.html",
     "begin": "2010-09-23T16:00:00.000Z",
     "end": "2010-12-22T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -171,22 +122,12 @@
       {
         "site": "nicovideo",
         "id": "th2adnext",
-        "begin": "2012-03-03T13:30:00.000Z",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": "2012-03-03T13:30:00.000Z"
       },
       {
         "site": "pptv",
         "id": "vIx39V3DM3HUUro",
-        "begin": "",
-        "official": false,
-        "premuiumOnly": false,
-        "censored": null,
-        "exist": true,
-        "comment": ""
+        "begin": ""
       }
     ]
   },
@@ -198,7 +139,6 @@
     "officialSite": "http://puyukai.com/agukaru/",
     "begin": "2010-09-17T16:00:00.000Z",
     "end": "2014-04-01T16:30:00.000Z",
-    "comment": "",
     "sites": [
       {
         "site": "bangumi",
@@ -207,12 +147,7 @@
       {
         "site": "nicovideo",
         "id": "agukaru",
-        "begin": "",
-        "official": true,
-        "premuiumOnly": true,
-        "censored": null,
-        "exist": false,
-        "comment": ""
+        "begin": ""
       }
     ]
   }
