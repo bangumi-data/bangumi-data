@@ -1,10 +1,12 @@
 # Bangumi Data
 
-[![Build Status](https://img.shields.io/travis/bangumi-data/bangumi-data/master.svg)](https://travis-ci.org/bangumi-data/bangumi-data)
-[![NPM Version](https://img.shields.io/npm/v/bangumi-data.svg)](https://www.npmjs.com/package/bangumi-data)
-[![](https://data.jsdelivr.com/v1/package/npm/bangumi-data/badge?style=rounded)](https://www.jsdelivr.com/package/npm/bangumi-data)
-[![Slack Welcome](https://img.shields.io/badge/Slack-welcome-yellow.svg)](https://bangumi-data.slack.com)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Build Status](https://badgen.net/travis/bangumi-data/bangumi-data?icon=travis&label=build)](https://travis-ci.org/bangumi-data/bangumi-data)
+[![NPM Version](https://badgen.net/npm/v/bangumi-data?icon=npm)](https://www.npmjs.com/package/bangumi-data)
+[![License](https://badgen.net/npm/license/bangumi-data?icon=https://api.iconify.design/octicon:law.svg?color=white)](https://github.com/bangumi-data/bangumi-data#license)
+[![File size](https://badgen.net/bundlephobia/minzip/bangumi-data?icon=https://api.iconify.design/ant-design:file-zip-outline.svg?color=white)](https://bundlephobia.com/result?p=bangumi-data)
+[![jsDelivr](https://badgen.net/jsdelivr/hits/npm/bangumi-data?icon=https://api.iconify.design/simple-icons:jsdelivr.svg?color=white)](https://www.jsdelivr.com/package/npm/bangumi-data)
+[![Slack Welcome](https://badgen.net/badge/icon/welcome?icon=slack&label=slack)](https://bangumi-data.slack.com)
+[![PRs Welcome](https://badgen.net/badge/PRs/welcome?icon=https://api.iconify.design/octicon:git-pull-request.svg?color=white)](CONTRIBUTING.md)
 
 动画番组及其放送、资讯站点数据集合
 

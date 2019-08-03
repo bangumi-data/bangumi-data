@@ -95,7 +95,7 @@ dist/                                --> 存放构建后数据的目录
     // 站点字段名，和番组数据中 sites 数组中元素的 site 字段名对应
     "bangumi": {
         "title": "番组计划", // 站点名称 [required]
-        "urlTemplate": "https://bangumi.tv/subject/{{id}}" // 站点 url 模板
+        "urlTemplate": "https://bangumi.tv/subject/{{id}}" // 站点 url 模板 [required]
     }
 }
 ```
