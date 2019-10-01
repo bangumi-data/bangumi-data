@@ -34,7 +34,7 @@
     "lang": "ja",
     "officialSite": "http://coco-tama.com/",
     "begin": "2018-09-06T08:55:00.000Z",
-    "end": "",
+    "end": "2019-09-26T09:25:00.000Z",
     "sites": [
       {
         "site": "bangumi",
@@ -140,6 +140,31 @@
         "site": "nicovideo",
         "id": "flcl_alterna_progre",
         "begin": "2019-02-01T03:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 夏目友人帳 ～うつせみに結ぶ～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 夏目友人帐～缘结空蝉～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://natsume-movie.com/",
+    "begin": "2018-09-29T16:00:00.000Z",
+    "end": "2018-09-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "227392"
+      },
+      {
+        "site": "nicovideo",
+        "id": "natsume-movie",
+        "begin": ""
       }
     ]
   }

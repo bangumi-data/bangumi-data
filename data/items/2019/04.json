@@ -13,7 +13,7 @@
     "lang": "ja",
     "officialSite": "http://www.aikatsu.net/",
     "begin": "2019-04-04T09:25:00.000Z",
-    "end": "",
+    "end": "2019-09-26T09:55:00.000Z",
     "sites": [
       {
         "site": "bangumi",
@@ -1044,6 +1044,11 @@
         "site": "bilibili",
         "id": "26334240",
         "begin": "2019-04-06T17:30:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "konooto-anime",
+        "begin": "2019-08-01T03:00:00.000Z"
       }
     ]
   },
@@ -1156,7 +1161,7 @@
     "lang": "ja",
     "officialSite": "https://www.tv-tokyo.co.jp/nana-na/",
     "begin": "2019-04-11T16:00:00.000Z",
-    "end": "",
+    "end": "2019-09-19T16:00:00.000Z",
     "sites": [
       {
         "site": "bangumi",
@@ -1336,6 +1341,36 @@
         "site": "nicovideo",
         "id": "laidbackers",
         "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "战斗吧歌姬！ 第二季",
+    "titleTranslate": {
+      "zh-Hans": [
+        "战斗吧歌姬！ 第二季"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.happyelements.com/games/idols/",
+    "begin": "2019-04-10T04:00:00.000Z",
+    "end": "2019-07-10T04:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "283522"
+      },
+      {
+        "site": "bilibili",
+        "id": "19557847",
+        "begin": "2019-04-10T04:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "revdol",
+        "begin": "2019-04-19T03:00:00.000Z"
       }
     ]
   }
