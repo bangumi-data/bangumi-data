@@ -100,5 +100,35 @@
         "begin": "2019-04-17T03:00:00.000Z"
       }
     ]
+  },
+  {
+    "title": "えいがのおそ松さん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影的阿松"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://osomatsusan.com/eiga/",
+    "begin": "2019-03-15T16:00:00.000Z",
+    "end": "2019-03-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "257740"
+      },
+      {
+        "site": "nicovideo",
+        "id": "osomatsusan-movie",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28223473",
+        "begin": "2019-11-08T16:00:00.000Z"
+      }
+    ]
   }
 ]

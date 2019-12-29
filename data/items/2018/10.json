@@ -240,7 +240,7 @@
       {
         "site": "nicovideo",
         "id": "tiramisu-anime2",
-        "begin": ""
+        "begin": "2018-11-04T15:00:00.000Z"
       }
     ]
   },
@@ -1327,6 +1327,11 @@
         "site": "mgtv",
         "id": "326589",
         "begin": ""
+      },
+      {
+        "site": "acfun",
+        "id": "6000710",
+        "begin": "2019-12-19T06:28:17.000Z"
       }
     ]
   },
@@ -1910,6 +1915,36 @@
         "site": "bilibili",
         "id": "2430940",
         "begin": "2018-10-26T16:00:01.000Z"
+      }
+    ]
+  },
+  {
+    "title": "Re:ゼロから始める異世界生活 Memory Snow",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Re：从零开始的异世界生活 Memory Snow"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://re-zero-anime.jp/",
+    "begin": "2018-10-06T16:00:00.000Z",
+    "end": "2018-10-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "225462"
+      },
+      {
+        "site": "nicovideo",
+        "id": "re-zero-memory-snow",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28226008",
+        "begin": "2020-01-03T16:00:00.000Z"
       }
     ]
   }

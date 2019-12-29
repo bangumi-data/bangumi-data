@@ -16,6 +16,11 @@
       {
         "site": "bangumi",
         "id": "285545"
+      },
+      {
+        "site": "nicovideo",
+        "id": "miniyuri",
+        "begin": "2019-10-25T03:00:00.000Z"
       }
     ]
   },
@@ -86,6 +91,36 @@
         "site": "nicovideo",
         "id": "zenonzard-anime",
         "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "ご注文はうさぎですか？？～Sing For You～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "请问您今天要来点兔子吗？？～Sing for You～"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.gochiusa.com/ova2/",
+    "begin": "2019-09-26T16:00:00.000Z",
+    "end": "2019-09-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "260772"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gochiusa-sfy",
+        "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28225115",
+        "begin": "2019-12-20T16:00:00.000Z"
       }
     ]
   }

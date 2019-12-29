@@ -25,6 +25,11 @@
         "site": "bilibili",
         "id": "1473",
         "begin": "2006-05-17T16:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "demonbane",
+        "begin": "2019-12-13T06:00:00.000Z"
       }
     ]
   },
@@ -49,6 +54,31 @@
       {
         "site": "bangumi",
         "id": "10246"
+      }
+    ]
+  },
+  {
+    "title": "フルメタル・パニック! The Second Raid 特別版OVA「わりとヒマな戦隊長の一日」",
+    "titleTranslate": {
+      "zh-Hans": [
+        "全金属狂潮 TSR OVA 战队长悠闲的一天"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.tdd-1.com/0401/166.html",
+    "begin": "2006-05-26T16:00:00.000Z",
+    "end": "2006-05-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "2689"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fullmetal-panic-secondraid2",
+        "begin": ""
       }
     ]
   }
