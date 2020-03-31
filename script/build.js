@@ -9,13 +9,14 @@ const ITEMS_DIRECTORY = 'data/items/';
 const SITES_DIRECTORY = 'data/sites/';
 const DIST_PATH = 'dist/';
 const DIST_FILE_NAME = 'data.json';
+const IGNORE_PATH_REGEXP = /0000\//;
 
 /** @type {Array} 保存所有番组数据 */
 let itemsData = [];
 /** @type {Object} 保存所有站点元数据 */
 let sitesData = {};
 
-readJsonPaths(ITEMS_DIRECTORY)
+readJsonPaths(ITEMS_DIRECTORY, IGNORE_PATH_REGEXP)
     .then((itemPaths) => {
         // 根据年份和月份排序json文件
         itemPaths.sort((prev, next) => {
