@@ -7,8 +7,9 @@ const itemSchema = require('./schema/item');
 
 const ITEMS_DIRECTORY = 'data/items/';
 const SITES_DIRECTORY = 'data/sites/';
+const IGNORE_PATH_REGEXP = /0000\//;
 
-const validateItems = readJsonPaths(ITEMS_DIRECTORY)
+const validateItems = readJsonPaths(ITEMS_DIRECTORY, IGNORE_PATH_REGEXP)
     .then((itemPaths) => {
         // 同步读取所有json文件
         itemPaths.forEach((itemPath) => {
@@ -45,7 +46,7 @@ const validateSites = readJsonPaths(SITES_DIRECTORY)
     });
 
 // 验证 Bangumi ID 是唯一的
-const validateUniqueBangumiId = readJsonPaths(ITEMS_DIRECTORY)
+const validateUniqueBangumiId = readJsonPaths(ITEMS_DIRECTORY, IGNORE_PATH_REGEXP)
     .then((itemPaths) => {
         const idMap = Object.create(null);
         itemPaths.forEach((itemPath) => {
@@ -70,7 +71,7 @@ const validateUniqueBangumiId = readJsonPaths(ITEMS_DIRECTORY)
         });
     });
 
-const validateUniqueSiteInSites = readJsonPaths(ITEMS_DIRECTORY)
+const validateUniqueSiteInSites = readJsonPaths(ITEMS_DIRECTORY, IGNORE_PATH_REGEXP)
     .then((itemPaths) => {
         itemPaths.forEach((itemPath) => {
             const dataArray = fs.readJsonSync(itemPath);
