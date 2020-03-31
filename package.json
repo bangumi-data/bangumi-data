@@ -29,10 +29,10 @@
   "author": "Botao <wxt2005@gmail.com>",
   "license": "CC-BY-4.0",
   "devDependencies": {
-    "eslint": "^5.6.1",
-    "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.14.0",
-    "fs-extra": "^7.0.0",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-plugin-import": "^2.20.2",
+    "fs-extra": "^7.0.1",
     "joi": "^13.7.0",
     "klaw": "^3.0.0"
   }
