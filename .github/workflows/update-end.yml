@@ -2,7 +2,7 @@ name: Update end date for bangumi
 
 on:
   schedule:
-    - cron: '43 5 3 4 *'
+    - cron: '14 6 3 4 *'
     # - cron: '0 4 1 * *''
 
 jobs:
@@ -23,7 +23,7 @@ jobs:
           BRANCH_NAME: "update-end-${{ steps.current-time.outputs.formattedTime }}"
 
       - name: Checkout
-        uses: actions/checkout@v1
+        uses: actions/checkout@v2
 
       - name: Create a new branch
         run: git checkout -b ${{ steps.branch-name.outputs.result }}
@@ -45,11 +45,7 @@ jobs:
 
       - name: Create pull request
         if: steps.commit-changes.outputs.changes_detected == 'true'
-        uses: repo-sync/pull-request@v2
-        with:
-          source_branch: ${{ steps.branch-name.outputs.result }}
-          pr_title: "Auto end date update"
-          pr_reviewer: "wxt2005"
-          pr_assignee: "wxt2005"
-          pr_label: "action"
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          hub pull-request -m "Auto end date update" --no-edit -r $REVIEWER -a $REVIEWER
+        env:
+          REVIEWER: wxt2005
