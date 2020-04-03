@@ -2,8 +2,8 @@ name: Update end date for bangumi
 
 on:
   schedule:
-    - cron: 10 2 3 * *
-    # - cron: 0 4 1 * *
+    - cron: '15 2 3 * *'
+    # - cron: '0 4 1 * *''
 
 jobs:
   update:
