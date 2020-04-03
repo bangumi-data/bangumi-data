@@ -2,7 +2,7 @@ name: Update end date for bangumi
 
 on:
   schedule:
-    - cron: '45 4 3 4 *'
+    - cron: '26 5 3 4 *'
     # - cron: '0 4 1 * *''
 
 jobs:
@@ -38,13 +38,10 @@ jobs:
 
       - name: Commit changes
         id: commit-changes
-        uses: stefanzweifel/git-auto-commit-action@v4.1.1
+        uses: wxt2005/git-auto-commit-action@master
         with:
           commit_message: Update end date
           branch: ${{ steps.branch-name.outputs.result }}
-
-      - name: Debug commit change
-        run: echo "${{ steps.commit-changes.outputs.changes_detected }}"
 
       - name: Create pull request
         if: steps.commit-changes.outputs.changes_detected == 'true'
