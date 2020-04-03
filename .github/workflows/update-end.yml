@@ -2,7 +2,7 @@ name: Update end date for bangumi
 
 on:
   schedule:
-    - cron: '30 2 3 4 *'
+    - cron: '42 2 3 4 *'
     # - cron: '0 4 1 * *''
 
 jobs:
@@ -13,12 +13,14 @@ jobs:
       - name: Get current time
         id: current-time
         uses: srfrnk/current-time@master
+        with:
+          format: X
 
       - name: Set branch name
         id: branch-name
         run: echo "::set-output name=branch_name::$BRANCH_NAME"
         env:
-          BRANCH_NAME: "update-end-${{ steps.current-time.outputs.time }}"
+          BRANCH_NAME: "update-end-${{ steps.current-time.outputs.formattedTime }}"
 
       - name: Checkout
         uses: actions/checkout@v2
