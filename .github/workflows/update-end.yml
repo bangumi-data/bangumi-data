@@ -2,7 +2,7 @@ name: Update end date for bangumi
 
 on:
   schedule:
-    - cron: '19 2 3 4 *'
+    - cron: '30 2 3 4 *'
     # - cron: '0 4 1 * *''
 
 jobs:
@@ -24,7 +24,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Create a new branch
-        run: git checkout -b ${{ setps.branch-name.outputs.branch-name }}
+        run: git checkout -b ${{ steps.branch-name.outputs.branch-name }}
 
       - name: Use Node.js
         uses: actions/setup-node@v1
@@ -39,13 +39,13 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4.1.1
         with:
           commit_message: Update end date
-          branch: ${{ setps.branch-name.outputs.branch-name }}
+          branch: ${{ steps.branch-name.outputs.branch-name }}
 
       - name: Create pull request
         if: steps.commit.outputs.changes_detected == 'true'
         uses: repo-sync/pull-request@v2
         with:
-          source_branch: ${{ setps.branch-name.outputs.branch-name }}
+          source_branch: ${{ steps.branch-name.outputs.branch-name }}
           pr_title: "Auto end date update"
           pr_reviewer: "wxt2005"
           pr_assignee: "wxt2005"
