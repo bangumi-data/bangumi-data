@@ -2,7 +2,7 @@ name: Update end date for bangumi
 
 on:
   schedule:
-    - cron: '14 6 3 4 *'
+    - cron: '27 6 3 4 *'
     # - cron: '0 4 1 * *''
 
 jobs:
@@ -49,3 +49,4 @@ jobs:
           hub pull-request -m "Auto end date update" --no-edit -r $REVIEWER -a $REVIEWER
         env:
           REVIEWER: wxt2005
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
