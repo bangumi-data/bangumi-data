@@ -2,7 +2,7 @@ name: Update end date for bangumi
 
 on:
   schedule:
-    - cron: '15 3 3 4 *'
+    - cron: '10 4 3 4 *'
     # - cron: '0 4 1 * *''
 
 jobs:
@@ -36,15 +36,15 @@ jobs:
       - name: Run bdh to update end date
         run: npx bangumi-data-helper end
 
-      - name: Commit
-        id: commit
+      - name: Commit changes
+        id: commit-changes
         uses: stefanzweifel/git-auto-commit-action@v4.1.1
         with:
           commit_message: Update end date
           branch: ${{ steps.branch-name.outputs.result }}
 
       - name: Create pull request
-        if: steps.commit.outputs.changes_detected == true
+        if: steps.commit-changes.outputs.changes_detected == 'true'
         uses: repo-sync/pull-request@v2
         with:
           source_branch: ${{ steps.branch-name.outputs.result }}
