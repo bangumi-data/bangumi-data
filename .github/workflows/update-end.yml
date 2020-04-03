@@ -2,7 +2,7 @@ name: Update end date for bangumi
 
 on:
   schedule:
-    - cron: '51 2 3 4 *'
+    - cron: '15 3 3 4 *'
     # - cron: '0 4 1 * *''
 
 jobs:
@@ -44,7 +44,7 @@ jobs:
           branch: ${{ steps.branch-name.outputs.result }}
 
       - name: Create pull request
-        if: steps.commit.outputs.changes_detected == 'true'
+        if: steps.commit.outputs.changes_detected == true
         uses: repo-sync/pull-request@v2
         with:
           source_branch: ${{ steps.branch-name.outputs.result }}
