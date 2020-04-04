@@ -62,6 +62,11 @@
         "site": "nicovideo",
         "id": "kenja-no-mago",
         "begin": "2019-04-20T15:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "cacb6223b85e43ce8958",
+        "begin": "2019-04-19T08:06:27.000Z"
       }
     ]
   },
@@ -1381,6 +1386,31 @@
         "site": "acfun",
         "id": "6000152",
         "begin": "2019-09-19T07:41:44.000Z"
+      }
+    ]
+  },
+  {
+    "title": "クレヨンしんちゃん 新婚旅行ハリケーン  ～失われたひろし～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新 新婚旅行 ～散失的广志～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.shinchan-movie.com/index.html",
+    "begin": "2019-04-19T16:00:00.000Z",
+    "end": "2019-04-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "268491"
+      },
+      {
+        "site": "youku",
+        "id": "e1c09a62132348c98886",
+        "begin": "2019-11-22T10:15:06.000Z"
       }
     ]
   }
