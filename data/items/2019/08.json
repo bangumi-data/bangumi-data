@@ -21,5 +21,55 @@
         "id": "290591"
       }
     ]
+  },
+  {
+    "title": "ONE PIECE STAMPEDE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海贼王 狂热行动"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.onepiece-movie.jp/",
+    "begin": "2019-08-09T16:00:00.000Z",
+    "end": "2019-08-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "258349"
+      },
+      {
+        "site": "nicovideo",
+        "id": "STAMPEDE",
+        "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "兄に付ける薬はない！3-快把我哥帯走3-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "没有给我哥吃的药！3"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2019-08-03T16:00:00.000Z",
+    "end": "2019-10-19T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "287316"
+      },
+      {
+        "site": "nicovideo",
+        "id": "anitsuke3",
+        "begin": "2019-10-07T12:54:00.000Z"
+      }
+    ]
   }
 ]

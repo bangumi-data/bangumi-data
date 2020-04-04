@@ -101,5 +101,30 @@
         "begin": "2019-11-12T16:00:00.000Z"
       }
     ]
+  },
+  {
+    "title": "海獣の子供",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海兽之子"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kaijunokodomo.com/",
+    "begin": "2019-06-07T16:00:00.000Z",
+    "end": "2019-06-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "253997"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kaijunokodomo",
+        "begin": ""
+      }
+    ]
   }
 ]

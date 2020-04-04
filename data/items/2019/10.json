@@ -425,6 +425,11 @@
         "site": "bilibili",
         "id": "28222619",
         "begin": "2019-10-10T15:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "assassinspride-anime",
+        "begin": "2020-03-27T06:00:00.000Z"
       }
     ]
   },
@@ -1219,6 +1224,11 @@
         "site": "bilibili",
         "id": "28222727",
         "begin": "2019-10-10T18:00:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nogunslife",
+        "begin": "2020-01-22T03:00:00.000Z"
       }
     ]
   },
@@ -1369,6 +1379,11 @@
       {
         "site": "mgtv",
         "id": "332258",
+        "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhz6y8d",
         "begin": ""
       }
     ]
@@ -1522,6 +1537,56 @@
       {
         "site": "bangumi",
         "id": "289031"
+      }
+    ]
+  },
+  {
+    "title": "GO!GO!アトム",
+    "titleTranslate": {
+      "zh-Hans": [
+        "GO!GO!阿童木"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://gogo-atom.jp/",
+    "begin": "2019-10-03T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302137"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gogo-atom",
+        "begin": "2020-03-26T09:25:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "ストライクウィッチーズ 劇場版 501部隊発進しますっ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "强袭魔女 剧场版 501部队起飞！"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://w-witch.jp/501_takeoff/",
+    "begin": "2019-10-04T16:00:00.000Z",
+    "end": "2019-10-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "285410"
+      },
+      {
+        "site": "nicovideo",
+        "id": "501_takeoff_movie",
+        "begin": ""
       }
     ]
   }

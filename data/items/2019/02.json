@@ -99,5 +99,55 @@
         "begin": "2019-04-12T13:30:00.000Z"
       }
     ]
+  },
+  {
+    "title": "幼女戦記 劇場版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "幼女战记 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://youjo-senki.jp/",
+    "begin": "2019-02-08T16:00:00.000Z",
+    "end": "2019-02-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "234771"
+      },
+      {
+        "site": "nicovideo",
+        "id": "youjo-senki-movie",
+        "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "コードギアス 復活のルルーシュ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Code Geass 复活的鲁路修"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.geass.jp/R-geass/",
+    "begin": "2019-02-09T16:00:00.000Z",
+    "end": "2019-02-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "199228"
+      },
+      {
+        "site": "nicovideo",
+        "id": "r-geass",
+        "begin": ""
+      }
+    ]
   }
 ]

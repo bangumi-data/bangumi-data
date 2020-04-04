@@ -412,6 +412,11 @@
         "site": "bilibili",
         "id": "28224095",
         "begin": "2020-01-10T16:05:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "toaru-railgun-t",
+        "begin": "2020-01-17T03:00:00.000Z"
       }
     ]
   },
@@ -563,6 +568,11 @@
         "site": "iqiyi",
         "id": "a_19rrhxyj6p",
         "begin": "2020-01-10T17:20:09.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "shinamon-nobunaga",
+        "begin": "2020-01-15T15:00:00.000Z"
       }
     ]
   },
@@ -724,6 +734,11 @@
       {
         "site": "bangumi",
         "id": "285441"
+      },
+      {
+        "site": "nicovideo",
+        "id": "arp-anime",
+        "begin": "2020-01-20T14:00:00.000Z"
       }
     ]
   },
@@ -745,6 +760,11 @@
         "site": "bilibili",
         "id": "28223859",
         "begin": "2020-01-11T15:30:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "22_7",
+        "begin": "2020-01-14T14:30:00.000Z"
       }
     ]
   },
@@ -887,6 +907,11 @@
         "site": "iqiyi",
         "id": "a_19rrhwqgk5",
         "begin": "2020-01-10T07:00:11.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hanakokun",
+        "begin": "2020-01-14T15:00:00.000Z"
       }
     ]
   },
@@ -1141,6 +1166,26 @@
         "site": "nicovideo",
         "id": "kotodama-shoujo",
         "begin": "2020-01-12T12:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "劇場版メイドインアビス深き魂の黎明",
+    "titleTranslate": {
+      "zh-Hans": [
+        "来自深渊 深沉灵魂的黎明"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://miabyss.com/",
+    "begin": "2020-01-17T16:00:00.000Z",
+    "end": "2020-01-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "230914"
       }
     ]
   }
