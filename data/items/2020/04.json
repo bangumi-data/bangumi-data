@@ -111,6 +111,16 @@
       {
         "site": "bangumi",
         "id": "295884"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhlhset",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "edbd72060dcd4988a3a2",
+        "begin": "2020-04-04T18:08:05.000Z"
       }
     ]
   },
@@ -202,6 +212,11 @@
         "site": "nicovideo",
         "id": "kitsutsuki",
         "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "eebd269c956e42d7905e",
+        "begin": "2020-04-13T15:28:35.000Z"
       }
     ]
   },
@@ -271,6 +286,11 @@
       {
         "site": "bangumi",
         "id": "296820"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhwkra1",
+        "begin": ""
       }
     ]
   },
@@ -296,6 +316,21 @@
       {
         "site": "bangumi",
         "id": "291039"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fruba_2",
+        "begin": "2020-04-07T03:00:00.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhlhs01",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "fafe56cd23b04fcda3e8",
+        "begin": "2020-04-06T17:28:05.000Z"
       }
     ]
   },
@@ -316,6 +351,11 @@
       {
         "site": "bangumi",
         "id": "286967"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yugioh-sevens",
+        "begin": "2020-04-08T03:00:00.000Z"
       }
     ]
   },
@@ -344,6 +384,21 @@
       {
         "site": "bangumi",
         "id": "289829"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mewkledreamy",
+        "begin": "2020-04-10T03:00:00.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhlhscp",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "dabf72f2928e4d0993c0",
+        "begin": "2020-04-05T02:30:05.000Z"
       }
     ]
   },
@@ -402,6 +457,11 @@
         "site": "iqiyi",
         "id": "a_19rrhlhiv9",
         "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "bebfc3293bfd4c44a3fe",
+        "begin": "2020-04-03T17:21:03.000Z"
       }
     ]
   },
@@ -493,6 +553,16 @@
         "site": "qq",
         "id": "m/mzc00200ig6kn91",
         "begin": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhx0jz9",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "acaf72ebe1f149758e9a",
+        "begin": "2020-04-04T17:58:03.000Z"
       }
     ]
   },
@@ -694,6 +764,21 @@
       {
         "site": "bangumi",
         "id": "292298"
+      },
+      {
+        "site": "nicovideo",
+        "id": "shadowverse_anime",
+        "begin": "2020-04-08T03:00:00.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhlhld9",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "ccddef6e11df4aa09e25",
+        "begin": "2020-04-07T09:53:05.000Z"
       }
     ]
   },
@@ -740,7 +825,8 @@
         "DIGIMON ADVENTURE:"
       ],
       "zh-Hans": [
-        "数码兽大冒险："
+        "数码兽大冒险：",
+        "数码宝贝："
       ]
     },
     "type": "tv",
@@ -753,6 +839,11 @@
       {
         "site": "bangumi",
         "id": "298451"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhwmdmd",
+        "begin": ""
       }
     ]
   },
@@ -876,6 +967,11 @@
         "site": "nicovideo",
         "id": "galkyo",
         "begin": "2020-03-31T07:00:00.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhlz9k5",
+        "begin": ""
       }
     ]
   },
@@ -1166,6 +1262,16 @@
       {
         "site": "bangumi",
         "id": "301476"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhlhua1",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "fdcc550f295043f18d8c",
+        "begin": "2020-04-05T23:14:48.000Z"
       }
     ]
   },
@@ -1247,6 +1353,86 @@
         "site": "nicovideo",
         "id": "asatir",
         "begin": "2020-04-04T15:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "アラド：逆転の輪",
+    "titleTranslate": {
+      "en": [
+        "ARAD REVERSAL OF FATE"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.tv-tokyo.co.jp/anime/arad_gia/",
+    "begin": "2020-04-23T16:53:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "270139"
+      }
+    ]
+  },
+  {
+    "title": "別冊オリンピア・キュクロス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "别册奥林匹克之环"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://bessatsu-olympia-kyklos.com/",
+    "begin": "2020-04-20T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "304183"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bessatsu-olympia-kyklos",
+        "begin": "2020-04-20T13:00:00.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhm23z1",
+        "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "テレビ野郎 ナナーナ　怪物クラーケンを追え！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "香蕉怪大叔 呐呐~呐 北海妖怪追追追！"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.tv-tokyo.co.jp/nana-na/",
+    "begin": "2020-04-16T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "307749"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhlilxp",
+        "begin": ""
+      },
+      {
+        "site": "youku",
+        "id": "aabd40b00f534ff7a706",
+        "begin": "2020-04-16T11:53:05.000Z"
       }
     ]
   }

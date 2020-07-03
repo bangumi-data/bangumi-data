@@ -1080,6 +1080,11 @@
         "site": "bilibili",
         "id": "28224129",
         "begin": "2020-01-10T07:30:00.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "oshibudo",
+        "begin": "2020-04-20T03:00:00.000Z"
       }
     ]
   },
@@ -1279,6 +1284,56 @@
         "site": "youku",
         "id": "aabcf2748b67401d8316",
         "begin": "2020-02-03T06:40:18.000Z"
+      }
+    ]
+  },
+  {
+    "title": "薄明の翼",
+    "titleTranslate": {
+      "zh-Hans": [
+        "破晓之翼"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.pokemon.co.jp/ex/hakumei_no_tsubasa/",
+    "begin": "2020-01-15T16:00:00.000Z",
+    "end": "2020-07-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "296079"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hakumei_no_tsubasa",
+        "begin": "2020-05-27T03:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "ダンジョンに出会いを求めるのは間違っているだろうかⅡ OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "期待在地下城邂逅有错吗Ⅱ OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://danmachi.com/danmachi2/",
+    "begin": "2020-01-29T16:00:00.000Z",
+    "end": "2020-01-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "291413"
+      },
+      {
+        "site": "nicovideo",
+        "id": "danmachi2-ova",
+        "begin": ""
       }
     ]
   }
