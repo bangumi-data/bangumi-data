@@ -45,6 +45,11 @@
         "site": "youku",
         "id": "a89b558cb12211e6bdbb",
         "begin": "2017-03-21T02:17:39.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "5707",
+        "begin": "2016-11-16T16:00:00.000Z"
       }
     ]
   },
@@ -237,6 +242,31 @@
         "site": "youku",
         "id": "993682dfa0ce11e69e06",
         "begin": "2016-11-30T15:58:11.000Z"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 マジェスティックプリンス 覚醒の遺伝子",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 银河机攻队Majestic Prince 觉醒的基因"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://mjp-anime.jp/",
+    "begin": "2016-11-04T16:00:00.000Z",
+    "end": "2016-11-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "175527"
+      },
+      {
+        "site": "bilibili",
+        "id": "5924",
+        "begin": "2016-11-03T16:00:00.000Z"
       }
     ]
   }

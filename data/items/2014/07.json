@@ -262,6 +262,11 @@
         "site": "nicovideo",
         "id": "railwars",
         "begin": "2014-07-15T03:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "131872",
+        "begin": "2014-07-02T16:00:00.000Z"
       }
     ]
   },
@@ -416,6 +421,11 @@
         "site": "netflix",
         "id": "80040104",
         "begin": "2015-10-09T07:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28228769",
+        "begin": "2014-07-04T16:00:00.000Z"
       }
     ]
   },
@@ -817,6 +827,11 @@
         "site": "nicovideo",
         "id": "francesca",
         "begin": "2014-07-12T15:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "12952739",
+        "begin": "2014-07-05T16:00:00.000Z"
       }
     ]
   },
@@ -1032,6 +1047,11 @@
         "site": "nicovideo",
         "id": "dmmd-anime",
         "begin": "2014-07-14T15:30:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "3785",
+        "begin": "2014-07-05T16:00:00.000Z"
       }
     ]
   },
@@ -1153,6 +1173,11 @@
         "site": "nicovideo",
         "id": "yamanosusume2nd",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "102352",
+        "begin": "2014-07-08T16:00:00.000Z"
       }
     ]
   },
@@ -1506,6 +1531,11 @@
       {
         "site": "bangumi",
         "id": "103671"
+      },
+      {
+        "site": "bilibili",
+        "id": "28220669",
+        "begin": "2014-07-10T16:00:00.000Z"
       }
     ]
   },
@@ -1807,6 +1837,11 @@
         "site": "nicovideo",
         "id": "k-project-movie",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2793",
+        "begin": "2014-07-11T16:00:00.000Z"
       }
     ]
   },
@@ -1831,6 +1866,131 @@
         "site": "pptv",
         "id": "j7ehH4ftXZvibfOQ",
         "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "RWBY Volume 2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "红白黑黄 第二季"
+      ]
+    },
+    "type": "web",
+    "lang": "en",
+    "officialSite": "http://roosterteeth.com/home.php",
+    "begin": "2014-07-24T16:00:00.000Z",
+    "end": "2014-10-30T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "95445"
+      },
+      {
+        "site": "bilibili",
+        "id": "334",
+        "begin": "2014-07-23T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "ガールズ&amp;パンツァー これが本当のアンツィオ戦です!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少女与战车 这次是真正的安齐奥战！"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2014-07-05T16:00:00.000Z",
+    "end": "2014-07-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "96130"
+      },
+      {
+        "site": "bilibili",
+        "id": "10412",
+        "begin": "2014-07-24T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "アカ斬る！劇場",
+    "titleTranslate": {
+      "zh-Hans": [
+        "斩·赤红之瞳 小剧场"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2014-07-07T16:00:00.000Z",
+    "end": "2014-12-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "192815"
+      },
+      {
+        "site": "bilibili",
+        "id": "3436",
+        "begin": "2014-08-30T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "ムシブギョー OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "虫奉行OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2014-07-18T16:00:00.000Z",
+    "end": "2015-01-16T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "103811"
+      },
+      {
+        "site": "bilibili",
+        "id": "4113",
+        "begin": "2014-07-17T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "みじかもん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "囝仔小短篇"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2014-07-03T16:00:00.000Z",
+    "end": "2014-09-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "138352"
+      },
+      {
+        "site": "bilibili",
+        "id": "4086",
+        "begin": "2014-07-02T16:00:00.000Z"
       }
     ]
   }

@@ -2098,6 +2098,11 @@
       {
         "site": "bangumi",
         "id": "209653"
+      },
+      {
+        "site": "bilibili",
+        "id": "5908",
+        "begin": "2015-10-04T16:00:00.000Z"
       }
     ]
   },
@@ -2306,6 +2311,106 @@
         "site": "iqiyi",
         "id": "a_19rrh5n9sd",
         "begin": "2018-08-24T09:59:15.000Z"
+      }
+    ]
+  },
+  {
+    "title": "RWBY Volume 3",
+    "titleTranslate": {
+      "zh-Hans": [
+        "红白黑黄 第三季"
+      ]
+    },
+    "type": "web",
+    "lang": "en",
+    "officialSite": "http://roosterteeth.com/home.php",
+    "begin": "2015-10-24T16:00:00.000Z",
+    "end": "2016-02-13T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "138180"
+      },
+      {
+        "site": "bilibili",
+        "id": "2894",
+        "begin": "2015-10-23T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "長門有希ちゃんの消失 OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "长门有希酱的消失 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2015-10-26T16:00:00.000Z",
+    "end": "2015-10-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "129960"
+      },
+      {
+        "site": "bilibili",
+        "id": "6407",
+        "begin": "2015-10-25T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "カレバカ～吾輩ノ彼ハ馬鹿でR～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "笨蛋男友"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.younganimal-densi.com/karebaka_anime",
+    "begin": "2015-10-16T16:00:00.000Z",
+    "end": "2016-01-22T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "132836"
+      },
+      {
+        "site": "bilibili",
+        "id": "4083",
+        "begin": "2015-10-15T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "きょーふ！ゾンビ猫",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恐怖！僵尸猫"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2015-10-01T16:00:00.000Z",
+    "end": "2016-09-29T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "145734"
+      },
+      {
+        "site": "bilibili",
+        "id": "2990",
+        "begin": "2015-09-30T16:00:00.000Z"
       }
     ]
   }

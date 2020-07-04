@@ -40,6 +40,11 @@
         "site": "acfun",
         "id": "6000810",
         "begin": "2019-12-12T06:21:35.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "80072",
+        "begin": "2017-09-12T16:00:00.000Z"
       }
     ]
   },
@@ -113,6 +118,11 @@
       {
         "site": "bangumi",
         "id": "211522"
+      },
+      {
+        "site": "bilibili",
+        "id": "83872",
+        "begin": "2017-09-14T16:00:00.000Z"
       }
     ]
   },
@@ -133,6 +143,81 @@
       {
         "site": "bangumi",
         "id": "211523"
+      },
+      {
+        "site": "bilibili",
+        "id": "82712",
+        "begin": "2017-09-28T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 響け！ユーフォニアム～届けたいメロディ～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 吹响！悠风号～想要传达的旋律～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://anime-eupho.com/",
+    "begin": "2017-09-30T16:00:00.000Z",
+    "end": "2017-09-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "211089"
+      },
+      {
+        "site": "bilibili",
+        "id": "28223447",
+        "begin": "2017-09-29T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "UQ HOLDER!～魔法先生ネギま！2～ OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "悠久持有者！OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2017-09-08T16:00:00.000Z",
+    "end": "2018-06-08T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "205028"
+      },
+      {
+        "site": "bilibili",
+        "id": "6414",
+        "begin": "2017-09-07T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "FASTENING DAYS 3",
+    "titleTranslate": {
+      "zh-Hans": [
+        "拉链超人组 3"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.ykkfastening.com/fd/",
+    "begin": "2017-09-05T16:00:00.000Z",
+    "end": "2017-09-19T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "229508"
       }
     ]
   }

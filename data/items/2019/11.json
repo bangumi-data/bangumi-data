@@ -217,6 +217,76 @@
       {
         "site": "bangumi",
         "id": "226224"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222724",
+        "begin": "2019-09-26T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "Levius -レビウス-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "列比乌斯"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://levius.net/",
+    "begin": "2019-11-28T16:00:00.000Z",
+    "end": "2019-11-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "278658"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229026",
+        "begin": "2020-05-27T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "RWBY Volume 7",
+    "titleTranslate": {
+      "zh-Hans": [
+        "红白黑黄 第七季"
+      ]
+    },
+    "type": "web",
+    "lang": "en",
+    "officialSite": "https://roosterteeth.com/series/rwby",
+    "begin": "2019-11-02T16:00:00.000Z",
+    "end": "2020-02-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "285936"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 コルボッコロ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 Coluboccoro"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.coluboccoro.net/",
+    "begin": "2019-11-29T16:00:00.000Z",
+    "end": "2019-11-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "291175"
       }
     ]
   }

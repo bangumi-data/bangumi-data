@@ -91,6 +91,11 @@
       {
         "site": "bangumi",
         "id": "54551"
+      },
+      {
+        "site": "bilibili",
+        "id": "4267",
+        "begin": "2014-10-01T16:00:00.000Z"
       }
     ]
   },
@@ -665,6 +670,11 @@
         "site": "qq",
         "id": "x/xnlpnk3yvdfeg12",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28228764",
+        "begin": "2014-10-04T16:00:00.000Z"
       }
     ]
   },
@@ -2033,6 +2043,81 @@
         "site": "nicovideo",
         "id": "kuroshitsuji-bom",
         "begin": "2018-06-13T15:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "FASTENING DAYS",
+    "titleTranslate": {
+      "zh-Hans": [
+        "拉链超人组"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2014-10-30T16:00:00.000Z",
+    "end": "2014-10-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "116747"
+      },
+      {
+        "site": "bilibili",
+        "id": "5638",
+        "begin": "2014-10-29T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "サンタ・カンパニー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "圣诞老人公司"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.santa-company.net/",
+    "begin": "2014-10-25T16:00:00.000Z",
+    "end": "2014-10-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "91085"
+      },
+      {
+        "site": "bilibili",
+        "id": "4259",
+        "begin": "2014-10-24T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "STEINS;GATE 聡明叡智のコグニティブ・コンピューティング",
+    "titleTranslate": {
+      "zh-Hans": [
+        "命运石之门 聪明睿智的认知计算"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.mugendai-web.jp/steinsgate/",
+    "begin": "2014-10-15T16:00:00.000Z",
+    "end": "2014-11-12T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "115660"
+      },
+      {
+        "site": "bilibili",
+        "id": "3448",
+        "begin": "2014-10-14T16:00:00.000Z"
       }
     ]
   }

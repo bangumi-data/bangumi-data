@@ -131,6 +131,11 @@
       {
         "site": "bangumi",
         "id": "182406"
+      },
+      {
+        "site": "bilibili",
+        "id": "128792",
+        "begin": "2016-08-20T16:00:00.000Z"
       }
     ]
   },
@@ -160,6 +165,26 @@
         "site": "bilibili",
         "id": "6071",
         "begin": "2016-07-31T16:00:01.000Z"
+      }
+    ]
+  },
+  {
+    "title": "FASTENING DAYS 2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "拉链超人组 2"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.ykkfastening.com/fd/",
+    "begin": "2016-08-01T16:00:00.000Z",
+    "end": "2016-08-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "198230"
       }
     ]
   }

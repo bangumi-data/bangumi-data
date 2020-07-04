@@ -52,6 +52,11 @@
         "site": "nicovideo",
         "id": "anime-eupho02",
         "begin": "2016-10-08T15:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28223434",
+        "begin": "2016-10-04T16:00:00.000Z"
       }
     ]
   },
@@ -2663,6 +2668,11 @@
         "site": "youku",
         "id": "0e30717290f211e69e06",
         "begin": "2016-10-25T01:57:56.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "5938",
+        "begin": "2016-09-02T16:00:00.000Z"
       }
     ]
   },
@@ -2852,6 +2862,56 @@
         "site": "bilibili",
         "id": "5926",
         "begin": "2016-10-14T16:00:01.000Z"
+      }
+    ]
+  },
+  {
+    "title": "RWBY Volume 4",
+    "titleTranslate": {
+      "zh-Hans": [
+        "红白黑黄 第四季"
+      ]
+    },
+    "type": "web",
+    "lang": "en",
+    "officialSite": "http://roosterteeth.com/show/rwby",
+    "begin": "2016-10-22T16:00:00.000Z",
+    "end": "2017-02-04T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "186257"
+      },
+      {
+        "site": "bilibili",
+        "id": "5636",
+        "begin": "2016-10-21T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "やはり俺の青春ラブコメはまちがっている。続 OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我的青春恋爱物语果然有问题 续 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2016-10-27T16:00:00.000Z",
+    "end": "2016-10-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "142678"
+      },
+      {
+        "site": "bilibili",
+        "id": "5622",
+        "begin": "2016-10-26T16:00:00.000Z"
       }
     ]
   }

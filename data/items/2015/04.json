@@ -30,6 +30,11 @@
         "site": "youku",
         "id": "a3f59c6cd1eb11e4abda",
         "begin": "2016-06-28T10:14:30.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "1688",
+        "begin": "2015-04-01T16:00:00.000Z"
       }
     ]
   },
@@ -1211,6 +1216,11 @@
         "site": "nicovideo",
         "id": "duelmastersvsr",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28221005",
+        "begin": "2015-04-04T16:00:00.000Z"
       }
     ]
   },
@@ -1327,6 +1337,11 @@
         "site": "nicovideo",
         "id": "diaace2",
         "begin": "2015-04-12T14:30:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "4194",
+        "begin": "2015-04-05T16:00:00.000Z"
       }
     ]
   },
@@ -1617,6 +1632,11 @@
         "site": "nicovideo",
         "id": "anime_ore",
         "begin": "2015-04-10T03:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28223816",
+        "begin": "2015-04-07T16:00:00.000Z"
       }
     ]
   },
@@ -2254,6 +2274,11 @@
         "site": "youku",
         "id": "e91a074ee7c411e4b522",
         "begin": "2016-01-12T10:40:10.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28228961",
+        "begin": "2020-05-21T16:00:00.000Z"
       }
     ]
   },
@@ -2338,6 +2363,11 @@
         "site": "youku",
         "id": "0642efbfbd12efbfbdef",
         "begin": "2017-12-25T08:31:42.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "3758",
+        "begin": "2015-04-03T16:00:00.000Z"
       }
     ]
   },
@@ -2362,6 +2392,56 @@
         "site": "pptv",
         "id": "ByoGhOxSwgBj4Uk",
         "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "境界の彼方 -I'LL BE HERE- 未来篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "境界的彼方 -I'LL BE HERE- 未来篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://anime-kyokai.com/",
+    "begin": "2015-04-25T16:00:00.000Z",
+    "end": "2015-04-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "118908"
+      },
+      {
+        "site": "bilibili",
+        "id": "2844",
+        "begin": "2015-04-24T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "シリーズ おともだち",
+    "titleTranslate": {
+      "zh-Hans": [
+        "好朋友"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://anime-otomodachi.com/",
+    "begin": "2015-04-11T16:00:00.000Z",
+    "end": "2015-09-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "135558"
+      },
+      {
+        "site": "bilibili",
+        "id": "4168",
+        "begin": "2015-04-10T16:00:00.000Z"
       }
     ]
   }

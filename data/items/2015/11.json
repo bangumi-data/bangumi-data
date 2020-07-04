@@ -244,5 +244,80 @@
         "begin": "2016-04-29T01:00:00.000Z"
       }
     ]
+  },
+  {
+    "title": "ガールズ&amp;パンツァー 劇場版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少女与战车 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://girls-und-panzer.jp/",
+    "begin": "2015-11-21T16:00:00.000Z",
+    "end": "2015-11-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "72266"
+      },
+      {
+        "site": "bilibili",
+        "id": "4114",
+        "begin": "2016-05-26T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "弱酸性ミリオンアーサー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "弱酸性百万亚瑟王"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://portal.million-arthurs.com/kairi/jma/",
+    "begin": "2015-11-20T16:00:00.000Z",
+    "end": "2019-10-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "136913"
+      },
+      {
+        "site": "bilibili",
+        "id": "5206",
+        "begin": "2015-11-19T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "ノラガミ ARAGOTO OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "野良神 ARAGOTO OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2015-11-17T16:00:00.000Z",
+    "end": "2016-03-17T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "147364"
+      },
+      {
+        "site": "bilibili",
+        "id": "3420",
+        "begin": "2015-11-16T16:00:00.000Z"
+      }
+    ]
   }
 ]

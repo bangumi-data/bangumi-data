@@ -111,6 +111,11 @@
         "site": "qq",
         "id": "m/mzc00200yho3rg6",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28228037",
+        "begin": "2017-04-13T16:00:00.000Z"
       }
     ]
   },
@@ -154,6 +159,11 @@
         "site": "qq",
         "id": "h/hsrxv2r5jd205hf",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28226651",
+        "begin": "2017-04-04T16:00:00.000Z"
       }
     ]
   },
@@ -1986,6 +1996,11 @@
         "site": "iqiyi",
         "id": "a_19rrheh3kd",
         "begin": "2018-01-07T00:55:04.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "19632",
+        "begin": "2018-01-06T16:00:00.000Z"
       }
     ]
   },
@@ -2369,6 +2384,11 @@
         "site": "qq",
         "id": "5/5wg77t6vu3utemv",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28228963",
+        "begin": "2020-05-21T16:00:00.000Z"
       }
     ]
   },
@@ -2393,6 +2413,81 @@
         "site": "nicovideo",
         "id": "free-tm-movie",
         "begin": "2018-07-01T06:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "夜は短し歩けよ乙女",
+    "titleTranslate": {
+      "zh-Hans": [
+        "春宵苦短，少女前进吧！"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kurokaminootome.com/",
+    "begin": "2017-04-07T16:00:00.000Z",
+    "end": "2017-04-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "202240"
+      },
+      {
+        "site": "bilibili",
+        "id": "7752",
+        "begin": "2017-04-06T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "青の祓魔師 OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "青之驱魔师 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2017-04-03T16:00:00.000Z",
+    "end": "2017-10-04T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "199630"
+      },
+      {
+        "site": "bilibili",
+        "id": "6077",
+        "begin": "2017-04-02T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "ワールドフールニュース PARTII",
+    "titleTranslate": {
+      "zh-Hans": [
+        "World Fool News Part 2"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2017-04-02T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "205845"
+      },
+      {
+        "site": "bilibili",
+        "id": "6035",
+        "begin": "2017-04-01T16:00:00.000Z"
       }
     ]
   }

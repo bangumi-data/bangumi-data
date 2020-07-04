@@ -159,5 +159,80 @@
         "begin": "2020-02-11T05:37:50.000Z"
       }
     ]
+  },
+  {
+    "title": "劇場版 Fate/kaleid liner プリズマ☆イリヤ 雪下の誓い",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 Fate/kaleid liner 魔法少女☆伊莉雅 雪下的誓言"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://anime.prisma-illya.jp/",
+    "begin": "2017-08-26T16:00:00.000Z",
+    "end": "2017-08-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "193373"
+      },
+      {
+        "site": "bilibili",
+        "id": "141252",
+        "begin": "2018-01-30T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "ガンダムビルドファイターズ GMの逆襲",
+    "titleTranslate": {
+      "zh-Hans": [
+        "高达创战者 GM的逆袭"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://gundam-bf.net/gm/",
+    "begin": "2017-08-25T16:00:00.000Z",
+    "end": "2017-08-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "213532"
+      },
+      {
+        "site": "bilibili",
+        "id": "125312",
+        "begin": "2017-08-24T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "ガンダムビルドファイターズ バトローグ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "高达创战者 Battlogue"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://gundam-bf.net/battlogue/",
+    "begin": "2017-08-04T16:00:00.000Z",
+    "end": "2017-12-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "214710"
+      },
+      {
+        "site": "bilibili",
+        "id": "127452",
+        "begin": "2017-08-03T16:00:00.000Z"
+      }
+    ]
   }
 ]

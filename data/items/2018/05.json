@@ -129,6 +129,11 @@
       {
         "site": "bangumi",
         "id": "192154"
+      },
+      {
+        "site": "bilibili",
+        "id": "73092",
+        "begin": "2017-02-24T16:00:00.000Z"
       }
     ]
   },
@@ -149,6 +154,22 @@
         "site": "nicovideo",
         "id": "pp-movie-pretty-rhythm",
         "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "ぱすてるらいふ",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2018-05-17T16:00:00.000Z",
+    "end": "2018-06-21T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "243923"
       }
     ]
   }
