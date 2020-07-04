@@ -88,6 +88,11 @@
         "site": "bilibili",
         "id": "10472",
         "begin": "1994-04-22T16:00:01.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "f071488261ad11e0bea1",
+        "begin": "2012-11-27T03:00:09.000Z"
       }
     ]
   },
@@ -165,6 +170,42 @@
       {
         "site": "bangumi",
         "id": "10410"
+      }
+    ]
+  },
+  {
+    "title": "3丁目のタマ うちのタマ知りませんか? 第2期",
+    "titleTranslate": {
+      "zh-Hans": [
+        "猫狗宠物街 第2期",
+        "猫咪小镇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.sonymusic.co.jp/MoreInfo/Chekila/Tama/index.html",
+    "begin": "1994-04-03T16:00:00.000Z",
+    "end": "1994-09-25T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8248"
+      },
+      {
+        "site": "youku",
+        "id": "efbfbd632c23260011ef",
+        "begin": "2020-02-12T03:34:28.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhwvuex",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200flv7mmy",
+        "begin": ""
       }
     ]
   }

@@ -1297,5 +1297,40 @@
         "begin": "2019-12-07T12:00:00.000Z"
       }
     ]
+  },
+  {
+    "title": "むぎゅっと！ブラッククローバー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Q版！黑色五叶草"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2019-07-01T16:00:00.000Z",
+    "end": "2019-08-19T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "297745"
+      },
+      {
+        "site": "youku",
+        "id": "dbfdd8d85ca943bdad61",
+        "begin": "2019-12-31T15:58:19.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28226981",
+        "begin": "2019-12-31T16:00:00.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhwxael",
+        "begin": ""
+      }
+    ]
   }
 ]

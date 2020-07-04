@@ -174,5 +174,50 @@
         "begin": "2020-03-18T16:00:00.000Z"
       }
     ]
+  },
+  {
+    "title": "虚構推理 のミニアニメ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "虚构推理 迷你动画"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2019-11-15T16:00:00.000Z",
+    "end": "2020-03-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "297088"
+      },
+      {
+        "site": "youku",
+        "id": "bece748d71274c018d0b",
+        "begin": "2020-02-29T15:58:05.000Z"
+      }
+    ]
+  },
+  {
+    "title": "銀河英雄伝説 Die Neue These 星乱 第3章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河英雄传说 Die Neue These 星乱 第3章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://gineiden-anime.com",
+    "begin": "2019-11-29T16:00:00.000Z",
+    "end": "2019-11-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "226224"
+      }
+    ]
   }
 ]

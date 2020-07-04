@@ -144,5 +144,50 @@
         "begin": "2020-01-05T16:00:00.000Z"
       }
     ]
+  },
+  {
+    "title": "かいじゅうステップ ワンダバダ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小怪兽成长日记 蹒跚学步"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.kaijustep.com/anime/",
+    "begin": "2019-09-27T16:00:00.000Z",
+    "end": "2020-03-27T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302157"
+      },
+      {
+        "site": "youku",
+        "id": "abfbce7364264ae09321",
+        "begin": "2020-05-07T09:43:28.000Z"
+      }
+    ]
+  },
+  {
+    "title": "銀河英雄伝説 Die Neue These 星乱 第1章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河英雄传说 Die Neue These 星乱 第1章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://gineiden-anime.com",
+    "begin": "2019-09-27T16:00:00.000Z",
+    "end": "2019-09-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "226218"
+      }
+    ]
   }
 ]

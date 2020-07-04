@@ -28,7 +28,11 @@
   },
   {
     "title": "今日もツノがある",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "今天头上也有角"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://tsunoanime.jp/",
@@ -43,6 +47,21 @@
         "site": "nicovideo",
         "id": "tsunoanime",
         "begin": "2019-02-21T13:00:00.000Z"
+      },
+      {
+        "site": "youku",
+        "id": "efbfbdefbfbd7b132875",
+        "begin": "2020-03-31T07:01:50.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrhwvtgp",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200phfx0pi",
+        "begin": ""
       }
     ]
   },
