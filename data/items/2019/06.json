@@ -126,5 +126,30 @@
         "begin": ""
       }
     ]
+  },
+  {
+    "title": "Fate/kaleid liner プリズマ☆イリヤ プリズマ☆ファンタズム",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Fate/kaleid liner 魔法少女☆伊莉雅 Prisma☆Phantasm"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://anime.prisma-illya.jp/movie/prismaphantasm/",
+    "begin": "2019-06-14T16:00:00.000Z",
+    "end": "2019-06-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "227263"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222277",
+        "begin": "2019-08-23T16:00:00.000Z"
+      }
+    ]
   }
 ]

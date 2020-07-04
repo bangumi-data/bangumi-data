@@ -487,6 +487,11 @@
         "site": "nicovideo",
         "id": "tsugumomo_anime",
         "begin": "2020-04-12T13:00:00.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200i2qe3br",
+        "begin": ""
       }
     ]
   },
@@ -1403,6 +1408,11 @@
         "site": "iqiyi",
         "id": "a_19rrhm23z1",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28228628",
+        "begin": "2020-04-19T16:00:00.000Z"
       }
     ]
   },
@@ -1433,6 +1443,61 @@
         "site": "youku",
         "id": "aabd40b00f534ff7a706",
         "begin": "2020-04-16T11:53:05.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28228437",
+        "begin": "2020-04-15T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "魔神英雄伝ワタル 七魂の龍神丸",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔神英雄传 七魂的龙神丸"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.mashin-eiyuuden-wataru.net/",
+    "begin": "2020-04-10T16:00:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "292861"
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200ury37vc",
+        "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "攻殻機動隊 SAC_2045",
+    "titleTranslate": {
+      "zh-Hans": [
+        "攻壳机动队 SAC_2045"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.ghostintheshell-sac2045.jp",
+    "begin": "2020-04-23T16:00:00.000Z",
+    "end": "2020-04-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "212610"
+      },
+      {
+        "site": "bilibili",
+        "id": "28228268",
+        "begin": "2020-04-22T16:00:00.000Z"
       }
     ]
   }

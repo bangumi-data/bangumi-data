@@ -1154,6 +1154,11 @@
         "site": "nicovideo",
         "id": "chihayafuru3",
         "begin": "2019-10-23T03:00:00.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "6/6tvsv1vr4a5ehks",
+        "begin": ""
       }
     ]
   },
@@ -1622,6 +1627,36 @@
         "site": "nicovideo",
         "id": "soraaoproject",
         "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "Four of a kind 新シリーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "四牌士 新系列"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.tv-tokyo.co.jp/anime/four_of_a_kind/",
+    "begin": "2019-10-06T16:00:00.000Z",
+    "end": "2019-12-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "291844"
+      },
+      {
+        "site": "youku",
+        "id": "fffbf8836a644f068406",
+        "begin": "2019-10-10T06:41:17.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28222626",
+        "begin": "2019-10-06T16:00:00.000Z"
       }
     ]
   }

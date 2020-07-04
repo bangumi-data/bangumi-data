@@ -1279,6 +1279,11 @@
       {
         "site": "bangumi",
         "id": "267481"
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200i0467y9",
+        "begin": ""
       }
     ]
   },
@@ -1329,6 +1334,31 @@
         "site": "nicovideo",
         "id": "miabyss-movie",
         "begin": "2020-03-20T06:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "ラブライブ!サンシャイン!! The School Idol Movie Over the Rainbow",
+    "titleTranslate": {
+      "zh-Hans": [
+        "LoveLive! Sunshine!! 剧场版 彩虹之上"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.lovelive-anime.jp/uranohoshi/sp_movie_theater.php",
+    "begin": "2019-01-04T16:00:00.000Z",
+    "end": "2019-01-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "234295"
+      },
+      {
+        "site": "bilibili",
+        "id": "28228631",
+        "begin": "2020-04-16T16:00:00.000Z"
       }
     ]
   }
