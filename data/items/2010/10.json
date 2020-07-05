@@ -1107,5 +1107,80 @@
         "begin": ""
       }
     ]
+  },
+  {
+    "title": "一期一会 〜キミノコトバ〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "一期一会 你的话语"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.mindwave.co.jp/ichigoichie_anime2/",
+    "begin": "2010-10-24T16:00:00.000Z",
+    "end": "2011-01-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "36793"
+      },
+      {
+        "site": "bilibili",
+        "id": "1006",
+        "begin": "2010-10-23T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "農業ムスメ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "农业娘"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.agri-girl.jp/",
+    "begin": "2010-10-07T16:00:00.000Z",
+    "end": "2010-10-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8083"
+      },
+      {
+        "site": "bilibili",
+        "id": "4578",
+        "begin": "2010-10-06T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "食パンミミー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "咸面包咪咪"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://asahi.co.jp/mimi/",
+    "begin": "2010-10-04T16:00:00.000Z",
+    "end": "2012-09-28T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "9428"
+      },
+      {
+        "site": "bilibili",
+        "id": "1007",
+        "begin": "2010-10-04T16:00:00.000Z"
+      }
+    ]
   }
 ]

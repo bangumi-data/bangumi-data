@@ -780,6 +780,11 @@
         "site": "nicovideo",
         "id": "mikakunin",
         "begin": "2014-01-12T13:30:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28228719",
+        "begin": "2014-01-07T16:00:00.000Z"
       }
     ]
   },
@@ -1103,6 +1108,11 @@
         "site": "nicovideo",
         "id": "nisekoi",
         "begin": "2014-01-13T15:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28227496",
+        "begin": "2014-01-10T16:00:00.000Z"
       }
     ]
   },
@@ -1775,6 +1785,31 @@
         "site": "nicovideo",
         "id": "kiminoirumachi_OAD",
         "begin": "2018-10-18T15:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "シュガー＊ソルジャー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "白砂糖战士"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2014-01-14T16:00:00.000Z",
+    "end": "2014-01-28T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "91517"
+      },
+      {
+        "site": "bilibili",
+        "id": "4234",
+        "begin": "2014-01-13T16:00:00.000Z"
       }
     ]
   }

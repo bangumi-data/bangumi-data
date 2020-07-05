@@ -65,6 +65,11 @@
       {
         "site": "bangumi",
         "id": "83253"
+      },
+      {
+        "site": "bilibili",
+        "id": "131672",
+        "begin": "2011-02-12T16:00:00.000Z"
       }
     ]
   },
@@ -113,6 +118,11 @@
       {
         "site": "bangumi",
         "id": "14890"
+      },
+      {
+        "site": "bilibili",
+        "id": "2838",
+        "begin": "2011-02-24T16:00:00.000Z"
       }
     ]
   },
@@ -200,6 +210,61 @@
         "site": "pptv",
         "id": "kHicUUrogkM4xrxc",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3565",
+        "begin": "2011-02-25T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "FORTUNE ARTERIAL -赤い約束- OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "FORTUNE ARTERIAL -赤之约束- OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://newtype.kadocomic.jp/fortune/",
+    "begin": "2011-02-26T16:00:00.000Z",
+    "end": "2011-02-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "13091"
+      },
+      {
+        "site": "bilibili",
+        "id": "3525",
+        "begin": "2011-02-25T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "マイの魔法と家庭の日",
+    "titleTranslate": {
+      "zh-Hans": [
+        "麻衣的魔法和家庭日"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.pref.toyama.jp/sections/1201/anime/index.html",
+    "begin": "2011-02-20T16:00:00.000Z",
+    "end": "2011-02-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10610"
+      },
+      {
+        "site": "bilibili",
+        "id": "957",
+        "begin": "2011-02-19T16:00:00.000Z"
       }
     ]
   }

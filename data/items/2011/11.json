@@ -191,6 +191,11 @@
         "site": "letv",
         "id": "46312",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "4472",
+        "begin": "2011-07-15T16:00:00.000Z"
       }
     ]
   },
@@ -215,6 +220,61 @@
         "site": "letv",
         "id": "46312",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "4472",
+        "begin": "2011-07-15T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "カーニバル・ファンタズム EX Season",
+    "titleTranslate": {
+      "zh-Hans": [
+        "幻想嘉年华 EX Season"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2011-11-26T16:00:00.000Z",
+    "end": "2011-11-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "52353"
+      },
+      {
+        "site": "bilibili",
+        "id": "3552",
+        "begin": "2011-11-25T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "UN-GO episode:0 因果論",
+    "titleTranslate": {
+      "zh-Hans": [
+        "UN-GO episode: 0 因果论"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.un-go.com",
+    "begin": "2011-11-19T16:00:00.000Z",
+    "end": "2011-11-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "22912"
+      },
+      {
+        "site": "bilibili",
+        "id": "871",
+        "begin": "2011-11-18T16:00:00.000Z"
       }
     ]
   }

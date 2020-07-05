@@ -137,6 +137,11 @@
       {
         "site": "bangumi",
         "id": "97825"
+      },
+      {
+        "site": "bilibili",
+        "id": "2864",
+        "begin": "2014-02-21T16:00:00.000Z"
       }
     ]
   },
@@ -213,6 +218,11 @@
         "site": "youku",
         "id": "7043b282362e11e3a705",
         "begin": "2017-04-11T15:58:04.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "3446",
+        "begin": "2013-12-14T16:00:00.000Z"
       }
     ]
   },
@@ -271,6 +281,72 @@
         "site": "youku",
         "id": "c6e961cc914111e3b8b7",
         "begin": "2014-02-14T01:35:21.000Z"
+      }
+    ]
+  },
+  {
+    "title": "ジョバンニの島",
+    "titleTranslate": {
+      "zh-Hans": [
+        "乔瓦尼之岛"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://wwws.warnerbros.co.jp/giovanni/",
+    "begin": "2014-02-22T16:00:00.000Z",
+    "end": "2014-02-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "83295"
+      },
+      {
+        "site": "bilibili",
+        "id": "4236",
+        "begin": "2014-02-21T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "モーレツ宇宙海賊 ABYSS OF HYPERSPACE -亜空の深淵-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "暴力宇宙海贼 剧场版 亚空的深渊"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2014-02-22T16:00:00.000Z",
+    "end": "2014-02-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "50900"
+      },
+      {
+        "site": "bilibili",
+        "id": "96632",
+        "begin": "2014-02-21T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "TIGER &amp; BUNNY -The Rising-",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.tigerandbunny.net/main.html",
+    "begin": "2014-02-08T16:00:00.000Z",
+    "end": "2014-02-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "66202"
       }
     ]
   }

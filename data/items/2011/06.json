@@ -105,6 +105,86 @@
         "site": "letv",
         "id": "46312",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "4472",
+        "begin": "2011-07-15T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "だぶるじぇい",
+    "titleTranslate": {
+      "zh-Hans": [
+        "JJ萌艺社"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2011-06-28T16:00:00.000Z",
+    "end": "2011-09-13T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "19134"
+      },
+      {
+        "site": "bilibili",
+        "id": "908",
+        "begin": "2011-06-27T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "アマガミSS OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "圣诞之吻SS OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2011-06-11T16:00:00.000Z",
+    "end": "2011-08-05T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "18864"
+      },
+      {
+        "site": "bilibili",
+        "id": "3567",
+        "begin": "2011-06-10T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "戦国BASARA 劇場版 -The Last Party-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "战国BASARA 剧场版 -The Last Party-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.basara-movie2011.com/main.html",
+    "begin": "2011-06-04T16:00:00.000Z",
+    "end": "2011-06-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "15395"
+      },
+      {
+        "site": "bilibili",
+        "id": "3573",
+        "begin": "2011-06-03T16:00:00.000Z"
       }
     ]
   }

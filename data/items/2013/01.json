@@ -574,6 +574,11 @@
       {
         "site": "bangumi",
         "id": "54173"
+      },
+      {
+        "site": "bilibili",
+        "id": "644",
+        "begin": "2013-01-04T16:00:00.000Z"
       }
     ]
   },
@@ -653,7 +658,8 @@
         "Encouragement of Climb"
       ],
       "zh-Hans": [
-        "向山进发"
+        "向山进发",
+        "前进吧！登山少女"
       ]
     },
     "type": "tv",
@@ -670,6 +676,11 @@
         "site": "nicovideo",
         "id": "yamanosusume",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "134672",
+        "begin": "2013-01-01T16:00:00.000Z"
       }
     ]
   },
@@ -724,6 +735,11 @@
       {
         "site": "bangumi",
         "id": "54438"
+      },
+      {
+        "site": "bilibili",
+        "id": "529",
+        "begin": "2013-07-06T16:00:00.000Z"
       }
     ]
   },
@@ -843,6 +859,11 @@
         "site": "qq",
         "id": "o/op3y4gackdqy04s",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "617",
+        "begin": "2013-01-10T16:00:00.000Z"
       }
     ]
   },
@@ -995,6 +1016,11 @@
         "site": "nicovideo",
         "id": "hetalia-thebeautifulworld",
         "begin": "2013-01-28T12:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "2712",
+        "begin": "2013-01-24T16:00:00.000Z"
       }
     ]
   },
@@ -1198,6 +1224,36 @@
         "site": "qq",
         "id": "t/te7aiegxvk7l9no",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "879",
+        "begin": "2013-01-11T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "カーニバル・ファンタズム Special Season",
+    "titleTranslate": {
+      "zh-Hans": [
+        "幻想嘉年华 Special Season"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.typemoon.com/products/cp/index.html",
+    "begin": "2013-01-16T16:00:00.000Z",
+    "end": "2013-01-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "61545"
+      },
+      {
+        "site": "bilibili",
+        "id": "3553",
+        "begin": "2013-01-15T16:00:00.000Z"
       }
     ]
   }

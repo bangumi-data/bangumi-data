@@ -334,8 +334,8 @@
       },
       {
         "site": "bilibili",
-        "id": "775",
-        "begin": "2012-04-02T16:00:00.000Z"
+        "id": "776",
+        "begin": "2012-07-02T16:00:00.000Z"
       }
     ]
   },
@@ -705,6 +705,11 @@
       {
         "site": "bangumi",
         "id": "37136"
+      },
+      {
+        "site": "bilibili",
+        "id": "125",
+        "begin": "2012-04-07T16:00:00.000Z"
       }
     ]
   },
@@ -1168,6 +1173,11 @@
       {
         "site": "bangumi",
         "id": "31414"
+      },
+      {
+        "site": "bilibili",
+        "id": "488",
+        "begin": "2012-04-07T16:00:00.000Z"
       }
     ]
   },
@@ -1198,6 +1208,11 @@
       {
         "site": "bangumi",
         "id": "38758"
+      },
+      {
+        "site": "bilibili",
+        "id": "4204858",
+        "begin": "2012-04-17T16:00:00.000Z"
       }
     ]
   },
@@ -1384,6 +1399,11 @@
       {
         "site": "bangumi",
         "id": "40249"
+      },
+      {
+        "site": "bilibili",
+        "id": "4312882",
+        "begin": "2012-04-19T16:00:00.000Z"
       }
     ]
   },
@@ -1592,6 +1612,56 @@
         "site": "nicovideo",
         "id": "seitokai_banngaihen",
         "begin": "2017-06-14T03:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "爆TECH!爆丸",
+    "titleTranslate": {
+      "zh-Hans": [
+        "爆TECH！爆丸"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.tv-tokyo.co.jp/anime/bakugan-bp/",
+    "begin": "2012-04-07T16:00:00.000Z",
+    "end": "2013-03-30T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37859"
+      },
+      {
+        "site": "bilibili",
+        "id": "131732",
+        "begin": "2012-04-06T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "デュエル・マスターズ ビクトリーV",
+    "titleTranslate": {
+      "zh-Hans": [
+        "决斗大师 Victory V"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.shopro.co.jp/tv/duelmastersv/",
+    "begin": "2012-04-07T16:00:00.000Z",
+    "end": "2013-03-30T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "293620"
+      },
+      {
+        "site": "bilibili",
+        "id": "131792",
+        "begin": "2012-04-05T16:00:00.000Z"
       }
     ]
   }

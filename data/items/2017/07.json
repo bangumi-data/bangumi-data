@@ -229,6 +229,11 @@
       {
         "site": "bangumi",
         "id": "212008"
+      },
+      {
+        "site": "bilibili",
+        "id": "3228",
+        "begin": "2013-07-17T16:00:00.000Z"
       }
     ]
   },
@@ -1883,6 +1888,26 @@
         "site": "bilibili",
         "id": "28228297",
         "begin": "2017-07-14T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "魔法少女リリカルなのは Reflection",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法少女奈叶 Reflection"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.nanoha.com/archive6/index.html",
+    "begin": "2017-07-22T16:00:00.000Z",
+    "end": "2017-07-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "68284"
       }
     ]
   }

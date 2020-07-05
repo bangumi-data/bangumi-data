@@ -149,6 +149,11 @@
         "site": "nicovideo",
         "id": "milky-holmes_alt2",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2921",
+        "begin": "2012-08-24T16:00:00.000Z"
       }
     ]
   },
@@ -217,6 +222,11 @@
       {
         "site": "bangumi",
         "id": "58345"
+      },
+      {
+        "site": "bilibili",
+        "id": "5872",
+        "begin": "2012-12-15T16:00:00.000Z"
       }
     ]
   },
@@ -459,6 +469,106 @@
         "site": "pptv",
         "id": "nnRg3kasHFq9O6M",
         "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "DEPTH OF FIELD ～ 愛と憎しみ劇場",
+    "titleTranslate": {
+      "zh-Hans": [
+        "DEPTH OF FIELD ～ 爱与憎恨的剧场"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.anime-chu-2.com/",
+    "begin": "2012-12-19T16:00:00.000Z",
+    "end": "2013-06-19T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "58033"
+      },
+      {
+        "site": "bilibili",
+        "id": "4300",
+        "begin": "2012-12-18T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "不肖・秋山優花里の戦車講座",
+    "titleTranslate": {
+      "zh-Hans": [
+        "不才・秋山优花里的战车讲座"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2012-12-21T16:00:00.000Z",
+    "end": "2013-06-21T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "139475"
+      },
+      {
+        "site": "bilibili",
+        "id": "4294",
+        "begin": "2012-12-20T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "ルパンしゃんしぇい",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2012-12-19T16:00:00.000Z",
+    "end": "2012-12-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "85004"
+      },
+      {
+        "site": "bilibili",
+        "id": "132212",
+        "begin": "2012-12-18T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "やなせたかしシアター",
+    "titleTranslate": {
+      "zh-Hans": [
+        "柳瀬嵩剧场"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2012-12-01T16:00:00.000Z",
+    "end": "2012-12-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "309870"
+      },
+      {
+        "site": "bilibili",
+        "id": "132012",
+        "begin": "2012-11-30T16:00:00.000Z"
       }
     ]
   }

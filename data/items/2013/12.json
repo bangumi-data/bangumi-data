@@ -262,6 +262,11 @@
         "site": "youku",
         "id": "ce0eecba743611e3a705",
         "begin": "2017-04-11T15:58:04.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "3446",
+        "begin": "2013-12-14T16:00:00.000Z"
       }
     ]
   },
@@ -311,6 +316,61 @@
         "site": "qq",
         "id": "c/cl8yrof2ilvbcym",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "6369",
+        "begin": "2013-12-26T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "ソードアート・オンライン Extra Edition",
+    "titleTranslate": {
+      "zh-Hans": [
+        "刀剑神域 Extra Edition"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.swordart-online.net/",
+    "begin": "2013-12-31T16:00:00.000Z",
+    "end": "2013-12-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "84866"
+      },
+      {
+        "site": "bilibili",
+        "id": "27127860",
+        "begin": "2013-12-30T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "中二病でも恋がしたい！戀 Lite",
+    "titleTranslate": {
+      "zh-Hans": [
+        "中二病也要谈恋爱！恋 Lite"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.anime-chu-2.com/",
+    "begin": "2013-12-26T16:00:00.000Z",
+    "end": "2014-03-13T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "91651"
+      },
+      {
+        "site": "bilibili",
+        "id": "4351",
+        "begin": "2013-12-25T16:00:00.000Z"
       }
     ]
   }

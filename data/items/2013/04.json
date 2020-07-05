@@ -126,6 +126,11 @@
       {
         "site": "bangumi",
         "id": "52485"
+      },
+      {
+        "site": "bilibili",
+        "id": "572",
+        "begin": "2013-04-02T16:00:00.000Z"
       }
     ]
   },
@@ -889,6 +894,11 @@
       {
         "site": "bangumi",
         "id": "61118"
+      },
+      {
+        "site": "bilibili",
+        "id": "1730",
+        "begin": "2013-04-06T16:00:00.000Z"
       }
     ]
   },
@@ -1270,6 +1280,11 @@
       {
         "site": "bangumi",
         "id": "69596"
+      },
+      {
+        "site": "bilibili",
+        "id": "132192",
+        "begin": "2013-04-05T16:00:00.000Z"
       }
     ]
   },
@@ -1726,6 +1741,61 @@
         "site": "nicovideo",
         "id": "ch2583350",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28224170",
+        "begin": "2013-04-12T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "ぷちっとがるがんてぃあ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "迷你加尔刚蒂亚"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://gargantia.jp/#petit",
+    "begin": "2013-04-10T16:00:00.000Z",
+    "end": "2013-07-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "73920"
+      },
+      {
+        "site": "bilibili",
+        "id": "4427",
+        "begin": "2013-04-09T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "爆TECH!爆丸 ガチ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "爆TECH!爆丸 激撞"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.tv-tokyo.co.jp/anime/bakugan-bp/",
+    "begin": "2013-04-06T16:00:00.000Z",
+    "end": "2013-12-28T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "309868"
+      },
+      {
+        "site": "bilibili",
+        "id": "132172",
+        "begin": "2013-04-05T16:00:00.000Z"
       }
     ]
   }

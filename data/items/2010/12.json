@@ -105,6 +105,11 @@
       {
         "site": "bangumi",
         "id": "21743"
+      },
+      {
+        "site": "bilibili",
+        "id": "95312",
+        "begin": "2010-12-22T16:00:00.000Z"
       }
     ]
   },
@@ -314,6 +319,26 @@
         "site": "netflix",
         "id": "70260383",
         "begin": "2016-10-15T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "ボトムズファインダー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "装甲骑兵 探寻者"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2010-12-04T16:00:00.000Z",
+    "end": "2010-12-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "41735"
       }
     ]
   }

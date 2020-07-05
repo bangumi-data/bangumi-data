@@ -570,6 +570,11 @@
       {
         "site": "bangumi",
         "id": "27567"
+      },
+      {
+        "site": "bilibili",
+        "id": "28220473",
+        "begin": "2012-10-01T16:00:00.000Z"
       }
     ]
   },
@@ -698,6 +703,11 @@
       {
         "site": "bangumi",
         "id": "37946"
+      },
+      {
+        "site": "bilibili",
+        "id": "739",
+        "begin": "2012-10-05T16:00:00.000Z"
       }
     ]
   },
@@ -720,6 +730,11 @@
       {
         "site": "bangumi",
         "id": "43558"
+      },
+      {
+        "site": "bilibili",
+        "id": "28223479",
+        "begin": "2012-10-04T16:00:00.000Z"
       }
     ]
   },
@@ -901,6 +916,11 @@
         "site": "iqiyi",
         "id": "a_19rrhzd7bd",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "751",
+        "begin": "2012-10-07T16:00:00.000Z"
       }
     ]
   },
@@ -968,6 +988,11 @@
         "site": "nicovideo",
         "id": "te-kyu",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "17",
+        "begin": "2012-10-06T16:00:00.000Z"
       }
     ]
   },
@@ -978,7 +1003,8 @@
         "wooser's hand-to-mouth life"
       ],
       "zh-Hans": [
-        "兔宝的悲惨日常"
+        "兔宝的悲惨日常",
+        "乌瑟的穷困生活"
       ]
     },
     "type": "tv",
@@ -1000,6 +1026,11 @@
         "site": "nicovideo",
         "id": "wooser",
         "begin": "2012-09-25T03:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "235",
+        "begin": "2012-10-01T16:00:00.000Z"
       }
     ]
   },
@@ -1058,6 +1089,11 @@
         "site": "nicovideo",
         "id": "seitokai2",
         "begin": "2013-11-28T15:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "20508163",
+        "begin": "2012-10-12T16:00:00.000Z"
       }
     ]
   },
@@ -1082,6 +1118,11 @@
       {
         "site": "bangumi",
         "id": "47170"
+      },
+      {
+        "site": "bilibili",
+        "id": "1679",
+        "begin": "2012-10-05T16:00:00.000Z"
       }
     ]
   },
@@ -1399,6 +1440,11 @@
         "site": "netflix",
         "id": "80041086",
         "begin": "2015-06-01T07:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28220103",
+        "begin": "2012-10-05T16:00:00.000Z"
       }
     ]
   },
@@ -1428,6 +1474,11 @@
         "site": "netflix",
         "id": "80041087",
         "begin": "2015-06-01T07:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28220104",
+        "begin": "2012-10-12T16:00:00.000Z"
       }
     ]
   },
@@ -1525,6 +1576,31 @@
       {
         "site": "bangumi",
         "id": "46014"
+      }
+    ]
+  },
+  {
+    "title": "アラタなるセカイ 未来編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新世界 未来篇"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.aratanarusekai.com/",
+    "begin": "2012-10-20T16:00:00.000Z",
+    "end": "2012-10-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "41574"
+      },
+      {
+        "site": "bilibili",
+        "id": "4302",
+        "begin": "2012-10-19T16:00:00.000Z"
       }
     ]
   }
