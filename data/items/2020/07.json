@@ -704,5 +704,30 @@
         "begin": ""
       }
     ]
+  },
+  {
+    "title": "デカダンス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "DECA-DENCE",
+        "没落要塞"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://decadence-anime.com/",
+    "begin": "2020-07-08T14:30:00.000Z",
+    "end": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "285879"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229234",
+        "begin": "2020-07-08T16:00:00.000Z"
+      }
+    ]
   }
 ]
