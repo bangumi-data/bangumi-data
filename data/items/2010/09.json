@@ -108,6 +108,11 @@
         "site": "nicovideo",
         "id": "hetaria-world-series",
         "begin": "2012-12-28T07:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "3475",
+        "begin": "2010-09-09T16:00:00.000Z"
       }
     ]
   },
@@ -133,6 +138,11 @@
         "site": "pptv",
         "id": "vIx39V3DM3HUUro",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "4052",
+        "begin": "2010-09-22T16:00:00.000Z"
       }
     ]
   },
@@ -153,6 +163,31 @@
         "site": "nicovideo",
         "id": "agukaru",
         "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 こわれかけのオルゴール",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 快要坏掉的八音盒"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://flowerorgel.net/movie-info.html",
+    "begin": "2010-09-11T16:00:00.000Z",
+    "end": "2010-09-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10613"
+      },
+      {
+        "site": "bilibili",
+        "id": "5456",
+        "begin": "2010-09-10T16:00:00.000Z"
       }
     ]
   }

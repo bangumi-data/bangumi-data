@@ -110,5 +110,55 @@
         "id": "296114"
       }
     ]
+  },
+  {
+    "title": "映画 妖怪学園Y 猫はHEROになれるか",
+    "titleTranslate": {
+      "zh-Hans": [
+        "妖怪学园Y 猫也能成为HERO 吗"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.eiga-yokai.jp/",
+    "begin": "2019-12-13T16:00:00.000Z",
+    "end": "2019-12-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "277457"
+      },
+      {
+        "site": "nicovideo",
+        "id": "eiga-yokai",
+        "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "ルパン三世 THE FIRST",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世 THE FIRST"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://lupin-3rd-movie.com/",
+    "begin": "2019-12-06T16:00:00.000Z",
+    "end": "2019-12-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "286238"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lupin-3rd-movie",
+        "begin": ""
+      }
+    ]
   }
 ]
