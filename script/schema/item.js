@@ -18,22 +18,46 @@ const ISOJoi = Joi.extend((joi) => {
         base: joi.string(),
         name: 'string',
         language: {
-            isoString: 'needs to be same as that after `.toISOString()`'
+            isoString: 'needs to be same as that after `.toISOString()`',
+            isoRangeDateInvalid: 'date is invalid',
+            isoRangeFormatInvalid: 'format is incorrect, interval only supports D and M'
         },
-        rules: [{
-            name: 'isoString',
-            validate(params, value, state, options) {
-                let valid = true;
-                try {
-                    valid = value === new Date(value).toISOString();
-                } catch (err) {
-                    valid = false;
+        rules: [
+            {
+                name: 'isoString',
+                validate(params, value, state, options) {
+                    let valid = true;
+                    try {
+                        valid = value === new Date(value).toISOString();
+                    } catch (err) {
+                        valid = false;
+                    }
+                    return valid
+                        ? value
+                        : this.createError('string.isoString', { v: value }, state, options);
                 }
-                return valid
-                    ? value
-                    : this.createError('string.isoString', { v: value }, state, options);
+            },
+            {
+                name: 'isoRangeString',
+                validate(params, value, state, options) {
+                    if (!/R\/\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d{3})?Z\/P\d{1,2}[DM]/.test(value)) {
+                        return this.createError('string.isoRangeFormatInvalid', { v: value }, state, options);
+                    }
+
+                    let valid = true;
+                    const dateValue = value.split('/')[1];
+                    try {
+                        valid = dateValue === new Date(dateValue).toISOString();
+                    } catch (err) {
+                        valid = false;
+                    }
+
+                    return valid
+                        ? value
+                        : this.createError('string.isoRangeDateInvalid', { v: value }, state, options);
+                }
             }
-        }]
+        ]
     };
 });
 
@@ -44,6 +68,7 @@ module.exports = Joi.object().keys({
     lang: Joi.string().valid(validLang).required(),
     officialSite: Joi.string().uri().required().allow(''),
     begin: ISOJoi.string().isoString().required().allow(''),
+    broadcast: ISOJoi.string().isoRangeString().allow(''),
     end: ISOJoi.string().isoString().required().allow(''),
     comment: Joi.string().trim().allow(''),
     sites: Joi.array().items(Joi.object()
@@ -58,6 +83,7 @@ module.exports = Joi.object().keys({
         .when(Joi.object().keys({ site: Joi.valid(Object.keys(onairSite)) }).unknown(), {
             then: Joi.object().keys({
                 begin: ISOJoi.string().isoString().required().allow(''),
+                broadcast: ISOJoi.string().isoRangeString().allow(''),
                 comment: Joi.string().trim().allow('')
             })
         }))

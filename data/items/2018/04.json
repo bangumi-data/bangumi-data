@@ -1619,8 +1619,9 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "http://anime-pad.com/",
+    "officialSite": "https://www.tv-tokyo.co.jp/anime/pad/",
     "begin": "2018-04-02T09:25:00.000Z",
+    "broadcast": "R/2020-10-04T09:00:00.000Z/P7D",
     "end": "",
     "sites": [
       {
@@ -1630,17 +1631,20 @@
       {
         "site": "bilibili",
         "id": "79412",
-        "begin": "2018-04-02T10:25:00.000Z"
+        "begin": "2018-04-02T10:25:00.000Z",
+        "broadcast": "R/2020-10-04T09:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
         "id": "a_19rrgyp04l",
-        "begin": "2018-04-02T10:20:06.000Z"
+        "begin": "2018-04-02T10:20:06.000Z",
+        "broadcast": "R/2020-10-04T09:00:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "30c74046e30f487eb6a8",
-        "begin": "2018-04-22T13:31:26.000Z"
+        "begin": "2018-04-22T13:31:26.000Z",
+        "broadcast": "R/2020-10-04T09:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",

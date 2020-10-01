@@ -2182,17 +2182,14 @@
     "lang": "ja",
     "officialSite": "http://www.bonoanime.jp/",
     "begin": "2016-04-01T19:52:00.000Z",
+    "broadcast": "R/2018-04-06T20:22:00.000Z/P7D",
     "end": "",
     "sites": [
       {
-        "site": "iqiyi",
-        "id": "a_19rrh9d749",
-        "begin": "2017-03-03T02:00:21.000Z"
-      },
-      {
         "site": "bilibili",
         "id": "5615",
-        "begin": "2016-10-22T00:00:10.000Z"
+        "begin": "2016-10-22T00:00:10.000Z",
+        "broadcast": "R/2020-07-03T21:30:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -2440,7 +2437,7 @@
         "早上了!贝社员"
       ]
     },
-    "type": "tv",
+    "type": "web",
     "lang": "ja",
     "officialSite": "http://kaishain.net/",
     "begin": "2016-04-04T16:00:00.000Z",
