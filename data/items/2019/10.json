@@ -1627,6 +1627,11 @@
         "site": "nicovideo",
         "id": "soraaoproject",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28229655",
+        "begin": ""
       }
     ]
   },
@@ -1707,6 +1712,31 @@
         "site": "bilibili",
         "id": "28228701",
         "begin": "2019-10-24T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "冴えない彼女の育てかた Fine",
+    "titleTranslate": {
+      "zh-Hans": [
+        "路人女主的养成方法 Fine"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://saenai-movie.com/",
+    "begin": "2019-10-26T16:00:00.000Z",
+    "end": "2019-10-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "231497"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229860",
+        "begin": ""
       }
     ]
   }

@@ -59,6 +59,11 @@
         "site": "youku",
         "id": "bdde920ff9ec42c7899c",
         "begin": "2019-07-18T07:38:21.000Z"
+      },
+      {
+        "site": "qq",
+        "id": "5/5adizjcg9ycyaje",
+        "begin": ""
       }
     ]
   },
@@ -1154,7 +1159,11 @@
   },
   {
     "title": "トライナイツ",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "TRY KNIGHTS"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://www.ntv.co.jp/tryknights/",
@@ -1169,6 +1178,16 @@
         "site": "nicovideo",
         "id": "tryknights",
         "begin": "2019-08-03T03:00:00.000Z"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_2ffkws2tv3l",
+        "begin": ""
+      },
+      {
+        "site": "qq",
+        "id": "m/mzc00200i0gevat",
+        "begin": ""
       }
     ]
   },
