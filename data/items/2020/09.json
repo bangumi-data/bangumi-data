@@ -64,6 +64,12 @@
       {
         "site": "bangumi",
         "id": "199423"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mdzs",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -106,5 +112,31 @@
     "end": "",
     "comment": "",
     "sites": []
+  },
+  {
+    "title": "荒野のコトブキ飛行隊 完全版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "荒野的寿飞行队 完全版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://kotobuki-anime.com",
+    "begin": "2020-09-11T16:00:00.000Z",
+    "end": "2020-09-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "299427"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kotobuki-movie",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]

@@ -477,6 +477,12 @@
         "id": "dfaa9262a41b49a9a7bb",
         "begin": "2020-10-02T17:25:00.000Z",
         "broadcast": "R/2020-10-02T17:25:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "jujutsukaisen",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -577,6 +583,12 @@
         "id": "6003906",
         "begin": "2020-10-04T15:30:00.000Z",
         "broadcast": "R/2020-10-04T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "maesetsu",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -604,6 +616,12 @@
         "id": "28229883",
         "begin": "2020-10-06T13:00:00.000Z",
         "broadcast": "R/2020-10-06T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "iwgp-anime",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -746,6 +764,12 @@
       {
         "site": "iqiyi",
         "id": "a_19rrh1jyy5",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "osomatsusan3",
         "begin": "",
         "broadcast": ""
       }
@@ -1068,6 +1092,12 @@
         "id": "28229886",
         "begin": "2020-10-13T15:30:00.000Z",
         "broadcast": "R/2020-10-13T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "magatsu-wahrheit",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1112,6 +1142,12 @@
       {
         "site": "bangumi",
         "id": "316106"
+      },
+      {
+        "site": "nicovideo",
+        "id": "eternity-nurechan",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1133,6 +1169,12 @@
       {
         "site": "bangumi",
         "id": "297340"
+      },
+      {
+        "site": "nicovideo",
+        "id": "railromanesque",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1220,6 +1262,12 @@
         "id": "6003907",
         "begin": "2020-10-07T14:00:00.000Z",
         "broadcast": "R/2020-10-07T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "NOBLESSE",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1270,6 +1318,12 @@
       {
         "site": "bangumi",
         "id": "299372"
+      },
+      {
+        "site": "nicovideo",
+        "id": "d4dj-pj",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1463,6 +1517,12 @@
         "id": "28230233",
         "begin": "2020-10-08T12:54:00.000Z",
         "broadcast": "R/2020-10-08T12:54:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "guraburu-granbluefantasy",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1501,6 +1561,12 @@
       {
         "site": "bangumi",
         "id": "310899"
+      },
+      {
+        "site": "nicovideo",
+        "id": "seizeiganbare_3",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1518,6 +1584,12 @@
       {
         "site": "bangumi",
         "id": "315133"
+      },
+      {
+        "site": "nicovideo",
+        "id": "soredakega-neck",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1648,6 +1720,32 @@
         "id": "28229901",
         "begin": "2020-10-02T00:00:01.000Z",
         "broadcast": "R/2020-10-02T00:00:01.000Z/P0D"
+      }
+    ]
+  },
+  {
+    "title": "刀使ノ巫女 刻みし一閃の燈火 OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "刀使巫女 刻印一闪的灯火 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://tojitomo-anime.jp",
+    "begin": "2020-10-25T16:00:00.000Z",
+    "end": "2020-11-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "296798"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tojinomiko-ova",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }
