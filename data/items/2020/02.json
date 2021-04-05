@@ -81,5 +81,31 @@
         "begin": ""
       }
     ]
+  },
+  {
+    "title": "劇場版 SHIROBAKO",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 白箱"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://shirobako-movie.com/",
+    "begin": "2020-02-29T16:00:00.000Z",
+    "end": "2020-02-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "244761"
+      },
+      {
+        "site": "nicovideo",
+        "id": "movie-shirobako",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]

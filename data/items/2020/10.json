@@ -682,6 +682,12 @@
         "id": "28229880",
         "begin": "2020-10-08T13:00:00.000Z",
         "broadcast": "R/2020-10-08T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "akudama-drive",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1744,6 +1750,32 @@
       {
         "site": "nicovideo",
         "id": "tojinomiko-ova",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 BEM ～BECOME HUMAN～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 BEM ～BECOME HUMAN～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://newbem.jp/2020_mv",
+    "begin": "2020-10-02T16:00:00.000Z",
+    "end": "2020-10-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "307925"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bem-movie",
         "begin": "",
         "broadcast": ""
       }

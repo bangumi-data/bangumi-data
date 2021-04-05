@@ -39,5 +39,57 @@
         "id": "320857"
       }
     ]
+  },
+  {
+    "title": "ぶらどらぶ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "吸血鬼之爱"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.vladlove.com/",
+    "begin": "2021-02-14T16:00:00.000Z",
+    "end": "2021-03-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "285424"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ichigo-animation",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "キメツ学園 バレンタイン編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鬼灭学园 情人节篇"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.youtube.com/aniplex",
+    "begin": "2021-02-14T16:00:00.000Z",
+    "end": "2021-02-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "327414"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kimetsugakuen",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]
