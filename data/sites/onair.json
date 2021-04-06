@@ -42,5 +42,9 @@
   "netflix": {
     "title": "Netflix",
     "urlTemplate": "https://www.netflix.com/title/{{id}}"
+  },
+  "muse_hk": {
+    "title": "木棉花 HK",
+    "urlTemplate": "https://www.youtube.com/playlist?list={{id}}"
   }
 }
