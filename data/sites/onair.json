@@ -42,5 +42,9 @@
   "netflix": {
     "title": "Netflix",
     "urlTemplate": "https://www.netflix.com/title/{{id}}"
+  },
+  "gamer": {
+    "title": "動畫瘋",
+    "urlTemplate": "https://acg.gamer.com.tw/acgDetail.php?s={{id}}"
   }
 }
