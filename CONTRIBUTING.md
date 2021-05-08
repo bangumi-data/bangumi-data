@@ -74,7 +74,8 @@ dist/                                --> 存放构建后数据的目录
             "url": "http://www.bilibili.com/sp/物语系列", // url，如果当前url不符合urlTemplate中的规则时使用，优先级高于id
             "begin": "2016-04-03T17:35:00.000Z", // 放送开始时间。
             "broadcast": "R/2016-04-03T17:35:00.000Z/P7D", // 放送周期，见下方详细说明
-            "comment": "" // 备注
+            "comment": "", // 备注
+            "regions": ["CN"] // 番剧放松站点区域限制，用于覆盖站点本身的区域限制
         },
         // 资讯站点
         {
@@ -114,10 +115,13 @@ dist/                                --> 存放构建后数据的目录
     // 站点字段名，和番组数据中 sites 数组中元素的 site 字段名对应
     "bangumi": {
         "title": "番组计划", // 站点名称 [required]
-        "urlTemplate": "https://bangumi.tv/subject/{{id}}" // 站点 url 模板 [required]
+        "urlTemplate": "https://bangumi.tv/subject/{{id}}", // 站点 url 模板 [required]
+        "regions": ["CN"] // 站点区域限制，主要针对onAir类型的放送站点。如无该字段，表明该站点无区域限制
     }
 }
 ```
+
+针对同一个站点存在不同区域限制的情况（例如Bilibili存在不同ID的，只可在部分区域播放的番剧），现在的做法是新建一个站点并加上相应区域限制，可参照`onAir.json`中的`bilibili_hk_mo_tw`数据条目。
 
 ## 站点 url 拼接
 
