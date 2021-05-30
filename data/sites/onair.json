@@ -60,6 +60,7 @@
   },
   "muse_hk": {
     "title": "木棉花 HK",
-    "urlTemplate": "https://www.youtube.com/playlist?list={{id}}"
+    "urlTemplate": "https://www.youtube.com/playlist?list={{id}}",
+    "regions": ["HK"]
   }
 }
