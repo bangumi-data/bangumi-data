@@ -60,6 +60,7 @@
   },
   "gamer": {
     "title": "動畫瘋",
-    "urlTemplate": "https://acg.gamer.com.tw/acgDetail.php?s={{id}}"
+    "urlTemplate": "https://acg.gamer.com.tw/acgDetail.php?s={{id}}",
+    "regions": ["TW"]
   }
 }
