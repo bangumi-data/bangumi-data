@@ -1,43 +1,58 @@
 {
   "acfun": {
     "title": "AcFun",
-    "urlTemplate": "https://www.acfun.cn/bangumi/aa{{id}}"
+    "urlTemplate": "https://www.acfun.cn/bangumi/aa{{id}}",
+    "regions": ["CN"]
   },
   "bilibili": {
     "title": "哔哩哔哩",
-    "urlTemplate": "https://www.bilibili.com/bangumi/media/md{{id}}/"
+    "urlTemplate": "https://www.bilibili.com/bangumi/media/md{{id}}/",
+    "regions": ["CN"]
+  },
+  "bilibili_hk_mo_tw": {
+    "title": "哔哩哔哩（港澳台）",
+    "urlTemplate": "https://www.bilibili.com/bangumi/media/md{{id}}/",
+    "regions": ["HK", "MO", "TW"]
   },
   "sohu": {
     "title": "搜狐视频",
-    "urlTemplate": "https://tv.sohu.com/{{id}}"
+    "urlTemplate": "https://tv.sohu.com/{{id}}",
+    "regions": ["CN"]
   },
   "youku": {
     "title": "优酷",
-    "urlTemplate": "https://list.youku.com/show/id_z{{id}}.html"
+    "urlTemplate": "https://list.youku.com/show/id_z{{id}}.html",
+    "regions": ["CN"]
   },
   "qq": {
     "title": "腾讯视频",
-    "urlTemplate": "https://v.qq.com/detail/{{id}}.html"
+    "urlTemplate": "https://v.qq.com/detail/{{id}}.html",
+    "regions": ["CN"]
   },
   "iqiyi": {
     "title": "爱奇艺",
-    "urlTemplate": "https://www.iqiyi.com/{{id}}.html"
+    "urlTemplate": "https://www.iqiyi.com/{{id}}.html",
+    "regions": ["CN"]
   },
   "letv": {
     "title": "乐视",
-    "urlTemplate": "https://www.le.com/comic/{{id}}.html"
+    "urlTemplate": "https://www.le.com/comic/{{id}}.html",
+    "regions": ["CN"]
   },
   "pptv": {
     "title": "PPTV",
-    "urlTemplate": "http://v.pptv.com/page/{{id}}.html"
+    "urlTemplate": "http://v.pptv.com/page/{{id}}.html",
+    "regions": ["CN"]
   },
   "mgtv": {
     "title": "芒果tv",
-    "urlTemplate": "https://www.mgtv.com/h/{{id}}.html"
+    "urlTemplate": "https://www.mgtv.com/h/{{id}}.html",
+    "regions": ["CN"]
   },
   "nicovideo": {
     "title": "Niconico",
-    "urlTemplate": "https://ch.nicovideo.jp/{{id}}"
+    "urlTemplate": "https://ch.nicovideo.jp/{{id}}",
+    "regions": ["JP"]
   },
   "netflix": {
     "title": "Netflix",
