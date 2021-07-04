@@ -44,6 +44,16 @@
         "id": "PLuxqoToY7UchI8eLvRPMGGFHxVD7ynzRI",
         "begin": "2021-07-08T16:30:00.000Z",
         "broadcast": "R/2021-07-08T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234647",
+        "begin": ""
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234706",
+        "begin": ""
       }
     ]
   },
@@ -92,6 +102,11 @@
         "id": "PLuxqoToY7UcjVW-uvuxJdfBiIaX9uMdLt",
         "begin": "2021-07-03T18:55:00.000Z",
         "broadcast": "R/2021-07-03T18:55:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234732",
+        "begin": ""
       }
     ]
   },
@@ -113,6 +128,16 @@
       {
         "site": "bangumi",
         "id": "296870"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234556",
+        "begin": ""
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234715",
+        "begin": ""
       }
     ]
   },
@@ -134,6 +159,16 @@
       {
         "site": "bangumi",
         "id": "325727"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234637",
+        "begin": ""
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234730",
+        "begin": ""
       }
     ]
   },
@@ -155,6 +190,16 @@
       {
         "site": "bangumi",
         "id": "327055"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234412",
+        "begin": ""
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234714",
+        "begin": ""
       }
     ]
   },
@@ -176,6 +221,16 @@
       {
         "site": "bangumi",
         "id": "317275"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234623",
+        "begin": ""
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234719",
+        "begin": ""
       }
     ]
   },
@@ -197,6 +252,11 @@
       {
         "site": "bangumi",
         "id": "309056"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234614",
+        "begin": ""
       }
     ]
   },
@@ -218,6 +278,11 @@
       {
         "site": "bangumi",
         "id": "323840"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234734",
+        "begin": ""
       }
     ]
   },
@@ -239,6 +304,11 @@
       {
         "site": "bangumi",
         "id": "331033"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234723",
+        "begin": ""
       }
     ]
   },
@@ -263,6 +333,16 @@
       {
         "site": "bangumi",
         "id": "274234"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234613",
+        "begin": ""
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234716",
+        "begin": ""
       }
     ]
   },
@@ -284,6 +364,11 @@
       {
         "site": "bangumi",
         "id": "292832"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234615",
+        "begin": ""
       }
     ]
   },
@@ -350,6 +435,11 @@
       {
         "site": "bangumi",
         "id": "331692"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234705",
+        "begin": ""
       }
     ]
   },
@@ -371,12 +461,21 @@
       {
         "site": "bangumi",
         "id": "297361"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234707",
+        "begin": ""
       }
     ]
   },
   {
     "title": "迷宮ブラックカンパニー",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "异世界迷宫黑心企业"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://meikyubc-anime.com/",
@@ -384,7 +483,22 @@
     "broadcast": "R/2021-07-03T10:00:00.000Z/P7D",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "309668"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234626",
+        "begin": ""
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234721",
+        "begin": ""
+      }
+    ]
   },
   {
     "title": "ジャヒー様はくじけない！",
@@ -428,6 +542,16 @@
       {
         "site": "bangumi",
         "id": "312223"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234640",
+        "begin": ""
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234722",
+        "begin": ""
       }
     ]
   },
@@ -449,6 +573,16 @@
       {
         "site": "bangumi",
         "id": "332649"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234650",
+        "begin": ""
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234735",
+        "begin": ""
       }
     ]
   },
@@ -503,6 +637,16 @@
       {
         "site": "bangumi",
         "id": "320851"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234625",
+        "begin": ""
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234720",
+        "begin": ""
       }
     ]
   },
@@ -527,6 +671,16 @@
       {
         "site": "bangumi",
         "id": "304319"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234644",
+        "begin": ""
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234733",
+        "begin": ""
       }
     ]
   },
@@ -575,6 +729,16 @@
         "id": "PLuxqoToY7Ucin4gYt5FYbWjLn6NDJ8itB",
         "begin": "2021-07-12T17:30:00.000Z",
         "broadcast": "R/2021-07-12T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234627",
+        "begin": ""
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234727",
+        "begin": ""
       }
     ]
   },
@@ -596,6 +760,11 @@
       {
         "site": "bangumi",
         "id": "305390"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234740",
+        "begin": ""
       }
     ]
   },
@@ -617,6 +786,11 @@
       {
         "site": "bangumi",
         "id": "323960"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234738",
+        "begin": ""
       }
     ]
   },
@@ -638,6 +812,16 @@
       {
         "site": "bangumi",
         "id": "317680"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234655",
+        "begin": ""
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234737",
+        "begin": ""
       }
     ]
   },
@@ -733,6 +917,61 @@
       {
         "site": "bangumi",
         "id": "318602"
+      }
+    ]
+  },
+  {
+    "title": "100万の命の上に俺は立っている(第2シーズン)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我立于百万生命之上"
+      ],
+      "en": [
+        "I'M STANDING ON 1,000,000 LIVES. (2nd Season)"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://1000000-lives.com/",
+    "begin": "2021-07-02T15:30:00.000Z",
+    "broadcast": "R/2021-07-02T15:30:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "322859"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234641",
+        "begin": ""
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234731",
+        "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "転生したらスライムだった件 第2期 第2部",
+    "titleTranslate": {
+      "zh-Hans": [
+        "关于我转生变成史莱姆这档事 第二季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.ten-sura.com/anime/tensura",
+    "begin": "2021-07-06T14:00:00.000Z",
+    "broadcast": "R/2021-07-06T14:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302523"
       }
     ]
   }
