@@ -617,6 +617,12 @@
       {
         "site": "bangumi",
         "id": "333349"
+      },
+      {
+        "site": "nicovideo",
+        "id": "jahysama-anime",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1063,6 +1069,12 @@
       {
         "site": "bangumi",
         "id": "302875"
+      },
+      {
+        "site": "nicovideo",
+        "id": "magireco_2nd",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1211,6 +1223,32 @@
         "id": "113084",
         "begin": "2021-07-22T16:30:00.000Z",
         "broadcast": "R/2021-07-22T16:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場編集版かくしごと ―ひめごとはなんですか―",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场编集版 隐瞒之事 -秘密是什么-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://kakushigoto-anime.com",
+    "begin": "2021-07-09T16:00:00.000Z",
+    "end": "2021-07-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "322349"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kakushigoto-movie",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }
