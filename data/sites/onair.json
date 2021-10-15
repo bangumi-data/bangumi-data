@@ -67,5 +67,10 @@
     "title": "木棉花 HK",
     "urlTemplate": "https://www.youtube.com/playlist?list={{id}}",
     "regions": ["HK"]
+  },
+  "viu": {
+    "title": "Viu",
+    "urlTemplate": "https://www.viu.com/ott/hk/zh-hk/vod/{{id}}/",
+    "regions": ["HK","SG","MY","IN","PH","TH","MM","BH","EG","JO","KW","OM","QA","SA","AE","ZA"]
   }
 }

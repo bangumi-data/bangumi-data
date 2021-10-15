@@ -88,6 +88,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "关于前辈很烦人的事"
+      ],
+      "zh-Hant": [
+        "前輩有夠煩"
       ]
     },
     "type": "tv",
@@ -107,6 +110,12 @@
         "id": "senpaiga-uzai",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "viu",
+        "id": "397958",
+        "begin": "2021-10-04T16:00:00.000Z",
+        "broadcast": "R/2021-10-04T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -115,6 +124,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "无职转生 ～在异世界认真地活下去～ 第二季"
+      ],
+      "zh-Hant": [
+        "無職轉生～到了異世界就拿出真本事～"
       ]
     },
     "type": "tv",
@@ -128,6 +140,12 @@
       {
         "site": "bangumi",
         "id": "325585"
+      },
+      {
+        "site": "viu",
+        "id": "326915",
+        "begin": "2021-10-03T16:00:00.000Z",
+        "broadcast": "R/2021-10-03T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -182,6 +200,12 @@
         "id": "isekai-shokudo2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "viu",
+        "id": "396385",
+        "begin": "2021-10-01T16:00:00.000Z",
+        "broadcast": "R/2021-10-01T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -546,6 +570,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "宿命回响"
+      ],
+      "zh-Hant": [
+        "宿命迴響：命運節拍"
       ]
     },
     "type": "tv",
@@ -565,6 +592,12 @@
         "id": "takt-op",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "viu",
+        "id": "396997",
+        "begin": "2021-10-05T16:00:00.000Z",
+        "broadcast": "R/2021-10-05T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -671,6 +704,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "世界顶尖的暗杀者转生为异世界贵族"
+      ],
+      "zh-Hant": [
+        "世界頂尖的暗殺者轉生為異世界貴族"
       ]
     },
     "type": "tv",
@@ -690,6 +726,12 @@
         "id": "ansatsu-kizoku",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "viu",
+        "id": "397343",
+        "begin": "2021-10-05T16:00:00.000Z",
+        "broadcast": "R/2021-10-05T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1268,7 +1310,11 @@
   },
   {
     "title": "鬼滅の刃 無限列車編",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hant": [
+        "鬼滅之刃 無限列車篇"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://kimetsu.com/anime/mugenresshahen_tv/",
@@ -1286,6 +1332,12 @@
         "id": "kimetsu_mugenresshahen",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "viu",
+        "id": "398200",
+        "begin": "2021-10-09T16:00:00.000Z",
+        "broadcast": "R/2021-10-09T16:00:00.000Z/P7D"
       }
     ]
   },
