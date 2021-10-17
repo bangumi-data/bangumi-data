@@ -106,6 +106,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "关于前辈很烦人的事"
+      ],
+      "zh-Hant": [
+        "前輩有夠煩"
       ]
     },
     "type": "tv",
@@ -125,6 +128,12 @@
         "id": "senpaiga-uzai",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "viu",
+        "id": "397958",
+        "begin": "2021-10-04T16:00:00.000Z",
+        "broadcast": "R/2021-10-04T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -133,6 +142,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "无职转生 ～在异世界认真地活下去～ 第二季"
+      ],
+      "zh-Hant": [
+        "無職轉生～到了異世界就拿出真本事～"
       ]
     },
     "type": "tv",
@@ -146,6 +158,12 @@
       {
         "site": "bangumi",
         "id": "325585"
+      },
+      {
+        "site": "viu",
+        "id": "326915",
+        "begin": "2021-10-03T16:00:00.000Z",
+        "broadcast": "R/2021-10-03T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -200,6 +218,12 @@
         "id": "isekai-shokudo2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "viu",
+        "id": "396385",
+        "begin": "2021-10-01T16:00:00.000Z",
+        "broadcast": "R/2021-10-01T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -632,6 +656,12 @@
         "id": "PLxSscENEp7Jgp5-czzbc2NrWBg5g2qz7n",
         "begin": "2021-10-04T16:00:00.000Z",
         "broadcast": "R/2021-10-04T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "396997",
+        "begin": "2021-10-05T16:00:00.000Z",
+        "broadcast": "R/2021-10-05T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -772,6 +802,12 @@
         "id": "PLuxqoToY7UcgAgalhgX5UlSOdg_EJtVea",
         "begin": "2021-10-11T16:00:00.000Z",
         "broadcast": "R/2021-10-11T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "397343",
+        "begin": "2021-10-05T16:00:00.000Z",
+        "broadcast": "R/2021-10-05T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1404,7 +1440,11 @@
   },
   {
     "title": "鬼滅の刃 無限列車編",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hant": [
+        "鬼滅之刃 無限列車篇"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://kimetsu.com/anime/mugenresshahen_tv/",
@@ -1422,6 +1462,12 @@
         "id": "kimetsu_mugenresshahen",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "viu",
+        "id": "398200",
+        "begin": "2021-10-09T16:00:00.000Z",
+        "broadcast": "R/2021-10-09T16:00:00.000Z/P7D"
       }
     ]
   },

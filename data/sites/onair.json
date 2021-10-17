@@ -72,5 +72,10 @@
     "title": "Ani-One Asia",
     "urlTemplate": "https://www.youtube.com/playlist?list={{id}}",
     "regions": ["HK","TW","MO","SG","MY","PH","TH","ID","VN","KH","BD","BN","BT","FJ","FM","IN","KH","LA","LK","MH","MM","MN","MV","NP","NR","PG","PK","PW","SB","TL","TO","TV","VU","WS"]
+  },
+  "viu": {
+    "title": "Viu",
+    "urlTemplate": "https://www.viu.com/ott/hk/zh-hk/vod/{{id}}/",
+    "regions": ["HK","SG","MY","IN","PH","TH","MM","BH","EG","JO","KW","OM","QA","SA","AE","ZA"]
   }
 }
