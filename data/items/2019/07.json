@@ -371,6 +371,9 @@
       ],
       "zh-Hans": [
         "肌肉少女：哑铃，能举多少公斤？"
+      ],
+      "zh-Hant": [
+        "流汗吧！健身少女"
       ]
     },
     "type": "tv",
@@ -392,6 +395,12 @@
         "site": "bilibili",
         "id": "28221412",
         "begin": "2019-07-03T14:30:00.000Z"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jh8hxcblZc6gHcGUq28Xp7S",
+        "begin": "2020-01-29T16:00:00.000Z",
+        "broadcast": "R/2020-01-29T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -815,6 +824,9 @@
       ],
       "zh-Hans": [
         "彼方的阿斯特拉"
+      ],
+      "zh-Hant": [
+        "彼方的阿斯特拉"
       ]
     },
     "type": "tv",
@@ -841,6 +853,12 @@
         "site": "pptv",
         "id": "W4hl40uxIVicCQKg",
         "begin": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjKS52JHz9UKkpm59FFR593",
+        "begin": "2020-08-31T16:00:00.000Z",
+        "broadcast": "R/2020-08-31T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1099,7 +1117,11 @@
   },
   {
     "title": "博多明太！ぴりからこちゃん",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hant": [
+        "博多明太！麻辣子醬"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://pirikarakochan.com/",
@@ -1114,6 +1136,12 @@
         "site": "nicovideo",
         "id": "pirikarakochan",
         "begin": "2019-07-07T03:00:00.000Z"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jjprl_mJiiRAz2gWU2MXPMw",
+        "begin": "2020-08-22T16:00:00.000Z",
+        "broadcast": "R/2020-08-22T16:00:00.000Z/P7D"
       }
     ]
   },
