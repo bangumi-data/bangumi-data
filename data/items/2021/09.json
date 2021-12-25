@@ -61,5 +61,61 @@
         "broadcast": "R/2021-09-19T22:20:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "鬼滅の刃 浅草編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鬼灭之刃 浅草篇"
+      ],
+      "zh-Hant": [
+        "鬼滅之刃 淺草篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://kimetsu.com/anime/",
+    "begin": "2020-09-12T12:00:00.000Z",
+    "end": "2020-09-12T12:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "349032"
+      },
+      {
+        "site": "viu",
+        "id": "415241",
+        "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "鬼滅の刃 鼓屋敷編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鬼灭之刃 鼓屋敷篇"
+      ],
+      "zh-Hant": [
+        "鬼滅之刃 鼓之宅院篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://kimetsu.com/anime/",
+    "begin": "2020-09-18T12:00:00.000Z",
+    "end": "2020-09-18T12:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "349033"
+      },
+      {
+        "site": "viu",
+        "id": "415448",
+        "begin": ""
+      }
+    ]
   }
 ]
