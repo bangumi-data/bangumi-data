@@ -142,6 +142,9 @@ dist/                                --> 存放构建后数据的目录
 * [https://v.qq.com/detail/<kbd>g/gyf3u5vx0m42531</kbd>.html](https://v.qq.com/detail/g/gyf3u5vx0m42531.html)
 * [https://list.youku.com/show/id_z<kbd>4d8cce35815111e6b16e</kbd>.html](https://list.youku.com/show/id_z4d8cce35815111e6b16</kbd>.html)
 * [https://www.netflix.com/title/<kbd>81033445</kbd>](https://www.netflix.com/title/81033445)
+* [https://acg.gamer.com.tw/acgDetail.php?s=<kbd>112745</kbd>](https://acg.gamer.com.tw/acgDetail.php?s=112745)
+* [https://www.youtube.com/playlist?list=<kbd>PLuxqoToY7UchI8eLvRPMGGFHxVD7ynzRI</kbd>](https://www.youtube.com/playlist?list=PLuxqoToY7UchI8eLvRPMGGFHxVD7ynzRI)
+* [https://www.viu.com/ott/hk/zh-hk/vod/<kbd>397958</kbd>/](https://www.viu.com/ott/hk/zh-hk/vod/397958/)
 
 ## 验证
 
