@@ -9,7 +9,8 @@
     "comma-dangle": [2, "never"],
     "no-console": 0,
     "func-names": 0,
-    "space-before-function-paren": [2, "never"]
+    "space-before-function-paren": [2, "never"],
+    "default-param-last": 0
   },
   "env": {
     "node": true
