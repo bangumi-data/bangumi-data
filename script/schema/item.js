@@ -3,7 +3,7 @@ const infoSite = require('../../data/sites/info.json');
 const onairSite = require('../../data/sites/onair.json');
 const resourceSite = require('../../data/sites/resource.json');
 
-const allSite = Object.assign({}, infoSite, onairSite, resourceSite);
+const allSite = { ...infoSite, ...onairSite, ...resourceSite };
 
 const validLang = ['ja', 'en', 'zh-Hans', 'zh-Hant'];
 const titleTranslateKeySchema = {};

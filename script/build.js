@@ -71,7 +71,7 @@ readJsonPaths(ITEMS_DIRECTORY, IGNORE_PATH_REGEXP)
                 siteData[key].type = type;
             });
 
-            sitesData = Object.assign({}, sitesData, siteData);
+            sitesData = { ...sitesData, ...siteData };
         });
 
         return Promise.resolve(sitesData);
