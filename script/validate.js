@@ -29,7 +29,6 @@ const validateItems = readJsonPaths(ITEMS_DIRECTORY, IGNORE_PATH_REGEXP)
                     }
                 });
 
-
                 // validate end date if exist
                 if (itemData.end && itemData.begin) {
                     const endDate = new Date(itemData.end);
