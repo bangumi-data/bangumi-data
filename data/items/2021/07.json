@@ -1416,5 +1416,33 @@
         "broadcast": ""
       }
     ]
+  },
+  {
+    "title": "闇芝居(第9期)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "暗芝居 第九季"
+      ],
+      "zh-Hant": [
+        "闇芝居 第9季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.tv-tokyo.co.jp/anime/yamishibai9/",
+    "begin": "2021-07-11T18:05:00.000Z",
+    "end": "2021-10-13T18:20:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "338201"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Uci45W8fvnh1pUWZxB-DejP5",
+        "begin": "2021-07-11T17:10:00.000Z",
+        "broadcast": "R/2021-07-11T17:10:00.000Z/P7D"
+      }
+    ]
   }
 ]
