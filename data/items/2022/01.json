@@ -20,6 +20,12 @@
       {
         "site": "bangumi",
         "id": "286211"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JiiGFGJ0TQJUnHeTMIzBceT",
+        "begin": "2022-01-10T17:00:00.000Z",
+        "broadcast": "R/2022-01-10T17:00:00.000Z/P0D"
       }
     ]
   },
@@ -1025,6 +1031,70 @@
         "id": "417856",
         "begin": "2022-01-09T19:00:00.000Z",
         "broadcast": "R/2020-01-09T19:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "闇芝居 十期",
+    "titleTranslate": {
+      "zh-Hans": [
+        "暗芝居 第十季"
+      ],
+      "zh-Hant": [
+        "闇芝居 第10季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.tv-tokyo.co.jp/anime/yamishibai10/",
+    "begin": "2022-01-09T17:35:00.000Z",
+    "end": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "362733"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcibQ2T_0L_GP55_jbYkksv_",
+        "begin": "2022-01-09T19:10:00.000Z",
+        "broadcast": "R/2022-01-09T19:10:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ヴァニタスの手記 (第2クール)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "瓦尼塔斯的手札 第二季"
+      ],
+      "zh-Hant": [
+        "瓦尼塔斯的手札 ～En route pour le Gévaudan～"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://vanitas-anime.com/",
+    "begin": "2022-01-14T16:00:00.000Z",
+    "broadcast": "R/2022-01-14T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "338270"
+      },
+      {
+        "site": "nicovideo",
+        "id": "vanitas-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "viu",
+        "id": "419250",
+        "begin": "2022-01-14T16:30:00.000Z",
+        "broadcast": "R/2022-01-14T16:30:00.000Z/P7D"
       }
     ]
   }
