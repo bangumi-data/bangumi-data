@@ -13,7 +13,14 @@
   },
   {
     "title": "パリピ孔明",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "派对浪客诸葛孔明"
+      ],
+      "zh-Hant": [
+        "派對咖孔明"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://paripikoumei-anime.com/",
@@ -21,7 +28,18 @@
     "broadcast": "R/2022-03-31T14:00:00.000Z/P7D",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "356756"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28237168",
+        "begin": "2022-03-31T14:00:00.000Z",
+        "broadcast": "R/2022-03-31T14:00:00.000Z/P7D"
+      }
+    ]
   },
   {
     "title": "BanG Dream! ガールズバンドパーティ！ 5th Anniversary Animation -CiRCLE THANKS PARTY!-",
