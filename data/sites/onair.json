@@ -14,6 +14,16 @@
     "urlTemplate": "https://www.bilibili.com/bangumi/media/md{{id}}/",
     "regions": ["HK", "MO", "TW"]
   },
+  "bilibili_hk_mo": {
+    "title": "哔哩哔哩（港澳）",
+    "urlTemplate": "https://www.bilibili.com/bangumi/media/md{{id}}/",
+    "regions": ["HK", "MO"]
+  },
+  "bilibili_tw": {
+    "title": "哔哩哔哩（台灣）",
+    "urlTemplate": "https://www.bilibili.com/bangumi/media/md{{id}}/",
+    "regions": ["TW"]
+  },
   "sohu": {
     "title": "搜狐视频",
     "urlTemplate": "https://tv.sohu.com/{{id}}",
