@@ -20,7 +20,7 @@ npm install bangumi-data
 const bangumiData = require('bangumi-data');
 ```
 
-也可通过 CDN `https://cdn.jsdelivr.net/npm/bangumi-data@0.3/dist/data.json` 获取 `v0.3.x` 的最新数据
+也可通过 CDN `https://unpkg.com/bangumi-data@0.3/dist/data.json` 获取 `v0.3.x` 的最新数据
 
 ## 哪些项目在使用
 
