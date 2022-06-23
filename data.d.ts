@@ -172,6 +172,28 @@ declare interface Item {
     sites: [];
 }
 
-export const siteMeta: SiteMeta[];
+type SiteList =
+    | "bangumi"
+    | "acfun"
+    | "bilibili"
+    | "bilibili_hk_mo_tw"
+    | "bilibili_hk_mo"
+    | "bilibili_tw"
+    | "sohu"
+    | "youku"
+    | "qq"
+    | "iqiyi"
+    | "letv"
+    | "pptv"
+    | "mgtv"
+    | "nicovideo"
+    | "netflix"
+    | "gamer"
+    | "muse_hk"
+    | "ani_one_asia"
+    | "viu"
+    | "dmhy";
+
+export const siteMeta: Record<SiteList, SiteMeta>;
 
 export const items: Item[];
