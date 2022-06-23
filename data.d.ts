@@ -169,7 +169,7 @@ declare interface Item {
     /**
      * 站点
      */
-    sites: [];
+    sites: Site[];
 }
 
 type SiteList =
