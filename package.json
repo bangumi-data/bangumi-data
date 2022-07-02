@@ -3,8 +3,10 @@
   "version": "0.3.92",
   "description": "Raw data for Anime",
   "main": "dist/data.json",
+  "types": "data.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "*.d.ts"
   ],
   "scripts": {
     "build": "node script/build.js",
