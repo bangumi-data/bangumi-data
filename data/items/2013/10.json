@@ -176,6 +176,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "来自风平浪静的明天"
+      ],
+      "zh-Hant": [
+        "來自風平浪靜的明日"
       ]
     },
     "type": "tv",
@@ -207,6 +210,12 @@
         "site": "qq",
         "id": "2/265gqmwqjxonie9",
         "begin": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchM0XHJUJoixFqQ91VS__nb",
+        "begin": "2022-06-25T16:00:00.000Z",
+        "broadcast": "R/2022-06-25T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -761,7 +770,8 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7Ji9l-zVZPIfBAe6sw36m8Q7",
-        "begin": ""
+        "begin": "2021-12-22T16:00:00.000Z",
+        "broadcast": "R/2021-12-22T16:00:00.000Z/P7D"
       }
     ]
   },

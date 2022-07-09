@@ -316,6 +316,9 @@
       "en": [
         "Love Live! Sunshine!!",
         "Love Live ! Sunshine!!"
+      ],
+      "zh-Hant": [
+        "Love Live! Sunshine!!"
       ]
     },
     "type": "tv",
@@ -347,6 +350,12 @@
         "site": "nicovideo",
         "id": "lovelive-sunshine",
         "begin": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Ucgz1fty5NBlM1wJsLIwev9X",
+        "begin": "2022-06-22T16:00:00.000Z",
+        "broadcast": "R/2022-06-22T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -746,7 +755,8 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JjJSQURgyx2NQaDHdBpueq9",
-        "begin": ""
+        "begin": "2021-01-21T16:00:00.000Z",
+        "broadcast": "R/2021-01-21T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1623,7 +1633,8 @@
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UciW_8Q7Kl35tVzFel2otZaQ",
-        "begin": ""
+        "begin": "2022-01-14T16:00:00.000Z",
+        "broadcast": "R/2022-01-14T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -2098,7 +2109,8 @@
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UcjZls7Pqu1zF780TYxysarw",
-        "begin": ""
+        "begin": "2021-12-19T16:00:00.000Z",
+        "broadcast": "R/2021-12-19T16:00:00.000Z/P7D"
       }
     ]
   },
