@@ -420,6 +420,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "相合之物"
+      ],
+      "zh-Hant": [
+        "相合之物"
       ]
     },
     "type": "tv",
@@ -445,6 +448,12 @@
         "id": "119756",
         "begin": "2022-04-06T15:30:00.000Z",
         "broadcast": "R/2022-04-06T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jj0YsJ7qatPuq_qp-eofuxo",
+        "begin": "2022-04-11T16:00:00.000Z",
+        "broadcast": "R/2022-04-11T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1248,7 +1257,8 @@
         "site": "viu",
         "id": "431901",
         "begin": "2022-04-06T16:00:00.000Z",
-        "broadcast": "R/2022-04-06T16:00:00.000Z/P7D"
+        "broadcast": "R/2022-04-06T16:00:00.000Z/P7D",
+        "comment": "粵語版: 438810"
       }
     ]
   },

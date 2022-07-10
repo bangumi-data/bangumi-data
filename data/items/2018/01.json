@@ -753,6 +753,9 @@
       ],
       "zh-Hans": [
         "比宇宙更远的地方"
+      ],
+      "zh-Hant": [
+        "比宇宙更遠的地方"
       ]
     },
     "type": "tv",
@@ -779,6 +782,12 @@
         "site": "netflix",
         "id": "80995912",
         "begin": "2018-07-14T16:00:00.000Z"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JgBf_iGLzsBmPiLZZ-3MffO",
+        "begin": "2020-05-26T16:00:00.000Z",
+        "broadcast": "R/2020-05-26T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -820,7 +829,8 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JjvZK6hU4wJsFheFnX3Arsb",
-        "begin": ""
+        "begin": "2020-08-20T16:00:00.000Z",
+        "broadcast": "R/2020-08-20T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1205,7 +1215,8 @@
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7Ucj4GWytGa0k1K1cCCBpPYTF",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

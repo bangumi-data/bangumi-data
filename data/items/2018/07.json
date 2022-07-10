@@ -301,6 +301,9 @@
       "zh-Hans": [
         "来玩游戏吧",
         "游戏3人娘"
+      ],
+      "zh-Hant": [
+        "遊戲3人娘"
       ]
     },
     "type": "tv",
@@ -322,6 +325,12 @@
         "site": "nicovideo",
         "id": "asobiasobase",
         "begin": "2018-07-15T15:00:00.000Z"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjS312YgNty0-qbKChsWZVN",
+        "begin": "2022-06-01T16:00:00.000Z",
+        "broadcast": "R/2022-06-01T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1344,7 +1353,8 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7Jj-qPvH9bUUeEKo26qicFm_",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
