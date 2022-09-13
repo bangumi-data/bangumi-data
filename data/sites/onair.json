@@ -78,6 +78,11 @@
     "urlTemplate": "https://www.youtube.com/playlist?list={{id}}",
     "regions": ["HK","MO"]
   },
+  "ani_one": {
+    "title": "Ani-One中文官方動畫頻道",
+    "urlTemplate": "https://www.youtube.com/playlist?list={{id}}",
+    "regions": ["HK","TW","MO","SG","MY"]
+  },
   "ani_one_asia": {
     "title": "Ani-One Asia",
     "urlTemplate": "https://www.youtube.com/playlist?list={{id}}",
