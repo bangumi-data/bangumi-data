@@ -934,6 +934,9 @@
       "zh-Hans": [
         "遥之彼方的接发球",
         "遥的接球"
+      ],
+      "zh-Hant": [
+        "遙的接球"
       ]
     },
     "type": "tv",
@@ -955,6 +958,12 @@
         "site": "nicovideo",
         "id": "harukana-receive",
         "begin": "2018-07-12T15:30:00.000Z"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Ucj2pUmKfKdr2QYqFQntzfzK",
+        "begin": "2022-09-24T16:00:00.000Z",
+        "broadcast": "R/2022-09-24T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1362,6 +1371,12 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7Jj-qPvH9bUUeEKo26qicFm_",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSHMMuketAA0NW7unfaBbMk",
         "begin": "",
         "broadcast": ""
       }
