@@ -1055,6 +1055,12 @@
         "id": "PLxSscENEp7JhJSL_Vr_RAi9iQyPk-gHAO",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtRpiIaU4hzwZ39nquH8I9Ms",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1631,7 +1637,8 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JihoHAg6oR0cN5Fm9U1vNxa",
-        "begin": ""
+        "begin": "2021-12-15T16:00:00.000Z",
+        "broadcast": "R/2021-12-15T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -2758,7 +2765,8 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JgGW7SQC-DYAY6zZWVnZZu2",
-        "begin": "2022-07-11T16:00:00.000Z"
+        "begin": "2022-07-11T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },

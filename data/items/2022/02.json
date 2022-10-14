@@ -37,7 +37,11 @@
   },
   {
     "title": "ざんねんないきもの事典(第4シリーズ)",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hant": [
+        "殘念生物事典"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://www.nhk.jp/p/zannenikimono/ts/EPMZWJ9XKG/",
@@ -45,6 +49,13 @@
     "broadcast": "R/2022-02-13T10:25:00.000Z/P7D",
     "end": "2022-03-13T10:30:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchMCwvzDMzfmzYjq68q7Q5J",
+        "begin": "2022-05-19T16:00:00.000Z",
+        "broadcast": "R/2022-05-19T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

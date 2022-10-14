@@ -945,7 +945,8 @@
         "间谍过家家"
       ],
       "zh-Hant": [
-        "間諜家家酒"
+        "間諜家家酒",
+        "SPY×FAMILY間諜家家酒"
       ]
     },
     "type": "tv",
@@ -983,6 +984,13 @@
         "id": "PLuxqoToY7Uci5zu1j1yepRZKLSGN_4zQn",
         "begin": "2022-08-14T16:00:00.000Z",
         "broadcast": "R/2022-08-14T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "453825",
+        "begin": "2022-09-27T16:00:00.000Z",
+        "broadcast": "R/2022-09-27T16:00:00.000Z/P7D",
+        "comment": "粵語版: 454328"
       }
     ]
   },
@@ -1510,5 +1518,35 @@
     "end": "",
     "comment": "",
     "sites": []
+  },
+  {
+    "title": "かぎなど シーズン2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "键等 第二季"
+      ],
+      "zh-Hant": [
+        "鍵等 第2季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://kaginado.com/",
+    "begin": "2022-04-12T16:00:00.000Z",
+    "broadcast": "R/2022-04-12T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "363880"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjNkIQKVsmSuz4iGnM2TCME",
+        "begin": "2022-04-11T16:00:00.000Z",
+        "broadcast": "R/2022-04-11T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]
