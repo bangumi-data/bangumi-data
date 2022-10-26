@@ -740,6 +740,12 @@
         "id": "PLC18xlbCdwtR-xfP90UmKdba2IeM3-6sm",
         "begin": "2022-10-02T09:00:00.000Z",
         "broadcast": "R/2022-10-02T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "458939",
+        "begin": "2022-10-01T16:00:00.000Z",
+        "broadcast": "R/2022-10-01T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1124,6 +1130,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "致不灭的你 Season2"
+      ],
+      "zh-Hant": [
+        "給不滅的你 (第二季)"
       ]
     },
     "type": "tv",
@@ -1147,6 +1156,18 @@
         "site": "gamer",
         "id": "119447",
         "begin": ""
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtRtNNaDxSAwnfpJit_19WGf",
+        "begin": "2022-10-23T10:00:00.000Z",
+        "broadcast": "R/2022-10-23T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JglYLsUPMeExu8Yjn5hGYyn",
+        "begin": "2022-10-23T10:00:00.000Z",
+        "broadcast": "R/2022-10-23T10:00:00.000Z/P7D"
       }
     ]
   },
@@ -1437,6 +1458,42 @@
       {
         "site": "bangumi",
         "id": "338802"
+      }
+    ]
+  },
+  {
+    "title": "PUI PUI モルカー DRIVING SCHOOL",
+    "titleTranslate": {
+      "zh-Hans": [
+        "PUI PUI 天竺鼠车车 DRIVING SCHOOL"
+      ],
+      "zh-Hant": [
+        "PUI PUI 天竺鼠車車 學車篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://molcar-anime.com/",
+    "begin": "2022-10-06T23:00:00.000Z",
+    "broadcast": "R/2022-10-06T23:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "385541"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchdR42E4k42wn6q1rnu8fve",
+        "begin": "2022-10-06T16:00:00.000Z",
+        "broadcast": "R/2022-10-06T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "456106",
+        "begin": "2022-10-06T16:00:00.000Z",
+        "broadcast": "R/2022-10-06T16:00:00.000Z/P7D"
       }
     ]
   }

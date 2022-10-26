@@ -190,6 +190,7 @@ type SiteList =
     | "netflix"
     | "gamer"
     | "muse_hk"
+    | "ani_one"
     | "ani_one_asia"
     | "viu"
     | "dmhy";

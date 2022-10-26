@@ -96,7 +96,14 @@
   },
   {
     "title": "映画 すみっコぐらし とびだす絵本とひみつのコ",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "角落小伙伴：魔法绘本里的新朋友"
+      ],
+      "zh-Hant": [
+        "劇場版 角落小夥伴 魔法繪本裡的新朋友"
+      ]
+    },
     "type": "movie",
     "lang": "ja",
     "officialSite": "http://sumikkogurashi-movie.com/",
@@ -112,6 +119,12 @@
         "site": "nicovideo",
         "id": "sumikkogurashi-movie",
         "begin": ""
+      },
+      {
+        "site": "viu",
+        "id": "442976",
+        "begin": "2022-05-31T16:00:00.000Z",
+        "comment": "粵語版: 442977"
       }
     ]
   },
