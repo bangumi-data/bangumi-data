@@ -358,5 +358,37 @@
         "begin": ""
       }
     ]
+  },
+  {
+    "title": "猫の恩返し",
+    "titleTranslate": {
+      "zh-Hans": [
+        "猫的报恩"
+      ],
+      "zh-Hant": [
+        "貓的報恩",
+        "貓之報恩"
+      ],
+      "en": [
+        "The Cat Returns"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-07-19T16:00:00.000Z",
+    "end": "2002-09-19T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "506"
+      },
+      {
+        "site": "netflix",
+        "id": "70019058",
+        "begin": "2020-02-28T16:00:00.000Z",
+        "broadcast": "R/2020-02-28T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

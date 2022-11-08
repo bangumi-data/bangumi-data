@@ -115,6 +115,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "阿基拉"
+      ],
+      "zh-Hant": [
+        "阿基拉"
       ]
     },
     "type": "movie",
@@ -141,6 +144,12 @@
         "site": "acfun",
         "id": "6002683",
         "begin": ""
+      },
+      {
+        "site": "netflix",
+        "id": "60021103",
+        "begin": "2021-12-30T00:00:00.000Z",
+        "broadcast": "R/2021-12-30T00:00:00.000Z/P7D"
       }
     ]
   }

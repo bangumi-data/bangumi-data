@@ -295,7 +295,8 @@
       {
         "site": "netflix",
         "id": "80002074",
-        "begin": "2017-01-31T08:00:00.000Z"
+        "begin": "2017-01-31T08:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "bilibili",
@@ -321,6 +322,38 @@
       {
         "site": "bangumi",
         "id": "88354"
+      }
+    ]
+  },
+  {
+    "title": "かぐや姫の物語",
+    "titleTranslate": {
+      "zh-Hans": [
+        "辉夜姬物语"
+      ],
+      "zh-Hant": [
+        "輝耀姬物語"
+      ],
+      "en": [
+        "The Tale of The Princess Kaguya"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.ghibli.jp/kaguyahime/",
+    "begin": "2013-11-22T16:00:00.000Z",
+    "end": "2013-11-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "56847"
+      },
+      {
+        "site": "netflix",
+        "id": "80013552",
+        "begin": "2020-02-28T16:00:00.000Z",
+        "broadcast": "R/2020-02-28T16:00:00.000Z/P7D"
       }
     ]
   }

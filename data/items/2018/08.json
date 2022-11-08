@@ -149,6 +149,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "剧场版 七大罪 天空的囚人"
+      ],
+      "zh-Hant": [
+        "七大罪劇場版：天空的囚人"
+      ],
+      "en": [
+        "The Seven Deadly Sins the Movie: Prisoners of the Sky"
       ]
     },
     "type": "movie",
@@ -165,6 +171,12 @@
         "site": "nicovideo",
         "id": "7-taizai-movie",
         "begin": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81006261",
+        "begin": "2018-12-30T00:00:00.000Z",
+        "broadcast": "R/2018-12-30T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -200,6 +212,104 @@
         "site": "bilibili",
         "id": "28222933",
         "begin": "2019-10-02T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "詩季織々",
+    "titleTranslate": {
+      "zh-Hans": [
+        "肆式青春"
+      ],
+      "zh-Hant": [
+        "詩季織織"
+      ],
+      "en": [
+        "Flavors of Youth"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://shikioriori.jp/",
+    "begin": "2018-08-03T16:00:00.000Z",
+    "end": "2018-08-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "238986"
+      },
+      {
+        "site": "netflix",
+        "id": "80234491",
+        "begin": "2018-08-03T16:00:00.000Z",
+        "broadcast": "R/2018-08-03T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "僕のヒーローアカデミア THE MOVIE ～2人の英雄～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我的英雄学院：两位英雄"
+      ],
+      "zh-Hant": [
+        "我的英雄學院：兩個人的英雄：電影版",
+        "我的英雄學院劇場版：兩個人的英雄"
+      ],
+      "en": [
+        "My Hero Academia: Two Heroes"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://heroaca-movie.com/",
+    "begin": "2018-08-02T16:00:00.000Z",
+    "end": "2018-08-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "231647"
+      },
+      {
+        "site": "netflix",
+        "id": "81051689",
+        "begin": "2021-05-13T16:00:00.000Z",
+        "broadcast": "R/2021-05-13T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ちいさな英雄-カニとタマゴと透明人間-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小英雄-蟹和蛋和透明人-",
+        "普乐卡短片剧场系列：谦虚的英雄"
+      ],
+      "zh-Hant": [
+        "普樂卡短片劇場系列：謙虛的英雄"
+      ],
+      "en": [
+        "Modest Heroes: Ponoc Short Films Theatre"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.ponoc.jp/eiyu/",
+    "begin": "2018-08-23T16:00:00.000Z",
+    "end": "2018-08-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "241441"
+      },
+      {
+        "site": "netflix",
+        "id": "81143068",
+        "begin": "2019-09-05T16:00:00.000Z",
+        "broadcast": "R/2019-09-05T16:00:00.000Z/P7D"
       }
     ]
   }

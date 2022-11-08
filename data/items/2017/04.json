@@ -397,6 +397,9 @@
       "zh-Hans": [
         "机甲少女 FRAME ARMS GIRL",
         "FRAME ARMS GIRL"
+      ],
+      "en": [
+        "FRAME ARMS GIRL"
       ]
     },
     "type": "tv",
@@ -901,7 +904,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "快盗天使双胞胎 BREAK",
-        "双天使 BREAK"
+        "双天使 BREAK",
+        "快盗天使BREAK"
       ]
     },
     "type": "tv",
@@ -1194,10 +1198,12 @@
     "title": "ID-0",
     "titleTranslate": {
       "zh-Hans": [
-        "ID-0"
+        "ID-0",
+        "迷你动画剧场ID-0问答"
       ],
       "en": [
-        "ID-0"
+        "ID-0",
+        "ID-0 ALL MEMORIES EXIST WITH \"I-Machines\""
       ]
     },
     "type": "tv",
@@ -1223,7 +1229,8 @@
       {
         "site": "netflix",
         "id": "80174918",
-        "begin": "2017-10-06T07:00:00.000Z"
+        "begin": "2017-10-06T07:00:00.000Z",
+        "broadcast": "R/2017-10-05T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1293,7 +1300,8 @@
         "DUEL MASTERS"
       ],
       "zh-Hans": [
-        "决斗大师 新系列"
+        "决斗大师 新系列",
+        "决斗大师"
       ]
     },
     "type": "tv",
@@ -1321,7 +1329,8 @@
       ],
       "zh-Hans": [
         "霸旋陀螺 爆刃战神",
-        "战斗陀螺 爆烈 神"
+        "战斗陀螺 爆烈 神",
+        "霸旋陀螺 爆刃对决 神"
       ]
     },
     "type": "tv",
@@ -1374,7 +1383,8 @@
       "zh-Hans": [
         "偶像时间 美妙天堂",
         "Idol Time 美妙天堂",
-        "美妙天堂 偶像时间"
+        "美妙天堂 偶像时间",
+        "偶像时间美妙天堂"
       ]
     },
     "type": "tv",
@@ -1651,7 +1661,8 @@
     "title": "ラブ米 -WE LOVE RICE-",
     "titleTranslate": {
       "zh-Hans": [
-        "爱米-WE LOVE RICE-"
+        "爱米-WE LOVE RICE-",
+        "爱米 -WE LOVE RICE-"
       ]
     },
     "type": "tv",
@@ -1686,6 +1697,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "剑风传奇 次篇"
+      ],
+      "zh-Hant": [
+        "烙印勇士 第2季"
       ]
     },
     "type": "tv",
@@ -1707,6 +1721,12 @@
         "site": "nicovideo",
         "id": "berserk-anime",
         "begin": "2016-07-24T03:00:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "80146743",
+        "begin": "2020-07-30T16:00:00.000Z",
+        "broadcast": "R/2020-07-30T16:00:00.000Z/P7D"
       }
     ]
   },

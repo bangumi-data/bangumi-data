@@ -39,7 +39,8 @@
     "title": "白い砂のアクアトープ",
     "titleTranslate": {
       "zh-Hans": [
-        "白砂的水族馆"
+        "白砂的水族馆",
+        "白沙的水族馆"
       ],
       "zh-Hant": [
         "白沙的Aquatope"
@@ -358,7 +359,8 @@
     "title": "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…X",
     "titleTranslate": {
       "zh-Hans": [
-        "转生恶役只好拔除破灭旗标…Ｘ"
+        "转生恶役只好拔除破灭旗标…Ｘ",
+        "转生成为了只有乙女游戏破灭Flag的邪恶大小姐X"
       ],
       "zh-Hant": [
         "轉生成女性向遊戲只有毀滅 END 的壞人大小姐 X"
@@ -435,7 +437,8 @@
         "寒蝉鸣泣之时 卒"
       ],
       "zh-Hant": [
-        "暮蟬悲鳴時卒"
+        "暮蟬悲鳴時卒",
+        "暮蟬悲鳴時：卒"
       ]
     },
     "type": "tv",
@@ -472,6 +475,12 @@
         "id": "PLC18xlbCdwtTfqUyx6aMLtrwa3vkrC_qD",
         "begin": "2022-08-04T16:00:00.000Z",
         "broadcast": "R/2022-08-04T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81336986",
+        "begin": "2021-04-29T16:00:00.000Z",
+        "broadcast": "R/2021-04-29T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -660,7 +669,8 @@
     "title": "チート薬師のスローライフ～異世界に作ろうドラッグストア～",
     "titleTranslate": {
       "zh-Hans": [
-        "开挂药师的休闲生活～异世界里开药店～"
+        "开挂药师的休闲生活～异世界里开药店～",
+        "开挂药师的异世界悠闲生活～在异世界开药店吧～"
       ],
       "zh-Hant": [
         "開掛藥師的異世界悠閒生活"
@@ -816,7 +826,8 @@
     "title": "Sonny Boy -サニーボーイ-",
     "titleTranslate": {
       "zh-Hans": [
-        "Sonny Boy"
+        "Sonny Boy",
+        "漂流少年"
       ],
       "zh-Hant": [
         "漂流少年"
@@ -1052,7 +1063,8 @@
     "title": "女神寮の寮母くん。",
     "titleTranslate": {
       "zh-Hans": [
-        "女神宿舍的宿管君"
+        "女神宿舍的宿管君",
+        "女神宿舍的宿管君。"
       ]
     },
     "type": "tv",
@@ -1152,7 +1164,11 @@
   },
   {
     "title": "D_CIDE TRAUMEREI THE ANIMATION",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "幻变梦境"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://dctm-pj.com/",
@@ -1221,7 +1237,8 @@
     "title": "マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-",
     "titleTranslate": {
       "zh-Hans": [
-        "魔法纪录 魔法少女小圆外传 第二季 -觉醒前夜-"
+        "魔法纪录 魔法少女小圆外传 第二季 -觉醒前夜-",
+        "魔法纪录 魔法少女小圆外传 2nd SEASON -觉醒前夜-"
       ]
     },
     "type": "tv",
@@ -1288,10 +1305,12 @@
     "title": "100万の命の上に俺は立っている(第2シーズン)",
     "titleTranslate": {
       "zh-Hans": [
-        "我立于百万生命之上"
+        "我立于百万生命之上",
+        "我立于百万生命之上 第二季"
       ],
       "en": [
-        "I'M STANDING ON 1,000,000 LIVES. (2nd Season)"
+        "I'M STANDING ON 1,000,000 LIVES. (2nd Season)",
+        "I'm Standing on a Million Lives (2nd Season)"
       ],
       "zh-Hant": [
         "我立於百萬生命之上 第二季"
@@ -1325,6 +1344,12 @@
         "id": "PLxSscENEp7JjKw5ncC_0--FNdRLeMEbNW",
         "begin": "2021-06-20T16:00:00.000Z",
         "broadcast": "R/2021-06-20T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81341942",
+        "begin": "2021-03-20T16:00:00.000Z",
+        "broadcast": "R/2021-03-20T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1468,6 +1493,68 @@
         "id": "PLuxqoToY7Uci45W8fvnh1pUWZxB-DejP5",
         "begin": "2021-07-11T17:10:00.000Z",
         "broadcast": "R/2021-07-11T17:10:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 七つの大罪 光に呪われし者たち",
+    "titleTranslate": {
+      "zh-Hans": [
+        "七大罪：被光诅咒的众人"
+      ],
+      "zh-Hant": [
+        "七大罪：被光詛咒的人們"
+      ],
+      "en": [
+        "The Seven Deadly Sins: Cursed by Light"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://eiga.7-taizai.net",
+    "begin": "2021-07-01T16:00:00.000Z",
+    "end": "2021-07-01T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "325728"
+      },
+      {
+        "site": "netflix",
+        "id": "81263946",
+        "begin": "2021-09-30T16:00:00.000Z",
+        "broadcast": "R/2021-09-30T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "サイダーのように言葉が湧き上がる",
+    "titleTranslate": {
+      "zh-Hans": [
+        "言语如苏打般涌现"
+      ],
+      "zh-Hant": [
+        "言語如汽水般湧現"
+      ],
+      "en": [
+        "Words Bubble Up Like Soda Pop"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://cider-kotoba.jp",
+    "begin": "2021-07-21T16:00:00.000Z",
+    "end": "2021-07-21T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "273485"
+      },
+      {
+        "site": "netflix",
+        "id": "81400497",
+        "begin": "2021-07-21T16:00:00.000Z",
+        "broadcast": "R/2021-07-21T16:00:00.000Z/P7D"
       }
     ]
   }

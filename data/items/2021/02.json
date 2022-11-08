@@ -67,10 +67,17 @@
     ]
   },
   {
-    "title": "キメツ学園 バレンタイン編",
+    "title": "鬼滅の刃 中高一貫!! キメツ学園物語",
     "titleTranslate": {
       "zh-Hans": [
-        "鬼灭学园 情人节篇"
+        "中高一贯！！鬼灭学园物语"
+      ],
+      "zh-Hant": [
+        "國中高一貫！！鬼滅學園物語",
+        "國高中一貫！！鬼滅學園物語"
+      ],
+      "en": [
+        "Junior High and High School!! Kimetsu Academy Story"
       ]
     },
     "type": "web",
@@ -89,6 +96,44 @@
         "id": "kimetsugakuen",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81572035",
+        "begin": "2022-02-05T16:00:00.000Z",
+        "broadcast": "R/2022-02-05T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 美少女戦士セーラームーンEternal 後編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 美少女战士Eternal 后篇"
+      ],
+      "zh-Hant": [
+        "劇場版 美少女戰士Sailor Moon Eternal（下）",
+        "劇場版 美少女戰士Eternal（下）"
+      ],
+      "en": [
+        "Pretty Guardian Sailor Moon Eternal The Movie Part 2"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://sailormoon-movie.jp/",
+    "begin": "2021-02-10T16:00:00.000Z",
+    "end": "2021-02-10T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "218446"
+      },
+      {
+        "site": "netflix",
+        "id": "81214399",
+        "begin": "2021-06-02T16:00:00.000Z",
+        "broadcast": "R/2021-06-02T16:00:00.000Z/P7D"
       }
     ]
   }

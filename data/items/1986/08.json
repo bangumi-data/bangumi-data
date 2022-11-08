@@ -4,6 +4,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "天空之城"
+      ],
+      "zh-Hant": [
+        "天空之城"
+      ],
+      "en": [
+        "Castle in the Sky"
       ]
     },
     "type": "movie",
@@ -20,6 +26,12 @@
       {
         "site": "bangumi",
         "id": "298"
+      },
+      {
+        "site": "netflix",
+        "id": "60027393",
+        "begin": "2020-01-30T16:00:00.000Z",
+        "broadcast": "R/2020-01-30T16:00:00.000Z/P7D"
       }
     ]
   },

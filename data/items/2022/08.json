@@ -58,5 +58,100 @@
     "end": "2022-09-07T01:02:00.000Z",
     "comment": "",
     "sites": []
+  },
+  {
+    "title": "賭ケグルイ双",
+    "titleTranslate": {
+      "zh-Hans": [
+        "狂赌之渊：双"
+      ],
+      "zh-Hant": [
+        "狂賭之淵：雙"
+      ],
+      "en": [
+        "KAKEGURUI TWIN"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://kakegurui-twin-anime.com/",
+    "begin": "2022-08-03T16:00:00.000Z",
+    "end": "2022-08-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "356658"
+      },
+      {
+        "site": "netflix",
+        "id": "81176966",
+        "begin": "2022-08-03T16:00:00.000Z",
+        "broadcast": "R/2022-08-03T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "リラックマと遊園地",
+    "titleTranslate": {
+      "zh-Hans": [
+        "轻松小熊：主题乐园大冒险"
+      ],
+      "zh-Hant": [
+        "拉拉熊：主題樂園大冒險",
+        "輕鬆小熊：主題樂園大冒險"
+      ],
+      "en": [
+        "Rilakkuma's Theme Park Adventure"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.san-x.co.jp/rilakkuma/theme_park_adventure/",
+    "begin": "2022-08-24T16:00:00.000Z",
+    "end": "2022-08-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317694"
+      },
+      {
+        "site": "netflix",
+        "id": "81341765",
+        "begin": "2022-08-24T16:00:00.000Z",
+        "broadcast": "R/2022-08-24T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "TEKKEN BLOODLINE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "铁拳：血脉"
+      ],
+      "zh-Hant": [
+        "鐵拳：血脈",
+        "鐵拳：血統"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-08-24T16:00:00.000Z",
+    "end": "2022-08-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "375216"
+      },
+      {
+        "site": "netflix",
+        "id": "81002441",
+        "begin": "2022-08-17T16:00:00.000Z",
+        "broadcast": "R/2022-08-17T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

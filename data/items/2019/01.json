@@ -82,11 +82,14 @@
       ],
       "zh-Hant": [
         "輝夜姬想讓人告白~天才們的戀愛頭腦戰~"
+      ],
+      "en": [
+        "Kaguya-sama: Love Is War"
       ]
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://kaguya.love/1st/",
     "begin": "2019-01-12T14:30:00.000Z",
     "end": "2019-03-30T15:00:00.000Z",
     "sites": [
@@ -122,7 +125,8 @@
     "title": "えんどろ～！",
     "titleTranslate": {
       "zh-Hans": [
-        "Endro~!"
+        "Endro~!",
+        "Endro~！"
       ],
       "zh-Hant": [
         "ENDRO!"
@@ -313,7 +317,8 @@
     "title": "私に天使が舞い降りた！",
     "titleTranslate": {
       "zh-Hans": [
-        "天使降临到了我身边"
+        "天使降临到了我身边",
+        "天使降临到了我身边！"
       ]
     },
     "type": "tv",
@@ -343,6 +348,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "五等分的新娘"
+      ],
+      "en": [
+        "The Quintessential Quintuplets"
       ]
     },
     "type": "tv",
@@ -681,6 +689,12 @@
         "id": "PLuxqoToY7UcgFIP6vVWICKOSL1qwvWRpI",
         "begin": "2021-12-31T16:00:00.000Z",
         "broadcast": "R/2021-12-31T16:00:00.000Z/P1D"
+      },
+      {
+        "site": "netflix",
+        "id": "80179798",
+        "begin": "2021-12-08T16:00:00.000Z",
+        "broadcast": "R/2021-12-08T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -697,7 +711,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://kotobuki-anime.com/",
     "begin": "2019-01-13T13:30:00.000Z",
     "end": "2019-03-31T14:00:00.000Z",
     "sites": [
@@ -845,6 +859,10 @@
       ],
       "zh-Hant": [
         "約定的夢幻島"
+      ],
+      "en": [
+        "The Promised Neverland",
+        "THE PROMISED NEVERLAND"
       ]
     },
     "type": "tv",
@@ -873,6 +891,12 @@
         "begin": "2022-05-26T16:00:00.000Z",
         "broadcast": "R/2022-05-26T16:00:00.000Z/P7D",
         "comment": "粵語版: 447294"
+      },
+      {
+        "site": "netflix",
+        "id": "81145640",
+        "begin": "2021-05-30T16:00:00.000Z",
+        "broadcast": "R/2021-05-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1109,7 +1133,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://cirpri-anime.jp/",
     "begin": "2019-01-08T14:00:00.000Z",
     "end": "2019-03-26T14:30:00.000Z",
     "sites": [
@@ -1244,6 +1268,14 @@
     "title": "revisions",
     "titleTranslate": {
       "zh-Hans": [
+        "revisions",
+        "涩谷保卫战"
+      ],
+      "zh-Hant": [
+        "澀谷新視界",
+        "新世紀涉谷戰"
+      ],
+      "en": [
         "revisions"
       ]
     },
@@ -1261,6 +1293,12 @@
         "site": "bilibili",
         "id": "4316402",
         "begin": "2019-01-09T18:55:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "80992787",
+        "begin": "2019-05-13T16:00:00.000Z",
+        "broadcast": "R/2019-05-13T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1395,7 +1433,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://hulaingbabies.com/",
     "begin": "2019-01-11T13:30:00.000Z",
     "end": "2019-03-29T13:35:00.000Z",
     "sites": [
@@ -1553,6 +1591,38 @@
         "id": "ikkitousen",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 Fate/stay night [Heaven's Feel] II.lost butterfly",
+    "titleTranslate": {
+      "zh-Hans": [
+        "命运之夜——天之杯 Ⅱ：迷失之蝶"
+      ],
+      "zh-Hant": [
+        "Fate/stay night [Heaven's Feel]：II. 迷途之蝶"
+      ],
+      "en": [
+        "Fate/stay night: Heaven's Feel II. Lost Butterfly"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.fate-sn.com/2nd/",
+    "begin": "2019-01-11T16:00:00.000Z",
+    "end": "2019-01-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "175599"
+      },
+      {
+        "site": "netflix",
+        "id": "81169358",
+        "begin": "2021-08-04T16:00:00.000Z",
+        "broadcast": "R/2021-08-04T16:00:00.000Z/P7D"
       }
     ]
   }

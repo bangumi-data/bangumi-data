@@ -127,5 +127,63 @@
         "begin": "2019-09-04T12:58:31.000Z"
       }
     ]
+  },
+  {
+    "title": "DRAGON QUEST YOUR STORY",
+    "titleTranslate": {
+      "zh-Hans": [
+        "勇者斗恶龙：你的故事"
+      ],
+      "zh-Hant": [
+        "勇者鬥惡龍：你的故事"
+      ],
+      "en": [
+        "Dragon Quest Your Story"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://dq-movie.com/",
+    "begin": "2019-08-01T16:00:00.000Z",
+    "end": "2019-08-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "274524"
+      },
+      {
+        "site": "netflix",
+        "id": "81170086",
+        "begin": "2020-02-12T16:00:00.000Z",
+        "broadcast": "R/2020-02-12T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "HERO≠MASK Part Ⅱ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "英雄面具 第二季"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://heromask.jp/",
+    "begin": "2019-08-22T16:00:00.000Z",
+    "end": "2019-08-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "287049"
+      },
+      {
+        "site": "netflix",
+        "id": "80200027",
+        "begin": "2018-12-02T16:00:00.000Z",
+        "broadcast": "R/2018-12-02T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

@@ -141,7 +141,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://toaru-project.com/accelerator/",
     "begin": "2019-07-12T13:00:00.000Z",
     "end": "2019-09-27T13:30:00.000Z",
     "sites": [
@@ -182,7 +182,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://okaasan-online.com/",
     "begin": "2019-07-12T15:00:00.000Z",
     "end": "2019-09-27T15:30:00.000Z",
     "sites": [
@@ -233,6 +233,12 @@
         "site": "nicovideo",
         "id": "takagi3_me2",
         "begin": "2019-07-09T15:00:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "80228274",
+        "begin": "2019-12-05T16:00:00.000Z",
+        "broadcast": "R/2019-12-05T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -289,7 +295,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://hensuki.com/",
     "begin": "2019-07-08T11:00:00.000Z",
     "end": "2019-09-23T11:30:00.000Z",
     "sites": [
@@ -320,11 +326,14 @@
     "titleTranslate": {
       "zh-Hans": [
         "平凡职业成就世界最强"
+      ],
+      "en": [
+        "ARIFURETA: From Commonplace to World's Strongest"
       ]
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://arifureta.com/",
     "begin": "2019-07-08T14:30:00.000Z",
     "end": "2019-10-07T11:30:00.000Z",
     "sites": [
@@ -349,6 +358,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "异世界超能魔术师"
+      ],
+      "en": [
+        "ISEKAI CHEAT MAGICIAN"
       ]
     },
     "type": "tv",
@@ -409,7 +421,8 @@
         "How Heavy Are the Dumbbells You Lift?"
       ],
       "zh-Hans": [
-        "肌肉少女：哑铃，能举多少公斤？"
+        "肌肉少女：哑铃，能举多少公斤？",
+        "流汗吧！健身少女"
       ],
       "zh-Hant": [
         "流汗吧！健身少女"
@@ -417,7 +430,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://dumbbell-anime.jp/",
     "begin": "2019-07-03T13:30:00.000Z",
     "end": "2019-09-18T14:00:00.000Z",
     "sites": [
@@ -440,6 +453,12 @@
         "id": "PLxSscENEp7Jh8hxcblZc6gHcGUq28Xp7S",
         "begin": "2020-01-29T16:00:00.000Z",
         "broadcast": "R/2020-01-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81143618",
+        "begin": "2020-11-19T00:00:00.000Z",
+        "broadcast": "R/2020-11-19T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -585,12 +604,13 @@
         "GRANBELM"
       ],
       "zh-Hans": [
-        "满月之战Granbelm"
+        "满月之战Granbelm",
+        "满月之战"
       ]
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://granbelm.com/",
     "begin": "2019-07-05T16:55:00.000Z",
     "end": "2019-09-26T17:33:00.000Z",
     "sites": [
@@ -652,7 +672,14 @@
     "title": "炎炎ノ消防隊",
     "titleTranslate": {
       "zh-Hans": [
-        "炎炎之消防队"
+        "炎炎之消防队",
+        "炎炎消防队"
+      ],
+      "en": [
+        "Fire Force"
+      ],
+      "zh-Hant": [
+        "炎炎消防隊"
       ]
     },
     "type": "tv",
@@ -674,6 +701,12 @@
         "site": "nicovideo",
         "id": "fireforce-anime",
         "begin": "2019-07-12T17:00:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "81143589",
+        "begin": "2021-07-29T16:00:00.000Z",
+        "broadcast": "R/2021-07-29T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -724,15 +757,21 @@
     "title": "Dr.STONE",
     "titleTranslate": {
       "zh-Hans": [
-        "新石纪"
+        "新石纪",
+        "石纪元"
       ],
       "zh-Hant": [
+        "Dr.STONE 新石紀",
+        "Dr.STONE",
         "Dr. STONE"
+      ],
+      "en": [
+        "Dr. Stone"
       ]
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://dr-stone.jp/",
     "begin": "2019-07-05T13:00:00.000Z",
     "end": "2019-12-13T13:30:00.000Z",
     "sites": [
@@ -783,6 +822,12 @@
         "id": "PLC18xlbCdwtQsxQwz-43hqiJayuuMgEXn",
         "begin": "2022-11-06T16:00:00.000Z",
         "broadcast": "R/2022-11-06T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81046193",
+        "begin": "2020-11-19T00:00:00.000Z",
+        "broadcast": "R/2020-11-19T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -794,11 +839,14 @@
       ],
       "zh-Hant": [
         "RE:STAGE DREAM DAYS"
+      ],
+      "zh-Hans": [
+        "Re:Stage！Dream Days♪"
       ]
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://rst-anime.com/",
     "begin": "2019-07-07T13:00:00.000Z",
     "end": "2019-09-29T13:30:00.000Z",
     "sites": [
@@ -841,7 +889,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://ensemblestars-anime.com/",
     "begin": "2019-07-07T13:30:00.000Z",
     "end": "2019-12-22T14:00:00.000Z",
     "sites": [
@@ -938,6 +986,12 @@
         "id": "PLxSscENEp7JjKS52JHz9UKkpm59FFR593",
         "begin": "2020-08-31T16:00:00.000Z",
         "broadcast": "R/2020-08-31T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81144576",
+        "begin": "2020-11-19T00:00:00.000Z",
+        "broadcast": "R/2020-11-19T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -996,7 +1050,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://yubinetsu.cf-anime.com/onair/",
     "begin": "2019-07-07T16:00:00.000Z",
     "end": "2019-09-01T16:05:00.000Z",
     "sites": [
@@ -1020,7 +1074,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://hstar-mu.com/",
     "begin": "2019-07-01T13:00:00.000Z",
     "end": "2019-09-16T13:00:00.000Z",
     "sites": [
@@ -1091,7 +1145,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://newbem.jp/",
     "begin": "2019-07-14T16:35:00.000Z",
     "end": "2019-10-13T17:35:00.000Z",
     "sites": [
@@ -1131,7 +1185,8 @@
     "title": "胡蝶綺 ～若き信長～",
     "titleTranslate": {
       "zh-Hans": [
-        "蝴蝶绮 ～年轻信长～"
+        "蝴蝶绮 ～年轻信长～",
+        "蝴蝶绮 ～少年信长～"
       ],
       "zh-Hant": [
         "胡蝶綺～少年信長～"
@@ -1177,7 +1232,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://www.tv-tokyo.co.jp/anime/yamishibai/",
     "begin": "2019-07-07T18:13:00.000Z",
     "end": "2019-09-29T18:10:00.000Z",
     "sites": [
@@ -1275,7 +1330,14 @@
     "title": "ヴィンランド・サガ",
     "titleTranslate": {
       "zh-Hans": [
-        "海盗战记"
+        "海盗战记",
+        "冰海战记"
+      ],
+      "zh-Hant": [
+        "海盜戰記"
+      ],
+      "en": [
+        "VINLAND SAGA"
       ]
     },
     "type": "tv",
@@ -1292,6 +1354,12 @@
         "site": "bilibili",
         "id": "28220475",
         "begin": "2019-07-07T16:10:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "81249833",
+        "begin": "2022-07-05T16:00:00.000Z",
+        "broadcast": "R/2022-07-05T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1331,7 +1399,8 @@
       {
         "site": "netflix",
         "id": "80186926",
-        "begin": "2019-07-19T07:00:00.000Z"
+        "begin": "2019-07-19T07:00:00.000Z",
+        "broadcast": "R/2019-07-18T16:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -1360,7 +1429,8 @@
       {
         "site": "netflix",
         "id": "80992228",
-        "begin": "2019-07-31T07:00:00.000Z"
+        "begin": "2019-07-31T07:00:00.000Z",
+        "broadcast": "R/2019-07-30T16:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -1429,7 +1499,11 @@
   },
   {
     "title": "ビジネスフィッシュ",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "en": [
+        "BUSINESS FISH"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://businessfish.jp/",
@@ -1623,6 +1697,70 @@
         "id": "ten-sura-oad",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "ミュウツーの逆襲 EVOLUTION",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宝可梦：超梦的逆袭：进化"
+      ],
+      "zh-Hant": [
+        "寶可夢：超夢的逆襲：進化"
+      ],
+      "en": [
+        "Pokémon: Mewtwo Strikes Back - Evolution"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.pokemon-movie.jp/",
+    "begin": "2019-07-11T16:00:00.000Z",
+    "end": "2019-07-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "256283"
+      },
+      {
+        "site": "netflix",
+        "id": "81223075",
+        "begin": "2020-02-26T16:00:00.000Z",
+        "broadcast": "R/2020-02-26T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "天気の子",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天气之子"
+      ],
+      "zh-Hant": [
+        "天氣之子"
+      ],
+      "en": [
+        "Weathering With You"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tenkinoko.com/",
+    "begin": "2019-07-18T16:00:00.000Z",
+    "end": "2019-07-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "269235"
+      },
+      {
+        "site": "netflix",
+        "id": "81172898",
+        "begin": "2021-12-30T00:00:00.000Z",
+        "broadcast": "R/2021-12-30T00:00:00.000Z/P7D"
       }
     ]
   }

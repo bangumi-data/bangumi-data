@@ -55,6 +55,9 @@
       ],
       "zh-Hans": [
         "死亡代理人"
+      ],
+      "zh-Hant": [
+        "死亡代理人"
       ]
     },
     "type": "tv",
@@ -66,6 +69,12 @@
       {
         "site": "bangumi",
         "id": "837"
+      },
+      {
+        "site": "netflix",
+        "id": "80117347",
+        "begin": "2019-07-30T16:00:00.000Z",
+        "broadcast": "R/2019-07-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -127,6 +136,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "皇家国教骑士团 OVA"
+      ],
+      "zh-Hant": [
+        "厄夜怪客 OVA"
+      ],
+      "en": [
+        "Hellsing Ultimate"
       ]
     },
     "type": "ova",
@@ -143,6 +158,12 @@
       {
         "site": "bangumi",
         "id": "493"
+      },
+      {
+        "site": "netflix",
+        "id": "80988066",
+        "begin": "2019-07-30T16:00:00.000Z",
+        "broadcast": "R/2019-07-30T16:00:00.000Z/P7D"
       }
     ]
   }

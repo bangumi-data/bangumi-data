@@ -150,5 +150,70 @@
         "broadcast": ""
       }
     ]
+  },
+  {
+    "title": "アーヤと魔女",
+    "titleTranslate": {
+      "zh-Hans": [
+        "安雅与魔女",
+        "阿雅与魔女"
+      ],
+      "zh-Hant": [
+        "安雅與魔女"
+      ],
+      "en": [
+        "Earwig and the Witch"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2020-12-29T16:00:00.000Z",
+    "end": "2020-12-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "307924"
+      },
+      {
+        "site": "netflix",
+        "id": "81316559",
+        "begin": "2021-11-18T00:00:00.000Z",
+        "broadcast": "R/2021-11-18T00:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版ポケットモンスター ココ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宝可梦：皮卡丘和可可的冒险"
+      ],
+      "zh-Hant": [
+        "寶可夢：皮卡丘與可可的冒險"
+      ],
+      "en": [
+        "Pokémon the Movie: Secrets of the Jungle"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.pokemon-movie.jp/",
+    "begin": "2020-12-25T16:00:00.000Z",
+    "end": "2020-12-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "298119"
+      },
+      {
+        "site": "netflix",
+        "id": "81346307",
+        "begin": "2021-10-07T16:00:00.000Z",
+        "broadcast": "R/2021-10-07T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

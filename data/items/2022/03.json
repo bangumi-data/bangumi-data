@@ -89,5 +89,69 @@
     "end": "2022-03-27T16:57:00.000Z",
     "comment": "",
     "sites": []
+  },
+  {
+    "title": "コタローは1人暮らし",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小太郎一个人生活"
+      ],
+      "zh-Hant": [
+        "小太郎一個人生活"
+      ],
+      "en": [
+        "Kotaro Lives Alone"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://kotaro-anime.com",
+    "begin": "2022-03-09T16:00:00.000Z",
+    "end": "2022-03-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "350362"
+      },
+      {
+        "site": "netflix",
+        "id": "81275353",
+        "begin": "2022-03-09T16:00:00.000Z",
+        "broadcast": "R/2022-03-09T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "テルマエ・ロマエ ノヴァエ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新罗马浴场"
+      ],
+      "zh-Hant": [
+        "新羅馬浴場"
+      ],
+      "en": [
+        "Thermae Romae Novae"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-03-27T16:00:00.000Z",
+    "end": "2022-03-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317692"
+      },
+      {
+        "site": "netflix",
+        "id": "81264354",
+        "begin": "2022-03-27T16:00:00.000Z",
+        "broadcast": "R/2022-03-27T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

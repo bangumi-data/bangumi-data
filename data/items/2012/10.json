@@ -439,7 +439,8 @@
       {
         "site": "netflix",
         "id": "80040118",
-        "begin": "2016-12-01T08:00:00.000Z"
+        "begin": "2016-12-01T08:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "bilibili",
@@ -728,12 +729,16 @@
     "title": "ジョジョの奇妙な冒険",
     "titleTranslate": {
       "en": [
+        "JoJo's Bizarre Adventure",
         "JOJO'S BIZARRE ADVENTURE"
       ],
       "zh-Hans": [
+        "JOJO 的奇妙冒险",
         "JOJO的奇妙冒险"
       ],
       "zh-Hant": [
+        "JoJo 的奇妙冒險",
+        "JoJo 奇妙冒險",
         "JOJO的奇妙冒險S1(幻影血脈、戰鬥潮流)"
       ]
     },
@@ -757,6 +762,12 @@
         "id": "PLuxqoToY7Ucji0PcTAIZ2yiMhi3Q923_D",
         "begin": "2021-08-17T16:00:00.000Z",
         "broadcast": "R/2021-08-17T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80179831",
+        "begin": "2021-03-29T16:00:00.000Z",
+        "broadcast": "R/2021-03-29T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -795,6 +806,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "心理测量者"
+      ],
+      "zh-Hant": [
+        "心靈判官"
+      ],
+      "en": [
+        "Psycho-Pass"
       ]
     },
     "type": "tv",
@@ -806,6 +823,12 @@
       {
         "site": "bangumi",
         "id": "37685"
+      },
+      {
+        "site": "netflix",
+        "id": "80006146",
+        "begin": "2019-12-14T00:00:00.000Z",
+        "broadcast": "R/2019-12-14T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -1210,7 +1233,8 @@
       {
         "site": "netflix",
         "id": "80009097",
-        "begin": "2017-11-01T07:00:00.000Z"
+        "begin": "2017-11-01T07:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "bilibili",
@@ -1471,7 +1495,8 @@
       {
         "site": "netflix",
         "id": "80041086",
-        "begin": "2015-06-01T07:00:00.000Z"
+        "begin": "2015-06-01T07:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "bilibili",
@@ -1505,7 +1530,8 @@
       {
         "site": "netflix",
         "id": "80041087",
-        "begin": "2015-06-01T07:00:00.000Z"
+        "begin": "2015-06-01T07:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "bilibili",

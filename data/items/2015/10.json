@@ -908,8 +908,13 @@
         "机动战士高达 铁血的奥尔芬斯",
         "机动战士高达 铁血的孤儿"
       ],
+      "zh-Hant": [
+        "機動戰士鋼彈：鐵血孤兒",
+        "機動戰士高達 鐵血的孤兒"
+      ],
       "en": [
-        "Mobile Suit Gundam Tekketsu no Orphans"
+        "Mobile Suit Gundam Tekketsu no Orphans",
+        "Mobile Suit Gundam: Iron-Blooded Orphans"
       ]
     },
     "type": "tv",
@@ -931,6 +936,12 @@
       {
         "site": "bangumi",
         "id": "139324"
+      },
+      {
+        "site": "netflix",
+        "id": "80150290",
+        "begin": "2019-10-31T00:00:00.000Z",
+        "broadcast": "R/2019-10-31T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -1090,7 +1101,8 @@
       {
         "site": "netflix",
         "id": "80117291",
-        "begin": "2017-03-20T07:00:00.000Z"
+        "begin": "2017-03-20T07:00:00.000Z",
+        "broadcast": "R/2022-05-30T16:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -1681,6 +1693,9 @@
       "zh-Hans": [
         "终结的炽天使 第2期"
       ],
+      "zh-Hant": [
+        "終結的熾天使"
+      ],
       "en": [
         "Seraph of the end",
         "Owari no Seraph S2"
@@ -1725,6 +1740,12 @@
       {
         "site": "bangumi",
         "id": "120705"
+      },
+      {
+        "site": "netflix",
+        "id": "80200989",
+        "begin": "2019-07-30T16:00:00.000Z",
+        "broadcast": "R/2019-07-30T16:00:00.000Z/P7D"
       }
     ]
   },

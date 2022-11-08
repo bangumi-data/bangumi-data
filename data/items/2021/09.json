@@ -145,5 +145,37 @@
         "begin": ""
       }
     ]
+  },
+  {
+    "title": "範馬刃牙",
+    "titleTranslate": {
+      "zh-Hans": [
+        "范马刃牙"
+      ],
+      "zh-Hant": [
+        "範馬刃牙"
+      ],
+      "en": [
+        "Baki Hanma"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://baki-anime.jp/",
+    "begin": "2021-09-30T16:00:00.000Z",
+    "end": "2021-09-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317852"
+      },
+      {
+        "site": "netflix",
+        "id": "81236338",
+        "begin": "2021-09-29T16:00:00.000Z",
+        "broadcast": "R/2021-09-29T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

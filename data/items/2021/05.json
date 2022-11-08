@@ -56,5 +56,37 @@
         "broadcast": ""
       }
     ]
+  },
+  {
+    "title": "エデン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "伊甸"
+      ],
+      "zh-Hant": [
+        "伊甸"
+      ],
+      "en": [
+        "Eden"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2021-05-26T16:00:00.000Z",
+    "end": "2021-05-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "280654"
+      },
+      {
+        "site": "netflix",
+        "id": "80992783",
+        "begin": "2021-05-26T16:00:00.000Z",
+        "broadcast": "R/2021-05-26T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

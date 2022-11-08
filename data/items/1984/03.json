@@ -85,5 +85,36 @@
         "begin": ""
       }
     ]
+  },
+  {
+    "title": "風の谷のナウシカ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "风之谷"
+      ],
+      "zh-Hant": [
+        "風之谷"
+      ],
+      "en": [
+        "Nausicaä of the Valley of the Wind"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1984-03-10T16:00:00.000Z",
+    "end": "1984-03-10T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "295"
+      },
+      {
+        "site": "netflix",
+        "id": "70019062",
+        "begin": "2020-02-28T16:00:00.000Z",
+        "broadcast": "R/2020-02-28T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

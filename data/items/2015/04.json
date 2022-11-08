@@ -393,7 +393,7 @@
         "site": "netflix",
         "id": "80040330",
         "begin": "2015-08-01T07:00:00.000Z",
-        "broadcast": ""
+        "broadcast": "R/2021-01-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -402,6 +402,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "终结的炽天使"
+      ],
+      "zh-Hant": [
+        "終結的熾天使"
       ],
       "en": [
         "Seraph of the end"
@@ -458,6 +461,12 @@
         "id": "owarino_seraph",
         "begin": "2015-04-06T16:00:00.000Z",
         "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80200989",
+        "begin": "2019-07-30T16:00:00.000Z",
+        "broadcast": "R/2019-07-30T16:00:00.000Z/P7D"
       }
     ]
   },

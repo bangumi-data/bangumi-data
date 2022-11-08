@@ -82,6 +82,9 @@
     "titleTranslate": {
       "zh-Hant": [
         "ABC修業日記"
+      ],
+      "zh-Hans": [
+        "ABC修业日记"
       ]
     },
     "type": "tv",
@@ -97,6 +100,10 @@
         "id": "PLxSscENEp7JhnjCV8G6KU3crrzcVVpHpI",
         "begin": "2021-01-04T16:00:00.000Z",
         "broadcast": "R/2021-01-04T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi",
+        "id": "328140"
       }
     ]
   },
@@ -244,6 +251,12 @@
         "id": "PLxSscENEp7Jh0Urq4XJv3SkmYTq-goyCo",
         "begin": "2021-01-07T16:00:00.000Z",
         "broadcast": "R/2021-01-07T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81392169",
+        "begin": "2021-07-12T16:00:00.000Z",
+        "broadcast": "R/2021-07-12T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -251,7 +264,8 @@
     "title": "弱キャラ友崎くん",
     "titleTranslate": {
       "zh-Hans": [
-        "弱势角色友崎君"
+        "弱势角色友崎君",
+        "弱角友崎同学"
       ]
     },
     "type": "tv",
@@ -288,6 +302,9 @@
       ],
       "zh-Hant": [
         "裏世界遠足！"
+      ],
+      "en": [
+        "OTHERSIDE PICNIC"
       ]
     },
     "type": "tv",
@@ -495,6 +512,12 @@
         "id": "PLxSscENEp7Jjd9DclPvIJd8fmLnYFiA-c",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81046193",
+        "begin": "2020-11-19T00:00:00.000Z",
+        "broadcast": "R/2020-11-19T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -552,6 +575,12 @@
       "zh-Hans": [
         "工作细胞 第二季",
         "工作细胞！！"
+      ],
+      "zh-Hant": [
+        "工作細胞"
+      ],
+      "en": [
+        "Cells at Work!"
       ]
     },
     "type": "tv",
@@ -577,6 +606,12 @@
         "id": "hataraku-saibou2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81028791",
+        "begin": "2021-07-28T16:00:00.000Z",
+        "broadcast": "R/2021-07-28T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -585,6 +620,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "工作细胞BLACK"
+      ],
+      "zh-Hant": [
+        "工作細胞 Black",
+        "工作細胞 BLACK"
+      ],
+      "en": [
+        "Cells at Work! CODE BLACK"
       ]
     },
     "type": "tv",
@@ -616,6 +658,12 @@
         "id": "saibou-black",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81392162",
+        "begin": "2021-07-28T16:00:00.000Z",
+        "broadcast": "R/2021-07-28T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -665,10 +713,16 @@
     "titleTranslate": {
       "zh-Hans": [
         "无职转生～到了异世界就拿出真本事～",
-        "无职转生～在异世界认真地活下去～"
+        "无职转生～在异世界认真地活下去～",
+        "无职转生：到了异世界就拿出真本事",
+        "无职转生 ～在异世界认真地活下去～"
       ],
       "zh-Hant": [
-        "無職轉生～到了異世界就拿出真本事～"
+        "無職轉生～到了異世界就拿出真本事～",
+        "無職轉生：到了異世界就拿出真本事"
+      ],
+      "en": [
+        "Mushoku Tensei: Jobless Reincarnation"
       ]
     },
     "type": "tv",
@@ -706,6 +760,12 @@
         "id": "326915",
         "begin": "2021-01-09T16:00:00.000Z",
         "broadcast": "R/2021-01-09T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80987039",
+        "begin": "2022-07-30T16:00:00.000Z",
+        "broadcast": "R/2022-07-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -714,6 +774,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "堀与宫村"
+      ],
+      "zh-Hant": [
+        "堀與宮村"
+      ],
+      "en": [
+        "Horimiya"
       ]
     },
     "type": "tv",
@@ -739,6 +805,12 @@
         "id": "horimiya-anime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81020819",
+        "begin": "2021-06-28T16:00:00.000Z",
+        "broadcast": "R/2021-06-28T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1018,7 +1090,8 @@
     "title": "SK∞ エスケーエイト",
     "titleTranslate": {
       "zh-Hans": [
-        "无限滑板 / SK8 the Infinity"
+        "无限滑板 / SK8 the Infinity",
+        "无限滑板"
       ]
     },
     "type": "tv",
@@ -1051,9 +1124,13 @@
     "title": "バック・アロウ",
     "titleTranslate": {
       "zh-Hans": [
-        "逆回之矢"
+        "逆回之矢",
+        "BACK ARROW"
       ],
       "zh-Hant": [
+        "BACK ARROW"
+      ],
+      "en": [
         "BACK ARROW"
       ]
     },
@@ -1159,6 +1236,12 @@
         "begin": "2022-05-26T16:00:00.000Z",
         "broadcast": "R/2022-05-26T16:00:00.000Z/P7D",
         "comment": "粵語版: 447202"
+      },
+      {
+        "site": "netflix",
+        "id": "81145640",
+        "begin": "2021-05-30T16:00:00.000Z",
+        "broadcast": "R/2021-05-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1214,7 +1297,8 @@
     "title": "アズールレーン びそくぜんしんっ！",
     "titleTranslate": {
       "zh-Hans": [
-        "碧蓝航线 微速前进！"
+        "碧蓝航线 微速前进！",
+        "碧蓝航线：微速前行！"
       ]
     },
     "type": "tv",
@@ -1434,7 +1518,11 @@
   },
   {
     "title": "アイドールズ！",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "Idolls!"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://wsy-idolls.com/",
@@ -1493,7 +1581,11 @@
   },
   {
     "title": "WAVE!!～サーフィンやっぺ!!～",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "来冲浪吧！！美少年！！"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://wave-anime.com/",
@@ -1518,7 +1610,8 @@
     "title": "IDOLY PRIDE",
     "titleTranslate": {
       "zh-Hans": [
-        "偶像荣耀/IDOLY PRIDE"
+        "偶像荣耀/IDOLY PRIDE",
+        "IDOLY PRIDE"
       ]
     },
     "type": "tv",
@@ -1714,6 +1807,9 @@
       ],
       "zh-Hant": [
         "怪物事變"
+      ],
+      "en": [
+        "Kemono Jihen"
       ]
     },
     "type": "tv",
@@ -1763,6 +1859,12 @@
         "id": "PLuxqoToY7Ucjy2NpxOdkGR2q4xhTjBxrs",
         "begin": "2021-01-09T16:00:00.000Z",
         "broadcast": "R/2021-01-09T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81392166",
+        "begin": "2021-07-28T16:00:00.000Z",
+        "broadcast": "R/2021-07-28T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1836,6 +1938,12 @@
         "id": "28231773",
         "begin": "2021-01-06T20:00:00.000Z",
         "broadcast": "R/2021-01-06T20:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81054847",
+        "begin": "2020-03-12T16:00:00.000Z",
+        "broadcast": "R/2020-03-12T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1879,6 +1987,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "天空侵犯"
+      ],
+      "zh-Hant": [
+        "天空侵犯"
+      ],
+      "en": [
+        "High-Rise Invasion"
       ]
     },
     "type": "web",
@@ -1897,6 +2011,12 @@
         "id": "28232335",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81043571",
+        "begin": "2021-02-24T16:00:00.000Z",
+        "broadcast": "R/2021-02-24T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1960,6 +2080,38 @@
         "id": "PLuxqoToY7UcjRs26ruy3ZwpTXgMXil4EE",
         "begin": "2022-01-06T16:00:00.000Z",
         "broadcast": "R/2022-01-06T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 美少女戦士セーラームーンEternal 前編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 美少女战士Eternal 前篇"
+      ],
+      "zh-Hant": [
+        "劇場版 美少女戰士Sailor Moon Eternal（上）",
+        "劇場版 美少女戰士Eternal（上）"
+      ],
+      "en": [
+        "Pretty Guardian Sailor Moon Eternal The Movie Part 1"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://sailormoon-movie.jp/",
+    "begin": "2021-01-09T16:00:00.000Z",
+    "end": "2021-01-09T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "207461"
+      },
+      {
+        "site": "netflix",
+        "id": "81214399",
+        "begin": "2021-06-02T16:00:00.000Z",
+        "broadcast": "R/2021-06-02T16:00:00.000Z/P7D"
       }
     ]
   }

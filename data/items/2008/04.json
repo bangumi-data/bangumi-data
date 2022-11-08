@@ -146,7 +146,8 @@
       {
         "site": "netflix",
         "id": "70205024",
-        "begin": "2017-12-01T08:00:00.000Z"
+        "begin": "2017-12-01T08:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "youku",
@@ -258,7 +259,8 @@
       {
         "site": "netflix",
         "id": "80065146",
-        "begin": "2017-12-13T15:00:00.000Z"
+        "begin": "2017-12-13T15:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "nicovideo",
@@ -731,7 +733,8 @@
       {
         "site": "netflix",
         "id": "70309457",
-        "begin": "2016-10-15T07:00:00.000Z"
+        "begin": "2016-10-15T07:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "bilibili",
@@ -1336,6 +1339,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "可爱巧虎岛"
+      ],
+      "zh-Hant": [
+        "可愛巧虎島"
+      ],
+      "en": [
+        "Shimajiro: A Wonderful Adventure"
       ]
     },
     "type": "tv",
@@ -1352,6 +1361,12 @@
       {
         "site": "bangumi",
         "id": "212150"
+      },
+      {
+        "site": "netflix",
+        "id": "81235103",
+        "begin": "2020-06-29T16:00:00.000Z",
+        "broadcast": "R/2020-06-29T16:00:00.000Z/P7D"
       }
     ]
   },

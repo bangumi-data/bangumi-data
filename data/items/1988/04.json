@@ -87,6 +87,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "龙猫"
+      ],
+      "zh-Hant": [
+        "龍貓"
+      ],
+      "en": [
+        "My Neighbor Totoro"
       ]
     },
     "type": "movie",
@@ -103,6 +109,12 @@
       {
         "site": "bangumi",
         "id": "302"
+      },
+      {
+        "site": "netflix",
+        "id": "60032294",
+        "begin": "2020-01-30T16:00:00.000Z",
+        "broadcast": "R/2020-01-30T16:00:00.000Z/P7D"
       }
     ]
   },

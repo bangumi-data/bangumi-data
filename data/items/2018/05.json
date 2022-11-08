@@ -35,7 +35,8 @@
         "CARDFIGHT!! Vanguard"
       ],
       "zh-Hans": [
-        "卡片战斗先导者"
+        "卡片战斗先导者",
+        "卡片战斗先导者!!Vanguard"
       ]
     },
     "type": "tv",
@@ -196,6 +197,37 @@
         "id": "geass-movie3",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "GODZILLA 決戦機動増殖都市",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哥斯拉 决战之都"
+      ],
+      "zh-Hant": [
+        "哥斯拉：決戰機動增殖都市"
+      ],
+      "en": [
+        "GODZILLA City on the Edge of Battle"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://pp-movie.com/",
+    "begin": "2018-05-17T16:00:00.000Z",
+    "end": "2018-05-17T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "212059"
+      },
+      {
+        "site": "netflix",
+        "id": "80180376",
+        "begin": "2018-07-17T16:00:00.000Z",
+        "broadcast": "R/2018-07-17T16:00:00.000Z/P7D"
       }
     ]
   }

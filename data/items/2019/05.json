@@ -6,7 +6,8 @@
         "CARDFIGHT!! Vanguard"
       ],
       "zh-Hans": [
-        "卡片战斗先导者（续・高校生篇）"
+        "卡片战斗先导者（续・高校生篇）",
+        "卡片战斗先导者 续・高校生篇"
       ]
     },
     "type": "tv",
@@ -97,6 +98,38 @@
         "site": "nicovideo",
         "id": "kinpri-movie-sss",
         "begin": "2020-07-13T15:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "甲鉄城のカバネリ～海門決戦～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "甲铁城的卡巴内利～海门决战～"
+      ],
+      "zh-Hant": [
+        "甲鐵城的卡巴內裡：海門決戰"
+      ],
+      "en": [
+        "Kabaneri of the Iron Fortress: The Battle of Unato"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kabaneri.com/",
+    "begin": "2019-05-09T16:00:00.000Z",
+    "end": "2019-05-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "202270"
+      },
+      {
+        "site": "netflix",
+        "id": "81095103",
+        "begin": "2019-09-12T16:00:00.000Z",
+        "broadcast": "R/2019-09-12T16:00:00.000Z/P7D"
       }
     ]
   }

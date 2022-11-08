@@ -288,7 +288,8 @@
       {
         "site": "netflix",
         "id": "70304252",
-        "begin": "2017-03-02T07:00:00.000Z"
+        "begin": "2017-03-02T07:00:00.000Z",
+        "broadcast": "R/2022-06-29T16:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -813,7 +814,8 @@
       {
         "site": "netflix",
         "id": "80039972",
-        "begin": "2017-10-15T07:00:00.000Z"
+        "begin": "2017-10-15T07:00:00.000Z",
+        "broadcast": "R/2021-02-26T16:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -893,6 +895,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "我们仍未知道那天所看见的花的名字。"
+      ],
+      "zh-Hant": [
+        "我們仍未知道那天所看見的花名"
+      ],
+      "en": [
+        "Anohana: The Flower We Saw That Day"
       ]
     },
     "type": "tv",
@@ -919,6 +927,12 @@
         "site": "youku",
         "id": "f5336bb689d511e0a046",
         "begin": "2012-05-08T08:35:55.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "80075178",
+        "begin": "2021-01-30T16:00:00.000Z",
+        "broadcast": "R/2021-01-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1054,7 +1068,7 @@
     "title": "X-MEN",
     "titleTranslate": {
       "en": [
-        "X-MEN"
+        "Marvel Anime: X-Men"
       ],
       "zh-Hans": [
         "X战警"
@@ -1084,6 +1098,12 @@
         "site": "qq",
         "id": "4/47g5ytgl5rfww1v",
         "begin": ""
+      },
+      {
+        "site": "netflix",
+        "id": "70205688",
+        "begin": "2020-12-15T00:00:00.000Z",
+        "broadcast": "R/2020-12-15T00:00:00.000Z/P7D"
       }
     ]
   },

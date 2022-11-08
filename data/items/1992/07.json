@@ -67,6 +67,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "红猪"
+      ],
+      "zh-Hant": [
+        "紅豬",
+        "飛天紅豬俠"
+      ],
+      "en": [
+        "Porco Rosso"
       ]
     },
     "type": "movie",
@@ -83,6 +90,12 @@
       {
         "site": "bangumi",
         "id": "307"
+      },
+      {
+        "site": "netflix",
+        "id": "70019060",
+        "begin": "2020-01-30T16:00:00.000Z",
+        "broadcast": "R/2020-01-30T16:00:00.000Z/P7D"
       }
     ]
   },

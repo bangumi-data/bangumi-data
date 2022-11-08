@@ -3,7 +3,14 @@
     "title": "ポケットモンスター(2019)",
     "titleTranslate": {
       "zh-Hans": [
-        "宝可梦"
+        "宝可梦",
+        "宝可梦 旅途"
+      ],
+      "zh-Hant": [
+        "寶可夢旅途"
+      ],
+      "en": [
+        "Pokémon Journeys: The Series"
       ]
     },
     "type": "tv",
@@ -21,6 +28,12 @@
         "site": "nicovideo",
         "id": "pokemon_anime",
         "begin": "2019-11-25T03:00:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "81275355",
+        "begin": "2020-11-20T00:00:00.000Z",
+        "broadcast": "R/2020-11-20T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -253,6 +266,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "列比乌斯"
+      ],
+      "zh-Hant": [
+        "列比烏斯"
+      ],
+      "en": [
+        "Levius"
       ]
     },
     "type": "web",
@@ -270,6 +289,12 @@
         "site": "bilibili",
         "id": "28229026",
         "begin": "2020-05-27T16:00:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "80156799",
+        "begin": "2019-11-28T00:00:00.000Z",
+        "broadcast": "R/2019-11-28T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -310,6 +335,38 @@
       {
         "site": "bangumi",
         "id": "291175"
+      }
+    ]
+  },
+  {
+    "title": "恐竜少女ガウ子",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恐龙女孩"
+      ],
+      "zh-Hant": [
+        "恐龍女孩"
+      ],
+      "en": [
+        "Dino Girl Gauko"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.gauko.com/",
+    "begin": "2019-11-21T16:00:00.000Z",
+    "end": "2019-11-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302672"
+      },
+      {
+        "site": "netflix",
+        "id": "80216180",
+        "begin": "2019-11-22T00:00:00.000Z",
+        "broadcast": "R/2019-11-22T00:00:00.000Z/P7D"
       }
     ]
   }

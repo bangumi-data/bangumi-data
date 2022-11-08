@@ -231,6 +231,9 @@
       ],
       "zh-Hant": [
         "為美好的世界獻上祝福！ 2"
+      ],
+      "en": [
+        "KonoSuba: God's Blessing on this Wonderful World!"
       ]
     },
     "type": "tv",
@@ -529,7 +532,8 @@
       {
         "site": "netflix",
         "id": "80156387",
-        "begin": "2017-06-30T07:00:00.000Z"
+        "begin": "2017-06-30T07:00:00.000Z",
+        "broadcast": "R/2017-06-29T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1418,6 +1422,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "人渣的本愿"
+      ],
+      "zh-Hant": [
+        "人渣的本願"
+      ],
+      "en": [
+        "Scum's Wish"
       ]
     },
     "type": "tv",
@@ -1439,6 +1449,12 @@
       {
         "site": "bangumi",
         "id": "174143"
+      },
+      {
+        "site": "netflix",
+        "id": "80194878",
+        "begin": "2022-05-30T16:00:00.000Z",
+        "broadcast": "R/2022-05-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1859,7 +1875,7 @@
     "titleTranslate": {},
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://www.gtv.co.jp/program/animation/sukiyaki_f/",
     "begin": "2017-01-09T15:00:00.000Z",
     "end": "2017-06-19T15:05:00.000Z",
     "sites": [

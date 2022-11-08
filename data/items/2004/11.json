@@ -92,6 +92,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "哈尔的移动城堡"
+      ],
+      "zh-Hant": [
+        "霍爾的移動城堡",
+        "哈爾移動城堡"
+      ],
+      "en": [
+        "Howl’s Moving Castle"
       ]
     },
     "type": "movie",
@@ -108,6 +115,12 @@
       {
         "site": "bangumi",
         "id": "312"
+      },
+      {
+        "site": "netflix",
+        "id": "70028883",
+        "begin": "2020-03-30T16:00:00.000Z",
+        "broadcast": "R/2020-03-30T16:00:00.000Z/P7D"
       }
     ]
   },

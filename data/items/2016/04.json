@@ -7,6 +7,9 @@
       ],
       "zh-Hant": [
         "潮與虎"
+      ],
+      "en": [
+        "Ushio to Tora"
       ]
     },
     "type": "tv",
@@ -29,6 +32,12 @@
         "id": "PLuxqoToY7UcgAOiMCdN3ne3RUCEOrBQJE",
         "begin": "2019-11-28T16:00:00.000Z",
         "broadcast": "R/2019-11-28T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "70309073",
+        "begin": "2022-05-30T16:00:00.000Z",
+        "broadcast": "R/2022-05-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -69,6 +78,12 @@
         "site": "muse_hk",
         "id": "PLuxqoToY7UchKWuj91hWDx7Bngip5Xy9J",
         "begin": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80179831",
+        "begin": "2021-03-29T16:00:00.000Z",
+        "broadcast": "R/2021-03-29T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -515,7 +530,8 @@
       {
         "site": "netflix",
         "id": "80135674",
-        "begin": "2017-08-31T16:00:00.000Z"
+        "begin": "2017-08-31T16:00:00.000Z",
+        "broadcast": "R/2020-11-19T00:00:00.000Z/P7D"
       },
       {
         "site": "acfun",
@@ -570,7 +586,15 @@
     "titleTranslate": {
       "zh-Hans": [
         "机动战士高达UC RE:0096",
-        "机动战士高达独角兽 RE:0096"
+        "机动战士高达独角兽 RE:0096",
+        "机动战士高达 UC（独角兽）"
+      ],
+      "zh-Hant": [
+        "機動戰士鋼彈 UC",
+        "機動戰士高達 UC"
+      ],
+      "en": [
+        "Mobile Suit Gundam UC"
       ]
     },
     "type": "tv",
@@ -598,6 +622,12 @@
         "id": "gundam-unicorn-re0096",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80189183",
+        "begin": "2019-08-30T16:00:00.000Z",
+        "broadcast": "R/2019-08-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -780,7 +810,8 @@
       {
         "site": "netflix",
         "id": "80131659",
-        "begin": "2018-12-31T16:00:00.000Z"
+        "begin": "2018-12-31T16:00:00.000Z",
+        "broadcast": "R/2020-12-31T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -1230,6 +1261,7 @@
         "site": "netflix",
         "id": "80219261",
         "begin": "2018-01-31T16:00:00.000Z",
+        "broadcast": "",
         "comment": "港区可见"
       }
     ]
@@ -1323,7 +1355,11 @@
     "title": "甲鉄城のカバネリ",
     "titleTranslate": {
       "zh-Hans": [
-        "甲铁城的卡巴内利"
+        "甲铁城的卡巴内利",
+        "甲铁城的卡巴内瑞"
+      ],
+      "zh-Hant": [
+        "甲鐵城的卡巴內里"
       ],
       "en": [
         "KABANERI OF THE IRON FORTRESS"
@@ -1343,6 +1379,12 @@
         "site": "bilibili",
         "id": "3494",
         "begin": "2016-04-07T16:00:01.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "80194880",
+        "begin": "2020-06-29T16:00:00.000Z",
+        "broadcast": "R/2020-06-29T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1475,6 +1517,10 @@
       ],
       "en": [
         "BUNGO STRAY DOGS"
+      ],
+      "zh-Hant": [
+        "文豪野犬",
+        "文豪 Stray Dogs"
       ]
     },
     "type": "tv",
@@ -1496,6 +1542,12 @@
         "site": "nicovideo",
         "id": "bungo-stray-dogs",
         "begin": "2016-04-15T14:30:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "80132126",
+        "begin": "2022-02-27T16:00:00.000Z",
+        "broadcast": "R/2022-02-27T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1543,7 +1595,8 @@
       {
         "site": "netflix",
         "id": "80103318",
-        "begin": "2016-07-04T07:00:00.000Z"
+        "begin": "2016-07-04T07:00:00.000Z",
+        "broadcast": "R/2016-07-03T16:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -2084,7 +2137,8 @@
       {
         "site": "netflix",
         "id": "80103331",
-        "begin": "2016-07-14T07:00:00.000Z"
+        "begin": "2016-07-14T07:00:00.000Z",
+        "broadcast": "R/1969-12-31T16:00:00.000Z/P7D"
       }
     ]
   },
