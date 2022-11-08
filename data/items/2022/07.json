@@ -354,6 +354,12 @@
         "id": "28338451",
         "begin": "2022-07-04T12:00:00.000Z",
         "broadcast": "R/2022-07-04T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtTc61wuDviNoKmNUAVFT50D",
+        "begin": "2022-11-04T16:00:00.000Z",
+        "broadcast": "R/2022-11-04T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1569,13 +1575,13 @@
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JgDF8pTd-LOD4yqJY0OEfDz",
         "begin": "2022-07-10T16:00:00.000Z",
-        "broadcast": ""
+        "broadcast": "R/2022-07-10T16:00:00.000Z/P7D"
       },
       {
         "site": "ani_one",
         "id": "PLC18xlbCdwtSllszc6cnbB_Ceo4f2QJML",
         "begin": "2022-10-10T16:00:00.000Z",
-        "broadcast": ""
+        "broadcast": "R/2022-10-10T16:00:00.000Z/P7D"
       }
     ]
   }
