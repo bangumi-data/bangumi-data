@@ -26,5 +26,70 @@
     "end": "",
     "comment": "",
     "sites": []
+  },
+  {
+    "title": "終末のワルキューレ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "终末的女武神"
+      ],
+      "zh-Hant": [
+        "終末的女武神"
+      ],
+      "en": [
+        "Record of Ragnarok"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.mbs.jp/yoruwamawaruyo/",
+    "begin": "2021-06-17T19:10:00.000Z",
+    "end": "2021-06-17T19:10:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "322900"
+      },
+      {
+        "site": "netflix",
+        "id": "81281579",
+        "begin": "2021-06-16T16:00:00.000Z",
+        "broadcast": "R/2021-06-16T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士ガンダム 閃光のハサウェイ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达：闪光的哈萨维"
+      ],
+      "zh-Hant": [
+        "機動戰士鋼彈：閃光的哈薩威",
+        "機動戰士高達：閃光之凱薩衛"
+      ],
+      "en": [
+        "Mobile Suit Gundam Hathaway"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://gundam-hathaway.net",
+    "begin": "2021-06-10T16:00:00.000Z",
+    "end": "2021-06-10T16:10:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "243429"
+      },
+      {
+        "site": "netflix",
+        "id": "81439253",
+        "begin": "2021-06-30T16:00:00.000Z",
+        "broadcast": "R/2021-06-30T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

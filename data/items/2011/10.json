@@ -5,13 +5,16 @@
       "zh-Hans": [
         "猎人",
         "全职猎人",
-        "猎人×猎人"
+        "猎人×猎人",
+        "猎人 x 猎人"
       ],
       "en": [
-        "HUNTER×HUNTER"
+        "HUNTER×HUNTER",
+        "Hunter X Hunter (2011)"
       ],
       "zh-Hant": [
-        "HUNTER × HUNTER"
+        "HUNTER × HUNTER",
+        "獵人 x 獵人"
       ]
     },
     "type": "tv",
@@ -54,6 +57,12 @@
         "id": "125149",
         "begin": "2019-01-31T16:00:00.000Z",
         "broadcast": "R/2019-01-31T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "70300472",
+        "begin": "2022-01-30T16:00:00.000Z",
+        "broadcast": "R/2022-01-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -320,7 +329,8 @@
       {
         "site": "netflix",
         "id": "80113904",
-        "begin": "2019-01-31T16:00:00.000Z"
+        "begin": "2019-01-31T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -807,7 +817,8 @@
       {
         "site": "netflix",
         "id": "70304256",
-        "begin": "2017-04-15T07:00:00.000Z"
+        "begin": "2017-04-15T07:00:00.000Z",
+        "broadcast": "R/2021-01-30T16:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",

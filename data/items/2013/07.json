@@ -1090,7 +1090,8 @@
       {
         "site": "netflix",
         "id": "80041161",
-        "begin": "2015-08-01T07:00:00.000Z"
+        "begin": "2015-08-01T07:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "bilibili",
@@ -1554,6 +1555,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "起风了"
+      ],
+      "zh-Hant": [
+        "風起",
+        "風起了"
+      ],
+      "en": [
+        "The Wind Rises"
       ]
     },
     "type": "movie",
@@ -1570,6 +1578,12 @@
       {
         "site": "bangumi",
         "id": "56846"
+      },
+      {
+        "site": "netflix",
+        "id": "70293674",
+        "begin": "2020-03-30T16:00:00.000Z",
+        "broadcast": "R/2020-03-30T16:00:00.000Z/P7D"
       }
     ]
   },

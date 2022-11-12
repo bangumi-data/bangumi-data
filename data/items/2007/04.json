@@ -222,6 +222,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "大剑"
+      ],
+      "zh-Hant": [
+        "獵魔戰記"
+      ],
+      "en": [
+        "Claymore"
       ]
     },
     "type": "tv",
@@ -238,6 +244,12 @@
         "site": "nicovideo",
         "id": "claymore_anime",
         "begin": "2019-03-29T06:00:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "70204964",
+        "begin": "2022-08-30T16:00:00.000Z",
+        "broadcast": "R/2022-08-30T16:00:00.000Z/P7D"
       }
     ]
   },

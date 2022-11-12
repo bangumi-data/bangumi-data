@@ -37,7 +37,15 @@
     "title": "機動戦士ガンダム 逆襲のシャア",
     "titleTranslate": {
       "zh-Hans": [
-        "机动战士高达 逆袭的夏亚"
+        "机动战士高达 逆袭的夏亚",
+        "机动战士高达：逆袭的夏亚"
+      ],
+      "zh-Hant": [
+        "機動戰士鋼彈：逆襲的夏亞",
+        "機動戰士高達：馬沙之反擊"
+      ],
+      "en": [
+        "Mobile Suit Gundam: Char's Counterattack"
       ]
     },
     "type": "movie",
@@ -65,6 +73,12 @@
         "id": "gundam-cca",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "60024179",
+        "begin": "2021-06-16T16:00:00.000Z",
+        "broadcast": "R/2021-06-16T16:00:00.000Z/P7D"
       }
     ]
   },

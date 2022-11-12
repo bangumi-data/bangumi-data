@@ -3,7 +3,14 @@
     "title": "GTO",
     "titleTranslate": {
       "zh-Hans": [
-        "麻辣教师GTO"
+        "麻辣教师GTO",
+        "麻辣教师"
+      ],
+      "zh-Hant": [
+        "麻辣教師 GTO"
+      ],
+      "en": [
+        "GTO: Great Teacher Onizuka"
       ]
     },
     "type": "tv",
@@ -30,6 +37,12 @@
         "site": "bilibili",
         "id": "2238",
         "begin": "1999-06-29T16:00:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "80124041",
+        "begin": "2020-01-13T16:00:00.000Z",
+        "broadcast": "R/2020-01-13T16:00:00.000Z/P7D"
       }
     ]
   },

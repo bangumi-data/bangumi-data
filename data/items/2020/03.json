@@ -28,5 +28,101 @@
         "begin": "2020-03-26T16:00:00.000Z"
       }
     ]
+  },
+  {
+    "title": "恐竜少女ガウ子 シーズン2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恐龙女孩 第二季"
+      ],
+      "zh-Hant": [
+        "恐龍女孩 第二季"
+      ],
+      "en": [
+        "Dino Girl Gauko Season 2"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.gauko.com/",
+    "begin": "2020-03-19T16:00:00.000Z",
+    "end": "2020-03-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302673"
+      },
+      {
+        "site": "netflix",
+        "id": "80216180",
+        "begin": "2019-11-22T00:00:00.000Z",
+        "broadcast": "R/2019-11-22T00:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "岸辺露伴は動かない OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "岸边露伴一动不动 OVA"
+      ],
+      "zh-Hant": [
+        "岸邊露伴一動也不動 OVA"
+      ],
+      "en": [
+        "Thus Spoke Kishibe Rohan OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://jojo-animation.com/ova/rohan",
+    "begin": "2020-03-24T16:00:00.000Z",
+    "end": "2020-03-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "289138"
+      },
+      {
+        "site": "netflix",
+        "id": "81280998",
+        "begin": "2021-02-17T16:00:00.000Z",
+        "broadcast": "R/2021-02-17T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "オルタード・カーボン：リスリーブド",
+    "titleTranslate": {
+      "zh-Hans": [
+        "副本：义体置换"
+      ],
+      "zh-Hant": [
+        "碳變：義體置換"
+      ],
+      "en": [
+        "Altered Carbon: Resleeved"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2020-03-18T16:00:00.000Z",
+    "end": "2020-03-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "277363"
+      },
+      {
+        "site": "netflix",
+        "id": "81001991",
+        "begin": "2020-03-18T16:00:00.000Z",
+        "broadcast": "R/2020-03-18T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

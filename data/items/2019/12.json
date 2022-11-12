@@ -61,6 +61,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "齐木楠雄的灾难 Ψ始动篇"
+      ],
+      "zh-Hant": [
+        "齊木楠雄的災難：重啟",
+        "齊木楠雄的災難：再始動"
+      ],
+      "en": [
+        "The Disastrous Life of Saiki K.: Reawakened"
       ]
     },
     "type": "web",
@@ -88,6 +95,12 @@
         "site": "youku",
         "id": "aaca7616f8894efba8f5",
         "begin": "2019-12-31T07:59:36.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "81054849",
+        "begin": "2019-12-30T00:00:00.000Z",
+        "broadcast": "R/2019-12-30T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -184,6 +197,39 @@
         "id": "7dayswar",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "僕のヒーローアカデミア THE MOVIE ヒーローズ：ライジング",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我的英雄学院：英雄崛起"
+      ],
+      "zh-Hant": [
+        "我的英雄學院：英雄新世紀：劇場版",
+        "我的英雄學院劇場版：英雄新世紀"
+      ],
+      "en": [
+        "My Hero Academia: Heroes Rising"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://heroaca-movie.com/",
+    "begin": "2019-12-19T16:00:00.000Z",
+    "end": "2019-12-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "278429"
+      },
+      {
+        "site": "netflix",
+        "id": "81398907",
+        "begin": "2021-05-13T16:00:00.000Z",
+        "broadcast": "R/2021-05-13T16:00:00.000Z/P7D"
       }
     ]
   }

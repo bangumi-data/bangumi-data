@@ -186,6 +186,12 @@
         "id": "PLuxqoToY7UcjJs5nKHF6g9nA7wG5FuFxe",
         "begin": "2021-09-12T16:00:00.000Z",
         "broadcast": "R/2021-09-12T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80179831",
+        "begin": "2021-03-29T16:00:00.000Z",
+        "broadcast": "R/2021-03-29T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -512,7 +518,8 @@
       {
         "site": "netflix",
         "id": "80009361",
-        "begin": "2017-11-15T08:00:00.000Z"
+        "begin": "2017-11-15T08:00:00.000Z",
+        "broadcast": "R/2021-01-30T16:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -895,6 +902,12 @@
         "id": "PLC18xlbCdwtRJd3uNUmTDN4Wx6GxUchpN",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80090673",
+        "begin": "2020-07-01T16:00:00.000Z",
+        "broadcast": "R/2020-07-01T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1947,7 +1960,8 @@
       {
         "site": "netflix",
         "id": "70301578",
-        "begin": "2014-07-04T07:00:00.000Z"
+        "begin": "2014-07-04T07:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "bilibili",

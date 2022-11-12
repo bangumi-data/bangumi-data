@@ -4,6 +4,9 @@
     "titleTranslate": {
       "en": [
         "GENERAL MANAGER OF BABY"
+      ],
+      "zh-Hans": [
+        "婴儿本部长"
       ]
     },
     "type": "tv",
@@ -13,7 +16,12 @@
     "broadcast": "R/2021-03-28T15:40:00.000Z/P7D",
     "end": "2021-03-28T16:20:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "331786"
+      }
+    ]
   },
   {
     "title": "僕のヒーローアカデミア(第5期)",
@@ -51,6 +59,12 @@
         "id": "347465",
         "begin": "2021-03-26T16:00:00.000Z",
         "broadcast": "R/2021-03-26T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80135674",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -68,7 +82,11 @@
   },
   {
     "title": "わしも-wasimo-(第9シリーズ)",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "WASIMO 第九季"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://www9.nhk.or.jp/anime/wasimo/",
@@ -76,7 +94,12 @@
     "broadcast": "R/2021-03-29T09:00:00.000Z/P7D",
     "end": "2021-12-07T09:10:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "365856"
+      }
+    ]
   },
   {
     "title": "パワフルプロ野球 パワフル高校編",

@@ -245,5 +245,40 @@
         "begin": "2017-08-03T16:00:00.000Z"
       }
     ]
+  },
+  {
+    "title": "打ち上げ花火、下から見るか？横から見るか？",
+    "titleTranslate": {
+      "zh-Hans": [
+        "烟花",
+        "烟花、应该和谁看",
+        "升空的焰火，从下面看还是从侧面看？"
+      ],
+      "zh-Hant": [
+        "煙花",
+        "煙花，應該和誰看"
+      ],
+      "en": [
+        "Fireworks"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.uchiagehanabi.jp",
+    "begin": "2017-08-17T16:00:00.000Z",
+    "end": "2017-08-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "200704"
+      },
+      {
+        "site": "netflix",
+        "id": "81000505",
+        "begin": "2021-12-30T00:00:00.000Z",
+        "broadcast": "R/2021-12-30T00:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

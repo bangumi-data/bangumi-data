@@ -237,6 +237,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "好想告诉你"
+      ],
+      "zh-Hant": [
+        "只想告訴你"
+      ],
+      "en": [
+        "From Me to You: Kimi ni Todoke"
       ]
     },
     "type": "tv",
@@ -258,6 +264,12 @@
         "site": "nicovideo",
         "id": "kiminitodoke01",
         "begin": "2014-04-15T06:00:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "80236253",
+        "begin": "2022-10-31T00:00:00.000Z",
+        "broadcast": "R/2022-10-31T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -405,7 +417,7 @@
         "科学超电磁炮",
         "某科学的超电磁炮"
       ],
-      "zh-Hant":[
+      "zh-Hant": [
         "科學超電磁砲"
       ]
     },
@@ -448,7 +460,8 @@
         "site": "acfun",
         "id": "6000272",
         "begin": "2019-09-30T06:53:15.000Z"
-      },{
+      },
+      {
         "site": "muse_hk",
         "id": "PLuxqoToY7UchoOeTFg7F04N_ohKEskLW6",
         "begin": "2019-10-04T16:00:00.000Z",
@@ -519,6 +532,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "犬夜叉 完结篇"
+      ],
+      "zh-Hant": [
+        "犬夜叉：完結篇"
+      ],
+      "en": [
+        "Inuyasha: The Final Act"
       ]
     },
     "type": "tv",
@@ -535,6 +554,12 @@
       {
         "site": "bangumi",
         "id": "2785"
+      },
+      {
+        "site": "netflix",
+        "id": "80057177",
+        "begin": "2022-03-23T16:00:00.000Z",
+        "broadcast": "R/2022-03-23T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -782,7 +807,8 @@
       {
         "site": "netflix",
         "id": "70266998",
-        "begin": "2017-04-01T07:00:00.000Z"
+        "begin": "2017-04-01T07:00:00.000Z",
+        "broadcast": "R/2021-07-13T16:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -1054,7 +1080,7 @@
         "大耳猴 阿啦啦？",
         "大耳查布TV"
       ],
-      "zh-Hant":[
+      "zh-Hant": [
         "大耳查布TV版"
       ]
     },

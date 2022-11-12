@@ -150,6 +150,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "十字架与吸血鬼"
+      ],
+      "zh-Hant": [
+        "十字架 + 吸血姬",
+        "十字架與吸血鬼"
+      ],
+      "en": [
+        "Rosario + Vampire"
       ]
     },
     "type": "tv",
@@ -161,6 +168,12 @@
       {
         "site": "bangumi",
         "id": "2474"
+      },
+      {
+        "site": "netflix",
+        "id": "70230165",
+        "begin": "2019-06-29T16:00:00.000Z",
+        "broadcast": "R/2019-06-29T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -233,7 +246,8 @@
       {
         "site": "netflix",
         "id": "80092436",
-        "begin": "2018-01-01T08:00:00.000Z"
+        "begin": "2018-01-01T08:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "bilibili",

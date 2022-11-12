@@ -148,5 +148,37 @@
         "broadcast": "R/2022-07-24T16:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "虫籠のカガステル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "虫笼的卡伽斯特尔"
+      ],
+      "zh-Hant": [
+        "蟲籠的卡伽斯特爾"
+      ],
+      "en": [
+        "Cagaster of an Insect Cage"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2020-02-05T16:00:00.000Z",
+    "end": "2020-02-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "266224"
+      },
+      {
+        "site": "netflix",
+        "id": "80224581",
+        "begin": "2020-02-05T16:00:00.000Z",
+        "broadcast": "R/2020-02-05T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

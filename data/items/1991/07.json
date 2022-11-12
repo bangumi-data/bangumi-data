@@ -75,5 +75,37 @@
         "id": "8356"
       }
     ]
+  },
+  {
+    "title": "おもひでぽろぽろ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "岁月的童话"
+      ],
+      "zh-Hant": [
+        "兒時的點點滴滴",
+        "歲月的童話"
+      ],
+      "en": [
+        "Only Yesterday"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-07-19T16:00:00.000Z",
+    "end": "1991-07-19T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "512"
+      },
+      {
+        "site": "netflix",
+        "id": "80092922",
+        "begin": "2020-01-30T16:00:00.000Z",
+        "broadcast": "R/2020-01-30T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

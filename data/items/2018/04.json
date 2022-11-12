@@ -580,6 +580,12 @@
         "site": "nicovideo",
         "id": "tokyoghoul_re",
         "begin": "2018-04-11T03:00:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "80023687",
+        "begin": "2018-10-19T00:00:00.000Z",
+        "broadcast": "R/2018-10-19T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -670,6 +676,7 @@
     "titleTranslate": {
       "zh-Hans": [
         "失落的歌谣",
+        "失落之歌",
         "LOST SONG 失落的歌谣"
       ]
     },
@@ -697,6 +704,12 @@
         "site": "youku",
         "id": "df3fecb5465b40759289",
         "begin": "2018-03-31T06:58:19.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "80191369",
+        "begin": "2018-10-04T16:00:00.000Z",
+        "broadcast": "R/2018-10-04T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -940,7 +953,8 @@
     "title": "メジャーセカンド",
     "titleTranslate": {
       "zh-Hans": [
-        "棒球大联盟 2nd"
+        "棒球大联盟 2nd",
+        "棒球大联盟2nd"
       ],
       "en": [
         "MAJOR 2nd"
@@ -1179,7 +1193,8 @@
       {
         "site": "netflix",
         "id": "80986797",
-        "begin": "2018-09-28T07:00:00.000Z"
+        "begin": "2018-09-28T07:00:00.000Z",
+        "broadcast": "R/2018-09-27T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1476,7 +1491,8 @@
       {
         "site": "netflix",
         "id": "81025716",
-        "begin": "2018-10-14T16:00:00.000Z"
+        "begin": "2018-10-14T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -1618,7 +1634,16 @@
     "title": "ベイブレードバースト 超ゼツ",
     "titleTranslate": {
       "zh-Hans": [
-        "战斗陀螺 爆烈 超绝"
+        "战斗陀螺 爆烈 超绝",
+        "霸旋陀螺 爆刃对决 超Z",
+        "霸旋陀螺：爆刃对决：极速"
+      ],
+      "zh-Hant": [
+        "戰鬥陀螺：爆烈世代：超 Z",
+        "爆旋陀螺：擊爆戰魂 Turbo"
+      ],
+      "en": [
+        "Beyblade Burst Turbo"
       ]
     },
     "type": "tv",
@@ -1630,6 +1655,12 @@
       {
         "site": "bangumi",
         "id": "231971"
+      },
+      {
+        "site": "netflix",
+        "id": "81172568",
+        "begin": "2019-11-30T00:00:00.000Z",
+        "broadcast": "R/2019-11-30T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -1728,7 +1759,11 @@
   },
   {
     "title": "わしも-wasimo-(第6シリーズ)",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "WASIMO 第六季"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://www9.nhk.or.jp/anime/wasimo/",
@@ -1745,7 +1780,8 @@
     "title": "少年アシベ GO!GO!ゴマちゃん(第3シリーズ)",
     "titleTranslate": {
       "zh-Hans": [
-        "少年阿贝GO！GO！小芝麻 第3季"
+        "少年阿贝GO！GO！小芝麻 第3季",
+        "少年阿贝GO！GO！小芝麻 第三季"
       ]
     },
     "type": "tv",
@@ -1975,10 +2011,16 @@
     "title": "メガロボクス",
     "titleTranslate": {
       "zh-Hans": [
-        "Megalo Box"
+        "Megalo Box",
+        "超级拳击",
+        "MEGALO BOX"
       ],
       "zh-Hant": [
-        "MEGALOBOX"
+        "MEGALOBOX",
+        "機甲拳擊"
+      ],
+      "en": [
+        "Megalobox"
       ]
     },
     "type": "tv",
@@ -2006,6 +2048,12 @@
         "id": "PLxSscENEp7JgoFEVBdHozDwI-MCXpDoHK",
         "begin": "2021-03-19T16:00:00.000Z",
         "broadcast": "R/2021-03-19T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80987707",
+        "begin": "2021-12-13T00:00:00.000Z",
+        "broadcast": "R/2021-12-13T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -2109,6 +2157,12 @@
         "id": "361199",
         "begin": "2021-03-31T16:00:00.000Z",
         "broadcast": "R/2021-03-31T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80135674",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2524,7 +2578,8 @@
       {
         "site": "netflix",
         "id": "80198505",
-        "begin": "2018-04-20T07:00:00.000Z"
+        "begin": "2018-04-20T07:00:00.000Z",
+        "broadcast": "R/2018-04-19T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -2597,6 +2652,37 @@
         "id": "PLuxqoToY7Ucin1S0BBvaye-StIcK-qpSA",
         "begin": "2019-08-27T16:00:00.000Z",
         "broadcast": "R/2019-08-27T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ニンジャバットマン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者蝙蝠侠"
+      ],
+      "zh-Hant": [
+        "忍者蝙蝠俠"
+      ],
+      "en": [
+        "Batman Ninja"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://wwws.warnerbros.co.jp/batman-ninja",
+    "begin": "2018-04-23T16:00:00.000Z",
+    "end": "2018-04-23T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "227175"
+      },
+      {
+        "site": "netflix",
+        "id": "80244455",
+        "begin": "2018-10-23T00:00:00.000Z",
+        "broadcast": "R/2018-10-23T00:00:00.000Z/P7D"
       }
     ]
   }

@@ -4,6 +4,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "杀戮都市 2nd Stage"
+      ],
+      "zh-Hant": [
+        "殺戮都市 GANTZ The Second Stage",
+        "GANTZ 殺戮都市 The Second Stage"
+      ],
+      "en": [
+        "Gantz The Second Stage"
       ]
     },
     "type": "tv",
@@ -15,6 +22,12 @@
       {
         "site": "bangumi",
         "id": "52764"
+      },
+      {
+        "site": "netflix",
+        "id": "80133769",
+        "begin": "2019-04-23T16:00:00.000Z",
+        "broadcast": "R/2019-04-23T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -94,7 +107,8 @@
       {
         "site": "netflix",
         "id": "70074559",
-        "begin": "2017-09-01T07:00:00.000Z"
+        "begin": "2017-09-01T07:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },

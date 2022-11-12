@@ -161,5 +161,37 @@
         "broadcast": ""
       }
     ]
+  },
+  {
+    "title": "HERO≠MASK",
+    "titleTranslate": {
+      "zh-Hans": [
+        "英雄面具"
+      ],
+      "zh-Hant": [
+        "英雄面具"
+      ],
+      "en": [
+        "HERO MASK"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://heromask.jp/",
+    "begin": "2018-12-02T16:00:00.000Z",
+    "end": "2018-12-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "266787"
+      },
+      {
+        "site": "netflix",
+        "id": "80200027",
+        "begin": "2018-12-02T16:00:00.000Z",
+        "broadcast": "R/2018-12-02T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

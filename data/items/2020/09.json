@@ -98,7 +98,8 @@
     "title": "かいじゅうステップ ワンダバダ(第2シリーズ)",
     "titleTranslate": {
       "zh-Hans": [
-        "小怪兽成长日记 第二季"
+        "小怪兽成长日记 第二季",
+        "小怪兽成长日记 二期"
       ],
       "en": [
         "THE KAIJU STEP"
@@ -111,7 +112,12 @@
     "broadcast": "R/2020-09-25T08:20:00.000Z/P7D",
     "end": "2021-03-26T08:25:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "318579"
+      }
+    ]
   },
   {
     "title": "荒野のコトブキ飛行隊 完全版",
@@ -136,6 +142,70 @@
         "id": "kotobuki-movie",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "ドラゴンズドグマ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙之信条"
+      ],
+      "zh-Hant": [
+        "龍族教義"
+      ],
+      "en": [
+        "Dragon's Dogma"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://ochifuru-anime.com/",
+    "begin": "2020-09-16T16:00:00.000Z",
+    "end": "2020-09-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "277322"
+      },
+      {
+        "site": "netflix",
+        "id": "80992784",
+        "begin": "2020-09-16T16:00:00.000Z",
+        "broadcast": "R/2020-09-16T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 ヴァイオレット・エヴァーガーデン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 紫罗兰永恒花园"
+      ],
+      "zh-Hant": [
+        "紫羅蘭永恆花園劇場版"
+      ],
+      "en": [
+        "Violet Evergarden the Movie"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.violet-evergarden.jp/",
+    "begin": "2020-09-17T16:00:00.000Z",
+    "end": "2020-09-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "242216"
+      },
+      {
+        "site": "netflix",
+        "id": "81193214",
+        "begin": "2020-09-16T16:00:00.000Z",
+        "broadcast": "R/2020-09-16T16:00:00.000Z/P7D"
       }
     ]
   }

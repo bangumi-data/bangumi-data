@@ -267,5 +267,37 @@
         "begin": "2013-03-26T06:06:29.000Z"
       }
     ]
+  },
+  {
+    "title": "ホーホケキョ となりの山田くん",
+    "titleTranslate": {
+      "en": [
+        "My Neighbors the Yamadas"
+      ],
+      "zh-Hans": [
+        "我的邻居山田君"
+      ],
+      "zh-Hant": [
+        "隔壁的山田君"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-07-16T16:00:00.000Z",
+    "end": "1999-07-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "503"
+      },
+      {
+        "site": "netflix",
+        "id": "70035035",
+        "begin": "2020-02-28T16:00:00.000Z",
+        "broadcast": "R/2020-02-28T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

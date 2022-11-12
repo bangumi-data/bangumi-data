@@ -569,6 +569,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "杀戮都市"
+      ],
+      "zh-Hant": [
+        "殺戮都市 GANTZ The First Stage",
+        "GANTZ 殺戮都市 The First Stage"
+      ],
+      "en": [
+        "Gantz The First Stage"
       ]
     },
     "type": "tv",
@@ -580,6 +587,12 @@
       {
         "site": "bangumi",
         "id": "2750"
+      },
+      {
+        "site": "netflix",
+        "id": "80133769",
+        "begin": "2019-04-23T16:00:00.000Z",
+        "broadcast": "R/2019-04-23T16:00:00.000Z/P7D"
       }
     ]
   },

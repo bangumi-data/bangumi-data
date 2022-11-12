@@ -76,6 +76,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "侧耳倾听"
+      ],
+      "zh-Hant": [
+        "心之谷",
+        "夢幻街少女"
+      ],
+      "en": [
+        "Whisper of the Heart"
       ]
     },
     "type": "movie",
@@ -92,6 +99,12 @@
       {
         "site": "bangumi",
         "id": "500"
+      },
+      {
+        "site": "netflix",
+        "id": "70045021",
+        "begin": "2020-03-30T16:00:00.000Z",
+        "broadcast": "R/2020-03-30T16:00:00.000Z/P7D"
       }
     ]
   },

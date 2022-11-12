@@ -461,7 +461,8 @@
       {
         "site": "netflix",
         "id": "70305217",
-        "begin": "2017-05-22T07:00:00.000Z"
+        "begin": "2017-05-22T07:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "youku",
@@ -980,7 +981,8 @@
       {
         "site": "netflix",
         "id": "80028089",
-        "begin": "2017-11-01T07:00:00.000Z"
+        "begin": "2017-11-01T07:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "viu",
@@ -1042,6 +1044,12 @@
       {
         "site": "bangumi",
         "id": "77706"
+      },
+      {
+        "site": "netflix",
+        "id": "80063153",
+        "begin": "2022-09-14T16:00:00.000Z",
+        "broadcast": "R/2022-09-14T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1358,6 +1366,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "飙速宅男"
+      ],
+      "zh-Hant": [
+        "飆速宅男"
+      ],
+      "en": [
+        "Yowamushi Pedal"
       ]
     },
     "type": "tv",
@@ -1379,6 +1393,12 @@
         "site": "nicovideo",
         "id": "yowapeda",
         "begin": "2013-10-11T14:30:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "80061943",
+        "begin": "2021-01-30T16:00:00.000Z",
+        "broadcast": "R/2021-01-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1950,7 +1970,8 @@
       {
         "site": "netflix",
         "id": "70296750",
-        "begin": "2015-06-01T07:00:00.000Z"
+        "begin": "2015-06-01T07:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "nicovideo",

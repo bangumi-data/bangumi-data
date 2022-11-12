@@ -10,5 +10,70 @@
     "end": "2021-11-25T14:17:00.000Z",
     "comment": "",
     "sites": []
+  },
+  {
+    "title": "スーパー・クルックス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超级骗子"
+      ],
+      "zh-Hant": [
+        "超級小偷",
+        "神級大盜"
+      ],
+      "en": [
+        "Super Crooks"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2021-11-24T16:00:00.000Z",
+    "end": "2021-11-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "277371"
+      },
+      {
+        "site": "netflix",
+        "id": "81034907",
+        "begin": "2021-11-25T00:00:00.000Z",
+        "broadcast": "R/2021-11-25T00:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "攻殻機動隊 SAC_2045 持続可能戦争",
+    "titleTranslate": {
+      "zh-Hans": [
+        "攻壳机动队：SAC_2045 持续可能战争"
+      ],
+      "zh-Hant": [
+        "攻殼機動隊：SAC_2045：永續戰爭"
+      ],
+      "en": [
+        "Ghost in the Shell: SAC_2045 Sustainable War"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.ghostintheshell-sac2045.jp/",
+    "begin": "2021-11-11T16:00:00.000Z",
+    "end": "2021-11-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "341383"
+      },
+      {
+        "site": "netflix",
+        "id": "81513128",
+        "begin": "2022-05-08T16:00:00.000Z",
+        "broadcast": "R/2022-05-08T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

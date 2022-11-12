@@ -304,6 +304,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "千与千寻"
+      ],
+      "zh-Hant": [
+        "神隱少女",
+        "千與千尋"
+      ],
+      "en": [
+        "Spirited Away"
       ]
     },
     "type": "movie",
@@ -320,6 +327,12 @@
       {
         "site": "bangumi",
         "id": "311"
+      },
+      {
+        "site": "netflix",
+        "id": "60023642",
+        "begin": "2020-02-28T16:00:00.000Z",
+        "broadcast": "R/2020-02-28T16:00:00.000Z/P7D"
       }
     ]
   },

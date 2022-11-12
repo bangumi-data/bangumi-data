@@ -148,5 +148,37 @@
         "begin": "2019-05-20T03:00:00.000Z"
       }
     ]
+  },
+  {
+    "title": "GODZILLA 星を喰う者",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哥斯拉：噬星者"
+      ],
+      "zh-Hant": [
+        "哥吉拉：噬星者",
+        "哥斯拉：噬星者"
+      ],
+      "en": [
+        "GODZILLA The Planet Eater"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://godzilla-anime.com/",
+    "begin": "2018-11-08T16:00:00.000Z",
+    "end": "2018-11-08T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "212060"
+      },
+      {
+        "site": "netflix",
+        "id": "80198623",
+        "begin": "2019-01-08T16:00:00.000Z",
+        "broadcast": "R/2019-01-08T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

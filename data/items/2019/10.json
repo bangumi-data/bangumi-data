@@ -74,11 +74,14 @@
     "title": "慎重勇者～この勇者が俺TUEEEくせに慎重すぎる～",
     "titleTranslate": {
       "zh-Hans": [
-        "慎重勇者 ～这个勇者明明超强却过分慎重～"
+        "慎重勇者 ～这个勇者明明超强却过分慎重～",
+        "这个勇者明明超强却过分慎重"
       ],
       "zh-Hant": [
         "慎重勇者 ~這個勇者明明超TUEEE卻過度謹慎~",
-        "這個勇者明明超TUEEE卻過度謹慎！"
+        "這個勇者明明超TUEEE卻過度謹慎！",
+        "這個勇者明明超 TUEEE 卻過度謹慎",
+        "慎重勇者：這個勇者明明超 TUEEE 卻過度謹慎"
       ]
     },
     "type": "tv",
@@ -128,6 +131,12 @@
         "id": "PLuxqoToY7UcjkZC_KYK7b18R3FynwSPBO",
         "begin": "2022-10-08T16:00:00.000Z",
         "broadcast": "R/2022-10-08T16:00:00.000Z/P1D"
+      },
+      {
+        "site": "netflix",
+        "id": "81196818",
+        "begin": "2022-09-29T16:00:00.000Z",
+        "broadcast": "R/2022-09-29T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -135,7 +144,11 @@
     "title": "俺を好きなのはお前だけかよ",
     "titleTranslate": {
       "zh-Hans": [
-        "喜欢本大爷的竟然只有你一个？"
+        "喜欢本大爷的竟然只有你一个？",
+        "喜欢本大爷的竟然就你一个？"
+      ],
+      "en": [
+        "Oresuki"
       ]
     },
     "type": "tv",
@@ -194,6 +207,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "我，不是说了能力要平均值么！"
+      ],
+      "en": [
+        "Didn't I Say to Make My Abilities Average in the Next Life?!"
       ]
     },
     "type": "tv",
@@ -227,6 +243,9 @@
       ],
       "zh-Hant": [
         "食戟之靈 神之皿"
+      ],
+      "en": [
+        "SHOKUGEKI NO SOMA 4th PLATE"
       ]
     },
     "type": "tv",
@@ -308,7 +327,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "书虫的下克上～为了成为图书管理员而不择手段～",
-        "爱书的下克上：为了成为图书管理员不择手段！"
+        "爱书的下克上：为了成为图书管理员不择手段！",
+        "小书痴的下克上：为了成为图书管理员而不择手段"
       ]
     },
     "type": "tv",
@@ -509,7 +529,11 @@
   },
   {
     "title": "XL上司。",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "XL上司。"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://xljoushi.cf-anime.com/",
@@ -533,6 +557,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "鸭子的天空"
+      ],
+      "zh-Hant": [
+        "籃球少年王"
+      ],
+      "en": [
+        "AHIRU NO SORA"
       ]
     },
     "type": "tv",
@@ -555,6 +585,12 @@
         "site": "nicovideo",
         "id": "ahirunosora",
         "begin": "2019-10-30T09:30:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "80245713",
+        "begin": "2022-09-30T16:00:00.000Z",
+        "broadcast": "R/2022-09-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -711,6 +747,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "巴比伦"
+      ],
+      "en": [
+        "BABYLON"
       ]
     },
     "type": "tv",
@@ -770,6 +809,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "非洲的动物上班族"
+      ],
+      "en": [
+        "AFRICAN OFFICE WORKER"
       ]
     },
     "type": "tv",
@@ -875,7 +917,11 @@
         "入间同学入魔了"
       ],
       "zh-Hant": [
-        "入間同學入魔了"
+        "入間同學入魔了",
+        "入間同學入魔了！"
+      ],
+      "en": [
+        "Welcome to Demon School!  Iruma-kun"
       ]
     },
     "type": "tv",
@@ -904,6 +950,12 @@
         "id": "PLuxqoToY7UciCMzJCNgXZ1dgLKQ7MlJEW",
         "begin": "2019-10-23T16:00:00.000Z",
         "broadcast": "R/2019-10-23T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81194192",
+        "begin": "2022-09-26T16:00:00.000Z",
+        "broadcast": "R/2022-09-26T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -911,7 +963,11 @@
     "title": "アイカツオンパレード！",
     "titleTranslate": {
       "zh-Hans": [
-        "偶像活动Parade"
+        "偶像活动Parade",
+        "偶像活动 on Parade"
+      ],
+      "en": [
+        "Aikatsu on Parade!"
       ]
     },
     "type": "tv",
@@ -1048,7 +1104,8 @@
         "PHANTASY STAR ONLINE2 EPISODE ORACLE"
       ],
       "zh-Hans": [
-        "梦幻之星online2 EPISODE ORACLE"
+        "梦幻之星online2 EPISODE ORACLE",
+        "梦幻之星 神谕篇"
       ],
       "zh-Hant": [
         "夢幻之星Online 2 Episode Oracle"
@@ -1106,6 +1163,12 @@
         "site": "bilibili",
         "id": "28222618",
         "begin": "2019-10-09T21:05:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "81054847",
+        "begin": "2020-03-12T16:00:00.000Z",
+        "broadcast": "R/2020-03-12T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1153,7 +1216,11 @@
   },
   {
     "title": "神田川JET GIRLS",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "神田川JET GIRLS"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://kjganime.com/",
@@ -1314,7 +1381,8 @@
     "title": "ぬるぺた",
     "titleTranslate": {
       "zh-Hans": [
-        "Nullpeta"
+        "Nullpeta",
+        "NULL & PETA"
       ],
       "zh-Hant": [
         "Null & Peta"
@@ -1454,6 +1522,12 @@
         "id": "358194",
         "begin": "2021-05-20T16:00:00.000Z",
         "broadcast": "R/2021-05-20T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80135674",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1497,7 +1571,8 @@
     "title": "この音とまれ！(第2クール)",
     "titleTranslate": {
       "zh-Hans": [
-        "一弦定音！2"
+        "一弦定音！2",
+        "一弦定音！第二季"
       ],
       "zh-Hant": [
         "一弦定音！(第二季)"
@@ -1525,6 +1600,12 @@
         "id": "PLxSscENEp7JgPrG-3dCO9UbXnD7NJek1-",
         "begin": "2022-06-29T16:00:00.000Z",
         "broadcast": "R/2022-06-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81328604",
+        "begin": "2020-11-19T00:00:00.000Z",
+        "broadcast": "R/2020-11-19T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -1643,7 +1724,11 @@
     "title": "ガンダムビルドダイバーズRe:RISE",
     "titleTranslate": {
       "zh-Hans": [
-        "高达创形者 Re:RISE"
+        "高达创形者 Re:RISE",
+        "高达创形者 再起"
+      ],
+      "en": [
+        "Gundam Build Divers Re:Rise"
       ]
     },
     "type": "web",
@@ -1693,7 +1778,8 @@
     "title": "PSYCHO-PASS サイコパス 3",
     "titleTranslate": {
       "zh-Hans": [
-        "心理测量者 第三季"
+        "心理测量者 第三季",
+        "心理测量者3"
       ]
     },
     "type": "tv",
@@ -1739,6 +1825,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "GO!GO!阿童木"
+      ],
+      "en": [
+        "GO GO ATOM"
       ]
     },
     "type": "tv",

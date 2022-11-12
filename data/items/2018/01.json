@@ -245,7 +245,8 @@
       {
         "site": "netflix",
         "id": "81029050",
-        "begin": "2018-11-30T16:00:00.000Z"
+        "begin": "2018-11-30T16:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "muse_hk",
@@ -349,7 +350,8 @@
       {
         "site": "netflix",
         "id": "80995941",
-        "begin": "2018-11-14T16:00:00.000Z"
+        "begin": "2018-11-14T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -401,7 +403,8 @@
       {
         "site": "netflix",
         "id": "80995927",
-        "begin": "2018-07-14T16:00:00.000Z"
+        "begin": "2018-07-14T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -521,6 +524,9 @@
       ],
       "zh-Hans": [
         "紫罗兰永恒花园"
+      ],
+      "zh-Hant": [
+        "紫羅蘭永恆花園"
       ]
     },
     "type": "tv",
@@ -540,8 +546,9 @@
       },
       {
         "site": "netflix",
-        "id": "80221698",
-        "begin": "2018-04-05T07:00:00.000Z"
+        "id": "80182123",
+        "begin": "2018-04-05T07:00:00.000Z",
+        "broadcast": "R/2019-01-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -643,10 +650,14 @@
     "title": "ゆるキャン△",
     "titleTranslate": {
       "zh-Hans": [
+        "摇曳露营",
         "摇曳露营△"
       ],
       "zh-Hant": [
         "搖曳露營"
+      ],
+      "en": [
+        "Laid-Back Camp"
       ]
     },
     "type": "tv",
@@ -685,6 +696,12 @@
         "id": "PLC18xlbCdwtScQVd3nudOfH4Zh4aT8inV",
         "begin": "2022-06-28T16:00:00.000Z",
         "broadcast": "R/2022-06-28T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81392083",
+        "begin": "2021-06-28T16:00:00.000Z",
+        "broadcast": "R/2021-06-28T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -793,7 +810,8 @@
       {
         "site": "netflix",
         "id": "80995912",
-        "begin": "2018-07-14T16:00:00.000Z"
+        "begin": "2018-07-14T16:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "ani_one_asia",
@@ -867,6 +885,12 @@
       "zh-Hans": [
         "飙速宅男 GLORY LINE",
         "飙速宅男 第4季"
+      ],
+      "zh-Hant": [
+        "飆速宅男 GLORY LINE"
+      ],
+      "en": [
+        "Yowamushi Pedal GLORY LINE"
       ]
     },
     "type": "tv",
@@ -898,6 +922,12 @@
         "site": "nicovideo",
         "id": "yowapeda_gl",
         "begin": "2018-01-11T03:00:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "80061943",
+        "begin": "2021-01-30T16:00:00.000Z",
+        "broadcast": "R/2021-01-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1517,7 +1547,8 @@
     "title": "Fate/EXTRA Last Encore",
     "titleTranslate": {
       "zh-Hans": [
-        "Fate/新章 最终回响"
+        "Fate/新章 最终回响",
+        "Fate/EXTRA Last Encore"
       ]
     },
     "type": "tv",
@@ -1538,7 +1569,8 @@
       {
         "site": "netflix",
         "id": "80185145",
-        "begin": "2018-06-30T07:00:00.000Z"
+        "begin": "2018-06-30T07:00:00.000Z",
+        "broadcast": "R/2018-06-29T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1617,7 +1649,8 @@
       {
         "site": "netflix",
         "id": "80174974",
-        "begin": "2018-01-05T08:00:00.000Z"
+        "begin": "2018-01-05T08:00:00.000Z",
+        "broadcast": "R/2018-01-04T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1630,7 +1663,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://twitter.com/sworddestinypr",
     "begin": "2018-01-05T17:10:00.000Z",
     "end": "2018-03-23T17:39:00.000Z",
     "sites": [
@@ -1709,6 +1742,9 @@
     "titleTranslate": {
       "en": [
         "PIKACHIN KIT"
+      ],
+      "zh-Hans": [
+        "灵感大冒险"
       ]
     },
     "type": "tv",
@@ -1783,7 +1819,8 @@
         "卫宫家今天的饭"
       ],
       "en": [
-        "Today,s MENU for EMIYA Family"
+        "Today,s MENU for EMIYA Family",
+        "Today's MENU for EMIYA Family"
       ]
     },
     "type": "web",

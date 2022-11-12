@@ -556,5 +556,37 @@
         "begin": "2006-07-09T16:00:00.000Z"
       }
     ]
+  },
+  {
+    "title": "ゲド戦記",
+    "titleTranslate": {
+      "zh-Hans": [
+        "地海传说"
+      ],
+      "zh-Hant": [
+        "地海戰記",
+        "地海傳說"
+      ],
+      "en": [
+        "Tales from Earthsea"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.ghibli.jp/ged/",
+    "begin": "2006-07-28T16:00:00.000Z",
+    "end": "2006-07-28T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "514"
+      },
+      {
+        "site": "netflix",
+        "id": "70142821",
+        "begin": "2020-01-30T16:00:00.000Z",
+        "broadcast": "R/2020-01-30T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]
