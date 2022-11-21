@@ -185,5 +185,37 @@
         "broadcast": "R/2018-12-02T16:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "二ノ国",
+    "titleTranslate": {
+      "zh-Hans": [
+        "二之国"
+      ],
+      "zh-Hant": [
+        "第二國度"
+      ],
+      "en": [
+        "Ni No Kuni"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://wwws.warnerbros.co.jp/ninokunijp/",
+    "begin": "2019-08-22T16:00:00.000Z",
+    "end": "2019-08-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "274239"
+      },
+      {
+        "site": "netflix",
+        "id": "81093113",
+        "begin": "2020-01-15T16:00:00.000Z",
+        "broadcast": "R/2020-01-15T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

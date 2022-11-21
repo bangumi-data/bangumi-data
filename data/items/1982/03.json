@@ -4,6 +4,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "机动战士高达 剧场版III 相逢在宇宙"
+      ],
+      "zh-Hant": [
+        "機動戰士鋼彈劇場版 3：宇宙相逢篇",
+        "機動戰士高達 III：相逢宇宙中"
+      ],
+      "en": [
+        "Mobile Suit Gundam III: Encounters in Space"
       ]
     },
     "type": "movie",
@@ -20,6 +27,12 @@
       {
         "site": "bangumi",
         "id": "38437"
+      },
+      {
+        "site": "netflix",
+        "id": "70014613",
+        "begin": "2021-06-16T16:00:00.000Z",
+        "broadcast": "R/2021-06-16T16:00:00.000Z/P7D"
       }
     ]
   },

@@ -225,6 +225,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "宣告黎明的露之歌"
+      ],
+      "zh-Hant": [
+        "宣告黎明的露之歌",
+        "宣告黎明的人魚之歌"
+      ],
+      "en": [
+        "Lu Over the Wall"
       ]
     },
     "type": "movie",
@@ -242,6 +249,12 @@
         "site": "bilibili",
         "id": "7792",
         "begin": "2017-05-18T16:00:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "80238911",
+        "begin": "2021-12-30T00:00:00.000Z",
+        "broadcast": "R/2021-12-30T00:00:00.000Z/P7D"
       }
     ]
   }
