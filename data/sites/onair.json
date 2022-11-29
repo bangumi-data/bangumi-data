@@ -97,5 +97,9 @@
     "title": "myTV SUPER",
     "urlTemplate": "https://www.mytvsuper.com/tc/programme/{{id}}/",
     "regions": ["HK"]
+  },
+  "disneyplus": {
+    "title": "Disney+",
+    "urlTemplate": "https://www.disneyplus.com/series/view/{{id}}"
   }
 }
