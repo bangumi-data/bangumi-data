@@ -124,5 +124,38 @@
         "broadcast": "R/2020-03-18T16:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "本好きの下剋上 司書になるためには手段を選んでいられません 外伝",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小书痴的下克上 为了成为图书管理员而不择手段 外传"
+      ],
+      "zh-Hant": [
+        "小書痴的下剋上：為了成為圖書管理員不擇手段！ 外傳"
+      ],
+      "en": [
+        "Ascendance of a Bookworm OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.tobooks.jp/booklove_ova/",
+    "begin": "2020-03-09T16:00:00.000Z",
+    "end": "2020-03-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "296129"
+      },
+      {
+        "site": "mytv",
+        "id": "ascendanceofabookwormova0001_135451",
+        "begin": "2022-06-16T16:00:00.000Z",
+        "broadcast": "R/2022-06-16T16:00:00.000Z/P7D",
+        "comment": "粵日雙語"
+      }
+    ]
   }
 ]

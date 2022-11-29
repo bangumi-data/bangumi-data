@@ -306,6 +306,10 @@
     "titleTranslate": {
       "zh-Hans": [
         "机动战士高达SEED"
+      ],
+      "zh-Hant": [
+        "機動戰士高達 Seed",
+        "機動戰士特種計劃"
       ]
     },
     "type": "tv",
@@ -327,6 +331,12 @@
       {
         "site": "bangumi",
         "id": "1860"
+      },
+      {
+        "site": "mytv",
+        "id": "mobilesuitgundamseed_131579",
+        "begin": "2021-04-01T16:00:00.000Z",
+        "broadcast": "R/2021-04-01T16:00:00.000Z/P7D"
       }
     ]
   },

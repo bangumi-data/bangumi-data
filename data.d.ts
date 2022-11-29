@@ -193,6 +193,7 @@ type SiteList =
     | "ani_one"
     | "ani_one_asia"
     | "viu"
+    | "mytv"
     | "dmhy";
 
 export const siteMeta: Record<SiteList, SiteMeta>;

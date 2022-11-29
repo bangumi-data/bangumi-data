@@ -60,5 +60,43 @@
         "broadcast": "R/2021-08-04T16:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "僕のヒーローアカデミア 笑え！地獄のように",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我的英雄学院 笑吧！如同地狱一般"
+      ],
+      "zh-Hant": [
+        "我的英雄學院 像在地獄一樣笑吧！"
+      ],
+      "en": [
+        "My Hero Academia Laugh! As if you are in hell"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://heroaca.com/",
+    "begin": "2022-07-31T16:00:00.000Z",
+    "end": "2022-07-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "386475"
+      },
+      {
+        "site": "viu",
+        "id": "446804",
+        "begin": "2021-03-26T16:00:00.000Z",
+        "broadcast": "R/2021-03-26T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "myheroacademialaughasifyouareinhell_136202",
+        "begin": "2022-08-01T11:00:00.000Z",
+        "broadcast": "R/2022-08-01T11:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

@@ -502,6 +502,12 @@
         "id": "80193163",
         "begin": "2022-10-30T00:00:00.000Z",
         "broadcast": "R/2022-10-30T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "madeinabyss_135905",
+        "begin": "2022-07-05T16:00:00.000Z",
+        "broadcast": "R/2022-07-05T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1290,6 +1296,9 @@
       ],
       "zh-Hant": [
         "獨佔我的英雄"
+      ],
+      "en": [
+        "Hitorijime My Hero"
       ]
     },
     "type": "tv",
@@ -1322,6 +1331,12 @@
         "id": "PLC18xlbCdwtQN5OndafpPfXL80GY-hwRi",
         "begin": "2022-08-09T16:00:00.000Z",
         "broadcast": "R/2022-08-09T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "hitorijimemyhero_112423",
+        "begin": "2017-07-09T05:00:00.000Z",
+        "broadcast": "R/2017-07-09T05:00:00.000Z/P7D"
       }
     ]
   },
@@ -1607,6 +1622,9 @@
       ],
       "zh-Hant": [
         "THE REFLECTION"
+      ],
+      "en": [
+        "THE REFLECTION"
       ]
     },
     "type": "tv",
@@ -1644,6 +1662,12 @@
         "id": "PLC18xlbCdwtTfhIMPrxWfhJylIs8ygsVv",
         "begin": "2022-09-12T16:00:00.000Z",
         "broadcast": "R/2022-09-12T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "thereflection_113752",
+        "begin": "2017-11-15T05:00:00.000Z",
+        "broadcast": "R/2017-11-15T05:00:00.000Z/P7D"
       }
     ]
   },
@@ -1726,6 +1750,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "PIKO太郎的摇篮曲"
+      ],
+      "zh-Hant": [
+        "Piko太郎的搖阿搖籃曲"
+      ],
+      "en": [
+        "Pikotaro's lullaby lala by"
       ]
     },
     "type": "tv",
@@ -1752,6 +1782,12 @@
         "site": "nicovideo",
         "id": "piko-lullaby",
         "begin": "2017-07-16T15:00:00.000Z"
+      },
+      {
+        "site": "mytv",
+        "id": "pikotaroslullabylalabypiko_112826",
+        "begin": "2017-08-03T05:00:00.000Z",
+        "broadcast": "R/2017-08-03T05:00:00.000Z/P7D"
       }
     ]
   },

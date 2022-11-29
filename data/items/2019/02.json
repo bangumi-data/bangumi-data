@@ -202,5 +202,70 @@
         "begin": ""
       }
     ]
+  },
+  {
+    "title": "『DOUBLE DECKER! ダグ＆キリル』EXTRA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "『DOUBLE DECKER! 道格&基里尔』EXTRA"
+      ],
+      "zh-Hant": [
+        "Double Decker! 道格＆基里爾 OVA"
+      ],
+      "en": [
+        "Double Decker! Doug and Kirill OVA"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://dabudeka.com/",
+    "begin": "2019-02-09T16:00:00.000Z",
+    "end": "2019-04-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "270085"
+      },
+      {
+        "site": "mytv",
+        "id": "doubledeckerdougandkirillova1_120376",
+        "begin": "2019-02-10T03:00:00.000Z",
+        "broadcast": "R/2019-02-10T03:00:00.000Z/P7D",
+        "comment": "#2: doubledeckerdougandkirillova2_120859 #3: doubledeckerdougandkirillova3_120866"
+      }
+    ]
+  },
+  {
+    "title": "ファイトリーグ ギア・ガジェット・ジェネレーターズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "交锋联盟 机巧一族"
+      ],
+      "zh-Hant": [
+        "Fight League 交鋒聯盟"
+      ],
+      "en": [
+        "Fight League"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://anime.fight-league.com/",
+    "begin": "2019-02-13T16:00:00.000Z",
+    "end": "2019-08-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "267484"
+      },
+      {
+        "site": "mytv",
+        "id": "fightleague_120377",
+        "begin": "2019-02-14T11:00:00.000Z",
+        "broadcast": "R/2019-02-14T11:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

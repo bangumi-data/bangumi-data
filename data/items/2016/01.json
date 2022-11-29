@@ -96,8 +96,12 @@
       "zh-Hans": [
         "命运九重奏"
       ],
+      "zh-Hant": [
+        "命運九重奏"
+      ],
       "en": [
-        "NORN9 NONET"
+        "NORN9 NONET",
+        "Norn 9"
       ]
     },
     "type": "tv",
@@ -119,6 +123,12 @@
         "site": "nicovideo",
         "id": "norn9-nonet",
         "begin": "2016-01-14T15:00:00.000Z"
+      },
+      {
+        "site": "mytv",
+        "id": "norn9_109279",
+        "begin": "2016-11-14T16:00:00.000Z",
+        "broadcast": "R/2016-11-14T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -192,8 +202,12 @@
       "zh-Hans": [
         "Active Raid -机动强袭室第八课-"
       ],
+      "zh-Hant": [
+        "ACTIVERAID -機動強襲室第八組-"
+      ],
       "en": [
-        "ACTIVERAID Special Public Security Fifth Division Third Mobile Assault Eighth Unit"
+        "ACTIVERAID Special Public Security Fifth Division Third Mobile Assault Eighth Unit",
+        "ACTIVERAID"
       ]
     },
     "type": "tv",
@@ -220,6 +234,12 @@
         "site": "bilibili",
         "id": "319395",
         "begin": "2016-01-06T16:00:00.000Z"
+      },
+      {
+        "site": "mytv",
+        "id": "activeraid_108404",
+        "begin": "1999-12-31T16:00:00.000Z",
+        "broadcast": "R/1999-12-31T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1042,6 +1062,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "魔法护士小麦R"
+      ],
+      "zh-Hant": [
+        "魔法護士小麥R"
+      ],
+      "en": [
+        "Nurse Witch Komugi R"
       ]
     },
     "type": "tv",
@@ -1078,6 +1104,12 @@
         "site": "iqiyi",
         "id": "a_19rrh82z2d",
         "begin": "2017-06-30T16:02:40.000Z"
+      },
+      {
+        "site": "mytv",
+        "id": "nursewitchkomugir_109291",
+        "begin": "2018-05-05T05:00:00.000Z",
+        "broadcast": "R/2018-05-05T05:00:00.000Z/P7D"
       }
     ]
   },
@@ -1086,6 +1118,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "最弱无败神装机龙"
+      ],
+      "zh-Hant": [
+        "最弱無敗神裝機龍《巴哈姆特》"
       ],
       "en": [
         "UNDEFEATED BAHAMUT CHRONICLE"
@@ -1110,6 +1145,12 @@
         "site": "nicovideo",
         "id": "saijaku",
         "begin": "2016-01-12T03:00:00.000Z"
+      },
+      {
+        "site": "mytv",
+        "id": "undefeatedbahamutchronicle_109303",
+        "begin": "2018-06-09T05:00:00.000Z",
+        "broadcast": "R/2018-06-09T05:00:00.000Z/P7D"
       }
     ]
   },

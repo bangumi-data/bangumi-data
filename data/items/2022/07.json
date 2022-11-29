@@ -205,6 +205,12 @@
         "id": "PLuxqoToY7UchpB3_9Rr4W5xzGYr1VzEMF",
         "begin": "2022-07-01T17:30:00.000Z",
         "broadcast": "R/2022-07-01T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "rentagirlfriend_136627",
+        "begin": "2022-10-31T17:00:00.000Z",
+        "broadcast": "R/2022-10-31T17:00:00.000Z/P7D"
       }
     ]
   },
@@ -328,6 +334,9 @@
       ],
       "zh-Hant": [
         "轉生賢者的異世界生活～取得第二職業，成為世界最強～"
+      ],
+      "en": [
+        "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!"
       ]
     },
     "type": "tv",
@@ -366,6 +375,12 @@
         "id": "PLC18xlbCdwtTc61wuDviNoKmNUAVFT50D",
         "begin": "2022-11-04T16:00:00.000Z",
         "broadcast": "R/2022-11-04T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "myisekailifeigainedasecondcharacterclassandbecamethestrongestsageintheworld_135932",
+        "begin": "2022-07-04T12:00:00.000Z",
+        "broadcast": "R/2022-07-04T12:00:00.000Z/P7D"
       }
     ]
   },
@@ -434,6 +449,9 @@
       ],
       "zh-Hant": [
         "來自深淵 烈日的黃金鄉"
+      ],
+      "en": [
+        "Made in Abyss: The Golden City of the Scorching Sun"
       ]
     },
     "type": "tv",
@@ -471,6 +489,12 @@
         "id": "80193163",
         "begin": "2022-10-30T00:00:00.000Z",
         "broadcast": "R/2022-10-30T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "madeinabyssthegoldencityofthescorchingsun_135904",
+        "begin": "2022-07-06T14:30:00.000Z",
+        "broadcast": "R/2022-07-06T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -518,6 +542,9 @@
       ],
       "zh-Hant": [
         "異世界藥局"
+      ],
+      "en": [
+        "Parallel World Pharmacy"
       ]
     },
     "type": "tv",
@@ -543,6 +570,12 @@
         "id": "PLuxqoToY7UcgO5wR9URzHcwpI3d9Uu_ob",
         "begin": "2022-07-09T16:00:00.000Z",
         "broadcast": "R/2022-07-09T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "parallelworldpharmacy_136929",
+        "begin": "2022-11-09T16:00:00.000Z",
+        "broadcast": "R/2022-11-09T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -912,6 +945,12 @@
         "id": "PLC18xlbCdwtSVqX4LOFsjP7rnJQIGUdBE",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mytv",
+        "id": "overlord4_135917",
+        "begin": "2022-07-05T14:00:00.000Z",
+        "broadcast": "R/2022-07-05T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -1596,6 +1635,9 @@
       ],
       "zh-Hant": [
         "Dr.STONE 新石紀 (龍水)"
+      ],
+      "en": [
+        "Dr. STONE (Special Episode RYUSUI)"
       ]
     },
     "type": "ova",
@@ -1620,6 +1662,85 @@
         "id": "PLC18xlbCdwtSllszc6cnbB_Ceo4f2QJML",
         "begin": "2022-10-10T16:00:00.000Z",
         "broadcast": "R/2022-10-10T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "drstonespecialepisoderyusui_135933",
+        "begin": "2022-07-10T11:00:00.000Z",
+        "broadcast": "R/2022-07-10T11:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "僕のヒーローアカデミア HLB",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我的英雄学院 HLB"
+      ],
+      "zh-Hant": [
+        "我的英雄學院 HLB英雄棒球聯盟"
+      ],
+      "en": [
+        "My Hero Academia HLB"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://heroaca.com/",
+    "begin": "2022-07-31T16:00:00.000Z",
+    "end": "2022-07-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "381212"
+      },
+      {
+        "site": "viu",
+        "id": "446803",
+        "begin": "2021-03-26T16:00:00.000Z",
+        "broadcast": "R/2021-03-26T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "myheroacademiahlb_136198",
+        "begin": "2022-08-01T11:00:00.000Z",
+        "broadcast": "R/2022-08-01T11:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "僕のヒーローアカデミアOVA 生き残れ！決死のサバイバル訓練",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我的英雄学院OVA 活下来！殊死的生存训练"
+      ],
+      "zh-Hant": [
+        "我的英雄學院OVA: 活下來! 殊死的生存訓練"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://heroaca.com/",
+    "begin": "2020-08-15T16:00:00.000Z",
+    "end": "2020-08-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "339266"
+      },
+      {
+        "site": "viu",
+        "id": "362891",
+        "begin": "2021-05-20T16:00:00.000Z",
+        "broadcast": "R/2021-05-20T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "myheroacademiaseason4ova_128548",
+        "begin": "2020-08-18T10:00:00.000Z",
+        "broadcast": "R/2020-08-18T10:00:00.000Z/P7D"
       }
     ]
   }
