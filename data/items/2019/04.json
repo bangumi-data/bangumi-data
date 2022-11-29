@@ -492,6 +492,12 @@
         "id": "81091393",
         "begin": "2021-10-24T00:00:00.000Z",
         "broadcast": "R/2021-10-24T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "6JukzUyfNAUq",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -803,6 +809,13 @@
         "id": "PLuxqoToY7UchDbGo2TvlrSeB2oFvlx6VU",
         "begin": "2022-01-14T16:00:00.000Z",
         "broadcast": "R/2022-01-14T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "462761",
+        "begin": "2022-11-17T16:00:00.000Z",
+        "broadcast": "R/2022-11-17T16:00:00.000Z/P7D",
+        "comment": "粵語版: 462757"
       }
     ]
   },
@@ -884,6 +897,12 @@
       "zh-Hans": [
         "八月的棒球甜心",
         "八月的灰姑娘棒球队"
+      ],
+      "zh-Hant": [
+        "八月的棒球甜心"
+      ],
+      "en": [
+        "Cinderella Nine"
       ]
     },
     "type": "tv",
@@ -915,6 +934,13 @@
         "site": "youku",
         "id": "ffea8e86e41d49448e39",
         "begin": "2019-04-07T17:33:01.000Z"
+      },
+      {
+        "site": "mytv",
+        "id": "hachigatsunocinderellanine_121366",
+        "begin": "2019-04-07T17:35:00.000Z",
+        "broadcast": "R/2019-04-07T17:35:00.000Z/P7D",
+        "comment": "OVA: cinderellanineova_133445"
       }
     ]
   },
@@ -1229,6 +1255,12 @@
         "id": "81328604",
         "begin": "2020-11-19T00:00:00.000Z",
         "broadcast": "R/2020-11-19T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "konoototomare_121365",
+        "begin": "2019-04-06T17:30:00.000Z",
+        "broadcast": "R/2019-04-06T17:30:00.000Z/P7D"
       }
     ]
   },

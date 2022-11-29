@@ -33,6 +33,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "轻羽飞扬"
+      ],
+      "zh-Hant": [
+        "輕羽飛揚!"
+      ],
+      "en": [
+        "HANEBADO!"
       ]
     },
     "type": "tv",
@@ -80,6 +86,12 @@
         "site": "qq",
         "id": "x/xs2quyb82vw4uqg",
         "begin": ""
+      },
+      {
+        "site": "mytv",
+        "id": "hanebad_117503",
+        "begin": "2018-07-01T16:00:00.000Z",
+        "broadcast": "R/2018-07-01T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -776,6 +788,9 @@
       ],
       "zh-Hant": [
         "夢王國與沉睡中的100位王子殿下"
+      ],
+      "en": [
+        "100 Sleeping Princes & The Kingdom of Dreams"
       ]
     },
     "type": "tv",
@@ -803,6 +818,12 @@
         "id": "PLC18xlbCdwtQXqfEDyDnMwIGzUZvdfJnV",
         "begin": "2022-08-08T16:00:00.000Z",
         "broadcast": "R/2022-08-08T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "100sleepingprincesthekingdomofdreams_117505",
+        "begin": "2018-07-05T15:00:00.000Z",
+        "broadcast": "R/2018-07-05T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1403,6 +1424,18 @@
       {
         "site": "ani_one",
         "id": "PLC18xlbCdwtSHMMuketAA0NW7unfaBbMk",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mytv",
+        "id": "overlord3_135915",
+        "begin": "2022-06-30T16:00:00.000Z",
+        "broadcast": "R/2022-06-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "5CNwVLpigBya",
         "begin": "",
         "broadcast": ""
       }

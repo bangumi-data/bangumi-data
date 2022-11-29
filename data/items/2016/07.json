@@ -210,6 +210,12 @@
         "id": "PLC18xlbCdwtQvVn1EleHcQajpeewgZjx_",
         "begin": "2022-06-21T16:00:00.000Z",
         "broadcast": "R/2022-06-21T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "firstlovemonster0004_115618",
+        "begin": "2018-02-13T16:00:00.000Z",
+        "broadcast": "R/2018-02-13T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -261,6 +267,9 @@
       ],
       "zh-Hant": [
         "食戟之靈 貳之皿"
+      ],
+      "en": [
+        "Food Wars! Shokugeki no Soma the Second Plate"
       ]
     },
     "type": "tv",
@@ -319,6 +328,12 @@
         "id": "16538",
         "begin": "2016-07-01T16:00:00.000Z",
         "broadcast": "R/2016-07-01T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "foodwarsshokugekinosomathesecondplate_135705",
+        "begin": "2022-06-30T19:30:00.000Z",
+        "broadcast": "R/2022-06-30T19:30:00.000Z/P7D"
       }
     ]
   },
@@ -439,6 +454,9 @@
         "情热传说X",
         "情热传说 the X",
         "热诚传说X"
+      ],
+      "zh-Hant": [
+        "時空幻境熱情傳奇 THE X"
       ],
       "en": [
         "Tales of Zestiria the X",
@@ -616,6 +634,9 @@
         "橘色奇迹",
         "Orange橘色奇迹"
       ],
+      "zh-Hant": [
+        "Orange 橘色奇蹟"
+      ],
       "en": [
         "orange"
       ]
@@ -649,6 +670,12 @@
         "site": "bilibili",
         "id": "28228559",
         "begin": "2016-07-02T16:00:00.000Z"
+      },
+      {
+        "site": "mytv",
+        "id": "orange_107572",
+        "begin": "2016-07-16T22:00:00.000Z",
+        "broadcast": "R/2016-07-16T22:00:00.000Z/P7D"
       }
     ]
   },
@@ -1820,6 +1847,9 @@
       "zh-Hans": [
         "91天"
       ],
+      "zh-Hant": [
+        "91天"
+      ],
       "en": [
         "91Days"
       ]
@@ -1843,6 +1873,13 @@
         "site": "nicovideo",
         "id": "91days",
         "begin": "2016-07-17T03:00:00.000Z"
+      },
+      {
+        "site": "mytv",
+        "id": "91days_107577",
+        "begin": "2016-07-16T22:00:00.000Z",
+        "broadcast": "R/2016-07-16T22:00:00.000Z/P7D",
+        "comment": "OVA: 91daysova_112931"
       }
     ]
   },
@@ -2038,8 +2075,12 @@
       "zh-Hans": [
         "Active Raid -机动强袭室第八课- 2nd"
       ],
+      "zh-Hant": [
+        "ACTIVERAID -機動強襲室第八組- 2nd"
+      ],
       "en": [
-        "ACTIVERAID Special Public Security Fifth Division Third Mobile Assault Eighth Unit Second"
+        "ACTIVERAID Special Public Security Fifth Division Third Mobile Assault Eighth Unit Second",
+        "ACTIVERAID 2nd"
       ]
     },
     "type": "tv",
@@ -2071,6 +2112,12 @@
         "site": "bilibili",
         "id": "7491767",
         "begin": "2016-07-09T16:00:00.000Z"
+      },
+      {
+        "site": "mytv",
+        "id": "activeraid2nd_108405",
+        "begin": "1999-12-31T16:00:00.000Z",
+        "broadcast": "R/1999-12-31T16:00:00.000Z/P7D"
       }
     ]
   },

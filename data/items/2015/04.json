@@ -592,8 +592,12 @@
       "zh-Hans": [
         "食戟之灵"
       ],
+      "zh-Hant": [
+        "食戟之靈"
+      ],
       "en": [
-        "Shokugeki no Soma"
+        "Shokugeki no Soma",
+        "Food Wars! Shokugeki no Soma"
       ]
     },
     "type": "tv",
@@ -647,6 +651,18 @@
         "id": "860799bad1f211e4a080",
         "begin": "2020-07-08T07:41:59.000Z",
         "broadcast": "R/2021-03-20T23:18:32.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JiQ5eGN9KP8g6v8fEG7k6Ab",
+        "begin": "2022-11-11T16:00:00.000Z",
+        "broadcast": "R/2022-11-11T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "foodwarsshokugekinosoma_133924",
+        "begin": "2021-12-16T19:30:00.000Z",
+        "broadcast": "R/2021-12-16T19:30:00.000Z/P7D"
       }
     ]
   },

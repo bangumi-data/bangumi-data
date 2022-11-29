@@ -688,6 +688,12 @@
         "id": "PLC18xlbCdwtSL5qQkemuo8Gey2FDTy6Vh",
         "begin": "2022-08-28T16:00:00.000Z",
         "broadcast": "R/2022-08-28T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "akamegakill_109305",
+        "begin": "2018-06-16T05:00:00.000Z",
+        "broadcast": "R/2018-06-16T05:00:00.000Z/P7D"
       }
     ]
   },
@@ -890,8 +896,12 @@
       "zh-Hans": [
         "青春之旅"
       ],
+      "zh-Hant": [
+        "閃爍的青春"
+      ],
       "en": [
-        "AO HARU RIDE"
+        "AO HARU RIDE",
+        "Aoha Ride"
       ]
     },
     "type": "tv",
@@ -938,6 +948,12 @@
         "site": "qq",
         "id": "2/2y2djgevmounvgi",
         "begin": ""
+      },
+      {
+        "site": "mytv",
+        "id": "aoharide_108982",
+        "begin": "2016-10-14T16:00:00.000Z",
+        "broadcast": "R/2016-10-14T16:00:00.000Z/P7D"
       }
     ]
   },

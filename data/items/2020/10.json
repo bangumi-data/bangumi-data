@@ -612,6 +612,19 @@
         "id": "81278456",
         "begin": "2021-06-01T16:00:00.000Z",
         "broadcast": "R/2021-06-01T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "jujutsukaisen_129169",
+        "begin": "2020-10-16T17:25:00.000Z",
+        "broadcast": "R/2020-10-16T17:25:00.000Z/P7D",
+        "comment": "粵語版: jujutsukaisendubbedversion_132484"
+      },
+      {
+        "site": "disneyplus",
+        "id": "6hF9jj7l8Ipz",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1212,7 +1225,12 @@
         "排球少年 TO THE TOP 第二期"
       ],
       "zh-Hant": [
-        "排球少年!! TO THE TOP"
+        "排球少年!! TO THE TOP",
+        "排球少年!! TO THE TOP (第四季) [Part 2]"
+      ],
+      "en": [
+        "Haikyu!! TO THE TOP [Part 2]",
+        "Haikyu!! TO THE TOP (4th Season) [Part 2]"
       ]
     },
     "type": "tv",
@@ -1242,6 +1260,18 @@
       {
         "site": "ani_one",
         "id": "PLC18xlbCdwtRhD6dTgVkSrsOYPIentnEJ",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mytv",
+        "id": "haikyutothetop4thseasonpart2_129164",
+        "begin": "2020-10-02T22:55:00.000Z",
+        "broadcast": "R/2020-10-02T22:55:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "7iGL15MOs7hZ",
         "begin": "",
         "broadcast": ""
       }
@@ -1301,6 +1331,12 @@
         "id": "81336398",
         "begin": "2021-04-29T16:00:00.000Z",
         "broadcast": "R/2021-04-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "yashahimeprincesshalfdemon0001_129487",
+        "begin": "2020-10-21T04:00:00.000Z",
+        "broadcast": "R/2020-10-21T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -1725,6 +1761,12 @@
         "id": "81349350",
         "begin": "2021-04-29T16:00:00.000Z",
         "broadcast": "R/2021-04-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "gymnasticssamurai_129170",
+        "begin": "2020-10-10T18:00:00.000Z",
+        "broadcast": "R/2020-10-10T18:00:00.000Z/P7D"
       }
     ]
   },
@@ -2241,6 +2283,13 @@
         "begin": "2021-08-15T16:00:00.000Z",
         "broadcast": "R/2021-08-15T16:00:00.000Z/P7D",
         "comment": "粵語版:381921"
+      },
+      {
+        "site": "mytv",
+        "id": "themoviedemonslayerkimetsunoyaibamugentrain_132269",
+        "begin": "2021-08-15T16:00:00.000Z",
+        "broadcast": "R/2021-08-15T16:00:00.000Z/P7D",
+        "comment": "粵日雙語"
       }
     ]
   }

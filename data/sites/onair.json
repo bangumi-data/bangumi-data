@@ -92,5 +92,14 @@
     "title": "Viu",
     "urlTemplate": "https://www.viu.com/ott/hk/zh-hk/vod/{{id}}/",
     "regions": ["HK","SG","MY","IN","PH","TH","MM","BH","EG","JO","KW","OM","QA","SA","AE","ZA"]
+  },
+  "mytv": {
+    "title": "myTV SUPER",
+    "urlTemplate": "https://www.mytvsuper.com/tc/programme/{{id}}/",
+    "regions": ["HK"]
+  },
+  "disneyplus": {
+    "title": "Disney+",
+    "urlTemplate": "https://www.disneyplus.com/series/view/{{id}}"
   }
 }

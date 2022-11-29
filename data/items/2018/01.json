@@ -363,6 +363,9 @@
       ],
       "zh-Hans": [
         "Slow Start"
+      ],
+      "zh-Hant": [
+        "Slow Start"
       ]
     },
     "type": "tv",
@@ -405,6 +408,12 @@
         "id": "80995927",
         "begin": "2018-07-14T16:00:00.000Z",
         "broadcast": ""
+      },
+      {
+        "site": "mytv",
+        "id": "slowstart_115006",
+        "begin": "2018-01-06T19:00:00.000Z",
+        "broadcast": "R/2018-01-06T19:00:00.000Z/P7D"
       }
     ]
   },
@@ -657,7 +666,8 @@
         "搖曳露營"
       ],
       "en": [
-        "Laid-Back Camp"
+        "Laid-Back Camp",
+        "Yurucamp"
       ]
     },
     "type": "tv",
@@ -702,6 +712,12 @@
         "id": "81392083",
         "begin": "2021-06-28T16:00:00.000Z",
         "broadcast": "R/2021-06-28T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "yurucamp_115005",
+        "begin": "2018-01-04T17:00:00.000Z",
+        "broadcast": "R/2018-01-04T17:00:00.000Z/P7D"
       }
     ]
   },
@@ -940,6 +956,9 @@
       "zh-Hans": [
         "魔卡少女樱 CLEAR CARD篇",
         "魔卡少女樱 透明牌篇"
+      ],
+      "zh-Hant": [
+        "百變小櫻Clear咭"
       ]
     },
     "type": "tv",
@@ -991,6 +1010,13 @@
         "site": "acfun",
         "id": "6000809",
         "begin": "2019-12-12T06:37:47.000Z"
+      },
+      {
+        "site": "mytv",
+        "id": "cardcaptorsakuraclearcardarc0002_120244",
+        "begin": "2019-01-25T16:00:00.000Z",
+        "broadcast": "R/2019-01-25T16:00:00.000Z/P7D",
+        "comment": "粵日雙語"
       }
     ]
   },
@@ -1036,6 +1062,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "樱花忍法帖"
+      ],
+      "zh-Hant": [
+        "櫻花忍法帖"
+      ],
+      "en": [
+        "Basilisk The Ouka Ninja Scrolls"
       ]
     },
     "type": "tv",
@@ -1067,6 +1099,12 @@
         "site": "youku",
         "id": "1911efbfbd5fefbfbdef",
         "begin": "2018-02-06T10:42:45.000Z"
+      },
+      {
+        "site": "mytv",
+        "id": "basilisktheoukaninjascrolls_115008",
+        "begin": "2018-01-08T17:00:00.000Z",
+        "broadcast": "R/2018-01-08T17:00:00.000Z/P7D"
       }
     ]
   },
@@ -1075,6 +1113,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "学园奶爸"
+      ],
+      "zh-Hant": [
+        "學園奶爸"
       ]
     },
     "type": "tv",
@@ -1101,6 +1142,12 @@
         "site": "nicovideo",
         "id": "gakubaby-anime",
         "begin": "2018-01-10T03:00:00.000Z"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Ucg0ge0vmv1f-1eDQ5NGkw4H",
+        "begin": "2022-11-24T16:00:00.000Z",
+        "broadcast": "R/2022-11-24T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1238,6 +1285,18 @@
         "id": "PLC18xlbCdwtRDClHso-s32r_YQTwLMS3x",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mytv",
+        "id": "overlord2_135911",
+        "begin": "2022-06-30T16:00:00.000Z",
+        "broadcast": "R/2022-06-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "5CNwVLpigBya",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1280,6 +1339,12 @@
         "id": "PLuxqoToY7Ucj4GWytGa0k1K1cCCBpPYTF",
         "begin": "2021-11-12T16:00:00.000Z",
         "broadcast": "R/2021-11-12T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "thejunjiitocollection2022_135869",
+        "begin": "2022-06-30T16:00:00.000Z",
+        "broadcast": "R/2022-06-30T16:00:00.000Z/P7D"
       }
     ]
   },
