@@ -776,7 +776,7 @@
     "officialSite": "https://maousama.jp/",
     "begin": "2022-07-14T14:30:00.000Z",
     "broadcast": "R/2022-07-14T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2022-09-29T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1406,7 +1406,7 @@
     "officialSite": "https://500000000button.com/",
     "begin": "2022-07-14T15:30:00.000Z",
     "broadcast": "R/2022-07-14T15:30:00.000Z/P7D",
-    "end": "",
+    "end": "2022-09-29T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1782,6 +1782,41 @@
         "id": "myheroacademiaseason4ova_128548",
         "begin": "2020-08-18T10:00:00.000Z",
         "broadcast": "R/2020-08-18T10:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "iiiあいすくりん2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "冰冰冰淇淋君 第二季"
+      ],
+      "zh-Hant": [
+        "冰冰冰 冰淇淋君 (第二季)"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://iii-icecrin.com/",
+    "begin": "2020-07-01T16:00:00.000Z",
+    "end": "2020-09-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "381157"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JgqRc5L27-8gLyTqx2D0Soj",
+        "begin": "2022-06-30T16:00:00.000Z",
+        "broadcast": "R/2022-06-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQqxDJ1CfRvRuWC2pRhc0Rg",
+        "begin": "2022-08-02T16:00:00.000Z",
+        "broadcast": "R/2022-08-02T16:00:00.000Z/P7D"
       }
     ]
   }

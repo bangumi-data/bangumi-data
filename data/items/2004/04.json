@@ -228,6 +228,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "怪物"
+      ],
+      "zh-Hant": [
+        "MONSTER 怪物",
+        "魔剎"
+      ],
+      "en": [
+        "Monster"
       ]
     },
     "type": "tv",
@@ -244,6 +251,12 @@
       {
         "site": "bangumi",
         "id": "1959"
+      },
+      {
+        "site": "netflix",
+        "id": "81409869",
+        "begin": "2022-12-31T00:00:00.000Z",
+        "broadcast": "R/2022-12-31T00:00:00.000Z/P7D"
       }
     ]
   },

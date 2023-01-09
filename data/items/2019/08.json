@@ -217,5 +217,37 @@
         "broadcast": "R/2020-01-15T16:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "ニンジャボックス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者之箱"
+      ],
+      "zh-Hant": [
+        "忍者寶盒"
+      ],
+      "en": [
+        "Ninja Box"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://ninjabox.bn-ent.net/anime/",
+    "begin": "2019-08-07T16:00:00.000Z",
+    "end": "2019-09-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "304835"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Ucj4dm20skcKMRAIG4ttibAl",
+        "begin": "2021-04-18T16:00:00.000Z",
+        "broadcast": "R/2021-04-18T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

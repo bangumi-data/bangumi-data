@@ -335,8 +335,17 @@
     ]
   },
   {
-    "title": "TIGER &amp; BUNNY -The Rising-",
-    "titleTranslate": {},
+    "title": "TIGER & BUNNY -The Rising-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "TIGER & BUNNY：崛起",
+        "老虎和兔子：崛起"
+      ],
+      "zh-Hant": [
+        "TIGER & BUNNY 劇場版：The Rising",
+        "劇場版 TIGER & BUNNY：The Rising"
+      ]
+    },
     "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.tigerandbunny.net/main.html",
@@ -347,6 +356,12 @@
       {
         "site": "bangumi",
         "id": "66202"
+      },
+      {
+        "site": "netflix",
+        "id": "81579323",
+        "begin": "2022-03-30T16:00:00.000Z",
+        "broadcast": "R/2022-03-30T16:00:00.000Z/P7D"
       }
     ]
   }

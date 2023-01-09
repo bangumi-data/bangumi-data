@@ -369,8 +369,8 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7Jh3O6xMZONZpvbnybf8-EcQ",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-09-29T16:00:00.000Z",
+        "broadcast": "R/2021-09-29T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1535,7 +1535,7 @@
     "officialSite": "https://anime.build-divide.com/",
     "begin": "2021-10-09T15:30:00.000Z",
     "broadcast": "R/2021-10-09T15:30:00.000Z/P7D",
-    "end": "",
+    "end": "2021-12-25T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1705,7 +1705,7 @@
     "officialSite": "https://kimetsu.com/anime/mugenresshahen_tv/",
     "begin": "2021-10-10T14:15:00.000Z",
     "broadcast": "R/2021-10-10T14:15:00.000Z/P7D",
-    "end": "",
+    "end": "2021-11-28T14:15:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1734,8 +1734,8 @@
       {
         "site": "netflix",
         "id": "81091393",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-10-24T00:00:00.000Z",
+        "broadcast": "R/2021-10-24T00:00:00.000Z/P7D"
       },
       {
         "site": "disneyplus",
@@ -1756,7 +1756,7 @@
     "lang": "ja",
     "officialSite": "",
     "begin": "2021-10-11T16:00:00.000Z",
-    "end": "",
+    "end": "2021-12-27T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1800,6 +1800,39 @@
         "id": "81478031",
         "begin": "2022-02-07T16:00:00.000Z",
         "broadcast": "R/2022-02-07T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ヴァイオレット・エヴァーガーデン特別編集版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "紫罗兰永恒花园 特别编集版",
+        "紫罗兰永恒花园：回忆"
+      ],
+      "zh-Hant": [
+        "紫羅蘭永恆花園：回憶"
+      ],
+      "en": [
+        "Violet Evergarden: Recollections"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2021-10-28T16:00:00.000Z",
+    "end": "2021-10-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "355109"
+      },
+      {
+        "site": "netflix",
+        "id": "81630362",
+        "begin": "2022-12-15T00:00:00.000Z",
+        "broadcast": "R/2022-12-15T00:00:00.000Z/P7D"
       }
     ]
   }
