@@ -306,7 +306,8 @@
       {
         "site": "ani_one",
         "id": "PLC18xlbCdwtTlZBjf5O1KdHzvBkq6bWph",
-        "begin": "2022-10-17T16:00:00.000Z"
+        "begin": "2022-10-17T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -318,10 +319,12 @@
       ],
       "zh-Hant": [
         "電影版影子籃球員：LAST GAME",
-        "幻影籃球王 ─ Last Game"
+        "幻影籃球王 ─ Last Game",
+        "電影版 幻影籃球王 LAST GAME最後一役"
       ],
       "en": [
-        "Kuroko's Basketball: Last Game"
+        "Kuroko's Basketball: Last Game",
+        "Kuroko's Basketball The Movie LAST GAME"
       ]
     },
     "type": "movie",
@@ -340,6 +343,12 @@
         "id": "80991755",
         "begin": "2022-09-14T16:00:00.000Z",
         "broadcast": "R/2022-09-14T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "kurokosbasketballthemovielastgame_137159",
+        "begin": "2022-12-25T16:00:00.000Z",
+        "broadcast": "R/2022-12-25T16:00:00.000Z/P7D"
       }
     ]
   }

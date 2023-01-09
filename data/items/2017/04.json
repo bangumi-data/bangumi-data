@@ -198,6 +198,9 @@
       ],
       "zh-Hans": [
         "进击的巨人 第二季"
+      ],
+      "zh-Hant": [
+        "進擊的巨人 第二季"
       ]
     },
     "type": "tv",
@@ -224,6 +227,12 @@
         "site": "nicovideo",
         "id": "shingeki_season2",
         "begin": "2017-03-24T06:00:00.000Z"
+      },
+      {
+        "site": "viu",
+        "id": "467500",
+        "begin": "2022-12-22T16:00:00.000Z",
+        "broadcast": "R/2022-12-22T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -818,8 +827,8 @@
       {
         "site": "netflix",
         "id": "80135674",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-03-28T16:00:00.000Z",
+        "broadcast": "R/2021-03-28T16:00:00.000Z/P7D"
       },
       {
         "site": "mytv",
@@ -1340,12 +1349,17 @@
     "title": "ベイブレードバースト ゴッド",
     "titleTranslate": {
       "en": [
-        "BEYBLADE BURST GOD"
+        "BEYBLADE BURST GOD",
+        "Beyblade Burst Evolution"
       ],
       "zh-Hans": [
         "霸旋陀螺 爆刃战神",
         "战斗陀螺 爆烈 神",
         "霸旋陀螺 爆刃对决 神"
+      ],
+      "zh-Hant": [
+        "戰鬥陀螺：爆烈世代：神",
+        "爆旋陀螺：擊爆戰魂·進化"
       ]
     },
     "type": "tv",
@@ -1367,6 +1381,12 @@
       {
         "site": "bangumi",
         "id": "208756"
+      },
+      {
+        "site": "netflix",
+        "id": "81018295",
+        "begin": "2022-11-30T00:00:00.000Z",
+        "broadcast": "R/2022-11-30T00:00:00.000Z/P7D"
       }
     ]
   },

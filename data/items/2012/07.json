@@ -374,7 +374,8 @@
       {
         "site": "netflix",
         "id": "70302573",
-        "begin": "2017-06-01T07:00:00.000Z"
+        "begin": "2021-01-30T16:00:00.000Z",
+        "broadcast": "R/2021-01-30T16:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -386,11 +387,6 @@
         "id": "9/9k7p6iy908sypi2",
         "begin": "",
         "broadcast": ""
-      },
-      {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UcgC8tIHKgmLxxPx64AS2Xw_",
-        "begin": ""
       }
     ]
   },
@@ -509,6 +505,9 @@
       "zh-Hans": [
         "魔力家族 -La storia della Arcana Famiglia-",
         "圣灵家族"
+      ],
+      "zh-Hant": [
+        "聖靈家族"
       ]
     },
     "type": "tv",
@@ -550,6 +549,12 @@
         "site": "qq",
         "id": "m/mzc00200ihqx3ba",
         "begin": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Ucgn_0heepJDEVUDeYSDOElK",
+        "begin": "2022-12-19T16:00:00.000Z",
+        "broadcast": "R/2022-12-19T16:00:00.000Z/P7D"
       }
     ]
   },

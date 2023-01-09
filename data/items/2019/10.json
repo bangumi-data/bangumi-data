@@ -1543,8 +1543,8 @@
       {
         "site": "netflix",
         "id": "80135674",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-03-28T16:00:00.000Z",
+        "broadcast": "R/2021-03-28T16:00:00.000Z/P7D"
       },
       {
         "site": "mytv",
@@ -2037,6 +2037,35 @@
         "site": "bilibili",
         "id": "28229860",
         "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "ニンジャボックス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者之箱 第二季"
+      ],
+      "zh-Hant": [
+        "忍者寶盒 第二季"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://ninjabox.bn-ent.net/anime/",
+    "begin": "2019-10-23T16:00:00.000Z",
+    "end": "2020-02-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "304838"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Ucj4dm20skcKMRAIG4ttibAl",
+        "begin": "2021-04-18T16:00:00.000Z",
+        "broadcast": "R/2021-04-18T16:00:00.000Z/P7D"
       }
     ]
   }

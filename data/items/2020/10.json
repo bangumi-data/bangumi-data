@@ -1049,6 +1049,12 @@
         "id": "81341928",
         "begin": "2021-03-27T16:00:00.000Z",
         "broadcast": "R/2021-03-27T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "bythegraceofthegods_137305",
+        "begin": "2022-12-31T16:00:00.000Z",
+        "broadcast": "R/2022-12-31T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1135,7 +1141,8 @@
         "勇者鬥惡龍：達伊的大冒險"
       ],
       "en": [
-        "DRAGON QUEST The Adventure of Dai"
+        "DRAGON QUEST The Adventure of Dai",
+        "Dragon Quest: Dai's Great Adventure"
       ]
     },
     "type": "tv",
@@ -1173,6 +1180,12 @@
         "id": "81374392",
         "begin": "2022-04-28T16:00:00.000Z",
         "broadcast": "R/2022-04-28T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "dragonquestdaisgreatadventure_137316",
+        "begin": "2022-12-24T05:45:00.000Z",
+        "broadcast": "R/2022-12-24T05:45:00.000Z/P7D"
       }
     ]
   },
@@ -1337,6 +1350,12 @@
         "id": "yashahimeprincesshalfdemon0001_129487",
         "begin": "2020-10-21T04:00:00.000Z",
         "broadcast": "R/2020-10-21T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jjdk5R3iXkWIAGBMZ8Tugot",
+        "begin": "2020-10-02T16:00:00.000Z",
+        "broadcast": "R/2020-10-02T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1533,7 +1552,7 @@
     "officialSite": "https://pickles-anime.com/",
     "begin": "2020-10-04T12:55:00.000Z",
     "broadcast": "R/2020-10-04T12:55:00.000Z/P7D",
-    "end": "",
+    "end": "2020-12-27T12:55:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2290,6 +2309,35 @@
         "begin": "2021-08-15T16:00:00.000Z",
         "broadcast": "R/2021-08-15T16:00:00.000Z/P7D",
         "comment": "粵日雙語"
+      }
+    ]
+  },
+  {
+    "title": "カピバラさん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "水豚君"
+      ],
+      "zh-Hant": [
+        "水豚君"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://anime-kapibarasan.com/",
+    "begin": "2020-10-08T16:00:00.000Z",
+    "end": "2021-03-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "316796"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcgIZlFjt8y-VTSf0HXBNYUq",
+        "begin": "2021-01-13T16:00:00.000Z",
+        "broadcast": "R/2021-01-13T16:00:00.000Z/P7D"
       }
     ]
   }
