@@ -789,6 +789,12 @@
         "id": "28235155",
         "begin": "2021-11-03T11:00:01.000Z",
         "broadcast": "R/2021-11-03T11:00:01.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSNZy7MvRHRKKNO5oYLDFJE",
+        "begin": "2023-01-21T16:00:00.000Z",
+        "broadcast": "R/2023-01-21T16:00:00.000Z/P0D"
       }
     ]
   },
@@ -1833,6 +1839,67 @@
         "id": "81630362",
         "begin": "2022-12-15T00:00:00.000Z",
         "broadcast": "R/2022-12-15T00:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 刀剑神域 进击篇 无星之夜的咏叹调"
+      ],
+      "zh-Hant": [
+        "刀劍神域劇場版-Progressive-無星夜的詠嘆調"
+      ],
+      "en": [
+        "Sword Art Online the Movie -Progressive- Aria of a Starless Night"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://sao-p.net/aria/",
+    "begin": "2021-10-29T16:00:00.000Z",
+    "end": "2021-10-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "315375"
+      },
+      {
+        "site": "mytv",
+        "id": "swordartonlinethemovieprogressiveariaofastarlessnight_136204",
+        "begin": "2023-01-12T16:00:00.000Z",
+        "broadcast": "R/2023-01-12T16:00:00.000Z/P0D"
+      }
+    ]
+  },
+  {
+    "title": "Bright: Samurai Soul",
+    "titleTranslate": {
+      "zh-Hans": [
+        "光灵：武士之魂"
+      ],
+      "zh-Hant": [
+        "光靈：武士之魂"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2021-10-11T16:00:00.000Z",
+    "end": "2021-10-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "338656"
+      },
+      {
+        "site": "netflix",
+        "id": "81001990",
+        "begin": "2021-10-12T00:00:00.000Z",
+        "broadcast": "R/2021-10-12T00:00:00.000Z/P0D"
       }
     ]
   }
