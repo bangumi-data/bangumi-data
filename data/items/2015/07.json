@@ -1324,14 +1324,14 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JiIura5SogPzrVGaujqXYsc",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-07-04T16:00:00.000Z",
+        "broadcast": "R/2021-07-04T16:00:00.000Z/P7D"
       },
       {
         "site": "ani_one",
         "id": "PLC18xlbCdwtR4OFp6jDP90a8a94eqGosU",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2022-09-26T16:00:00.000Z",
+        "broadcast": "R/2022-09-26T16:00:00.000Z/P7D"
       },
       {
         "site": "disneyplus",
@@ -2354,6 +2354,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "排球少年剧场版 结束与开始"
+      ],
+      "zh-Hant": [
+        "排球少年!! 劇場版：結束與開始"
       ]
     },
     "type": "movie",
@@ -2376,6 +2379,12 @@
         "site": "bilibili",
         "id": "81232",
         "begin": "2015-07-02T16:00:00.000Z"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JgdWqkc38w1s2ftrvict4zQ",
+        "begin": "2023-03-30T16:00:00.000Z",
+        "broadcast": "R/2023-03-30T16:00:00.000Z/P7D"
       }
     ]
   },
