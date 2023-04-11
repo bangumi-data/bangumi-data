@@ -12,7 +12,7 @@
     "officialSite": "http://yowapeda.com/",
     "begin": "2022-10-08T15:00:00.000Z",
     "broadcast": "R/2022-10-08T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-25T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -556,6 +556,27 @@
         "id": "81215627",
         "begin": "2022-10-18T00:00:00.000Z",
         "broadcast": "R/2022-10-18T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtRkJuHbcOt7-dSS7vKrjtHz",
+        "begin": "2023-03-09T16:00:00.000Z",
+        "broadcast": "R/2023-03-09T16:00:00.000Z/P7D",
+        "comment": "粵語配音"
+      },
+      {
+        "site": "mytv",
+        "id": "chainsawman_137934",
+        "begin": "2023-02-17T16:00:00.000Z",
+        "broadcast": "R/2023-02-17T16:00:00.000Z/P7D",
+        "comment": "粵語版: chainsawmandubbedversion_138054"
+      },
+      {
+        "site": "viu",
+        "id": "2080799",
+        "begin": "2023-02-23T16:00:00.000Z",
+        "broadcast": "R/2023-02-23T16:00:00.000Z/P7D",
+        "comment": "粵語版: 2089454"
       }
     ]
   },
@@ -672,6 +693,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "书虫公主"
+      ],
+      "zh-Hant": [
+        "書蟲公主"
       ]
     },
     "type": "tv",
@@ -697,6 +721,12 @@
         "id": "28339745",
         "begin": "2022-10-06T14:30:00.000Z",
         "broadcast": "R/2022-10-06T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQL7UQHpQZ9Ntiqikw4yXq-",
+        "begin": "2023-02-24T16:00:00.000Z",
+        "broadcast": "R/2023-02-24T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -738,6 +768,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "无良公会"
+      ],
+      "zh-Hant": [
+        "不道德公會"
       ]
     },
     "type": "tv",
@@ -757,6 +790,12 @@
         "id": "28339748",
         "begin": "2022-10-05T16:00:00.000Z",
         "broadcast": "R/2022-10-05T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtTCtgZNXII7wH2M7Nlh0QWy",
+        "begin": "2023-03-11T16:00:00.000Z",
+        "broadcast": "R/2023-03-11T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -826,6 +865,12 @@
         "id": "81643097",
         "begin": "2022-10-08T16:00:00.000Z",
         "broadcast": "R/2022-10-08T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "mobilesuitgundamthewitchfrommercury_137899",
+        "begin": "2023-03-15T16:00:00.000Z",
+        "broadcast": "R/2023-03-15T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -922,7 +967,7 @@
     "officialSite": "https://humanbug-anime.com/",
     "begin": "2022-10-05T13:00:00.000Z",
     "broadcast": "R/2022-10-05T13:00:00.000Z/P7D",
-    "end": "",
+    "end": "2022-12-21T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1275,7 +1320,7 @@
     "officialSite": "https://www.anime-fumetsunoanatae.com/",
     "begin": "2022-10-23T10:00:00.000Z",
     "broadcast": "R/2022-10-23T10:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-12T10:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1451,6 +1496,10 @@
       "zh-Hans": [
         "名侦探柯南 犯人犯泽先生"
       ],
+      "zh-Hant": [
+        "名偵探柯南：犯人・犯澤先生",
+        "名偵探柯南：犯人・犯沢先生"
+      ],
       "en": [
         "Detective Conan The Culprit Hanzawa"
       ]
@@ -1466,6 +1515,12 @@
       {
         "site": "bangumi",
         "id": "351712"
+      },
+      {
+        "site": "netflix",
+        "id": "81313291",
+        "begin": "2023-01-31T16:00:00.000Z",
+        "broadcast": "R/2023-01-31T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1590,7 +1645,7 @@
     "officialSite": "https://digicharat-reiwa.com/",
     "begin": "2022-10-09T14:40:00.000Z",
     "broadcast": "R/2022-10-09T14:40:00.000Z/P7D",
-    "end": "",
+    "end": "2023-01-08T14:40:00.000Z",
     "comment": "",
     "sites": [
       {

@@ -19,5 +19,35 @@
         "id": "409323"
       }
     ]
+  },
+  {
+    "title": "MAKE MY DAY",
+    "titleTranslate": {
+      "zh-Hans": [
+        "冰雪极境"
+      ],
+      "zh-Hant": [
+        "冰雪極境"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.asahi.co.jp/precure/delicious/",
+    "begin": "2023-02-01T16:00:00.000Z",
+    "broadcast": "R/2023-02-01T16:00:00.000Z/P0D",
+    "end": "2023-02-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "338655"
+      },
+      {
+        "site": "netflix",
+        "id": "81176967",
+        "begin": "2023-02-01T16:00:00.000Z",
+        "broadcast": "R/2023-02-01T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]
