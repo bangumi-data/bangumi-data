@@ -101,5 +101,10 @@
   "disneyplus": {
     "title": "Disney+",
     "urlTemplate": "https://www.disneyplus.com/series/view/{{id}}"
+  },
+  "nowPlayer": {
+    "title": "Now Player",
+    "urlTemplate": "https://nowplayer.now.com/ondemand/detail?id={{id}}&type=series",
+    "regions": ["HK"]
   }
 }
