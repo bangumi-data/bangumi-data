@@ -7,6 +7,9 @@
       ],
       "zh-Hans": [
         "王者天下"
+      ],
+      "zh-Hant": [
+        "王者天下"
       ]
     },
     "type": "tv",
@@ -38,6 +41,12 @@
         "site": "acfun",
         "id": "6002257",
         "begin": "2020-04-30T03:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "53052",
+        "begin": "2020-06-04T03:30:00.000Z",
+        "broadcast": "R/2020-06-04T03:30:00.000Z/P7D"
       }
     ]
   },
@@ -45,7 +54,17 @@
     "title": "ポケットモンスター ベストウイッシュ シーズン2",
     "titleTranslate": {
       "zh-Hans": [
-        "精灵宝可梦 超级愿望 第2季"
+        "精灵宝可梦 超级愿望 第2季",
+        "神奇宝贝超级愿望 第2季",
+        "神奇宝贝BW",
+        "口袋妖怪 Best Wishes",
+        "神奇宝贝 最好的祝福",
+        "宠物小精灵 最好的祝福",
+        "神奇宝贝 Best Wishes",
+        "宠物小精灵 Best Wishes"
+      ],
+      "zh-Hant": [
+        "寶可夢超級願望 第二季"
       ]
     },
     "type": "tv",
@@ -67,6 +86,12 @@
       {
         "site": "bangumi",
         "id": "40081"
+      },
+      {
+        "site": "gamer",
+        "id": "56165",
+        "begin": "2020-07-24T06:30:00.000Z",
+        "broadcast": "R/2020-07-24T06:30:00.000Z/P7D"
       }
     ]
   },
@@ -146,7 +171,8 @@
       {
         "site": "netflix",
         "id": "70276596",
-        "begin": "2017-09-01T07:00:00.000Z"
+        "begin": "2017-09-01T07:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -230,6 +256,35 @@
       {
         "site": "bangumi",
         "id": "45841"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 BLOOD-C The Last Dark",
+    "titleTranslate": {
+      "zh-Hans": [
+        "BLOOD-C The Last Dark"
+      ],
+      "zh-Hant": [
+        "血戰-C：The Last Dark"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://blood-c-movie.jp/index.html",
+    "begin": "2012-06-01T16:00:00.000Z",
+    "end": "2012-06-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "23626"
+      },
+      {
+        "site": "gamer",
+        "id": "45942",
+        "begin": "2021-02-01T03:00:00.000Z",
+        "broadcast": "R/2021-02-01T03:00:00.000Z/P7D"
       }
     ]
   }

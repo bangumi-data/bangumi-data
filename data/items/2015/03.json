@@ -32,7 +32,8 @@
     "title": "おまかせ！みらくるキャット団",
     "titleTranslate": {
       "zh-Hans": [
-        "交给你了玛米塔斯"
+        "交给你了玛米塔斯",
+        "交给你了!奇迹猫团"
       ]
     },
     "type": "tv",
@@ -73,7 +74,11 @@
   },
   {
     "title": "わしも-wasimo-(第3シリーズ)",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "WASIMO 第三季"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://www9.nhk.or.jp/anime/wasimo/",
@@ -185,6 +190,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "哆啦A梦 大雄的宇宙英雄记"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 大雄之宇宙英雄記"
       ]
     },
     "type": "movie",
@@ -211,6 +219,12 @@
         "site": "youku",
         "id": "243f33e40fb711e4b8b7",
         "begin": "2016-06-23T04:07:10.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "71562",
+        "begin": "2023-03-16T02:00:00.000Z",
+        "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
       }
     ]
   },
@@ -375,6 +389,7 @@
         "排球少年 列夫参上"
       ],
       "zh-Hant": [
+        "排球少年！！列夫前來拜見！",
         "排球少年!! OVA 1: 列夫前來拜見！"
       ],
       "en": [
@@ -404,6 +419,12 @@
       {
         "site": "mytv",
         "id": "haikyuova1levappears_127968",
+        "begin": "2020-07-04T12:00:00.000Z",
+        "broadcast": "R/2020-07-04T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "112273",
         "begin": "2020-07-04T12:00:00.000Z",
         "broadcast": "R/2020-07-04T12:00:00.000Z/P7D"
       }

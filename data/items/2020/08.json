@@ -3,7 +3,11 @@
     "title": "デート・ア・バレット　デッド・オア・バレット",
     "titleTranslate": {
       "zh-Hans": [
+        "约会大作战 赤黑新章：虚或实",
         "约战狂三外传 虚或实篇"
+      ],
+      "zh-Hant": [
+        "約會大作戰 DATE A BULLET 赤黑新章：虛或實"
       ]
     },
     "type": "movie",
@@ -26,6 +30,12 @@
         "site": "nicovideo",
         "id": "date-a-bullet-movie1",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "107857",
+        "begin": "2021-05-21T09:00:00.000Z",
+        "broadcast": "R/2021-05-21T09:00:00.000Z/P7D"
       }
     ]
   },
@@ -36,7 +46,8 @@
         "命运之夜——天之杯 Ⅲ：春之歌"
       ],
       "zh-Hant": [
-        "Fate/stay night [Heaven's Feel]：III. 春櫻之歌"
+        "Fate/stay night [Heaven's Feel]：III. 春櫻之歌",
+        "Fate/stay night [Heaven's Feel] Ⅲ.春櫻之歌"
       ],
       "en": [
         "Fate/Stay Night: Heaven's Feel - III. Spring Song"
@@ -58,6 +69,12 @@
         "id": "81399559",
         "begin": "2021-08-04T16:00:00.000Z",
         "broadcast": "R/2021-08-04T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "107012",
+        "begin": "2021-12-03T07:50:00.000Z",
+        "broadcast": "R/2021-12-03T07:50:00.000Z/P7D"
       }
     ]
   },
@@ -96,6 +113,41 @@
         "id": "myheroacademialaughasifyouareinhell_136202",
         "begin": "2022-08-01T11:00:00.000Z",
         "broadcast": "R/2022-08-01T11:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "126027",
+        "begin": "2022-08-01T11:00:00.000Z",
+        "broadcast": "R/2022-08-01T11:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "映画 ギヴン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 GIVEN"
+      ],
+      "zh-Hant": [
+        "GIVEN 被贈與的未來 劇場版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://given-anime.com/",
+    "begin": "2022-08-21T16:00:00.000Z",
+    "end": "2022-08-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "290993"
+      },
+      {
+        "site": "gamer",
+        "id": "109956",
+        "begin": "2021-05-06T09:00:00.000Z",
+        "broadcast": "R/2021-05-06T09:00:00.000Z/P7D"
       }
     ]
   }

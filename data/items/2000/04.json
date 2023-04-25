@@ -25,7 +25,9 @@
         "Yu-Gi-Oh! Duel Monsters"
       ],
       "zh-Hans": [
-        "游戏王－怪兽之决斗"
+        "游戏王－怪兽之决斗",
+        "游☆戏☆王－怪兽之决斗",
+        "游戏王Duel Monsters"
       ],
       "zh-Hant": [
         "遊戲王－怪獸之決鬥"
@@ -59,7 +61,8 @@
       {
         "site": "netflix",
         "id": "70177034",
-        "begin": "2017-02-08T08:00:00.000Z"
+        "begin": "2017-02-08T08:00:00.000Z",
+        "broadcast": "R/2022-11-17T00:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -80,7 +83,7 @@
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JihZHNlz6_55KAlFrVfWclz",
         "begin": "2022-06-07T16:00:00.000Z",
-        "broadcast": "",
+        "broadcast": "R/2022-06-07T16:00:00.000Z/P7D",
         "comment": "#52-#97: PLxSscENEp7JhOYEpedisG-L_pllsytJQe, #98-#121: PLxSscENEp7Jinb7O6q2JWNVJ4zAPBcJ0L, #122-#144: PLxSscENEp7JgrfrrrjtDBTt8UXrSv5p-X, #145-#184: PLxSscENEp7JjUs3YZW3c_VIWf15JKqsus, #185-#198: PLxSscENEp7Jg5DgWKsdk172w43rMtfFQ9 #199-#224: PLxSscENEp7Jj9X28LGA4-E3CQtra58L3J"
       },
       {
@@ -97,6 +100,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "樱花大战"
+      ],
+      "zh-Hant": [
+        "櫻花大戰"
       ]
     },
     "type": "tv",
@@ -113,6 +119,12 @@
       {
         "site": "bangumi",
         "id": "2060"
+      },
+      {
+        "site": "gamer",
+        "id": "533",
+        "begin": "2021-09-24T08:00:00.000Z",
+        "broadcast": "R/2021-09-24T08:00:00.000Z/P7D"
       }
     ]
   },
@@ -122,6 +134,9 @@
       "zh-Hans": [
         "地球守护者",
         "捍卫者"
+      ],
+      "zh-Hant": [
+        "捍衛者 GATE KEEPERS"
       ]
     },
     "type": "tv",
@@ -148,6 +163,12 @@
         "site": "qq",
         "id": "m/mzc002003uvcaar",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "33677",
+        "begin": "2019-08-20T09:00:00.000Z",
+        "broadcast": "R/2019-08-20T09:00:00.000Z/P7D"
       }
     ]
   },

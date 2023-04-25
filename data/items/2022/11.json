@@ -20,7 +20,9 @@
     "title": "「艦これ」いつかあの海で",
     "titleTranslate": {
       "zh-Hans": [
-        "舰队Collection 总有一天，在那片海"
+        "舰队Collection 总有一天，在那片海",
+        "舰队收藏 第二季",
+        "舰队Collection 第二季"
       ],
       "zh-Hant": [
         "艦隊Collection 總有一天，在那片海"
@@ -63,6 +65,39 @@
       {
         "site": "bangumi",
         "id": "289944"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 転生したらスライムだった件 紅蓮の絆編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 关于我转生变成史莱姆这档事 红莲之绊篇"
+      ],
+      "zh-Hant": [
+        "關於我轉生變成史萊姆這檔事劇場版 紅蓮之絆篇"
+      ],
+      "en": [
+        "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond",
+        "Tensei Shitara Slime Datta Ken: Guren no Kizuna-hen"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://movie.ten-sura.com/",
+    "begin": "2022-11-24T16:00:00.000Z",
+    "end": "2022-11-24T17:48:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "350185"
+      },
+      {
+        "site": "gamer",
+        "id": "119767",
+        "begin": "2023-03-23T15:00:00.000Z",
+        "broadcast": "R/2023-03-23T15:00:00.000Z/P7D"
       }
     ]
   }

@@ -31,5 +31,56 @@
         "broadcast": "R/2022-11-24T00:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "岬のマヨイガ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海岬的迷途之家"
+      ],
+      "zh-Hant": [
+        "海岬的迷途之家"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://misakinomayoiga.com/",
+    "begin": "2021-08-26T16:00:00.000Z",
+    "end": "2021-08-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "318542"
+      },
+      {
+        "site": "gamer",
+        "id": "114474",
+        "begin": "2022-12-23T04:00:00.000Z",
+        "broadcast": "R/2022-12-23T04:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "BanG Dream! FILM LIVE 2nd Stage",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://anime.bang-dream.com/filmlive2/",
+    "begin": "2021-08-19T16:00:00.000Z",
+    "end": "2021-08-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302228"
+      },
+      {
+        "site": "gamer",
+        "id": "110501",
+        "begin": "2022-07-21T06:00:00.000Z",
+        "broadcast": "R/2022-07-21T06:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

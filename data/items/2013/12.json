@@ -329,6 +329,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "刀剑神域 Extra Edition"
+      ],
+      "zh-Hant": [
+        "刀劍神域 Extra Edition"
       ]
     },
     "type": "tv",
@@ -352,6 +355,12 @@
         "id": "g/gk7198e45vjkdee",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "66639",
+        "begin": "2020-09-07T08:05:00.000Z",
+        "broadcast": "R/2020-09-07T08:05:00.000Z/P7D"
       }
     ]
   },
@@ -403,13 +412,21 @@
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UcisKxV6lK7plJ2rIATfqPOn",
-        "begin": ""
+        "begin": "2022-01-07T16:00:00.000Z",
+        "broadcast": "R/2022-01-07T16:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
         "id": "81557992",
         "begin": "2022-01-06T16:00:00.000Z",
         "broadcast": "R/2022-01-06T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "120947",
+        "begin": "2021-12-19T16:00:00.000Z",
+        "broadcast": "R/2021-12-19T16:00:00.000Z/P7D",
+        "comment": "伊爾澤的筆記: 120947, 突然的來訪者: 120948, 困難: 120949"
       }
     ]
   }

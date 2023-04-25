@@ -67,6 +67,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "K SEVEN STORIES Episode 2「SIDE:BLUE ～犹如天狼～」"
+      ],
+      "zh-Hant": [
+        "K Seven Stories SIDE:BLUE ～猶如天狼～"
       ]
     },
     "type": "movie",
@@ -83,6 +86,12 @@
         "site": "nicovideo",
         "id": "k-seven-stories",
         "begin": "2018-07-07T03:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "101806",
+        "begin": "2020-06-30T16:00:00.000Z",
+        "broadcast": "R/2020-06-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -310,6 +319,35 @@
         "id": "81143068",
         "begin": "2019-09-05T16:00:00.000Z",
         "broadcast": "R/2019-09-05T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ペンギン・ハイウェイ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "企鹅公路"
+      ],
+      "zh-Hant": [
+        "企鵝公路"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://penguin-highway.com/",
+    "begin": "2018-08-16T16:00:00.000Z",
+    "end": "2018-08-16T17:48:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "239270"
+      },
+      {
+        "site": "gamer",
+        "id": "94236",
+        "begin": "2020-01-01T04:00:00.000Z",
+        "broadcast": "R/2020-01-01T04:00:00.000Z/P7D"
       }
     ]
   }

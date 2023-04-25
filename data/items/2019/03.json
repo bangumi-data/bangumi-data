@@ -106,6 +106,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "电影的阿松"
+      ],
+      "zh-Hant": [
+        "阿松 劇場版"
       ]
     },
     "type": "movie",
@@ -133,6 +136,12 @@
         "site": "youku",
         "id": "dfdd7922df9643d0a3a1",
         "begin": "2019-11-08T15:56:39.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "100703",
+        "begin": "2021-04-09T04:00:00.000Z",
+        "broadcast": "R/2021-04-09T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -183,6 +192,65 @@
         "site": "nicovideo",
         "id": "kinpri-movie-sss",
         "begin": "2020-07-13T15:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "PSYCHO-PASS サイコパス Sinners of the System Case.3 恩讐の彼方に＿＿",
+    "titleTranslate": {
+      "zh-Hans": [
+        "心理测量者 Sinners of the System Case.3 在恩怨的彼方＿＿",
+        "心理测量者 Sinners of the System Case.3 恩怨泯然"
+      ],
+      "zh-Hant": [
+        "PSYCHO-PASS 心靈判官 Sinners of the System Case.3 恩仇的彼方"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://psycho-pass.com/ss",
+    "begin": "2019-03-07T16:00:00.000Z",
+    "end": "2019-03-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "239926"
+      },
+      {
+        "site": "gamer",
+        "id": "110700",
+        "begin": "2020-04-09T16:00:00.000Z",
+        "broadcast": "R/2020-04-09T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "おとなの防具屋さん（裏面）",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大人的防具店（里面）"
+      ],
+      "zh-Hant": [
+        "大人的防具店 裏面"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://ganma.jp/g/anime/otonabouguuramen/",
+    "begin": "2019-03-05T16:00:00.000Z",
+    "end": "2019-03-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "275359"
+      },
+      {
+        "site": "gamer",
+        "id": "107499",
+        "begin": "2021-01-08T04:00:00.000Z",
+        "broadcast": "R/2021-01-08T04:00:00.000Z/P7D"
       }
     ]
   }

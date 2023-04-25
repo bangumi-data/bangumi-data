@@ -3,7 +3,9 @@
     "title": "マリア様がみてる",
     "titleTranslate": {
       "zh-Hans": [
-        "圣母在上"
+        "圣母在上",
+        "圣母玛莉亚注视著",
+        "玛莉亚的凝望"
       ]
     },
     "type": "tv",
@@ -135,7 +137,8 @@
     "title": "BURN-UP SCRAMBLE",
     "titleTranslate": {
       "zh-Hans": [
-        "杀人科 SCRAMBLE"
+        "杀人科 SCRAMBLE",
+        "杀人科"
       ]
     },
     "type": "tv",
@@ -178,7 +181,8 @@
     "title": "MEZZO",
     "titleTranslate": {
       "zh-Hans": [
-        "危险代理人"
+        "危险代理人",
+        "危险代理行"
       ]
     },
     "type": "tv",
@@ -237,7 +241,8 @@
     "title": "モンキーターン",
     "titleTranslate": {
       "zh-Hans": [
-        "驰风！赛艇王"
+        "驰风！赛艇王",
+        "飞艇急转弯"
       ]
     },
     "type": "tv",
@@ -304,7 +309,9 @@
     "title": "超変身コス∞プレイヤー",
     "titleTranslate": {
       "zh-Hans": [
-        "超变身巫女祈斗士"
+        "超变身巫女祈斗士",
+        "超变身祈斗士",
+        "A15 变身3部作 第一期"
       ]
     },
     "type": "tv",
@@ -513,6 +520,34 @@
         "site": "nicovideo",
         "id": "jing_seventh_heaven",
         "begin": "2018-05-16T15:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "ヒカルの碁スペシャル 北斗杯への道",
+    "titleTranslate": {
+      "zh-Hans": [
+        "棋魂特别篇 迈向北斗杯之路"
+      ],
+      "zh-Hant": [
+        "棋靈王特別篇：邁向北斗盃之路"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2004-01-02T16:00:00.000Z",
+    "end": "2004-01-02T17:18:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "36271"
+      },
+      {
+        "site": "gamer",
+        "id": "114151",
+        "begin": "2020-10-15T04:00:00.000Z",
+        "broadcast": "R/2020-10-15T04:00:00.000Z/P7D"
       }
     ]
   }

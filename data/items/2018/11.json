@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "K SEVEN STORIES Episode 5「红之记忆 ～BURN～」"
+      ],
+      "zh-Hant": [
+        "K Seven Stories 紅之記憶 ～BURN～"
       ]
     },
     "type": "movie",
@@ -25,6 +28,12 @@
         "site": "bilibili",
         "id": "113852",
         "begin": "2018-11-03T16:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "103335",
+        "begin": "2020-06-30T16:00:00.000Z",
+        "broadcast": "R/2020-06-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -76,6 +85,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "ANEMONE/交响诗篇 Hi-Evolution"
+      ],
+      "zh-Hant": [
+        "ANEMONE／交響詩篇艾蕾卡 7：HI - EVOLUTION"
       ]
     },
     "type": "movie",
@@ -98,6 +110,12 @@
         "id": "m/mzc00200ersdk35",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "123819",
+        "begin": "2022-04-15T04:00:00.000Z",
+        "broadcast": "R/2022-04-15T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -130,6 +148,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "续·终物语"
+      ],
+      "zh-Hant": [
+        "續·終物語"
       ]
     },
     "type": "movie",
@@ -146,6 +167,12 @@
         "site": "nicovideo",
         "id": "zokuowarimonogatari",
         "begin": "2019-05-20T03:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "93181",
+        "begin": "2020-10-22T06:30:00.000Z",
+        "broadcast": "R/2020-10-22T06:30:00.000Z/P7D"
       }
     ]
   },
@@ -178,6 +205,35 @@
         "id": "80198623",
         "begin": "2019-01-08T16:00:00.000Z",
         "broadcast": "R/2019-01-08T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士ガンダムNT",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达NT"
+      ],
+      "zh-Hant": [
+        "機動戰士高達 NT",
+        "機動戰士鋼彈 NT"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://gundam-nt.net/",
+    "begin": "2018-11-29T16:00:00.000Z",
+    "end": "2018-11-29T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "243428"
+      },
+      {
+        "site": "gamer",
+        "id": "96881",
+        "begin": "2020-01-10T04:00:00.000Z",
+        "broadcast": "R/2020-01-10T04:00:00.000Z/P7D"
       }
     ]
   }

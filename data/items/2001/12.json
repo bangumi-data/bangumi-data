@@ -52,7 +52,8 @@
       {
         "site": "netflix",
         "id": "70012316",
-        "begin": "2017-09-01T07:00:00.000Z"
+        "begin": "2017-09-01T07:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -61,6 +62,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "秀逗魔导士PREMIUM"
+      ],
+      "zh-Hant": [
+        "秀逗魔導士 PREMIUM"
       ]
     },
     "type": "movie",
@@ -87,6 +91,12 @@
         "site": "bilibili",
         "id": "3910",
         "begin": "2001-12-21T16:00:01.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "31127",
+        "begin": "2019-01-30T04:00:00.000Z",
+        "broadcast": "R/2019-01-30T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -95,6 +105,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "浪客剑心 星霜篇"
+      ],
+      "zh-Hant": [
+        "神劍闖江湖 星霜篇"
       ]
     },
     "type": "ova",
@@ -121,6 +134,12 @@
         "site": "nicovideo",
         "id": "rurouni-kenshin-seisou",
         "begin": "2014-09-13T06:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "24344",
+        "begin": "2021-06-17T08:00:00.000Z",
+        "broadcast": "R/2021-06-17T08:00:00.000Z/P7D"
       }
     ]
   },

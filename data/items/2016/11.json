@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "精灵宝可梦 太阳&月亮"
+      ],
+      "zh-Hant": [
+        "寶可夢 太陽＆月亮"
       ]
     },
     "type": "tv",
@@ -50,6 +53,12 @@
         "site": "bilibili",
         "id": "5707",
         "begin": "2016-11-16T16:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "85168",
+        "begin": "2020-09-10T08:30:00.000Z",
+        "broadcast": "R/2020-09-10T08:30:00.000Z/P7D"
       }
     ]
   },
@@ -195,6 +204,7 @@
         "site": "netflix",
         "id": "80057749",
         "begin": "2017-02-10T08:00:00.000Z",
+        "broadcast": "R/2017-02-09T16:00:00.000Z/P7D",
         "comment": "原始版本为剧场版但是 Netflix 目前将其做成 14 集 TV 分割形式放送"
       }
     ]
@@ -222,7 +232,8 @@
       {
         "site": "netflix",
         "id": "80192244",
-        "begin": "2018-03-15T07:00:00.000Z"
+        "begin": "2018-03-15T07:00:00.000Z",
+        "broadcast": "R/2021-12-30T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -231,6 +242,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "天地无用! 魉皇鬼 第4期"
+      ],
+      "zh-Hant": [
+        "天地無用！魎皇鬼 第 4 期"
       ]
     },
     "type": "ova",
@@ -248,6 +262,12 @@
         "site": "youku",
         "id": "993682dfa0ce11e69e06",
         "begin": "2016-11-30T15:58:11.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "80136",
+        "begin": "2020-06-11T06:30:00.000Z",
+        "broadcast": "R/2020-06-11T06:30:00.000Z/P7D"
       }
     ]
   },
@@ -273,6 +293,68 @@
         "site": "bilibili",
         "id": "5924",
         "begin": "2016-11-03T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 艦これ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "舰队Collection 剧场版",
+        "舰队收藏 剧场版"
+      ],
+      "zh-Hant": [
+        "劇場版 艦隊 Collection"
+      ],
+      "en": [
+        "Fleet Girls Collection Kancolle Movie Sequence"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kancolle-anime.jp/",
+    "begin": "2016-11-25T16:00:00.000Z",
+    "end": "2016-11-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "143093"
+      },
+      {
+        "site": "gamer",
+        "id": "78981",
+        "begin": "2020-03-01T04:00:00.000Z",
+        "broadcast": "R/2020-03-01T04:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "暗殺教室 365日の時間",
+    "titleTranslate": {
+      "zh-Hans": [
+        "暗杀教室 365天的时间"
+      ],
+      "zh-Hant": [
+        "暗殺教室 365 日倒數計時"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://ansatsu-anime.com/365days",
+    "begin": "2016-11-18T16:00:00.000Z",
+    "end": "2016-11-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "186099"
+      },
+      {
+        "site": "gamer",
+        "id": "85224",
+        "begin": "2018-04-01T06:00:00.000Z",
+        "broadcast": "R/2018-04-01T06:00:00.000Z/P7D"
       }
     ]
   }

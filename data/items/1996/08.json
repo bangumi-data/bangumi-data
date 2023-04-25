@@ -38,6 +38,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "秀逗魔导士RETURN"
+      ],
+      "zh-Hant": [
+        "秀逗魔導士 RETURN"
       ]
     },
     "type": "movie",
@@ -69,6 +72,12 @@
         "site": "iqiyi",
         "id": "a_19rrhwb7ed",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "31123",
+        "begin": "2019-01-28T10:00:00.000Z",
+        "broadcast": "R/2019-01-28T10:00:00.000Z/P7D"
       }
     ]
   },
@@ -101,10 +110,12 @@
         "site": "bilibili",
         "id": "3810",
         "begin": "1996-07-31T16:00:01.000Z"
-      },{
+      },
+      {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JgQvieGk4fBN7k5kOkV39n7",
-        "begin": ""
+        "begin": "2021-10-21T16:00:00.000Z",
+        "broadcast": "R/2021-10-21T16:00:00.000Z/P7D"
       }
     ]
   }

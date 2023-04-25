@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "绝对无敌雷神王"
+      ],
+      "zh-Hant": [
+        "絕對無敵 雷神王"
       ]
     },
     "type": "tv",
@@ -20,6 +23,12 @@
         "site": "bilibili",
         "id": "3304",
         "begin": "1991-04-02T16:00:01.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "20478",
+        "begin": "2021-12-03T06:00:00.000Z",
+        "broadcast": "R/2021-12-03T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -44,6 +53,36 @@
         "site": "nicovideo",
         "id": "hsm-nanafushigi",
         "begin": "2017-07-07T15:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "シティーハンター`91",
+    "titleTranslate": {
+      "zh-Hans": [
+        "城市猎人`91",
+        "城市猎人 第四季",
+        "城市猎人4"
+      ],
+      "zh-Hant": [
+        "城市獵人’91"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-04-28T10:00:00.000Z",
+    "end": "1991-10-10T07:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53937"
+      },
+      {
+        "site": "gamer",
+        "id": "30501",
+        "begin": "2020-01-17T09:30:00.000Z",
+        "broadcast": "R/2020-01-17T09:30:00.000Z/P7D"
       }
     ]
   }

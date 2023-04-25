@@ -4,7 +4,10 @@
     "titleTranslate": {
       "zh-Hans": [
         "拥抱！光之美少女",
-        "HUGtto！光之美少女"
+        "HUGtto！光之美少女",
+        "HUG! 光之美少女",
+        "抱Q",
+        "拥抱Q娃"
       ],
       "en": [
         "HUGTTO!PRECURE"
@@ -29,7 +32,11 @@
   },
   {
     "title": "がん がん がんこちゃん(第2シリーズ)",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "吵闹的顽固小子 第2期"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://www6.nhk.or.jp/anime/program/detail.html?i=ganko",
@@ -164,6 +171,40 @@
         "id": "geass-movie2",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "さよならの朝に約束の花をかざろう",
+    "titleTranslate": {
+      "zh-Hans": [
+        "朝花夕誓——于离别之朝束起约定之花",
+        "朝花夕誓 让誓约的花儿点缀起别离的晨曦",
+        "朝花夕誓--于离别之朝竖起约定之花"
+      ],
+      "zh-Hant": [
+        "道別的早晨就用約定之花點綴吧"
+      ],
+      "en": [
+        "MAQUIA: When the Promised Flower Blooms"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "ttp://sayoasa.jp/",
+    "begin": "2018-02-23T16:00:00.000Z",
+    "end": "2018-02-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "218971"
+      },
+      {
+        "site": "gamer",
+        "id": "90088",
+        "begin": "2020-05-01T09:00:00.000Z",
+        "broadcast": "R/2020-05-01T09:00:00.000Z/P7D"
       }
     ]
   }

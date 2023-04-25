@@ -166,6 +166,9 @@
       "zh-Hans": [
         "女神异闻录3 剧场版 第二章 仲夏骑士之梦"
       ],
+      "zh-Hant": [
+        "女神異聞錄 3 劇場版 第二章 Midsummer Knight's Dream"
+      ],
       "en": [
         "Persona 3 the Movie: #2 Midsummer Knight's Dream"
       ]
@@ -188,7 +191,8 @@
       {
         "site": "netflix",
         "id": "80040329",
-        "begin": "2015-08-07T07:00:00.000Z"
+        "begin": "2015-08-07T07:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "youku",
@@ -199,6 +203,12 @@
         "site": "bilibili",
         "id": "3757",
         "begin": "2014-06-06T16:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "67709",
+        "begin": "2022-05-06T04:30:00.000Z",
+        "broadcast": "R/2022-05-06T04:30:00.000Z/P7D"
       }
     ]
   },
@@ -225,7 +235,8 @@
       {
         "site": "netflix",
         "id": "80021983",
-        "begin": "2017-01-31T08:00:00.000Z"
+        "begin": "2017-01-31T08:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "bilibili",

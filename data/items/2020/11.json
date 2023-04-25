@@ -3,7 +3,11 @@
     "title": "デート・ア・バレット　ナイトメア・オア・クイーン",
     "titleTranslate": {
       "zh-Hans": [
+        "约会大作战 赤黑新章：红或白",
         "约战狂三外传 红或白篇"
+      ],
+      "zh-Hant": [
+        "約會大作戰 DATE A BULLET 赤黑新章：紅或白"
       ]
     },
     "type": "movie",
@@ -22,12 +26,22 @@
         "id": "date-a-bullet-movie2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "117491",
+        "begin": "2021-05-21T09:00:00.000Z",
+        "broadcast": "R/2021-05-21T09:00:00.000Z/P7D"
       }
     ]
   },
   {
     "title": "モンスターストライク THE MOVIE ルシファー 絶望の夜明け",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hant": [
+        "怪物彈珠 THE MOVIE 路西法 絕望的黎明"
+      ]
+    },
     "type": "movie",
     "lang": "ja",
     "officialSite": "https://anime-movie.monster-strike.com/2020",
@@ -44,6 +58,12 @@
         "id": "movie-monster-strike",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "110705",
+        "begin": "2021-07-22T16:00:00.000Z",
+        "broadcast": "R/2021-07-22T16:00:00.000Z/P7D"
       }
     ]
   },

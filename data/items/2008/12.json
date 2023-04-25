@@ -75,7 +75,39 @@
       {
         "site": "netflix",
         "id": "70208801",
-        "begin": "2016-10-15T07:00:00.000Z"
+        "begin": "2016-10-15T07:00:00.000Z",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 メジャー 友情の一球(ウィニングショット)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "棒球大联盟 剧场版 友情的一球"
+      ],
+      "zh-Hant": [
+        "棒球大聯盟電影版 友情的一球"
+      ],
+      "en": [
+        "MAJOR The Movie"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2008-12-12T16:00:00.000Z",
+    "end": "2008-12-12T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3618"
+      },
+      {
+        "site": "gamer",
+        "id": "31190",
+        "begin": "2021-07-02T02:30:00.000Z",
+        "broadcast": "R/2021-07-02T02:30:00.000Z/P7D"
       }
     ]
   }

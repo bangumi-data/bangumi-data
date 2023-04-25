@@ -16,6 +16,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "剧场版 Fate/Grand Order 神圣圆桌领域卡美洛 后篇 Paladin; Agateram"
+      ],
+      "zh-Hant": [
+        "Fate/Grand Order - 神聖圓桌領域卡美洛 - Paladin; Agateram"
       ]
     },
     "type": "movie",
@@ -28,6 +31,12 @@
       {
         "site": "bangumi",
         "id": "255530"
+      },
+      {
+        "site": "gamer",
+        "id": "119155",
+        "begin": "2022-02-25T08:00:00.000Z",
+        "broadcast": "R/2022-02-25T08:00:00.000Z/P7D"
       }
     ]
   },
@@ -86,6 +95,35 @@
         "id": "80992783",
         "begin": "2021-05-26T16:00:00.000Z",
         "broadcast": "R/2021-05-26T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～ OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "辉夜大小姐想让我告白？～天才们的恋爱头脑战～ OVA"
+      ],
+      "zh-Hant": [
+        "輝夜姬想讓人告白？～天才們的戀愛頭腦戰～ 第二季  OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2021-05-18T16:00:00.000Z",
+    "end": "2021-05-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317614"
+      },
+      {
+        "site": "gamer",
+        "id": "123795",
+        "begin": "2022-04-07T16:00:00.000Z",
+        "broadcast": "R/2022-04-07T16:00:00.000Z/P7D"
       }
     ]
   }

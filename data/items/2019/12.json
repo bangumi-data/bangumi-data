@@ -1,7 +1,12 @@
 [
   {
     "title": "妖怪ウォッチJam 妖怪学園Y ～Nとの遭遇～",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "妖怪学园Y ～第N类接触～",
+        "妖怪学园Y ～与n的遭遇～"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://www.tv-tokyo.co.jp/anime/youkai-watch2020/",
@@ -163,6 +168,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "鲁邦三世 THE FIRST"
+      ],
+      "zh-Hant": [
+        "魯邦三世 THE FIRST"
       ]
     },
     "type": "movie",
@@ -180,6 +188,12 @@
         "site": "nicovideo",
         "id": "lupin-3rd-movie",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "106555",
+        "begin": "2021-07-23T08:00:00.000Z",
+        "broadcast": "R/2021-07-23T08:00:00.000Z/P7D"
       }
     ]
   },

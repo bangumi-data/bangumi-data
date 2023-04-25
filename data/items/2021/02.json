@@ -23,7 +23,12 @@
         "Tropical-Rouge! Precure"
       ],
       "zh-Hans": [
-        "Tropical-Rouge！光之美少女"
+        "Tropical-Rouge！光之美少女",
+        "热情彩妆！光之美少女",
+        "热情闪耀！光之美少女",
+        "热带Q娃",
+        "热Q",
+        "妆Q"
       ]
     },
     "type": "tv",
@@ -115,6 +120,12 @@
         "id": "juniorhighandhighschoolkimetsuacademystory_134699",
         "begin": "2022-02-11T16:00:00.000Z",
         "broadcast": "R/2022-02-11T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "119461",
+        "begin": "2021-09-17T08:00:00.000Z",
+        "broadcast": "R/2021-09-17T08:00:00.000Z/P7D"
       }
     ]
   },
@@ -147,6 +158,62 @@
         "id": "81214399",
         "begin": "2021-06-02T16:00:00.000Z",
         "broadcast": "R/2021-06-02T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "名探偵コナン 緋色の不在証明",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 绯色的不在场证明"
+      ],
+      "zh-Hant": [
+        "名偵探柯南：緋色的不在場證明"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.conan-movie.jp/alibi",
+    "begin": "2021-02-10T16:00:00.000Z",
+    "end": "2021-02-10T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "327373"
+      },
+      {
+        "site": "gamer",
+        "id": "115438",
+        "begin": "2022-03-04T09:00:00.000Z",
+        "broadcast": "R/2022-03-04T09:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "新テニスの王子様 氷帝vs立海 Game of Future",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新网球王子 冰帝 vs 立海 Game of Future"
+      ],
+      "zh-Hant": [
+        "新網球王子 冰帝 vs 立海 Game of Future"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2021-04-16T16:00:00.000Z",
+    "end": "2021-06-24T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "324788"
+      },
+      {
+        "site": "gamer",
+        "id": "120583",
+        "begin": "2021-11-19T08:00:00.000Z",
+        "broadcast": "R/2021-11-19T08:00:00.000Z/P7D"
       }
     ]
   }

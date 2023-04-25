@@ -40,7 +40,8 @@
       {
         "site": "netflix",
         "id": "70213196",
-        "begin": "2017-09-01T07:00:00.000Z"
+        "begin": "2017-09-01T07:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "qq",
@@ -53,6 +54,12 @@
         "id": "300892",
         "begin": "2020-10-08T16:00:00.000Z",
         "broadcast": "R/2020-10-08T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "486",
+        "begin": "2020-12-01T03:10:00.000Z",
+        "broadcast": "R/2020-12-01T03:10:00.000Z/P7D"
       }
     ]
   },
@@ -60,7 +67,8 @@
     "title": "REIDEEN",
     "titleTranslate": {
       "zh-Hans": [
-        "新勇者莱丁"
+        "新勇者莱丁",
+        "新勇者莱汀"
       ]
     },
     "type": "tv",
@@ -89,7 +97,8 @@
     "title": "ひとひら",
     "titleTranslate": {
       "zh-Hans": [
-        "初瓣"
+        "初瓣",
+        "女优大试炼"
       ]
     },
     "type": "tv",
@@ -123,7 +132,8 @@
     "title": "MOONLIGHT MILE",
     "titleTranslate": {
       "zh-Hans": [
-        "月光旅程 -Lift off-"
+        "月光旅程 -Lift off-",
+        "月光之旅"
       ]
     },
     "type": "tv",
@@ -206,6 +216,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "哆啦A梦 大雄的新魔界大冒险之7个魔法师"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 大雄的新魔界大冒險～7人魔法使～"
       ]
     },
     "type": "movie",
@@ -242,6 +255,12 @@
         "site": "bilibili",
         "id": "3869",
         "begin": "2007-03-09T16:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "26581",
+        "begin": "2023-03-16T02:00:00.000Z",
+        "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
       }
     ]
   },

@@ -91,6 +91,12 @@
         "site": "youku",
         "id": "47f4a9a898d411e69e06",
         "begin": "2016-12-16T09:02:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "74561",
+        "begin": "2016-12-16T09:20:00.000Z",
+        "broadcast": "R/2016-12-16T09:20:00.000Z/P7D"
       }
     ]
   },
@@ -193,7 +199,8 @@
         "PIKAIA"
       ],
       "zh-Hans": [
-        "皮卡虫!!"
+        "皮卡虫!!",
+        "你考古吗？"
       ]
     },
     "type": "tv",
@@ -237,6 +244,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "刀剑神域：序列之争"
+      ],
+      "zh-Hant": [
+        "刀劍神域 劇場版 序列爭戰"
       ]
     },
     "type": "movie",
@@ -253,6 +263,12 @@
         "site": "nicovideo",
         "id": "sao-movie",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "79961",
+        "begin": "2019-01-16T06:30:00.000Z",
+        "broadcast": "R/2019-01-16T06:30:00.000Z/P7D"
       }
     ]
   },
@@ -377,7 +393,8 @@
       {
         "site": "ani_one",
         "id": "PLC18xlbCdwtTlZBjf5O1KdHzvBkq6bWph",
-        "begin": "2022-10-17T16:00:00.000Z"
+        "begin": "2022-10-17T16:00:00.000Z",
+        "broadcast": "R/2022-10-22T16:00:00.000Z/P7D"
       }
     ]
   }

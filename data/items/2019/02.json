@@ -6,7 +6,10 @@
         "STAR☆TWINKLE PRECURE"
       ],
       "zh-Hans": [
-        "星光☆闪亮 光之美少女"
+        "星光☆闪亮 光之美少女",
+        "Star☆Twinkle 光之美少女",
+        "星Q",
+        "星闪Q娃"
       ]
     },
     "type": "tv",
@@ -74,6 +77,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "王室教师海涅 剧场版"
+      ],
+      "zh-Hant": [
+        "劇場版 王室教師海涅"
       ]
     },
     "type": "movie",
@@ -100,6 +106,12 @@
         "site": "nicovideo",
         "id": "movie-heine",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "101464",
+        "begin": "2020-07-15T07:00:00.000Z",
+        "broadcast": "R/2020-07-15T07:00:00.000Z/P7D"
       }
     ]
   },
@@ -128,6 +140,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "幼女战记 剧场版"
+      ],
+      "zh-Hant": [
+        "幼女戰記 劇場版"
       ]
     },
     "type": "movie",
@@ -145,6 +160,12 @@
         "site": "nicovideo",
         "id": "youjo-senki-movie",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "93316",
+        "begin": "2020-06-24T09:00:00.000Z",
+        "broadcast": "R/2020-06-24T09:00:00.000Z/P7D"
       }
     ]
   },
@@ -265,6 +286,70 @@
         "id": "fightleague_120377",
         "begin": "2019-02-14T11:00:00.000Z",
         "broadcast": "R/2019-02-14T11:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "102620",
+        "begin": "2019-02-14T11:00:00.000Z",
+        "broadcast": "R/2019-02-14T11:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "PSYCHO-PASS サイコパス Sinners of the System Case.2 First Guardian",
+    "titleTranslate": {
+      "zh-Hans": [
+        "心理测量者 Sinners of the System Case.2 First Guardian"
+      ],
+      "zh-Hant": [
+        "PSYCHO-PASS 心靈判官 Sinners of the System Case.2 First Guardian"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://psycho-pass.com/ss",
+    "begin": "2019-02-14T16:00:00.000Z",
+    "end": "2019-02-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "239924"
+      },
+      {
+        "site": "gamer",
+        "id": "110699",
+        "begin": "2020-04-03T04:00:00.000Z",
+        "broadcast": "R/2020-04-03T04:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版シティーハンター 新宿プライベート・アイズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 城市猎人 新宿私家侦探"
+      ],
+      "zh-Hant": [
+        "城市獵人劇場版 新宿 PRIVATE EYES"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://cityhunter-movie.com/",
+    "begin": "2019-02-07T16:00:00.000Z",
+    "end": "2019-02-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "240821"
+      },
+      {
+        "site": "gamer",
+        "id": "95430",
+        "begin": "2020-02-10T04:30:00.000Z",
+        "broadcast": "R/2020-02-10T04:30:00.000Z/P7D"
       }
     ]
   }

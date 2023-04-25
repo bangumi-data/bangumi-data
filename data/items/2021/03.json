@@ -65,8 +65,8 @@
       {
         "site": "netflix",
         "id": "80135674",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2022-08-30T16:00:00.000Z",
+        "broadcast": "R/2022-08-30T16:00:00.000Z/P7D"
       },
       {
         "site": "mytv",
@@ -161,6 +161,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "水星领航员 The CREPUSCOLO"
+      ],
+      "zh-Hant": [
+        "水星領航員 ARIA The CREPUSCOLO"
       ]
     },
     "type": "movie",
@@ -179,6 +182,12 @@
         "id": "aria-crepuscolo",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "112596",
+        "begin": "2021-10-08T07:00:00.000Z",
+        "broadcast": "R/2021-10-08T07:00:00.000Z/P7D"
       }
     ]
   }

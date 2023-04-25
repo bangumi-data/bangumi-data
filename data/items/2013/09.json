@@ -3,7 +3,8 @@
     "title": "Super Seisyun Brothers -超青春姉弟s-",
     "titleTranslate": {
       "zh-Hans": [
-        "超青春姐弟s"
+        "超青春姐弟s",
+        "SSB超青春姐弟s"
       ]
     },
     "type": "tv",
@@ -117,7 +118,10 @@
         "bottom biting bug"
       ],
       "zh-Hans": [
-        "咬屁屁虫 第二季"
+        "咬屁屁虫 第二季",
+        "啃屁屁虫",
+        "咬屁虫",
+        "咬屁股虫"
       ]
     },
     "type": "tv",
@@ -214,7 +218,8 @@
       {
         "site": "netflix",
         "id": "80000768",
-        "begin": "2014-08-01T07:00:00.000Z"
+        "begin": "2014-08-01T07:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -320,6 +325,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "中二病也要谈恋爱！剧场版 小鸟游六花・改"
+      ],
+      "zh-Hant": [
+        "小鳥遊六花・改 劇場版 中二病也想談戀愛！"
       ]
     },
     "type": "movie",
@@ -332,6 +340,12 @@
       {
         "site": "bangumi",
         "id": "75521"
+      },
+      {
+        "site": "gamer",
+        "id": "62213",
+        "begin": "2021-12-24T08:40:00.000Z",
+        "broadcast": "R/2021-12-24T08:40:00.000Z/P7D"
       }
     ]
   }

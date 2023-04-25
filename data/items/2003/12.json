@@ -37,7 +37,8 @@
       {
         "site": "netflix",
         "id": "70036200",
-        "begin": "2017-09-01T07:00:00.000Z"
+        "begin": "2017-09-01T07:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -82,6 +83,37 @@
         "site": "youku",
         "id": "83760ee026e011e6b32f",
         "begin": "2020-06-02T05:05:43.000Z"
+      }
+    ]
+  },
+  {
+    "title": "ブラック・ジャック2時間スペシャル 〜命をめぐる4つの奇跡〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪医黑杰克特别篇 4个生命的奇迹"
+      ],
+      "zh-Hant": [
+        "怪醫黑傑克特別版 4 個生命奇蹟"
+      ],
+      "en": [
+        "Black Jack Special: The 4 Miracles of Life"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2003-12-21T16:00:00.000Z",
+    "end": "2003-12-21T18:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "120070"
+      },
+      {
+        "site": "gamer",
+        "id": "55655",
+        "begin": "2017-06-02T04:00:00.000Z",
+        "broadcast": "R/2017-06-02T04:00:00.000Z/P7D"
       }
     ]
   }
