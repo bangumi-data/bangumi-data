@@ -3,7 +3,9 @@
     "title": "もやしもん",
     "titleTranslate": {
       "zh-Hans": [
-        "萌菌物语"
+        "萌菌物语",
+        "农大物语",
+        "豆芽小文"
       ]
     },
     "type": "tv",
@@ -65,7 +67,8 @@
         "机动战士敢达00"
       ],
       "zh-Hant": [
-        "機動戰士高達00"
+        "機動戰士高達00",
+        "機動戰士鋼彈 00"
       ],
       "en": [
         "Mobile Suit Gundam 00"
@@ -102,6 +105,12 @@
         "begin": "2021-04-01T16:00:00.000Z",
         "broadcast": "R/2021-04-01T16:00:00.000Z/P7D",
         "comment": "粵日雙語"
+      },
+      {
+        "site": "gamer",
+        "id": "538",
+        "begin": "2021-06-22T03:00:00.000Z",
+        "broadcast": "R/2021-06-22T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -250,7 +259,8 @@
     "title": "CLANNAD",
     "titleTranslate": {
       "zh-Hans": [
-        "CLANNAD"
+        "CLANNAD",
+        "小镇家族"
       ]
     },
     "type": "tv",
@@ -386,7 +396,9 @@
     "title": "スケッチブック ～full color's～",
     "titleTranslate": {
       "zh-Hans": [
-        "素描本"
+        "素描本",
+        "Sketch book～素描簿～",
+        "寫生簿～full color's～"
       ]
     },
     "type": "tv",
@@ -521,7 +533,8 @@
     "title": "しおんの王",
     "titleTranslate": {
       "zh-Hans": [
-        "紫音之王"
+        "紫音之王",
+        "棋灵少女"
       ]
     },
     "type": "tv",
@@ -550,7 +563,8 @@
     "title": "もっけ",
     "titleTranslate": {
       "zh-Hans": [
-        "物怪"
+        "物怪",
+        "意外"
       ]
     },
     "type": "tv",
@@ -649,7 +663,9 @@
         "BAMBOO BLADE"
       ],
       "zh-Hans": [
-        "竹刀少女"
+        "竹刀少女",
+        "竹剑",
+        "竹剑少女"
       ]
     },
     "type": "tv",
@@ -751,7 +767,8 @@
     "title": "魔人探偵脳噛ネウロ",
     "titleTranslate": {
       "zh-Hans": [
-        "魔人侦探脑啮涅罗"
+        "魔人侦探脑啮涅罗",
+        "魔人侦探食脑奈罗"
       ]
     },
     "type": "tv",
@@ -811,7 +828,9 @@
       "zh-Hans": [
         "魔法使借贷公司",
         "魔法人力派遣公司",
-        "出租魔法使"
+        "出租魔法使",
+        "魔法使派遣会社",
+        "租赁魔法使"
       ]
     },
     "type": "tv",
@@ -855,7 +874,9 @@
     "title": "逆境無頼カイジ",
     "titleTranslate": {
       "zh-Hans": [
-        "赌博默示录"
+        "赌博默示录",
+        "逆境无赖开司 第一季",
+        "逆境无赖开司 最后生还者"
       ]
     },
     "type": "tv",
@@ -1104,6 +1125,34 @@
       {
         "site": "bangumi",
         "id": "30222"
+      }
+    ]
+  },
+  {
+    "title": "茄子 スーツケースの渡り鳥",
+    "titleTranslate": {
+      "zh-Hans": [
+        "茄子 带着旅行箱的候鸟"
+      ],
+      "zh-Hant": [
+        "茄子 劇場版2 行李箱的候鳥"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.vap.co.jp/nasu-wataridori/index.html",
+    "begin": "2007-10-23T16:00:00.000Z",
+    "end": "2007-10-23T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "511"
+      },
+      {
+        "site": "gamer",
+        "id": "27617",
+        "begin": "2022-05-06T04:20:00.000Z",
+        "broadcast": "R/2022-05-06T04:20:00.000Z/P7D"
       }
     ]
   }

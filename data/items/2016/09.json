@@ -49,7 +49,11 @@
       ],
       "zh-Hans": [
         "喵楞！",
-        "喵阿楞"
+        "喵阿楞",
+        "喵阿楞！"
+      ],
+      "zh-Hant": [
+        "喵阿楞！"
       ]
     },
     "type": "tv",
@@ -76,6 +80,12 @@
         "site": "nicovideo",
         "id": "nyanbo",
         "begin": "2016-09-29T03:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "82121",
+        "begin": "2022-02-11T01:00:00.000Z",
+        "broadcast": "R/2022-02-11T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -87,7 +97,10 @@
       ],
       "zh-Hans": [
         "数码兽宇宙 应用怪兽",
-        "数码宝贝宇宙 应用怪兽"
+        "数码宝贝宇宙 应用怪兽",
+        "数码兽系谱 应用怪兽",
+        "数码宝贝-APP兽",
+        "数码暴龙App世代"
       ]
     },
     "type": "tv",
@@ -136,7 +149,8 @@
     "title": "ドリフェス！",
     "titleTranslate": {
       "zh-Hans": [
-        "梦之祭"
+        "梦之祭",
+        "偶像梦之祭"
       ]
     },
     "type": "web",
@@ -201,6 +215,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "乌龙派出所 THE FINAL 两津勘吉最后的一天"
+      ],
+      "zh-Hant": [
+        "烏龍派出所特別篇 - The Final 兩津勘吉的最後一天"
       ]
     },
     "type": "tv",
@@ -217,6 +234,12 @@
         "site": "bilibili",
         "id": "5499",
         "begin": "2016-09-18T01:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "83929",
+        "begin": "2020-09-04T09:00:00.000Z",
+        "broadcast": "R/2020-09-04T09:00:00.000Z/P7D"
       }
     ]
   },
@@ -308,7 +331,7 @@
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JgGW7SQC-DYAY6zZWVnZZu2",
         "begin": "2022-07-10T16:00:00.000Z",
-        "broadcast": ""
+        "broadcast": "R/2022-07-12T16:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -480,6 +503,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "魔法使的新娘 等待繁星之人"
+      ],
+      "zh-Hant": [
+        "魔法使的新娘 等待星星的人"
       ]
     },
     "type": "ova",
@@ -502,6 +528,13 @@
         "site": "youku",
         "id": "1e186ae3758911e6b16e",
         "begin": "2016-09-10T14:58:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "82333",
+        "begin": "2018-01-19T10:00:00.000Z",
+        "broadcast": "R/2018-01-19T10:00:00.000Z/P7D",
+        "comment": "中篇: 85081, : 後篇: 90501"
       }
     ]
   },
@@ -510,6 +543,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "飙速宅男 SPARE BIKE"
+      ],
+      "zh-Hant": [
+        "飆速宅男 SPARE BIKE"
       ]
     },
     "type": "movie",
@@ -522,6 +558,12 @@
       {
         "site": "bangumi",
         "id": "182702"
+      },
+      {
+        "site": "gamer",
+        "id": "115711",
+        "begin": "2021-02-04T16:00:00.000Z",
+        "broadcast": "R/2021-02-04T16:00:00.000Z/P7D"
       }
     ]
   },

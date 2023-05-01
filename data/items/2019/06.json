@@ -19,7 +19,8 @@
       {
         "site": "netflix",
         "id": "80198505",
-        "begin": ""
+        "begin": "2018-04-19T16:00:00.000Z",
+        "broadcast": "R/2018-04-19T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -43,7 +44,8 @@
       {
         "site": "netflix",
         "id": "80183051",
-        "begin": ""
+        "begin": "2019-06-27T16:00:00.000Z",
+        "broadcast": "R/2019-06-27T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -77,6 +79,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "青春笨蛋少年不做怀梦美少女的梦"
+      ],
+      "zh-Hant": [
+        "青春豬頭少年不會夢到懷夢美少女"
       ]
     },
     "type": "movie",
@@ -99,6 +104,12 @@
         "site": "bilibili",
         "id": "28223480",
         "begin": "2019-11-12T16:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "101403",
+        "begin": "2020-02-17T06:00:00.000Z",
+        "broadcast": "R/2020-02-17T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -132,6 +143,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "Fate/kaleid liner 魔法少女☆伊莉雅 Prisma☆Phantasm"
+      ],
+      "zh-Hant": [
+        "魔法少女☆伊莉雅 百變嘉年華"
       ]
     },
     "type": "ova",
@@ -154,14 +168,23 @@
         "site": "nicovideo",
         "id": "movie-prismaphantasm",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "91971",
+        "begin": "2020-01-17T07:00:00.000Z",
+        "broadcast": "R/2020-01-17T07:00:00.000Z/P7D"
       }
     ]
   },
   {
-    "title": "ガールズ&amp;パンツァー 最終章 第2話",
+    "title": "ガールズ&パンツァー 最終章 第2話",
     "titleTranslate": {
       "zh-Hans": [
         "少女与战车 最终章 第2话"
+      ],
+      "zh-Hant": [
+        "少女與戰車 最終章 第2話"
       ]
     },
     "type": "ova",
@@ -174,6 +197,12 @@
       {
         "site": "bangumi",
         "id": "208825"
+      },
+      {
+        "site": "gamer",
+        "id": "115482",
+        "begin": "2021-06-03T04:00:00.000Z",
+        "broadcast": "R/2021-06-03T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -182,6 +211,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "剧场版 歌之王子殿下 真爱王国"
+      ],
+      "zh-Hant": [
+        "劇場版 歌之☆王子殿下♪真愛 KINGDOM"
       ]
     },
     "type": "movie",
@@ -200,6 +232,41 @@
         "id": "utapri-movie",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "86700",
+        "begin": "2021-06-11T04:00:00.000Z",
+        "broadcast": "R/2021-06-11T04:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "それいけ! アンパンマン きらめけ! アイスの国のバニラ姫",
+    "titleTranslate": {
+      "zh-Hans": [
+        "面包超人剧场版 发光吧！冰淇淋王国的香草公主"
+      ],
+      "zh-Hant": [
+        "麵包超人劇場版 發光吧！冰淇淋王國的香草公主"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2019-06-27T16:00:00.000Z",
+    "end": "2019-06-27T17:02:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "335298"
+      },
+      {
+        "site": "gamer",
+        "id": "103380",
+        "begin": "2020-12-29T03:50:00.000Z",
+        "broadcast": "R/2020-12-29T03:50:00.000Z/P7D"
       }
     ]
   }

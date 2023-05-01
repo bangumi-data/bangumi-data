@@ -124,6 +124,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "荒野的寿飞行队 完全版"
+      ],
+      "zh-Hant": [
+        "荒野的壽飛行隊 完全版"
       ]
     },
     "type": "movie",
@@ -142,6 +145,12 @@
         "id": "kotobuki-movie",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "119977",
+        "begin": "2021-10-08T07:00:00.000Z",
+        "broadcast": "R/2021-10-08T07:00:00.000Z/P7D"
       }
     ]
   },
@@ -206,6 +215,67 @@
         "id": "81193214",
         "begin": "2020-09-16T16:00:00.000Z",
         "broadcast": "R/2020-09-16T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "思い、思われ、ふり、ふられ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恋途未卜"
+      ],
+      "zh-Hant": [
+        "交錯的想念"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://furifura-movie-animation.jp",
+    "begin": "2020-09-17T16:00:00.000Z",
+    "end": "2020-09-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "281096"
+      },
+      {
+        "site": "gamer",
+        "id": "105203",
+        "begin": "2022-04-08T04:00:00.000Z",
+        "broadcast": "R/2022-04-08T04:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "「はたらく細胞!!」最強の敵、再び。体の中は“腸”大騒ぎ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "工作细胞！！最强之敌再临，体内'肠道'大骚动！",
+        "工作细胞！！强菌袭来，人体肠道大骚动！",
+        "工作细胞：细胞大作战",
+        "特别上映版 工作细胞！！"
+      ],
+      "zh-Hant": [
+        "工作細胞 特別上映版 - 強「菌」來襲！人體腸道大騷動！"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://hataraku-saibou.com/gekijou.html",
+    "begin": "2020-09-04T16:00:00.000Z",
+    "end": "2020-09-04T17:52:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "309869"
+      },
+      {
+        "site": "gamer",
+        "id": "112335",
+        "begin": "2021-07-01T04:50:00.000Z",
+        "broadcast": "R/2021-07-01T04:50:00.000Z/P7D"
       }
     ]
   }

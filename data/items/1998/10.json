@@ -280,7 +280,14 @@
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UcjnSpufHgb5n149YLV40nGq",
-        "begin": "2021-08-18T16:00:00.000Z"
+        "begin": "2021-08-18T16:00:00.000Z",
+        "broadcast": "R/2021-09-11T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "432",
+        "begin": "2021-02-28T16:00:00.000Z",
+        "broadcast": "R/2021-02-28T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -406,6 +413,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "秀逗魔导士EXCELLENT"
+      ],
+      "zh-Hant": [
+        "秀逗魔導士 EXCELLENT"
       ]
     },
     "type": "ova",
@@ -423,6 +433,12 @@
         "site": "iqiyi",
         "id": "a_19rrhwb77x",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "31129",
+        "begin": "2019-01-30T04:00:00.000Z",
+        "broadcast": "R/2019-01-30T04:00:00.000Z/P7D"
       }
     ]
   },

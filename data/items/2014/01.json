@@ -52,7 +52,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "最近妹妹的样子有点怪",
-        "最近我的妹妹有点怪"
+        "最近我的妹妹有点怪",
+        "最近，妹妹的样子有点怪？",
+        "最近、我的妹妹有点怪。"
       ],
       "en": [
         "Recently, my sister is unusual."
@@ -122,7 +124,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "太空丹迪",
-        "Space☆Dandy"
+        "Space☆Dandy",
+        "宇宙浪子"
       ],
       "en": [
         "SPACE DANDY"
@@ -154,10 +157,14 @@
     "title": "ノラガミ",
     "titleTranslate": {
       "zh-Hans": [
-        "野良神"
+        "野良神",
+        "流浪神差"
       ],
       "en": [
         "NORAGAMI"
+      ],
+      "zh-Hant": [
+        "流浪神差"
       ]
     },
     "type": "tv",
@@ -189,12 +196,19 @@
         "site": "netflix",
         "id": "80006397",
         "begin": "2017-12-31T16:00:00.000Z",
+        "broadcast": "",
         "comment": "港区可见"
       },
       {
         "site": "sohu",
         "id": "s2013/llsc",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "63959",
+        "begin": "2018-02-14T09:00:00.000Z",
+        "broadcast": "R/2018-02-14T09:00:00.000Z/P7D"
       }
     ]
   },
@@ -202,7 +216,8 @@
     "title": "みんな集まれ！ファルコム学園",
     "titleTranslate": {
       "zh-Hans": [
-        "大家集合！ Falcom学园"
+        "大家集合！ Falcom学园",
+        "大家集合！Falcom学园"
       ]
     },
     "type": "tv",
@@ -252,7 +267,10 @@
     "titleTranslate": {
       "zh-Hans": [
         "妄想学生会＊",
-        "妄想学生会 第2季"
+        "妄想学生会 第2季",
+        "生徒会役員共＊",
+        "妄想学生会*",
+        "妄想学生会 第二季"
       ],
       "en": [
         "SEITOKAIYAKUINDOMO*"
@@ -370,7 +388,8 @@
     "title": "咲-Saki- 全国編",
     "titleTranslate": {
       "zh-Hans": [
-        "天才麻将少女 全国篇"
+        "天才麻将少女 全国篇",
+        "天才麻將少女 全國篇"
       ]
     },
     "type": "tv",
@@ -429,7 +448,8 @@
     "title": "とある飛空士への恋歌",
     "titleTranslate": {
       "zh-Hans": [
-        "献给某飞行员的恋歌"
+        "献给某飞行员的恋歌",
+        "对某飞行员的恋歌"
       ]
     },
     "type": "tv",
@@ -473,7 +493,8 @@
     "title": "そにアニ -SUPER SONICO THE ANIMATION-",
     "titleTranslate": {
       "zh-Hans": [
-        "超级索尼子"
+        "超级索尼子",
+        "超级索尼子 动画版"
       ],
       "en": [
         "SONIANI -SUPER SONICO THE ANIMATION-"
@@ -507,6 +528,12 @@
         "id": "PLuxqoToY7UcgcFX3q4gDozv_I0-hMAYnj",
         "begin": "2022-03-06T16:00:00.000Z",
         "broadcast": "R/2022-03-06T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "64346",
+        "begin": "2022-05-20T03:00:00.000Z",
+        "broadcast": "R/2022-05-20T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -514,7 +541,8 @@
     "title": "ノブナガ・ザ・フール",
     "titleTranslate": {
       "zh-Hans": [
-        "愚者信长"
+        "愚者信长",
+        "信长 THE FOOL"
       ],
       "en": [
         "NOBUNAGA THE FOOL"
@@ -546,7 +574,8 @@
     "title": "ディーふらぐ！",
     "titleTranslate": {
       "zh-Hans": [
-        "属性同好会"
+        "属性同好会",
+        "府上高一游戏部"
       ],
       "en": [
         "D-FRAGMENTS"
@@ -578,7 +607,8 @@
     "title": "攻殻機動隊入門あらいず",
     "titleTranslate": {
       "zh-Hans": [
-        "攻壳机动队入门ARISE"
+        "攻壳机动队入门ARISE",
+        "攻壳机动队入门"
       ]
     },
     "type": "tv",
@@ -597,7 +627,9 @@
     "title": "中二病でも恋がしたい！戀",
     "titleTranslate": {
       "zh-Hans": [
-        "中二病也要谈恋爱！恋"
+        "中二病也要谈恋爱！恋",
+        "中二病也要谈恋爱！戀",
+        "中二病也要谈恋爱！第二季"
       ],
       "en": [
         "Chu-2 byo demo KOI ga shitai REN"
@@ -674,6 +706,7 @@
         "site": "netflix",
         "id": "80087629",
         "begin": "2016-07-31T16:00:00.000Z",
+        "broadcast": "",
         "comment": "港区可见"
       },
       {
@@ -693,7 +726,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "滨虎",
-        "浜虎"
+        "浜虎",
+        "HAMATORA ─超能侦探社─"
       ],
       "en": [
         "HAMATORA THE ANIMATION"
@@ -725,7 +759,12 @@
     "title": "銀の匙 Silver Spoon(第2期)",
     "titleTranslate": {
       "zh-Hans": [
-        "银之匙 Silver Spoon 第二季"
+        "银之匙 Silver Spoon 第二季",
+        "银之匙 S2",
+        "银之匙 第二季"
+      ],
+      "zh-Hant": [
+        "銀之匙 第二季"
       ]
     },
     "type": "tv",
@@ -751,12 +790,19 @@
       {
         "site": "netflix",
         "id": "80041161",
-        "begin": "2015-08-01T07:00:00.000Z"
+        "begin": "2015-08-01T07:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "youku",
         "id": "c1d8978e685111e3a705",
         "begin": "2014-01-10T00:48:29.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "64348",
+        "begin": "2021-01-26T03:00:00.000Z",
+        "broadcast": "R/2021-01-26T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -764,7 +810,8 @@
     "title": "未確認で進行形",
     "titleTranslate": {
       "zh-Hans": [
-        "未确认进行式"
+        "未确认进行式",
+        "未经确认的渐进形式"
       ],
       "zh-Hant": [
         "未確認進行式"
@@ -809,6 +856,12 @@
         "id": "engagedtotheunidentified_108983",
         "begin": "2016-10-14T16:00:00.000Z",
         "broadcast": "R/2016-10-14T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "64316",
+        "begin": "2021-07-15T06:00:00.000Z",
+        "broadcast": "R/2021-07-15T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -920,6 +973,12 @@
         "id": "PLuxqoToY7Uch2vrqtQARKtuW44rJD-A9G",
         "begin": "2020-01-26T16:00:00.000Z",
         "broadcast": "R/2020-01-26T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "62707",
+        "begin": "2019-06-24T04:00:00.000Z",
+        "broadcast": "R/2019-06-24T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -976,6 +1035,12 @@
         "id": "PLuxqoToY7UcgPfOJS-e6QUe8ctz2hGg-S",
         "begin": "2019-07-17T16:00:00.000Z",
         "broadcast": "R/2019-07-17T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "63310",
+        "begin": "2019-02-25T03:30:00.000Z",
+        "broadcast": "R/2019-02-25T03:30:00.000Z/P7D"
       }
     ]
   },
@@ -983,7 +1048,8 @@
     "title": "桜Trick",
     "titleTranslate": {
       "zh-Hans": [
-        "樱Trick"
+        "樱Trick",
+        "樱谋诡计"
       ]
     },
     "type": "tv",
@@ -1017,7 +1083,8 @@
     "title": "ストレンジ・プラス",
     "titleTranslate": {
       "zh-Hans": [
-        "STRANGE+"
+        "STRANGE+",
+        "抓狂徵信社"
       ],
       "en": [
         "STRANGE+"
@@ -1092,6 +1159,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "农林"
+      ],
+      "zh-Hant": [
+        "農林"
       ],
       "en": [
         "NO-RIN"
@@ -1185,7 +1255,8 @@
     "title": "世界征服～謀略のズヴィズダー～",
     "titleTranslate": {
       "zh-Hans": [
-        "世界征服～谋略之星～"
+        "世界征服～谋略之星～",
+        "世界征服谋略之星"
       ]
     },
     "type": "tv",
@@ -1231,7 +1302,14 @@
       "zh-Hans": [
         "弁魔士塞西尔",
         "弁魔士赛希尔",
-        "弁魔士圣知"
+        "弁魔士圣知",
+        "WIZARD BARRISTERS〜辩魔士圣知",
+        "WIZARD BARRISTERS〜弁魔士塞西尔",
+        "魔法辩护士圣知",
+        "Wizard Barristers〜弁魔士赛希尔"
+      ],
+      "zh-Hant": [
+        "WIZARD BARRISTERS～弁魔士賽希爾"
       ],
       "en": [
         "WIZARD BARRISTERS"
@@ -1276,6 +1354,12 @@
         "site": "acfun",
         "id": "6003886",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "63560",
+        "begin": "2020-02-06T08:00:00.000Z",
+        "broadcast": "R/2020-02-06T08:00:00.000Z/P7D"
       }
     ]
   },
@@ -1284,7 +1368,10 @@
     "titleTranslate": {
       "zh-Hans": [
         "摸索吧！部活剧 再来一个",
-        "摸索吧！部活剧 Encore"
+        "摸索吧！部活剧 Encore",
+        "摸索吧！部活剧 安可",
+        "摸索吧！部活剧 2期",
+        "探寻吧！部活！ 2期"
       ]
     },
     "type": "tv",
@@ -1329,7 +1416,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "稻荷恋之歌",
-        "狐仙的恋爱入门"
+        "狐仙的恋爱入门",
+        "稲荷、砰砰、恋爱一二三"
       ]
     },
     "type": "tv",
@@ -1434,7 +1522,8 @@
         "wooser's hand-to-mouth life"
       ],
       "zh-Hans": [
-        "兔宝的悲惨日常 觉醒篇"
+        "兔宝的悲惨日常 觉醒篇",
+        "兔宝的悲惨日常 第二季"
       ]
     },
     "type": "tv",
@@ -1638,6 +1727,9 @@
       "zh-Hans": [
         "Little Busters! EX",
         "小小克星EX"
+      ],
+      "zh-Hant": [
+        "Little Busters ! EX"
       ]
     },
     "type": "ova",
@@ -1659,6 +1751,12 @@
         "site": "bilibili",
         "id": "3571",
         "begin": "2014-01-28T16:00:01.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "64242",
+        "begin": "2020-09-09T09:30:00.000Z",
+        "broadcast": "R/2020-09-09T09:30:00.000Z/P7D"
       }
     ]
   },
@@ -1690,7 +1788,8 @@
       {
         "site": "netflix",
         "id": "70205008",
-        "begin": "2015-08-01T07:00:00.000Z"
+        "begin": "2015-08-01T07:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "iqiyi",
@@ -1757,6 +1856,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "偶像大师 剧场版 向着光辉的彼岸！"
+      ],
+      "zh-Hant": [
+        "偶像大師 劇場版 前往光輝的另一端！"
       ]
     },
     "type": "movie",
@@ -1783,6 +1885,12 @@
         "site": "youku",
         "id": "d8cb56a24aab11e3b8b7",
         "begin": "2016-03-13T15:07:24.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "60214",
+        "begin": "2021-03-31T16:00:00.000Z",
+        "broadcast": "R/2021-03-31T16:00:00.000Z/P7D"
       }
     ]
   },

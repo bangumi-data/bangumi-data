@@ -6,7 +6,11 @@
         "Delicious Party♡Precure"
       ],
       "zh-Hans": [
-        "美味派对♡光之美少女"
+        "美味派对♡光之美少女",
+        "Delicious Party ♡ 光之美少女",
+        "美味Party ♡ 光之美少女",
+        "派对Q娃",
+        "食Q"
       ]
     },
     "type": "tv",
@@ -55,6 +59,12 @@
         "id": "PLuxqoToY7UchMCwvzDMzfmzYjq68q7Q5J",
         "begin": "2022-05-19T16:00:00.000Z",
         "broadcast": "R/2022-05-19T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "119771",
+        "begin": "2021-10-01T03:00:00.000Z",
+        "broadcast": "R/2021-10-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -87,6 +97,103 @@
         "id": "81340914",
         "begin": "2022-01-27T16:00:00.000Z",
         "broadcast": "R/2022-01-27T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "フルーツバスケット －prelude－",
+    "titleTranslate": {
+      "zh-Hans": [
+        "水果篮子 -prelude-"
+      ],
+      "zh-Hant": [
+        "魔法水果籃 -前奏曲-"
+      ],
+      "en": [
+        "Fruits Basket: prelude"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://fruba-movie.jp/",
+    "begin": "2022-02-17T16:00:00.000Z",
+    "end": "2022-02-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "340282"
+      },
+      {
+        "site": "gamer",
+        "id": "120370",
+        "begin": "2022-06-03T01:30:00.000Z",
+        "broadcast": "R/2022-06-03T01:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "グッバイ、ドン・グリーズ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "再见了，橡果兄弟！"
+      ],
+      "zh-Hant": [
+        "再見了，橡果兄弟！"
+      ],
+      "en": [
+        "Goodbye,DonGlees!"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://donglees.com/",
+    "begin": "2022-02-17T16:00:00.000Z",
+    "end": "2022-02-17T17:35:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "340678"
+      },
+      {
+        "site": "gamer",
+        "id": "119597",
+        "begin": "2022-11-28T03:00:00.000Z",
+        "broadcast": "R/2022-11-28T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "鹿の王 ユナと約束の旅",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鹿王 尤娜与约定之旅"
+      ],
+      "zh-Hant": [
+        "鹿王"
+      ],
+      "en": [
+        "Shika no Ou: Yuna to Yakusoku no Tabi",
+        "The Deer King: The Promised Journey With Yuna"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://shikanoou-movie.jp",
+    "begin": "2022-02-03T16:00:00.000Z",
+    "end": "2022-02-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "250479"
+      },
+      {
+        "site": "gamer",
+        "id": "104709",
+        "begin": "2022-09-29T04:00:00.000Z",
+        "broadcast": "R/2022-09-29T04:00:00.000Z/P7D"
       }
     ]
   }

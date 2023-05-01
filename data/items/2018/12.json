@@ -1,7 +1,11 @@
 [
   {
     "title": "K SEVEN STORIES Episode 6「Circle Vision ～Nameless Song～」",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hant": [
+        "K Seven Stories Circle Vision ～Nameless Song～"
+      ]
+    },
     "type": "movie",
     "lang": "ja",
     "officialSite": "",
@@ -16,6 +20,12 @@
         "site": "nicovideo",
         "id": "k-seven-stories",
         "begin": "2018-07-07T03:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "103635",
+        "begin": "2020-06-30T16:00:00.000Z",
+        "broadcast": "R/2020-06-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -205,6 +215,35 @@
         "id": "80200027",
         "begin": "2018-12-02T16:00:00.000Z",
         "broadcast": "R/2018-12-02T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "映画 妖怪ウォッチ FOREVER FRIENDS",
+    "titleTranslate": {
+      "zh-Hans": [
+        "妖怪手表 永远的朋友"
+      ],
+      "zh-Hant": [
+        "電影版妖怪手錶：永遠的朋友"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.eiga-yokai.jp",
+    "begin": "2018-12-13T16:00:00.000Z",
+    "end": "2018-12-13T17:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "270963"
+      },
+      {
+        "site": "gamer",
+        "id": "98707",
+        "begin": "2021-05-20T07:00:00.000Z",
+        "broadcast": "R/2021-05-20T07:00:00.000Z/P7D"
       }
     ]
   }

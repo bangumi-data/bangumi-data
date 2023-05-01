@@ -73,6 +73,9 @@
       "zh-Hans": [
         "火影忍者疾风传 剧场版 羁绊"
       ],
+      "zh-Hant": [
+        "火影忍者劇場版5：絆"
+      ],
       "en": [
         "Naruto Shippuden the Movie: Bonds"
       ]
@@ -90,7 +93,14 @@
       {
         "site": "netflix",
         "id": "70105699",
-        "begin": "2016-10-15T07:00:00.000Z"
+        "begin": "2016-10-15T07:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "22793",
+        "begin": "2021-08-13T06:00:00.000Z",
+        "broadcast": "R/2021-08-13T06:00:00.000Z/P7D"
       }
     ]
   }

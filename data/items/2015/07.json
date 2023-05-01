@@ -32,7 +32,9 @@
       "zh-Hans": [
         "GANGSTA",
         "GANGSTA 匪徒",
-        "黑街GANGSTA"
+        "黑街GANGSTA",
+        "GANGSTA匪徒",
+        "黑街匪徒"
       ],
       "en": [
         "GANGSTA",
@@ -86,7 +88,9 @@
     "title": "乱歩奇譚 Game of Laplace",
     "titleTranslate": {
       "zh-Hans": [
-        "乱步奇谭"
+        "乱步奇谭",
+        "乱步奇谭 Game of Laplace",
+        "亂步奇譚 拉普拉斯的遊戲"
       ],
       "en": [
         "Ranpo Kitan"
@@ -135,7 +139,9 @@
       "zh-Hans": [
         "混沌之龙 赤龙战役",
         "Chaos Dragon 赤龙战役",
-        "赤龙战役"
+        "赤龙战役",
+        "红龙战役",
+        "赤龙战争"
       ],
       "en": [
         "Chaos Dragon: Sekiryuu Seneki"
@@ -371,6 +377,12 @@
         "id": "80182163",
         "begin": "2021-01-30T16:00:00.000Z",
         "broadcast": "R/2021-01-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "74728",
+        "begin": "2021-04-16T08:00:00.000Z",
+        "broadcast": "R/2021-04-16T08:00:00.000Z/P7D"
       }
     ]
   },
@@ -378,7 +390,8 @@
     "title": "うーさーのその日暮らし 夢幻編",
     "titleTranslate": {
       "zh-Hans": [
-        "兔宝的悲惨日常 梦幻篇"
+        "兔宝的悲惨日常 梦幻篇",
+        "乌瑟的穷困生活 梦幻篇"
       ],
       "en": [
         "Wooser no Sono Higurashi Mugen hen",
@@ -446,6 +459,12 @@
         "id": "70309073",
         "begin": "2022-05-30T16:00:00.000Z",
         "broadcast": "R/2022-05-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "75414",
+        "begin": "2016-03-30T06:00:00.000Z",
+        "broadcast": "R/2016-03-30T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -581,7 +600,8 @@
     "title": "戦姫絶唱シンフォギアGX",
     "titleTranslate": {
       "zh-Hans": [
-        "战姬绝唱SYMPHOGEAR GX"
+        "战姬绝唱SYMPHOGEAR GX",
+        "战姬绝唱SYMPHOGEAR 3期"
       ],
       "en": [
         "Senki Zesshou Symphogear GX",
@@ -621,6 +641,9 @@
       "zh-Hans": [
         "迷糊餐厅 第三季"
       ],
+      "zh-Hant": [
+        "WORKING!!迷糊餐廳 第三季"
+      ],
       "en": [
         "Working!!!"
       ]
@@ -649,6 +672,12 @@
         "site": "nicovideo",
         "id": "working-03",
         "begin": "2015-07-07T03:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "72071",
+        "begin": "2020-12-31T16:00:00.000Z",
+        "broadcast": "R/2020-12-31T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -657,6 +686,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "无头骑士异闻录×2 转"
+      ],
+      "zh-Hant": [
+        "無頭騎士異聞錄 DuRaRaRa!!×2 轉"
       ],
       "en": [
         "Durarara!!x2 Ten"
@@ -702,6 +734,12 @@
         "id": "80040119",
         "begin": "2015-10-09T07:00:00.000Z",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "73149",
+        "begin": "2020-02-07T08:30:00.000Z",
+        "broadcast": "R/2020-02-07T08:30:00.000Z/P7D"
       }
     ]
   },
@@ -710,7 +748,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "下流梗不存在的灰暗世界",
-        "没有黄段子存在的无聊世界"
+        "没有黄段子存在的无聊世界",
+        "没有下流概念的无聊世界",
+        "没有黄段子的无聊世界"
       ],
       "zh-Hant": [
         "下流梗不存在的灰暗世界"
@@ -757,6 +797,9 @@
       ],
       "en": [
         "Charlotte"
+      ],
+      "zh-Hant": [
+        "夏洛特"
       ]
     },
     "type": "tv",
@@ -815,6 +858,12 @@
         "begin": "2017-12-31T16:00:00.000Z",
         "broadcast": "",
         "comment": "港区可见"
+      },
+      {
+        "site": "gamer",
+        "id": "74763",
+        "begin": "2015-12-13T16:00:00.000Z",
+        "broadcast": "R/2015-12-13T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -859,10 +908,16 @@
     "title": "ガッチャマン クラウズ インサイト",
     "titleTranslate": {
       "zh-Hans": [
-        "科学小飞侠Crowds insight"
+        "科学小飞侠Crowds insight",
+        "神勇飞鹰侠Crowds insight",
+        "科学忍者队Crowds insight"
+      ],
+      "zh-Hant": [
+        "新科學小飛俠 insight"
       ],
       "en": [
-        "Gatchaman Crowds insight"
+        "Gatchaman Crowds insight",
+        "GATCHAMAN CROWDS insight"
       ]
     },
     "type": "tv",
@@ -894,6 +949,12 @@
         "site": "acfun",
         "id": "6003897",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "65059",
+        "begin": "2019-09-19T03:00:00.000Z",
+        "broadcast": "R/2019-09-19T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -905,6 +966,9 @@
       ],
       "en": [
         "God Eater"
+      ],
+      "zh-Hant": [
+        "噬神者"
       ]
     },
     "type": "tv",
@@ -946,6 +1010,12 @@
         "site": "nicovideo",
         "id": "godeater-anime",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "72814",
+        "begin": "2017-01-17T06:00:00.000Z",
+        "broadcast": "R/2017-01-17T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -958,6 +1028,9 @@
       "en": [
         "Rokka no Yuusha",
         "Rokka: Braves of the Six Flowers"
+      ],
+      "zh-Hant": [
+        "六花的勇者"
       ]
     },
     "type": "tv",
@@ -1010,6 +1083,12 @@
         "id": "S202010070116007",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "74124",
+        "begin": "2021-03-31T16:00:00.000Z",
+        "broadcast": "R/2021-03-31T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1156,7 +1235,8 @@
     "title": "To LOVEる -とらぶる- ダークネス 2nd",
     "titleTranslate": {
       "zh-Hans": [
-        "出包王女Darkness 2nd"
+        "出包王女Darkness 2nd",
+        "出包王女 第四季"
       ],
       "en": [
         "To Love-ru Darkness 2nd"
@@ -1183,7 +1263,9 @@
     "title": "赤髪の白雪姫",
     "titleTranslate": {
       "zh-Hans": [
-        "赤发白雪姬"
+        "赤发白雪姬",
+        "赤髮白雪姬",
+        "红发的白雪公主"
       ],
       "en": [
         "Raw Anime Q Transformers: Kaette Kita Convoy no Nazo",
@@ -1238,6 +1320,12 @@
         "id": "PLuxqoToY7UciTo8QZlu64QPBL7CCeW52D",
         "begin": "2023-01-02T14:00:00.000Z",
         "broadcast": "R/2023-01-02T14:00:00.000Z/P1D"
+      },
+      {
+        "site": "gamer",
+        "id": "75275",
+        "begin": "2015-12-13T16:00:00.000Z",
+        "broadcast": "R/2015-12-13T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1272,7 +1360,9 @@
     "title": "のんのんびより りぴーと",
     "titleTranslate": {
       "zh-Hans": [
-        "悠哉日常大王 Repeat"
+        "悠哉日常大王 Repeat",
+        "悠哉日常大王 第二季",
+        "悠悠哉哉少女日和 Repeat"
       ],
       "en": [
         "Non Non Biyori Repeat"
@@ -1304,7 +1394,8 @@
     "title": "オーバーロード",
     "titleTranslate": {
       "zh-Hans": [
-        "OVERLORD"
+        "OVERLORD",
+        "不死者之王"
       ],
       "en": [
         "OVERLORD"
@@ -1471,7 +1562,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "魔物娘相伴的日常",
-        "魔物娘的同居日常"
+        "魔物娘的同居日常",
+        "魔物娘的相伴日常"
       ],
       "en": [
         "Monster Musume no Iru Nichijou",
@@ -1615,7 +1707,8 @@
     "title": "ビキニ・ウォリアーズ",
     "titleTranslate": {
       "zh-Hans": [
-        "比基尼勇士"
+        "比基尼勇士",
+        "比基尼战士"
       ],
       "en": [
         "Bikini Warriors",
@@ -1686,10 +1779,15 @@
     "title": "がっこうぐらし！",
     "titleTranslate": {
       "zh-Hans": [
-        "学园孤岛"
+        "学园孤岛",
+        "学校生活"
       ],
       "en": [
-        "Gakkou Gurashi"
+        "Gakkou Gurashi",
+        "SCHOOL-LIVE!"
+      ],
+      "zh-Hant": [
+        "學園孤島"
       ]
     },
     "type": "tv",
@@ -1726,6 +1824,12 @@
         "site": "nicovideo",
         "id": "gakkougurashi",
         "begin": "2015-07-09T16:00:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "71038",
+        "begin": "2015-12-13T16:00:00.000Z",
+        "broadcast": "R/2015-12-13T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1762,6 +1866,9 @@
       "zh-Hans": [
         "干物妹小埋",
         "干物妹！小埋"
+      ],
+      "zh-Hant": [
+        "我家有個魚乾妹"
       ],
       "en": [
         "Himouto! Umaru-chan",
@@ -1822,6 +1929,12 @@
         "site": "acfun",
         "id": "5025415",
         "begin": "2019-09-03T07:39:20.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "74560",
+        "begin": "2021-03-05T03:00:00.000Z",
+        "broadcast": "R/2021-03-05T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1866,10 +1979,16 @@
     "title": "監獄学園 プリズンスクール",
     "titleTranslate": {
       "zh-Hans": [
-        "监狱学园"
+        "监狱学园",
+        "绅士学园",
+        "监狱学院",
+        "绅士学院"
       ],
       "en": [
         "Prison Schoo"
+      ],
+      "zh-Hant": [
+        "監獄學園"
       ]
     },
     "type": "tv",
@@ -1886,6 +2005,12 @@
       {
         "site": "bangumi",
         "id": "110048"
+      },
+      {
+        "site": "gamer",
+        "id": "71954",
+        "begin": "2017-01-24T09:00:00.000Z",
+        "broadcast": "R/2017-01-24T09:00:00.000Z/P7D"
       }
     ]
   },
@@ -1983,13 +2108,17 @@
     "titleTranslate": {
       "zh-Hans": [
         "魔法少女☆伊莉雅 2wei Herz!",
-        "魔法少女伊莉雅 第3季"
+        "魔法少女伊莉雅 第3季",
+        "Fate/kaleid liner 魔法少女☆伊莉雅 2wei Herz!",
+        "Fate/kaleid liner 魔法少女☆伊莉雅 2WEI HERZ!（第三季）",
+        "Fate/kaleid liner 魔法少女伊莉雅 第二季续篇"
       ],
       "en": [
         "Fate/kaleid liner PRISMA ILLYA 2wei Herz!"
       ],
       "zh-Hant": [
-        "魔法少女☆伊莉雅 2wei！Herz"
+        "魔法少女☆伊莉雅 2wei！Herz",
+        "Fate/kaleid liner 魔法少女☆伊莉雅 2wei Herz！"
       ]
     },
     "type": "tv",
@@ -2027,6 +2156,12 @@
         "id": "PLxSscENEp7JjKvkZM_SA5vMvFSJaOpQ2m",
         "begin": "2020-03-28T16:00:00.000Z",
         "broadcast": "R/2020-03-28T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "72677",
+        "begin": "2023-03-31T02:00:00.000Z",
+        "broadcast": "R/2023-03-31T02:00:00.000Z/P7D"
       }
     ]
   },

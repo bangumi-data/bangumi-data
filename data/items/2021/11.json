@@ -105,5 +105,35 @@
         "comment": "粵語版: 461120"
       }
     ]
+  },
+  {
+    "title": "薄桜鬼 OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "薄樱鬼 OVA"
+      ],
+      "zh-Hant": [
+        "薄櫻鬼 OVA",
+        "薄櫻鬼 新OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://www.nbcuni.co.jp/anime/hakuoki/",
+    "begin": "2021-11-12T16:00:00.000Z",
+    "end": "2022-01-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "349519"
+      },
+      {
+        "site": "gamer",
+        "id": "118479",
+        "begin": "2021-11-13T04:00:00.000Z",
+        "broadcast": "R/2021-11-13T04:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

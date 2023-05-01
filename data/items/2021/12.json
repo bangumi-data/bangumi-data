@@ -39,6 +39,12 @@
         "id": "1DuIg0wour9D",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "115835",
+        "begin": "2021-12-05T15:45:00.000Z",
+        "broadcast": "R/2021-12-05T15:45:00.000Z/P7D"
       }
     ]
   },
@@ -66,7 +72,8 @@
         "魔法科高校的劣等生 追忆篇"
       ],
       "zh-Hant": [
-        "魔法科高中的劣等生: 追憶篇"
+        "魔法科高中的劣等生: 追憶篇",
+        "魔法科高中的劣等生 追憶篇"
       ]
     },
     "type": "tv",
@@ -85,6 +92,12 @@
         "id": "416948",
         "begin": "2021-12-31T16:00:00.000Z",
         "broadcast": "R/2021-12-31T16:00:00.000Z/P0D"
+      },
+      {
+        "site": "gamer",
+        "id": "120950",
+        "begin": "2021-12-31T16:30:00.000Z",
+        "broadcast": "R/2021-12-31T16:30:00.000Z/P7D"
       }
     ]
   },
@@ -118,6 +131,122 @@
         "id": "81602834",
         "begin": "2022-09-20T16:00:00.000Z",
         "broadcast": "R/2022-09-20T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ロード・エルメロイⅡ世の事件簿 -魔眼蒐集列車 特別編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "君主·埃尔梅罗二世事件簿 魔眼收集列车 特别篇"
+      ],
+      "zh-Hant": [
+        "艾梅洛閣下 II 世事件簿 -魔眼蒐集列車 Grace note- 特別篇"
+      ],
+      "en": [
+        "Lord El-Melloi II-sei no Jikenbo: \"Rail Zeppelin\" Grace note"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://anime.elmelloi.com/",
+    "begin": "2021-12-30T16:00:00.000Z",
+    "end": "2021-12-30T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "340842"
+      },
+      {
+        "site": "gamer",
+        "id": "121152",
+        "begin": "2021-12-31T14:30:00.000Z",
+        "broadcast": "R/2021-12-31T14:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ARIA The BENEDIZIONE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "水星领航员 The BENEDIZIONE"
+      ],
+      "zh-Hant": [
+        "水星領航員 ARIA The BENEDIZIONE"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://ariacompany.net",
+    "begin": "2021-12-02T16:00:00.000Z",
+    "end": "2021-12-02T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "329948"
+      },
+      {
+        "site": "gamer",
+        "id": "116200",
+        "begin": "2022-07-27T04:00:00.000Z",
+        "broadcast": "R/2022-07-27T04:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ギヴン うらがわの存在",
+    "titleTranslate": {
+      "zh-Hans": [
+        "GIVEN 内侧的存在"
+      ],
+      "zh-Hant": [
+        "GIVEN 被贈與的未來 劇場版：反面的存在"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://given-anime.com/oad/",
+    "begin": "2021-12-01T16:00:00.000Z",
+    "end": "2021-12-01T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "337433"
+      },
+      {
+        "site": "gamer",
+        "id": "120753",
+        "begin": "2022-06-24T04:00:00.000Z",
+        "broadcast": "R/2022-06-24T04:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ガールズ&パンツァー 最終章 第3話",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少女与战车 最终章 第3话"
+      ],
+      "zh-Hant": [
+        "少女與戰車 最終章 第3話"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://girls-und-panzer-finale.jp",
+    "begin": "2021-12-23T16:00:00.000Z",
+    "end": "2021-12-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "208826"
+      },
+      {
+        "site": "gamer",
+        "id": "115483",
+        "begin": "2022-12-23T04:00:00.000Z",
+        "broadcast": "R/2022-12-23T04:00:00.000Z/P7D"
       }
     ]
   }
