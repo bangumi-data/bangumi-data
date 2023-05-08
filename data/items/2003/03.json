@@ -80,7 +80,8 @@
       {
         "site": "bilibili",
         "id": "2567",
-        "begin": "2003-03-07T16:00:00.000Z"
+        "begin": "2003-03-07T16:00:00.000Z",
+        "broadcast": "R/2015-05-16T07:26:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -115,7 +116,8 @@
       {
         "site": "bilibili",
         "id": "3408",
-        "begin": "2003-03-18T16:00:01.000Z"
+        "begin": "2003-03-18T16:00:01.000Z",
+        "broadcast": "R/2016-03-09T04:10:00.000Z/P7D"
       }
     ]
   },
@@ -140,6 +142,31 @@
         "site": "pptv",
         "id": "yvicJR68VhcMmpAw",
         "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "遙かなる時空の中で2 〜白き龍の神子〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "遥远时空中2 白龙之神子"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2003-03-25T16:00:00.000Z",
+    "end": "2005-02-01T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1946"
+      },
+      {
+        "site": "bilibili",
+        "id": "3415",
+        "begin": "2016-03-09T09:53:00.000Z",
+        "broadcast": "R/2016-03-09T09:53:00.000Z/P7D"
       }
     ]
   }

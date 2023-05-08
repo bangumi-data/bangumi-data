@@ -47,6 +47,12 @@
         "id": "19171",
         "begin": "2019-07-24T09:00:00.000Z",
         "broadcast": "R/2019-07-24T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "2416",
+        "begin": "2020-04-26T09:57:00.000Z",
+        "broadcast": "R/2020-04-26T09:57:00.000Z/P7D"
       }
     ]
   },
@@ -80,7 +86,8 @@
       {
         "site": "bilibili",
         "id": "2418",
-        "begin": "1987-04-05T16:00:00.000Z"
+        "begin": "1987-04-05T16:00:00.000Z",
+        "broadcast": "R/2010-09-16T17:17:00.000Z/P7D"
       }
     ]
   },
@@ -128,7 +135,8 @@
       {
         "site": "bilibili",
         "id": "2412",
-        "begin": "1987-04-06T16:00:00.000Z"
+        "begin": "1987-04-06T16:00:00.000Z",
+        "broadcast": "R/2013-08-04T04:20:00.000Z/P7D"
       }
     ]
   },
@@ -153,6 +161,37 @@
       {
         "site": "bangumi",
         "id": "57567"
+      }
+    ]
+  },
+  {
+    "title": "タッチ3 君が通り過ぎたあとに -DON`T PASS ME BY-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "棒球英豪3 在你离开之后",
+        "棒球英豪 剧场版",
+        "邻家女孩剧场版 在你离开之后"
+      ],
+      "en": [
+        "Touch 3: Kimi ga Toorisugita Ato Ni -Don't Pass Me By-",
+        "Touch 3: After You Passed By"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-04-10T16:00:00.000Z",
+    "end": "1987-04-10T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "18047"
+      },
+      {
+        "site": "bilibili",
+        "id": "2426",
+        "begin": "2013-02-25T15:50:34.000Z",
+        "broadcast": "R/2013-02-25T15:50:34.000Z/P7D"
       }
     ]
   }

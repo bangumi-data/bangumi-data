@@ -52,7 +52,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "新世纪福音战士剧场版：序",
-        "福音战士新剧场版：序"
+        "福音战士新剧场版：序",
+        "EVA 新世纪福音战士新剧场版1.11：序"
       ]
     },
     "type": "movie",
@@ -84,6 +85,12 @@
         "site": "youku",
         "id": "ef277d8e61ad11e0bea1",
         "begin": "2020-04-26T08:15:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "10332",
+        "begin": "2017-10-06T13:36:00.000Z",
+        "broadcast": "R/2017-10-06T13:36:00.000Z/P7D"
       }
     ]
   },
@@ -112,7 +119,8 @@
       {
         "site": "bilibili",
         "id": "3151",
-        "begin": "2007-09-29T16:00:00.000Z"
+        "begin": "2007-09-29T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -163,6 +171,38 @@
         "site": "nicovideo",
         "id": "movie-kiddygrade-reimeihen",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "4011",
+        "begin": "2016-05-18T06:16:00.000Z",
+        "broadcast": "R/2016-05-18T06:16:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ポケモン不思議のダンジョン 時の探検隊・闇の探検隊",
+    "titleTranslate": {
+      "zh-Hans": [
+        "神奇宝贝不可思议的迷宫 时之探险队・暗之探险队"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2007-09-08T16:00:00.000Z",
+    "end": "2007-09-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "99953"
+      },
+      {
+        "site": "bilibili",
+        "id": "4773",
+        "begin": "2016-06-14T02:46:00.000Z",
+        "broadcast": "R/2016-06-14T02:46:00.000Z/P7D"
       }
     ]
   }

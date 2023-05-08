@@ -58,7 +58,8 @@
       {
         "site": "bilibili",
         "id": "2340",
-        "begin": "1992-02-08T16:00:00.000Z"
+        "begin": "1992-02-08T16:00:00.000Z",
+        "broadcast": "R/2014-07-05T09:15:00.000Z/P7D"
       }
     ]
   },
@@ -79,6 +80,38 @@
       {
         "site": "bangumi",
         "id": "39532"
+      },
+      {
+        "site": "bilibili",
+        "id": "3992",
+        "begin": "2016-05-16T04:00:00.000Z",
+        "broadcast": "R/2016-05-16T04:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "魔動王グランゾート 冒険編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔动王 冒险篇"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-02-26T16:00:00.000Z",
+    "end": "1992-06-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "25422"
+      },
+      {
+        "site": "bilibili",
+        "id": "3815",
+        "begin": "2016-04-20T06:53:00.000Z",
+        "broadcast": "R/2016-04-20T06:53:00.000Z/P7D"
       }
     ]
   }

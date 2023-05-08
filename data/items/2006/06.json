@@ -29,7 +29,8 @@
       {
         "site": "bilibili",
         "id": "3318",
-        "begin": "2006-06-28T16:00:01.000Z"
+        "begin": "2006-06-28T16:00:01.000Z",
+        "broadcast": "R/2016-01-28T03:03:00.000Z/P7D"
       }
     ]
   },
@@ -65,7 +66,8 @@
       {
         "site": "bilibili",
         "id": "1434",
-        "begin": "2006-06-28T16:00:00.000Z"
+        "begin": "2006-06-28T16:00:00.000Z",
+        "broadcast": "R/2009-11-09T17:03:00.000Z/P7D"
       }
     ]
   },
@@ -122,6 +124,32 @@
         "site": "nicovideo",
         "id": "flag",
         "begin": "2012-03-28T06:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "銀河鉄道の夜 -Fantasy Railroad in the Stars-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河铁道之夜",
+        "银河铁道之夜 2006"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2006-06-16T16:00:00.000Z",
+    "end": "2006-06-16T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "25400"
+      },
+      {
+        "site": "bilibili",
+        "id": "3053",
+        "begin": "2015-11-24T15:43:00.000Z",
+        "broadcast": "R/2015-11-24T15:43:00.000Z/P7D"
       }
     ]
   }

@@ -44,7 +44,8 @@
       {
         "site": "bilibili",
         "id": "2481",
-        "begin": "1973-07-01T16:00:00.000Z"
+        "begin": "1973-07-01T16:00:00.000Z",
+        "broadcast": "R/2011-05-02T05:03:46.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -69,6 +70,31 @@
       {
         "site": "bangumi",
         "id": "213784"
+      }
+    ]
+  },
+  {
+    "title": "ゲッターロボ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "盖塔机器人"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1974-04-03T16:00:00.000Z",
+    "end": "1975-05-07T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10405"
+      },
+      {
+        "site": "bilibili",
+        "id": "2352",
+        "begin": "2014-06-02T16:49:00.000Z",
+        "broadcast": "R/2014-06-02T16:49:00.000Z/P7D"
       }
     ]
   }

@@ -71,7 +71,8 @@
       {
         "site": "bilibili",
         "id": "981",
-        "begin": "2010-06-30T16:00:00.000Z"
+        "begin": "2010-06-30T16:00:00.000Z",
+        "broadcast": "R/2010-07-01T07:50:00.000Z/P7D"
       },
       {
         "site": "letv",
@@ -106,7 +107,8 @@
       {
         "site": "bilibili",
         "id": "815",
-        "begin": "2010-07-01T16:00:00.000Z"
+        "begin": "2010-07-01T16:00:00.000Z",
+        "broadcast": "R/2011-03-26T03:13:00.000Z/P7D"
       }
     ]
   },
@@ -170,7 +172,8 @@
       {
         "site": "bilibili",
         "id": "984",
-        "begin": "2010-06-30T16:00:00.000Z"
+        "begin": "2010-06-30T16:00:00.000Z",
+        "broadcast": "R/2010-07-02T10:47:00.000Z/P7D"
       }
     ]
   },
@@ -217,7 +220,9 @@
       {
         "site": "bilibili",
         "id": "899",
-        "begin": ""
+        "begin": "2019-10-16T09:52:00.000Z",
+        "broadcast": "R/2019-10-16T09:52:00.000Z/P7D",
+        "comment": "中文: 2836"
       },
       {
         "site": "bangumi",
@@ -344,7 +349,8 @@
       {
         "site": "bilibili",
         "id": "1591",
-        "begin": "2010-07-10T16:00:00.000Z"
+        "begin": "2010-07-10T16:00:00.000Z",
+        "broadcast": "R/2011-11-14T16:27:52.000Z/P7D"
       }
     ]
   },
@@ -380,7 +386,8 @@
       {
         "site": "bilibili",
         "id": "949",
-        "begin": "2010-07-01T16:00:00.000Z"
+        "begin": "2010-07-01T16:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "youku",
@@ -420,7 +427,8 @@
       {
         "site": "bilibili",
         "id": "4642",
-        "begin": "2010-07-01T16:00:01.000Z"
+        "begin": "2010-07-01T16:00:01.000Z",
+        "broadcast": "R/2017-02-03T06:44:00.000Z/P7D"
       }
     ]
   },
@@ -455,7 +463,8 @@
       {
         "site": "bilibili",
         "id": "8312",
-        "begin": "2010-06-30T16:00:01.000Z"
+        "begin": "2010-06-30T16:00:01.000Z",
+        "broadcast": "R/2017-11-17T05:57:32.000Z/P7D"
       },
       {
         "site": "qq",
@@ -576,7 +585,8 @@
       {
         "site": "bilibili",
         "id": "936",
-        "begin": "2010-07-04T16:00:00.000Z"
+        "begin": "2010-07-04T16:00:00.000Z",
+        "broadcast": "R/2013-11-24T15:50:00.000Z/P7D"
       }
     ]
   },
@@ -640,7 +650,8 @@
       {
         "site": "bilibili",
         "id": "5745",
-        "begin": "2010-07-09T16:00:01.000Z"
+        "begin": "2010-07-09T16:00:01.000Z",
+        "broadcast": "R/2016-12-06T09:14:16.000Z/P7D"
       }
     ]
   },
@@ -880,6 +891,58 @@
         "id": "70216227",
         "begin": "2020-02-28T16:00:00.000Z",
         "broadcast": "R/2020-02-28T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ブラック★ロックシューター",
+    "titleTranslate": {
+      "zh-Hans": [
+        "黑岩射手",
+        "BLACK★ROCK SHOOTER OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.blackrockshooter.jp/",
+    "begin": "2010-07-23T16:00:00.000Z",
+    "end": "2010-07-23T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "2453"
+      },
+      {
+        "site": "bilibili",
+        "id": "1666",
+        "begin": "2010-07-24T22:24:48.000Z",
+        "broadcast": "R/2010-07-24T22:24:48.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "くるねこ Season2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "来来猫 第二季",
+        "佝偻猫 第二季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://kuruneko.fc.yahoo.co.jp",
+    "begin": "2010-07-02T16:00:00.000Z",
+    "end": "2011-07-01T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "6756"
+      },
+      {
+        "site": "bilibili",
+        "id": "3351",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

@@ -194,7 +194,8 @@
       {
         "site": "bilibili",
         "id": "28226009",
-        "begin": "2020-04-30T16:00:00.000Z"
+        "begin": "2020-04-30T16:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "youku",
@@ -206,6 +207,12 @@
         "id": "104647",
         "begin": "2020-08-25T09:00:00.000Z",
         "broadcast": "R/2020-08-25T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28340506",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -230,7 +237,8 @@
       {
         "site": "bilibili",
         "id": "28228384",
-        "begin": "2020-03-18T16:00:00.000Z"
+        "begin": "2020-03-18T16:00:00.000Z",
+        "broadcast": "R/2020-03-20T10:56:00.000Z/P7D"
       }
     ]
   },
@@ -271,7 +279,8 @@
         "银河英雄传说 Die Neue These 星乱 第3章"
       ],
       "zh-Hant": [
-        "銀河英雄傳說 Die Neue These 星亂"
+        "銀河英雄傳說 Die Neue These 星亂",
+        "銀河英雄傳說：全新命題 星亂"
       ]
     },
     "type": "movie",
@@ -288,13 +297,20 @@
       {
         "site": "bilibili",
         "id": "28222724",
-        "begin": "2019-09-26T16:00:00.000Z"
+        "begin": "2019-09-26T16:00:00.000Z",
+        "broadcast": "R/2019-09-27T12:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "104025",
         "begin": "2022-12-16T03:00:00.000Z",
         "broadcast": "R/2022-12-16T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28222814",
+        "begin": "2019-09-27T12:01:33.000Z",
+        "broadcast": "R/2019-09-27T12:01:33.000Z/P7D"
       }
     ]
   },
@@ -325,7 +341,8 @@
       {
         "site": "bilibili",
         "id": "28229026",
-        "begin": "2020-05-27T16:00:00.000Z"
+        "begin": "2020-05-27T16:00:00.000Z",
+        "broadcast": "R/2020-05-28T10:06:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -339,7 +356,8 @@
     "title": "RWBY Volume 7",
     "titleTranslate": {
       "zh-Hans": [
-        "红白黑黄 第七季"
+        "红白黑黄 第七季",
+        "四色战记 / RWBY 第七季"
       ]
     },
     "type": "web",
@@ -352,6 +370,12 @@
       {
         "site": "bangumi",
         "id": "285936"
+      },
+      {
+        "site": "bilibili",
+        "id": "20143126",
+        "begin": "2023-03-30T10:00:01.000Z",
+        "broadcast": "R/2023-03-30T10:00:01.000Z/P7D"
       }
     ]
   },
@@ -404,6 +428,32 @@
         "id": "80216180",
         "begin": "2019-11-22T00:00:00.000Z",
         "broadcast": "R/2019-11-22T00:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "HUMAN LOST 人間失格",
+    "titleTranslate": {
+      "zh-Hans": [
+        "HUMAN LOST 人间失格"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://human-lost.jp/",
+    "begin": "2019-11-28T16:00:00.000Z",
+    "end": "2019-11-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "278768"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234059",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

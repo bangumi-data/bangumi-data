@@ -43,7 +43,8 @@
       {
         "site": "bilibili",
         "id": "3292",
-        "begin": "2009-12-28T16:00:01.000Z"
+        "begin": "2009-12-28T16:00:01.000Z",
+        "broadcast": "R/2016-01-14T08:58:00.000Z/P7D"
       }
     ]
   },
@@ -111,6 +112,83 @@
         "site": "nicovideo",
         "id": "ch313",
         "begin": "2010-01-26T07:32:57.000Z"
+      }
+    ]
+  },
+  {
+    "title": "“文学少女”今日のおやつ 〜はつ恋〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "文学少女 今日的点心～初恋～",
+        "文学少女OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2009-12-25T16:00:00.000Z",
+    "end": "2009-12-25T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3780"
+      },
+      {
+        "site": "bilibili",
+        "id": "3769",
+        "begin": "2016-04-18T03:09:00.000Z",
+        "broadcast": "R/2016-04-18T03:09:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "レイトン教授と永遠の歌姫",
+    "titleTranslate": {
+      "zh-Hans": [
+        "雷顿教授与永远的歌姬"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2009-12-18T16:00:00.000Z",
+    "end": "2009-12-18T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "2128"
+      },
+      {
+        "site": "bilibili",
+        "id": "5472",
+        "begin": "2016-08-25T02:06:00.000Z",
+        "broadcast": "R/2016-08-25T02:06:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "宇宙戦艦ヤマト 復活篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战舰大和号 复活编",
+        "宇宙战舰大和号 复活篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://yamato2009.jp/index.html",
+    "begin": "2009-12-11T16:00:00.000Z",
+    "end": "2009-12-11T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3483"
+      },
+      {
+        "site": "bilibili",
+        "id": "4023",
+        "begin": "2016-05-20T03:15:00.000Z",
+        "broadcast": "R/2016-05-20T03:15:00.000Z/P7D"
       }
     ]
   }

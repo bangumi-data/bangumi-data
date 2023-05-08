@@ -3,7 +3,9 @@
     "title": "D・N・A2 ～何処かで失くしたあいつのアイツ～",
     "titleTranslate": {
       "zh-Hans": [
-        "再造基因"
+        "D·N·A² ~他到底失去了什么？~",
+        "再造基因",
+        "DNA²"
       ]
     },
     "type": "tv",
@@ -15,6 +17,12 @@
       {
         "site": "bangumi",
         "id": "3751"
+      },
+      {
+        "site": "bilibili",
+        "id": "7912",
+        "begin": "2017-11-01T10:10:00.000Z",
+        "broadcast": "R/2017-11-01T10:10:00.000Z/P7D"
       }
     ]
   },
@@ -104,7 +112,8 @@
       {
         "site": "bilibili",
         "id": "2325",
-        "begin": "1994-10-16T16:00:00.000Z"
+        "begin": "1994-10-16T16:00:00.000Z",
+        "broadcast": "R/2014-08-04T11:30:00.000Z/P7D"
       }
     ]
   },
@@ -138,7 +147,8 @@
       {
         "site": "bilibili",
         "id": "2326",
-        "begin": "1994-10-12T16:00:00.000Z"
+        "begin": "1994-10-12T16:00:00.000Z",
+        "broadcast": "R/2013-03-14T00:47:10.000Z/P7D"
       }
     ]
   },
@@ -182,6 +192,32 @@
         "site": "pptv",
         "id": "0H1Ixia6UBEKlI4s",
         "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "BLUE SEED",
+    "titleTranslate": {
+      "zh-Hans": [
+        "碧奇魂",
+        "种子特务"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-10-04T16:00:00.000Z",
+    "end": "1995-03-28T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "38938"
+      },
+      {
+        "site": "bilibili",
+        "id": "129332",
+        "begin": "2018-08-31T04:12:00.000Z",
+        "broadcast": "R/2018-08-31T04:12:00.000Z/P7D"
       }
     ]
   }

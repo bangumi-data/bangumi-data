@@ -18,7 +18,11 @@
     "title": "犬夜叉 時代を越える想い",
     "titleTranslate": {
       "zh-Hans": [
-        "犬夜叉 穿越时空的思念"
+        "犬夜叉 穿越时空的思念",
+        "犬夜叉剧场版 穿越时空的思念"
+      ],
+      "zh-Hant": [
+        "犬夜叉劇場版 穿越時空的思念"
       ],
       "en": [
         "InuYasha: Affections Touching Across Time"
@@ -53,6 +57,18 @@
         "site": "netflix",
         "id": "70012316",
         "begin": "2017-09-01T07:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339208",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28339205",
+        "begin": "",
         "broadcast": ""
       }
     ]
@@ -90,7 +106,8 @@
       {
         "site": "bilibili",
         "id": "3910",
-        "begin": "2001-12-21T16:00:01.000Z"
+        "begin": "2001-12-21T16:00:01.000Z",
+        "broadcast": "R/2019-05-13T05:01:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -140,6 +157,12 @@
         "id": "24344",
         "begin": "2021-06-17T08:00:00.000Z",
         "broadcast": "R/2021-06-17T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229023",
+        "begin": "2020-06-05T08:33:00.000Z",
+        "broadcast": "R/2020-06-05T08:33:00.000Z/P7D"
       }
     ]
   },
@@ -198,7 +221,62 @@
       {
         "site": "bilibili",
         "id": "3411",
-        "begin": "2001-12-21T16:00:01.000Z"
+        "begin": "2001-12-21T16:00:01.000Z",
+        "broadcast": "R/2016-03-09T04:42:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ポケットモンスタークリスタル ライコウ雷の伝説",
+    "titleTranslate": {
+      "zh-Hans": [
+        "精灵宝可梦：雷公 雷的传说",
+        "水晶版 雷公 雷的传说",
+        "神奇宝贝：雷公·雷之传说",
+        "神奇宝贝：雷皇·雷之传说",
+        "宠物小精灵之雷神传说"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-12-29T16:00:00.000Z",
+    "end": "2001-12-29T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "27886"
+      },
+      {
+        "site": "bilibili",
+        "id": "5272",
+        "begin": "2016-07-21T03:56:00.000Z",
+        "broadcast": "R/2016-07-21T03:56:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "完全勝利ダイテイオー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "完全胜利大帝王"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-12-21T16:00:00.000Z",
+    "end": "2001-12-21T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "93200"
+      },
+      {
+        "site": "bilibili",
+        "id": "5274",
+        "begin": "2016-07-21T06:08:00.000Z",
+        "broadcast": "R/2016-07-21T06:08:00.000Z/P7D"
       }
     ]
   }

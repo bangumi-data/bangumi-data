@@ -68,7 +68,8 @@
       {
         "site": "bilibili",
         "id": "3258",
-        "begin": "2010-04-21T16:00:01.000Z"
+        "begin": "2010-04-21T16:00:01.000Z",
+        "broadcast": "R/2016-01-05T03:45:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -104,6 +105,12 @@
         "site": "nicovideo",
         "id": "k-on_anime2",
         "begin": "2018-12-27T15:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28220984",
+        "begin": "2019-05-13T10:00:00.000Z",
+        "broadcast": "R/2019-05-13T10:00:00.000Z/P7D"
       }
     ]
   },
@@ -160,7 +167,8 @@
       {
         "site": "bilibili",
         "id": "866",
-        "begin": "2010-04-04T14:00:00.000Z"
+        "begin": "2010-04-04T14:00:00.000Z",
+        "broadcast": "R/2017-11-14T23:02:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -219,7 +227,8 @@
       {
         "site": "bilibili",
         "id": "3248",
-        "begin": "2010-04-14T16:00:01.000Z"
+        "begin": "2010-04-14T16:00:01.000Z",
+        "broadcast": "R/2015-12-30T05:54:41.000Z/P7D"
       },
       {
         "site": "letv",
@@ -298,7 +307,8 @@
       {
         "site": "bilibili",
         "id": "969",
-        "begin": "2010-04-01T16:00:00.000Z"
+        "begin": "2010-04-01T16:00:00.000Z",
+        "broadcast": "R/2018-09-06T10:25:00.000Z/P7D"
       }
     ]
   },
@@ -333,7 +343,8 @@
       {
         "site": "bilibili",
         "id": "1016",
-        "begin": "2010-03-31T16:00:00.000Z"
+        "begin": "2010-03-31T16:00:00.000Z",
+        "broadcast": "R/2018-09-07T09:36:00.000Z/P7D"
       }
     ]
   },
@@ -362,7 +373,8 @@
       {
         "site": "bilibili",
         "id": "1020",
-        "begin": "2010-04-03T16:00:00.000Z"
+        "begin": "2010-04-03T16:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "letv",
@@ -420,7 +432,8 @@
       {
         "site": "bilibili",
         "id": "959",
-        "begin": ""
+        "begin": "2011-01-20T16:41:00.000Z",
+        "broadcast": "R/2011-01-20T16:41:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -487,7 +500,8 @@
       {
         "site": "bilibili",
         "id": "761",
-        "begin": "2010-04-02T16:00:00.000Z"
+        "begin": "2010-04-02T16:00:00.000Z",
+        "broadcast": "R/2010-04-04T08:43:35.000Z/P7D"
       },
       {
         "site": "letv",
@@ -540,7 +554,8 @@
       {
         "site": "bilibili",
         "id": "978",
-        "begin": "2010-04-03T16:00:00.000Z"
+        "begin": "2010-04-03T16:00:00.000Z",
+        "broadcast": "R/2010-04-05T08:35:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -604,7 +619,8 @@
       {
         "site": "bilibili",
         "id": "123",
-        "begin": "2010-04-02T16:00:00.000Z"
+        "begin": "2010-04-02T16:00:00.000Z",
+        "broadcast": "R/2011-02-25T12:59:00.000Z/P7D"
       }
     ]
   },
@@ -644,7 +660,8 @@
       {
         "site": "bilibili",
         "id": "1021",
-        "begin": "2010-04-10T16:00:00.000Z"
+        "begin": "2010-04-10T16:00:00.000Z",
+        "broadcast": "R/2012-11-13T07:49:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -684,7 +701,9 @@
       {
         "site": "bilibili",
         "id": "1026",
-        "begin": "2010-03-31T16:00:00.000Z"
+        "begin": "2010-03-31T16:00:00.000Z",
+        "broadcast": "R/2012-06-09T02:11:00.000Z/P7D",
+        "comment": "短篇: 5766, 中配版: 28228873"
       },
       {
         "site": "qq",
@@ -805,7 +824,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "SD高达三国传",
-        "SD敢达三国传"
+        "SD敢达三国传",
+        "SD高达三国传 Brave Battle Warriors"
       ]
     },
     "type": "tv",
@@ -827,6 +847,12 @@
       {
         "site": "bangumi",
         "id": "4294"
+      },
+      {
+        "site": "bilibili",
+        "id": "4680",
+        "begin": "2017-04-01T03:41:29.000Z",
+        "broadcast": "R/2017-04-01T03:41:29.000Z/P7D"
       }
     ]
   },
@@ -891,7 +917,9 @@
       {
         "site": "bilibili",
         "id": "28228780",
-        "begin": "2020-04-29T16:00:00.000Z"
+        "begin": "2020-04-29T16:00:00.000Z",
+        "broadcast": "R/2020-04-30T11:01:00.000Z/P7D",
+        "comment": "中配: 28228792"
       }
     ]
   },
@@ -920,7 +948,8 @@
       {
         "site": "bilibili",
         "id": "3980",
-        "begin": "2010-04-01T16:00:01.000Z"
+        "begin": "2010-04-01T16:00:01.000Z",
+        "broadcast": "R/2016-05-11T03:35:00.000Z/P7D"
       },
       {
         "site": "letv",
@@ -988,7 +1017,8 @@
       {
         "site": "bilibili",
         "id": "14512",
-        "begin": "2010-04-16T16:00:01.000Z"
+        "begin": "2010-04-16T16:00:01.000Z",
+        "broadcast": "R/2017-12-13T16:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -1037,7 +1067,8 @@
       {
         "site": "bilibili",
         "id": "28228956",
-        "begin": "2020-05-21T16:00:00.000Z"
+        "begin": "2020-05-21T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -1066,7 +1097,85 @@
       {
         "site": "bilibili",
         "id": "3391",
-        "begin": "2010-04-22T16:00:01.000Z"
+        "begin": "2010-04-22T16:00:01.000Z",
+        "broadcast": "R/2016-03-08T05:46:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "スーパーストリートファイターIV",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超级街头霸王4",
+        "超级街霸4 OVA 朱莉传"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2010-04-23T16:00:00.000Z",
+    "end": "2010-04-23T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "72906"
+      },
+      {
+        "site": "bilibili",
+        "id": "4653",
+        "begin": "2016-06-12T03:41:00.000Z",
+        "broadcast": "R/2016-06-12T03:41:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "TRIGUN Badlands Rumble",
+    "titleTranslate": {
+      "zh-Hans": [
+        "枪神 Badlands Rumble",
+        "枪神剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.trigun-movie.com",
+    "begin": "2010-04-23T16:00:00.000Z",
+    "end": "2010-04-23T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10782"
+      },
+      {
+        "site": "bilibili",
+        "id": "4686",
+        "begin": "2016-10-08T02:37:00.000Z",
+        "broadcast": "R/2016-10-08T02:37:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "GA 芸術科アートデザインクラス OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "GA 艺术科美术设计班 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://mv.avex.jp/ga/",
+    "begin": "2010-04-01T16:00:00.000Z",
+    "end": "2010-04-01T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "4473"
+      },
+      {
+        "site": "bilibili",
+        "id": "3005",
+        "begin": "2015-11-14T12:12:00.000Z",
+        "broadcast": "R/2015-11-14T12:12:00.000Z/P7D"
       }
     ]
   }

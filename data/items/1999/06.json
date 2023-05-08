@@ -36,7 +36,8 @@
       {
         "site": "bilibili",
         "id": "2238",
-        "begin": "1999-06-29T16:00:00.000Z"
+        "begin": "1999-06-29T16:00:00.000Z",
+        "broadcast": "R/2010-06-16T07:40:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -67,6 +68,31 @@
       {
         "site": "bangumi",
         "id": "2062"
+      }
+    ]
+  },
+  {
+    "title": "ときめきメモリアル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "心跳回忆"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-06-25T16:00:00.000Z",
+    "end": "1999-10-07T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "49568"
+      },
+      {
+        "site": "bilibili",
+        "id": "5358",
+        "begin": "2016-07-26T02:36:00.000Z",
+        "broadcast": "R/2016-07-26T02:36:00.000Z/P7D"
       }
     ]
   }

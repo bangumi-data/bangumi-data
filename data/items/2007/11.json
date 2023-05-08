@@ -43,7 +43,8 @@
       {
         "site": "bilibili",
         "id": "2854",
-        "begin": "2007-11-15T16:00:00.000Z"
+        "begin": "2007-11-15T16:00:00.000Z",
+        "broadcast": "R/2015-10-15T16:18:00.000Z/P7D"
       },
       {
         "site": "letv",
@@ -54,7 +55,11 @@
   },
   {
     "title": "Candy☆Boy",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "Candy☆Boy OVA"
+      ]
+    },
     "type": "web",
     "lang": "ja",
     "officialSite": "",
@@ -69,6 +74,12 @@
         "site": "nicovideo",
         "id": "ch157",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3771",
+        "begin": "2016-04-18T03:50:00.000Z",
+        "broadcast": "R/2016-04-18T03:50:00.000Z/P7D"
       }
     ]
   },

@@ -69,7 +69,8 @@
       {
         "site": "bilibili",
         "id": "2338",
-        "begin": "1992-10-09T16:00:00.000Z"
+        "begin": "1992-10-09T16:00:00.000Z",
+        "broadcast": "R/2021-01-13T09:06:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -153,6 +154,31 @@
       {
         "site": "bangumi",
         "id": "3390"
+      }
+    ]
+  },
+  {
+    "title": "幻想叙譚エルシア",
+    "titleTranslate": {
+      "zh-Hans": [
+        "幻想叙谭艾尔西亚"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-10-22T16:00:00.000Z",
+    "end": "1994-04-21T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37667"
+      },
+      {
+        "site": "bilibili",
+        "id": "5452",
+        "begin": "2016-08-18T02:05:00.000Z",
+        "broadcast": "R/2016-08-18T02:05:00.000Z/P7D"
       }
     ]
   }

@@ -190,5 +190,56 @@
         "broadcast": "R/2021-08-06T07:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "劇場版 ヤッターマン 新ヤッターメカ大集合! オモチャの国で大決戦だコロン!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 小双侠 新双侠机械大集合！玩具国大决战，骰子！",
+        "小双侠 新双侠机械大集合！玩具国大决战，骰子！"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.yattereiga.com/",
+    "begin": "2009-08-21T16:00:00.000Z",
+    "end": "2009-08-21T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "147202"
+      },
+      {
+        "site": "bilibili",
+        "id": "28220881",
+        "begin": "2019-05-05T04:13:26.000Z",
+        "broadcast": "R/2019-05-05T04:13:26.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "のだめカンタービレ OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "交响情人梦 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2009-08-09T16:00:00.000Z",
+    "end": "2010-04-25T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10162"
+      },
+      {
+        "site": "bilibili",
+        "id": "3835",
+        "begin": "2016-04-25T03:36:00.000Z",
+        "broadcast": "R/2016-04-25T03:36:00.000Z/P7D"
+      }
+    ]
   }
 ]

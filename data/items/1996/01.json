@@ -57,7 +57,9 @@
       {
         "site": "bilibili",
         "id": "28228775",
-        "begin": "2009-04-18T11:30:00.000Z"
+        "begin": "2009-04-18T11:30:00.000Z",
+        "broadcast": "",
+        "comment": "中配: 28228813"
       },
       {
         "site": "mgtv",
@@ -110,6 +112,13 @@
       {
         "site": "bangumi",
         "id": "9567"
+      },
+      {
+        "site": "bilibili",
+        "id": "2271",
+        "begin": "2010-11-09T03:30:00.000Z",
+        "broadcast": "R/2010-11-09T03:30:00.000Z/P7D",
+        "comment": "中文"
       }
     ]
   },
@@ -160,7 +169,9 @@
       {
         "site": "bilibili",
         "id": "2303",
-        "begin": "1996-01-09T16:00:00.000Z"
+        "begin": "1996-01-09T16:00:00.000Z",
+        "broadcast": "R/2020-06-05T03:41:00.000Z/P7D",
+        "comment": "中配: 5412"
       },
       {
         "site": "gamer",
@@ -200,6 +211,12 @@
         "site": "letv",
         "id": "10004313",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2496",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -254,6 +271,31 @@
       {
         "site": "bangumi",
         "id": "53741"
+      }
+    ]
+  },
+  {
+    "title": "バケツでごはん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "企鹅掌门人"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-01-07T16:00:00.000Z",
+    "end": "1998-06-23T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "154123"
+      },
+      {
+        "site": "bilibili",
+        "id": "132152",
+        "begin": "2018-09-08T08:04:00.000Z",
+        "broadcast": "R/2018-09-08T08:04:00.000Z/P7D"
       }
     ]
   }

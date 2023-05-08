@@ -50,7 +50,59 @@
       {
         "site": "bilibili",
         "id": "2423",
-        "begin": "1985-07-15T16:00:00.000Z"
+        "begin": "1985-07-15T16:00:00.000Z",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "ルパン三世 バビロンの黄金伝説",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世 巴比伦的黄金传说",
+        "鲁邦三世：巴比伦黄金传说"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-07-12T16:00:00.000Z",
+    "end": "1985-07-12T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "67758"
+      },
+      {
+        "site": "bilibili",
+        "id": "3925",
+        "begin": "2016-05-04T02:58:00.000Z",
+        "broadcast": "R/2016-05-04T02:58:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "銀河鉄道の夜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河铁道之夜"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-07-12T16:00:00.000Z",
+    "end": "1985-07-12T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "19208"
+      },
+      {
+        "site": "bilibili",
+        "id": "3041",
+        "begin": "2015-11-18T01:39:00.000Z",
+        "broadcast": "R/2015-11-18T01:39:00.000Z/P7D"
       }
     ]
   }

@@ -24,7 +24,8 @@
       {
         "site": "bilibili",
         "id": "1051",
-        "begin": "2010-01-07T16:00:00.000Z"
+        "begin": "2010-01-07T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -83,7 +84,8 @@
       {
         "site": "bilibili",
         "id": "982",
-        "begin": "2010-01-09T16:00:00.000Z"
+        "begin": "2010-01-09T16:00:00.000Z",
+        "broadcast": "R/2011-11-03T04:59:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -133,7 +135,8 @@
       {
         "site": "bilibili",
         "id": "842",
-        "begin": "2010-01-05T16:00:00.000Z"
+        "begin": "2010-01-05T16:00:00.000Z",
+        "broadcast": "R/2010-01-07T18:53:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -239,7 +242,8 @@
       {
         "site": "bilibili",
         "id": "1656",
-        "begin": "2010-01-06T16:00:00.000Z"
+        "begin": "2010-01-06T16:00:00.000Z",
+        "broadcast": "R/2014-12-25T21:43:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -287,7 +291,8 @@
       {
         "site": "bilibili",
         "id": "733",
-        "begin": "2010-01-06T16:00:00.000Z"
+        "begin": "2010-01-06T16:00:00.000Z",
+        "broadcast": "R/2013-09-22T15:31:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -427,7 +432,8 @@
       {
         "site": "bilibili",
         "id": "1041",
-        "begin": "2010-01-13T16:00:00.000Z"
+        "begin": "2010-01-13T16:00:00.000Z",
+        "broadcast": "R/2011-01-23T04:23:00.000Z/P7D"
       },
       {
         "site": "letv",
@@ -461,7 +467,8 @@
       {
         "site": "bilibili",
         "id": "983",
-        "begin": "2010-01-24T16:00:00.000Z"
+        "begin": "2010-01-24T16:00:00.000Z",
+        "broadcast": "R/2010-01-28T12:18:00.000Z/P7D"
       }
     ]
   },
@@ -527,7 +534,8 @@
       {
         "site": "bilibili",
         "id": "1596",
-        "begin": "2010-01-03T16:00:00.000Z"
+        "begin": "2010-01-03T16:00:00.000Z",
+        "broadcast": "R/2015-01-20T07:17:00.000Z/P7D"
       },
       {
         "site": "letv",
@@ -564,7 +572,8 @@
     "title": "Fate/stay night Unlimited Blade Works",
     "titleTranslate": {
       "zh-Hans": [
-        "Fate/stay night Unlimited Blade Works"
+        "Fate/stay night Unlimited Blade Works",
+        "Fate/stay night UNLIMITED BLADE WORKS"
       ],
       "zh-Hant": [
         "Fate/stay night - 無限劍製"
@@ -590,6 +599,12 @@
         "id": "30088",
         "begin": "2022-06-03T01:30:00.000Z",
         "broadcast": "R/2022-06-03T01:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28223622",
+        "begin": "2019-11-22T03:56:00.000Z",
+        "broadcast": "R/2019-11-22T03:56:00.000Z/P7D"
       }
     ]
   },
@@ -645,7 +660,8 @@
       {
         "site": "bilibili",
         "id": "1066",
-        "begin": "2010-01-26T16:00:00.000Z"
+        "begin": "2010-01-26T16:00:00.000Z",
+        "broadcast": "R/2011-11-03T12:19:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -734,6 +750,12 @@
         "site": "letv",
         "id": "41924",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3417",
+        "begin": "2016-07-15T03:49:00.000Z",
+        "broadcast": "R/2016-07-15T03:49:00.000Z/P7D"
       }
     ]
   }

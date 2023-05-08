@@ -53,5 +53,33 @@
         "broadcast": "R/2023-02-01T16:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "Spicy Candy",
+    "titleTranslate": {
+      "zh-Hans": [
+        "辣糖甜心"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.spicycandy.net/",
+    "begin": "2023-02-13T16:00:00.000Z",
+    "broadcast": "R/2023-02-01T16:00:00.000Z/P0D",
+    "end": "2023-02-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "419847"
+      },
+      {
+        "site": "bilibili",
+        "id": "28481048",
+        "begin": "2023-02-14T04:00:01.000Z",
+        "broadcast": "R/2023-02-14T04:00:01.000Z/P7D",
+        "comment": "中文配音: 28481049"
+      }
+    ]
   }
 ]

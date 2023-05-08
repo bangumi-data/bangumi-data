@@ -42,6 +42,12 @@
         "id": "130539",
         "begin": "2023-03-03T20:00:00.000Z",
         "broadcast": "R/2023-03-03T20:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28481167",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -149,6 +155,40 @@
       {
         "site": "bangumi",
         "id": "425464"
+      }
+    ]
+  },
+  {
+    "title": "鬼滅の刃 遊郭編 特別編集版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鬼灭之刃 游郭篇 特別编集版",
+        "鬼滅の刃 遊郭潜入編",
+        "鬼滅の刃 遊郭決戦編",
+        "鬼滅之刃 遊郭決戰篇"
+      ],
+      "zh-Hant": [
+        "鬼滅之刃 遊郭潛入篇",
+        "鬼滅之刃 遊郭決戰篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://kaguya.love",
+    "begin": "2023-03-31T16:00:00.000Z",
+    "end": "2023-04-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "422759"
+      },
+      {
+        "site": "bilibili_tw",
+        "id": "20161245",
+        "begin": "",
+        "broadcast": "",
+        "comment": "遊郭潛入篇, 遊郭決戰篇: 20203323"
       }
     ]
   }

@@ -1,7 +1,11 @@
 [
   {
     "title": "まじめにふまじめ かいけつゾロリ",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪侠佐罗利 第二季"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.zorori.jp/",
@@ -11,6 +15,13 @@
       {
         "site": "bangumi",
         "id": "161702"
+      },
+      {
+        "site": "bilibili",
+        "id": "4313382",
+        "begin": "2018-11-29T09:34:32.000Z",
+        "broadcast": "R/2018-11-29T09:34:32.000Z/P7D",
+        "comment": "第三季: 4313402"
       }
     ]
   },
@@ -70,7 +81,8 @@
       {
         "site": "bilibili",
         "id": "1373",
-        "begin": "2005-02-04T16:00:00.000Z"
+        "begin": "2005-02-04T16:00:00.000Z",
+        "broadcast": "R/2014-04-11T01:46:00.000Z/P7D"
       }
     ]
   },
@@ -120,7 +132,8 @@
       {
         "site": "bilibili",
         "id": "1593",
-        "begin": "2005-02-06T16:00:00.000Z"
+        "begin": "2005-02-06T16:00:00.000Z",
+        "broadcast": "R/2015-01-20T05:51:22.000Z/P7D"
       }
     ]
   },
@@ -154,7 +167,8 @@
       {
         "site": "bilibili",
         "id": "5099",
-        "begin": "2005-02-24T16:00:01.000Z"
+        "begin": "2005-02-24T16:00:01.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -183,7 +197,61 @@
       {
         "site": "bilibili",
         "id": "3783",
-        "begin": "2005-02-04T16:00:01.000Z"
+        "begin": "2005-02-04T16:00:01.000Z",
+        "broadcast": "R/2016-04-19T06:15:58.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "キノの旅 何かをするために -life goes on.-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "奇诺之旅 活着的目标 -活下去。-",
+        "奇诺之旅 活着的目标 -life goes on.-",
+        "奇诺之旅 特别篇：成功的代价",
+        "奇诺之旅 剧场版 活着的目标"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2005-02-18T16:00:00.000Z",
+    "end": "2005-02-18T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10582"
+      },
+      {
+        "site": "bilibili",
+        "id": "3583",
+        "begin": "2016-04-13T07:49:00.000Z",
+        "broadcast": "R/2016-04-13T07:49:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "戦闘妖精少女 たすけて! メイヴちゃん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "战斗妖精少女 救救我！小Mave"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://dbeat.bandaivisual.co.jp/mave/",
+    "begin": "2005-02-23T16:00:00.000Z",
+    "end": "2005-02-23T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "34284"
+      },
+      {
+        "site": "bilibili",
+        "id": "5100",
+        "begin": "2016-06-23T09:19:00.000Z",
+        "broadcast": "R/2016-06-23T09:19:00.000Z/P7D"
       }
     ]
   }

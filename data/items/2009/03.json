@@ -29,7 +29,8 @@
       {
         "site": "bilibili",
         "id": "168",
-        "begin": "2009-03-25T16:00:00.000Z"
+        "begin": "2009-03-25T16:00:00.000Z",
+        "broadcast": "R/2013-07-28T18:51:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -150,7 +151,8 @@
       {
         "site": "bilibili",
         "id": "28228777",
-        "begin": "2020-04-29T16:00:00.000Z"
+        "begin": "2020-04-29T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -197,7 +199,8 @@
       {
         "site": "bilibili",
         "id": "3878",
-        "begin": "2009-03-06T16:00:00.000Z"
+        "begin": "2009-03-06T16:00:00.000Z",
+        "broadcast": "R/2016-04-28T02:42:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -294,7 +297,8 @@
       {
         "site": "bilibili",
         "id": "2855",
-        "begin": "2009-03-16T16:00:00.000Z"
+        "begin": "2009-03-16T16:00:00.000Z",
+        "broadcast": "R/2015-10-15T16:18:00.000Z/P7D"
       },
       {
         "site": "letv",
@@ -331,7 +335,8 @@
     "title": "超劇場版ケロロ軍曹 撃侵ドラゴンウォリアーズであります!",
     "titleTranslate": {
       "zh-Hans": [
-        "超剧场版 Keroro军曹 龙勇士的逆袭"
+        "超剧场版 Keroro军曹 龙勇士的逆袭",
+        "超剧场版 Keroro军曹4 龙勇士的逆袭"
       ]
     },
     "type": "movie",
@@ -348,6 +353,12 @@
         "site": "pptv",
         "id": "9LQdmwNp2Rd6ibGA",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28220982",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

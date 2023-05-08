@@ -24,7 +24,8 @@
       {
         "site": "bilibili",
         "id": "2281",
-        "begin": "1997-05-02T16:00:00.000Z"
+        "begin": "1997-05-02T16:00:00.000Z",
+        "broadcast": "R/2013-06-10T06:40:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -59,6 +60,33 @@
       {
         "site": "bangumi",
         "id": "39524"
+      }
+    ]
+  },
+  {
+    "title": "バトルアスリーテス 大運動会 OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "BATTLE ATHLETESS 大运动会 OVA",
+        "大运动会 OVA",
+        "超时空金牌小女将：友情篇"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-05-24T16:00:00.000Z",
+    "end": "1998-06-24T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "49189"
+      },
+      {
+        "site": "bilibili",
+        "id": "3991",
+        "begin": "2016-05-13T09:05:00.000Z",
+        "broadcast": "R/2016-05-13T09:05:00.000Z/P7D"
       }
     ]
   }

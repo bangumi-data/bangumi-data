@@ -24,7 +24,8 @@
       {
         "site": "bilibili",
         "id": "28229874",
-        "begin": "2020-09-29T16:00:01.000Z"
+        "begin": "2020-09-29T16:00:01.000Z",
+        "broadcast": ""
       },
       {
         "site": "nicovideo",
@@ -36,6 +37,12 @@
         "id": "107857",
         "begin": "2021-05-21T09:00:00.000Z",
         "broadcast": "R/2021-05-21T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234240",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

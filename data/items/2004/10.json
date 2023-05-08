@@ -77,7 +77,8 @@
       {
         "site": "bilibili",
         "id": "522",
-        "begin": "2004-10-06T16:00:00.000Z"
+        "begin": "2004-10-06T16:00:00.000Z",
+        "broadcast": "R/2013-04-07T12:18:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -113,7 +114,8 @@
       {
         "site": "bilibili",
         "id": "1446",
-        "begin": "2004-10-09T16:00:00.000Z"
+        "begin": "2004-10-09T16:00:00.000Z",
+        "broadcast": "R/2010-08-21T15:56:00.000Z/P7D"
       }
     ]
   },
@@ -147,7 +149,8 @@
       {
         "site": "bilibili",
         "id": "1937",
-        "begin": "2004-10-05T16:00:00.000Z"
+        "begin": "2004-10-05T16:00:00.000Z",
+        "broadcast": "R/2010-04-04T07:46:00.000Z/P7D"
       }
     ]
   },
@@ -186,7 +189,8 @@
       {
         "site": "bilibili",
         "id": "517",
-        "begin": "2004-10-09T16:00:00.000Z"
+        "begin": "2004-10-09T16:00:00.000Z",
+        "broadcast": "R/2010-12-10T20:21:00.000Z/P7D"
       }
     ]
   },
@@ -288,7 +292,8 @@
       {
         "site": "bilibili",
         "id": "1890",
-        "begin": "2004-10-04T16:00:00.000Z"
+        "begin": "2004-10-04T16:00:00.000Z",
+        "broadcast": "R/2011-01-10T16:28:00.000Z/P7D"
       }
     ]
   },
@@ -336,7 +341,8 @@
       {
         "site": "bilibili",
         "id": "1920",
-        "begin": "2004-10-04T16:30:00.000Z"
+        "begin": "2004-10-04T16:30:00.000Z",
+        "broadcast": "R/2010-12-31T16:06:00.000Z/P7D"
       }
     ]
   },
@@ -420,7 +426,8 @@
         "BECK MONGOLIAN CHOP SQUAD"
       ],
       "zh-Hans": [
-        "摇滚新乐团"
+        "摇滚新乐团",
+        "BECK"
       ]
     },
     "type": "tv",
@@ -437,6 +444,12 @@
       {
         "site": "bangumi",
         "id": "4035"
+      },
+      {
+        "site": "bilibili",
+        "id": "1924",
+        "begin": "2010-11-02T15:45:00.000Z",
+        "broadcast": "R/2010-11-02T15:45:00.000Z/P7D"
       }
     ]
   },
@@ -480,6 +493,13 @@
         "begin": "2022-09-15T16:00:00.000Z",
         "broadcast": "R/2022-09-15T16:00:00.000Z/P7D",
         "comment": "#52-#109: PLxSscENEp7JhUQ-NvGTp34p7vqZarUZ7Y, #110-#167: PLxSscENEp7JhzRa4Y2Uqyi-bdEY45f6RR, #168-#229: PLxSscENEp7JgEoJYViPduslQOTwYpHu-7, #230-#265: PLxSscENEp7JjUAGpcYIKBvME44g7dXJ2b, #266-#311: PLxSscENEp7JiqDMOTVbzcIvWaL1uJRrYv, #312-#366: PLxSscENEp7Jjq7teI5QxByhvrmQK4gFsg"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28338858",
+        "begin": "2022-07-23T06:00:01.000Z",
+        "broadcast": "R/2022-07-23T06:00:01.000Z/P7D",
+        "comment": "S2: 28338980, S3: 28338981, S4: 28338982, S5: 28338983, S6: 28338984, S7: 28338985"
       }
     ]
   },
@@ -513,7 +533,8 @@
       {
         "site": "bilibili",
         "id": "1874",
-        "begin": "2004-10-02T16:00:00.000Z"
+        "begin": "2004-10-02T16:00:00.000Z",
+        "broadcast": "R/2011-07-15T21:01:00.000Z/P7D"
       }
     ]
   },
@@ -542,7 +563,8 @@
       {
         "site": "bilibili",
         "id": "1882",
-        "begin": "2004-10-04T16:00:00.000Z"
+        "begin": "2004-10-04T16:00:00.000Z",
+        "broadcast": "R/2014-06-01T17:14:00.000Z/P7D"
       },
       {
         "site": "letv",
@@ -581,7 +603,8 @@
       {
         "site": "bilibili",
         "id": "1941",
-        "begin": "2004-10-01T16:00:00.000Z"
+        "begin": "2004-10-01T16:00:00.000Z",
+        "broadcast": "R/2012-12-11T13:32:00.000Z/P7D"
       }
     ]
   },
@@ -608,7 +631,8 @@
       {
         "site": "bilibili",
         "id": "1925",
-        "begin": "2004-10-01T16:00:00.000Z"
+        "begin": "2004-10-01T16:00:00.000Z",
+        "broadcast": "R/2012-12-07T08:26:00.000Z/P7D"
       }
     ]
   },
@@ -641,7 +665,8 @@
       {
         "site": "bilibili",
         "id": "1889",
-        "begin": "2004-10-03T16:00:00.000Z"
+        "begin": "2004-10-03T16:00:00.000Z",
+        "broadcast": "R/2012-05-17T11:32:00.000Z/P7D"
       }
     ]
   },
@@ -683,7 +708,8 @@
       {
         "site": "bilibili",
         "id": "1921",
-        "begin": "2004-10-29T16:00:00.000Z"
+        "begin": "2004-10-29T16:00:00.000Z",
+        "broadcast": "R/2010-10-06T12:39:00.000Z/P7D"
       }
     ]
   },
@@ -761,7 +787,8 @@
       {
         "site": "bilibili",
         "id": "1535",
-        "begin": "2004-09-30T16:00:00.000Z"
+        "begin": "2004-09-30T16:00:00.000Z",
+        "broadcast": "R/2010-10-06T12:39:00.000Z/P7D"
       }
     ]
   },
@@ -846,6 +873,12 @@
         "id": "20672",
         "begin": "2017-06-01T08:00:00.000Z",
         "broadcast": "R/2017-06-01T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "1910",
+        "begin": "2019-04-18T04:54:00.000Z",
+        "broadcast": "R/2019-04-18T04:54:00.000Z/P7D"
       }
     ]
   },
@@ -870,7 +903,8 @@
       {
         "site": "bilibili",
         "id": "4994",
-        "begin": "2005-10-03T16:00:01.000Z"
+        "begin": "2005-10-03T16:00:01.000Z",
+        "broadcast": "R/2016-06-21T02:45:33.000Z/P7D"
       }
     ]
   },
@@ -914,6 +948,12 @@
       {
         "site": "bangumi",
         "id": "24329"
+      },
+      {
+        "site": "bilibili",
+        "id": "25579500",
+        "begin": "2012-04-30T00:48:00.000Z",
+        "broadcast": "R/2012-04-30T00:48:00.000Z/P7D"
       }
     ]
   },
@@ -1065,7 +1105,37 @@
       {
         "site": "bilibili",
         "id": "3409",
-        "begin": "2004-10-19T16:00:01.000Z"
+        "begin": "2004-10-19T16:00:01.000Z",
+        "broadcast": "R/2016-03-09T04:26:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "カレイドスター 新たなる翼 -EXTRA STAGE-『笑わない すごい お姫様』",
+    "titleTranslate": {
+      "zh-Hans": [
+        "百变之星 崭新之翼 EXTRA STAGE 不笑的公主",
+        "万花筒之星OVA1",
+        "星梦美少女 崭新之翼 EXTRA STAGE 有笑容又最哀伤的公主",
+        "卡莱多之星 新之羽翼 EXTRA STAGE",
+        "星夢美少女EXTRA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.gonzo.co.jp/archives/kaleido-star/",
+    "begin": "2004-10-21T16:00:00.000Z",
+    "end": "2004-10-21T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37062"
+      },
+      {
+        "site": "bilibili",
+        "id": "8832",
+        "begin": "2017-12-05T11:12:00.000Z",
+        "broadcast": "R/2017-12-05T11:12:00.000Z/P7D"
       }
     ]
   }

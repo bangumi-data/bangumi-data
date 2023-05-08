@@ -136,6 +136,37 @@
         "site": "youku",
         "id": "9690860ab34911e0a046",
         "begin": "2013-01-05T08:05:18.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "1968",
+        "begin": "2011-02-12T09:13:00.000Z",
+        "broadcast": "R/2011-02-12T09:13:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "メトロポリス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大都会"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.bandaivisual.co.jp/metropolis/index.html",
+    "begin": "2001-05-25T16:00:00.000Z",
+    "end": "2001-05-25T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "2328"
+      },
+      {
+        "site": "bilibili",
+        "id": "5311",
+        "begin": "2016-07-22T07:35:00.000Z",
+        "broadcast": "R/2016-07-22T07:35:00.000Z/P7D"
       }
     ]
   }

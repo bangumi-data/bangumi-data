@@ -28,7 +28,8 @@
     "title": "ルパン三世 1stシリーズ",
     "titleTranslate": {
       "zh-Hans": [
-        "鲁邦三世 第一期"
+        "鲁邦三世 第一期",
+        "鲁邦三世 第一季"
       ]
     },
     "type": "tv",
@@ -45,6 +46,12 @@
         "site": "nicovideo",
         "id": "lupin-3rd-1st",
         "begin": "2011-09-20T06:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28233252",
+        "begin": "2020-12-29T05:38:00.000Z",
+        "broadcast": "R/2020-12-29T05:38:00.000Z/P7D"
       }
     ]
   }

@@ -75,5 +75,30 @@
         "broadcast": ""
       }
     ]
+  },
+  {
+    "title": "こどものおもちゃ OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "玩偶游戏"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1995-12-15T16:00:00.000Z",
+    "end": "1995-12-15T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "134594"
+      },
+      {
+        "site": "bilibili",
+        "id": "5471",
+        "begin": "2016-08-24T03:45:00.000Z",
+        "broadcast": "R/2016-08-24T03:45:00.000Z/P7D"
+      }
+    ]
   }
 ]

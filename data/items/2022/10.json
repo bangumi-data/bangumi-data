@@ -71,6 +71,9 @@
       "zh-Hans": [
         "pop子和pipi美的日常 第二季",
         "pop子和pipi美的日常 电视动画第二季"
+      ],
+      "zh-Hant": [
+        "POP TEAM EPIC 第二季"
       ]
     },
     "type": "tv",
@@ -90,6 +93,12 @@
         "id": "28339726",
         "begin": "2022-10-01T17:00:00.000Z",
         "broadcast": "R/2022-10-01T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28338857",
+        "begin": "2022-10-01T17:00:01.000Z",
+        "broadcast": "R/2022-10-01T17:00:01.000Z/P7D"
       }
     ]
   },
@@ -233,7 +242,8 @@
       {
         "site": "bilibili",
         "id": "28339712",
-        "begin": ""
+        "begin": "2022-10-23T14:00:01.000Z",
+        "broadcast": "R/2022-10-23T14:00:01.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -604,6 +614,13 @@
         "begin": "2023-02-23T16:00:00.000Z",
         "broadcast": "R/2023-02-23T16:00:00.000Z/P7D",
         "comment": "粵語版: 2089454"
+      },
+      {
+        "site": "bilibili_hk_mo",
+        "id": "20136566",
+        "begin": "2023-03-10T10:00:01.000Z",
+        "broadcast": "R/2023-03-10T10:00:01.000Z/P7D",
+        "comment": "粵配版"
       }
     ]
   },
@@ -627,6 +644,12 @@
       {
         "site": "bangumi",
         "id": "331445"
+      },
+      {
+        "site": "bilibili",
+        "id": "28339723",
+        "begin": "2022-11-02T12:00:01.000Z",
+        "broadcast": "R/2022-11-02T12:00:01.000Z/P7D"
       }
     ]
   },
@@ -635,6 +658,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "4个人各自有着自己的秘密",
+        "四人各有小秘密"
+      ],
+      "zh-Hant": [
         "四人各有小秘密"
       ]
     },
@@ -649,6 +675,12 @@
       {
         "site": "bangumi",
         "id": "376565"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339756",
+        "begin": "2022-10-15T18:00:01.000Z",
+        "broadcast": "R/2022-10-15T18:00:01.000Z/P7D"
       }
     ]
   },
@@ -888,7 +920,8 @@
       {
         "site": "bilibili",
         "id": "28339736",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "bilibili_hk_mo_tw",
@@ -938,7 +971,8 @@
     "title": "後宮の烏",
     "titleTranslate": {
       "zh-Hans": [
-        "后宫之乌"
+        "后宫之乌",
+        "後宮之烏"
       ],
       "zh-Hant": [
         "後宮之烏"
@@ -1121,7 +1155,8 @@
       {
         "site": "bilibili",
         "id": "28339735",
-        "begin": ""
+        "begin": "2022-10-29T16:30:01.000Z",
+        "broadcast": "R/2022-10-29T16:30:01.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -1181,7 +1216,8 @@
       {
         "site": "bilibili",
         "id": "28339713",
-        "begin": ""
+        "begin": "2022-10-08T17:00:01.000Z",
+        "broadcast": "R/2022-10-08T17:00:01.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -1206,6 +1242,12 @@
         "id": "bluelock_136628",
         "begin": "2022-10-30T16:00:00.000Z",
         "broadcast": "R/2022-10-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339740",
+        "begin": "2022-10-08T17:00:01.000Z",
+        "broadcast": "R/2022-10-08T17:00:01.000Z/P7D"
       }
     ]
   },
@@ -1303,6 +1345,12 @@
         "id": "125767",
         "begin": "2022-10-20T17:30:00.000Z",
         "broadcast": "R/2022-10-20T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339627",
+        "begin": "2022-10-13T18:20:01.000Z",
+        "broadcast": "R/2022-10-13T18:20:01.000Z/P7D"
       }
     ]
   },
@@ -1310,7 +1358,8 @@
     "title": "永久少年 Eternal Boys",
     "titleTranslate": {
       "zh-Hans": [
-        "永久少年 Eternal Boys"
+        "永久少年 Eternal Boys",
+        "永久少年"
       ]
     },
     "type": "tv",
@@ -1324,6 +1373,12 @@
       {
         "site": "bangumi",
         "id": "374563"
+      },
+      {
+        "site": "bilibili",
+        "id": "28338745",
+        "begin": "2022-09-25T15:00:00.000Z",
+        "broadcast": "R/2022-09-25T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1389,7 +1444,8 @@
         "致不灭的你 Season2"
       ],
       "zh-Hant": [
-        "給不滅的你 (第二季)"
+        "給不滅的你 (第二季)",
+        "給不滅的你 第二季"
       ]
     },
     "type": "tv",
@@ -1407,7 +1463,8 @@
       {
         "site": "bilibili",
         "id": "28339716",
-        "begin": ""
+        "begin": "2022-12-18T11:00:00.000Z",
+        "broadcast": "R/2022-12-18T11:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -1426,6 +1483,12 @@
         "id": "PLxSscENEp7JglYLsUPMeExu8Yjn5hGYyn",
         "begin": "2022-10-23T10:00:00.000Z",
         "broadcast": "R/2022-10-23T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28340156",
+        "begin": "2022-10-24T10:00:01.000Z",
+        "broadcast": "R/2022-10-24T10:00:01.000Z/P7D"
       }
     ]
   },
@@ -1437,7 +1500,8 @@
         "BLEACH 千年血戦編"
       ],
       "zh-Hant": [
-        "BLEACH 千年血戰篇"
+        "BLEACH 千年血戰篇",
+        "BLEACH 死神 千年血戰篇"
       ]
     },
     "type": "tv",
@@ -1463,6 +1527,12 @@
         "id": "PLxSscENEp7Jg3pUga3XbHeMfWLXRMGVQY",
         "begin": "2021-10-10T16:30:00.000Z",
         "broadcast": "R/2021-10-10T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339855",
+        "begin": "2022-10-10T16:30:01.000Z",
+        "broadcast": "R/2022-10-10T16:30:01.000Z/P7D"
       }
     ]
   },
@@ -1528,7 +1598,8 @@
       {
         "site": "bilibili",
         "id": "28339710",
-        "begin": ""
+        "begin": "2023-03-04T11:00:01.000Z",
+        "broadcast": "R/2023-03-04T11:00:01.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -1584,7 +1655,8 @@
     "title": "名探偵コナン 犯人の犯沢さん",
     "titleTranslate": {
       "zh-Hans": [
-        "名侦探柯南 犯人犯泽先生"
+        "名侦探柯南 犯人犯泽先生",
+        "名侦探柯南：犯人犯泽先生"
       ],
       "zh-Hant": [
         "名偵探柯南：犯人・犯澤先生",
@@ -1611,6 +1683,13 @@
         "id": "81313291",
         "begin": "2023-01-31T16:00:00.000Z",
         "broadcast": "R/2023-01-31T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "20144567",
+        "begin": "2023-04-01T12:00:01.000Z",
+        "broadcast": "R/2023-04-01T12:00:01.000Z/P7D",
+        "comment": "中配: 20144639"
       }
     ]
   },
@@ -1749,7 +1828,8 @@
     "title": "PUI PUI モルカー DRIVING SCHOOL",
     "titleTranslate": {
       "zh-Hans": [
-        "PUI PUI 天竺鼠车车 DRIVING SCHOOL"
+        "PUI PUI 天竺鼠车车 DRIVING SCHOOL",
+        "PUI PUI 天竺鼠车车 驾校篇"
       ],
       "zh-Hant": [
         "PUI PUI 天竺鼠車車 學車篇",
@@ -1785,6 +1865,12 @@
         "id": "124742",
         "begin": "2022-10-07T23:00:00.000Z",
         "broadcast": "R/2022-10-07T23:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "20139772",
+        "begin": "2023-03-17T10:00:01.000Z",
+        "broadcast": "R/2023-03-17T10:00:01.000Z/P7D"
       }
     ]
   },
@@ -1844,34 +1930,61 @@
     ]
   },
   {
-    "title": "銀河英雄伝説 Die Neue These 策謀 第1章",
+    "title": "私に天使が舞い降りた！プレシャス・フレンズ",
     "titleTranslate": {
       "zh-Hans": [
-        "银河英雄传说 Die Neue These 策谋 第1章"
+        "天使降临到了我身边！Precious Friends",
+        "天使降临到我身边！珍贵的朋友"
       ],
       "zh-Hant": [
-        "銀河英雄傳說  Die Neue These 圖謀"
+        "天使降臨我身邊 劇場版"
       ],
       "en": [
-        "Legend of the Galactic Heroes: Die Neue These - Intrigue"
+        "Watashi ni Tenshi ga Maiorita! Precious Friends"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://watatentv.com",
+    "begin": "2022-10-13T16:00:00.000Z",
+    "end": "2022-10-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "320493"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "20140563",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "銀河英雄伝説 Die Neue These 策謀 第2章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河英雄传说 Die Neue These 策谋 第2章"
       ]
     },
     "type": "movie",
     "lang": "ja",
     "officialSite": "http://gineiden-anime.com",
-    "begin": "2022-09-29T16:00:00.000Z",
-    "end": "2022-09-29T16:00:00.000Z",
+    "begin": "2022-10-27T16:00:00.000Z",
+    "end": "2022-10-27T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
-        "id": "381839"
+        "id": "381841"
       },
       {
-        "site": "mytv",
-        "id": "legendofthegalacticheroesdieneuetheseintrigue_137161",
-        "begin": "2022-12-27T16:00:00.000Z",
-        "broadcast": "R/2022-12-27T16:00:00.000Z/P7D"
+        "site": "bilibili",
+        "id": "28339717",
+        "begin": "2022-09-29T23:00:01.000Z",
+        "broadcast": "R/2022-09-29T23:00:01.000Z/P7D"
       }
     ]
   }

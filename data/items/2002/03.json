@@ -62,7 +62,8 @@
       {
         "site": "bilibili",
         "id": "3866",
-        "begin": "2002-03-08T16:00:00.000Z"
+        "begin": "2002-03-08T16:00:00.000Z",
+        "broadcast": "R/2016-04-27T09:07:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -148,7 +149,8 @@
       {
         "site": "bilibili",
         "id": "4017",
-        "begin": "2002-03-29T16:00:01.000Z"
+        "begin": "2002-03-29T16:00:01.000Z",
+        "broadcast": ""
       },
       {
         "site": "gamer",
@@ -229,7 +231,8 @@
       {
         "site": "bilibili",
         "id": "5266",
-        "begin": "2002-03-29T16:00:01.000Z"
+        "begin": "2002-03-29T16:00:01.000Z",
+        "broadcast": ""
       },
       {
         "site": "gamer",
@@ -337,6 +340,38 @@
         "id": "106245",
         "begin": "2019-06-27T04:00:00.000Z",
         "broadcast": "R/2019-06-27T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "5265",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "遙かなる時空の中で —紫陽花ゆめ語り—",
+    "titleTranslate": {
+      "zh-Hans": [
+        "遥远时空中 紫阳花物语"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-03-26T16:00:00.000Z",
+    "end": "2003-01-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1945"
+      },
+      {
+        "site": "bilibili",
+        "id": "1883",
+        "begin": "2013-03-30T08:08:00.000Z",
+        "broadcast": "R/2013-03-30T08:08:00.000Z/P7D"
       }
     ]
   }

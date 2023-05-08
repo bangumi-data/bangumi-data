@@ -84,7 +84,9 @@
     "title": "バトルアスリーテス大運動会",
     "titleTranslate": {
       "zh-Hans": [
-        "大运动会"
+        "BATTLE ATHLETESS 大运动会",
+        "大运动会",
+        "超时空金牌小女将"
       ]
     },
     "type": "tv",
@@ -105,7 +107,8 @@
       {
         "site": "bilibili",
         "id": "2285",
-        "begin": "1997-10-02T16:00:00.000Z"
+        "begin": "1997-10-02T16:00:00.000Z",
+        "broadcast": "R/2013-10-01T23:05:00.000Z/P7D"
       }
     ]
   },
@@ -153,7 +156,8 @@
       {
         "site": "bilibili",
         "id": "5444",
-        "begin": "1997-10-01T16:00:01.000Z"
+        "begin": "1997-10-01T16:00:01.000Z",
+        "broadcast": "R/2016-08-15T03:14:00.000Z/P7D"
       }
     ]
   },
@@ -183,6 +187,83 @@
         "site": "nicovideo",
         "id": "vampire-miyu",
         "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "八雲立つ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "八云立",
+        "出云传奇"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-10-24T16:00:00.000Z",
+    "end": "1997-11-24T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "6021"
+      },
+      {
+        "site": "bilibili",
+        "id": "3077",
+        "begin": "2015-11-27T08:28:00.000Z",
+        "broadcast": "R/2015-11-27T08:28:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ネクスト戦記EHRGEIZ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "NEXT战记EHRGEIZ"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-09-30T16:00:00.000Z",
+    "end": "1997-12-23T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37465"
+      },
+      {
+        "site": "bilibili",
+        "id": "2284",
+        "begin": "2014-06-15T06:14:00.000Z",
+        "broadcast": "R/2014-06-15T06:14:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "勇者指令ダグオン 水晶の瞳の少年",
+    "titleTranslate": {
+      "zh-Hans": [
+        "勇者指令 水晶之瞳的少年",
+        "勇者指令 OVA"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.yusha.net/dagwon/ova.html",
+    "begin": "1997-10-21T16:00:00.000Z",
+    "end": "1997-12-27T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "202960"
+      },
+      {
+        "site": "bilibili",
+        "id": "2302",
+        "begin": "2012-07-28T07:00:00.000Z",
+        "broadcast": "R/2012-07-28T07:00:00.000Z/P7D"
       }
     ]
   }

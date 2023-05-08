@@ -233,7 +233,8 @@
       {
         "site": "bilibili",
         "id": "5630",
-        "begin": "2015-08-21T16:00:00.000Z"
+        "begin": "2015-08-21T16:00:00.000Z",
+        "broadcast": "R/2017-05-03T09:00:00.000Z/P7D"
       }
     ]
   },
@@ -263,6 +264,33 @@
         "id": "76142",
         "begin": "2021-02-04T16:00:00.000Z",
         "broadcast": "R/2021-02-04T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ぷれぷれぷれあです",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Play Play 昴宿星团",
+        "OVERLORD SP"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://overlord-anime.com/",
+    "begin": "2015-08-03T16:00:00.000Z",
+    "end": "2015-09-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "193953"
+      },
+      {
+        "site": "bilibili",
+        "id": "3428",
+        "begin": "2016-03-14T08:25:00.000Z",
+        "broadcast": "R/2016-03-14T08:25:00.000Z/P7D"
       }
     ]
   }

@@ -29,7 +29,8 @@
       {
         "site": "bilibili",
         "id": "3934",
-        "begin": "1992-07-23T16:00:01.000Z"
+        "begin": "1992-07-23T16:00:01.000Z",
+        "broadcast": "R/2021-03-31T15:39:00.000Z/P7D"
       }
     ]
   },
@@ -144,6 +145,33 @@
         "site": "pptv",
         "id": "u4B7ibWHHN3XYVr4",
         "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "サイレントメビウス2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法阵都市 剧场版2",
+        "魔法阵都市 剧场版 下篇",
+        "未来特警 剧场版2"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-07-17T16:00:00.000Z",
+    "end": "1992-07-17T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "41879"
+      },
+      {
+        "site": "bilibili",
+        "id": "3967",
+        "begin": "2016-05-06T02:49:00.000Z",
+        "broadcast": "R/2016-05-06T02:49:00.000Z/P7D"
       }
     ]
   }

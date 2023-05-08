@@ -28,5 +28,31 @@
         "broadcast": ""
       }
     ]
+  },
+  {
+    "title": "Di Gi Charat クリスマススペシャル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Di Gi Charat 圣诞特别篇",
+        "铃铛猫娘 圣诞特别篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.broccoli.co.jp/dejiko/",
+    "begin": "2000-12-15T16:00:00.000Z",
+    "end": "2000-12-15T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "205296"
+      },
+      {
+        "site": "bilibili",
+        "id": "141092",
+        "begin": "2018-10-08T08:16:00.000Z",
+        "broadcast": "R/2018-10-08T08:16:00.000Z/P7D"
+      }
+    ]
   }
 ]

@@ -49,6 +49,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "关于养猫我一直是新手"
+      ],
+      "zh-Hant": [
+        "今晚有貓伴身邊"
       ]
     },
     "type": "web",
@@ -62,6 +65,18 @@
       {
         "site": "bangumi",
         "id": "379456"
+      },
+      {
+        "site": "bilibili",
+        "id": "28338863",
+        "begin": "2022-09-21T17:00:01.000Z",
+        "broadcast": "R/2022-09-21T17:00:01.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28338797",
+        "begin": "2022-08-03T18:00:00.000Z",
+        "broadcast": "R/2022-08-03T18:00:00.000Z/P7D"
       }
     ]
   },
@@ -198,6 +213,42 @@
         "id": "129504",
         "begin": "2023-01-06T15:30:00.000Z",
         "broadcast": "R/2023-01-06T15:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "世界の終わりに柴犬と",
+    "titleTranslate": {
+      "zh-Hans": [
+        "世界末日柴犬为伴"
+      ],
+      "zh-Hant": [
+        "世界末日柴犬為伴"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.youtube.com/@sekashibachannel",
+    "begin": "2022-08-01T16:00:00.000Z",
+    "broadcast": "R/2022-08-01T16:00:00.000Z/P1D",
+    "end": "2023-02-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "386628"
+      },
+      {
+        "site": "bilibili",
+        "id": "28338646",
+        "begin": "2022-08-30T10:00:01.000Z",
+        "broadcast": "R/2022-08-30T10:00:01.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28338741",
+        "begin": "2022-08-02T10:00:00.000Z",
+        "broadcast": "R/2022-08-02T10:00:00.000Z/P7D"
       }
     ]
   }

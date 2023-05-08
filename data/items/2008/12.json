@@ -56,7 +56,11 @@
     "title": "劇場版BLEACH Fade to Black 君の名を呼ぶ",
     "titleTranslate": {
       "zh-Hans": [
-        "死神剧场版 消逝于黑暗中 呼唤着你的名字"
+        "死神剧场版 消逝于黑暗中 呼唤着你的名字",
+        "死神劇場版 呼喚你的名字"
+      ],
+      "zh-Hant": [
+        "死神劇場版 呼喚你的名字"
       ],
       "en": [
         "Bleach The Movie: Fade to Black"
@@ -76,6 +80,12 @@
         "site": "netflix",
         "id": "70208801",
         "begin": "2016-10-15T07:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28338753",
+        "begin": "",
         "broadcast": ""
       }
     ]

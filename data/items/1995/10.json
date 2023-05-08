@@ -29,7 +29,8 @@
       {
         "site": "bilibili",
         "id": "2321",
-        "begin": "1995-10-11T16:00:00.000Z"
+        "begin": "1995-10-11T16:00:00.000Z",
+        "broadcast": "R/2021-03-23T10:56:00.000Z/P7D"
       }
     ]
   },
@@ -75,7 +76,8 @@
       {
         "site": "bilibili",
         "id": "1635",
-        "begin": "1995-10-03T16:00:00.000Z"
+        "begin": "1995-10-03T16:00:00.000Z",
+        "broadcast": "R/2017-10-29T20:26:00.000Z/P7D"
       },
       {
         "site": "acfun",
@@ -158,7 +160,8 @@
       {
         "site": "bilibili",
         "id": "2314",
-        "begin": "1995-10-02T16:00:00.000Z"
+        "begin": "1995-10-02T16:00:00.000Z",
+        "broadcast": "R/2013-02-09T13:45:00.000Z/P7D"
       }
     ]
   },
@@ -166,7 +169,8 @@
     "title": "神秘の世界エルハザード",
     "titleTranslate": {
       "zh-Hans": [
-        "神秘的世界"
+        "神秘的世界",
+        "神秘的世界EL-HAZARD"
       ]
     },
     "type": "tv",
@@ -178,6 +182,37 @@
       {
         "site": "bangumi",
         "id": "10400"
+      },
+      {
+        "site": "bilibili",
+        "id": "2313",
+        "begin": "2011-07-08T11:23:00.000Z",
+        "broadcast": "R/2011-07-08T11:23:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "マクロスプラス MOVIE EDITION",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Macross Plus 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1995-10-06T16:00:00.000Z",
+    "end": "1995-10-06T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "38256"
+      },
+      {
+        "site": "bilibili",
+        "id": "3562",
+        "begin": "2016-04-11T06:33:00.000Z",
+        "broadcast": "R/2016-04-11T06:33:00.000Z/P7D"
       }
     ]
   }

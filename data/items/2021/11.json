@@ -48,7 +48,8 @@
     "title": "攻殻機動隊 SAC_2045 持続可能戦争",
     "titleTranslate": {
       "zh-Hans": [
-        "攻壳机动队：SAC_2045 持续可能战争"
+        "攻壳机动队：SAC_2045 持续可能战争",
+        "攻壳机动队 2045 剧场版"
       ],
       "zh-Hant": [
         "攻殼機動隊：SAC_2045：永續戰爭"
@@ -73,6 +74,12 @@
         "id": "81513128",
         "begin": "2022-05-08T16:00:00.000Z",
         "broadcast": "R/2022-05-08T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "20139274",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -133,6 +140,36 @@
         "id": "118479",
         "begin": "2021-11-13T04:00:00.000Z",
         "broadcast": "R/2021-11-13T04:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "サマーゴースト",
+    "titleTranslate": {
+      "zh-Hans": [
+        "夏日幽灵",
+        "夏日幻魂"
+      ],
+      "en": [
+        "Summer Ghost"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://summerghost.jp/",
+    "begin": "2021-11-11T16:00:00.000Z",
+    "end": "2021-11-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "328674"
+      },
+      {
+        "site": "bilibili",
+        "id": "28237193",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

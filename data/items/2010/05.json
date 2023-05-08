@@ -53,7 +53,8 @@
       {
         "site": "bilibili",
         "id": "73292",
-        "begin": "2010-04-30T16:00:01.000Z"
+        "begin": "2010-04-30T16:00:01.000Z",
+        "broadcast": "R/2016-04-13T03:12:00.000Z/P7D"
       }
     ]
   },
@@ -88,6 +89,65 @@
         "id": "30703",
         "begin": "2019-08-13T09:00:00.000Z",
         "broadcast": "R/2019-08-13T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28221041",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "ブレイク ブレイド 第一章 覚醒ノ刻",
+    "titleTranslate": {
+      "zh-Hans": [
+        "破刃之剑 第一章 觉醒之刻",
+        "破刃之剑 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://breakblade.jp/",
+    "begin": "2010-05-28T16:00:00.000Z",
+    "end": "2010-05-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "5498"
+      },
+      {
+        "site": "bilibili",
+        "id": "3364",
+        "begin": "2016-02-24T07:01:10.000Z",
+        "broadcast": "R/2016-02-24T07:01:10.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "プランゼット",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Z计划"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2010-05-21T16:00:00.000Z",
+    "end": "2010-05-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8465"
+      },
+      {
+        "site": "bilibili",
+        "id": "3315",
+        "begin": "2016-01-29T06:15:00.000Z",
+        "broadcast": "R/2016-01-29T06:15:00.000Z/P7D"
       }
     ]
   }
