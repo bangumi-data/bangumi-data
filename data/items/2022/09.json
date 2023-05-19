@@ -416,5 +416,35 @@
         "broadcast": "R/2022-09-29T23:00:01.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "劇場版 うたの☆プリンスさまっ♪ マジLOVEスターリッシュツアーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 歌之王子殿下 真爱之星",
+        "剧场版 歌之王子殿下 真爱ST☆RISH Tours"
+      ],
+      "zh-Hant": [
+        "劇場版 歌之☆王子殿下♪ 真愛 ST☆RISH TOURS"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://starishtours.utapri-movie.com/",
+    "begin": "2022-09-01T16:00:00.000Z",
+    "end": "2022-09-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "331652"
+      },
+      {
+        "site": "gamer",
+        "id": "123695",
+        "begin": "2023-04-28T03:00:00.000Z",
+        "broadcast": "R/2023-04-28T03:00:00.000Z/P7D"
+      }
+    ]
   }
 ]
