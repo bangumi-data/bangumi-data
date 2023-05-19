@@ -93,6 +93,70 @@
         "id": "81345945",
         "begin": "2022-04-27T16:00:00.000Z",
         "broadcast": "R/2022-04-27T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28237357",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "攻殻機動隊 SAC_2045 シーズン2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "攻壳机动队 SAC_2045 第二季",
+        "攻壳机动队 2045 第二季"
+      ],
+      "en": [
+        "Ghost in the Shell: SAC_2045 Season 2",
+        "Koukaku Kidoutai: SAC_2045 2"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.ghostintheshell-sac2045.jp/",
+    "begin": "2022-05-22T16:00:00.000Z",
+    "broadcast": "R/2022-05-22T16:00:00.000Z/P0D",
+    "end": "2022-05-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "304727"
+      },
+      {
+        "site": "bilibili",
+        "id": "28237219",
+        "begin": "2023-04-23T10:30:01.000Z",
+        "broadcast": "R/2023-04-23T10:30:01.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "銀河英雄伝説 Die Neue These 激突 第3章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河英雄传说 Die Neue These 激突 第3章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://gineiden-anime.com/",
+    "begin": "2022-05-12T16:00:00.000Z",
+    "end": "2022-05-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "361385"
+      },
+      {
+        "site": "bilibili",
+        "id": "28237243",
+        "begin": "2022-04-14T23:00:01.000Z",
+        "broadcast": "R/2022-04-14T23:00:01.000Z/P7D"
       }
     ]
   }

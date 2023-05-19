@@ -82,5 +82,63 @@
         "broadcast": "R/2022-07-21T06:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "劇場版 Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 Fate/kaleid liner 魔法少女☆伊莉雅 Licht 无名的少女",
+        "剧场版 Fate/kaleid liner 魔法少女☆伊莉雅 Licht 没有名字的少女"
+      ],
+      "zh-Hant": [
+        "魔法少女伊莉雅：Licht 無名的少女"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://anime.prisma-illya.jp/movie/3",
+    "begin": "2021-08-26T16:00:00.000Z",
+    "end": "2021-08-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "306971"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28237331",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "planetarian～雪圏球～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "星之梦～雪圏球～",
+        "星之梦～雪景球～",
+        "星之梦～雪圈球～"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2021-08-24T16:00:00.000Z",
+    "end": "2021-08-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "295090"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234980",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]

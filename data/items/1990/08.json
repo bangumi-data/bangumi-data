@@ -25,6 +25,12 @@
         "site": "letv",
         "id": "10004313",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2496",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -54,6 +60,37 @@
         "site": "letv",
         "id": "10004313",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2496",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "魔動王グランゾート 最後のマジカル大戦",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔动王 最后的魔法大战"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-08-01T15:00:00.000Z",
+    "end": "1990-08-01T15:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "25423"
+      },
+      {
+        "site": "bilibili",
+        "id": "3814",
+        "begin": "2016-04-20T06:46:00.000Z",
+        "broadcast": "R/2016-04-20T06:46:00.000Z/P7D"
       }
     ]
   }

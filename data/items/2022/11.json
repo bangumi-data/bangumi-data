@@ -75,7 +75,8 @@
         "剧场版 关于我转生变成史莱姆这档事 红莲之绊篇"
       ],
       "zh-Hant": [
-        "關於我轉生變成史萊姆這檔事劇場版 紅蓮之絆篇"
+        "關於我轉生變成史萊姆這檔事劇場版 紅蓮之絆篇",
+        "劇場版 關於我轉生變成史萊姆這檔事 紅蓮之絆篇"
       ],
       "en": [
         "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond",
@@ -98,6 +99,70 @@
         "id": "119767",
         "begin": "2023-03-23T15:00:00.000Z",
         "broadcast": "R/2023-03-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28481018",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "トニカクカワイイ ～制服～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "总之就是非常可爱 ～制服～"
+      ],
+      "zh-Hant": [
+        "總之就是很可愛～制服～"
+      ],
+      "en": [
+        "Tonikaku Kawaii: Seifuku"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://tonikawa.com/",
+    "begin": "2022-11-21T16:00:00.000Z",
+    "end": "2022-11-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "376708"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28340355",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "銀河英雄伝説 Die Neue These 策謀 第3章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河英雄传说 Die Neue These 策谋 第3章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://gineiden-anime.com",
+    "begin": "2022-11-24T16:00:00.000Z",
+    "end": "2022-11-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "381842"
+      },
+      {
+        "site": "bilibili",
+        "id": "28339717",
+        "begin": "2022-09-29T23:00:01.000Z",
+        "broadcast": "R/2022-09-29T23:00:01.000Z/P7D"
       }
     ]
   }

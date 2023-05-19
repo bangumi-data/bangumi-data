@@ -3,7 +3,11 @@
     "title": "犬夜叉 鏡の中の夢幻城",
     "titleTranslate": {
       "zh-Hans": [
-        "犬夜叉 镜中的梦幻城"
+        "犬夜叉 镜中的梦幻城",
+        "犬夜叉剧场版 镜中的梦幻城"
+      ],
+      "zh-Hant": [
+        "犬夜叉劇場版 鏡中的夢幻城"
       ],
       "en": [
         "InuYasha: The Movie 2: The Castle Beyond the Looking Glass"
@@ -33,6 +37,18 @@
         "site": "netflix",
         "id": "70018513",
         "begin": "2017-09-01T07:00:00.000Z"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339207",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28339206",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -85,7 +101,8 @@
       {
         "site": "bilibili",
         "id": "3566",
-        "begin": "2002-12-20T16:00:01.000Z"
+        "begin": "2002-12-20T16:00:01.000Z",
+        "broadcast": "R/2016-04-11T06:53:00.000Z/P7D"
       }
     ]
   },
@@ -109,7 +126,8 @@
       {
         "site": "bilibili",
         "id": "3407",
-        "begin": "2002-12-17T16:00:01.000Z"
+        "begin": "2002-12-17T16:00:01.000Z",
+        "broadcast": "R/2023-01-12T07:44:00.000Z/P7D"
       }
     ]
   }

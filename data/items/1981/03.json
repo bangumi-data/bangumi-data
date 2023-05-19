@@ -92,7 +92,8 @@
       {
         "site": "bilibili",
         "id": "2550",
-        "begin": "1981-03-13T16:00:00.000Z"
+        "begin": "1981-03-13T16:00:00.000Z",
+        "broadcast": "R/2015-02-13T08:01:00.000Z/P7D"
       }
     ]
   },
@@ -127,6 +128,31 @@
       {
         "site": "bangumi",
         "id": "213663"
+      }
+    ]
+  },
+  {
+    "title": "ユニコ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小白角"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.tms-e.com/library/old/tv/data/t_spank.html",
+    "begin": "1981-03-12T16:00:00.000Z",
+    "end": "1981-03-12T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "32489"
+      },
+      {
+        "site": "bilibili",
+        "id": "5598",
+        "begin": "2016-10-17T05:30:33.000Z",
+        "broadcast": "R/2016-10-17T05:30:33.000Z/P7D"
       }
     ]
   }

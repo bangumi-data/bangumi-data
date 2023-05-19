@@ -24,7 +24,8 @@
       {
         "site": "bilibili",
         "id": "8712",
-        "begin": "2017-12-01T16:00:00.000Z"
+        "begin": "2017-12-01T16:00:00.000Z",
+        "broadcast": "R/2017-12-02T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -192,6 +193,56 @@
         "id": "91590",
         "begin": "2021-05-20T07:00:00.000Z",
         "broadcast": "R/2021-05-20T07:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "Fate/Grand Order -MOONLIGHT/LOSTROOM-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "命运-冠位指定 -月光／失落之室-"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2017-12-31T14:00:00.000Z",
+    "end": "2017-12-31T14:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "231887"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234950",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "Thunderbolt Fantasy 生死一劍",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Thunderbolt Fantasy 东离剑游纪 生死一剑"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.thunderboltfantasy.com",
+    "begin": "2017-12-01T16:00:00.000Z",
+    "end": "2017-12-01T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "211865"
+      },
+      {
+        "site": "bilibili",
+        "id": "71992",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

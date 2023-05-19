@@ -29,7 +29,8 @@
       {
         "site": "bilibili",
         "id": "3941",
-        "begin": "1996-08-01T16:00:01.000Z"
+        "begin": "1996-08-01T16:00:01.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -66,7 +67,8 @@
       {
         "site": "bilibili",
         "id": "3906",
-        "begin": "1996-08-02T16:00:01.000Z"
+        "begin": "1996-08-02T16:00:01.000Z",
+        "broadcast": "R/2016-05-03T03:40:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -109,13 +111,64 @@
       {
         "site": "bilibili",
         "id": "3810",
-        "begin": "1996-07-31T16:00:01.000Z"
+        "begin": "1996-07-31T16:00:01.000Z",
+        "broadcast": "R/2016-04-20T04:13:00.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JgQvieGk4fBN7k5kOkV39n7",
         "begin": "2021-10-21T16:00:00.000Z",
         "broadcast": "R/2021-10-21T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "地獄堂霊界通信",
+    "titleTranslate": {
+      "zh-Hans": [
+        "地狱堂灵界通信"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-08-08T16:00:00.000Z",
+    "end": "1996-08-08T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "9980"
+      },
+      {
+        "site": "bilibili",
+        "id": "5573",
+        "begin": "2016-09-28T08:13:00.000Z",
+        "broadcast": "R/2016-09-28T08:13:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "X -エックス-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "X战记 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-08-02T16:00:00.000Z",
+    "end": "1996-08-02T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "36262"
+      },
+      {
+        "site": "bilibili",
+        "id": "2099",
+        "begin": "2019-03-05T06:27:00.000Z",
+        "broadcast": "R/2019-03-05T06:27:00.000Z/P7D"
       }
     ]
   }

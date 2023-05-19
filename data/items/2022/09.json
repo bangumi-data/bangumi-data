@@ -120,9 +120,9 @@
       },
       {
         "site": "bilibili",
-        "id": "28339713",
-        "begin": "2022-10-01T14:00:00.000Z",
-        "broadcast": "R/2022-10-01T14:00:00.000Z/P7D"
+        "id": "28339714",
+        "begin": "2022-10-01T14:00:01.000Z",
+        "broadcast": "R/2022-10-01T14:00:01.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -297,6 +297,12 @@
         "id": "81328781",
         "begin": "2022-09-15T16:00:00.000Z",
         "broadcast": "R/2022-09-15T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "20139816",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -356,6 +362,88 @@
         "id": "6C7HChDy39QZ",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28339737",
+        "begin": "2022-10-19T08:00:01.000Z",
+        "broadcast": "R/2022-10-19T08:00:01.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "銀河英雄伝説 Die Neue These 策謀 第1章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河英雄传说 Die Neue These 策谋 第1章",
+        "银河英雄传说：全新命题 策谋"
+      ],
+      "zh-Hant": [
+        "銀河英雄傳說  Die Neue These 圖謀",
+        "銀河英雄傳說Die Neue These: 策謀"
+      ],
+      "en": [
+        "Legend of the Galactic Heroes: Die Neue These - Intrigue"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://gineiden-anime.com",
+    "begin": "2022-09-29T16:00:00.000Z",
+    "end": "2022-09-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "381839"
+      },
+      {
+        "site": "mytv",
+        "id": "legendofthegalacticheroesdieneuetheseintrigue_137161",
+        "begin": "2022-12-27T16:00:00.000Z",
+        "broadcast": "R/2022-12-27T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28339717",
+        "begin": "2022-09-29T23:00:01.000Z",
+        "broadcast": "R/2022-09-29T23:00:01.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339757",
+        "begin": "2022-09-29T23:00:01.000Z",
+        "broadcast": "R/2022-09-29T23:00:01.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 うたの☆プリンスさまっ♪ マジLOVEスターリッシュツアーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 歌之王子殿下 真爱之星",
+        "剧场版 歌之王子殿下 真爱ST☆RISH Tours"
+      ],
+      "zh-Hant": [
+        "劇場版 歌之☆王子殿下♪ 真愛 ST☆RISH TOURS"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://starishtours.utapri-movie.com/",
+    "begin": "2022-09-01T16:00:00.000Z",
+    "end": "2022-09-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "331652"
+      },
+      {
+        "site": "gamer",
+        "id": "123695",
+        "begin": "2023-04-28T03:00:00.000Z",
+        "broadcast": "R/2023-04-28T03:00:00.000Z/P7D"
       }
     ]
   }

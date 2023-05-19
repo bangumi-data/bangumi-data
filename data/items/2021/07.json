@@ -94,8 +94,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234706",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-07-08T16:30:00.000Z",
+        "broadcast": "R/2021-07-08T16:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -189,7 +189,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234732",
-        "begin": ""
+        "begin": "2021-07-02T18:55:01.000Z",
+        "broadcast": "R/2021-07-02T18:55:01.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -236,7 +237,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234715",
-        "begin": ""
+        "begin": "2021-07-03T12:30:01.000Z",
+        "broadcast": "R/2021-07-03T12:30:01.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -291,7 +293,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234730",
-        "begin": ""
+        "begin": "2021-07-04T14:30:01.000Z",
+        "broadcast": "R/2021-07-04T14:30:01.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -350,7 +353,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234714",
-        "begin": ""
+        "begin": "2021-07-04T13:30:01.000Z",
+        "broadcast": "R/2021-07-04T13:30:01.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
@@ -407,7 +411,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234719",
-        "begin": ""
+        "begin": "2021-07-07T16:00:01.000Z",
+        "broadcast": "R/2021-07-07T16:00:01.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -482,6 +487,12 @@
         "id": "115336",
         "begin": "2021-07-02T17:55:00.000Z",
         "broadcast": "R/2021-07-02T17:55:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234702",
+        "begin": "2021-07-02T17:55:00.000Z",
+        "broadcast": "R/2021-07-02T17:55:00.000Z/P7D"
       }
     ]
   },
@@ -514,7 +525,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234734",
-        "begin": ""
+        "begin": "2021-07-03T16:00:01.000Z",
+        "broadcast": "R/2021-07-03T16:00:01.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -565,7 +577,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234723",
-        "begin": ""
+        "begin": "2021-07-01T16:00:01.000Z",
+        "broadcast": "R/2021-07-01T16:00:01.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -627,13 +640,15 @@
       {
         "site": "bilibili",
         "id": "28234613",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-12-17T12:00:01.000Z",
+        "broadcast": "R/2021-12-17T12:00:01.000Z/P7D",
+        "comment": "中配版: 28338773"
       },
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234716",
-        "begin": ""
+        "begin": "2021-07-07T16:00:00.000Z",
+        "broadcast": "R/2021-07-07T16:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -648,6 +663,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "阴晴不定大哥哥",
+        "陰晴不定的體操哥哥"
+      ],
+      "zh-Hant": [
         "陰晴不定的體操哥哥"
       ]
     },
@@ -674,6 +692,12 @@
         "id": "uramichi-anime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234718",
+        "begin": "2021-07-05T16:00:00.000Z",
+        "broadcast": "R/2021-07-05T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -713,6 +737,18 @@
         "begin": "2021-07-02T17:50:00.000Z",
         "broadcast": "R/2021-07-02T17:50:00.000Z/P7D",
         "comment": "WEB版: 118354"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234709",
+        "begin": "2021-07-02T17:50:01.000Z",
+        "broadcast": "R/2021-07-02T17:50:01.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234656",
+        "begin": "2021-07-02T17:50:00.000Z",
+        "broadcast": "R/2021-07-02T17:50:00.000Z/P7D"
       }
     ]
   },
@@ -798,7 +834,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234705",
-        "begin": ""
+        "begin": "2021-07-02T16:30:01.000Z",
+        "broadcast": "R/2021-07-02T16:30:01.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -817,6 +854,12 @@
         "id": "116650",
         "begin": "2021-07-02T16:30:00.000Z",
         "broadcast": "R/2021-07-02T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234616",
+        "begin": "2021-07-30T15:30:00.000Z",
+        "broadcast": "R/2021-07-30T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -850,7 +893,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234707",
-        "begin": ""
+        "begin": "2021-07-07T16:00:00.000Z",
+        "broadcast": "R/2021-07-07T16:00:00.000Z/P7D"
       },
       {
         "site": "viu",
@@ -863,6 +907,12 @@
         "id": "111582",
         "begin": "2021-07-07T14:30:00.000Z",
         "broadcast": "R/2021-07-07T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234646",
+        "begin": "2021-07-14T14:00:00.000Z",
+        "broadcast": "R/2021-07-14T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -894,7 +944,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234721",
-        "begin": ""
+        "begin": "2021-07-09T14:00:01.000Z",
+        "broadcast": "R/2021-07-09T14:00:01.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -939,8 +990,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234736",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-07-31T18:00:00.000Z",
+        "broadcast": "R/2021-07-31T18:00:00.000Z/P7D"
       },
       {
         "site": "nowPlayer",
@@ -979,12 +1030,14 @@
         "site": "bilibili",
         "id": "28234640",
         "begin": "2021-07-15T13:40:01.000Z",
-        "broadcast": "R/2021-07-15T13:40:01.000Z/P7D"
+        "broadcast": "R/2021-07-15T13:40:01.000Z/P7D",
+        "comment": "正序版: 28235134"
       },
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234722",
-        "begin": ""
+        "begin": "2021-07-01T16:00:00.000Z",
+        "broadcast": "R/2021-07-01T16:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1038,7 +1091,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234735",
-        "begin": ""
+        "begin": "2021-07-15T16:30:01.000Z",
+        "broadcast": "R/2021-07-15T16:30:01.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1074,7 +1128,8 @@
       ],
       "zh-Hans": [
         "Love Live! Superstar!!",
-        "爱与演唱会!超级明星!!"
+        "爱与演唱会!超级明星!!",
+        "LoveLive 爱与演唱会!超级明星!!"
       ],
       "zh-Hant": [
         "Love Live! Superstar!!"
@@ -1109,6 +1164,12 @@
         "id": "111403",
         "begin": "2021-07-12T09:30:00.000Z",
         "broadcast": "R/2021-07-12T09:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234693",
+        "begin": "2021-08-28T12:00:00.000Z",
+        "broadcast": "R/2021-08-28T12:00:00.000Z/P7D"
       }
     ]
   },
@@ -1143,7 +1204,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234720",
-        "begin": ""
+        "begin": "2021-07-05T17:00:01.000Z",
+        "broadcast": "R/2021-07-05T17:00:01.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1188,7 +1250,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234733",
-        "begin": ""
+        "begin": "2021-07-03T17:30:01.000Z",
+        "broadcast": "R/2021-07-03T17:30:01.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -1266,7 +1329,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234727",
-        "begin": ""
+        "begin": "2021-07-12T17:30:01.000Z",
+        "broadcast": "R/2021-07-12T17:30:01.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -1303,7 +1367,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234740",
-        "begin": ""
+        "begin": "2021-07-14T16:30:00.000Z",
+        "broadcast": "R/2021-07-14T16:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1327,7 +1392,8 @@
         "IDOLiSH7-偶像星愿- 第三季"
       ],
       "zh-Hant": [
-        "IDOLiSH7 - 偶像星願 - Third BEAT！"
+        "IDOLiSH7 - 偶像星願 - Third BEAT！",
+        "IDOLiSH7-偶像星願-Third BEAT!"
       ]
     },
     "type": "tv",
@@ -1345,7 +1411,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234738",
-        "begin": ""
+        "begin": "2021-07-04T14:00:00.000Z",
+        "broadcast": "R/2021-07-04T14:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1356,6 +1423,12 @@
       {
         "site": "gamer",
         "id": "115581",
+        "begin": "2021-07-04T14:00:00.000Z",
+        "broadcast": "R/2021-07-04T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_tw",
+        "id": "28234738",
         "begin": "2021-07-04T14:00:00.000Z",
         "broadcast": "R/2021-07-04T14:00:00.000Z/P7D"
       }
@@ -1390,7 +1463,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234737",
-        "begin": ""
+        "begin": "2021-07-03T16:00:00.000Z",
+        "broadcast": "R/2021-07-03T16:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1450,7 +1524,11 @@
   },
   {
     "title": "TSUKIPRO THE ANIMATION2",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "月野艺能事务所 第二季"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://tsukipro-anime.com/",
@@ -1468,6 +1546,12 @@
         "id": "tsukipro-anime2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28234748",
+        "begin": "2021-08-12T12:30:01.000Z",
+        "broadcast": "R/2021-08-12T12:30:01.000Z/P7D"
       }
     ]
   },
@@ -1478,7 +1562,8 @@
         "魔法纪录 魔法少女小圆外传 第二季 -觉醒前夜-",
         "魔法纪录 魔法少女小圆外传 2nd SEASON -觉醒前夜-",
         "Magia Record 魔法少女小圆外传 第二季 -觉醒前夜-",
-        "Magia Record 魔法少女小圆外传 2nd SEASON -觉醒前夜-"
+        "Magia Record 魔法少女小圆外传 2nd SEASON -觉醒前夜-",
+        "魔法纪录 魔法少女小圆外传 第二季"
       ],
       "zh-Hant": [
         "魔法紀錄 魔法少女小圓外傳 第二季"
@@ -1507,6 +1592,12 @@
         "id": "118042",
         "begin": "2021-07-31T16:30:00.000Z",
         "broadcast": "R/2021-07-31T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234642",
+        "begin": "2021-08-28T16:30:01.000Z",
+        "broadcast": "R/2021-08-28T16:30:01.000Z/P7D"
       }
     ]
   },
@@ -1598,7 +1689,8 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234731",
-        "begin": ""
+        "begin": "2021-07-09T16:30:00.000Z",
+        "broadcast": "R/2021-07-09T16:30:00.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
@@ -1654,6 +1746,12 @@
         "id": "104513",
         "begin": "2021-01-12T15:30:00.000Z",
         "broadcast": "R/2021-01-12T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_tw",
+        "id": "28233475",
+        "begin": "2021-01-05T15:30:00.000Z",
+        "broadcast": "R/2021-01-05T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -1720,7 +1818,8 @@
     "title": "劇場編集版かくしごと ―ひめごとはなんですか―",
     "titleTranslate": {
       "zh-Hans": [
-        "剧场编集版 隐瞒之事 -秘密是什么-"
+        "剧场编集版 隐瞒之事 -秘密是什么-",
+        "隐瞒之事 电影剪辑版"
       ]
     },
     "type": "movie",
@@ -1739,6 +1838,12 @@
         "id": "kakushigoto-movie",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28234687",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1750,7 +1855,8 @@
       ],
       "zh-Hant": [
         "闇芝居 第9季",
-        "闇芝居 第九季"
+        "闇芝居 第九季",
+        "闇芝居9"
       ]
     },
     "type": "tv",
@@ -1774,6 +1880,12 @@
         "id": "118357",
         "begin": "2021-07-11T19:10:00.000Z",
         "broadcast": "R/2021-07-11T19:10:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234703",
+        "begin": "2021-07-11T19:10:01.000Z",
+        "broadcast": "R/2021-07-11T19:10:01.000Z/P7D"
       }
     ]
   },
@@ -1781,7 +1893,8 @@
     "title": "劇場版 七つの大罪 光に呪われし者たち",
     "titleTranslate": {
       "zh-Hans": [
-        "七大罪：被光诅咒的众人"
+        "七大罪：被光诅咒的众人",
+        "光之诅咒者"
       ],
       "zh-Hant": [
         "七大罪：被光詛咒的人們"
@@ -1805,6 +1918,12 @@
         "id": "81263946",
         "begin": "2021-09-30T16:00:00.000Z",
         "broadcast": "R/2021-09-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28481148",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1843,7 +1962,8 @@
     "title": "Fate/Grand Order -終局特異点 冠位時間神殿ソロモン-",
     "titleTranslate": {
       "zh-Hans": [
-        "Fate/Grand Order -终局特异点 冠位时间神殿所罗门-"
+        "Fate/Grand Order -终局特异点 冠位时间神殿所罗门-",
+        "命运-冠位指定 冠位时间神殿所罗门"
       ],
       "zh-Hant": [
         "Fate/Grand Order - 終局特異點 冠位時間神殿所羅門 -"
@@ -1864,6 +1984,12 @@
         "id": "110589",
         "begin": "2022-08-19T02:00:00.000Z",
         "broadcast": "R/2022-08-19T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28236225",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

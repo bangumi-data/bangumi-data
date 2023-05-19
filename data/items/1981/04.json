@@ -45,7 +45,8 @@
       {
         "site": "bilibili",
         "id": "3226",
-        "begin": "2009-12-31T16:00:01.000Z"
+        "begin": "2009-12-31T16:00:01.000Z",
+        "broadcast": "R/2015-12-20T07:11:00.000Z/P7D"
       }
     ]
   },
@@ -65,6 +66,31 @@
       {
         "site": "bangumi",
         "id": "127355"
+      }
+    ]
+  },
+  {
+    "title": "若草の四姉妹",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小妇人"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1981-04-06T09:00:00.000Z",
+    "end": "1981-09-28T09:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "73724"
+      },
+      {
+        "site": "bilibili",
+        "id": "5410",
+        "begin": "2016-08-01T02:43:15.000Z",
+        "broadcast": "R/2016-08-01T02:43:15.000Z/P7D"
       }
     ]
   }

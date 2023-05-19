@@ -51,7 +51,8 @@
       {
         "site": "bilibili",
         "id": "3908",
-        "begin": "1998-07-31T16:00:01.000Z"
+        "begin": "1998-07-31T16:00:01.000Z",
+        "broadcast": ""
       },
       {
         "site": "iqiyi",
@@ -94,7 +95,8 @@
     "title": "新機動戦記ガンダムW Endless Waltz 特別篇",
     "titleTranslate": {
       "zh-Hans": [
-        "新机动战记高达W 无尽的华尔兹 剧场版"
+        "新机动战记高达W 无尽的华尔兹 剧场版",
+        "新机动战记高达W剧场版 无尽的华尔兹"
       ]
     },
     "type": "movie",
@@ -111,6 +113,12 @@
       {
         "site": "bangumi",
         "id": "2772"
+      },
+      {
+        "site": "bilibili",
+        "id": "28227667",
+        "begin": "2020-02-03T12:02:08.000Z",
+        "broadcast": "R/2020-02-03T12:02:08.000Z/P7D"
       }
     ]
   },
@@ -148,6 +156,8 @@
     "title": "機動戦艦ナデシコ -The prince of darkness-",
     "titleTranslate": {
       "zh-Hans": [
+        "机动战舰抚子号 暗黑王子",
+        "机动战舰大和抚子 剧场版",
         "机动战舰 -The prince of darkness-"
       ]
     },
@@ -175,6 +185,12 @@
         "site": "acfun",
         "id": "6000808",
         "begin": "2019-12-12T05:54:11.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "2508",
+        "begin": "2018-09-05T16:00:00.000Z",
+        "broadcast": "R/2018-09-05T16:00:00.000Z/P7D"
       }
     ]
   }

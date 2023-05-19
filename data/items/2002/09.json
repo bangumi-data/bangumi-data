@@ -24,7 +24,8 @@
       {
         "site": "bilibili",
         "id": "2020",
-        "begin": "2002-09-06T16:00:00.000Z"
+        "begin": "2002-09-06T16:00:00.000Z",
+        "broadcast": "R/2013-07-30T05:39:05.000Z/P7D"
       }
     ]
   },
@@ -86,7 +87,8 @@
       {
         "site": "bilibili",
         "id": "5228",
-        "begin": "2002-09-29T16:00:01.000Z"
+        "begin": "2002-09-29T16:00:01.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -119,7 +121,11 @@
     "title": "ハングリーハートWILD STRIKER",
     "titleTranslate": {
       "zh-Hans": [
-        "野驁射手"
+        "野驁射手",
+        "野狼前锋"
+      ],
+      "zh-Hant": [
+        "踢出我天地"
       ]
     },
     "type": "tv",
@@ -136,6 +142,62 @@
       {
         "site": "bangumi",
         "id": "19712"
+      },
+      {
+        "site": "bilibili",
+        "id": "2027",
+        "begin": "2012-01-20T10:08:00.000Z",
+        "broadcast": "R/2012-01-20T10:08:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "幻想魔伝 最遊記 -希望の罪過-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "最游记OVA 希望之罪过"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-09-18T16:00:00.000Z",
+    "end": "2002-09-18T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "117084"
+      },
+      {
+        "site": "bilibili",
+        "id": "3853",
+        "begin": "2016-04-25T10:02:00.000Z",
+        "broadcast": "R/2016-04-25T10:02:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ヴァンドレッド 激闘篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河冒险战记 激斗篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-09-13T16:00:00.000Z",
+    "end": "2002-09-13T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "54726"
+      },
+      {
+        "site": "bilibili",
+        "id": "4048",
+        "begin": "2016-05-24T08:58:00.000Z",
+        "broadcast": "R/2016-05-24T08:58:00.000Z/P7D"
       }
     ]
   }

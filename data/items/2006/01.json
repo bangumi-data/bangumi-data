@@ -49,7 +49,8 @@
       {
         "site": "bilibili",
         "id": "120732",
-        "begin": "2006-01-06T16:30:00.000Z"
+        "begin": "2006-01-06T16:30:00.000Z",
+        "broadcast": "R/2018-07-31T06:07:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -108,7 +109,8 @@
       {
         "site": "bilibili",
         "id": "1400",
-        "begin": "2006-01-04T16:00:00.000Z"
+        "begin": "2006-01-04T16:00:00.000Z",
+        "broadcast": "R/2018-09-07T09:33:09.000Z/P7D"
       }
     ]
   },
@@ -167,7 +169,8 @@
       {
         "site": "bilibili",
         "id": "1391",
-        "begin": "2006-01-11T16:00:00.000Z"
+        "begin": "2006-01-11T16:00:00.000Z",
+        "broadcast": "R/2011-01-18T00:17:00.000Z/P7D"
       },
       {
         "site": "letv",
@@ -200,7 +203,8 @@
       {
         "site": "bilibili",
         "id": "4954",
-        "begin": "2006-01-06T16:00:01.000Z"
+        "begin": "2006-01-06T16:00:01.000Z",
+        "broadcast": "R/2016-06-20T02:58:00.000Z/P7D"
       }
     ]
   },
@@ -209,7 +213,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "键姬物语",
-        "键姫物语-永久爱丽丝轮舞曲"
+        "键姫物语-永久爱丽丝轮舞曲",
+        "键姬物语 永久爱丽丝轮舞曲"
       ]
     },
     "type": "tv",
@@ -231,6 +236,12 @@
         "site": "letv",
         "id": "13892",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "1401",
+        "begin": "2010-12-31T16:01:26.000Z",
+        "broadcast": "R/2010-12-31T16:01:26.000Z/P7D"
       }
     ]
   },
@@ -274,7 +285,8 @@
       {
         "site": "bilibili",
         "id": "4948",
-        "begin": "2006-01-08T16:00:01.000Z"
+        "begin": "2006-01-08T16:00:01.000Z",
+        "broadcast": "R/2016-06-19T09:19:00.000Z/P7D"
       }
     ]
   },
@@ -318,7 +330,8 @@
       {
         "site": "bilibili",
         "id": "1399",
-        "begin": "2006-01-06T16:00:00.000Z"
+        "begin": "2006-01-06T16:00:00.000Z",
+        "broadcast": "R/2011-09-17T22:59:00.000Z/P7D"
       }
     ]
   },
@@ -388,7 +401,8 @@
       {
         "site": "bilibili",
         "id": "1879",
-        "begin": "2006-01-21T16:00:00.000Z"
+        "begin": "2006-01-21T16:00:00.000Z",
+        "broadcast": "R/2014-05-14T13:30:00.000Z/P7D"
       }
     ]
   },
@@ -417,7 +431,8 @@
       {
         "site": "bilibili",
         "id": "1396",
-        "begin": "2006-01-11T16:00:00.000Z"
+        "begin": "2006-01-11T16:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "qq",
@@ -466,7 +481,8 @@
       {
         "site": "bilibili",
         "id": "4951",
-        "begin": "2006-01-08T16:00:01.000Z"
+        "begin": "2006-01-08T16:00:01.000Z",
+        "broadcast": "R/2016-06-20T02:51:00.000Z/P7D"
       }
     ]
   },
@@ -489,6 +505,12 @@
       {
         "site": "bangumi",
         "id": "147199"
+      },
+      {
+        "site": "bilibili",
+        "id": "142412",
+        "begin": "2018-10-16T06:16:00.000Z",
+        "broadcast": "R/2018-10-16T06:16:00.000Z/P7D"
       }
     ]
   },
@@ -517,7 +539,8 @@
       {
         "site": "bilibili",
         "id": "4970",
-        "begin": "2005-12-31T16:00:01.000Z"
+        "begin": "2005-12-31T16:00:01.000Z",
+        "broadcast": "R/2016-06-20T03:30:00.000Z/P7D"
       }
     ]
   },
@@ -525,7 +548,8 @@
     "title": "攻殻機動隊 S.A.C. 2nd GIG Individual Eleven",
     "titleTranslate": {
       "zh-Hans": [
-        "攻壳机动队 S.A.C. 2nd GIG 个别的十一人"
+        "攻壳机动队 S.A.C. 2nd GIG 个别的十一人",
+        "攻壳机动队 个别的十一人"
       ]
     },
     "type": "ova",
@@ -538,6 +562,96 @@
       {
         "site": "bangumi",
         "id": "48746"
+      },
+      {
+        "site": "bilibili",
+        "id": "1714",
+        "begin": "2016-04-07T08:59:00.000Z",
+        "broadcast": "R/2016-04-07T08:59:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "カレイドスター Legend of phoenix 〜レイラ・ハミルトン物語〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "百变之星 不死鸟传说 ～蕾拉・汉密尔顿物语～",
+        "百变之星 不死鸟传说 - 蕾拉・汉密尔顿物语",
+        "万花筒之星OVA2 凤凰传说",
+        "星梦美少女OVA2",
+        "卡莱多之星OVA2",
+        "星夢美少女 - 鳳凰傳說 / 浴火鳳凰"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.gonzo.co.jp/archives/kaleido-star/",
+    "begin": "2006-01-26T16:00:00.000Z",
+    "end": "2006-01-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37063"
+      },
+      {
+        "site": "bilibili",
+        "id": "3778",
+        "begin": "2016-04-19T02:11:00.000Z",
+        "broadcast": "R/2016-04-19T02:11:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "灼眼のシャナたん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "灼眼的夏娜炭"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2006-01-24T16:00:00.000Z",
+    "end": "2006-01-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "5109"
+      },
+      {
+        "site": "bilibili",
+        "id": "4949",
+        "begin": "2016-06-20T02:34:00.000Z",
+        "broadcast": "R/2016-06-20T02:34:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "銀色の髪のアギト",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银发的阿基多",
+        "银色头发的阿基德"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.mediafactory.co.jp/anime/gin-iro/",
+    "begin": "2006-01-06T16:00:00.000Z",
+    "end": "2006-01-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3847"
+      },
+      {
+        "site": "bilibili",
+        "id": "4953",
+        "begin": "2016-06-20T02:55:24.000Z",
+        "broadcast": "R/2016-06-20T02:55:24.000Z/P7D"
       }
     ]
   }

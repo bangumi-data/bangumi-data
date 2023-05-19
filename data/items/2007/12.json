@@ -24,7 +24,8 @@
       {
         "site": "bilibili",
         "id": "1347",
-        "begin": "2007-12-05T16:00:00.000Z"
+        "begin": "2007-12-05T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -82,7 +83,8 @@
       {
         "site": "bilibili",
         "id": "5742",
-        "begin": "2007-12-07T16:00:01.000Z"
+        "begin": "2007-12-07T16:00:01.000Z",
+        "broadcast": "R/2016-12-03T07:48:00.000Z/P7D"
       }
     ]
   },
@@ -135,7 +137,8 @@
       {
         "site": "bilibili",
         "id": "3254",
-        "begin": "2007-12-18T16:00:01.000Z"
+        "begin": "2007-12-18T16:00:01.000Z",
+        "broadcast": "R/2016-01-01T08:33:50.000Z/P7D"
       },
       {
         "site": "letv",
@@ -146,7 +149,11 @@
   },
   {
     "title": ".hack//G.U. TRILOGY",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "骇客时空 G.U.TRILOGY"
+      ]
+    },
     "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.hack.channel.or.jp/trilogy/",
@@ -162,6 +169,38 @@
         "site": "qq",
         "id": "u/uiggrmcf7aqzps0",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "4831",
+        "begin": "2017-03-18T08:15:36.000Z",
+        "broadcast": "R/2017-03-18T08:15:36.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版BLEACH The DiamondDust Rebellion もう一つの氷輪丸",
+    "titleTranslate": {
+      "zh-Hans": [
+        "死神劇場版 鑽石星塵的反叛"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2007-12-21T16:00:00.000Z",
+    "end": "2007-12-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1924"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28338752",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

@@ -49,6 +49,12 @@
       {
         "site": "bangumi",
         "id": "4212"
+      },
+      {
+        "site": "bilibili",
+        "id": "132232",
+        "begin": "2018-09-08T10:17:00.000Z",
+        "broadcast": "R/2018-09-08T10:17:00.000Z/P7D"
       }
     ]
   },
@@ -87,7 +93,8 @@
       {
         "site": "bilibili",
         "id": "10472",
-        "begin": "1994-04-22T16:00:01.000Z"
+        "begin": "1994-04-22T16:00:01.000Z",
+        "broadcast": "R/2017-12-01T08:11:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -124,7 +131,8 @@
       {
         "site": "bilibili",
         "id": "3809",
-        "begin": "1994-03-31T16:00:01.000Z"
+        "begin": "1994-03-31T16:00:01.000Z",
+        "broadcast": "R/2018-02-08T04:16:00.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
@@ -214,6 +222,32 @@
         "site": "qq",
         "id": "m/mzc00200flv7mmy",
         "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "銀河戦国群雄伝ライ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河战国群雄传"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-04-07T16:00:00.000Z",
+    "end": "1995-03-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "165758"
+      },
+      {
+        "site": "bilibili",
+        "id": "6074",
+        "begin": "2017-04-18T02:04:00.000Z",
+        "broadcast": "R/2017-04-18T02:04:00.000Z/P7D"
       }
     ]
   }

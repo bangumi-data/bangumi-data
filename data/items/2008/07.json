@@ -24,7 +24,8 @@
       {
         "site": "bilibili",
         "id": "3339",
-        "begin": "2008-07-31T16:00:01.000Z"
+        "begin": "2008-07-31T16:00:01.000Z",
+        "broadcast": "R/2016-02-16T03:20:50.000Z/P7D"
       }
     ]
   },
@@ -61,7 +62,8 @@
       {
         "site": "bilibili",
         "id": "732",
-        "begin": "2008-07-02T16:00:00.000Z"
+        "begin": "2008-07-02T16:00:00.000Z",
+        "broadcast": "R/2013-08-18T06:24:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -109,7 +111,8 @@
       {
         "site": "bilibili",
         "id": "44832",
-        "begin": "2008-07-03T16:00:01.000Z"
+        "begin": "2008-07-03T16:00:01.000Z",
+        "broadcast": "R/2018-01-09T04:40:00.000Z/P7D"
       }
     ]
   },
@@ -120,7 +123,8 @@
         "Slayers Revolution"
       ],
       "zh-Hans": [
-        "秀逗魔导士REVOLUTION"
+        "秀逗魔导士REVOLUTION",
+        "秀逗魔导士 第四季 上"
       ]
     },
     "type": "tv",
@@ -142,6 +146,12 @@
       {
         "site": "bangumi",
         "id": "11645"
+      },
+      {
+        "site": "bilibili",
+        "id": "1115",
+        "begin": "2012-02-15T18:58:00.000Z",
+        "broadcast": "R/2012-02-15T18:58:00.000Z/P7D"
       }
     ]
   },
@@ -178,7 +188,8 @@
       {
         "site": "bilibili",
         "id": "1230",
-        "begin": "2008-07-12T16:00:00.000Z"
+        "begin": "2008-07-12T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -241,7 +252,8 @@
       {
         "site": "bilibili",
         "id": "1660",
-        "begin": "2008-07-06T16:00:00.000Z"
+        "begin": "2008-07-06T16:00:00.000Z",
+        "broadcast": "R/2015-01-22T06:49:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -330,7 +342,8 @@
       {
         "site": "bilibili",
         "id": "1231",
-        "begin": "2008-07-04T16:00:00.000Z"
+        "begin": "2008-07-04T16:00:00.000Z",
+        "broadcast": "R/2013-02-17T00:03:00.000Z/P7D"
       }
     ]
   },
@@ -400,7 +413,8 @@
       {
         "site": "bilibili",
         "id": "1233",
-        "begin": "2008-07-06T16:00:00.000Z"
+        "begin": "2008-07-06T16:00:00.000Z",
+        "broadcast": "R/2017-03-18T06:30:00.000Z/P7D"
       },
       {
         "site": "letv",
@@ -434,7 +448,8 @@
       {
         "site": "bilibili",
         "id": "1062",
-        "begin": "2008-07-09T16:00:00.000Z"
+        "begin": "2008-07-09T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -556,7 +571,8 @@
       {
         "site": "bilibili",
         "id": "1235",
-        "begin": "2008-07-01T16:00:00.000Z"
+        "begin": "2008-07-01T16:00:00.000Z",
+        "broadcast": "R/2010-08-03T06:10:00.000Z/P7D"
       }
     ]
   },
@@ -637,7 +653,8 @@
       {
         "site": "bilibili",
         "id": "1232",
-        "begin": "2008-07-02T16:00:00.000Z"
+        "begin": "2008-07-02T16:00:00.000Z",
+        "broadcast": "R/2012-02-01T16:04:00.000Z/P7D"
       }
     ]
   },
@@ -645,7 +662,8 @@
     "title": "ルパン三世 sweet lost night ～魔法のランプは悪夢の予感～",
     "titleTranslate": {
       "zh-Hans": [
-        "鲁邦三世 sweet lost night~魔法的神灯是噩梦的预感~"
+        "鲁邦三世 sweet lost night~魔法的神灯是噩梦的预感~",
+        "鲁邦三世： sweet lost night~魔法的神灯是噩梦的预感~"
       ]
     },
     "type": "tv",
@@ -662,6 +680,12 @@
         "site": "pptv",
         "id": "ibZ32dNxCsvBT0Tk",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3946",
+        "begin": "2021-03-31T15:26:00.000Z",
+        "broadcast": "R/2021-03-31T15:26:00.000Z/P7D"
       }
     ]
   },
@@ -761,7 +785,8 @@
       {
         "site": "bilibili",
         "id": "5749",
-        "begin": "2008-07-18T16:00:01.000Z"
+        "begin": "2008-07-18T16:00:01.000Z",
+        "broadcast": "R/2016-12-07T05:53:50.000Z/P7D"
       }
     ]
   },
@@ -791,6 +816,56 @@
         "site": "qq",
         "id": "y/yfkvf60im3q0i2v",
         "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "CLANNAD もうひとつの世界 智代編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "CLANNAD 另一个世界 智代篇"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2008-07-15T16:00:00.000Z",
+    "end": "2008-07-15T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37873"
+      },
+      {
+        "site": "bilibili",
+        "id": "2655",
+        "begin": "2011-02-24T10:15:00.000Z",
+        "broadcast": "R/2011-02-24T10:15:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "スクールランブル 三学期",
+    "titleTranslate": {
+      "zh-Hans": [
+        "校园迷糊大王 三学期"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://sr.kc.kodansha.co.jp/",
+    "begin": "2008-07-16T16:00:00.000Z",
+    "end": "2008-09-16T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1879"
+      },
+      {
+        "site": "bilibili",
+        "id": "3751",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

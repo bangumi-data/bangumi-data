@@ -17,5 +17,56 @@
         "id": "127778"
       }
     ]
+  },
+  {
+    "title": "科学忍者隊ガッチャマン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "科学小飞侠 剧场版",
+        "科学小飞侠 THE MOVIE"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1978-07-14T16:00:00.000Z",
+    "end": "1978-07-14T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "80846"
+      },
+      {
+        "site": "bilibili",
+        "id": "6399",
+        "begin": "2017-08-21T03:38:00.000Z",
+        "broadcast": "R/2017-08-21T03:38:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "宇宙魔神ダイケンゴー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙魔神大剑豪"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1978-07-26T16:00:00.000Z",
+    "end": "1979-02-14T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37281"
+      },
+      {
+        "site": "bilibili",
+        "id": "2461",
+        "begin": "2014-06-05T15:12:25.000Z",
+        "broadcast": "R/2014-06-05T15:12:25.000Z/P7D"
+      }
+    ]
   }
 ]

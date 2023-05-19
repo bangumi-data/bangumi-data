@@ -43,7 +43,8 @@
       {
         "site": "bilibili",
         "id": "2151",
-        "begin": "2000-01-25T16:00:00.000Z"
+        "begin": "2000-01-25T16:00:00.000Z",
+        "broadcast": "R/2016-05-05T06:35:00.000Z/P7D"
       }
     ]
   },
@@ -72,7 +73,8 @@
       {
         "site": "bilibili",
         "id": "2167",
-        "begin": "2000-01-09T16:00:00.000Z"
+        "begin": "2000-01-09T16:00:00.000Z",
+        "broadcast": "R/2014-04-12T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -101,12 +103,38 @@
       {
         "site": "bilibili",
         "id": "2150",
-        "begin": "2000-01-04T16:00:00.000Z"
+        "begin": "2000-01-04T16:00:00.000Z",
+        "broadcast": "R/2012-10-15T10:38:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
         "id": "boogiepop-phantom",
         "begin": "2018-09-21T09:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "勇者王ガオガイガーFINAL",
+    "titleTranslate": {
+      "zh-Hans": [
+        "勇者王GaoGaiGar Final"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.gaogaigar.net/",
+    "begin": "2000-01-20T16:00:00.000Z",
+    "end": "2003-03-20T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "2979"
+      },
+      {
+        "site": "bilibili",
+        "id": "3957",
+        "begin": "2016-05-04T08:35:16.000Z",
+        "broadcast": "R/2016-05-04T08:35:16.000Z/P7D"
       }
     ]
   }

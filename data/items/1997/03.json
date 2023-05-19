@@ -27,7 +27,8 @@
       {
         "site": "bilibili",
         "id": "10312",
-        "begin": "1997-03-14T16:00:00.000Z"
+        "begin": "1997-03-14T16:00:00.000Z",
+        "broadcast": "R/2017-10-04T10:44:00.000Z/P7D"
       },
       {
         "site": "acfun",
@@ -139,7 +140,33 @@
       {
         "site": "bilibili",
         "id": "3864",
-        "begin": "1997-03-07T16:00:01.000Z"
+        "begin": "1997-03-07T16:00:01.000Z",
+        "broadcast": "R/2016-04-27T08:38:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "神秘の世界エルハザード2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "神秘的世界 EL-HAZARD 2 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-03-20T16:00:00.000Z",
+    "end": "1997-10-24T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "81172"
+      },
+      {
+        "site": "bilibili",
+        "id": "4031",
+        "begin": "2016-05-20T07:34:00.000Z",
+        "broadcast": "R/2016-05-20T07:34:00.000Z/P7D"
       }
     ]
   }

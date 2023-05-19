@@ -24,12 +24,39 @@
       {
         "site": "bilibili",
         "id": "2458",
-        "begin": "1979-10-09T16:00:00.000Z"
+        "begin": "1979-10-09T16:00:00.000Z",
+        "broadcast": "R/2021-03-31T09:13:00.000Z/P7D"
       },
       {
         "site": "qq",
         "id": "m/mzc00200pin2sf7",
         "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "科学忍者隊ガッチャマンF",
+    "titleTranslate": {
+      "zh-Hans": [
+        "科学小飞侠F",
+        "旋风小飞侠"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1979-10-06T16:00:00.000Z",
+    "end": "1980-08-30T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "61601"
+      },
+      {
+        "site": "bilibili",
+        "id": "6160",
+        "begin": "2017-05-09T05:48:00.000Z",
+        "broadcast": "R/2017-05-09T05:48:00.000Z/P7D"
       }
     ]
   }

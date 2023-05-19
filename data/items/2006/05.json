@@ -26,7 +26,8 @@
       {
         "site": "bilibili",
         "id": "1473",
-        "begin": "2006-05-17T16:00:00.000Z"
+        "begin": "2006-05-17T16:00:00.000Z",
+        "broadcast": "R/2012-10-15T04:44:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -81,6 +82,38 @@
         "site": "nicovideo",
         "id": "fullmetal-panic-secondraid2",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3572",
+        "begin": "2016-04-12T06:24:00.000Z",
+        "broadcast": "R/2016-04-12T06:24:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "Memories Off #5 とぎれたフィルム THE ANIMATION",
+    "titleTranslate": {
+      "zh-Hans": [
+        "秋之回忆5 中断的胶片"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2006-05-24T16:00:00.000Z",
+    "end": "2006-05-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "23157"
+      },
+      {
+        "site": "bilibili",
+        "id": "4916",
+        "begin": "2016-06-17T09:15:00.000Z",
+        "broadcast": "R/2016-06-17T09:15:00.000Z/P7D"
       }
     ]
   }

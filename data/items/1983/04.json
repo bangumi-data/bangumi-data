@@ -29,7 +29,8 @@
       {
         "site": "bilibili",
         "id": "2436",
-        "begin": "1983-03-31T16:00:00.000Z"
+        "begin": "1983-03-31T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -73,6 +74,32 @@
       {
         "site": "bangumi",
         "id": "213669"
+      }
+    ]
+  },
+  {
+    "title": "銀河疾風サスライガー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河疾风流离我",
+        "银河疾风"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1983-10-02T16:00:00.000Z",
+    "end": "1984-01-30T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37198"
+      },
+      {
+        "site": "bilibili",
+        "id": "2434",
+        "begin": "2014-06-21T11:12:00.000Z",
+        "broadcast": "R/2014-06-21T11:12:00.000Z/P7D"
       }
     ]
   }

@@ -27,7 +27,8 @@
       {
         "site": "bilibili",
         "id": "1908",
-        "begin": "2004-06-11T16:00:00.000Z"
+        "begin": "2004-06-11T16:00:00.000Z",
+        "broadcast": "R/2011-05-06T02:33:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -67,7 +68,8 @@
       {
         "site": "bilibili",
         "id": "1891",
-        "begin": "2004-06-29T16:00:00.000Z"
+        "begin": "2004-06-29T16:00:00.000Z",
+        "broadcast": "R/2013-02-17T00:33:00.000Z/P7D"
       }
     ]
   },
@@ -91,7 +93,8 @@
       {
         "site": "bilibili",
         "id": "5138",
-        "begin": "2004-06-29T16:00:01.000Z"
+        "begin": "2004-06-29T16:00:01.000Z",
+        "broadcast": "R/2016-07-08T06:42:00.000Z/P7D"
       }
     ]
   },
@@ -121,7 +124,8 @@
       {
         "site": "bilibili",
         "id": "1873",
-        "begin": "2004-06-24T17:12:00.000Z"
+        "begin": "2004-06-24T17:12:00.000Z",
+        "broadcast": "R/2014-09-01T14:00:05.000Z/P7D"
       }
     ]
   },
@@ -146,6 +150,57 @@
       {
         "site": "bangumi",
         "id": "14879"
+      }
+    ]
+  },
+  {
+    "title": "Wind -a breath of heart- OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "风－心之呼吸 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2004-06-24T16:00:00.000Z",
+    "end": "2004-12-21T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "54724"
+      },
+      {
+        "site": "bilibili",
+        "id": "3831",
+        "begin": "2016-04-21T08:13:00.000Z",
+        "broadcast": "R/2016-04-21T08:13:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "まかせてイルか!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海豚便利店",
+        "海豚便利屋"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.cwfilms.jp/irukaya/",
+    "begin": "2004-06-09T16:00:00.000Z",
+    "end": "2004-06-09T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "13823"
+      },
+      {
+        "site": "bilibili",
+        "id": "2997",
+        "begin": "2015-11-13T14:47:00.000Z",
+        "broadcast": "R/2015-11-13T14:47:00.000Z/P7D"
       }
     ]
   }

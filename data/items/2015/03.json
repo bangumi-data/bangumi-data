@@ -24,7 +24,8 @@
       {
         "site": "bilibili",
         "id": "24369576",
-        "begin": "2015-03-29T16:00:00.000Z"
+        "begin": "2015-03-29T16:00:00.000Z",
+        "broadcast": "R/2019-03-29T06:40:26.000Z/P7D"
       }
     ]
   },
@@ -49,7 +50,8 @@
       {
         "site": "bilibili",
         "id": "113432",
-        "begin": "2015-03-30T16:00:01.000Z"
+        "begin": "2015-03-30T16:00:01.000Z",
+        "broadcast": "R/2018-07-04T03:50:15.000Z/P7D"
       }
     ]
   },
@@ -92,7 +94,8 @@
       {
         "site": "bilibili",
         "id": "5915",
-        "begin": "2015-03-29T16:00:00.000Z"
+        "begin": "2015-03-29T16:00:00.000Z",
+        "broadcast": "R/2017-02-06T06:02:50.000Z/P7D"
       }
     ]
   },
@@ -108,7 +111,8 @@
       {
         "site": "bilibili",
         "id": "2542",
-        "begin": "2015-02-28T16:00:00.000Z"
+        "begin": "2015-02-28T16:00:00.000Z",
+        "broadcast": "R/2015-03-31T03:24:00.000Z/P7D"
       },
       {
         "site": "pptv",
@@ -213,7 +217,8 @@
       {
         "site": "bilibili",
         "id": "3902",
-        "begin": "2015-03-06T16:00:01.000Z"
+        "begin": "2015-03-06T16:00:01.000Z",
+        "broadcast": "R/2016-04-28T06:48:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -451,7 +456,8 @@
       {
         "site": "bilibili",
         "id": "3366",
-        "begin": "2015-03-13T16:00:00.000Z"
+        "begin": "2015-03-13T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -476,7 +482,35 @@
       {
         "site": "bilibili",
         "id": "3485",
-        "begin": "2015-03-05T16:00:00.000Z"
+        "begin": "2015-03-05T16:00:00.000Z",
+        "broadcast": "R/2016-03-23T05:50:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "グッド・モーニング!!!ドロンジョ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Good Morning!!! DORONJO",
+        "Doronjo ZIP!"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tatsunoko.co.jp/works/good-morning-doronjo",
+    "begin": "2015-03-30T16:00:00.000Z",
+    "end": "2016-03-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "310445"
+      },
+      {
+        "site": "bilibili",
+        "id": "131952",
+        "begin": "2018-09-08T03:54:43.000Z",
+        "broadcast": "R/2018-09-08T03:54:43.000Z/P7D"
       }
     ]
   }

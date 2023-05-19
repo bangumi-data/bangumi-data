@@ -103,7 +103,8 @@
       {
         "site": "bilibili",
         "id": "3752",
-        "begin": "2005-12-21T16:00:01.000Z"
+        "begin": "2005-12-21T16:00:01.000Z",
+        "broadcast": "R/2016-04-15T07:28:00.000Z/P7D"
       }
     ]
   },
@@ -139,6 +140,12 @@
         "site": "qq",
         "id": "x/xkiym8goczymn4c",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3743",
+        "begin": "2016-04-14T08:04:00.000Z",
+        "broadcast": "R/2016-04-14T08:04:00.000Z/P7D"
       }
     ]
   },
@@ -211,7 +218,8 @@
       {
         "site": "bilibili",
         "id": "1976",
-        "begin": "2005-12-16T16:00:00.000Z"
+        "begin": "2005-12-16T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -261,6 +269,31 @@
         "site": "iqiyi",
         "id": "a_19rrhb4tzt",
         "begin": "2015-08-07T08:45:07.000Z"
+      }
+    ]
+  },
+  {
+    "title": "The King of Fighters: Another Day",
+    "titleTranslate": {
+      "zh-Hans": [
+        "拳皇的另一天"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2005-12-01T16:00:00.000Z",
+    "end": "2005-12-01T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "12309"
+      },
+      {
+        "site": "bilibili",
+        "id": "4984",
+        "begin": "2016-07-05T09:47:00.000Z",
+        "broadcast": "R/2016-07-05T09:47:00.000Z/P7D"
       }
     ]
   }

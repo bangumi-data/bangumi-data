@@ -19,7 +19,8 @@
       {
         "site": "bilibili",
         "id": "2319",
-        "begin": "1995-01-08T16:00:00.000Z"
+        "begin": "1995-01-08T16:00:00.000Z",
+        "broadcast": "R/2011-06-20T09:09:00.000Z/P7D"
       }
     ]
   },
@@ -70,6 +71,31 @@
         "site": "mgtv",
         "id": "43673",
         "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "NINKU -忍空-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍空"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1995-01-13T16:00:00.000Z",
+    "end": "1996-02-23T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53737"
+      },
+      {
+        "site": "bilibili",
+        "id": "4314802",
+        "begin": "2018-12-05T08:20:00.000Z",
+        "broadcast": "R/2018-12-05T08:20:00.000Z/P7D"
       }
     ]
   }

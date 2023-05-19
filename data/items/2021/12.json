@@ -45,6 +45,12 @@
         "id": "115835",
         "begin": "2021-12-05T15:45:00.000Z",
         "broadcast": "R/2021-12-05T15:45:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28235125",
+        "begin": "2022-03-12T12:00:00.000Z",
+        "broadcast": "R/2022-03-12T12:00:00.000Z/P7D"
       }
     ]
   },
@@ -109,7 +115,8 @@
       ],
       "zh-Hant": [
         "咒術迴戰 0 劇場版",
-        "劇場版咒術迴戰 0"
+        "劇場版咒術迴戰 0",
+        "劇場版 咒術迴戰 0"
       ],
       "en": [
         "Jujutsu Kaisen 0: The Movie"
@@ -131,6 +138,12 @@
         "id": "81602834",
         "begin": "2022-09-20T16:00:00.000Z",
         "broadcast": "R/2022-09-20T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339655",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -247,6 +260,33 @@
         "id": "115483",
         "begin": "2022-12-23T04:00:00.000Z",
         "broadcast": "R/2022-12-23T04:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "空色ユーティリティ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "一杆青空",
+        "空色Utility"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.yostar-pictures.co.jp/sorairo-utility",
+    "begin": "2021-12-31T10:30:00.000Z",
+    "end": "2021-12-31T10:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "354247"
+      },
+      {
+        "site": "bilibili",
+        "id": "28235977",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

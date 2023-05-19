@@ -22,5 +22,30 @@
         "begin": ""
       }
     ]
+  },
+  {
+    "title": "はだしのゲン2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "赤足小子2"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-06-13T15:00:00.000Z",
+    "end": "1986-06-13T15:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "137099"
+      },
+      {
+        "site": "bilibili",
+        "id": "5493",
+        "begin": "2016-09-14T03:05:00.000Z",
+        "broadcast": "R/2016-09-14T03:05:00.000Z/P7D"
+      }
+    ]
   }
 ]

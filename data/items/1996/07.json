@@ -3,7 +3,11 @@
     "title": "赤ちゃんと僕",
     "titleTranslate": {
       "zh-Hans": [
-        "BB有心事"
+        "BB有心事",
+        "天才宝贝",
+        "反斗小宝贝",
+        "BB与我",
+        "智慧反斗星"
       ]
     },
     "type": "tv",
@@ -15,6 +19,12 @@
       {
         "site": "bangumi",
         "id": "61649"
+      },
+      {
+        "site": "bilibili",
+        "id": "3130",
+        "begin": "2015-12-03T06:10:00.000Z",
+        "broadcast": "R/2015-12-03T06:10:00.000Z/P7D"
       }
     ]
   },
@@ -85,7 +95,8 @@
     "title": "スレイヤーズすぺしゃる",
     "titleTranslate": {
       "zh-Hans": [
-        "秀逗魔导士SPECIAL"
+        "秀逗魔导士SPECIAL",
+        "秀逗魔导士 SPECIAL"
       ],
       "zh-Hant": [
         "秀逗魔導士 SPECIAL"
@@ -112,6 +123,65 @@
         "id": "31128",
         "begin": "2019-01-30T04:00:00.000Z",
         "broadcast": "R/2019-01-30T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "3904",
+        "begin": "2016-05-03T03:32:00.000Z",
+        "broadcast": "R/2016-05-03T03:32:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "BLUE SEED2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "碧奇魂2",
+        "种子特务2"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-07-23T16:00:00.000Z",
+    "end": "1998-02-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "39263"
+      },
+      {
+        "site": "bilibili",
+        "id": "25586515",
+        "begin": "2019-04-02T06:28:00.000Z",
+        "broadcast": "R/2019-04-02T06:28:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ガンバリスト! 駿",
+    "titleTranslate": {
+      "zh-Hans": [
+        "奥运高手"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-06-30T16:00:00.000Z",
+    "end": "1997-03-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "23181"
+      },
+      {
+        "site": "bilibili",
+        "id": "2294",
+        "begin": "2012-08-21T11:11:00.000Z",
+        "broadcast": "R/2012-08-21T11:11:00.000Z/P7D"
       }
     ]
   }

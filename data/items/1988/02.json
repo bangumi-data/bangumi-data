@@ -89,7 +89,8 @@
       {
         "site": "bilibili",
         "id": "2506",
-        "begin": "1988-02-05T16:00:00.000Z"
+        "begin": "1988-02-05T16:00:00.000Z",
+        "broadcast": "R/2011-12-28T07:24:04.000Z/P7D"
       }
     ]
   },
@@ -110,6 +111,12 @@
       {
         "site": "bangumi",
         "id": "39531"
+      },
+      {
+        "site": "bilibili",
+        "id": "3284",
+        "begin": "2016-01-12T09:14:00.000Z",
+        "broadcast": "R/2016-01-12T09:14:00.000Z/P7D"
       }
     ]
   },
@@ -130,6 +137,32 @@
       {
         "site": "bangumi",
         "id": "16557"
+      }
+    ]
+  },
+  {
+    "title": "New Story of Aura Battler DUNBINE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "圣战士登拜因 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-02-24T16:00:00.000Z",
+    "end": "1988-08-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "39869"
+      },
+      {
+        "site": "bilibili",
+        "id": "4005",
+        "begin": "2016-05-17T08:13:00.000Z",
+        "broadcast": "R/2016-05-17T08:13:00.000Z/P7D"
       }
     ]
   }

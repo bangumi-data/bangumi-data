@@ -29,7 +29,8 @@
       {
         "site": "bilibili",
         "id": "3943",
-        "begin": "1997-07-31T16:00:01.000Z"
+        "begin": "1997-07-31T16:00:01.000Z",
+        "broadcast": "R/2021-03-31T13:42:00.000Z/P7D"
       }
     ]
   },
@@ -66,7 +67,8 @@
       {
         "site": "bilibili",
         "id": "3907",
-        "begin": "1997-08-01T16:00:01.000Z"
+        "begin": "1997-08-01T16:00:01.000Z",
+        "broadcast": "R/2019-05-13T08:48:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -111,7 +113,58 @@
       {
         "site": "bilibili",
         "id": "3861",
-        "begin": "1997-08-20T16:00:01.000Z"
+        "begin": "1997-08-20T16:00:01.000Z",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "地球が動いた日",
+    "titleTranslate": {
+      "zh-Hans": [
+        "地球变动之日"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-08-09T16:00:00.000Z",
+    "end": "1997-08-09T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37527"
+      },
+      {
+        "site": "bilibili",
+        "id": "3215",
+        "begin": "2015-12-17T02:31:00.000Z",
+        "broadcast": "R/2015-12-17T02:31:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "それゆけ! 宇宙戦艦ヤマモト・ヨーコII",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战舰山本洋子II"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-08-05T16:00:00.000Z",
+    "end": "1997-12-21T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "27207"
+      },
+      {
+        "site": "bilibili",
+        "id": "4040",
+        "begin": "2016-05-24T02:33:00.000Z",
+        "broadcast": "R/2016-05-24T02:33:00.000Z/P7D"
       }
     ]
   }

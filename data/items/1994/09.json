@@ -29,7 +29,8 @@
       {
         "site": "bilibili",
         "id": "1343",
-        "begin": "1994-09-23T16:00:00.000Z"
+        "begin": "1994-09-23T16:00:00.000Z",
+        "broadcast": "R/2012-03-18T17:39:28.000Z/P7D"
       }
     ]
   },
@@ -58,7 +59,8 @@
       {
         "site": "bilibili",
         "id": "5209",
-        "begin": "1994-09-02T16:00:01.000Z"
+        "begin": "1994-09-02T16:00:01.000Z",
+        "broadcast": "R/2016-07-14T09:45:00.000Z/P7D"
       }
     ]
   },
@@ -113,6 +115,57 @@
         "id": "PLC18xlbCdwtSAEbBd8mgeEwaQgJtzbem6",
         "begin": "2022-11-15T16:00:00.000Z",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "GATCHAMAN",
+    "titleTranslate": {
+      "zh-Hans": [
+        "科学小飞侠 OVA",
+        "科学小飞侠 OVA（1994）"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-09-30T16:00:00.000Z",
+    "end": "1995-03-31T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "61171"
+      },
+      {
+        "site": "bilibili",
+        "id": "521",
+        "begin": "2013-07-05T11:00:25.000Z",
+        "broadcast": "R/2013-07-05T11:00:25.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "TYLOR The Irresponsible Captain AN EXCEPTIONAL EPISODE ひとりぼっちの戦争 Tylor's War",
+    "titleTranslate": {
+      "zh-Hans": [
+        "无责任舰长 特别篇 孤独一人的战争"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-09-30T16:00:00.000Z",
+    "end": "1994-09-30T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "38731"
+      },
+      {
+        "site": "bilibili",
+        "id": "3996",
+        "begin": "2016-05-16T07:36:00.000Z",
+        "broadcast": "R/2016-05-16T07:36:00.000Z/P7D"
       }
     ]
   }

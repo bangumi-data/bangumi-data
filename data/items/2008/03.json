@@ -76,7 +76,8 @@
       {
         "site": "bilibili",
         "id": "1595",
-        "begin": "2008-03-16T16:00:00.000Z"
+        "begin": "2008-03-16T16:00:00.000Z",
+        "broadcast": "R/2015-01-20T07:13:00.000Z/P7D"
       }
     ]
   },
@@ -146,7 +147,8 @@
       {
         "site": "bilibili",
         "id": "3875",
-        "begin": "2008-03-07T16:00:00.000Z"
+        "begin": "2008-03-07T16:00:00.000Z",
+        "broadcast": "R/2016-04-28T02:35:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -250,7 +252,11 @@
   },
   {
     "title": "ToHeart2 ad",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "心之彼端2 Another Day"
+      ]
+    },
     "type": "ova",
     "lang": "ja",
     "officialSite": "http://aquaplus.jp/th2ad/product.html",
@@ -265,6 +271,12 @@
         "site": "nicovideo",
         "id": "th2ad",
         "begin": "2012-03-03T13:30:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "4050",
+        "begin": "2016-05-25T03:24:00.000Z",
+        "broadcast": "R/2016-05-25T03:24:00.000Z/P7D"
       }
     ]
   },
@@ -289,6 +301,12 @@
         "site": "pptv",
         "id": "9LQdmwNp2Rd6ibGA",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28221038",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

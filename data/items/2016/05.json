@@ -24,7 +24,8 @@
       {
         "site": "bilibili",
         "id": "4033",
-        "begin": "2016-05-07T16:00:00.000Z"
+        "begin": "2016-05-07T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -120,7 +121,8 @@
       {
         "site": "bilibili",
         "id": "5695",
-        "begin": "2016-05-08T16:00:01.000Z"
+        "begin": "2016-05-08T16:00:01.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -217,6 +219,32 @@
         "site": "pptv",
         "id": "lruVE3vhUYicycNg",
         "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "シンドバッド",
+    "titleTranslate": {
+      "zh-Hans": [
+        "辛巴达",
+        "辛巴达 真昼之夜与不可思议之门"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2016-05-13T16:00:00.000Z",
+    "end": "2016-05-13T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "174533"
+      },
+      {
+        "site": "bilibili",
+        "id": "28233833",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

@@ -29,7 +29,8 @@
       {
         "site": "bilibili",
         "id": "3949",
-        "begin": "2001-08-02T16:00:01.000Z"
+        "begin": "2001-08-02T16:00:01.000Z",
+        "broadcast": "R/2021-03-31T14:17:00.000Z/P7D"
       }
     ]
   },
@@ -49,6 +50,83 @@
       {
         "site": "bangumi",
         "id": "37529"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 幻想魔伝 最遊記 Requiem 選ばれざる者への鎮魂歌",
+    "titleTranslate": {
+      "zh-Hans": [
+        "最游记 Requiem 落选者的镇魂歌",
+        "剧场版 幻想魔伝 最游记 Requiem～给不被选中之人的镇魂歌～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://pierrot.jp/title/saiyuki_movie/frame.html",
+    "begin": "2001-08-17T16:00:00.000Z",
+    "end": "2001-08-17T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "20580"
+      },
+      {
+        "site": "bilibili",
+        "id": "3854",
+        "begin": "2016-04-25T10:08:00.000Z",
+        "broadcast": "R/2016-04-25T10:08:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ONE～輝く季節へ～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "ONE～辉之季节～"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-08-09T16:00:00.000Z",
+    "end": "2002-05-23T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "5016"
+      },
+      {
+        "site": "bilibili",
+        "id": "5294",
+        "begin": "2016-07-22T02:56:00.000Z",
+        "broadcast": "R/2016-07-22T02:56:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "Di Gi Charat 夏休みスペシャル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Di Gi Charat 暑假特别篇",
+        "铃铛猫娘 暑假特别篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.broccoli.co.jp/dejiko/",
+    "begin": "2001-08-01T16:00:00.000Z",
+    "end": "2001-08-02T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "205299"
+      },
+      {
+        "site": "bilibili",
+        "id": "132052",
+        "begin": "2018-09-08T06:50:00.000Z",
+        "broadcast": "R/2018-09-08T06:50:00.000Z/P7D"
       }
     ]
   }
