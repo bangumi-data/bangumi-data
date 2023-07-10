@@ -13,6 +13,18 @@
       {
         "site": "bangumi",
         "id": "428735"
+      },
+      {
+        "site": "gamer",
+        "id": "131634",
+        "begin": "2023-06-29T13:05:00.000Z",
+        "broadcast": "R/2023-06-29T13:05:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UciHpW1-lDtgThiW4UbbyQ4_",
+        "begin": "2023-06-29T13:35:00.000Z",
+        "broadcast": "R/2023-06-29T13:35:00.000Z/P7D"
       }
     ]
   },
@@ -21,6 +33,10 @@
     "titleTranslate": {
       "zh-Hans": [
         "幻日夜羽 -镜中晖光-"
+      ],
+      "zh-Hant": [
+        "幻日夜羽 -鏡中暉光-",
+        "幻日夜羽 -鏡中輝光-"
       ]
     },
     "type": "tv",
@@ -30,9 +46,87 @@
     "broadcast": "R/2023-06-25T14:00:00.000Z/P7D",
     "end": "",
     "comment": "",
-    "sites": [{
-      "site": "bangumi",
-      "id": "389772"
-    }]
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "389772"
+      },
+      {
+        "site": "gamer",
+        "id": "125457",
+        "begin": "2023-06-25T14:30:00.000Z",
+        "broadcast": "R/2023-06-25T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchRuaTPZS0A9Uk4l36EBkUI",
+        "begin": "2023-06-25T14:30:00.000Z",
+        "broadcast": "R/2023-06-25T14:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "映画 ブラッククローバー 魔法帝の剣",
+    "titleTranslate": {
+      "zh-Hans": [
+        "黑色五叶草：魔法帝之剑"
+      ],
+      "zh-Hant": [
+        "黑色五葉草：魔法帝之劍"
+      ],
+      "en": [
+        "Black Clover: Sword of the Wizard King"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://bclover-movie.jp/",
+    "begin": "2023-06-15T16:00:00.000Z",
+    "end": "2023-06-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "331759"
+      },
+      {
+        "site": "netflix",
+        "id": "81448990",
+        "begin": "2023-06-15T16:00:00.000Z",
+        "broadcast": "R/2023-06-15T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "大奥",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大奥"
+      ],
+      "zh-Hant": [
+        "大奧"
+      ],
+      "en": [
+        "Ōoku: The Inner Chambers"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2023-06-28T16:00:00.000Z",
+    "end": "2023-06-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "425986"
+      },
+      {
+        "site": "netflix",
+        "id": "81464005",
+        "begin": "2023-06-28T16:00:00.000Z",
+        "broadcast": "R/2023-06-28T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

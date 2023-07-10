@@ -207,6 +207,9 @@
       ],
       "zh-Hant": [
         "虛構推理 第二季"
+      ],
+      "en": [
+        "In/Spectre Season 2"
       ]
     },
     "type": "tv",
@@ -244,6 +247,12 @@
         "id": "114726",
         "begin": "2023-01-08T15:05:00.000Z",
         "broadcast": "R/2023-01-08T15:05:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "inspectreseason2_138364",
+        "begin": "2023-05-26T18:00:00.000Z",
+        "broadcast": "R/2023-05-26T18:00:00.000Z/P7D"
       }
     ]
   },
@@ -538,6 +547,12 @@
         "id": "PLxSscENEp7Jj9MaNTdXuL-s66E_vJTekh",
         "begin": "2023-05-07T16:00:00.000Z",
         "broadcast": "R/2023-05-07T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtTtZCQqEUXOPavN-vbSQw6S",
+        "begin": "2023-07-05T16:00:00.000Z",
+        "broadcast": "R/2023-07-05T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -595,8 +610,8 @@
       {
         "site": "bilibili",
         "id": "28412513",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-03T14:00:00.000Z",
+        "broadcast": "R/2023-07-03T14:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -637,6 +652,12 @@
         "id": "28480918",
         "begin": "2023-01-04T16:00:00.000Z",
         "broadcast": "R/2023-01-04T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28391103",
+        "begin": "2023-06-21T12:00:01.000Z",
+        "broadcast": "R/2023-06-21T12:00:01.000Z/P7D"
       }
     ]
   },
@@ -728,6 +749,9 @@
       "zh-Hans": [
         "冰海战记 第二季",
         "海盗战记"
+      ],
+      "zh-Hant": [
+        "海盜戰記 第二季"
       ]
     },
     "type": "tv",
@@ -735,12 +759,24 @@
     "officialSite": "https://vinlandsaga.jp/",
     "begin": "2023-01-09T15:30:00.000Z",
     "broadcast": "R/2023-01-09T15:30:00.000Z/P7D",
-    "end": "",
+    "end": "2023-06-19T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "296739"
+      },
+      {
+        "site": "netflix",
+        "id": "81249833",
+        "begin": "2023-01-09T15:30:00.000Z",
+        "broadcast": "R/2023-01-09T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "20286653",
+        "begin": "2023-06-25T13:30:01.000Z",
+        "broadcast": "R/2023-06-25T13:30:01.000Z/P7D"
       }
     ]
   },
@@ -765,7 +801,11 @@
         "英雄王，為了窮盡武道而轉生～而後成為世界最強見習騎士～"
       ],
       "zh-Hant": [
-        "英雄王，為了窮盡武道而轉生～而後成為世界最強見習騎士♀～"
+        "英雄王，為了窮盡武道而轉生～而後成為世界最強見習騎士♀～",
+        "英雄王,為了窮盡武道而轉生~而後成為世界最強見習騎士♀~"
+      ],
+      "en": [
+        "Reborn To Master The Blade:From Hero-King To Extraordinary Squire"
       ]
     },
     "type": "tv",
@@ -797,6 +837,12 @@
         "id": "120838",
         "begin": "2023-01-09T17:15:00.000Z",
         "broadcast": "R/2023-01-09T17:15:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "reborntomasterthebladefromherokingtoextraordinarysquire_138543",
+        "begin": "2023-06-13T16:00:00.000Z",
+        "broadcast": "R/2023-06-13T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -979,7 +1025,7 @@
     "officialSite": "https://happinet-phantom.com/the_last_summoner/",
     "begin": "2023-01-31T09:00:00.000Z",
     "broadcast": "R/2023-01-31T09:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-07T09:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1184,6 +1230,9 @@
       ],
       "zh-Hant": [
         "關於我在無意間被隔壁的天使變成廢柴這件事"
+      ],
+      "en": [
+        "The Angel Next Door Spoils Me Rotten"
       ]
     },
     "type": "tv",
@@ -1215,6 +1264,12 @@
         "id": "20136738",
         "begin": "2023-03-04T12:00:01.000Z",
         "broadcast": "R/2023-03-04T12:00:01.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JiAoaxImun4H_FRDkFI9k3Q",
+        "begin": "2023-06-19T16:00:00.000Z",
+        "broadcast": "R/2023-06-19T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -2115,10 +2170,15 @@
       "zh-Hans": [
         "尼尔 自动人形",
         "尼尔：自动人形 Ver1.1a",
-        "尼尔 机械纪元"
+        "尼尔 机械纪元",
+        "尼尔: 自动人形 Ver1.1a"
       ],
       "zh-Hant": [
-        "尼爾：自動人形 Ver1.1a"
+        "尼爾：自動人形 Ver1.1a",
+        "尼爾: 自動人形 Ver1.1a"
+      ],
+      "en": [
+        "NieR:Automata Ver1.1a"
       ]
     },
     "type": "tv",
@@ -2150,6 +2210,12 @@
         "id": "123022",
         "begin": "2023-01-07T16:30:00.000Z",
         "broadcast": "R/2023-01-07T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81680344",
+        "begin": "2023-06-29T16:00:00.000Z",
+        "broadcast": "R/2023-06-29T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -2166,7 +2232,7 @@
     "officialSite": "https://www.tv-tokyo.co.jp/anime/kjfile/",
     "begin": "2023-01-08T17:35:00.000Z",
     "broadcast": "R/2023-01-08T17:35:00.000Z/P7D",
-    "end": "",
+    "end": "2023-04-02T17:35:00.000Z",
     "comment": "",
     "sites": [
       {
