@@ -463,6 +463,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "勇者赫鲁库"
+      ],
+      "zh-Hant": [
+        "勇者赫魯庫"
       ]
     },
     "type": "tv",
@@ -482,17 +485,23 @@
         "id": "20289050",
         "begin": "2023-07-11T17:29:00.000Z",
         "broadcast": "R/2023-07-11T17:29:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "20290147",
+        "begin": "2023-07-11T17:29:00.000Z",
+        "broadcast": "R/2023-07-11T17:29:00.000Z/P7D"
       }
     ]
   },
   {
     "title": "SYNDUALITY Noir",
     "titleTranslate": {
-      "en": [
-        "SYNDUALITY Noir"
-      ],
       "zh-Hans": [
         "奇异贤伴 黑色天使"
+      ],
+      "zh-Hant": [
+        "奇異賢伴 黑色天使"
       ]
     },
     "type": "tv",
@@ -506,6 +515,12 @@
       {
         "site": "bangumi",
         "id": "401301"
+      },
+      {
+        "site": "disneyplus",
+        "id": "6Wyhb8bQ9XDr",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
