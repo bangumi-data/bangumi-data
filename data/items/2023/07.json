@@ -897,6 +897,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "文豪野犬 第5季"
+      ],
+      "zh-Hant": [
+        "文豪Stray Dogs 第5季"
+      ],
+      "en": [
+        "Bungo Stray Dogs S5"
       ]
     },
     "type": "tv",
@@ -910,6 +916,12 @@
       {
         "site": "bangumi",
         "id": "426815"
+      },
+      {
+        "site": "nowPlayer",
+        "id": "S202306210166347",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1532,6 +1544,9 @@
       "zh-Hans": [
         "间谍教室 第二季",
         "特工教室 第二季"
+      ],
+      "zh-Hant": [
+        "間諜教室 第二季"
       ]
     },
     "type": "tv",
@@ -1545,6 +1560,24 @@
       {
         "site": "bangumi",
         "id": "428418"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcgS35J4YubY4vU7Ar2CTKBL",
+        "begin": "2023-07-13T14:30:00.000Z",
+        "broadcast": "R/2023-07-13T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "123366",
+        "begin": "2023-07-13T14:30:00.000Z",
+        "broadcast": "R/2023-07-13T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28480913",
+        "begin": "2023-07-13T14:30:00.000Z",
+        "broadcast": "R/2023-07-13T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -1623,6 +1656,9 @@
         "打工吧！！魔王大人 第二季",
         "打工吧！魔王大人 第二季 第2部分",
         "打工吧！！魔王大人 2nd Season"
+      ],
+      "zh-Hant": [
+        "打工吧！魔王大人 第二季"
       ]
     },
     "type": "tv",
@@ -1636,6 +1672,30 @@
       {
         "site": "bangumi",
         "id": "403225"
+      },
+      {
+        "site": "gamer",
+        "id": "116225",
+        "begin": "2023-07-13T14:35:00.000Z",
+        "broadcast": "R/2023-07-13T14:35:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "444494",
+        "begin": "2023-07-13T16:00:00.000Z",
+        "broadcast": "R/2023-07-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28338495",
+        "begin": "2023-07-13T14:35:00.000Z",
+        "broadcast": "R/2023-07-13T14:35:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28338627",
+        "begin": "2023-07-13T14:35:00.000Z",
+        "broadcast": "R/2023-07-13T14:35:00.000Z/P7D"
       }
     ]
   },
