@@ -2408,5 +2408,35 @@
         "broadcast": "R/2021-07-01T03:10:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "ベイブレードバースト スパーキング",
+    "titleTranslate": {
+      "zh-Hans": [
+        "霸旋陀螺 爆刃对决 超王",
+        "战斗陀螺：爆裂世代：超王"
+      ],
+      "zh-Hant": [
+        "爆旋陀螺擊爆戰魂：超王",
+        "戰鬥陀螺：爆裂世代：超王"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://beyblade.jp/campaign/5th/",
+    "begin": "2020-04-02T16:00:00.000Z",
+    "end": "2021-03-18T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302136"
+      },
+      {
+        "site": "netflix",
+        "id": "81567663",
+        "begin": "2022-08-30T16:00:00.000Z",
+        "broadcast": "R/2022-08-30T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]
