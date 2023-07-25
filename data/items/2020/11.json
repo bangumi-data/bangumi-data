@@ -163,5 +163,32 @@
         "broadcast": "R/2021-12-24T00:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "RWBY Volume 8",
+    "titleTranslate": {
+      "zh-Hans": [
+        "红白黑黄 第八季",
+        "四色战记 / RWBY 第八季"
+      ]
+    },
+    "type": "web",
+    "lang": "en",
+    "officialSite": "https://roosterteeth.com/series/rwby",
+    "begin": "2019-11-06T16:00:00.000Z",
+    "end": "2021-03-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "316105"
+      },
+      {
+        "site": "bilibili",
+        "id": "20286254",
+        "begin": "2023-06-29T10:00:01.000Z",
+        "broadcast": "R/2023-06-29T10:00:01.000Z/P7D"
+      }
+    ]
   }
 ]

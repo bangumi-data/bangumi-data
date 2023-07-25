@@ -1595,6 +1595,12 @@
         "id": "PLxSscENEp7JhfAGqyUhmkjOlfb6caTuF2",
         "begin": "2022-06-24T16:00:00.000Z",
         "broadcast": "R/2022-06-24T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtTKX3firhloYquZvGgBNqjL",
+        "begin": "2023-06-04T12:59:02.764Z",
+        "broadcast": "R/2023-06-04T12:59:02.764Z/P7D"
       }
     ]
   },
@@ -2370,6 +2376,12 @@
         "id": "28234137",
         "begin": "2021-04-09T18:55:01.000Z",
         "broadcast": "R/2021-04-09T18:55:01.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Ji51XAhfhSskHMP3EnQxGur",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2727,6 +2739,36 @@
         "id": "113845",
         "begin": "2021-12-17T06:10:00.000Z",
         "broadcast": "R/2021-12-17T06:10:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ベイブレードバースト ダイナマイトバトル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "霸旋陀螺 爆刃对决 DB",
+        "霸旋陀螺 Dynamite Battle"
+      ],
+      "zh-Hant": [
+        "爆旋陀螺擊爆戰魂 DB",
+        "戰鬥陀螺 爆裂世代 DB"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.beyblade.jp/teaser_6th/",
+    "begin": "2021-04-01T16:00:00.000Z",
+    "end": "2022-03-17T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "330869"
+      },
+      {
+        "site": "netflix",
+        "id": "81670673",
+        "begin": "2023-03-30T16:00:00.000Z",
+        "broadcast": "R/2023-03-30T16:00:00.000Z/P7D"
       }
     ]
   }

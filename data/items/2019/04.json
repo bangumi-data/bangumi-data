@@ -2039,5 +2039,35 @@
         "broadcast": ""
       }
     ]
+  },
+  {
+    "title": "ベイブレードバースト ガチ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "霸旋陀螺 爆刃对决 GT",
+        "战斗陀螺：爆烈世代：GT"
+      ],
+      "zh-Hant": [
+        "爆旋陀螺 擊爆戰魂 G",
+        "戰鬥陀螺：爆烈世代：GT"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://beyblade.jp/teaser_gt/",
+    "begin": "2019-04-04T16:00:00.000Z",
+    "end": "2020-03-26T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "274716"
+      },
+      {
+        "site": "netflix",
+        "id": "81325983",
+        "begin": "2021-01-29T16:00:00.000Z",
+        "broadcast": "R/2021-01-29T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]
