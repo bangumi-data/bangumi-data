@@ -878,7 +878,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "宿命回响：命运节拍",
-        "宿命回响"
+        "宿命回响",
+        "宿命回响: 命运节拍"
       ],
       "zh-Hant": [
         "宿命迴響：命運節拍"
@@ -931,6 +932,12 @@
         "id": "118410",
         "begin": "2021-10-05T16:00:00.000Z",
         "broadcast": "R/2021-10-05T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81510802",
+        "begin": "2023-07-30T16:00:00.000Z",
+        "broadcast": "R/2023-07-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1875,6 +1882,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "海贼王女"
+      ],
+      "en": [
+        "Fena: Pirate Princess"
+      ],
+      "zh-Hant": [
+        "海賊王女"
       ]
     },
     "type": "tv",
@@ -1888,6 +1901,12 @@
       {
         "site": "bangumi",
         "id": "311310"
+      },
+      {
+        "site": "mytv",
+        "id": "fenapirateprincess_138985",
+        "begin": "2023-08-01T02:00:00.000Z",
+        "broadcast": "R/2023-08-01T02:00:00.000Z/P7D"
       }
     ]
   },

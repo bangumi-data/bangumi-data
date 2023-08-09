@@ -905,13 +905,15 @@
       "zh-Hans": [
         "别当欧尼酱了！",
         "别当哥哥了！",
-        "不当哥哥了！"
+        "不当哥哥了！",
+        "不当哥哥了!"
       ],
       "zh-Hant": [
         "不當哥哥了！"
       ],
       "en": [
-        "ONIMAI I’m Now Your Sister!"
+        "ONIMAI I’m Now Your Sister!",
+        "Onimai: I'm Now Your Sister!"
       ]
     },
     "type": "tv",
@@ -955,6 +957,12 @@
         "id": "124010",
         "begin": "2023-01-05T15:30:00.000Z",
         "broadcast": "R/2023-01-05T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81686690",
+        "begin": "2023-07-30T16:00:00.000Z",
+        "broadcast": "R/2023-07-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1280,6 +1288,12 @@
         "id": "PLxSscENEp7JiAoaxImun4H_FRDkFI9k3Q",
         "begin": "2023-06-19T16:00:00.000Z",
         "broadcast": "R/2023-06-19T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81662402",
+        "begin": "2023-07-30T16:00:00.000Z",
+        "broadcast": "R/2023-07-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -2229,6 +2243,12 @@
         "id": "81680344",
         "begin": "2023-06-29T16:00:00.000Z",
         "broadcast": "R/2023-06-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28435377",
+        "begin": "2023-08-08T12:00:00.000Z",
+        "broadcast": "R/2023-08-08T12:00:00.000Z/P7D"
       }
     ]
   },

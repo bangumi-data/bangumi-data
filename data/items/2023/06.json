@@ -128,5 +128,34 @@
         "broadcast": "R/2023-06-28T16:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "劇場版 Collar×Malice -deep cover- 後編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 Collar×Malice -deep cover- 后篇"
+      ],
+      "zh-Hant": [
+        "劇場版 Collar×Malice -deep cover- 後篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://collarmalice-movie.jp/",
+    "begin": "2023-06-22T16:00:00.000Z",
+    "end": "2023-06-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "411244"
+      },
+      {
+        "site": "gamer",
+        "id": "134236",
+        "begin": "2023-07-24T06:30:00.000Z",
+        "broadcast": "R/2023-07-24T06:30:00.000Z/P0D"
+      }
+    ]
   }
 ]
