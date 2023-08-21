@@ -357,7 +357,8 @@
         "site": "mytv",
         "id": "jujutsukaisenseason2_138919",
         "begin": "2023-07-06T15:56:00.000Z",
-        "broadcast": "R/2023-07-06T15:56:00.000Z/P7D"
+        "broadcast": "R/2023-07-06T15:56:00.000Z/P7D",
+        "comment": "閒聊: jujutsukaisenfirstsummaryepisodesecondsummaryepisode_139241"
       },
       {
         "site": "bilibili_hk_mo_tw",
@@ -380,8 +381,8 @@
       {
         "site": "bilibili",
         "id": "20310848",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-08-24T12:00:00.000Z",
+        "broadcast": "R/2023-08-24T12:00:00.000Z/P7D"
       }
     ]
   },
@@ -658,7 +659,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "我的幸福婚约",
-        "我的美好婚事"
+        "我的美好婚事",
+        "我的幸福婚姻"
       ],
       "en": [
         "My Happy Marriage"
@@ -684,6 +686,12 @@
         "id": "81564905",
         "begin": "2023-07-04T16:00:00.000Z",
         "broadcast": "R/2023-07-04T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "20289658",
+        "begin": "2023-08-09T13:00:01.000Z",
+        "broadcast": "R/2023-08-09T13:00:01.000Z/P7D"
       }
     ]
   },
@@ -938,10 +946,12 @@
     "title": "文豪ストレイドッグス(第5シーズン)",
     "titleTranslate": {
       "zh-Hans": [
-        "文豪野犬 第5季"
+        "文豪野犬 第5季",
+        "文豪野犬 第五季"
       ],
       "zh-Hant": [
-        "文豪Stray Dogs 第5季"
+        "文豪Stray Dogs 第5季",
+        "文豪野犬 第五季"
       ],
       "en": [
         "Bungo Stray Dogs S5"
@@ -964,6 +974,18 @@
         "id": "S202306210166347",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "20289192",
+        "begin": "2023-08-16T10:00:01.000Z",
+        "broadcast": "R/2023-08-16T10:00:01.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "131385",
+        "begin": "2023-08-14T06:10:00.000Z",
+        "broadcast": "R/2023-08-14T06:10:00.000Z/P7D"
       }
     ]
   },
