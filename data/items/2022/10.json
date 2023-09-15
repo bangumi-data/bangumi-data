@@ -1207,6 +1207,12 @@
         "id": "81641170",
         "begin": "2023-07-13T16:00:00.000Z",
         "broadcast": "R/2023-07-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "2230728",
+        "begin": "2023-08-10T16:00:00.000Z",
+        "broadcast": "R/2023-08-10T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1285,7 +1291,8 @@
         "site": "mytv",
         "id": "bluelock_136628",
         "begin": "2022-10-30T16:00:00.000Z",
-        "broadcast": "R/2022-10-30T16:00:00.000Z/P7D"
+        "broadcast": "R/2022-10-30T16:00:00.000Z/P7D",
+        "comment": "Animax版: bluelock0001_138987"
       },
       {
         "site": "bilibili_hk_mo_tw",
@@ -2039,6 +2046,12 @@
         "剧场版 刀剑神域 进击篇 黯淡黄昏的谐谑曲",
         "刀剑神域进击篇：暮色黄昏",
         "剧场版 刀剑神域 进击篇 阴沉薄暮的诙谐曲"
+      ],
+      "zh-Hant": [
+        "刀劍神域劇場版：Progressive：陰沉薄暮的詼諧曲"
+      ],
+      "en": [
+        "Sword Art Online the Movie -Progressive- Scherzo of Deep Night"
       ]
     },
     "type": "movie",
@@ -2057,6 +2070,12 @@
         "id": "120406",
         "begin": "2023-06-23T16:00:00.000Z",
         "broadcast": "R/2023-06-23T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81710851",
+        "begin": "2023-08-13T16:00:00.000Z",
+        "broadcast": "R/2023-08-13T16:00:00.000Z/P7D"
       }
     ]
   }

@@ -41,8 +41,8 @@
       {
         "site": "bilibili",
         "id": "20290561",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-08-07T11:00:00.000Z",
+        "broadcast": "R/2023-08-07T11:00:00.000Z/P7D"
       }
     ]
   },
@@ -357,7 +357,8 @@
         "site": "mytv",
         "id": "jujutsukaisenseason2_138919",
         "begin": "2023-07-06T15:56:00.000Z",
-        "broadcast": "R/2023-07-06T15:56:00.000Z/P7D"
+        "broadcast": "R/2023-07-06T15:56:00.000Z/P7D",
+        "comment": "閒聊: jujutsukaisenfirstsummaryepisodesecondsummaryepisode_139241"
       },
       {
         "site": "bilibili_hk_mo_tw",
@@ -380,8 +381,8 @@
       {
         "site": "bilibili",
         "id": "20310848",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-08-24T12:00:00.000Z",
+        "broadcast": "R/2023-08-24T12:00:00.000Z/P7D"
       }
     ]
   },
@@ -410,8 +411,8 @@
       {
         "site": "bilibili",
         "id": "20290697",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-20T13:00:01.000Z",
+        "broadcast": "R/2023-07-20T13:00:01.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -497,6 +498,12 @@
         "id": "130209",
         "begin": "2023-07-18T11:00:00.000Z",
         "broadcast": "R/2023-07-18T11:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSow1ByrUAkL12nhNTDDmvx",
+        "begin": "2023-07-25T18:30:00.000Z",
+        "broadcast": "R/2023-07-25T18:30:00.000Z/P7D"
       }
     ]
   },
@@ -549,6 +556,12 @@
       {
         "site": "bangumi",
         "id": "405198"
+      },
+      {
+        "site": "bilibili",
+        "id": "20289326",
+        "begin": "2023-08-05T14:00:01.000Z",
+        "broadcast": "R/2023-08-05T14:00:01.000Z/P7D"
       }
     ]
   },
@@ -646,7 +659,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "我的幸福婚约",
-        "我的美好婚事"
+        "我的美好婚事",
+        "我的幸福婚姻"
       ],
       "en": [
         "My Happy Marriage"
@@ -672,6 +686,12 @@
         "id": "81564905",
         "begin": "2023-07-04T16:00:00.000Z",
         "broadcast": "R/2023-07-04T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "20289658",
+        "begin": "2023-08-09T13:00:01.000Z",
+        "broadcast": "R/2023-08-09T13:00:01.000Z/P7D"
       }
     ]
   },
@@ -751,6 +771,12 @@
         "id": "121023",
         "begin": "2023-07-19T03:50:00.000Z",
         "broadcast": "R/2023-07-19T03:50:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtS8J9aJ3pizzS7bCUHbWeFm",
+        "begin": "2023-07-28T17:00:00.000Z",
+        "broadcast": "R/2023-07-28T17:00:00.000Z/P7D"
       }
     ]
   },
@@ -865,6 +891,18 @@
         "id": "20309584",
         "begin": "2023-07-09T14:30:00.000Z",
         "broadcast": "R/2023-07-09T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtTWjjyoJrLwcY5n-EIXi2oQ",
+        "begin": "2023-07-30T15:30:00.000Z",
+        "broadcast": "R/2023-07-30T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "119837",
+        "begin": "2023-07-25T03:30:00.000Z",
+        "broadcast": "R/2023-07-25T03:30:00.000Z/P7D"
       }
     ]
   },
@@ -908,10 +946,12 @@
     "title": "文豪ストレイドッグス(第5シーズン)",
     "titleTranslate": {
       "zh-Hans": [
-        "文豪野犬 第5季"
+        "文豪野犬 第5季",
+        "文豪野犬 第五季"
       ],
       "zh-Hant": [
-        "文豪Stray Dogs 第5季"
+        "文豪Stray Dogs 第5季",
+        "文豪野犬 第五季"
       ],
       "en": [
         "Bungo Stray Dogs S5"
@@ -934,6 +974,18 @@
         "id": "S202306210166347",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "20289192",
+        "begin": "2023-08-16T10:00:01.000Z",
+        "broadcast": "R/2023-08-16T10:00:01.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "131385",
+        "begin": "2023-08-14T06:10:00.000Z",
+        "broadcast": "R/2023-08-14T06:10:00.000Z/P7D"
       }
     ]
   },
@@ -1335,7 +1387,8 @@
         "卡片战斗先导者 will+Dress 第三季"
       ],
       "zh-Hant": [
-        "卡片戰鬥!! 先導者 will+Dress 第三季"
+        "卡片戰鬥!! 先導者 will+Dress 第三季",
+        "卡片戰鬥先導者will+Dress 第3季"
       ]
     },
     "type": "tv",
@@ -1355,6 +1408,12 @@
         "id": "133480",
         "begin": "2023-07-08T10:00:00.000Z",
         "broadcast": "R/2023-07-08T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "nowPlayer",
+        "id": "S202306210166348",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1509,8 +1568,8 @@
       {
         "site": "bilibili",
         "id": "20290749",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-27T12:00:01.000Z",
+        "broadcast": "R/2023-07-27T12:00:01.000Z/P7D"
       },
       {
         "site": "gamer",

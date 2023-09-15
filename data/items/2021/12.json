@@ -53,7 +53,8 @@
         "site": "bilibili",
         "id": "28235125",
         "begin": "2022-03-12T12:00:00.000Z",
-        "broadcast": "R/2022-03-12T12:00:00.000Z/P7D"
+        "broadcast": "R/2022-03-12T12:00:00.000Z/P7D",
+        "comment": "中配版: 20316645"
       },
       {
         "site": "mytv",
@@ -297,6 +298,35 @@
         "id": "28235977",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "フラ・フラダンス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "扶桑花之舞"
+      ],
+      "zh-Hant": [
+        "扶桑花女孩之舞"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://hula-fulladance.com",
+    "begin": "2021-12-02T16:00:00.000Z",
+    "end": "2021-12-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "318543"
+      },
+      {
+        "site": "gamer",
+        "id": "114473",
+        "begin": "2023-08-03T16:00:00.000Z",
+        "broadcast": "R/2023-08-03T16:00:00.000Z/P7D"
       }
     ]
   }
