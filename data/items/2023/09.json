@@ -25,5 +25,67 @@
         "broadcast": "R/2023-09-02T09:30:01.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "火の鳥 エデンの宙",
+    "titleTranslate": {
+      "zh-Hans": [
+        "火鸟 伊甸之宙",
+        "火鸟：伊甸17号"
+      ],
+      "zh-Hant": [
+        "火之鳥：伊甸17"
+      ],
+      "en": [
+        "Phoenix: Eden17"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2023-09-12T16:00:00.000Z",
+    "end": "2023-09-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "409350"
+      },
+      {
+        "site": "disneyplus",
+        "id": "6gAZqfKsde3I",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "Castlevania: Nocturne",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恶魔城：夜曲"
+      ],
+      "zh-Hant": [
+        "惡魔城：夜曲"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2023-09-27T16:00:00.000Z",
+    "end": "2023-09-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "386947"
+      },
+      {
+        "site": "netflix",
+        "id": "81436901",
+        "begin": "2023-09-27T16:00:00.000Z",
+        "broadcast": "R/2023-09-27T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

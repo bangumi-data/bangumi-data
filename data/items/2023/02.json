@@ -81,5 +81,38 @@
         "comment": "中文配音: 28481049"
       }
     ]
+  },
+  {
+    "title": " 映画 佐々木と宮野ー卒業編ー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 佐佐木与宫野ー毕业篇ー",
+        "电影版 佐佐木与宫野 毕业篇"
+      ],
+      "zh-Hant": [
+        "佐佐木與宮野：畢業篇：電影版"
+      ],
+      "en": [
+        "Sasaki and Miyano: Graduation"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://sasamiya.com/",
+    "begin": "2023-02-16T16:00:00.000Z",
+    "end": "2023-02-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "376008"
+      },
+      {
+        "site": "netflix",
+        "id": "81702475",
+        "begin": "2023-09-29T16:00:00.000Z",
+        "broadcast": "R/2023-09-29T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

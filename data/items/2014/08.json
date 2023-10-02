@@ -103,7 +103,15 @@
     "title": "STAND BY ME ドラえもん",
     "titleTranslate": {
       "zh-Hans": [
-        "哆啦A梦：伴我同行"
+        "哆啦A梦：伴我同行",
+        "哆啦 A 梦：伴我同行"
+      ],
+      "en": [
+        "STAND BY ME Doraemon"
+      ],
+      "zh-Hant": [
+        "STAND BY ME 多啦 A 夢",
+        "STAND BY ME 哆啦 A 夢"
       ]
     },
     "type": "movie",
@@ -130,6 +138,12 @@
         "site": "qq",
         "id": "c/ciw1zkqfr3cjfv7",
         "begin": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80158156",
+        "begin": "2023-09-29T16:00:00.000Z",
+        "broadcast": "R/2023-09-29T16:00:00.000Z/P7D"
       }
     ]
   },
