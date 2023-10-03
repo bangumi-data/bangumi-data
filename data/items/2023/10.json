@@ -291,6 +291,9 @@
   {
     "title": "オーバーテイク！",
     "titleTranslate": {
+      "zh-Hans": [
+        "Overtake!"
+      ],
       "zh-Hant": [
         "Overtake!"
       ]
@@ -394,7 +397,14 @@
   },
   {
     "title": "ブルバスター",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "BULLBUSTER"
+      ],
+      "en": [
+        "BULLBUSTER"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://bullbuster.jp/",
@@ -474,7 +484,11 @@
   },
   {
     "title": "攻略うぉんてっど！～異世界救います!?～",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "暂停！让我查攻略"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://koryaku-wanted.jp/",
@@ -482,7 +496,12 @@
     "broadcast": "R/2023-10-06T14:00:00.000Z/P7D",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "358728"
+      }
+    ]
   },
   {
     "title": "ヒプノシスマイク -Division Rap Battle- Rhyme Anima ＋",
@@ -731,6 +750,9 @@
   {
     "title": "陰の実力者になりたくて！ 2nd season",
     "titleTranslate": {
+      "en": [
+        "The Eminence in Shadow"
+      ],
       "zh-Hans": [
         "想要成为影之实力者！ 第二季",
         "我想成為影之強者！第二季"

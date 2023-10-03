@@ -31,5 +31,29 @@
         "broadcast": "R/2023-08-07T16:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "おでかけ子ザメ",
+    "titleTranslate": {
+      "en": [
+        "ODEKAKE KOZAME"
+      ],
+      "zh-Hans": [
+        "小鲨鱼去郊游"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://odekake-kozame.com/",
+    "begin": "2023-08-01T11:00:00.000Z",
+    "broadcast": "R/2023-08-01T11:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "437502"
+      }
+    ]
   }
 ]
