@@ -114,5 +114,32 @@
         "broadcast": "R/2023-09-29T16:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "RWBY Volume 9",
+    "titleTranslate": {
+      "zh-Hans": [
+        "红白黑黄 第九季",
+        "四色战记 / RWBY 第九季"
+      ]
+    },
+    "type": "web",
+    "lang": "en",
+    "officialSite": "https://roosterteeth.com/series/rwby",
+    "begin": "2023-02-17T16:00:00.000Z",
+    "end": "2023-04-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "390395"
+      },
+      {
+        "site": "bilibili",
+        "id": "21090783",
+        "begin": "2023-10-05T10:00:01.000Z",
+        "broadcast": "R/2023-10-05T10:00:01.000Z/P7D"
+      }
+    ]
   }
 ]
