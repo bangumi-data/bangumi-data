@@ -1894,6 +1894,9 @@
       "zh-Hans": [
         "川越男子合唱团",
         "川越Boys Sing"
+      ],
+      "zh-Hant": [
+        "川越男子歌唱團"
       ]
     },
     "type": "tv",
@@ -1907,6 +1910,12 @@
       {
         "site": "bangumi",
         "id": "422425"
+      },
+      {
+        "site": "gamer",
+        "id": "130658",
+        "begin": "2023-10-09T14:30:00.000Z",
+        "broadcast": "R/2023-10-09T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -1989,6 +1998,24 @@
       {
         "site": "bangumi",
         "id": "442523"
+      },
+      {
+        "site": "viu",
+        "id": "2250826",
+        "begin": "2023-10-05T13:00:00.000Z",
+        "broadcast": "R/2023-10-05T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "126945",
+        "begin": "2023-10-05T13:00:00.000Z",
+        "broadcast": "R/2023-10-05T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "20197734",
+        "begin": "2023-10-05T13:00:00.000Z",
+        "broadcast": "R/2023-10-05T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -2036,7 +2063,11 @@
         "亡骸游戏 第2部分"
       ],
       "zh-Hant": [
-        "屍體如山的死亡遊戲 第二部分"
+        "屍體如山的死亡遊戲 第二部分",
+        "屍體如山的死亡遊戲 第二季"
+      ],
+      "en": [
+        "DEAD MOUNT DEATH PLAY Season 2"
       ]
     },
     "type": "tv",
@@ -2050,6 +2081,24 @@
       {
         "site": "bangumi",
         "id": "424892"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtR75lvJrBUlZHQaGd0J8yBV",
+        "begin": "2023-10-09T16:00:00.000Z",
+        "broadcast": "R/2023-10-09T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjmVgbQEBya4XiwhlfvjXlI",
+        "begin": "2023-10-09T16:00:00.000Z",
+        "broadcast": "R/2023-10-09T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "128617",
+        "begin": "2023-10-09T16:00:00.000Z",
+        "broadcast": "R/2023-10-09T16:00:00.000Z/P7D"
       }
     ]
   },
