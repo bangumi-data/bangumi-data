@@ -135,5 +135,36 @@
         "broadcast": ""
       }
     ]
+  },
+  {
+    "title": "鲤氏侦探事务所",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲤氏侦探事务所"
+      ],
+      "zh-Hant": [
+        "鯉氏偵探事務所"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://ak.hypergryph.com/lee",
+    "begin": "2022-12-23T11:00:00.000Z",
+    "broadcast": "R/2022-12-23T11:00:00.000Z/P7D",
+    "end": "2023-02-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "383649"
+      },
+      {
+        "site": "bilibili",
+        "id": "28351529",
+        "begin": "2022-12-23T11:00:01.000Z",
+        "broadcast": "R/2022-12-23T11:00:01.000Z/P7D",
+        "comment": "中配: 28351530"
+      }
+    ]
   }
 ]

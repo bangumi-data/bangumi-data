@@ -1786,7 +1786,8 @@
       {
         "site": "mgtv",
         "id": "322974",
-        "begin": "2018-04-02T18:30:00.000Z"
+        "begin": "2018-04-02T18:30:00.000Z",
+        "comment": "中配: 322751"
       },
       {
         "site": "viu",
@@ -1794,33 +1795,12 @@
         "begin": "2022-09-30T16:00:00.000Z",
         "broadcast": "R/2022-09-30T16:00:00.000Z/P7D",
         "comment": "粵語版: 461855"
-      }
-    ]
-  },
-  {
-    "title": "足球小将",
-    "titleTranslate": {
-      "en": [
-        "CAPTAIN TSUBASA"
-      ],
-      "ja": [
-        "キャプテン翼(2018)"
-      ]
-    },
-    "type": "tv",
-    "lang": "zh-Hans",
-    "officialSite": "http://www.tv-tokyo.co.jp/anime/captaintsubasa2018/",
-    "begin": "2018-04-02T16:35:00.000Z",
-    "end": "2019-04-01T16:50:00.000Z",
-    "sites": [
-      {
-        "site": "bangumi",
-        "id": "232072"
       },
       {
-        "site": "mgtv",
-        "id": "322751",
-        "begin": "2018-04-02T18:30:00.000Z"
+        "site": "gamer",
+        "id": "92954",
+        "begin": "2023-10-02T01:30:00.000Z",
+        "broadcast": "R/2023-10-02T01:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -2503,6 +2483,12 @@
         "id": "91866",
         "begin": "2019-09-19T07:00:00.000Z",
         "broadcast": "R/2019-09-19T07:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "1WUo7sgngr1w",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2956,7 +2942,8 @@
         "site": "netflix",
         "id": "80198505",
         "begin": "2018-04-20T07:00:00.000Z",
-        "broadcast": "R/2018-04-19T16:00:00.000Z/P7D"
+        "broadcast": "R/2018-04-19T16:00:00.000Z/P7D",
+        "comment": "SP - We Wish You a Metal Christmas: 81008536"
       }
     ]
   },
