@@ -1849,6 +1849,12 @@
   {
     "title": "ドッグシグナル",
     "titleTranslate": {
+      "zh-Hans": [
+        "爱犬指令"
+      ],
+      "zh-Hant": [
+        "愛犬訊號"
+      ],
       "en": [
         "DOG SIGNAL"
       ]
@@ -1864,6 +1870,24 @@
       {
         "site": "bangumi",
         "id": "418494"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtS84wxYPqYeNLQGvgrMUxhG",
+        "begin": "2023-10-23T12:30:00.000Z",
+        "broadcast": "R/2023-10-23T12:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JhSe-gomdI46wzX0lGWtLxv",
+        "begin": "2023-10-23T12:00:00.000Z",
+        "broadcast": "R/2023-10-23T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "134389",
+        "begin": "2023-10-23T12:00:00.000Z",
+        "broadcast": "R/2023-10-23T12:00:00.000Z/P7D"
       }
     ]
   },
