@@ -45,8 +45,8 @@
       {
         "site": "bilibili",
         "id": "21087073",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-10-24T12:00:01.000Z",
+        "broadcast": "R/2023-10-24T12:00:01.000Z/P7D"
       }
     ]
   },
@@ -1430,8 +1430,8 @@
       {
         "site": "bilibili",
         "id": "21086848",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-11-01T10:00:00.000Z",
+        "broadcast": "R/2023-11-01T10:00:00.000Z/P7D"
       }
     ]
   },
@@ -2276,6 +2276,37 @@
         "id": "21086918",
         "begin": "2023-10-12T20:00:00.000Z",
         "broadcast": "R/2023-10-12T20:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "PLUTO",
+    "titleTranslate": {
+      "zh-Hans": [
+        "冥王",
+        "PLUTO 冥王"
+      ],
+      "zh-Hant": [
+        "冥王",
+        "PLUTO 冥王"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://pluto-anime.com/",
+    "begin": "2023-10-25T16:00:00.000Z",
+    "end": "2023-10-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "217021"
+      },
+      {
+        "site": "netflix",
+        "id": "81281344",
+        "begin": "2023-10-25T16:00:00.000Z",
+        "broadcast": "R/2023-10-25T16:00:00.000Z/P0D"
       }
     ]
   }
