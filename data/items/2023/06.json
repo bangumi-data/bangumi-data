@@ -157,5 +157,40 @@
         "broadcast": "R/2023-07-24T06:30:00.000Z/P0D"
       }
     ]
+  },
+  {
+    "title": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 NEXT SKY",
+    "titleTranslate": {
+      "zh-Hans": [
+        "LoveLive！虹咲学园学园偶像同好会 NEXT SKY"
+      ],
+      "zh-Hant": [
+        "Love Live！虹咲學園 學園偶像同好會 NEXT SKY"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://www.lovelive-anime.jp/nijigasaki/nextsky/",
+    "begin": "2023-06-22T16:00:00.000Z",
+    "end": "2023-06-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "408883"
+      },
+      {
+        "site": "gamer",
+        "id": "135259",
+        "begin": "2023-10-23T15:30:00.000Z",
+        "broadcast": "R/2023-10-23T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjAzn_9BRC43kjg-lxJYjM8",
+        "begin": "2022-10-22T16:00:00.000Z",
+        "broadcast": "R/2022-10-22T16:00:00.000Z/P0D"
+      }
+    ]
   }
 ]

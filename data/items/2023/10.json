@@ -45,8 +45,8 @@
       {
         "site": "bilibili",
         "id": "21087073",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-10-24T12:00:01.000Z",
+        "broadcast": "R/2023-10-24T12:00:01.000Z/P7D"
       }
     ]
   },
@@ -103,6 +103,12 @@
       "zh-Hans": [
         "药屋少女的呢喃",
         "药师少女的独语"
+      ],
+      "zh-Hant": [
+        "藥師少女的獨語"
+      ],
+      "en": [
+        "The Apothecary Diaries"
       ]
     },
     "type": "tv",
@@ -116,6 +122,12 @@
       {
         "site": "bangumi",
         "id": "420628"
+      },
+      {
+        "site": "netflix",
+        "id": "81712068",
+        "begin": "2023-10-21T00:00:00.000Z",
+        "broadcast": "R/2023-10-21T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -1418,8 +1430,8 @@
       {
         "site": "bilibili",
         "id": "21086848",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-11-01T10:00:00.000Z",
+        "broadcast": "R/2023-11-01T10:00:00.000Z/P7D"
       }
     ]
   },
@@ -1837,6 +1849,12 @@
   {
     "title": "ドッグシグナル",
     "titleTranslate": {
+      "zh-Hans": [
+        "爱犬指令"
+      ],
+      "zh-Hant": [
+        "愛犬訊號"
+      ],
       "en": [
         "DOG SIGNAL"
       ]
@@ -1852,6 +1870,24 @@
       {
         "site": "bangumi",
         "id": "418494"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtS84wxYPqYeNLQGvgrMUxhG",
+        "begin": "2023-10-23T12:30:00.000Z",
+        "broadcast": "R/2023-10-23T12:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JhSe-gomdI46wzX0lGWtLxv",
+        "begin": "2023-10-23T12:00:00.000Z",
+        "broadcast": "R/2023-10-23T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "134389",
+        "begin": "2023-10-23T12:00:00.000Z",
+        "broadcast": "R/2023-10-23T12:00:00.000Z/P7D"
       }
     ]
   },
@@ -2122,6 +2158,30 @@
       {
         "site": "bangumi",
         "id": "424372"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQkrUFepeQOELa13PBFFOPE",
+        "begin": "2023-10-12T14:30:00.000Z",
+        "broadcast": "R/2023-10-12T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JgOJnHWhu4PB9hzHwHgj228",
+        "begin": "2023-10-12T13:30:00.000Z",
+        "broadcast": "R/2023-10-12T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "125702",
+        "begin": "2023-10-12T13:30:00.000Z",
+        "broadcast": "R/2023-10-12T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81046193",
+        "begin": "2023-10-12T13:30:00.000Z",
+        "broadcast": "R/2023-10-12T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -2186,14 +2246,19 @@
       "zh-Hans": [
         "晚安 世界",
         "晚安世界"
+      ],
+      "zh-Hant": [
+        "GOOD NIGHT WORLD"
+      ],
+      "en": [
+        "GOOD NIGHT WORLD"
       ]
     },
     "type": "web",
     "lang": "ja",
     "officialSite": "https://gnw-anime.com/",
     "begin": "2023-10-11T16:00:00.000Z",
-    "broadcast": "R/2023-10-11T16:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-10-11T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2201,10 +2266,82 @@
         "id": "448114"
       },
       {
+        "site": "netflix",
+        "id": "81340213",
+        "begin": "2023-10-12T00:00:00.000Z",
+        "broadcast": "R/2023-10-12T00:00:00.000Z/P7D"
+      },
+      {
         "site": "bilibili",
         "id": "21086918",
         "begin": "2023-10-12T20:00:00.000Z",
         "broadcast": "R/2023-10-12T20:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "PLUTO",
+    "titleTranslate": {
+      "zh-Hans": [
+        "冥王",
+        "PLUTO 冥王"
+      ],
+      "zh-Hant": [
+        "冥王",
+        "PLUTO 冥王"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://pluto-anime.com/",
+    "begin": "2023-10-25T16:00:00.000Z",
+    "end": "2023-10-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "217021"
+      },
+      {
+        "site": "netflix",
+        "id": "81281344",
+        "begin": "2023-10-25T16:00:00.000Z",
+        "broadcast": "R/2023-10-25T16:00:00.000Z/P0D"
+      }
+    ]
+  },
+  {
+    "title": "転生したらスライムだった件 コリウスの夢",
+    "titleTranslate": {
+      "zh-Hans": [
+        "关于我转生变成史莱姆这档事 彩叶草之梦"
+      ],
+      "zh-Hant": [
+        "關於我轉生變成史萊姆這檔事 柯里烏斯之夢"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.ten-sura.com/anime/coleus",
+    "begin": "2023-10-31T16:00:00.000Z",
+    "end": "2023-10-31T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "421174"
+      },
+      {
+        "site": "gamer",
+        "id": "132289",
+        "begin": "2023-10-31T15:30:00.000Z",
+        "broadcast": "R/2023-10-31T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjMN3xRmSKGiNGTyF5ZV_c0",
+        "begin": "2023-10-31T15:30:00.000Z",
+        "broadcast": "R/2023-10-31T15:30:00.000Z/P7D"
       }
     ]
   }
