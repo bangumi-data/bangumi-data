@@ -51,7 +51,7 @@ jobs:
       - name: Create pull request
         if: steps.commit-changes.outputs.changes_detected == 'true'
         run: |
-          hub pull-request -m "Auto end date update" --no-edit -r $REVIEWER -a $REVIEWER
+          gh pr create -r $REVIEWER -a $REVIEWER -b master -t "Auto end date update"
         env:
           REVIEWER: wxt2005
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
