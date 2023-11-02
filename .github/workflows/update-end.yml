@@ -3,8 +3,6 @@ name: Update end date for bangumi
 on:
   schedule:
     - cron: '0 4 1 * *'
-  pull_request:
-      branches: [ "master" ]
 
 jobs:
   update:
