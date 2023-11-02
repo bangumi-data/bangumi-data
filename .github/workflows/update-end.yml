@@ -3,10 +3,16 @@ name: Update end date for bangumi
 on:
   schedule:
     - cron: '0 4 1 * *'
+  pull_request:
+      branches: [ "master" ]
 
 jobs:
   update:
     runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [18.x]
 
     steps:
       - name: Get current time
@@ -22,22 +28,22 @@ jobs:
           BRANCH_NAME: "update-end-${{ steps.current-time.outputs.formattedTime }}"
 
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Create a new branch
         run: git checkout -b ${{ steps.branch-name.outputs.result }}
 
       - name: Use Node.js
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v3
         with:
-          node-version: '12.x'
+          node-version: ${{ matrix.node-version }}
 
       - name: Run bdh to update end date
         run: npx bangumi-data-helper end
 
       - name: Commit changes
         id: commit-changes
-        uses: stefanzweifel/git-auto-commit-action@v4.1.2
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update end date
           branch: ${{ steps.branch-name.outputs.result }}
@@ -45,7 +51,7 @@ jobs:
       - name: Create pull request
         if: steps.commit-changes.outputs.changes_detected == 'true'
         run: |
-          hub pull-request -m "Auto end date update" --no-edit -r $REVIEWER -a $REVIEWER
+          gh pr create -r $REVIEWER -a $REVIEWER -b master -t "Auto end date update"
         env:
           REVIEWER: wxt2005
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
