@@ -3,6 +3,7 @@ name: Update end date for bangumi
 on:
   schedule:
     - cron: '0 4 1 * *'
+  workflow_dispatch:
 
 jobs:
   update:
@@ -49,7 +50,7 @@ jobs:
       - name: Create pull request
         if: steps.commit-changes.outputs.changes_detected == 'true'
         run: |
-          gh pr create -r $REVIEWER -a $REVIEWER -b master -t "Auto end date update"
+          gh pr create -r $REVIEWER -a $REVIEWER -t "Auto end date update" -b "${{ steps.current-time.outputs.formattedTime }}"
         env:
           REVIEWER: wxt2005
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
