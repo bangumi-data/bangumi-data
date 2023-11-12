@@ -83,5 +83,69 @@
         "broadcast": "R/2023-11-01T16:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "機甲英雄 機鬥勇者 第2季",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机甲英雄 机斗勇者 第2季"
+      ],
+      "zh-Hant": [
+        "機甲英雄 機鬥勇者 第二季"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2023-11-09T16:00:00.000Z",
+    "broadcast": "R/2023-11-09T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "463539"
+      },
+      {
+        "site": "gamer",
+        "id": "136356",
+        "begin": "2023-11-10T10:00:00.000Z",
+        "broadcast": "R/2023-11-10T10:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "悪魔くん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恶魔小子",
+        "恶魔君"
+      ],
+      "zh-Hant": [
+        "惡魔君"
+      ],
+      "en": [
+        "Akuma Kun"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.toei-anim.co.jp/akumakun/",
+    "begin": "2023-11-08T16:00:00.000Z",
+    "broadcast": "R/2023-11-08T16:00:00.000Z/P0D",
+    "end": "2023-11-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "360121"
+      },
+      {
+        "site": "netflix",
+        "id": "81400498",
+        "begin": "2023-11-08T16:00:00.000Z",
+        "broadcast": "R/2023-11-08T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]
