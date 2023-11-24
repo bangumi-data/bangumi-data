@@ -147,5 +147,37 @@
         "broadcast": "R/2023-11-08T16:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "ぼくのデーモン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我的恶魔"
+      ],
+      "zh-Hant": [
+        "我的惡魔"
+      ],
+      "en": [
+        "My Daemon"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2023-11-22T16:00:00.000Z",
+    "end": "2023-11-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "402754"
+      },
+      {
+        "site": "netflix",
+        "id": "81261227",
+        "begin": "2023-11-22T16:00:00.000Z",
+        "broadcast": "R/2023-11-22T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]
