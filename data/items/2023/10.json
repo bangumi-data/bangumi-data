@@ -34,7 +34,8 @@
         "site": "viu",
         "id": "2247874",
         "begin": "2023-09-28T16:00:00.000Z",
-        "broadcast": "R/2023-09-28T16:00:00.000Z/P7D"
+        "broadcast": "R/2023-09-28T16:00:00.000Z/P7D",
+        "comment": "粵語版: 2262136"
       },
       {
         "site": "gamer",
@@ -1757,6 +1758,9 @@
     "titleTranslate": {
       "en": [
         "BEYBLADE X"
+      ],
+      "zh-Hant": [
+        "爆旋陀螺X"
       ]
     },
     "type": "tv",
@@ -1770,6 +1774,12 @@
       {
         "site": "bangumi",
         "id": "418599"
+      },
+      {
+        "site": "mytv",
+        "id": "beybladex_139812",
+        "begin": "2023-11-19T12:30:00.000Z",
+        "broadcast": "R/2023-11-19T12:30:00.000Z/P7D"
       }
     ]
   },
@@ -2211,8 +2221,8 @@
       {
         "site": "bilibili",
         "id": "21086686",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-11-11T12:00:01.000Z",
+        "broadcast": "R/2023-11-11T12:00:01.000Z/P7D"
       },
       {
         "site": "viu",
