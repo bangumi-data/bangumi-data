@@ -2228,7 +2228,8 @@
         "site": "viu",
         "id": "2251140",
         "begin": "2023-10-06T16:00:00.000Z",
-        "broadcast": "R/2023-10-06T16:00:00.000Z/P7D"
+        "broadcast": "R/2023-10-06T16:00:00.000Z/P7D",
+        "comment": "粵語版: 2270009"
       },
       {
         "site": "gamer",
@@ -2240,7 +2241,8 @@
         "site": "mytv",
         "id": "spyxfamilyseason2_139633",
         "begin": "2023-10-07T15:00:00.000Z",
-        "broadcast": "R/2023-10-07T15:00:00.000Z/P7D"
+        "broadcast": "R/2023-10-07T15:00:00.000Z/P7D",
+        "comment": "雙語版: spyxfamilyseason20001_139634"
       },
       {
         "site": "netflix",
@@ -2352,6 +2354,44 @@
         "id": "PLuxqoToY7UcjMN3xRmSKGiNGTyF5ZV_c0",
         "begin": "2023-10-31T15:30:00.000Z",
         "broadcast": "R/2023-10-31T15:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "僕のヒーローアカデミア 雄英ヒーローズ・バトル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我的英雄学院 雄英HEROES BATTLE"
+      ],
+      "zh-Hant": [
+        "我的英雄學院 雄英HEROS BATTLE"
+      ],
+      "en": [
+        "My Hero Academia UA HEROS BATTLE"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2023-10-19T16:00:00.000Z",
+    "end": "2023-10-19T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "467909"
+      },
+      {
+        "site": "gamer",
+        "id": "136608",
+        "begin": "2023-11-30T15:00:00.000Z",
+        "broadcast": "R/2023-11-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "myheroacademiauaherosbattle_139995",
+        "begin": "2023-11-30T15:00:00.000Z",
+        "broadcast": "R/2023-11-30T15:00:00.000Z/P7D"
       }
     ]
   }
