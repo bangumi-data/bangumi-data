@@ -2394,7 +2394,11 @@
   },
   {
     "title": "特別版 Free!-Take Your Marks-",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hant": [
+        "特別版 FREE! 男子游泳部 -Take Your Marks-"
+      ]
+    },
     "type": "movie",
     "lang": "ja",
     "officialSite": "http://tym.iwatobi-sc.com/",
@@ -2410,6 +2414,12 @@
         "id": "114452",
         "begin": "2018-07-10T08:27:00.000Z",
         "broadcast": "R/2018-07-10T08:27:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "88095",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

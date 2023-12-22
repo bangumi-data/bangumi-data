@@ -287,5 +287,34 @@
         "broadcast": "R/2021-07-01T04:50:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "海辺のエトランゼ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海边的异邦人"
+      ],
+      "zh-Hant": [
+        "海邊的異邦人"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://etranger-anime.com",
+    "begin": "2020-09-10T16:00:00.000Z",
+    "end": "2020-09-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "293610"
+      },
+      {
+        "site": "gamer",
+        "id": "108353",
+        "begin": "2023-10-18T04:00:00.000Z",
+        "broadcast": "R/2023-10-18T04:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

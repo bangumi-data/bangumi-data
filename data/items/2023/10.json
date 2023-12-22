@@ -2394,5 +2394,34 @@
         "broadcast": "R/2023-11-30T15:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "大雪海のカイナ ほしのけんじゃ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大雪海的卡纳 星之贤者"
+      ],
+      "zh-Hant": [
+        "大雪海的卡那 星之賢者"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://ooyukiumi.net",
+    "begin": "2023-10-12T16:00:00.000Z",
+    "end": "2023-10-12T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "414590"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "21095592",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]

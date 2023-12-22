@@ -210,5 +210,34 @@
         "broadcast": "R/2020-02-05T16:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "囀る鳥は羽ばたかない The clouds gather",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鸣鸟不飞 The clouds gather"
+      ],
+      "zh-Hant": [
+        "鳴鳥不飛：烏雲密布"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://saezuru.com/",
+    "begin": "2020-02-14T16:00:00.000Z",
+    "end": "2020-02-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "281305"
+      },
+      {
+        "site": "gamer",
+        "id": "108388",
+        "begin": "2023-10-20T04:00:00.000Z",
+        "broadcast": "R/2023-10-20T04:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

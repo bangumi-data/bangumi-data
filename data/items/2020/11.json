@@ -190,5 +190,34 @@
         "broadcast": "R/2023-06-29T10:00:01.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "魔女見習いをさがして",
+    "titleTranslate": {
+      "zh-Hans": [
+        "寻找见习魔女"
+      ],
+      "zh-Hant": [
+        "尋找小魔女 DoReMi"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://lookingfor-magical-doremi.com/",
+    "begin": "2020-11-12T16:00:00.000Z",
+    "end": "2020-11-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "278898"
+      },
+      {
+        "site": "gamer",
+        "id": "104714",
+        "begin": "2023-09-13T04:00:00.000Z",
+        "broadcast": "R/2023-09-13T04:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

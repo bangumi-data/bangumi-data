@@ -2227,5 +2227,34 @@
         "broadcast": "R/2022-09-08T16:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "映画ざんねんないきもの事典",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 遗憾生物事典"
+      ],
+      "zh-Hant": [
+        "電影版殘念生物事典"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://zannen-movie.com/",
+    "begin": "2022-07-07T16:00:00.000Z",
+    "end": "2022-07-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "333258"
+      },
+      {
+        "site": "gamer",
+        "id": "116954",
+        "begin": "2023-11-24T03:30:00.000Z",
+        "broadcast": "R/2023-11-24T03:30:00.000Z/P7D"
+      }
+    ]
   }
 ]

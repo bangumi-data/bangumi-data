@@ -2139,5 +2139,65 @@
         "broadcast": "R/2022-04-15T03:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "劇場版 Free!-the Final Stroke- 後編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 Free!-the Final Stroke- 后篇"
+      ],
+      "zh-Hant": [
+        "劇場版 Free! 男子游泳部 -the Final Stroke- 後篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://fs.iwatobi-sc.com/",
+    "begin": "2022-04-21T16:00:00.000Z",
+    "end": "2022-04-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "334203"
+      },
+      {
+        "site": "gamer",
+        "id": "136270",
+        "begin": "2023-11-10T04:00:00.000Z",
+        "broadcast": "R/2023-11-10T04:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ちいかわ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小可爱",
+        "Chiikawa"
+      ],
+      "zh-Hant": [
+        "吉伊卡哇",
+        "Chiikawa"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://fs.iwatobi-sc.com/",
+    "begin": "2022-04-03T20:40:00.000Z",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "354700"
+      },
+      {
+        "site": "gamer",
+        "id": "120421",
+        "begin": "2023-12-22T08:10:00.000Z",
+        "broadcast": "R/2023-12-22T08:10:00.000Z/P7D"
+      }
+    ]
   }
 ]

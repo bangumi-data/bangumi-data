@@ -251,5 +251,34 @@
         "broadcast": "R/2022-08-02T10:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "ONE PIECE FILM RED",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海贼王 红发歌姬"
+      ],
+      "zh-Hant": [
+        "航海王劇場版：紅髮歌姬"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.onepiece-film.jp/",
+    "begin": "2022-08-05T16:00:00.000Z",
+    "end": "2022-08-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "358803"
+      },
+      {
+        "site": "netflix",
+        "id": "81700392",
+        "begin": "2023-12-14T00:00:00.000Z",
+        "broadcast": "R/2023-12-14T00:00:00.000Z/P7D"
+      }
+    ]
   }
 ]
