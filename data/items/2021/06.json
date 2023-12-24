@@ -95,6 +95,12 @@
         "id": "28234742",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "gundam-hathaway",
+        "begin": "2021-10-15T15:00:00.000Z",
+        "broadcast": "R/2021-10-15T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -186,6 +192,12 @@
         "id": "28339462",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "pompo-the-cinephile",
+        "begin": "2022-01-31T15:00:00.000Z",
+        "broadcast": "R/2022-01-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -218,6 +230,12 @@
         "id": "28234639",
         "begin": "2021-09-03T16:00:00.000Z",
         "broadcast": "R/2021-09-03T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fate-grand-carnival-1st",
+        "begin": "2022-01-31T15:00:00.000Z",
+        "broadcast": "R/2022-01-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -281,6 +299,33 @@
         "id": "28393590",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "プリティーオールフレンズセレクション",
+    "titleTranslate": {
+      "zh-Hans": [
+        "美妙全友情精选"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2021-06-05T16:00:00.000Z",
+    "broadcast": "R/2021-06-05T16:00:00.000Z/P7D",
+    "end": "2021-09-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "334494"
+      },
+      {
+        "site": "nicovideo",
+        "id": "pretty10th",
+        "begin": "2021-06-07T08:00:00.000Z",
+        "broadcast": "R/2021-06-07T08:00:00.000Z/P7D"
       }
     ]
   }

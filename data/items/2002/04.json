@@ -147,6 +147,12 @@
         "site": "youku",
         "id": "cc003cd4962411de83b1",
         "begin": "2012-06-21T19:43:05.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "azumangadaio",
+        "begin": "2022-10-07T15:00:00.000Z",
+        "broadcast": "R/2022-10-07T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -285,7 +291,8 @@
       {
         "site": "nicovideo",
         "id": "aiyoriaoshi_",
-        "begin": "2012-08-29T15:00:00.000Z"
+        "begin": "2012-08-29T15:00:00.000Z",
+        "broadcast": "R/2012-08-29T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -328,6 +335,12 @@
         "id": "2036",
         "begin": "2017-03-19T06:40:00.000Z",
         "broadcast": "R/2017-03-19T06:40:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hack-sign",
+        "begin": "2022-11-30T15:00:00.000Z",
+        "broadcast": "R/2022-11-30T15:00:00.000Z/P7D"
       }
     ]
   },

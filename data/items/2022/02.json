@@ -129,6 +129,12 @@
         "id": "120370",
         "begin": "2022-06-03T01:30:00.000Z",
         "broadcast": "R/2022-06-03T01:30:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fruba-prelude",
+        "begin": "2022-07-01T03:00:00.000Z",
+        "broadcast": "R/2022-07-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -161,6 +167,12 @@
         "id": "119597",
         "begin": "2022-11-28T03:00:00.000Z",
         "broadcast": "R/2022-11-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "donglees",
+        "begin": "2022-11-30T15:00:00.000Z",
+        "broadcast": "R/2022-11-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -194,6 +206,34 @@
         "id": "104709",
         "begin": "2022-09-29T04:00:00.000Z",
         "broadcast": "R/2022-09-29T04:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "DEEMO サクラノオト -あなたの奏でた音が、今も響く- I still hear the sound of your piano",
+    "titleTranslate": {
+      "zh-Hans": [
+        "DEEMO 樱花之音 -你奏响的音乐，如今依旧回荡- I still hear the sound of your piano",
+        "DEEMO 樱之音 -你弹奏的声音，至今仍在回响- I still hear the sound of your piano"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://deemomovie.jp/",
+    "begin": "2022-02-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-02-24T17:28:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "294752"
+      },
+      {
+        "site": "nicovideo",
+        "id": "deemo-movie",
+        "begin": "2022-11-08T15:00:00.000Z",
+        "broadcast": "R/2022-11-08T15:00:00.000Z/P7D"
       }
     ]
   }

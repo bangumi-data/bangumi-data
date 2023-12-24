@@ -24,7 +24,8 @@
       {
         "site": "nicovideo",
         "id": "tukimonogatari",
-        "begin": "2015-09-01T06:00:00.000Z"
+        "begin": "2015-09-01T06:00:00.000Z",
+        "broadcast": "R/2014-10-24T06:00:00.000Z/P7D"
       },
       {
         "site": "acfun",
@@ -215,7 +216,8 @@
       {
         "site": "nicovideo",
         "id": "s-witchOVA",
-        "begin": "2016-10-11T06:00:00.000Z"
+        "begin": "2016-10-11T06:00:00.000Z",
+        "broadcast": "R/2016-10-11T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -352,6 +354,33 @@
         "id": "71736",
         "begin": "2021-08-27T09:00:00.000Z",
         "broadcast": "R/2021-08-27T09:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "一騎当千 Extravaganza Epoch",
+    "titleTranslate": {
+      "zh-Hans": [
+        "一骑当千 Extravaganza Epoch"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.ikkitousen.com/",
+    "begin": "2014-12-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2014-12-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "100568"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ikkitousen-ova2",
+        "begin": "2022-06-23T15:00:00.000Z",
+        "broadcast": "R/2022-06-23T15:00:00.000Z/P7D"
       }
     ]
   }

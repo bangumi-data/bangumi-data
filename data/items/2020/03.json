@@ -173,5 +173,32 @@
         "comment": "粵日雙語"
       }
     ]
+  },
+  {
+    "title": "人形アニメ ハイキュー!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "人偶动画 排球!!"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://haikyu.jp/comic/figure-animation.html",
+    "begin": "2020-03-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "293947"
+      },
+      {
+        "site": "nicovideo",
+        "id": "haikyu-figure-animation",
+        "begin": "2023-12-14T15:00:00.000Z",
+        "broadcast": "R/2023-12-14T15:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

@@ -197,5 +197,87 @@
         "comment": "遊郭潛入篇, 遊郭決戰篇: 20203323"
       }
     ]
+  },
+  {
+    "title": "グリッドマン ユニバース",
+    "titleTranslate": {
+      "zh-Hans": [
+        "古立特宇宙"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://ssss-movie.net/",
+    "begin": "2023-03-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-03-23T17:58:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "362335"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ssss-movie",
+        "begin": "2023-11-07T15:00:00.000Z",
+        "broadcast": "R/2023-11-07T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "らくだい魔女 フウカと闇の魔女",
+    "titleTranslate": {
+      "zh-Hans": [
+        "落第魔女 风花与暗之魔女"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://anime-rakumajo.com/",
+    "begin": "2023-03-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "352185"
+      },
+      {
+        "site": "nicovideo",
+        "id": "rakumajo-movie",
+        "begin": "2023-09-08T15:00:00.000Z",
+        "broadcast": "R/2023-09-08T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "爆丸レジェンズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "爆丸传奇",
+        "爆丸Legends"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.bakugan.jp/",
+    "begin": "2023-03-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-06-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "425936"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bakugan_L",
+        "begin": "2023-04-01T03:00:00.000Z",
+        "broadcast": "R/2023-04-01T03:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

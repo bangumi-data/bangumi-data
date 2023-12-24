@@ -249,6 +249,12 @@
         "id": "28338741",
         "begin": "2022-08-02T10:00:00.000Z",
         "broadcast": "R/2022-08-02T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sekashiba_anime",
+        "begin": "2023-10-27T10:00:00.000Z",
+        "broadcast": "R/2023-10-27T10:00:00.000Z/P7D"
       }
     ]
   },
@@ -278,6 +284,33 @@
         "id": "81700392",
         "begin": "2023-12-14T00:00:00.000Z",
         "broadcast": "R/2023-12-14T00:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 Gのレコンギスタ Ⅴ 死線を越えて",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 高达G之复国运动 Ⅴ 越过死线"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://g-reco.net/",
+    "begin": "2022-08-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-08-04T17:35:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "286127"
+      },
+      {
+        "site": "nicovideo",
+        "id": "g-reco-movie5",
+        "begin": "2022-12-22T15:00:00.000Z",
+        "broadcast": "R/2022-12-22T15:00:00.000Z/P7D"
       }
     ]
   }

@@ -68,6 +68,12 @@
         "id": "106598",
         "begin": "2020-05-28T12:00:00.000Z",
         "broadcast": "R/2020-05-28T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tenchimuyo5th",
+        "begin": "2022-01-07T03:00:00.000Z",
+        "broadcast": "R/2022-01-07T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -95,7 +101,8 @@
       {
         "site": "nicovideo",
         "id": "goblins-crown",
-        "begin": ""
+        "begin": "2020-09-24T15:00:00.000Z",
+        "broadcast": "R/2020-09-24T15:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -126,8 +133,8 @@
       {
         "site": "nicovideo",
         "id": "movie-shirobako",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-02-07T15:00:00.000Z",
+        "broadcast": "R/2021-02-07T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -156,8 +163,8 @@
       {
         "site": "nicovideo",
         "id": "sekai-ichi",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-06-10T15:00:00.000Z",
+        "broadcast": "R/2021-06-10T15:00:00.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
@@ -237,6 +244,34 @@
         "id": "108388",
         "begin": "2023-10-20T04:00:00.000Z",
         "broadcast": "R/2023-10-20T04:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 Gのレコンギスタ II ベルリ 撃進",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 高达G之复国运动 II 贝尔利出击",
+        "剧场版 G之复国运动 II 贝尔利出击"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.g-reco.net/2nd/",
+    "begin": "2020-02-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-02-20T17:34:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "286124"
+      },
+      {
+        "site": "nicovideo",
+        "id": "g-reco-movie2",
+        "begin": "2021-12-23T15:00:00.000Z",
+        "broadcast": "R/2021-12-23T15:00:00.000Z/P7D"
       }
     ]
   }

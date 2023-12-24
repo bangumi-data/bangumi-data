@@ -160,8 +160,8 @@
       {
         "site": "nicovideo",
         "id": "hokusai-anime",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-10-10T03:00:00.000Z",
+        "broadcast": "R/2021-10-10T03:00:00.000Z/P7D"
       },
       {
         "site": "bilibili_hk_mo_tw",
@@ -201,14 +201,43 @@
       {
         "site": "nicovideo",
         "id": "aria-crepuscolo",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-08-18T03:00:00.000Z",
+        "broadcast": "R/2021-08-18T03:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "112596",
         "begin": "2021-10-08T07:00:00.000Z",
         "broadcast": "R/2021-10-08T07:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "シン・エヴァンゲリオン劇場版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新・福音战士剧场版：终",
+        "福音戰士新劇場版：終",
+        "EVANGELION: 3.0+1.0 Thrice Upon A Time (剧场上映)"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.evangelion.co.jp/final.html",
+    "begin": "2021-03-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-03-07T18:34:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "29883"
+      },
+      {
+        "site": "nicovideo",
+        "id": "shin_eva_movie",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

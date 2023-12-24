@@ -131,6 +131,12 @@
         "id": "118547",
         "begin": "2023-02-01T04:00:00.000Z",
         "broadcast": "R/2023-02-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "isekai-quartet-movie",
+        "begin": "2023-02-28T15:00:00.000Z",
+        "broadcast": "R/2023-02-28T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -164,6 +170,67 @@
         "id": "20138339",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "gundam-cucuruz-doan",
+        "begin": "2023-10-13T15:00:00.000Z",
+        "broadcast": "R/2023-10-13T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "快把我哥带走5",
+    "titleTranslate": {
+      "zh-Hans": [
+        "快把我哥带走5",
+        "快把我哥带走 第五季"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-06-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "345805"
+      },
+      {
+        "site": "nicovideo",
+        "id": "anitsuke5",
+        "begin": "2022-07-29T03:00:00.000Z",
+        "broadcast": "R/2022-07-29T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "怪盗クイーンはサーカスがお好き",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪盗皇后喜欢马戏团"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://miragequeen.jp/",
+    "begin": "2022-06-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "341657"
+      },
+      {
+        "site": "nicovideo",
+        "id": "miragequeen",
+        "begin": "2022-12-20T15:00:00.000Z",
+        "broadcast": "R/2022-12-20T15:00:00.000Z/P7D"
       }
     ]
   }

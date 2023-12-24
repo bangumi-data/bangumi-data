@@ -30,7 +30,8 @@
       {
         "site": "nicovideo",
         "id": "hinalogic",
-        "begin": "2017-07-05T03:00:00.000Z"
+        "begin": "2017-07-05T03:00:00.000Z",
+        "broadcast": "R/2017-07-05T03:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -62,7 +63,8 @@
       {
         "site": "nicovideo",
         "id": "PRIDE_the_HERO",
-        "begin": ""
+        "begin": "2018-02-01T15:00:00.000Z",
+        "broadcast": "R/2018-02-01T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -94,7 +96,8 @@
       {
         "site": "nicovideo",
         "id": "mahouka_movie",
-        "begin": ""
+        "begin": "2018-04-24T15:00:00.000Z",
+        "broadcast": "R/2018-04-24T15:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -156,6 +159,33 @@
       {
         "site": "bangumi",
         "id": "211841"
+      }
+    ]
+  },
+  {
+    "title": "CHAOS;CHILD SILENT SKY",
+    "titleTranslate": {
+      "zh-Hans": [
+        "混沌子 SILENT SKY"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://chaoschildanime.com/",
+    "begin": "2017-06-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-06-16T16:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "212221"
+      },
+      {
+        "site": "nicovideo",
+        "id": "chaos-child-silent-sky",
+        "begin": "2022-01-31T15:00:00.000Z",
+        "broadcast": "R/2022-01-31T15:00:00.000Z/P7D"
       }
     ]
   }
