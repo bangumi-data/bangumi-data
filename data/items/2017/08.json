@@ -340,5 +340,35 @@
         "broadcast": "R/2021-12-30T00:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "しろたん しろたんがいっぱい！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海豹小白"
+      ],
+      "zh-Hant": [
+        "海豹小白"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.youtube.com/playlist?list=PLX1erwN5lMb8GkAMFsQyZIDYzlBcRP36k",
+    "begin": "2017-08-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2018-06-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "242592"
+      },
+      {
+        "site": "gamer",
+        "id": "134251",
+        "begin": "2023-08-04T03:40:00.000Z",
+        "broadcast": "R/2023-08-04T03:40:00.000Z/P7D"
+      }
+    ]
   }
 ]

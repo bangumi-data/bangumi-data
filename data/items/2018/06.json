@@ -19,7 +19,8 @@
       {
         "site": "bilibili",
         "id": "97272",
-        "begin": "2018-06-01T16:00:01.000Z"
+        "begin": "2018-06-01T16:00:01.000Z",
+        "broadcast": ""
       },
       {
         "site": "qq",
@@ -60,7 +61,8 @@
       {
         "site": "bilibili",
         "id": "952544",
-        "begin": "2018-10-26T16:00:00.000Z"
+        "begin": "2018-10-26T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },
@@ -85,7 +87,38 @@
       {
         "site": "bilibili",
         "id": "92812",
-        "begin": "2018-06-08T16:00:00.000Z"
+        "begin": "2018-06-08T16:00:00.000Z",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン かがやけ!クルンといのちの星",
+    "titleTranslate": {
+      "zh-Hans": [
+        "面包超人 闪耀吧！库伦与生命之星"
+      ],
+      "zh-Hant": [
+        "麵包超人電影版：閃耀吧！庫倫與生命之星"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.anpanman.jp/anime/movie.html",
+    "begin": "2018-06-29T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2018-06-29T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "455737"
+      },
+      {
+        "site": "gamer",
+        "id": "93283",
+        "begin": "2023-10-02T01:40:00.000Z",
+        "broadcast": "R/2023-10-02T01:40:00.000Z/P7D"
       }
     ]
   }
