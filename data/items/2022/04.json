@@ -66,6 +66,12 @@
         "id": "nijigasaki2",
         "begin": "2022-04-05T03:00:00.000Z",
         "broadcast": "R/2022-04-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "13-167",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -166,6 +172,12 @@
         "id": "reimeiki",
         "begin": "2022-04-10T17:30:00.000Z",
         "broadcast": "R/2022-04-10T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "194-28",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -221,6 +233,12 @@
         "id": "shikimori-anime",
         "begin": "2022-04-14T17:30:00.000Z",
         "broadcast": "R/2022-04-14T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "11-44",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -416,6 +434,12 @@
         "id": "yuuyame",
         "begin": "2022-04-12T14:30:00.000Z",
         "broadcast": "R/2022-04-12T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-194",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -539,6 +563,12 @@
         "id": "mobseka",
         "begin": "2022-04-10T14:00:00.000Z",
         "broadcast": "R/2022-04-10T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-201",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -725,6 +755,12 @@
         "id": "skeleton-knight",
         "begin": "2022-04-14T14:30:00.000Z",
         "broadcast": "R/2022-04-14T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "54-69",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1343,6 +1379,12 @@
         "id": "spy-family",
         "begin": "2022-04-09T14:30:00.000Z",
         "broadcast": "R/2022-04-09T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-86",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1370,6 +1412,12 @@
         "id": "yugioh-gorush",
         "begin": "2022-04-05T03:00:00.000Z",
         "broadcast": "R/2022-04-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "203-7",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1775,6 +1823,12 @@
         "id": "kaguya_love3",
         "begin": "2022-04-11T03:00:00.000Z",
         "broadcast": "R/2022-04-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-66",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1844,6 +1898,12 @@
         "id": "shieldhero-anime_02",
         "begin": "2022-04-13T14:30:00.000Z",
         "broadcast": "R/2022-04-13T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-109",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1995,6 +2055,12 @@
         "id": "murabito-a-anime",
         "begin": "2022-04-12T15:00:00.000Z",
         "broadcast": "R/2022-04-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "54-70",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2542,6 +2608,35 @@
         "id": "magireco_3rd",
         "begin": "2022-04-06T03:00:00.000Z",
         "broadcast": "R/2022-04-06T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "クレヨンしんちゃん もののけニンジャ珍風伝",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新：好别致的影分身",
+        "蜡笔小新 兽灵忍者珍风传",
+        "蜡笔小新 物怪忍者疾风传"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.shinchan-movie.com",
+    "begin": "2022-04-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-04-21T17:39:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "361697"
+      },
+      {
+        "site": "abema",
+        "id": "35-55",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

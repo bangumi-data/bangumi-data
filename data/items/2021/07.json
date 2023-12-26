@@ -108,6 +108,12 @@
         "id": "115393",
         "begin": "2021-07-08T16:30:00.000Z",
         "broadcast": "R/2021-07-08T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "194-23",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -203,6 +209,12 @@
         "id": "114623",
         "begin": "2021-07-02T18:55:00.000Z",
         "broadcast": "R/2021-07-02T18:55:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "11-38",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -443,6 +455,12 @@
         "id": "81474718",
         "begin": "2023-07-30T16:00:00.000Z",
         "broadcast": "R/2023-07-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "54-60",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -499,6 +517,12 @@
         "id": "28234702",
         "begin": "2021-07-02T17:55:00.000Z",
         "broadcast": "R/2021-07-02T17:55:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "169-115",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -661,6 +685,12 @@
         "id": "maidragon_S",
         "begin": "2021-07-10T12:00:00.000Z",
         "broadcast": "R/2021-07-10T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "248-8",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -928,6 +958,12 @@
         "id": "28234646",
         "begin": "2021-07-14T14:00:00.000Z",
         "broadcast": "R/2021-07-14T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "216-14",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1011,6 +1047,12 @@
       {
         "site": "nowPlayer",
         "id": "S202109280137884",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "194-24",
         "begin": "",
         "broadcast": ""
       }
@@ -1185,6 +1227,12 @@
         "id": "28234693",
         "begin": "2021-08-28T12:00:00.000Z",
         "broadcast": "R/2021-08-28T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "13-151",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1227,6 +1275,12 @@
         "id": "seireigensouki",
         "begin": "2022-08-21T15:00:00.000Z",
         "broadcast": "R/2022-08-21T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "169-116",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1284,6 +1338,12 @@
         "id": "genkoku-anime",
         "begin": "2021-10-20T03:00:00.000Z",
         "broadcast": "R/2021-10-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "115-99",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1464,6 +1524,12 @@
         "id": "idolish7thirdbeat_139517",
         "begin": "2023-10-10T12:50:00.000Z",
         "broadcast": "R/2023-10-10T12:50:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "420-44",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1797,6 +1863,12 @@
         "id": "5dX5AAqsoaiY",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "420-11",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2096,6 +2168,34 @@
         "id": "kud-wafter-movie",
         "begin": "2022-09-30T15:00:00.000Z",
         "broadcast": "R/2022-09-30T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "クレヨンしんちゃん 謎メキ!花の天カス学園",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新：谜案！天下春日部学院的怪奇事件",
+        "蜡笔小新：谜团！花之天下春日部学院"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.shinchan-movie.com",
+    "begin": "2021-07-29T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-07-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "322449"
+      },
+      {
+        "site": "abema",
+        "id": "35-55",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

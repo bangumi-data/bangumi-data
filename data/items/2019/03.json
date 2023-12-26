@@ -225,6 +225,12 @@
         "id": "110700",
         "begin": "2020-04-09T16:00:00.000Z",
         "broadcast": "R/2020-04-09T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-166",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -254,6 +260,35 @@
         "id": "107499",
         "begin": "2021-01-08T04:00:00.000Z",
         "broadcast": "R/2021-01-08T04:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "映画ドラえもん のび太の月面探査記",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦：大雄的月球探险记",
+        "哆啦A梦：大雄的月球探测记",
+        "哆啦A梦 野比的月面探査记"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://doraeiga.com/2019/",
+    "begin": "2019-02-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-02-28T16:01:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "263808"
+      },
+      {
+        "site": "abema",
+        "id": "35-46",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

@@ -287,5 +287,32 @@
         "broadcast": ""
       }
     ]
+  },
+  {
+    "title": "ゴールデンカムイ OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "黄金神威 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://kamuy-anime.com/",
+    "begin": "2018-09-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-09-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "256406"
+      },
+      {
+        "site": "abema",
+        "id": "11-56",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]
