@@ -32,7 +32,8 @@
       {
         "site": "nicovideo",
         "id": "utawarerumono",
-        "begin": "2015-10-15T06:00:00.000Z"
+        "begin": "2015-10-15T06:00:00.000Z",
+        "broadcast": "R/2015-10-15T06:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -80,13 +81,20 @@
       {
         "site": "nicovideo",
         "id": "oyashirosama",
-        "begin": "2016-08-23T03:00:00.000Z"
+        "begin": "2016-08-23T03:00:00.000Z",
+        "broadcast": "R/2016-08-23T03:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
         "id": "70308793",
         "begin": "2019-07-30T16:00:00.000Z",
         "broadcast": "R/2019-07-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "117-1m-6rcjtu92",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -379,7 +387,8 @@
       {
         "site": "nicovideo",
         "id": "hostbu",
-        "begin": "2014-04-15T06:00:00.000Z"
+        "begin": "2014-04-15T06:00:00.000Z",
+        "broadcast": "R/2014-04-15T06:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -576,7 +585,8 @@
       {
         "site": "nicovideo",
         "id": "blacklagoon",
-        "begin": "2011-10-13T15:30:00.000Z"
+        "begin": "2011-10-13T15:30:00.000Z",
+        "broadcast": "R/2011-10-13T15:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -589,6 +599,12 @@
         "id": "70308852",
         "begin": "2017-11-29T15:00:00.000Z",
         "broadcast": "R/2019-09-11T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "11-8",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -745,6 +761,9 @@
         "偶像宣言",
         "花漾明星KIRARIN",
         "星梦天使"
+      ],
+      "zh-Hant": [
+        "KIRARIN 花漾明星"
       ]
     },
     "type": "tv",
@@ -761,6 +780,12 @@
       {
         "site": "bangumi",
         "id": "49559"
+      },
+      {
+        "site": "gamer",
+        "id": "575",
+        "begin": "2023-11-03T04:00:00.000Z",
+        "broadcast": "R/2023-11-03T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -1130,7 +1155,8 @@
       {
         "site": "nicovideo",
         "id": "nana01",
-        "begin": "2015-03-13T06:00:00.000Z"
+        "begin": "2015-03-13T06:00:00.000Z",
+        "broadcast": "R/2015-03-13T06:00:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -1174,7 +1200,8 @@
       {
         "site": "nicovideo",
         "id": "gintama01",
-        "begin": "2015-04-17T06:00:00.000Z"
+        "begin": "2015-04-17T06:00:00.000Z",
+        "broadcast": "R/2015-04-17T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili_hk_mo_tw",
@@ -1187,6 +1214,12 @@
         "id": "28233839",
         "begin": "2021-03-19T10:00:00.000Z",
         "broadcast": "R/2021-03-19T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "13-47",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1304,6 +1337,12 @@
         "id": "4925",
         "begin": "2017-03-18T07:23:43.000Z",
         "broadcast": "R/2017-03-18T07:23:43.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hack-roots",
+        "begin": "2022-12-05T15:00:00.000Z",
+        "broadcast": "R/2022-12-05T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1750,7 +1789,8 @@
       {
         "site": "nicovideo",
         "id": "arianatu01",
-        "begin": "2015-04-02T10:00:00.000Z"
+        "begin": "2015-04-02T10:00:00.000Z",
+        "broadcast": "R/2015-04-02T10:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -1831,6 +1871,12 @@
         "site": "youku",
         "id": "f10d4a0261ad11e0bea1",
         "begin": "2012-11-26T18:00:26.000Z"
+      },
+      {
+        "site": "abema",
+        "id": "35-55",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

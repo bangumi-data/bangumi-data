@@ -110,6 +110,12 @@
         "id": "28237331",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "prisma-illya-movie-licht",
+        "begin": "2022-04-30T15:00:00.000Z",
+        "broadcast": "R/2022-04-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -138,6 +144,41 @@
         "id": "28234980",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "planetarian-snow-globe",
+        "begin": "2022-02-24T15:00:00.000Z",
+        "broadcast": "R/2022-02-24T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 きんいろモザイクThank you!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 黄金拼图 谢谢你!!",
+        "剧场版 黄金拼图 Thank you!!",
+        "剧场版 黄金嵌片 Thank you!!"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.kinmosa.com",
+    "begin": "2021-08-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-08-19T17:21:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302373"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kinmosa-movie",
+        "begin": "2022-04-26T15:00:00.000Z",
+        "broadcast": "R/2022-04-26T15:00:00.000Z/P7D"
       }
     ]
   }

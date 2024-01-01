@@ -32,6 +32,12 @@
         "id": "119183",
         "begin": "2021-09-19T22:15:00.000Z",
         "broadcast": "R/2021-09-19T22:15:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "doukichan-anime",
+        "begin": "2022-05-31T15:00:00.000Z",
+        "broadcast": "R/2022-05-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -72,6 +78,12 @@
         "id": "119691",
         "begin": "2021-09-19T22:20:00.000Z",
         "broadcast": "R/2021-09-19T22:20:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tawawa-anime",
+        "begin": "2022-05-31T15:00:00.000Z",
+        "broadcast": "R/2022-05-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -191,6 +203,70 @@
         "id": "81236338",
         "begin": "2021-09-29T16:00:00.000Z",
         "broadcast": "R/2021-09-29T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 Free!-the Final Stroke- 前編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 Free!-the Final Stroke- 前篇"
+      ],
+      "zh-Hant": [
+        "劇場版 Free! 男子游泳部 -the Final Stroke- 前篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://fs.iwatobi-sc.com/",
+    "begin": "2021-09-16T16:00:00.000Z",
+    "end": "2021-09-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "271652"
+      },
+      {
+        "site": "gamer",
+        "id": "113123",
+        "begin": "2023-11-10T04:00:00.000Z",
+        "broadcast": "R/2023-11-10T04:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "アリス・ギア・アイギス ～ドキッ！アクトレスだらけのマーメイドグランプリ～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机战少女 Alice ～心跳！满是女演员的美人鱼大奖赛♥～"
+      ],
+      "zh-Hant": [
+        "機戰少女 Alice OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://colopl.co.jp/alicegearaegis/lp/ova",
+    "begin": "2021-09-14T16:00:00.000Z",
+    "end": "2021-09-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "343710"
+      },
+      {
+        "site": "gamer",
+        "id": "133485",
+        "begin": "2023-06-23T08:35:00.000Z",
+        "broadcast": "R/2023-06-23T08:35:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "54-82",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

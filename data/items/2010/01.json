@@ -130,7 +130,8 @@
       {
         "site": "nicovideo",
         "id": "ch60020",
-        "begin": "2011-04-29T03:00:01.000Z"
+        "begin": "2011-04-29T03:00:01.000Z",
+        "broadcast": "R/2011-04-29T03:00:01.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -149,6 +150,12 @@
         "id": "28663",
         "begin": "2021-12-03T06:00:00.000Z",
         "broadcast": "R/2021-12-03T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-33",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -194,7 +201,8 @@
       {
         "site": "nicovideo",
         "id": "sorawoto",
-        "begin": "2012-07-25T06:00:00.000Z"
+        "begin": "2012-07-25T06:00:00.000Z",
+        "broadcast": "R/2012-07-25T06:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -231,7 +239,8 @@
       {
         "site": "nicovideo",
         "id": "ch332",
-        "begin": "2011-02-26T06:00:00.000Z"
+        "begin": "2011-02-26T06:00:00.000Z",
+        "broadcast": "R/2011-02-26T06:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -286,7 +295,8 @@
       {
         "site": "nicovideo",
         "id": "hidamari_03",
-        "begin": "2014-12-19T06:00:00.000Z"
+        "begin": "2014-12-19T06:00:00.000Z",
+        "broadcast": "R/2014-12-19T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -350,7 +360,8 @@
       {
         "site": "nicovideo",
         "id": "okami",
-        "begin": "2012-09-05T06:00:00.000Z"
+        "begin": "2012-09-05T06:00:00.000Z",
+        "broadcast": "R/2012-09-05T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -402,7 +413,8 @@
       {
         "site": "nicovideo",
         "id": "omamorihimari",
-        "begin": ""
+        "begin": "2020-03-13T06:00:00.000Z",
+        "broadcast": "R/2020-03-13T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -439,6 +451,12 @@
         "site": "letv",
         "id": "15039",
         "begin": ""
+      },
+      {
+        "site": "abema",
+        "id": "19-160",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -726,6 +744,12 @@
         "site": "pptv",
         "id": "oFw4th6E9DKVE3s",
         "begin": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "nanoha-movie",
+        "begin": "2021-12-23T15:00:00.000Z",
+        "broadcast": "R/2021-12-23T15:00:00.000Z/P7D"
       }
     ]
   },

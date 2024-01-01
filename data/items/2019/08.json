@@ -36,6 +36,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "海贼王 狂热行动"
+      ],
+      "zh-Hant": [
+        "航海王：奪寶爭霸戰"
+      ],
+      "en": [
+        "One Piece Stampede"
       ]
     },
     "type": "movie",
@@ -52,7 +58,14 @@
       {
         "site": "nicovideo",
         "id": "STAMPEDE",
-        "begin": ""
+        "begin": "2020-03-17T15:00:00.000Z",
+        "broadcast": "R/2020-03-17T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81240764",
+        "begin": "2023-12-14T00:00:00.000Z",
+        "broadcast": "R/2023-12-14T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -77,7 +90,8 @@
       {
         "site": "nicovideo",
         "id": "anitsuke3",
-        "begin": "2019-10-07T12:54:00.000Z"
+        "begin": "2019-10-07T12:54:00.000Z",
+        "broadcast": "R/2019-10-07T12:54:00.000Z/P7D"
       }
     ]
   },
@@ -111,14 +125,20 @@
       {
         "site": "nicovideo",
         "id": "konosuba-movie",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-02-01T03:00:00.000Z",
+        "broadcast": "R/2021-02-01T03:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "90551",
         "begin": "2021-07-24T04:00:00.000Z",
         "broadcast": "R/2021-07-24T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-157",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -275,6 +295,12 @@
         "id": "PLuxqoToY7Ucj4dm20skcKMRAIG4ttibAl",
         "begin": "2021-04-18T16:00:00.000Z",
         "broadcast": "R/2021-04-18T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ninjabox",
+        "begin": "2019-11-22T15:00:00.000Z",
+        "broadcast": "R/2019-11-22T15:00:00.000Z/P7D"
       }
     ]
   }

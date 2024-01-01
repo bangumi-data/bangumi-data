@@ -71,6 +71,18 @@
         "id": "2240175",
         "begin": "2023-09-14T16:00:00.000Z",
         "broadcast": "R/2023-09-14T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "paripikoumei-anime",
+        "begin": "2022-04-10T14:00:00.000Z",
+        "broadcast": "R/2022-04-10T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "194-27",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -204,6 +216,12 @@
         "id": "strikethebloodfinal_136930",
         "begin": "2022-11-11T17:00:00.000Z",
         "broadcast": "R/2022-11-11T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "strike-the-blood-final-ova",
+        "begin": "2023-04-30T15:00:00.000Z",
+        "broadcast": "R/2023-04-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -231,6 +249,12 @@
         "id": "28237243",
         "begin": "2022-04-14T23:00:01.000Z",
         "broadcast": "R/2022-04-14T23:00:01.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gineiden-dnt-movie",
+        "begin": "2022-07-02T15:00:00.000Z",
+        "broadcast": "R/2022-07-02T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -257,6 +281,12 @@
         "id": "28237243",
         "begin": "2022-04-14T23:00:01.000Z",
         "broadcast": "R/2022-04-14T23:00:01.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gineiden-dnt-movie",
+        "begin": "2022-07-02T15:00:00.000Z",
+        "broadcast": "R/2022-07-02T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -281,6 +311,34 @@
       {
         "site": "bilibili",
         "id": "28237281",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "映画ドラえもん のび太の宇宙小戦争2021",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦：大雄的宇宙小战争 2021",
+        "哆啦A梦 大雄的宇宙小战争 2021"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://doraeiga.com/2021/",
+    "begin": "2022-03-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-03-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "325571"
+      },
+      {
+        "site": "abema",
+        "id": "35-46",
         "begin": "",
         "broadcast": ""
       }

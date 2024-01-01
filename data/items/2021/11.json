@@ -181,6 +181,41 @@
         "id": "28237193",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "summerghost",
+        "begin": "2022-12-22T15:00:00.000Z",
+        "broadcast": "R/2022-12-22T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "EUREKA/交響詩篇エウレカセブン ハイエボリューション",
+    "titleTranslate": {
+      "zh-Hans": [
+        "EUREKA/交响诗篇 Hi-Evolution",
+        "EUREKA/交响诗篇—高度进化",
+        "交响诗篇 超进化3"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://eurekaseven.jp/",
+    "begin": "2021-11-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "211439"
+      },
+      {
+        "site": "nicovideo",
+        "id": "eurekaseven-movie",
+        "begin": "2022-06-24T03:00:00.000Z",
+        "broadcast": "R/2022-06-24T03:00:00.000Z/P7D"
       }
     ]
   }

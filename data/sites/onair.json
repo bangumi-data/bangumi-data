@@ -106,5 +106,10 @@
     "title": "Now Player",
     "urlTemplate": "https://nowplayer.now.com/ondemand/detail?id={{id}}&type=series",
     "regions": ["HK"]
+  },
+  "abema": {
+    "title": "ABEMA",
+    "urlTemplate": "https://abema.tv/video/title/{{id}}",
+    "regions": ["JP"]
   }
 }

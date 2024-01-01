@@ -66,8 +66,8 @@
       {
         "site": "nicovideo",
         "id": "ichigo-animation",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-02-13T15:00:00.000Z",
+        "broadcast": "R/2021-02-13T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -100,8 +100,8 @@
       {
         "site": "nicovideo",
         "id": "kimetsugakuen",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-03-15T03:00:00.000Z",
+        "broadcast": "R/2021-03-15T03:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -228,6 +228,41 @@
         "id": "120583",
         "begin": "2021-11-19T08:00:00.000Z",
         "broadcast": "R/2021-11-19T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tenipuri-game-of-future",
+        "begin": "2022-09-30T15:00:00.000Z",
+        "broadcast": "R/2022-09-30T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "囀る鳥は羽ばたかない Don’t stay gold",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鸣鸟不飞 Don’t stay gold"
+      ],
+      "zh-Hant": [
+        "鳴鳥不飛：Don’t stay gold"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2021-02-28T16:00:00.000Z",
+    "end": "2021-02-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317644"
+      },
+      {
+        "site": "gamer",
+        "id": "116199",
+        "begin": "2023-10-20T04:00:00.000Z",
+        "broadcast": "R/2023-10-20T04:00:00.000Z/P7D"
       }
     ]
   }

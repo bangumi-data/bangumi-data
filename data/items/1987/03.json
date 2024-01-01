@@ -35,6 +35,12 @@
         "site": "bilibili",
         "id": "2555",
         "begin": "1987-03-13T16:00:00.000Z"
+      },
+      {
+        "site": "abema",
+        "id": "35-46",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -83,6 +89,33 @@
       {
         "site": "qq",
         "id": "m/mzc00200bpfv3nj",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "北斗の拳2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "北斗神拳2"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-03-11T16:00:00.000Z",
+    "broadcast": "R/1987-03-11T16:00:00.000Z/P7D",
+    "end": "1988-02-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53742"
+      },
+      {
+        "site": "abema",
+        "id": "5-22",
         "begin": "",
         "broadcast": ""
       }

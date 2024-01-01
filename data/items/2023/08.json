@@ -39,7 +39,9 @@
         "ODEKAKE KOZAME"
       ],
       "zh-Hans": [
-        "小鲨鱼去郊游"
+        "小鲨鱼去郊游",
+        "小鯊魚出門趣",
+        "小鲨鱼出门记"
       ]
     },
     "type": "web",
@@ -53,6 +55,39 @@
       {
         "site": "bangumi",
         "id": "437502"
+      }
+    ]
+  },
+  {
+    "title": "特別編 響け！ユーフォニアム～アンサンブルコンテスト～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "特别篇 吹响！悠风号～合奏比赛～",
+        "特别篇 吹响！悠风号～Ensemble Contest～",
+        "特别篇 吹响！上低音号～合奏比赛～",
+        "特别篇 吹响！上低音号～Ensemble Contest～"
+      ],
+      "zh-Hant": [
+        "特別篇 吹響吧！上低音號～合奏團競賽篇～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://anime-eupho.com",
+    "begin": "2023-08-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-08-03T16:57:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "386195"
+      },
+      {
+        "site": "bilibili_hk_mo",
+        "id": "21135151",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

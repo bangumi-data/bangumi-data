@@ -67,7 +67,8 @@
       {
         "site": "nicovideo",
         "id": "robotanime",
-        "begin": ""
+        "begin": "2013-01-15T11:02:13.000Z",
+        "broadcast": "R/2013-01-15T11:02:13.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -118,8 +119,8 @@
       {
         "site": "nicovideo",
         "id": "toaru-index-movie",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-09-01T03:00:00.000Z",
+        "broadcast": "R/2021-09-01T03:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -161,7 +162,8 @@
       {
         "site": "nicovideo",
         "id": "stardriver-movie",
-        "begin": ""
+        "begin": "2014-06-09T06:00:00.000Z",
+        "broadcast": "R/2014-06-09T06:00:00.000Z/P7D"
       },
       {
         "site": "pptv",
@@ -215,6 +217,12 @@
       {
         "site": "bangumi",
         "id": "69069"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sket-dance-oad",
+        "begin": "2022-03-14T03:00:00.000Z",
+        "broadcast": "R/2022-03-14T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -241,7 +249,8 @@
       {
         "site": "nicovideo",
         "id": "berserkfilm",
-        "begin": "2017-03-03T06:00:00.000Z"
+        "begin": "2017-03-03T06:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "netflix",

@@ -179,5 +179,65 @@
         "broadcast": "R/2023-11-22T16:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "陰陽師",
+    "titleTranslate": {
+      "zh-Hant": [
+        "陰陽師"
+      ],
+      "zh-Hans": [
+        "阴阳师"
+      ],
+      "en": [
+        "Onmyoji"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2023-11-27T16:00:00.000Z",
+    "end": "2023-11-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "402742"
+      },
+      {
+        "site": "netflix",
+        "id": "81215624",
+        "begin": "2023-11-28T00:00:00.000Z",
+        "broadcast": "R/2023-11-28T00:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "小刻的画图写话",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小刻的画图写话"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2023-11-30T11:00:00.000Z",
+    "broadcast": "R/2023-11-30T11:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "453313"
+      },
+      {
+        "site": "bilibili",
+        "id": "21128688",
+        "begin": "2023-11-30T11:00:00.000Z",
+        "broadcast": "R/2023-11-30T11:00:00.000Z/P7D",
+        "comment": "中配: 21128787"
+      }
+    ]
   }
 ]

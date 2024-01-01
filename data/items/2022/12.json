@@ -36,6 +36,12 @@
         "id": "125724",
         "begin": "2022-12-04T17:00:00.000Z",
         "broadcast": "R/2022-12-04T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "boku-to-roboc",
+        "begin": "2022-12-05T03:00:00.000Z",
+        "broadcast": "R/2022-12-05T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -164,6 +170,83 @@
         "begin": "2022-12-23T11:00:01.000Z",
         "broadcast": "R/2022-12-23T11:00:01.000Z/P7D",
         "comment": "中配: 28351530"
+      }
+    ]
+  },
+  {
+    "title": "映画かいけつゾロリ ラララ♪スターたんじょう",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-12-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "394570"
+      },
+      {
+        "site": "nicovideo",
+        "id": "zorori-movie",
+        "begin": "2023-08-28T03:00:00.000Z",
+        "broadcast": "R/2023-08-28T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "かがみの孤城",
+    "titleTranslate": {
+      "zh-Hans": [
+        "镜之孤城"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-12-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "371890"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kagaminokojo",
+        "begin": "2023-06-28T03:00:00.000Z",
+        "broadcast": "R/2023-06-28T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ポケットモンスター 遥かなる青い空",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宝可梦 遥远青空"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-12-22T16:00:00.000Z",
+    "broadcast": "R/2022-12-22T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "411248"
+      },
+      {
+        "site": "abema",
+        "id": "2-14",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

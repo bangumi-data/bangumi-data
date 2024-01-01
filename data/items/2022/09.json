@@ -83,6 +83,18 @@
         "id": "reincarnatedasasword_137649",
         "begin": "2023-02-08T16:00:00.000Z",
         "broadcast": "R/2023-02-08T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tenken-anime",
+        "begin": "2022-10-05T14:30:00.000Z",
+        "broadcast": "R/2022-10-05T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "11-46",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -147,6 +159,18 @@
         "id": "81643061",
         "begin": "2023-01-02T16:00:00.000Z",
         "broadcast": "R/2023-01-02T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "akulas-pr",
+        "begin": "2022-10-01T14:00:00.000Z",
+        "broadcast": "R/2022-10-01T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "11-47",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -211,6 +235,12 @@
         "id": "81643081",
         "begin": "2023-01-10T16:00:00.000Z",
         "broadcast": "R/2023-01-10T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "shippona-anime",
+        "begin": "2022-10-03T03:00:00.000Z",
+        "broadcast": "R/2022-10-03T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -232,6 +262,12 @@
       {
         "site": "bangumi",
         "id": "396487"
+      },
+      {
+        "site": "abema",
+        "id": "169-122",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -414,6 +450,12 @@
         "id": "28339757",
         "begin": "2022-09-29T23:00:01.000Z",
         "broadcast": "R/2022-09-29T23:00:01.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gineiden-dnt-4",
+        "begin": "2023-05-25T15:00:00.000Z",
+        "broadcast": "R/2023-05-25T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -444,6 +486,40 @@
         "id": "123695",
         "begin": "2023-04-28T03:00:00.000Z",
         "broadcast": "R/2023-04-28T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ありふれた職業で世界最強 OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "平凡职业造就世界最强 OVA",
+        "平凡职业成就世界最强 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://arifureta.com/",
+    "begin": "2022-09-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "376349"
+      },
+      {
+        "site": "nicovideo",
+        "id": "arifureta-ova",
+        "begin": "2022-12-24T15:00:00.000Z",
+        "broadcast": "R/2022-12-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "149-21",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

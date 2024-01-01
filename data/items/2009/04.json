@@ -102,7 +102,8 @@
       {
         "site": "nicovideo",
         "id": "phantom-r",
-        "begin": "2012-06-20T06:00:00.000Z"
+        "begin": "2012-06-20T06:00:00.000Z",
+        "broadcast": "R/2012-06-20T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -144,7 +145,8 @@
       {
         "site": "nicovideo",
         "id": "hagaren-fa",
-        "begin": "2015-04-10T06:00:00.000Z"
+        "begin": "2015-04-10T06:00:00.000Z",
+        "broadcast": "R/2015-04-10T06:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -331,7 +333,8 @@
       {
         "site": "nicovideo",
         "id": "queensblade01",
-        "begin": "2012-04-11T06:00:00.000Z"
+        "begin": "2012-04-11T06:00:00.000Z",
+        "broadcast": "R/2012-04-11T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -561,7 +564,8 @@
       {
         "site": "nicovideo",
         "id": "pandorahearts",
-        "begin": "2020-08-14T06:00:00.000Z"
+        "begin": "2020-08-14T06:00:00.000Z",
+        "broadcast": "R/2020-08-14T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -601,7 +605,8 @@
       {
         "site": "nicovideo",
         "id": "ch327",
-        "begin": "2010-07-31T15:00:00.000Z"
+        "begin": "2010-07-31T15:00:00.000Z",
+        "broadcast": "R/2010-07-31T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -659,7 +664,8 @@
       {
         "site": "nicovideo",
         "id": "k-on_anime",
-        "begin": "2018-12-27T15:00:00.000Z"
+        "begin": "2018-12-27T15:00:00.000Z",
+        "broadcast": "R/2018-12-27T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -692,7 +698,8 @@
       {
         "site": "nicovideo",
         "id": "anime-shangrila",
-        "begin": "2020-06-15T06:00:00.000Z"
+        "begin": "2020-06-15T06:00:00.000Z",
+        "broadcast": "R/2020-06-15T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -727,7 +734,8 @@
       {
         "site": "nicovideo",
         "id": "polyphonica_cs",
-        "begin": "2013-07-30T07:00:00.000Z"
+        "begin": "2013-07-30T07:00:00.000Z",
+        "broadcast": "R/2013-07-30T07:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -880,7 +888,8 @@
       {
         "site": "nicovideo",
         "id": "souten_anime",
-        "begin": "2016-06-22T06:00:00.000Z"
+        "begin": "2016-06-22T06:00:00.000Z",
+        "broadcast": "R/2016-06-22T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -915,6 +924,12 @@
       {
         "site": "bangumi",
         "id": "2103"
+      },
+      {
+        "site": "abema",
+        "id": "5-29",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1153,7 +1168,8 @@
       {
         "site": "nicovideo",
         "id": "haruhi_2009",
-        "begin": "2016-07-11T01:00:00.000Z"
+        "begin": "2016-07-11T01:00:00.000Z",
+        "broadcast": "R/2016-07-11T01:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1236,6 +1252,12 @@
         "site": "youku",
         "id": "f10edbba61ad11e0bea1",
         "begin": "2012-11-27T17:48:22.000Z"
+      },
+      {
+        "site": "abema",
+        "id": "35-55",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1334,7 +1356,8 @@
       {
         "site": "nicovideo",
         "id": "th2adplus",
-        "begin": "2012-03-03T13:30:00.000Z"
+        "begin": "2012-03-03T13:30:00.000Z",
+        "broadcast": "R/2012-03-03T13:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1410,7 +1433,8 @@
       {
         "site": "nicovideo",
         "id": "gurren-lagann-movie-lagann",
-        "begin": "2018-05-31T15:00:00.000Z"
+        "begin": "2018-05-31T15:00:00.000Z",
+        "broadcast": "R/2018-05-31T15:00:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -1454,6 +1478,34 @@
         "id": "3816",
         "begin": "2016-04-20T06:57:00.000Z",
         "broadcast": "R/2016-04-20T06:57:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "FINAL FANTASY VII ADVENT CHILDREN COMPLETE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "最终幻想VII：降临之子 完全版",
+        "最终幻想VII：再临之子 Complete"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://www.jp.square-enix.com/music/sem/page/FF7ACC4K/",
+    "begin": "2009-04-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "356474"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ff7acc",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

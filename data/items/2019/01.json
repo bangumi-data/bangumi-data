@@ -27,7 +27,8 @@
       {
         "site": "nicovideo",
         "id": "domekano",
-        "begin": "2019-02-11T16:40:00.000Z"
+        "begin": "2019-02-11T16:40:00.000Z",
+        "broadcast": "R/2019-02-08T03:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -69,7 +70,8 @@
       {
         "site": "nicovideo",
         "id": "magical-five",
-        "begin": "2019-02-12T03:00:00.000Z"
+        "begin": "2019-02-12T03:00:00.000Z",
+        "broadcast": "R/2019-02-12T03:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -95,7 +97,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "辉夜大小姐想让我告白～天才们的恋爱头脑战～",
-        "辉夜姬想让人告白～天才们的恋爱头脑战～"
+        "辉夜姬想让人告白～天才们的恋爱头脑战～",
+        "辉夜大小姐想让我告白 ~天才们的恋爱头脑战~"
       ],
       "zh-Hant": [
         "輝夜姬想讓人告白~天才們的戀愛頭腦戰~",
@@ -125,7 +128,8 @@
       {
         "site": "nicovideo",
         "id": "kaguya_love",
-        "begin": "2019-01-14T03:00:00.000Z"
+        "begin": "2019-01-14T03:00:00.000Z",
+        "broadcast": "R/2019-01-07T08:00:00.000Z/P7D"
       },
       {
         "site": "viu",
@@ -150,6 +154,18 @@
         "id": "98176",
         "begin": "2019-01-12T16:00:00.000Z",
         "broadcast": "R/2019-01-12T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81061754",
+        "begin": "2023-12-08T16:00:00.000Z",
+        "broadcast": "R/2023-12-08T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-66",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -182,7 +198,8 @@
       {
         "site": "nicovideo",
         "id": "endro",
-        "begin": "2019-01-12T16:30:00.000Z"
+        "begin": "2019-01-12T16:30:00.000Z",
+        "broadcast": "R/2019-01-12T16:30:00.000Z/P7D"
       },
       {
         "site": "pptv",
@@ -251,7 +268,8 @@
       {
         "site": "nicovideo",
         "id": "pasumemotv",
-        "begin": "2019-01-09T15:00:00.000Z"
+        "begin": "2019-01-09T15:00:00.000Z",
+        "broadcast": "R/2018-12-14T12:00:00.000Z/P7D"
       },
       {
         "site": "mgtv",
@@ -319,7 +337,8 @@
       {
         "site": "nicovideo",
         "id": "wz-anime",
-        "begin": "2019-02-16T16:30:00.000Z"
+        "begin": "2019-02-16T16:30:00.000Z",
+        "broadcast": "R/2019-02-16T16:30:00.000Z/P7D"
       }
     ]
   },
@@ -359,7 +378,8 @@
       {
         "site": "nicovideo",
         "id": "mononokean2",
-        "begin": "2019-01-11T03:00:00.000Z"
+        "begin": "2019-01-11T03:00:00.000Z",
+        "broadcast": "R/2019-01-11T03:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -408,7 +428,8 @@
       {
         "site": "nicovideo",
         "id": "watatentv",
-        "begin": "2019-01-08T16:00:00.000Z"
+        "begin": "2019-01-08T16:00:00.000Z",
+        "broadcast": "R/2018-12-27T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -442,7 +463,14 @@
       {
         "site": "nicovideo",
         "id": "5hanayome",
-        "begin": "2019-01-11T15:00:00.000Z"
+        "begin": "2019-01-11T15:00:00.000Z",
+        "broadcast": "R/2019-01-11T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "189-11",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -475,7 +503,8 @@
       {
         "site": "nicovideo",
         "id": "grimmsnotes_anime",
-        "begin": "2019-01-10T21:00:00.000Z"
+        "begin": "2019-01-10T21:00:00.000Z",
+        "broadcast": "R/2019-01-10T21:00:00.000Z/P7D"
       }
     ]
   },
@@ -509,7 +538,8 @@
       {
         "site": "nicovideo",
         "id": "egaonodaika",
-        "begin": "2019-01-09T15:00:00.000Z"
+        "begin": "2019-01-09T15:00:00.000Z",
+        "broadcast": "R/2019-01-09T15:00:00.000Z/P7D"
       },
       {
         "site": "viu",
@@ -557,7 +587,8 @@
       {
         "site": "nicovideo",
         "id": "minitoji",
-        "begin": "2019-01-08T19:05:00.000Z"
+        "begin": "2019-01-08T19:05:00.000Z",
+        "broadcast": "R/2019-01-08T10:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -609,7 +640,8 @@
       {
         "site": "nicovideo",
         "id": "shieldhero-anime",
-        "begin": "2019-01-16T15:00:00.000Z"
+        "begin": "2019-01-16T15:00:00.000Z",
+        "broadcast": "R/2019-01-16T15:00:00.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
@@ -640,6 +672,12 @@
         "id": "81058649",
         "begin": "2022-09-19T16:00:00.000Z",
         "broadcast": "R/2022-09-19T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-109",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -666,7 +704,8 @@
       {
         "site": "nicovideo",
         "id": "gaf-anime",
-        "begin": "2019-01-16T16:30:00.000Z"
+        "begin": "2019-01-16T16:30:00.000Z",
+        "broadcast": "R/2019-01-08T11:00:00.000Z/P7D"
       },
       {
         "site": "pptv",
@@ -733,7 +772,8 @@
       {
         "site": "nicovideo",
         "id": "kemurikusa",
-        "begin": "2019-01-22T15:00:00.000Z"
+        "begin": "2019-01-22T15:00:00.000Z",
+        "broadcast": "R/2019-01-22T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -767,7 +807,8 @@
       {
         "site": "nicovideo",
         "id": "hizaue",
-        "begin": "2019-01-13T15:00:00.000Z"
+        "begin": "2019-01-13T15:00:00.000Z",
+        "broadcast": "R/2018-12-19T06:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -863,7 +904,8 @@
       {
         "site": "nicovideo",
         "id": "kotobuki-anime",
-        "begin": "2019-01-26T13:00:00.000Z"
+        "begin": "2019-01-26T13:00:00.000Z",
+        "broadcast": "R/2018-12-27T06:00:00.000Z/P7D"
       },
       {
         "site": "pptv",
@@ -924,7 +966,8 @@
       {
         "site": "nicovideo",
         "id": "manaria",
-        "begin": ""
+        "begin": "2019-01-21T15:00:00.000Z",
+        "broadcast": "R/2019-01-21T15:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -966,7 +1009,8 @@
       {
         "site": "nicovideo",
         "id": "miss-ueno",
-        "begin": "2019-01-09T15:00:00.000Z"
+        "begin": "2019-01-09T15:00:00.000Z",
+        "broadcast": "R/2019-01-09T15:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -1011,7 +1055,8 @@
       {
         "site": "nicovideo",
         "id": "bang-dream_2nd",
-        "begin": "2019-01-10T13:30:00.000Z"
+        "begin": "2019-01-10T13:30:00.000Z",
+        "broadcast": "R/2019-01-10T13:30:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -1061,7 +1106,8 @@
       {
         "site": "nicovideo",
         "id": "neverland-anime",
-        "begin": "2019-01-11T03:00:00.000Z"
+        "begin": "2019-01-11T03:00:00.000Z",
+        "broadcast": "R/2019-01-09T09:00:00.000Z/P7D"
       },
       {
         "site": "viu",
@@ -1087,6 +1133,12 @@
         "id": "97790",
         "begin": "2019-08-01T09:00:00.000Z",
         "broadcast": "R/2019-08-01T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-188",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1116,7 +1168,8 @@
       {
         "site": "nicovideo",
         "id": "rainycocoa_sideG",
-        "begin": "2019-01-08T16:40:00.000Z"
+        "begin": "2019-01-08T16:40:00.000Z",
+        "broadcast": "R/2019-01-08T16:40:00.000Z/P7D"
       }
     ]
   },
@@ -1150,7 +1203,8 @@
       {
         "site": "nicovideo",
         "id": "date-a-live3",
-        "begin": "2019-01-17T15:00:00.000Z"
+        "begin": "2019-01-17T15:00:00.000Z",
+        "broadcast": "R/2019-01-17T15:00:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -1201,7 +1255,8 @@
       {
         "site": "nicovideo",
         "id": "colorful-pastrale",
-        "begin": "2019-01-12T13:00:00.000Z"
+        "begin": "2019-01-12T13:00:00.000Z",
+        "broadcast": "R/2018-12-28T08:00:00.000Z/P7D"
       },
       {
         "site": "pptv",
@@ -1258,7 +1313,8 @@
       {
         "site": "nicovideo",
         "id": "meikoi-anime",
-        "begin": "2019-01-10T03:00:00.000Z"
+        "begin": "2019-01-10T03:00:00.000Z",
+        "broadcast": "R/2018-12-18T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -1291,7 +1347,8 @@
       {
         "site": "nicovideo",
         "id": "bpro-anime2",
-        "begin": "2019-01-14T03:00:00.000Z"
+        "begin": "2019-01-14T03:00:00.000Z",
+        "broadcast": "R/2019-01-07T08:30:00.000Z/P7D"
       },
       {
         "site": "pptv",
@@ -1337,7 +1394,8 @@
       {
         "site": "nicovideo",
         "id": "kemono-friends2",
-        "begin": "2019-01-07T17:35:00.000Z"
+        "begin": "2019-01-07T17:35:00.000Z",
+        "broadcast": "R/2019-01-07T17:35:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -1387,7 +1445,8 @@
       {
         "site": "nicovideo",
         "id": "cirpri-anime",
-        "begin": "2019-01-13T13:00:00.000Z"
+        "begin": "2019-01-13T13:00:00.000Z",
+        "broadcast": "R/2018-12-14T11:00:00.000Z/P7D"
       }
     ]
   },
@@ -1418,7 +1477,8 @@
       {
         "site": "nicovideo",
         "id": "boogiepop-anime",
-        "begin": "2019-01-10T16:30:00.000Z"
+        "begin": "2019-01-10T16:30:00.000Z",
+        "broadcast": "R/2019-01-07T10:00:00.000Z/P7D"
       }
     ]
   },
@@ -1461,7 +1521,8 @@
       {
         "site": "nicovideo",
         "id": "dimension-hs",
-        "begin": "2019-01-13T03:00:00.000Z"
+        "begin": "2019-01-13T03:00:00.000Z",
+        "broadcast": "R/2019-01-13T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1477,6 +1538,12 @@
       {
         "site": "bangumi",
         "id": "269422"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ch286",
+        "begin": "2009-09-08T02:49:50.000Z",
+        "broadcast": "R/2009-09-08T02:49:50.000Z/P7D"
       }
     ]
   },
@@ -1568,6 +1635,12 @@
         "id": "4312482",
         "begin": "2019-01-07T14:00:00.000Z",
         "broadcast": "R/2019-01-06T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dororo",
+        "begin": "2022-01-13T15:00:00.000Z",
+        "broadcast": "R/2022-01-13T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1591,7 +1664,8 @@
       {
         "site": "nicovideo",
         "id": "papashita",
-        "begin": "2019-01-06T16:00:00.000Z"
+        "begin": "2019-01-06T16:00:00.000Z",
+        "broadcast": "R/2019-01-06T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1615,7 +1689,8 @@
       {
         "site": "nicovideo",
         "id": "VTubers",
-        "begin": "2019-01-09T15:30:00.000Z"
+        "begin": "2019-01-09T15:30:00.000Z",
+        "broadcast": "R/2019-01-09T15:30:00.000Z/P7D"
       },
       {
         "site": "pptv",
@@ -1640,7 +1715,8 @@
       {
         "site": "nicovideo",
         "id": "morikawa",
-        "begin": ""
+        "begin": "2016-10-02T16:30:00.000Z",
+        "broadcast": "R/2016-10-02T16:30:00.000Z/P7D"
       }
     ]
   },
@@ -1664,7 +1740,8 @@
       {
         "site": "nicovideo",
         "id": "ekodachan",
-        "begin": "2019-07-18T03:00:00.000Z"
+        "begin": "2019-07-18T03:00:00.000Z",
+        "broadcast": "R/2019-07-18T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1694,7 +1771,8 @@
       {
         "site": "nicovideo",
         "id": "hulaingbabies",
-        "begin": "2019-01-18T03:00:00.000Z"
+        "begin": "2019-01-18T03:00:00.000Z",
+        "broadcast": "R/2019-01-18T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1756,7 +1834,8 @@
       {
         "site": "nicovideo",
         "id": "miabyss-movie",
-        "begin": "2020-03-20T06:00:00.000Z"
+        "begin": "2020-03-20T06:00:00.000Z",
+        "broadcast": "R/2020-03-20T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1796,7 +1875,8 @@
       {
         "site": "nicovideo",
         "id": "miabyss-movie",
-        "begin": "2020-03-20T06:00:00.000Z"
+        "begin": "2020-03-20T06:00:00.000Z",
+        "broadcast": "R/2020-03-20T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1839,8 +1919,8 @@
       {
         "site": "nicovideo",
         "id": "lovelive-movie-otr",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2020-11-06T15:00:00.000Z",
+        "broadcast": "R/2020-11-06T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1865,8 +1945,8 @@
       {
         "site": "nicovideo",
         "id": "ikkitousen",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-06-10T15:00:00.000Z",
+        "broadcast": "R/2021-06-10T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1935,6 +2015,12 @@
         "id": "94718",
         "begin": "2020-03-27T13:30:00.000Z",
         "broadcast": "R/2020-03-27T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-166",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

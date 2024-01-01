@@ -38,6 +38,12 @@
         "begin": "2015-12-17T16:00:00.000Z",
         "broadcast": "R/2015-12-17T16:00:00.000Z/P7D",
         "comment": "粵語版:126198"
+      },
+      {
+        "site": "abema",
+        "id": "5-33",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -106,6 +112,34 @@
         "id": "111100",
         "begin": "2020-04-28T06:30:00.000Z",
         "broadcast": "R/2020-04-28T06:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ジャングルの王者ターちゃん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "秀逗泰山",
+        "抵死泰山"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-10-13T16:00:00.000Z",
+    "broadcast": "R/1993-10-13T16:00:00.000Z/P7D",
+    "end": "1994-09-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "60191"
+      },
+      {
+        "site": "abema",
+        "id": "118-1",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

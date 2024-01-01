@@ -90,7 +90,8 @@
       {
         "site": "nicovideo",
         "id": "kamigaminoki",
-        "begin": "2017-01-13T09:00:00.000Z"
+        "begin": "2017-01-13T09:00:00.000Z",
+        "broadcast": "R/2017-01-13T09:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -272,6 +273,12 @@
         "id": "80136",
         "begin": "2020-06-11T06:30:00.000Z",
         "broadcast": "R/2020-06-11T06:30:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tenchimuyo4th",
+        "begin": "2022-01-07T03:00:00.000Z",
+        "broadcast": "R/2022-01-07T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -331,6 +338,12 @@
         "id": "78981",
         "begin": "2020-03-01T04:00:00.000Z",
         "broadcast": "R/2020-03-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kancolle-movie",
+        "begin": "2022-08-31T15:00:00.000Z",
+        "broadcast": "R/2022-08-31T15:00:00.000Z/P7D"
       }
     ]
   },

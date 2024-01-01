@@ -194,5 +194,36 @@
         "broadcast": "R/2013-02-25T15:50:34.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "妖獣都市",
+    "titleTranslate": {
+      "zh-Hans": [
+        "妖兽都市"
+      ],
+      "zh-Hant": [
+        "妖獸都市",
+        "妖獸都市 1987 劇場版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-04-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1987-04-18T17:22:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10465"
+      },
+      {
+        "site": "gamer",
+        "id": "79322",
+        "begin": "2022-06-10T04:00:00.000Z",
+        "broadcast": "R/2022-06-10T04:00:00.000Z/P7D"
+      }
+    ]
   }
 ]
