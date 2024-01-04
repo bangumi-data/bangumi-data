@@ -214,6 +214,12 @@
         "id": "PLuxqoToY7UcjAzn_9BRC43kjg-lxJYjM8",
         "begin": "2022-10-22T16:00:00.000Z",
         "broadcast": "R/2022-10-22T16:00:00.000Z/P0D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lovelive-nijigasaki-nextsky",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -246,6 +252,29 @@
       {
         "site": "abema",
         "id": "26-211",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "逆異世界転生エージェント エーコさん",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://digimerce.jp/data/snack/eko/",
+    "begin": "2023-06-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "443686"
+      },
+      {
+        "site": "abema",
+        "id": "622-2",
         "begin": "",
         "broadcast": ""
       }
