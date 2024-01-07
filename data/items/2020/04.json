@@ -605,6 +605,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "游戏王SEVENS"
+      ],
+      "zh-Hant": [
+        "遊戲王! SEVENS"
       ]
     },
     "type": "tv",
@@ -623,6 +626,12 @@
         "id": "yugioh-sevens",
         "begin": "2020-04-08T03:00:00.000Z",
         "broadcast": "R/2020-04-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "109339",
+        "begin": "2023-11-10T04:00:00.000Z",
+        "broadcast": "R/2023-11-10T04:00:00.000Z/P7D"
       }
     ]
   },
