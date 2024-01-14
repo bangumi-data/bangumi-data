@@ -133,6 +133,12 @@
         "id": "PLxSscENEp7Jj_DWMG7HGfaMhicOjAhih4",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSIgPGudvhmmFx-kYSSIoqw",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -164,6 +170,12 @@
       {
         "site": "unext",
         "id": "SID0096081",
+        "begin": "2024-01-13T16:00:00.000Z",
+        "broadcast": "R/2024-01-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "194-37",
         "begin": "",
         "broadcast": ""
       }
@@ -196,6 +208,12 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "21176171",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "21176059",
         "begin": "",
         "broadcast": ""
       }
@@ -450,8 +468,8 @@
       {
         "site": "unext",
         "id": "SID0096087",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-01-12T03:00:00.000Z",
+        "broadcast": "R/2024-01-12T03:00:00.000Z/P7D"
       },
       {
         "site": "ani_one",
@@ -797,6 +815,12 @@
         "id": "132685",
         "begin": "2024-01-05T17:53:00.000Z",
         "broadcast": "R/2024-01-05T17:53:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "194-38",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1033,6 +1057,12 @@
         "id": "134939",
         "begin": "2024-01-07T14:00:00.000Z",
         "broadcast": "R/2024-01-07T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "54-89",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1064,8 +1094,8 @@
       {
         "site": "unext",
         "id": "SID0096695",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-01-14T14:00:00.000Z",
+        "broadcast": "R/2024-01-14T14:00:00.000Z/P7D"
       },
       {
         "site": "nowPlayer",
@@ -1264,8 +1294,8 @@
       {
         "site": "unext",
         "id": "SID0095992",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-01-12T13:00:00.000Z",
+        "broadcast": "R/2024-01-12T13:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -1284,6 +1314,12 @@
         "id": "81746882",
         "begin": "2024-01-04T16:00:00.000Z",
         "broadcast": "R/2024-01-04T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "149-25",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1345,6 +1381,12 @@
       {
         "site": "unext",
         "id": "SID0096700",
+        "begin": "2024-01-13T15:00:00.000Z",
+        "broadcast": "R/2024-01-13T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "115-107",
         "begin": "",
         "broadcast": ""
       }
@@ -1404,6 +1446,12 @@
         "id": "134091",
         "begin": "2024-01-10T16:00:00.000Z",
         "broadcast": "R/2024-01-10T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "198-10",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1464,6 +1512,12 @@
         "id": "PLxSscENEp7JgVdNKD0Q2XtDOs6n1KEceH",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "248-16",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1481,7 +1535,24 @@
     "broadcast": "R/2024-01-10T16:55:00.000Z/P7D",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "269545"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hyakuyoufu",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "19-188",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   },
   {
     "title": "月刊モー想科学",
@@ -1515,8 +1586,8 @@
       {
         "site": "unext",
         "id": "SID0096008",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-01-14T15:00:00.000Z",
+        "broadcast": "R/2024-01-14T15:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -1574,6 +1645,12 @@
         "id": "S202312270173645",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "512-11",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1582,6 +1659,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "最弱的驯养师开启的捡垃圾的旅途。"
+      ],
+      "zh-Hant": [
+        "最弱魔物使開始了撿垃圾之旅。"
+      ],
+      "en": [
+        "The Weakest Tamer Began a Journey to Pick Up Trash"
       ]
     },
     "type": "tv",
@@ -1605,8 +1688,26 @@
       {
         "site": "unext",
         "id": "SID0096415",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-12-11T03:00:00.000Z",
+        "broadcast": "R/2023-12-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQeRI-LxvIXSW04gJzxMyOs",
+        "begin": "2024-01-12T14:30:07.000Z",
+        "broadcast": "R/2024-01-12T14:30:07.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JgnIq99q08nr7z2jtgY73Y5",
+        "begin": "2024-01-12T14:30:09.000Z",
+        "broadcast": "R/2024-01-12T14:30:09.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "128539",
+        "begin": "2024-01-12T14:30:00.000Z",
+        "broadcast": "R/2024-01-12T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -1634,14 +1735,21 @@
       {
         "site": "unext",
         "id": "SID0095995",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-01-14T14:30:00.000Z",
+        "broadcast": "R/2024-01-14T14:30:00.000Z/P7D"
       }
     ]
   },
   {
     "title": "火狩りの王 Season2",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "狩火之王 第二季"
+      ],
+      "zh-Hant": [
+        "狩火之王 第二季"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://hikarinoou-anime.com/",
@@ -1653,6 +1761,12 @@
       {
         "site": "bangumi",
         "id": "425129"
+      },
+      {
+        "site": "gamer",
+        "id": "136219",
+        "begin": "2024-01-14T14:00:00.000Z",
+        "broadcast": "R/2024-01-14T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -1811,7 +1925,17 @@
   },
   {
     "title": "スナックバス江",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "Basue小酒馆"
+      ],
+      "zh-Hant": [
+        "小酒館Basue"
+      ],
+      "en": [
+        "Snack Basue"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://snackbasue.com/",
@@ -1835,6 +1959,24 @@
         "id": "SID0096075",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtR9dLe-xA41FZ8oqv9IFIYT",
+        "begin": "2024-01-12T17:30:07.000Z",
+        "broadcast": "R/2024-01-12T17:30:07.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JhOhIGAfgtgEeeIKiUOY-GC",
+        "begin": "2024-01-12T17:30:08.000Z",
+        "broadcast": "R/2024-01-12T17:30:08.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "133290",
+        "begin": "2024-01-12T17:05:00.000Z",
+        "broadcast": "R/2024-01-12T17:05:00.000Z/P7D"
       }
     ]
   },
@@ -1843,6 +1985,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "卡片战斗先导者 DivineZ"
+      ],
+      "zh-Hant": [
+        "卡片戰鬥!! 先導者 Divinez"
       ]
     },
     "type": "tv",
@@ -1866,8 +2011,20 @@
       {
         "site": "unext",
         "id": "SID0096699",
+        "begin": "2024-01-12T23:30:00.000Z",
+        "broadcast": "R/2024-01-12T23:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "283-24",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "136407",
+        "begin": "2024-01-13T10:00:00.000Z",
+        "broadcast": "R/2024-01-13T10:00:00.000Z/P7D"
       }
     ]
   },
@@ -1999,8 +2156,8 @@
       {
         "site": "unext",
         "id": "SID0096074",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-01-12T13:00:00.000Z",
+        "broadcast": "R/2024-01-12T13:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -2062,6 +2219,12 @@
       {
         "site": "abema",
         "id": "25-253",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "21174614",
         "begin": "",
         "broadcast": ""
       }
@@ -2157,6 +2320,12 @@
         "id": "2290299",
         "begin": "2024-01-06T16:00:47.000Z",
         "broadcast": "R/2024-01-06T16:00:47.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mashle2",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
