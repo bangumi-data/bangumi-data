@@ -214,6 +214,12 @@
         "id": "PLuxqoToY7UcjAzn_9BRC43kjg-lxJYjM8",
         "begin": "2022-10-22T16:00:00.000Z",
         "broadcast": "R/2022-10-22T16:00:00.000Z/P0D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lovelive-nijigasaki-nextsky",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -223,6 +229,9 @@
       "zh-Hans": [
         "青春笨蛋少年不会梦到娇怜外出妹",
         "青春猪头少年不会梦到娇怜外出妹"
+      ],
+      "zh-Hant": [
+        "青春豬頭少年不會夢到嬌憐外出妹"
       ]
     },
     "type": "movie",
@@ -246,6 +255,35 @@
       {
         "site": "abema",
         "id": "26-211",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "127587",
+        "begin": "2023-12-28T16:00:00.000Z",
+        "broadcast": "R/2023-12-28T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "逆異世界転生エージェント エーコさん",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://digimerce.jp/data/snack/eko/",
+    "begin": "2023-06-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-09-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "443686"
+      },
+      {
+        "site": "abema",
+        "id": "622-2",
         "begin": "",
         "broadcast": ""
       }

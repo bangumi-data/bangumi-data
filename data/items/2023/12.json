@@ -28,8 +28,41 @@
     "officialSite": "https://www.nhk.jp/p/ts/PYL2917V5V/",
     "begin": "2023-12-11T14:45:00.000Z",
     "broadcast": "R/2023-12-11T14:45:00.000Z/P7D",
-    "end": "",
+    "end": "2023-12-15T14:50:00.000Z",
     "comment": "",
     "sites": []
+  },
+  {
+    "title": "ポケモンコンシェルジュ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宝可梦 礼宾部"
+      ],
+      "zh-Hant": [
+        "寶可夢 禮賓部"
+      ],
+      "en": [
+        "Pokémon Concierge"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2023-12-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-12-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "422154"
+      },
+      {
+        "site": "netflix",
+        "id": "81186864",
+        "begin": "2023-12-28T00:00:00.000Z",
+        "broadcast": "R/2023-12-28T00:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

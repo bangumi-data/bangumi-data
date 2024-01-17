@@ -111,5 +111,10 @@
     "title": "ABEMA",
     "urlTemplate": "https://abema.tv/video/title/{{id}}",
     "regions": ["JP"]
+  },
+  "unext": {
+    "title": "U-NEXT",
+    "urlTemplate": "https://video.unext.jp/title/{{id}}",
+    "regions": ["JP"]
   }
 }

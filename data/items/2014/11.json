@@ -45,7 +45,8 @@
       {
         "site": "nicovideo",
         "id": "animatorexpo",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "youku",
@@ -166,7 +167,8 @@
       {
         "site": "nicovideo",
         "id": "zeushi-kun",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -288,7 +290,8 @@
       {
         "site": "nicovideo",
         "id": "shingeki_movie",
-        "begin": "2018-12-27T03:00:00.000Z"
+        "begin": "2018-12-27T03:00:00.000Z",
+        "broadcast": "R/2018-12-27T03:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -301,6 +304,12 @@
         "id": "PLuxqoToY7UchkFx6Rl70VbQeT10lIKoL7",
         "begin": "2023-06-11T13:55:55.059Z",
         "broadcast": "R/2023-06-11T13:55:55.059Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "30-8",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

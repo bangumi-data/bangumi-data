@@ -136,5 +136,32 @@
         "broadcast": "R/2023-09-29T00:30:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "劇場版アイドリッシュセブン LIVE 4bit BEYOND THE PERiOD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版IDOLiSH7 LIVE 4bit BEYOND THE PERiOD"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://idolish7.com/film-btp/",
+    "begin": "2023-05-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-05-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "414510"
+      },
+      {
+        "site": "nicovideo",
+        "id": "idolish7-film-btp",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]

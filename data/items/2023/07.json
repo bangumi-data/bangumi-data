@@ -218,6 +218,12 @@
         "id": "ai-no-idenshi",
         "begin": "2023-07-14T13:00:00.000Z",
         "broadcast": "R/2023-07-14T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "564-6",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -423,7 +429,8 @@
         "site": "ani_one",
         "id": "PLC18xlbCdwtTNzLA36L1lhjkYs9OHMW18",
         "begin": "2023-07-06T15:56:00.000Z",
-        "broadcast": "R/2023-07-06T15:56:00.000Z/P7D"
+        "broadcast": "R/2023-07-06T15:56:00.000Z/P7D",
+        "comment": "粵語版: PLC18xlbCdwtTtprYgPjWKNg0DyeCvapAM"
       },
       {
         "site": "ani_one_asia",
@@ -435,7 +442,8 @@
         "site": "viu",
         "id": "2204613",
         "begin": "2023-07-06T15:56:00.000Z",
-        "broadcast": "R/2023-07-06T15:56:00.000Z/P7D"
+        "broadcast": "R/2023-07-06T15:56:00.000Z/P7D",
+        "comment": "粵語版: 2292124"
       },
       {
         "site": "mytv",
@@ -497,7 +505,7 @@
     "officialSite": "https://rurouni-kenshin.com/",
     "begin": "2023-07-06T16:05:00.000Z",
     "broadcast": "R/2023-07-06T16:05:00.000Z/P7D",
-    "end": "",
+    "end": "2023-12-13T16:05:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -553,22 +561,6 @@
         "broadcast": "R/2023-09-28T10:00:00.000Z/P7D"
       }
     ]
-  },
-  {
-    "title": "スプリガン",
-    "titleTranslate": {
-      "en": [
-        "SPRIGGAN"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "https://spriggan-anime.jp/",
-    "begin": "2023-07-07T16:05:00.000Z",
-    "broadcast": "R/2023-07-07T16:05:00.000Z/P7D",
-    "end": "",
-    "comment": "",
-    "sites": []
   },
   {
     "title": "Helck",
@@ -1304,6 +1296,12 @@
         "id": "25-243",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81736316",
+        "begin": "2024-01-08T16:00:00.000Z",
+        "broadcast": "R/2024-01-08T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1482,7 +1480,7 @@
     "officialSite": "https://frz.jp/",
     "begin": "2023-07-04T15:00:00.000Z",
     "broadcast": "R/2023-07-04T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2023-09-26T15:00:00.000Z",
     "comment": "",
     "sites": []
   },
@@ -2109,6 +2107,12 @@
         "id": "mujina-company",
         "begin": "2023-07-01T12:00:00.000Z",
         "broadcast": "R/2023-07-01T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "54-84",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2292,7 +2296,7 @@
     "officialSite": "https://tonikawa.com/",
     "begin": "2023-07-11T16:00:00.000Z",
     "broadcast": "",
-    "end": "",
+    "end": "2023-08-23T16:00:00.000Z",
     "comment": "",
     "sites": [
       {

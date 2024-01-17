@@ -498,7 +498,8 @@
         "site": "nicovideo",
         "id": "hamehura-x-anime",
         "begin": "2022-08-21T15:00:00.000Z",
-        "broadcast": "R/2022-08-21T15:00:00.000Z/P7D"
+        "broadcast": "R/2022-08-21T15:00:00.000Z/P7D",
+        "comment": "OVA: hamehura-x-ova-anime"
       },
       {
         "site": "muse_hk",
@@ -1869,6 +1870,12 @@
         "id": "420-11",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcgarYXnz38UWOky-pGBX7Ew",
+        "begin": "2024-02-11T13:00:00.000Z",
+        "broadcast": "R/2024-02-11T13:00:00.000Z/P1D"
       }
     ]
   },
@@ -2072,6 +2079,12 @@
         "id": "81400497",
         "begin": "2021-07-21T16:00:00.000Z",
         "broadcast": "R/2021-07-21T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234828",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2113,6 +2126,12 @@
         "id": "fgo-solomon",
         "begin": "2022-05-20T03:00:00.000Z",
         "broadcast": "R/2022-05-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-214",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2129,7 +2148,7 @@
     "officialSite": "",
     "begin": "2021-07-21T16:00:00.000Z",
     "broadcast": "",
-    "end": "",
+    "end": "2021-07-21T16:00:00.000Z",
     "comment": "",
     "sites": [
       {

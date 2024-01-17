@@ -70,7 +70,8 @@
       {
         "site": "nicovideo",
         "id": "fagirl-movie",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -98,7 +99,8 @@
       {
         "site": "nicovideo",
         "id": "ao-buta-yume",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "bilibili",
@@ -117,6 +119,12 @@
         "id": "26-111",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Ucg-C9Rwq-3957GDiu2SuzzF",
+        "begin": "2024-01-05T13:00:00.000Z",
+        "broadcast": "R/2024-01-05T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -147,12 +155,19 @@
       {
         "site": "nicovideo",
         "id": "kaijunokodomo",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "disneyplus",
         "id": "PPmmokvapG3T",
         "url": "https://www.disneyplus.com/movies/children-of-the-sea/PPmmokvapG3T",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28227187",
         "begin": "",
         "broadcast": ""
       }
@@ -188,7 +203,8 @@
       {
         "site": "nicovideo",
         "id": "movie-prismaphantasm",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "gamer",
@@ -317,6 +333,12 @@
         "id": "102233",
         "begin": "2023-10-04T07:00:00.000Z",
         "broadcast": "R/2023-10-04T07:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229504",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

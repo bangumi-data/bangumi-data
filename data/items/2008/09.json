@@ -167,7 +167,8 @@
       {
         "site": "nicovideo",
         "id": "jump-ani-gintama",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -229,7 +230,8 @@
       {
         "site": "nicovideo",
         "id": "gurren-lagann-movie-gurren",
-        "begin": "2018-05-31T15:00:00.000Z"
+        "begin": "2018-05-31T15:00:00.000Z",
+        "broadcast": "R/2018-05-31T15:00:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -248,6 +250,12 @@
         "id": "24789198",
         "begin": "2014-08-01T11:16:00.000Z",
         "broadcast": "R/2014-08-01T11:16:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-48",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

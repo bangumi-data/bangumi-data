@@ -527,6 +527,12 @@
         "id": "tomo-chan",
         "begin": "2023-01-07T03:00:00.000Z",
         "broadcast": "R/2023-01-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-189",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -733,6 +739,12 @@
         "id": "revenger",
         "begin": "2023-01-09T03:00:00.000Z",
         "broadcast": "R/2023-01-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "210-10",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -989,15 +1001,23 @@
   },
   {
     "title": "Call Star -ボクは本当にダメな星？-",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "我真的没用咩？"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://www.at-x.com/program/detail/16315",
+    "officialSite": "https://happinet-phantom.com/callstar/",
     "begin": "2023-01-10T14:15:00.000Z",
     "broadcast": "R/2023-01-10T14:15:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-28T14:15:00.000Z",
     "comment": "",
     "sites": [
+      {
+        "site": "bangumi",
+        "id": "294875"
+      },
       {
         "site": "nicovideo",
         "id": "callstar",
@@ -1982,6 +2002,12 @@
         "id": "buddy-animeproject",
         "begin": "2023-01-09T03:00:00.000Z",
         "broadcast": "R/2023-01-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-190",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2181,6 +2207,12 @@
         "id": "trigun-anime",
         "begin": "2023-01-07T14:45:00.000Z",
         "broadcast": "R/2023-01-07T14:45:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-152",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2645,6 +2677,12 @@
         "id": "28391102",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "189-44",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3058,7 +3096,7 @@
     "officialSite": "https://fafner-btl.jp/",
     "begin": "2023-01-19T16:00:00.000Z",
     "broadcast": "",
-    "end": "",
+    "end": "2023-01-19T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
