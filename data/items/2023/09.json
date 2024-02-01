@@ -468,5 +468,38 @@
         "broadcast": ""
       }
     ]
+  },
+  {
+    "title": "アリスとテレスのまぼろし工場",
+    "titleTranslate": {
+      "zh-Hans": [
+        "爱丽丝和特蕾丝的幻影工厂",
+        "爱丽丝与特蕾斯的梦幻工厂",
+        "maboroshi：爱丽丝和特蕾丝的梦幻工厂"
+      ],
+      "zh-Hant": [
+        "愛麗絲與特蕾絲的虛幻工廠",
+        "maboroshi：愛麗絲與特蕾絲的虛幻工廠"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://maboroshi.movie/",
+    "begin": "2023-09-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-09-14T17:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "340167"
+      },
+      {
+        "site": "netflix",
+        "id": "81450803",
+        "begin": "2024-01-14T16:00:00.000Z",
+        "broadcast": "R/2024-01-14T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]
