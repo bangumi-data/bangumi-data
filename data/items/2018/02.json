@@ -27,6 +27,12 @@
         "site": "iqiyi",
         "id": "a_19rrh0tfud",
         "begin": "2018-02-04T03:22:10.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0054383",
+        "begin": "2021-01-07T03:00:00.000Z",
+        "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -81,6 +87,12 @@
         "site": "nicovideo",
         "id": "spiritpact2",
         "begin": "2018-02-24T13:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0033619",
+        "begin": "2018-02-25T03:00:00.000Z",
+        "broadcast": "R/2018-02-25T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -171,6 +183,12 @@
         "id": "geass-movie2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0035259",
+        "begin": "2018-07-18T03:00:00.000Z",
+        "broadcast": "R/2018-07-18T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -205,6 +223,40 @@
         "id": "90088",
         "begin": "2020-05-01T09:00:00.000Z",
         "broadcast": "R/2020-05-01T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0037524",
+        "begin": "2018-10-26T03:00:00.000Z",
+        "broadcast": "R/2018-10-26T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版マクロスΔ 激情のワルキューレ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 超时空要塞Δ 激情的Walküre",
+        "剧场版 MACROSS Δ 激情的Walküre"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://macross.jp/",
+    "begin": "2018-02-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2018-02-08T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "221637"
+      },
+      {
+        "site": "unext",
+        "id": "SID0061276",
+        "begin": "2022-07-31T15:00:00.000Z",
+        "broadcast": "R/2022-07-31T15:00:00.000Z/P7D"
       }
     ]
   }

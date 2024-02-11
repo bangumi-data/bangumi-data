@@ -16,6 +16,12 @@
       {
         "site": "bangumi",
         "id": "54256"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002731",
+        "begin": "2018-04-13T03:00:00.000Z",
+        "broadcast": "R/2018-04-13T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -42,6 +48,33 @@
         "id": "3305",
         "begin": "2016-01-20T07:26:00.000Z",
         "broadcast": "R/2016-01-20T07:26:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ハローキティのまほうのリンゴ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "凯蒂猫 魔法苹果"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-09-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-09-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "315448"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027600",
+        "begin": "2017-01-20T03:00:00.000Z",
+        "broadcast": "R/2017-01-20T03:00:00.000Z/P7D"
       }
     ]
   }

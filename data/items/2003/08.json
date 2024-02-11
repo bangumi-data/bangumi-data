@@ -35,6 +35,12 @@
         "site": "nicovideo",
         "id": "fullmetal-panic-fumoffu",
         "begin": "2019-10-14T06:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013377",
+        "begin": "2018-04-20T03:00:00.000Z",
+        "broadcast": "R/2018-04-20T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -96,6 +102,12 @@
         "id": "3952",
         "begin": "2003-07-31T16:00:01.000Z",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0014224",
+        "begin": "2019-04-11T03:00:00.000Z",
+        "broadcast": "R/2019-04-11T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -126,6 +138,12 @@
         "id": "3969",
         "begin": "2003-08-21T16:00:01.000Z",
         "broadcast": "R/2016-05-06T07:24:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003406",
+        "begin": "2022-05-30T03:00:00.000Z",
+        "broadcast": "R/2022-05-30T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -151,6 +169,87 @@
         "id": "3960",
         "begin": "2016-05-04T08:54:00.000Z",
         "broadcast": "R/2016-05-04T08:54:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "まほろまてぃっく夏のTVスペシャル 「えっちなのはいけないと思います!」",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔力女管家夏日TV特别篇 “我认为H是不对的！"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2003-08-13T16:00:00.000Z",
+    "broadcast": "R/2003-08-13T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "54727"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002882",
+        "begin": "2019-12-24T03:00:00.000Z",
+        "broadcast": "R/2019-12-24T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "円盤皇女ワるきゅーレ SPECIAL",
+    "titleTranslate": {
+      "zh-Hans": [
+        "圆盘皇女 乱七八糟新娘训练"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.tokinoyu.net/",
+    "begin": "2003-08-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2003-08-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "73260"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017281",
+        "begin": "2020-11-19T15:00:00.000Z",
+        "broadcast": "R/2020-11-19T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "凧になったお母さん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "风筝的妈妈"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2003-08-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2003-08-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "409430"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004908",
+        "begin": "2016-02-18T15:00:00.000Z",
+        "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
       }
     ]
   }

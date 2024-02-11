@@ -42,6 +42,12 @@
         "id": "2981",
         "begin": "1987-10-20T16:00:00.000Z",
         "broadcast": "R/2015-11-07T06:40:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003161",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -152,6 +158,87 @@
         "id": "28333",
         "begin": "2021-08-19T05:00:00.000Z",
         "broadcast": "R/2021-08-19T05:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0020055",
+        "begin": "2023-01-14T15:00:00.000Z",
+        "broadcast": "R/2023-01-14T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ついでにとんちんかん",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-10-16T16:00:00.000Z",
+    "broadcast": "R/1987-10-16T16:00:00.000Z/P7D",
+    "end": "1988-09-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53735"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027125",
+        "begin": "2020-01-31T03:00:00.000Z",
+        "broadcast": "R/2020-01-31T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ビックリマン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "仙魔大战",
+        "第一次聖魔大戦",
+        "第一次圣魔大战"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-10-10T16:00:00.000Z",
+    "broadcast": "R/1987-10-10T16:00:00.000Z/P7D",
+    "end": "1989-04-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "81569"
+      },
+      {
+        "site": "unext",
+        "id": "SID0089861",
+        "begin": "2023-09-05T03:00:00.000Z",
+        "broadcast": "R/2023-09-05T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "おらぁグズラだど リメイク版",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-10-11T16:00:00.000Z",
+    "broadcast": "R/1987-10-11T16:00:00.000Z/P7D",
+    "end": "1988-09-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "308946"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017856",
+        "begin": "2022-04-21T03:00:00.000Z",
+        "broadcast": "R/2022-04-21T03:00:00.000Z/P7D"
       }
     ]
   }

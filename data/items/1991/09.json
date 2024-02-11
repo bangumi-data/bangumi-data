@@ -48,5 +48,55 @@
         "broadcast": "R/2010-05-07T00:50:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "コボちゃんスペシャル 夢いっぱい!!",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-09-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-09-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "314705"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012622",
+        "begin": "2019-12-06T03:00:00.000Z",
+        "broadcast": "R/2019-12-06T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "老人Z",
+    "titleTranslate": {
+      "zh-Hans": [
+        "老人Z"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-09-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-09-13T17:20:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "369"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017494",
+        "begin": "2019-12-08T03:00:00.000Z",
+        "broadcast": "R/2019-12-08T03:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

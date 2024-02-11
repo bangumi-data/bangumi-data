@@ -45,6 +45,12 @@
         "id": "81033473",
         "begin": "2019-06-20T16:00:00.000Z",
         "broadcast": "R/2019-06-20T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0042409",
+        "begin": "2019-08-01T03:00:00.000Z",
+        "broadcast": "R/2019-08-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -69,6 +75,12 @@
         "site": "iqiyi",
         "id": "a_19rrhb4kld",
         "begin": "2015-08-11T08:03:32.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003096",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -88,6 +100,12 @@
       {
         "site": "bangumi",
         "id": "190705"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011500",
+        "begin": "2018-11-01T03:00:00.000Z",
+        "broadcast": "R/2018-11-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -107,6 +125,12 @@
       {
         "site": "bangumi",
         "id": "158798"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018722",
+        "begin": "2019-12-25T03:00:00.000Z",
+        "broadcast": "R/2019-12-25T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -173,6 +197,35 @@
         "id": "4031",
         "begin": "2016-05-20T07:34:00.000Z",
         "broadcast": "R/2016-05-20T07:34:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 フランダースの犬",
+    "titleTranslate": {
+      "zh-Hans": [
+        "佛兰德斯的狗",
+        "义犬报恩",
+        "龙龙与忠狗"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.nippon-animation.co.jp/work/dog_of_flanders_movie.html",
+    "begin": "1997-03-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1997-03-14T17:42:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "19051"
+      },
+      {
+        "site": "unext",
+        "id": "SID0048815",
+        "begin": "2020-06-01T03:00:00.000Z",
+        "broadcast": "R/2020-06-01T03:00:00.000Z/P7D"
       }
     ]
   }

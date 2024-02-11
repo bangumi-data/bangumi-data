@@ -53,6 +53,12 @@
         "id": "60024788",
         "begin": "2019-06-20T16:00:00.000Z",
         "broadcast": "R/2019-06-20T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0042410",
+        "begin": "2019-08-01T03:00:00.000Z",
+        "broadcast": "R/2019-08-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -77,6 +83,12 @@
         "site": "iqiyi",
         "id": "a_19rrhb4kld",
         "begin": "2015-08-11T08:03:32.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003095",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -96,6 +108,12 @@
       {
         "site": "bangumi",
         "id": "158800"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018723",
+        "begin": "2019-12-25T03:00:00.000Z",
+        "broadcast": "R/2019-12-25T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -219,6 +237,120 @@
         "id": "let_go_movie",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0002781",
+        "begin": "2021-11-21T03:00:00.000Z",
+        "broadcast": "R/2021-11-21T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "竜機伝承",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙机传承"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-07-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1997-11-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "54276"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003274",
+        "begin": "2022-10-31T03:00:00.000Z",
+        "broadcast": "R/2022-10-31T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "キューティーハニーF",
+    "titleTranslate": {
+      "zh-Hans": [
+        "甜心战士F 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-07-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1997-07-11T16:38:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "233647"
+      },
+      {
+        "site": "unext",
+        "id": "SID0097531",
+        "begin": "2024-01-22T15:00:00.000Z",
+        "broadcast": "R/2024-01-22T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "それいけ! アンパンマン ぼくらはヒーロー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "面包超人：我们是英雄"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060315.html",
+    "begin": "1997-07-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1997-07-25T16:25:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "315923"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018533",
+        "begin": "2015-09-01T06:00:00.000Z",
+        "broadcast": "R/2015-09-01T06:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン 虹のピラミッド",
+    "titleTranslate": {
+      "zh-Hans": [
+        "面包超人 彩虹金字塔"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060314.html",
+    "begin": "1997-07-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1997-07-25T16:56:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "318325"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018532",
+        "begin": "2015-09-01T06:00:00.000Z",
+        "broadcast": "R/2015-09-01T06:00:00.000Z/P7D"
       }
     ]
   }

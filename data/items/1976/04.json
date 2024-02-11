@@ -39,6 +39,12 @@
       {
         "site": "bangumi",
         "id": "37221"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044949",
+        "begin": "2019-12-08T03:00:00.000Z",
+        "broadcast": "R/2019-12-08T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -77,6 +83,12 @@
       {
         "site": "bangumi",
         "id": "37292"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017857",
+        "begin": "2022-04-23T03:00:00.000Z",
+        "broadcast": "R/2022-04-23T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -96,6 +108,29 @@
       {
         "site": "bangumi",
         "id": "37177"
+      }
+    ]
+  },
+  {
+    "title": "ピノキオより ピコリーノの冒険",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1976-04-26T15:00:00.000Z",
+    "broadcast": "R/1976-04-26T15:00:00.000Z/P7D",
+    "end": "1977-05-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220525"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002392",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   }

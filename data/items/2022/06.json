@@ -61,6 +61,12 @@
         "id": "81281582",
         "begin": "2022-06-29T16:00:00.000Z",
         "broadcast": "R/2022-06-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0077246",
+        "begin": "2023-01-11T03:00:00.000Z",
+        "broadcast": "R/2023-01-11T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -102,6 +108,12 @@
         "id": "28435376",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0077772",
+        "begin": "2023-01-23T15:00:00.000Z",
+        "broadcast": "R/2023-01-23T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -143,6 +155,12 @@
         "id": "25-249",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0074464",
+        "begin": "2022-10-31T03:00:00.000Z",
+        "broadcast": "R/2022-10-31T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -182,11 +200,17 @@
         "id": "gundam-cucuruz-doan",
         "begin": "2023-10-13T15:00:00.000Z",
         "broadcast": "R/2023-10-13T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0079417",
+        "begin": "2023-03-31T15:00:00.000Z",
+        "broadcast": "R/2023-03-31T15:00:00.000Z/P7D"
       }
     ]
   },
   {
-    "title": "快把我哥带走5",
+    "title": "兄に付ける薬はない！5-快把我哥帯走5-",
     "titleTranslate": {
       "zh-Hans": [
         "快把我哥带走5",
@@ -208,6 +232,12 @@
       {
         "site": "nicovideo",
         "id": "anitsuke5",
+        "begin": "2022-07-29T03:00:00.000Z",
+        "broadcast": "R/2022-07-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0071460",
         "begin": "2022-07-29T03:00:00.000Z",
         "broadcast": "R/2022-07-29T03:00:00.000Z/P7D"
       }
@@ -237,6 +267,68 @@
         "id": "miragequeen",
         "begin": "2022-12-20T15:00:00.000Z",
         "broadcast": "R/2022-12-20T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0076942",
+        "begin": "2022-12-20T15:00:00.000Z",
+        "broadcast": "R/2022-12-20T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ドラゴンボール超 スーパーヒーロー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙珠超 超级英雄",
+        "龙珠超 超级人造人",
+        "龙珠超 SUPER HERO"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://2022dbs.com",
+    "begin": "2022-06-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-06-10T17:39:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "335502"
+      },
+      {
+        "site": "unext",
+        "id": "SID0075864",
+        "begin": "2022-12-07T03:00:00.000Z",
+        "broadcast": "R/2022-12-07T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "とんがり頭のごん太",
+    "titleTranslate": {
+      "zh-Hans": [
+        "尖头的权太"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.gonta-movie.jp/",
+    "begin": "2022-06-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-06-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "379753"
+      },
+      {
+        "site": "unext",
+        "id": "SID0071219",
+        "begin": "2022-07-25T03:00:00.000Z",
+        "broadcast": "R/2022-07-25T03:00:00.000Z/P7D"
       }
     ]
   }

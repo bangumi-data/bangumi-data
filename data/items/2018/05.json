@@ -25,6 +25,12 @@
         "site": "nicovideo",
         "id": "oshiri-tantei",
         "begin": "2018-05-11T03:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0034919",
+        "begin": "2021-04-05T03:00:00.000Z",
+        "broadcast": "R/2021-04-05T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -63,6 +69,12 @@
         "id": "95127",
         "begin": "2019-08-29T08:00:00.000Z",
         "broadcast": "R/2019-08-29T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0058901",
+        "begin": "2021-06-24T03:00:00.000Z",
+        "broadcast": "R/2021-06-24T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -93,6 +105,12 @@
         "site": "nicovideo",
         "id": "TO_BE_HEROINE",
         "begin": "2018-05-19T13:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0035009",
+        "begin": "2018-05-20T03:00:00.000Z",
+        "broadcast": "R/2018-05-20T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -122,6 +140,12 @@
         "site": "youku",
         "id": "efbfbd52efbfbd0befbf",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0035121",
+        "begin": "2021-05-01T03:00:00.000Z",
+        "broadcast": "R/2021-05-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -209,6 +233,12 @@
         "id": "geass-movie3",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0037120",
+        "begin": "2018-09-26T03:00:00.000Z",
+        "broadcast": "R/2018-09-26T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -240,6 +270,39 @@
         "id": "80180376",
         "begin": "2018-07-17T16:00:00.000Z",
         "broadcast": "R/2018-07-17T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044830",
+        "begin": "2019-12-18T03:00:00.000Z",
+        "broadcast": "R/2019-12-18T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 ひらがな男子 ～序～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "平假名男子 ～序～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2018-05-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2018-05-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "240273"
+      },
+      {
+        "site": "unext",
+        "id": "SID0054110",
+        "begin": "2020-12-26T03:00:00.000Z",
+        "broadcast": "R/2020-12-26T03:00:00.000Z/P7D"
       }
     ]
   }

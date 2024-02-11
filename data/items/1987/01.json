@@ -26,6 +26,63 @@
         "site": "bilibili",
         "id": "5411",
         "begin": "1981-04-06T16:00:01.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002135",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "新メイプルタウン物語 パームタウン編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新枫城物语",
+        "新枫叶镇物语 棕榈镇篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-01-17T16:00:00.000Z",
+    "broadcast": "R/1987-01-17T16:00:00.000Z/P7D",
+    "end": "1987-12-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "134961"
+      },
+      {
+        "site": "unext",
+        "id": "SID0091516",
+        "begin": "2023-09-10T03:00:00.000Z",
+        "broadcast": "R/2023-09-10T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "魔法のプリンセス ミンキーモモ 瞳の星座 ミンキーモモSONGスペシャル",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-01-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1987-01-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "333344"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012707",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
       }
     ]
   }

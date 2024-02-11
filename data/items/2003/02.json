@@ -33,6 +33,12 @@
         "site": "letv",
         "id": "34425",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010842",
+        "begin": "2019-10-24T03:00:00.000Z",
+        "broadcast": "R/2019-10-24T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -96,6 +102,33 @@
         "site": "pptv",
         "id": "o4RicicWXLO3ncWsI",
         "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "魔獣戦線 THE APOCALYPSE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔兽战线 THE APOCALYPSE"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2003-02-22T16:00:00.000Z",
+    "broadcast": "R/2003-02-22T16:00:00.000Z/P7D",
+    "end": "2003-05-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "57607"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016954",
+        "begin": "2019-11-25T03:00:00.000Z",
+        "broadcast": "R/2019-11-25T03:00:00.000Z/P7D"
       }
     ]
   }

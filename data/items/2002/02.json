@@ -21,6 +21,12 @@
       {
         "site": "bangumi",
         "id": "14878"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010972",
+        "begin": "2019-11-09T03:00:00.000Z",
+        "broadcast": "R/2019-11-09T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -81,6 +87,12 @@
         "id": "2544",
         "begin": "2015-06-24T09:28:00.000Z",
         "broadcast": "R/2015-06-24T09:28:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013611",
+        "begin": "2020-04-27T03:00:00.000Z",
+        "broadcast": "R/2020-04-27T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -106,6 +118,89 @@
         "id": "5255",
         "begin": "2016-07-20T06:16:00.000Z",
         "broadcast": "R/2016-07-20T06:16:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "幻魔大戦 -神話前夜の章-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "幻魔大战 ~神话前夜之章~"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-02-01T16:00:00.000Z",
+    "broadcast": "R/2002-02-01T16:00:00.000Z/P7D",
+    "end": "2002-05-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "25200"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014752",
+        "begin": "2019-11-25T03:00:00.000Z",
+        "broadcast": "R/2019-11-25T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版∀ガンダムI 地球光",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版∀高达I 地球光",
+        "Turn A高达 剧场版 地球光"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-02-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2002-02-08T18:08:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3554"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012954",
+        "begin": "2008-10-23T06:00:00.000Z",
+        "broadcast": "R/2008-10-23T06:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版∀ガンダムII 月光蝶",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版∀高达II 月光蝶",
+        "Turn A高达 剧场版 月光蝶"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-02-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2002-02-09T18:08:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3555"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012954",
+        "begin": "2008-10-23T06:00:00.000Z",
+        "broadcast": "R/2008-10-23T06:00:00.000Z/P7D"
       }
     ]
   }

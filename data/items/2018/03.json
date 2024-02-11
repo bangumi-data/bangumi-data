@@ -23,6 +23,12 @@
         "site": "nicovideo",
         "id": "duelmasters_2018",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0044106",
+        "begin": "2021-06-07T03:00:00.000Z",
+        "broadcast": "R/2021-06-07T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -176,6 +182,12 @@
         "site": "iqiyi",
         "id": "a_19rrhb4tzt",
         "begin": "2015-08-07T08:45:07.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0039822",
+        "begin": "2019-03-01T03:00:00.000Z",
+        "broadcast": "R/2019-03-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -280,6 +292,12 @@
         "site": "nicovideo",
         "id": "engimon",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0036425",
+        "begin": "2018-08-17T03:00:00.000Z",
+        "broadcast": "R/2018-08-17T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -300,6 +318,12 @@
         "site": "nicovideo",
         "id": "midnight-crazy-trail",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0036424",
+        "begin": "2018-08-17T03:00:00.000Z",
+        "broadcast": "R/2018-08-17T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -368,6 +392,12 @@
         "id": "87594",
         "begin": "2020-09-08T09:00:00.000Z",
         "broadcast": "R/2020-09-08T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0041299",
+        "begin": "2019-04-27T03:00:00.000Z",
+        "broadcast": "R/2019-04-27T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -393,6 +423,12 @@
         "site": "nicovideo",
         "id": "shinmaimaou-departures",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0047971",
+        "begin": "2020-06-12T03:00:00.000Z",
+        "broadcast": "R/2020-06-12T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -428,6 +464,12 @@
         "id": "28340487",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0047249",
+        "begin": "2020-04-05T03:00:00.000Z",
+        "broadcast": "R/2020-04-05T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -454,6 +496,12 @@
         "id": "79372",
         "begin": "2018-04-09T16:00:00.000Z",
         "broadcast": "R/2018-04-01T11:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0039471",
+        "begin": "2019-04-01T03:00:00.000Z",
+        "broadcast": "R/2019-04-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -483,6 +531,61 @@
         "id": "35-46",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "映画しまじろう まほうのしまのだいぼうけん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "巧虎 魔法之岛的大冒险",
+        "魔法岛大冒险"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kodomo.benesse.ne.jp/open/movie/2018-mahou/",
+    "begin": "2018-03-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2018-03-08T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "229040"
+      },
+      {
+        "site": "unext",
+        "id": "SID0036394",
+        "begin": "2020-08-14T03:00:00.000Z",
+        "broadcast": "R/2020-08-14T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "DAYS 東院学園戦",
+    "titleTranslate": {
+      "zh-Hans": [
+        "DAYS 东院学园战"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2018-03-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2018-07-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "228275"
+      },
+      {
+        "site": "unext",
+        "id": "SID0054283",
+        "begin": "2020-12-30T03:00:00.000Z",
+        "broadcast": "R/2020-12-30T03:00:00.000Z/P7D"
       }
     ]
   }

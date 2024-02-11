@@ -55,6 +55,12 @@
         "id": "132232",
         "begin": "2018-09-08T10:17:00.000Z",
         "broadcast": "R/2018-09-08T10:17:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012904",
+        "begin": "2008-11-07T06:00:00.000Z",
+        "broadcast": "R/2008-11-07T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -144,6 +150,12 @@
         "site": "ani_one_asia",
         "id": "PLxSscENEp7Jgv63BpD8ovpSFlCSOu8DvO",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0016638",
+        "begin": "2023-02-14T03:00:00.000Z",
+        "broadcast": "R/2023-02-14T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -254,6 +266,114 @@
         "id": "6074",
         "begin": "2017-04-18T02:04:00.000Z",
         "broadcast": "R/2017-04-18T02:04:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "幽☆遊☆白書 冥界死闘篇 炎の絆",
+    "titleTranslate": {
+      "zh-Hans": [
+        "幽游白书 冥界死斗篇 炎之绊"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-04-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1994-04-08T17:33:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8804"
+      },
+      {
+        "site": "unext",
+        "id": "SID0043976",
+        "begin": "2022-12-16T03:00:00.000Z",
+        "broadcast": "R/2022-12-16T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "三国志 完結編・遥かなる大地",
+    "titleTranslate": {
+      "zh-Hans": [
+        "三国志 第三部 辽阔的大地"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-04-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1994-04-08T18:27:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "46539"
+      },
+      {
+        "site": "unext",
+        "id": "SID0041830",
+        "begin": "2019-06-26T03:00:00.000Z",
+        "broadcast": "R/2019-06-26T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "新・キューティーハニー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新・甜心战士"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-04-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1995-11-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "56726"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014559",
+        "begin": "2023-01-01T03:00:00.000Z",
+        "broadcast": "R/2023-01-01T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "白雪姫の伝説",
+    "titleTranslate": {
+      "zh-Hans": [
+        "白雪公主传奇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-04-05T16:00:00.000Z",
+    "broadcast": "R/1994-04-05T16:00:00.000Z/P7D",
+    "end": "1995-03-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "80239"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017864",
+        "begin": "2022-04-24T03:00:00.000Z",
+        "broadcast": "R/2022-04-24T03:00:00.000Z/P7D"
       }
     ]
   }

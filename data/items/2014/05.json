@@ -56,6 +56,12 @@
         "id": "168-49",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0067451",
+        "begin": "2023-04-01T03:00:00.000Z",
+        "broadcast": "R/2023-04-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -85,6 +91,60 @@
         "site": "bilibili",
         "id": "3075",
         "begin": "2014-05-04T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "生徒会役員共* OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "妄想学生会＊ OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2014-05-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-09-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "104591"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047503",
+        "begin": "2021-01-01T03:00:00.000Z",
+        "broadcast": "R/2021-01-01T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "野良スコ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "野良折耳猫"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2014-05-01T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2015-03-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "285309"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003439",
+        "begin": "2019-11-27T03:00:00.000Z",
+        "broadcast": "R/2019-11-27T03:00:00.000Z/P7D"
       }
     ]
   }

@@ -34,6 +34,12 @@
         "id": "yschoolheroes0001_139473",
         "begin": "2023-10-16T16:00:00.000Z",
         "broadcast": "R/2023-10-16T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0045119",
+        "begin": "2020-01-03T03:00:00.000Z",
+        "broadcast": "R/2020-01-03T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -64,7 +70,7 @@
     "lang": "ja",
     "officialSite": "https://www.youtube.com/channel/UC5FHhPKV7tJtKmyTC5U7LFg",
     "begin": "2019-12-25T16:00:00.000Z",
-    "end": "",
+    "end": "2019-12-25T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -173,6 +179,12 @@
         "id": "yschoolheroes_136426",
         "begin": "2022-09-30T16:00:00.000Z",
         "broadcast": "R/2022-09-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0050418",
+        "begin": "2020-08-03T03:00:00.000Z",
+        "broadcast": "R/2020-08-03T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -207,6 +219,12 @@
         "id": "106555",
         "begin": "2021-07-23T08:00:00.000Z",
         "broadcast": "R/2021-07-23T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0049035",
+        "begin": "2020-07-01T03:00:00.000Z",
+        "broadcast": "R/2020-07-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -233,6 +251,12 @@
         "id": "7dayswar",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0052637",
+        "begin": "2020-11-01T15:00:00.000Z",
+        "broadcast": "R/2020-11-01T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -266,6 +290,68 @@
         "id": "81398907",
         "begin": "2021-05-13T16:00:00.000Z",
         "broadcast": "R/2021-05-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0049268",
+        "begin": "2020-07-08T03:00:00.000Z",
+        "broadcast": "R/2020-07-08T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 新幹線変形ロボ シンカリオン 未来からきた神速のALFA-X",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 新干线变形机器人 来自未来的神速ALFA-X",
+        "剧场版新干线战士：来自未来的神速ALFA-X"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.shinkalion.com/news/2612/",
+    "begin": "2019-12-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-12-26T17:19:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "286670"
+      },
+      {
+        "site": "unext",
+        "id": "SID0048708",
+        "begin": "2022-01-27T03:00:00.000Z",
+        "broadcast": "R/2022-01-27T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "この世界の（さらにいくつもの）片隅に",
+    "titleTranslate": {
+      "zh-Hans": [
+        "在这世界(更多一些)的角落",
+        "在这世界的(还有更多的)角落"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2019-12-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-12-19T18:48:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "255191"
+      },
+      {
+        "site": "unext",
+        "id": "SID0029241",
+        "begin": "2021-08-01T03:00:00.000Z",
+        "broadcast": "R/2021-08-01T03:00:00.000Z/P7D"
       }
     ]
   }

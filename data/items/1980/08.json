@@ -23,5 +23,32 @@
         "broadcast": "R/2016-05-20T03:02:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "フウムーン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "月圆之夜"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.cartoon.co.jp/cn_programs/view/00385",
+    "begin": "1980-08-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1980-08-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "112656"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003097",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

@@ -42,6 +42,12 @@
       {
         "site": "bangumi",
         "id": "37294"
+      },
+      {
+        "site": "unext",
+        "id": "SID0020274",
+        "begin": "2016-03-17T03:00:00.000Z",
+        "broadcast": "R/2016-03-17T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -69,6 +75,39 @@
         "site": "bilibili",
         "id": "2443",
         "begin": "1984-02-03T16:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013063",
+        "begin": "2019-04-19T03:00:00.000Z",
+        "broadcast": "R/2019-04-19T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "リトル・エル・シドの冒険",
+    "titleTranslate": {
+      "zh-Hans": [
+        "古堡勇士莱特雅斯"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1984-02-05T16:00:00.000Z",
+    "broadcast": "R/1984-02-05T16:00:00.000Z/P7D",
+    "end": "1984-03-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220528"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003321",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   }

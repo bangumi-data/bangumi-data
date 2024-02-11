@@ -41,6 +41,12 @@
         "id": "PLuxqoToY7UcicT-1ToKgzWzzS5BxjbQFi",
         "begin": "2023-03-07T16:00:00.000Z",
         "broadcast": "R/2023-03-07T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0069660",
+        "begin": "2022-07-31T15:00:00.000Z",
+        "broadcast": "R/2022-07-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -213,6 +219,12 @@
         "id": "129504",
         "begin": "2023-01-06T15:30:00.000Z",
         "broadcast": "R/2023-01-06T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0072510",
+        "begin": "2022-08-19T14:00:00.000Z",
+        "broadcast": "R/2022-08-19T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -309,6 +321,60 @@
       {
         "site": "nicovideo",
         "id": "g-reco-movie5",
+        "begin": "2022-12-22T15:00:00.000Z",
+        "broadcast": "R/2022-12-22T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0076422",
+        "begin": "2022-12-22T15:00:00.000Z",
+        "broadcast": "R/2022-12-22T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版ツルネ －はじまりの一射－",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 弦音 -起始的一箭-",
+        "剧场版 弦音 -最初的一射-",
+        "剧场版 弦音 -开始的一射-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://tsurune.com/movie/",
+    "begin": "2022-08-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-08-18T17:42:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317376"
+      },
+      {
+        "site": "unext",
+        "id": "SID0078089",
+        "begin": "2023-01-18T03:00:00.000Z",
+        "broadcast": "R/2023-01-18T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "がんばれ！長州くん",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-08-01T01:15:00.000Z",
+    "broadcast": "",
+    "end": "2022-12-08T01:15:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "unext",
+        "id": "SID0076025",
         "begin": "2022-12-22T15:00:00.000Z",
         "broadcast": "R/2022-12-22T15:00:00.000Z/P7D"
       }

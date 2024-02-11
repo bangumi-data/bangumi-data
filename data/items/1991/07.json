@@ -20,6 +20,12 @@
         "site": "bilibili",
         "id": "2346",
         "begin": "1991-07-13T16:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002417",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -49,6 +55,12 @@
         "site": "iqiyi",
         "id": "a_19rrhb4015",
         "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010766",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -105,6 +117,133 @@
         "id": "80092922",
         "begin": "2020-01-30T16:00:00.000Z",
         "broadcast": "R/2020-01-30T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ガンバとカワウソの冒険",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-07-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-07-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "139360"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038236",
+        "begin": "2018-11-27T03:00:00.000Z",
+        "broadcast": "R/2018-11-27T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "NG騎士ラムネ&amp;40 EX ビクビクトライアングル 愛の嵐大作戦",
+    "titleTranslate": {
+      "zh-Hans": [
+        "NG骑士柠檬汽水&40 EX"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-07-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37250"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010710",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "DRAGON QUEST ダイの大冒険",
+    "titleTranslate": {
+      "zh-Hans": [
+        "勇者斗恶龙 达尔的大冒险 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-07-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-07-19T16:31:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317747"
+      },
+      {
+        "site": "unext",
+        "id": "SID0054518",
+        "begin": "2021-02-01T03:00:00.000Z",
+        "broadcast": "R/2021-02-01T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン ドキンちゃんのドキドキカレンダー",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060305.html",
+    "begin": "1991-07-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-07-19T16:53:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "418857"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018522",
+        "begin": "2015-08-01T03:00:00.000Z",
+        "broadcast": "R/2015-08-01T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン とべ! とべ! ちびごん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "面包超人：飞呀！飞呀！小小龙"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060304.html",
+    "begin": "1991-07-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-07-19T16:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "418856"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018521",
+        "begin": "2015-08-01T03:00:00.000Z",
+        "broadcast": "R/2015-08-01T03:00:00.000Z/P7D"
       }
     ]
   }

@@ -30,6 +30,12 @@
         "site": "bilibili",
         "id": "3935",
         "begin": "1993-07-22T16:00:01.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013495",
+        "begin": "2019-01-31T03:00:00.000Z",
+        "broadcast": "R/2019-01-31T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -83,6 +89,12 @@
         "site": "iqiyi",
         "id": "a_19rrhb4015",
         "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010770",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -187,6 +199,58 @@
         "id": "PLC18xlbCdwtSAEbBd8mgeEwaQgJtzbem6",
         "begin": "2022-11-15T16:00:00.000Z",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0014719",
+        "begin": "2021-07-12T03:00:00.000Z",
+        "broadcast": "R/2021-07-12T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ろくでなしBLUES 1993",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-07-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-07-23T17:25:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "104006"
+      },
+      {
+        "site": "unext",
+        "id": "SID0045129",
+        "begin": "2019-12-27T03:00:00.000Z",
+        "broadcast": "R/2019-12-27T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン 恐竜ノッシーの大冒険",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060308.html",
+    "begin": "1993-07-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-07-16T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "89701"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018525",
+        "begin": "2015-06-01T06:00:00.000Z",
+        "broadcast": "R/2015-06-01T06:00:00.000Z/P7D"
       }
     ]
   }

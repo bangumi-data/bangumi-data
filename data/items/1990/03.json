@@ -68,6 +68,12 @@
         "site": "iqiyi",
         "id": "a_19rrhb4015",
         "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010763",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -145,6 +151,12 @@
         "id": "5949",
         "begin": "2017-03-20T03:04:00.000Z",
         "broadcast": "R/2017-03-20T03:04:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0060469",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -170,6 +182,56 @@
         "id": "3279",
         "begin": "2016-01-09T03:54:00.000Z",
         "broadcast": "R/2016-01-09T03:54:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "魔法使いサリー 劇場版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法使莎莉 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-03-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-03-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "403045"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003374",
+        "begin": "2020-01-19T03:00:00.000Z",
+        "broadcast": "R/2020-01-19T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "悪魔くん ようこそ悪魔ランドへ！！",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://lineup.toei-anim.co.jp/ja/movie/movie_akuma_akumaland",
+    "begin": "1990-03-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-03-09T16:26:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "414961"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002432",
+        "begin": "2020-01-11T03:00:00.000Z",
+        "broadcast": "R/2020-01-11T03:00:00.000Z/P7D"
       }
     ]
   }

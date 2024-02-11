@@ -31,6 +31,12 @@
         "id": "gundam0083",
         "begin": "2023-12-04T09:00:00.000Z",
         "broadcast": "R/2023-12-04T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012897",
+        "begin": "2008-10-31T15:00:00.000Z",
+        "broadcast": "R/2008-10-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -75,6 +81,34 @@
       {
         "site": "bangumi",
         "id": "46953"
+      }
+    ]
+  },
+  {
+    "title": "とべ! くじらのピーク",
+    "titleTranslate": {
+      "zh-Hans": [
+        "飞吧！鲸鱼皮克",
+        "飞吧！鲸鱼的高峰"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-05-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-05-21T17:20:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "56301"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047514",
+        "begin": "2020-05-14T03:00:00.000Z",
+        "broadcast": "R/2020-05-14T03:00:00.000Z/P7D"
       }
     ]
   }

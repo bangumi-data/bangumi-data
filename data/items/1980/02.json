@@ -17,5 +17,56 @@
         "id": "37286"
       }
     ]
+  },
+  {
+    "title": "ふたごのモンチッチ",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1980-02-03T16:00:00.000Z",
+    "broadcast": "R/1980-02-03T16:00:00.000Z/P7D",
+    "end": "1980-07-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220039"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010779",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "タイムボカンシリーズ タイムパトロール隊オタスケマン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "罪恶小克星",
+        "时间巡逻队"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1980-02-01T16:00:00.000Z",
+    "broadcast": "R/1980-02-01T16:00:00.000Z/P7D",
+    "end": "1981-01-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53759"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017874",
+        "begin": "2019-09-18T03:00:00.000Z",
+        "broadcast": "R/2019-09-18T03:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

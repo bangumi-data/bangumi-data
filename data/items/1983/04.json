@@ -74,6 +74,12 @@
       {
         "site": "bangumi",
         "id": "213669"
+      },
+      {
+        "site": "unext",
+        "id": "SID0039104",
+        "begin": "2019-01-08T03:00:00.000Z",
+        "broadcast": "R/2019-01-08T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -100,6 +106,121 @@
         "id": "2434",
         "begin": "2014-06-21T11:12:00.000Z",
         "broadcast": "R/2014-06-21T11:12:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0020285",
+        "begin": "2016-01-21T03:00:00.000Z",
+        "broadcast": "R/2016-01-21T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "キン肉マン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "筋肉人",
+        "爆笑筋肉人"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1983-04-02T16:00:00.000Z",
+    "broadcast": "R/1983-04-02T16:00:00.000Z/P7D",
+    "end": "1986-09-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "41982"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011084",
+        "begin": "2021-01-07T03:00:00.000Z",
+        "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "まんが日本史",
+    "titleTranslate": {
+      "zh-Hans": [
+        "漫画日本史"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1983-04-02T16:00:00.000Z",
+    "broadcast": "R/1983-04-02T16:00:00.000Z/P7D",
+    "end": "1984-04-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "381162"
+      },
+      {
+        "site": "unext",
+        "id": "SID0045322",
+        "begin": "2020-01-01T03:00:00.000Z",
+        "broadcast": "R/2020-01-01T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "パソコントラベル探偵団",
+    "titleTranslate": {
+      "zh-Hans": [
+        "个人电脑旅行侦探团"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://tatsunoko.co.jp/works/pc-time-travelling-detectives",
+    "begin": "1983-04-03T16:00:00.000Z",
+    "broadcast": "R/1983-04-03T16:00:00.000Z/P7D",
+    "end": "1983-09-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "381165"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017875",
+        "begin": "2022-04-19T03:00:00.000Z",
+        "broadcast": "R/2022-04-19T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "タイムボカンシリーズ イタダキマン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "顶尖超人"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1983-04-08T16:00:00.000Z",
+    "broadcast": "R/1983-04-08T16:00:00.000Z/P7D",
+    "end": "1983-09-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "72394"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017869",
+        "begin": "2019-09-18T03:00:00.000Z",
+        "broadcast": "R/2019-09-18T03:00:00.000Z/P7D"
       }
     ]
   }

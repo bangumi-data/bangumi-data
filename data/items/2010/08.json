@@ -27,6 +27,12 @@
         "site": "letv",
         "id": "29273",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0017191",
+        "begin": "2020-01-29T03:00:00.000Z",
+        "broadcast": "R/2020-01-29T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -86,6 +92,12 @@
       {
         "site": "bangumi",
         "id": "27879"
+      },
+      {
+        "site": "unext",
+        "id": "SID0088544",
+        "begin": "2023-07-14T03:00:00.000Z",
+        "broadcast": "R/2023-07-14T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -111,6 +123,33 @@
         "id": "131692",
         "begin": "2018-09-07T08:30:10.000Z",
         "broadcast": "R/2018-09-07T08:30:10.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版メタルファイト ベイブレードVS太陽 灼熱の侵略者ソルブレイズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 金属对决 战斗陀螺VS太阳 灼热的侵略者 索尔火焰"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.bey-movie.com/",
+    "begin": "2010-08-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2010-08-20T17:38:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "55584"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003327",
+        "begin": "2015-02-17T06:00:00.000Z",
+        "broadcast": "R/2015-02-17T06:00:00.000Z/P7D"
       }
     ]
   }

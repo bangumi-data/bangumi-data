@@ -15,6 +15,12 @@
       {
         "site": "bangumi",
         "id": "18505"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011503",
+        "begin": "2018-11-01T03:00:00.000Z",
+        "broadcast": "R/2018-11-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -50,6 +56,12 @@
         "site": "letv",
         "id": "78843",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0002887",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -103,6 +115,39 @@
         "site": "pptv",
         "id": "Rolz8VmicL23QTrY",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0004806",
+        "begin": "2009-12-18T06:00:00.000Z",
+        "broadcast": "R/2009-12-18T06:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "八百八町表裏 化粧師",
+    "titleTranslate": {
+      "zh-Hans": [
+        "八百八町表里 化妆师"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-10-08T16:00:00.000Z",
+    "broadcast": "R/1990-10-08T16:00:00.000Z/P7D",
+    "end": "1991-04-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220042"
+      },
+      {
+        "site": "unext",
+        "id": "SID0053874",
+        "begin": "2020-12-27T03:00:00.000Z",
+        "broadcast": "R/2020-12-27T03:00:00.000Z/P7D"
       }
     ]
   }

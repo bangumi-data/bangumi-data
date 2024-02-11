@@ -21,6 +21,12 @@
       {
         "site": "bangumi",
         "id": "68707"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002224",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -46,6 +52,39 @@
         "site": "youku",
         "id": "cc008b08962411de83b1",
         "begin": "2016-10-02T03:58:55.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002546",
+        "begin": "2018-04-06T03:00:00.000Z",
+        "broadcast": "R/2018-04-06T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "闘将!!拉麵男",
+    "titleTranslate": {
+      "zh-Hans": [
+        "斗将！！拉面男"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-01-09T16:00:00.000Z",
+    "broadcast": "R/1988-01-09T16:00:00.000Z/P7D",
+    "end": "1988-09-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "299458"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011396",
+        "begin": "2023-04-30T03:00:00.000Z",
+        "broadcast": "R/2023-04-30T03:00:00.000Z/P7D"
       }
     ]
   }

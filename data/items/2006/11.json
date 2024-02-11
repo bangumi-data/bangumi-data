@@ -58,6 +58,12 @@
       {
         "site": "bangumi",
         "id": "4887"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015476",
+        "begin": "2019-05-11T03:00:00.000Z",
+        "broadcast": "R/2019-05-11T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -101,6 +107,12 @@
         "id": "70065105",
         "begin": "2020-12-10T00:00:00.000Z",
         "broadcast": "R/2020-12-10T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013325",
+        "begin": "2018-02-12T03:00:00.000Z",
+        "broadcast": "R/2018-02-12T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -130,6 +142,12 @@
         "site": "nicovideo",
         "id": "maria_watches_over_us3",
         "begin": "2019-10-23T15:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003158",
+        "begin": "2019-10-20T03:00:00.000Z",
+        "broadcast": "R/2019-10-20T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -192,6 +210,12 @@
         "id": "1705",
         "begin": "2016-04-07T09:03:04.000Z",
         "broadcast": "R/2016-04-07T09:03:04.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012980",
+        "begin": "2020-05-21T03:00:00.000Z",
+        "broadcast": "R/2020-05-21T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -219,6 +243,87 @@
         "id": "4875",
         "begin": "2016-08-10T02:53:24.000Z",
         "broadcast": "R/2016-08-10T02:53:24.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ネギま!?夏",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法老师涅吉!?夏",
+        "魔法先生涅吉!?夏",
+        "魔葱!?夏"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://king-cr.jp/special/negima_ova",
+    "begin": "2006-11-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2006-11-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "17121"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016176",
+        "begin": "2017-07-06T03:00:00.000Z",
+        "broadcast": "R/2017-07-06T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "FREEDOM",
+    "titleTranslate": {
+      "zh-Hans": [
+        "自由",
+        "自由计划"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://freedom-project.jp/",
+    "begin": "2006-11-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2008-05-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "4192"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016677",
+        "begin": "2010-12-31T15:00:00.000Z",
+        "broadcast": "R/2010-12-31T15:00:00.000Z/P7D",
+        "comment": "SEVEN #07: SID0016678"
+      }
+    ]
+  },
+  {
+    "title": "うっかりペネロペ 【第1シリーズ】",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.penelope.tv/",
+    "begin": "2006-11-19T16:00:00.000Z",
+    "broadcast": "R/2006-11-19T16:00:00.000Z/P7D",
+    "end": "2006-12-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "309234"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002160",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   }

@@ -44,6 +44,12 @@
         "id": "5-33",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0002236",
+        "begin": "2017-04-20T03:00:00.000Z",
+        "broadcast": "R/2017-04-20T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -140,6 +146,67 @@
         "id": "118-1",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0022247",
+        "begin": "2016-02-25T03:00:00.000Z",
+        "broadcast": "R/2016-02-25T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "超音戦士ボーグマン2 -新世紀2058-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超音战士Borgman2 -新世纪2058-"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-09-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-11-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53936"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004302",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "平成イヌ物語バウ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "家有贱狗",
+        "家有傻犬"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-10-03T16:00:00.000Z",
+    "broadcast": "R/1993-10-03T16:00:00.000Z/P7D",
+    "end": "1994-09-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "14645"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002318",
+        "begin": "2023-02-01T03:00:00.000Z",
+        "broadcast": "R/2023-02-01T03:00:00.000Z/P7D"
       }
     ]
   }

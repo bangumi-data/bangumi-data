@@ -37,6 +37,12 @@
       {
         "site": "bangumi",
         "id": "30483"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002741",
+        "begin": "2021-11-01T03:00:00.000Z",
+        "broadcast": "R/2021-11-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -73,6 +79,12 @@
         "site": "letv",
         "id": "9424",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0015703",
+        "begin": "2019-11-29T03:00:00.000Z",
+        "broadcast": "R/2019-11-29T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -106,6 +118,12 @@
         "site": "letv",
         "id": "22612",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0014868",
+        "begin": "2020-11-26T15:00:00.000Z",
+        "broadcast": "R/2020-11-26T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -162,6 +180,12 @@
         "id": "25-24ymbcanddfj",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0015445",
+        "begin": "2014-06-18T15:00:00.000Z",
+        "broadcast": "R/2014-06-18T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -219,6 +243,12 @@
         "site": "letv",
         "id": "42061",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0013562",
+        "begin": "2019-09-19T03:00:00.000Z",
+        "broadcast": "R/2019-09-19T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -249,6 +279,12 @@
         "id": "3406",
         "begin": "2006-07-03T16:00:01.000Z",
         "broadcast": "R/2016-03-09T03:51:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0019569",
+        "begin": "2015-08-20T06:00:00.000Z",
+        "broadcast": "R/2015-08-20T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -279,6 +315,12 @@
         "site": "nicovideo",
         "id": "nhkniyokoso",
         "begin": "2019-10-14T06:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012815",
+        "begin": "2018-10-11T03:00:00.000Z",
+        "broadcast": "R/2018-10-11T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -338,6 +380,12 @@
         "id": "1383",
         "begin": "2006-07-04T16:00:00.000Z",
         "broadcast": "R/2013-04-20T12:47:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0062161",
+        "begin": "2021-10-29T03:00:00.000Z",
+        "broadcast": "R/2021-10-29T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -465,6 +513,12 @@
         "id": "5751",
         "begin": "2006-07-14T16:00:01.000Z",
         "broadcast": "R/2016-12-07T06:01:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028815",
+        "begin": "2022-06-21T03:00:00.000Z",
+        "broadcast": "R/2022-06-21T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -531,6 +585,12 @@
         "site": "letv",
         "id": "11124",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0027221",
+        "begin": "2018-12-03T03:00:00.000Z",
+        "broadcast": "R/2018-12-03T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -555,6 +615,12 @@
       {
         "site": "bangumi",
         "id": "21065"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014498",
+        "begin": "2009-03-19T06:00:00.000Z",
+        "broadcast": "R/2009-03-19T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -585,6 +651,12 @@
         "id": "3019",
         "begin": "2006-07-09T16:00:00.000Z",
         "broadcast": "R/2015-11-16T08:41:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013618",
+        "begin": "2015-06-11T06:00:00.000Z",
+        "broadcast": "R/2015-06-11T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -643,6 +715,81 @@
         "id": "2687",
         "begin": "2018-11-01T15:30:00.000Z",
         "broadcast": "R/2018-11-01T15:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ブレイブ ストーリー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "勇者的故事",
+        "勇者物语",
+        "勇者传说"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.bravestory.net/",
+    "begin": "2006-07-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2006-07-07T17:52:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "5421"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013382",
+        "begin": "2021-10-01T03:00:00.000Z",
+        "broadcast": "R/2021-10-01T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン コキンちゃんとあおいなみだ",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060334.html",
+    "begin": "2006-07-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2006-07-14T16:20:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "332524"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018551",
+        "begin": "2015-06-01T06:00:00.000Z",
+        "broadcast": "R/2015-06-01T06:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン いのちの星のドーリィ",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060333.html",
+    "begin": "2006-07-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2006-07-14T16:51:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "422090"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018550",
+        "begin": "2015-06-01T06:00:00.000Z",
+        "broadcast": "R/2015-06-01T06:00:00.000Z/P7D"
       }
     ]
   }

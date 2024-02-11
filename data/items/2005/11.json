@@ -21,6 +21,12 @@
         "id": "1847",
         "begin": "2005-11-02T16:00:00.000Z",
         "broadcast": "R/2011-04-11T07:21:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012876",
+        "begin": "2019-11-30T03:00:00.000Z",
+        "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -68,6 +74,12 @@
       {
         "site": "bangumi",
         "id": "53729"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003350",
+        "begin": "2015-02-25T06:00:00.000Z",
+        "broadcast": "R/2015-02-25T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -97,6 +109,29 @@
       {
         "site": "bangumi",
         "id": "3393"
+      }
+    ]
+  },
+  {
+    "title": "惑星大怪獣ネガドン",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.cwfilms.jp/negadon/",
+    "begin": "2005-11-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2005-11-04T16:25:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "421916"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013628",
+        "begin": "2015-06-04T06:00:00.000Z",
+        "broadcast": "R/2015-06-04T06:00:00.000Z/P7D"
       }
     ]
   }

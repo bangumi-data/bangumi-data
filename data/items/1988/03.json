@@ -80,6 +80,12 @@
         "id": "60024179",
         "begin": "2021-06-16T16:00:00.000Z",
         "broadcast": "R/2021-06-16T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012890",
+        "begin": "2008-10-23T06:00:00.000Z",
+        "broadcast": "R/2008-10-23T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -109,6 +115,12 @@
         "site": "iqiyi",
         "id": "a_19rrhb4um9",
         "begin": "2016-02-16T07:22:34.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011322",
+        "begin": "2019-12-26T03:00:00.000Z",
+        "broadcast": "R/2019-12-26T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -209,6 +221,33 @@
         "id": "2495",
         "begin": "2013-08-04T04:20:34.000Z",
         "broadcast": "R/2013-08-04T04:20:34.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士SDガンダム",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士SD高达"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.sunrise-inc.co.jp/sd-gundam/",
+    "begin": "1988-03-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1988-03-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "298572"
+      },
+      {
+        "site": "unext",
+        "id": "SID0077804",
+        "begin": "2023-01-26T15:00:00.000Z",
+        "broadcast": "R/2023-01-26T15:00:00.000Z/P7D"
       }
     ]
   }

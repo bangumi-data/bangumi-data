@@ -272,6 +272,12 @@
         "id": "3446",
         "begin": "2013-12-14T16:00:00.000Z",
         "broadcast": "R/2016-03-17T08:21:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0026835",
+        "begin": "2017-10-01T03:00:00.000Z",
+        "broadcast": "R/2017-10-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -336,6 +342,12 @@
         "id": "59672",
         "begin": "2023-07-28T02:30:00.000Z",
         "broadcast": "R/2023-07-28T02:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002956",
+        "begin": "2020-12-19T03:00:00.000Z",
+        "broadcast": "R/2020-12-19T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -383,6 +395,12 @@
         "id": "25-41",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0011355",
+        "begin": "2015-11-26T03:00:00.000Z",
+        "broadcast": "R/2015-11-26T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -456,6 +474,90 @@
         "id": "shingeki-oad",
         "begin": "2021-12-06T03:00:00.000Z",
         "broadcast": "R/2021-12-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0063895",
+        "begin": "2021-11-29T03:00:00.000Z",
+        "broadcast": "R/2021-11-29T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "映画かいけつゾロリ まもるぜ！きょうりゅうのたまご",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2013-12-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2013-12-13T17:17:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "414420"
+      },
+      {
+        "site": "unext",
+        "id": "SID0019024",
+        "begin": "2019-07-04T03:00:00.000Z",
+        "broadcast": "R/2019-07-04T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "超ゼンマイロボ パトラッシュ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超发条机器人 帕特拉修"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://zenmairobo.com/",
+    "begin": "2013-12-06T16:00:00.000Z",
+    "broadcast": "R/2013-12-06T16:00:00.000Z/P7D",
+    "end": "2014-03-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "87727"
+      },
+      {
+        "site": "unext",
+        "id": "SID0056298",
+        "begin": "2021-03-31T03:00:00.000Z",
+        "broadcast": "R/2021-03-31T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "なめこ家の一族",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蘑菇家的一族",
+        "方吉家族"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2013-12-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2014-07-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "83796"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003184",
+        "begin": "2019-11-27T03:00:00.000Z",
+        "broadcast": "R/2019-11-27T03:00:00.000Z/P7D"
       }
     ]
   }

@@ -16,6 +16,12 @@
       {
         "site": "bangumi",
         "id": "35982"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003329",
+        "begin": "2019-05-01T03:00:00.000Z",
+        "broadcast": "R/2019-05-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -60,6 +66,13 @@
       {
         "site": "bangumi",
         "id": "117898"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012891",
+        "begin": "",
+        "broadcast": "",
+        "comment": "HDリマスター: SID0095308"
       }
     ]
   },
@@ -193,6 +206,39 @@
         "site": "letv",
         "id": "71772",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0038964",
+        "begin": "2020-04-26T03:00:00.000Z",
+        "broadcast": "R/2020-04-26T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ONE PIECE 呪われた聖剣",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海贼王 被诅咒的圣剑"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/movie/2004_onepiece/",
+    "begin": "2004-03-05T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2004-03-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1990"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011128",
+        "begin": "2019-07-01T03:00:00.000Z",
+        "broadcast": "R/2019-07-01T03:00:00.000Z/P7D"
       }
     ]
   }

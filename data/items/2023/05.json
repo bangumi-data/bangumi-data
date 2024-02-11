@@ -69,6 +69,12 @@
         "id": "128661",
         "begin": "2023-07-24T06:30:00.000Z",
         "broadcast": "R/2023-07-24T06:30:00.000Z/P0D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0087854",
+        "begin": "2023-06-23T03:00:00.000Z",
+        "broadcast": "R/2023-06-23T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -103,6 +109,12 @@
       {
         "site": "nicovideo",
         "id": "stand-myheroes-wom",
+        "begin": "2023-05-24T03:00:00.000Z",
+        "broadcast": "R/2023-05-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0086740",
         "begin": "2023-05-24T03:00:00.000Z",
         "broadcast": "R/2023-05-24T03:00:00.000Z/P7D"
       }
@@ -161,6 +173,85 @@
         "id": "idolish7-film-btp",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0096385",
+        "begin": "2023-12-24T15:00:00.000Z",
+        "broadcast": "R/2023-12-24T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 PSYCHO-PASS サイコパス PROVIDENCE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 心理测量者 PROVIDENCE"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://psycho-pass.com",
+    "begin": "2023-05-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-05-11T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "396302"
+      },
+      {
+        "site": "unext",
+        "id": "SID0095783",
+        "begin": "2023-11-21T15:00:00.000Z",
+        "broadcast": "R/2023-11-21T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "アムリタの饗宴",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.amrita-movie.com/",
+    "begin": "2023-05-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-05-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "405679"
+      },
+      {
+        "site": "unext",
+        "id": "SID0096762",
+        "begin": "2024-01-10T03:00:00.000Z",
+        "broadcast": "R/2024-01-10T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "永久少年 Eternal Boys 特別編集版",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://eternalboys.jp/",
+    "begin": "2023-05-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-05-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "425607"
+      },
+      {
+        "site": "unext",
+        "id": "SID0096713",
+        "begin": "2023-12-31T15:00:00.000Z",
+        "broadcast": "R/2023-12-31T15:00:00.000Z/P7D"
       }
     ]
   }

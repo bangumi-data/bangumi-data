@@ -44,6 +44,12 @@
         "id": "91280",
         "begin": "2023-02-10T02:30:00.000Z",
         "broadcast": "R/2023-02-10T02:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038983",
+        "begin": "2018-12-24T03:00:00.000Z",
+        "broadcast": "R/2018-12-24T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -74,6 +80,12 @@
         "id": "122632",
         "begin": "2018-08-08T16:00:00.000Z",
         "broadcast": "R/2018-08-08T16:00:02.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0035615",
+        "begin": "2018-07-22T03:00:00.000Z",
+        "broadcast": "R/2018-07-22T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -98,6 +110,12 @@
         "site": "nicovideo",
         "id": "haikarasan",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0034246",
+        "begin": "2018-04-25T03:00:00.000Z",
+        "broadcast": "R/2018-04-25T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -143,6 +161,12 @@
         "id": "114388",
         "begin": "2020-11-09T06:30:00.000Z",
         "broadcast": "R/2020-11-09T06:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047063",
+        "begin": "2020-03-13T03:00:00.000Z",
+        "broadcast": "R/2020-03-13T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -169,6 +193,12 @@
         "id": "121412",
         "begin": "2017-06-22T16:00:00.000Z",
         "broadcast": "R/2018-08-03T11:20:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0039152",
+        "begin": "2018-12-27T03:00:00.000Z",
+        "broadcast": "R/2018-12-27T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -195,6 +225,12 @@
         "id": "escha-chron",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0058301",
+        "begin": "2021-06-14T03:00:00.000Z",
+        "broadcast": "R/2021-06-14T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -228,6 +264,67 @@
         "id": "80180373",
         "begin": "2018-01-16T16:00:00.000Z",
         "broadcast": "R/2018-01-16T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0040735",
+        "begin": "2019-04-24T03:00:00.000Z",
+        "broadcast": "R/2019-04-24T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "Dance with Devils-Fortuna-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "与魔共舞-Fortuna-",
+        "与魔共舞 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://dwd-movie.com/",
+    "begin": "2017-11-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-11-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "207664"
+      },
+      {
+        "site": "unext",
+        "id": "SID0035476",
+        "begin": "2020-07-06T03:00:00.000Z",
+        "broadcast": "R/2020-07-06T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士ガンダム サンダーボルト BANDIT FLOWER",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达 雷霆宙域 BANDIT FLOWER"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://gundam-tb.net/",
+    "begin": "2017-11-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-11-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "219952"
+      },
+      {
+        "site": "unext",
+        "id": "SID0031538",
+        "begin": "2017-11-17T23:00:00.000Z",
+        "broadcast": "R/2017-11-17T23:00:00.000Z/P7D"
       }
     ]
   }

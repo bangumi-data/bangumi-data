@@ -24,6 +24,12 @@
       {
         "site": "bangumi",
         "id": "5432"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002816",
+        "begin": "2021-04-24T03:00:00.000Z",
+        "broadcast": "R/2021-04-24T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -63,6 +69,12 @@
         "site": "letv",
         "id": "29242",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0012330",
+        "begin": "2015-02-06T03:00:00.000Z",
+        "broadcast": "R/2015-02-06T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -116,6 +128,12 @@
         "site": "iqiyi",
         "id": "a_19rrhb4015",
         "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010771",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -140,6 +158,12 @@
         "site": "iqiyi",
         "id": "a_19rrhb405h",
         "begin": "2016-02-04T10:33:39.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002664",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -209,6 +233,33 @@
         "site": "pptv",
         "id": "ToF7ibWHHN3XYVr4",
         "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "けろけろけろっぴのぼくたちのたからもの",
+    "titleTranslate": {
+      "zh-Hans": [
+        "可洛比 我们的宝藏"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-03-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1994-03-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "315674"
+      },
+      {
+        "site": "unext",
+        "id": "SID0093079",
+        "begin": "2023-10-01T03:00:00.000Z",
+        "broadcast": "R/2023-10-01T03:00:00.000Z/P7D"
       }
     ]
   }

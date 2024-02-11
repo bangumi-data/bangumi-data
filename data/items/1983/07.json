@@ -41,6 +41,12 @@
         "site": "bilibili",
         "id": "5600",
         "begin": "1983-06-30T16:00:01.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002880",
+        "begin": "2023-07-29T03:00:00.000Z",
+        "broadcast": "R/2023-07-29T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -89,6 +95,69 @@
         "site": "bilibili",
         "id": "2876",
         "begin": "1983-07-10T16:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038637",
+        "begin": "2018-12-29T03:00:00.000Z",
+        "broadcast": "R/2018-12-29T03:00:00.000Z/P7D",
+        "comment": "二期 #37-73: SID0038638"
+      }
+    ]
+  },
+  {
+    "title": "パタリロ! スターダスト計画",
+    "titleTranslate": {
+      "zh-Hans": [
+        "巴塔利洛 星尘计划",
+        "帕塔利洛！星尘计划"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1983-07-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1983-07-09T16:48:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "449224"
+      },
+      {
+        "site": "unext",
+        "id": "SID0043693",
+        "begin": "2019-12-05T03:00:00.000Z",
+        "broadcast": "R/2019-12-05T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "はだしのゲン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "赤足小子",
+        "赤脚阿元"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.madhouse.co.jp/works/1986-1983/works_movie_hadashi.html",
+    "begin": "1983-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1983-07-20T17:25:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "54297"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002788",
+        "begin": "2019-08-29T03:00:00.000Z",
+        "broadcast": "R/2019-08-29T03:00:00.000Z/P7D"
       }
     ]
   }

@@ -24,6 +24,12 @@
       {
         "site": "bangumi",
         "id": "5433"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016496",
+        "begin": "2021-04-24T03:00:00.000Z",
+        "broadcast": "R/2021-04-24T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -53,6 +59,12 @@
         "site": "iqiyi",
         "id": "a_19rrhb4015",
         "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010773",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -77,6 +89,12 @@
         "site": "iqiyi",
         "id": "a_19rrhb405h",
         "begin": "2016-02-04T10:33:39.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002662",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -148,6 +166,33 @@
         "id": "m/mzc00200rpjb37v",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "ママレード・ボーイ 劇場版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "橘子酱男孩 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1995-03-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1995-03-03T16:26:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "318275"
+      },
+      {
+        "site": "unext",
+        "id": "SID0069612",
+        "begin": "2022-06-27T03:00:00.000Z",
+        "broadcast": "R/2022-06-27T03:00:00.000Z/P7D"
       }
     ]
   }

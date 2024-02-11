@@ -24,6 +24,12 @@
       {
         "site": "bangumi",
         "id": "196053"
+      },
+      {
+        "site": "unext",
+        "id": "SID0054382",
+        "begin": "2021-01-07T03:00:00.000Z",
+        "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -58,6 +64,12 @@
         "site": "nicovideo",
         "id": "anime-ryu",
         "begin": "2017-02-10T09:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028480",
+        "begin": "2017-02-26T03:00:00.000Z",
+        "broadcast": "R/2017-02-26T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -132,6 +144,12 @@
         "site": "youku",
         "id": "9b274b3ad30811e6b9bb",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0028761",
+        "begin": "2021-05-01T03:00:00.000Z",
+        "broadcast": "R/2021-05-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -172,6 +190,12 @@
         "site": "youku",
         "id": "8635adbbee8a11e68ce4",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0029754",
+        "begin": "2017-08-02T03:00:00.000Z",
+        "broadcast": "R/2017-08-02T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -214,6 +238,12 @@
       {
         "site": "bangumi",
         "id": "210806"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028168",
+        "begin": "2019-11-23T03:00:00.000Z",
+        "broadcast": "R/2019-11-23T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -238,6 +268,12 @@
       {
         "site": "bangumi",
         "id": "203325"
+      },
+      {
+        "site": "unext",
+        "id": "SID0039472",
+        "begin": "2019-05-02T03:00:00.000Z",
+        "broadcast": "R/2019-05-02T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -283,6 +319,12 @@
         "id": "15132",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0032241",
+        "begin": "2017-12-20T03:00:00.000Z",
+        "broadcast": "R/2017-12-20T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -317,6 +359,12 @@
         "site": "youku",
         "id": "d08b10cad89e11e6967c",
         "begin": "2017-03-17T02:58:05.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028804",
+        "begin": "2017-03-24T03:00:00.000Z",
+        "broadcast": "R/2017-03-24T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -341,6 +389,12 @@
         "site": "letv",
         "id": "10037653",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0049599",
+        "begin": "2020-07-20T03:00:00.000Z",
+        "broadcast": "R/2020-07-20T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -422,6 +476,66 @@
         "id": "h3CMH0G3ouOB",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0047061",
+        "begin": "2020-03-13T03:00:00.000Z",
+        "broadcast": "R/2020-03-13T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ゆゆ式 OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "悠悠式 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.yuyushiki.net/",
+    "begin": "2017-02-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-02-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "175533"
+      },
+      {
+        "site": "unext",
+        "id": "SID0045127",
+        "begin": "2019-12-24T03:00:00.000Z",
+        "broadcast": "R/2019-12-24T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "LUPIN THE IIIRD 血煙の石川五ェ門",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世 血烟的石川五右卫门"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://goemon-ishikawa.com/",
+    "begin": "2017-02-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-02-03T16:53:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "192442"
+      },
+      {
+        "site": "unext",
+        "id": "SID0032581",
+        "begin": "2017-12-27T03:00:00.000Z",
+        "broadcast": "R/2017-12-27T03:00:00.000Z/P7D"
       }
     ]
   }

@@ -33,6 +33,12 @@
         "id": "70014613",
         "begin": "2021-06-16T16:00:00.000Z",
         "broadcast": "R/2021-06-16T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012952",
+        "begin": "2008-10-31T15:00:00.000Z",
+        "broadcast": "R/2008-10-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -93,6 +99,62 @@
       {
         "site": "bangumi",
         "id": "73928"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010778",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 おはよう!スパンク",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 小狗亚斑"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1982-03-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1982-03-12T16:01:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "375087"
+      },
+      {
+        "site": "unext",
+        "id": "SID0042359",
+        "begin": "2019-08-09T03:00:00.000Z",
+        "broadcast": "R/2019-08-09T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "新ど根性ガエル ど根性・夢枕",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1982-03-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1982-03-19T16:01:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "159760"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038642",
+        "begin": "2019-01-10T03:00:00.000Z",
+        "broadcast": "R/2019-01-10T03:00:00.000Z/P7D"
       }
     ]
   }

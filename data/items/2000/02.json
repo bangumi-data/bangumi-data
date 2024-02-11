@@ -40,6 +40,12 @@
       {
         "site": "bangumi",
         "id": "14876"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002499",
+        "begin": "2019-11-09T03:00:00.000Z",
+        "broadcast": "R/2019-11-09T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -64,6 +70,33 @@
       {
         "site": "bangumi",
         "id": "40074"
+      }
+    ]
+  },
+  {
+    "title": "マイアミ☆ガンズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "风云爆弹娘"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2000-02-04T16:00:00.000Z",
+    "broadcast": "R/2000-02-04T16:00:00.000Z/P7D",
+    "end": "2000-05-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "88750"
+      },
+      {
+        "site": "unext",
+        "id": "SID0052117",
+        "begin": "2020-11-03T03:00:00.000Z",
+        "broadcast": "R/2020-11-03T03:00:00.000Z/P7D"
       }
     ]
   }

@@ -25,6 +25,12 @@
       {
         "site": "bangumi",
         "id": "985"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012887",
+        "begin": "2008-10-16T06:00:00.000Z",
+        "broadcast": "R/2008-10-16T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -49,6 +55,12 @@
       {
         "site": "bangumi",
         "id": "76800"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014785",
+        "begin": "2023-05-01T03:00:00.000Z",
+        "broadcast": "R/2023-05-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -126,6 +138,12 @@
       {
         "site": "bangumi",
         "id": "5468"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014753",
+        "begin": "2021-11-17T03:00:00.000Z",
+        "broadcast": "R/2021-11-17T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -155,6 +173,33 @@
         "site": "bilibili",
         "id": "2334",
         "begin": "1993-04-05T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "今日から俺は!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我是大哥大"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-03-31T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1997-12-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "13618"
+      },
+      {
+        "site": "unext",
+        "id": "SID0049033",
+        "begin": "2021-08-30T03:00:00.000Z",
+        "broadcast": "R/2021-08-30T03:00:00.000Z/P7D"
       }
     ]
   }

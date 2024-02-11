@@ -25,6 +25,12 @@
         "begin": "1983-10-01T16:00:00.000Z",
         "broadcast": "R/2013-12-02T13:16:32.000Z/P7D",
         "comment": "OVA: 4056"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003358",
+        "begin": "2019-08-30T03:00:00.000Z",
+        "broadcast": "R/2019-08-30T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -40,6 +46,12 @@
       {
         "site": "bangumi",
         "id": "213668"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003304",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -121,6 +133,61 @@
       {
         "site": "bangumi",
         "id": "105860"
+      }
+    ]
+  },
+  {
+    "title": "特装機兵ドルバック",
+    "titleTranslate": {
+      "zh-Hans": [
+        "特装机兵多尔巴克"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://lineup.toei-anim.co.jp/ja/tv/arbegas/",
+    "begin": "1983-10-06T16:00:00.000Z",
+    "broadcast": "R/1983-10-06T16:00:00.000Z/P7D",
+    "end": "1984-07-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37233"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004314",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D",
+        "comment": "OVA: SID0004308"
+      }
+    ]
+  },
+  {
+    "title": "ふしぎの国のアリス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "爱丽思梦游记"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1983-10-09T16:00:00.000Z",
+    "broadcast": "R/1983-10-09T16:00:00.000Z/P7D",
+    "end": "1984-03-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "195914"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002406",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   }
