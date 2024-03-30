@@ -13,9 +13,7 @@
     "lint": "eslint script/ --quiet",
     "validate": "node script/validate.js",
     "test": "npm run lint && npm run validate",
-    "preversion": "npm run test",
-    "version": "npm run build && git add -A dist",
-    "postversion": "git push && git push --tags && npm publish"
+    "prepublishOnly": "npm run build"
   },
   "repository": {
     "type": "git",
