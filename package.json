@@ -34,9 +34,10 @@
     "eslint": "^8.6.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.25.4",
-    "fs-extra": "^10.0.0",
+    "fs-extra": "^11.2.0",
     "joi": "^13.7.0",
     "klaw": "^4.0.1",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "semantic-release": "^23.0.6"
   }
 }

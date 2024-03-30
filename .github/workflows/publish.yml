@@ -1,9 +1,7 @@
-name: Test
+name: Publish
 
 on:
   push:
-    branches: [ "master" ]
-  pull_request:
     branches: [ "master" ]
 
 jobs:
@@ -23,5 +21,5 @@ jobs:
     - name: Install Dependencies
       run: npm ci
 
-    - name: Run Tests
-      run: npm test
+    - name: Release
+      run: npx semantic-release
