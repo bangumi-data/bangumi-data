@@ -245,6 +245,12 @@
         "id": "35-46",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099893",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -291,6 +297,36 @@
         "id": "SID0089835",
         "begin": "2023-08-05T03:00:00.000Z",
         "broadcast": "R/2023-08-05T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "おしりたんてい テントウムシいせきの なぞ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "屁屁侦探 瓢虫遗迹之谜"
+      ],
+      "zh-Hant": [
+        "屁屁偵探：瓢蟲遺蹟之謎"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.oshiri-tantei.com/",
+    "begin": "2020-08-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-08-13T16:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "341389"
+      },
+      {
+        "site": "gamer",
+        "id": "113085",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

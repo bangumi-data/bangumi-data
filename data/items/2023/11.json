@@ -245,5 +245,32 @@
         "comment": "中配: 21128787"
       }
     ]
+  },
+  {
+    "title": "銀魂オンシアター2D バラガキ篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银魂ON THEATER 2D 荆棘流氓篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://bn-pictures.co.jp/gintama/on_theater_2d/",
+    "begin": "2023-11-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-11-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "453179"
+      },
+      {
+        "site": "unext",
+        "id": "SID0099821",
+        "begin": "2024-03-26T15:00:00.000Z",
+        "broadcast": "R/2024-03-26T15:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

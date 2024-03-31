@@ -620,6 +620,12 @@
         "id": "SID0045321",
         "begin": "2020-01-16T15:00:00.000Z",
         "broadcast": "R/2020-01-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "149-7",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2339,6 +2345,12 @@
         "id": "SID0047955",
         "begin": "2020-05-28T15:00:00.000Z",
         "broadcast": "R/2020-05-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjJRtW-6ARI19jYmjSNC028",
+        "begin": "2024-04-07T16:00:00.000Z",
+        "broadcast": "R/2024-04-07T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -2493,6 +2505,29 @@
         "id": "SID0045503",
         "begin": "2020-03-06T03:00:00.000Z",
         "broadcast": "R/2020-03-06T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "大怪獣ゴメラVS仮面ヤイバー",
+    "titleTranslate": {
+      "zh-Hant": [
+        "名偵探柯南：大怪獸哥梅拉 VS 假面超人"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.ytv.co.jp/conan/gomeravsyaiba-/",
+    "begin": "2020-01-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-01-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "gamer",
+        "id": "108932",
+        "begin": "2022-07-29T08:20:00.000Z",
+        "broadcast": "R/2022-07-29T08:20:00.000Z/P7D"
       }
     ]
   }

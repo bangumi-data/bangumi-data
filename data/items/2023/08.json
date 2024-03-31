@@ -100,6 +100,18 @@
         "id": "SID0096735",
         "begin": "2023-12-19T15:00:00.000Z",
         "broadcast": "R/2023-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "106-4",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "eupho-ensemble-contest",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -127,6 +139,43 @@
         "id": "SID0091402",
         "begin": "2023-08-24T11:00:00.000Z",
         "broadcast": "R/2023-08-24T11:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 ～とべとべ手巻き寿司～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新：新次元！超能力大决战",
+        "新次元！蜡笔小新 THE MOVIE 超能力大决战 ~飞翔飞翔手卷寿司~"
+      ],
+      "zh-Hant": [
+        "新次元！蠟筆小新電影超能力大決戰~飛吧！手卷壽司~"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.shinchan-movie.com/",
+    "begin": "2023-08-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-08-03T17:34:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "410418"
+      },
+      {
+        "site": "gamer",
+        "id": "129181",
+        "begin": "2024-03-07T04:00:00.000Z",
+        "broadcast": "R/2024-03-07T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0099902",
+        "begin": "2024-03-06T03:00:00.000Z",
+        "broadcast": "R/2024-03-06T03:00:00.000Z/P7D"
       }
     ]
   }

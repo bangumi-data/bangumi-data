@@ -138,6 +138,12 @@
         "id": "SID0041792",
         "begin": "2019-07-12T15:30:00.000Z",
         "broadcast": "R/2019-07-12T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjJRtW-6ARI19jYmjSNC028",
+        "begin": "2024-03-25T16:00:00.000Z",
+        "broadcast": "R/2024-03-25T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -2611,6 +2617,29 @@
         "id": "SID0042608",
         "begin": "2019-08-23T03:00:00.000Z",
         "broadcast": "R/2019-08-23T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "Walking Meat",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://walking-meat.com/",
+    "begin": "2019-07-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-07-18T16:20:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "283250"
+      },
+      {
+        "site": "abema",
+        "id": "669-1",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

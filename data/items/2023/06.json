@@ -324,5 +324,32 @@
         "broadcast": "R/2023-09-22T15:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "永久少年 Eternal Boys NEXT STAGE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "永久少年 Eternal Boys NEXT STAGE"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://eternalboys.jp/nextstage/",
+    "begin": "2023-06-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-06-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "425604"
+      },
+      {
+        "site": "unext",
+        "id": "SID0099225",
+        "begin": "2024-03-08T15:00:00.000Z",
+        "broadcast": "R/2024-03-08T15:00:00.000Z/P7D"
+      }
+    ]
   }
 ]
