@@ -65,6 +65,12 @@
         "id": "PRIDE_the_HERO",
         "begin": "2018-02-01T15:00:00.000Z",
         "broadcast": "R/2018-02-01T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0033458",
+        "begin": "2018-02-15T03:00:00.000Z",
+        "broadcast": "R/2018-02-15T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -115,6 +121,12 @@
         "id": "25-101",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0034206",
+        "begin": "2018-04-25T03:00:00.000Z",
+        "broadcast": "R/2018-04-25T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -192,6 +204,39 @@
         "id": "chaos-child-silent-sky",
         "begin": "2022-01-31T15:00:00.000Z",
         "broadcast": "R/2022-01-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0042769",
+        "begin": "2019-09-05T03:00:00.000Z",
+        "broadcast": "R/2019-09-05T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "Mutafukaz",
+    "titleTranslate": {
+      "zh-Hans": [
+        "外星人狙击战"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.mutafukaz.com/",
+    "begin": "2017-06-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-06-12T16:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "218868"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044434",
+        "begin": "2019-12-03T03:00:00.000Z",
+        "broadcast": "R/2019-12-03T03:00:00.000Z/P7D"
       }
     ]
   }

@@ -20,6 +20,12 @@
       {
         "site": "bangumi",
         "id": "20831"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004809",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -40,6 +46,12 @@
       {
         "site": "bangumi",
         "id": "213634"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038640",
+        "begin": "2019-01-10T03:00:00.000Z",
+        "broadcast": "R/2019-01-10T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -59,6 +71,68 @@
       {
         "site": "bangumi",
         "id": "131172"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004925",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "プロゴルファー猿",
+    "titleTranslate": {
+      "zh-Hans": [
+        "球场小神将",
+        "职业高尔夫猿"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-04-01T16:00:00.000Z",
+    "broadcast": "R/1985-04-01T16:00:00.000Z/P7D",
+    "end": "1988-03-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "189441"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004803",
+        "begin": "2016-02-18T15:00:00.000Z",
+        "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "へーい!ブンブー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "奔奔",
+        "嘿！奔奔"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-04-07T16:00:00.000Z",
+    "broadcast": "R/1985-04-07T16:00:00.000Z/P7D",
+    "end": "1986-03-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "39026"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003334",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   }

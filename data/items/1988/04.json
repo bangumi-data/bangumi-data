@@ -81,6 +81,12 @@
         "id": "4013",
         "begin": "1988-04-24T16:00:01.000Z",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0014488",
+        "begin": "2018-06-04T03:00:00.000Z",
+        "broadcast": "R/2018-06-04T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -141,6 +147,12 @@
       {
         "site": "bangumi",
         "id": "37511"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004315",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -247,6 +259,66 @@
         "id": "2416",
         "begin": "2020-04-26T09:57:00.000Z",
         "broadcast": "R/2020-04-26T09:57:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013054",
+        "begin": "2008-11-14T06:00:00.000Z",
+        "broadcast": "R/2008-11-14T06:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "いきなりダゴン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "昆虫战士"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-04-08T16:00:00.000Z",
+    "broadcast": "R/1988-04-08T16:00:00.000Z/P7D",
+    "end": "1988-06-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "81529"
+      },
+      {
+        "site": "unext",
+        "id": "SID0056002",
+        "begin": "2021-04-26T03:00:00.000Z",
+        "broadcast": "R/2021-04-26T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "トッポジージョ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "飞飞鼠"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-04-26T16:00:00.000Z",
+    "broadcast": "R/1988-04-26T16:00:00.000Z/P7D",
+    "end": "1988-09-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "188708"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002396",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   }

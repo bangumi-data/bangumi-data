@@ -36,6 +36,12 @@
         "id": "108371",
         "begin": "2020-02-21T09:30:00.000Z",
         "broadcast": "R/2020-02-21T09:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047510",
+        "begin": "2024-02-01T03:00:00.000Z",
+        "broadcast": "R/2024-02-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -204,6 +210,101 @@
         "id": "haikyu-figure-animation",
         "begin": "2023-12-14T15:00:00.000Z",
         "broadcast": "R/2023-12-14T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0096784",
+        "begin": "2023-12-14T15:00:00.000Z",
+        "broadcast": "R/2023-12-14T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-185",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "PSYCHO-PASS サイコパス 3 FIRST INSPECTOR",
+    "titleTranslate": {
+      "zh-Hans": [
+        "心理测量者3 FIRST INSPECTOR",
+        "心理测量者 第三季 FIRST INSPECTOR",
+        "PSYCHO-PASS 第三季 FIRST INSPECTOR"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://psycho-pass.com/",
+    "begin": "2020-03-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-03-26T18:15:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "296308"
+      },
+      {
+        "site": "unext",
+        "id": "SID0051545",
+        "begin": "2023-10-14T15:00:00.000Z",
+        "broadcast": "R/2023-10-14T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "大家さんと僕",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www6.nhk.or.jp/nhkpr/post/original.html?i=22382",
+    "begin": "2020-03-01T16:00:00.000Z",
+    "broadcast": "R/2020-03-01T16:00:00.000Z/P7D",
+    "end": "2021-03-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "303679"
+      },
+      {
+        "site": "unext",
+        "id": "SID0065474",
+        "begin": "2022-02-11T03:00:00.000Z",
+        "broadcast": "R/2022-02-11T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "アイカツオンパレード！ドリームストーリー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "偶像活动 on Parade Dream Story",
+        "偶活学园 on Parade！Dream Story",
+        "偶像活动 on Parade 特別篇",
+        "偶像活动盛装大巡游特别篇",
+        "偶像活动大游行 Web动画"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.aikatsu.net/webanime/",
+    "begin": "2020-03-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-07-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302549"
+      },
+      {
+        "site": "unext",
+        "id": "SID0053706",
+        "begin": "2023-01-02T15:00:00.000Z",
+        "broadcast": "R/2023-01-02T15:00:00.000Z/P7D"
       }
     ]
   }

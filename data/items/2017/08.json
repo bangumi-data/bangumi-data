@@ -41,6 +41,12 @@
         "id": "26-2mzbynr-cph",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0038181",
+        "begin": "2018-11-10T03:00:00.000Z",
+        "broadcast": "R/2018-11-10T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -130,6 +136,12 @@
         "id": "8232",
         "begin": "2017-11-14T16:00:00.000Z",
         "broadcast": "R/2017-11-14T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0034132",
+        "begin": "2018-04-16T03:00:00.000Z",
+        "broadcast": "R/2018-04-16T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -154,6 +166,12 @@
         "site": "iqiyi",
         "id": "a_19rrhcx3xx",
         "begin": "2017-08-27T08:38:21.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0035255",
+        "begin": "2018-06-01T03:00:00.000Z",
+        "broadcast": "R/2018-06-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -210,6 +228,12 @@
         "id": "19-48",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0050585",
+        "begin": "2020-08-19T03:00:00.000Z",
+        "broadcast": "R/2020-08-19T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -251,6 +275,12 @@
         "id": "PLC18xlbCdwtQkQG0uR6Bh3-G37Y2JxT34",
         "begin": "2022-12-23T16:00:00.000Z",
         "broadcast": "R/2022-12-23T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0045257",
+        "begin": "2020-01-10T03:00:00.000Z",
+        "broadcast": "R/2020-01-10T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -277,6 +307,12 @@
         "id": "125312",
         "begin": "2017-08-24T16:00:00.000Z",
         "broadcast": "R/2018-08-15T04:36:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0031111",
+        "begin": "2017-09-22T03:00:00.000Z",
+        "broadcast": "R/2017-09-22T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -303,6 +339,12 @@
         "id": "127452",
         "begin": "2017-08-03T16:00:00.000Z",
         "broadcast": "R/2018-08-22T07:43:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0031115",
+        "begin": "2023-01-19T15:00:00.000Z",
+        "broadcast": "R/2023-01-19T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -344,6 +386,12 @@
         "id": "28227648",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0033796",
+        "begin": "2020-05-01T03:00:00.000Z",
+        "broadcast": "R/2020-05-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -374,6 +422,61 @@
         "id": "134251",
         "begin": "2023-08-04T03:40:00.000Z",
         "broadcast": "R/2023-08-04T03:40:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "きみの声をとどけたい",
+    "titleTranslate": {
+      "zh-Hans": [
+        "想要传达你的声音",
+        "想要传递你的声音"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kimikoe.com/movie/",
+    "begin": "2017-08-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-08-24T17:34:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "189546"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047549",
+        "begin": "2020-04-24T03:00:00.000Z",
+        "broadcast": "R/2020-04-24T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "枪娘！FIRE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "枪娘！FIRE"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://qnfire.qq.com",
+    "begin": "2017-08-17T16:00:00.000Z",
+    "broadcast": "R/2017-08-17T16:00:00.000Z/P7D",
+    "end": "2017-11-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "195663"
+      },
+      {
+        "site": "unext",
+        "id": "SID0032021",
+        "begin": "2020-03-31T15:00:00.000Z",
+        "broadcast": "R/2020-03-31T15:00:00.000Z/P7D"
       }
     ]
   }

@@ -38,6 +38,12 @@
         "id": "doukichan-anime",
         "begin": "2022-05-31T15:00:00.000Z",
         "broadcast": "R/2022-05-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0067618",
+        "begin": "2022-04-11T03:00:00.000Z",
+        "broadcast": "R/2022-04-11T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -84,6 +90,12 @@
         "id": "tawawa-anime",
         "begin": "2022-05-31T15:00:00.000Z",
         "broadcast": "R/2022-05-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0067617",
+        "begin": "2022-04-11T03:00:00.000Z",
+        "broadcast": "R/2022-04-11T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -171,6 +183,12 @@
         "id": "PLuxqoToY7UciceC14F8-9VyfN1xuSJt_d",
         "begin": "2021-12-29T16:00:00.000Z",
         "broadcast": "R/2021-12-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0066035",
+        "begin": "2022-03-30T03:00:00.000Z",
+        "broadcast": "R/2022-03-30T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -203,6 +221,12 @@
         "id": "81236338",
         "begin": "2021-09-29T16:00:00.000Z",
         "broadcast": "R/2021-09-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0088178",
+        "begin": "2023-07-01T03:00:00.000Z",
+        "broadcast": "R/2023-07-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -239,6 +263,12 @@
         "id": "28366421",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0068542",
+        "begin": "2022-04-19T15:00:00.000Z",
+        "broadcast": "R/2022-04-19T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -274,6 +304,71 @@
         "id": "54-82",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0084903",
+        "begin": "2023-04-05T12:00:00.000Z",
+        "broadcast": "R/2023-04-05T12:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "リョーマ！The Prince of Tennis 新生劇場版テニスの王子様",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙马！新生网球王子",
+        "新网球王子 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://gaga.ne.jp/RYOMA_MOVIE",
+    "begin": "2021-09-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-09-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "195333"
+      },
+      {
+        "site": "unext",
+        "id": "SID0064799",
+        "begin": "2023-07-05T15:00:00.000Z",
+        "broadcast": "R/2023-07-05T15:00:00.000Z/P7D",
+        "comment": "Glory, Decide: SID0064798"
+      }
+    ]
+  },
+  {
+    "title": "プリンセス・プリンシパル Crown Handler 第2章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Princess Principal Crown Handler 第2章",
+        "公主代理人 Crown Handler 第2章",
+        "公主委托人 Crown Handler 第2章",
+        "公主准则 Crown Handler 第2章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.pripri-anime.jp",
+    "begin": "2021-09-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-09-22T16:55:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "244929"
+      },
+      {
+        "site": "unext",
+        "id": "SID0064927",
+        "begin": "2021-12-12T15:00:00.000Z",
+        "broadcast": "R/2021-12-12T15:00:00.000Z/P7D"
       }
     ]
   }

@@ -116,6 +116,12 @@
         "id": "118347",
         "begin": "2021-07-02T02:40:00.000Z",
         "broadcast": "R/2021-07-02T02:40:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018946",
+        "begin": "2019-04-06T03:00:00.000Z",
+        "broadcast": "R/2019-04-06T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -162,6 +168,12 @@
         "id": "30-9",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0022658",
+        "begin": "2018-09-01T03:00:00.000Z",
+        "broadcast": "R/2018-09-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -208,6 +220,12 @@
       {
         "site": "bangumi",
         "id": "112770"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018760",
+        "begin": "2020-05-21T03:00:00.000Z",
+        "broadcast": "R/2020-05-21T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -256,6 +274,45 @@
         "id": "28230704",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0039266",
+        "begin": "2019-01-04T03:00:00.000Z",
+        "broadcast": "R/2019-01-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "13-54",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "攻殻機動隊ARISE Pyrophoric Cult",
+    "titleTranslate": {
+      "zh-Hans": [
+        "攻壳机动队ARISE border:5 Pyrophoric Cult"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://kokaku-a.jp/tv/index.html",
+    "begin": "2015-06-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2015-06-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "384634"
+      },
+      {
+        "site": "unext",
+        "id": "SID0019050",
+        "begin": "2015-08-26T06:00:00.000Z",
+        "broadcast": "R/2015-08-26T06:00:00.000Z/P7D"
       }
     ]
   }

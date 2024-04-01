@@ -33,6 +33,12 @@
         "site": "nicovideo",
         "id": "demonbane",
         "begin": "2019-12-13T06:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0096729",
+        "begin": "2024-01-10T03:00:00.000Z",
+        "broadcast": "R/2024-01-10T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -88,6 +94,12 @@
         "id": "3572",
         "begin": "2016-04-12T06:24:00.000Z",
         "broadcast": "R/2016-04-12T06:24:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013379",
+        "begin": "2018-04-20T03:00:00.000Z",
+        "broadcast": "R/2018-04-20T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -114,6 +126,86 @@
         "id": "4916",
         "begin": "2016-06-17T09:15:00.000Z",
         "broadcast": "R/2016-06-17T09:15:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士ガンダムSEED DESTINY スペシャルエディション",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达SEED DESTINY Special Edition",
+        "机动战士高达SEED DESTINY 总集篇"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.gundam-seed-d.net/",
+    "begin": "2006-05-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2007-02-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "117899"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014499",
+        "begin": "",
+        "broadcast": "",
+        "comment": "HDリマスター: SID0095307"
+      }
+    ]
+  },
+  {
+    "title": "はなれの砦ヨナ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "远方城堡里的优娜",
+        "孤独之城的优娜"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2006-05-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2006-05-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "9324"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013606",
+        "begin": "2009-03-06T06:00:00.000Z",
+        "broadcast": "R/2009-03-06T06:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ニュー ハル&amp;ボンス",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2006-05-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2006-05-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "118798"
+      },
+      {
+        "site": "unext",
+        "id": "SID0043570",
+        "begin": "2019-10-07T03:00:00.000Z",
+        "broadcast": "R/2019-10-07T03:00:00.000Z/P7D"
       }
     ]
   }

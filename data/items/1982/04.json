@@ -15,6 +15,117 @@
       {
         "site": "bangumi",
         "id": "131173"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010708",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "パタリロ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "巴塔利洛",
+        "妙殿下"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/tv/patalliro/index.html",
+    "begin": "1982-04-07T16:00:00.000Z",
+    "broadcast": "R/1982-04-07T16:00:00.000Z/P7D",
+    "end": "1983-05-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "134714"
+      },
+      {
+        "site": "unext",
+        "id": "SID0043692",
+        "begin": "2019-12-05T03:00:00.000Z",
+        "broadcast": "R/2019-12-05T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "浮浪雲",
+    "titleTranslate": {
+      "zh-Hans": [
+        "浮浪云"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.madhouse.co.jp/works/1983-1973/works_movie_hagure.html",
+    "begin": "1982-04-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1982-04-23T17:35:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "54295"
+      },
+      {
+        "site": "unext",
+        "id": "SID0091520",
+        "begin": "2023-09-10T03:00:00.000Z",
+        "broadcast": "R/2023-09-10T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ゲームセンターあらし",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电子神童"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1982-04-04T16:00:00.000Z",
+    "broadcast": "R/1982-04-04T16:00:00.000Z/P7D",
+    "end": "1982-09-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220532"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002515",
+        "begin": "2016-02-18T15:00:00.000Z",
+        "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "トンデラハウスの大冒険",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1982-04-04T16:00:00.000Z",
+    "broadcast": "R/1982-04-04T16:00:00.000Z/P7D",
+    "end": "1983-03-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "115985"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017867",
+        "begin": "2022-04-19T03:00:00.000Z",
+        "broadcast": "R/2022-04-19T03:00:00.000Z/P7D"
       }
     ]
   }

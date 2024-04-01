@@ -124,6 +124,12 @@
         "id": "3475",
         "begin": "2010-09-09T16:00:00.000Z",
         "broadcast": "R/2016-03-22T05:09:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002860",
+        "begin": "2015-03-19T05:15:00.000Z",
+        "broadcast": "R/2015-03-19T05:15:00.000Z/P7D"
       }
     ]
   },
@@ -155,6 +161,12 @@
         "id": "4052",
         "begin": "2010-09-22T16:00:00.000Z",
         "broadcast": "R/2016-05-25T03:53:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003180",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -227,6 +239,35 @@
         "id": "3364",
         "begin": "2016-02-24T07:01:10.000Z",
         "broadcast": "R/2016-02-24T07:01:10.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 機動戦士ガンダム00 -A wakening of the Trailblazer-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达00 先驱者的觉醒",
+        "机动战士高达OO 觉醒的先驱者",
+        "机动战士高达00 -A wakening of the Trailblazer-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.gundam00.net/movie/index.php",
+    "begin": "2010-09-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2010-09-17T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "5972"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027523",
+        "begin": "2016-11-18T03:00:00.000Z",
+        "broadcast": "R/2016-11-18T03:00:00.000Z/P7D"
       }
     ]
   }

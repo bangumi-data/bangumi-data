@@ -11,6 +11,12 @@
       {
         "site": "bangumi",
         "id": "209692"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004913",
+        "begin": "2016-02-18T15:00:00.000Z",
+        "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -30,6 +36,12 @@
       {
         "site": "bangumi",
         "id": "90614"
+      },
+      {
+        "site": "unext",
+        "id": "SID0088542",
+        "begin": "2023-07-14T03:00:00.000Z",
+        "broadcast": "R/2023-07-14T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -64,6 +76,12 @@
         "site": "letv",
         "id": "9195",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0031152",
+        "begin": "2017-09-28T03:00:00.000Z",
+        "broadcast": "R/2017-09-28T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -101,6 +119,66 @@
         "id": "22793",
         "begin": "2021-08-13T06:00:00.000Z",
         "broadcast": "R/2021-08-13T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0019106",
+        "begin": "2020-12-08T03:00:00.000Z",
+        "broadcast": "R/2020-12-08T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 空の境界 第五章 矛盾螺旋",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 空之境界 第五章 矛盾螺旋"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.karanokyoukai.com/",
+    "begin": "2008-08-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2008-08-15T17:52:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1333"
+      },
+      {
+        "site": "unext",
+        "id": "SID0066397",
+        "begin": "2022-02-23T03:00:00.000Z",
+        "broadcast": "R/2022-02-23T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "コブラ ザ・サイコガン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哥普拉 精神感应枪"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2008-08-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2009-02-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "279354"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014860",
+        "begin": "2019-04-24T03:00:00.000Z",
+        "broadcast": "R/2019-04-24T03:00:00.000Z/P7D"
       }
     ]
   }

@@ -30,6 +30,12 @@
         "site": "bilibili",
         "id": "1975",
         "begin": "2003-05-07T16:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002676",
+        "begin": "2019-05-19T03:00:00.000Z",
+        "broadcast": "R/2019-05-19T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -105,6 +111,33 @@
       {
         "site": "bangumi",
         "id": "8300"
+      }
+    ]
+  },
+  {
+    "title": "PARASITE DOLLS",
+    "titleTranslate": {
+      "zh-Hans": [
+        "寄生魔偶"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2003-05-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2003-07-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "46954"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016402",
+        "begin": "2023-05-22T03:00:00.000Z",
+        "broadcast": "R/2023-05-22T03:00:00.000Z/P7D"
       }
     ]
   }

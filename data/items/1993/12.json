@@ -15,6 +15,12 @@
       {
         "site": "bangumi",
         "id": "5435"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003249",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -34,6 +40,12 @@
       {
         "site": "bangumi",
         "id": "27358"
+      },
+      {
+        "site": "unext",
+        "id": "SID0078560",
+        "begin": "2023-03-01T03:00:00.000Z",
+        "broadcast": "R/2023-03-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -84,6 +96,12 @@
         "id": "3993",
         "begin": "2016-05-16T05:49:00.000Z",
         "broadcast": "R/2016-05-16T05:49:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012536",
+        "begin": "2018-04-06T03:00:00.000Z",
+        "broadcast": "R/2018-04-06T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -150,6 +168,61 @@
         "id": "4004",
         "begin": "2016-05-17T07:06:00.000Z",
         "broadcast": "R/2016-05-17T07:06:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "紺碧の艦隊",
+    "titleTranslate": {
+      "zh-Hans": [
+        "绀碧舰队"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-12-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2003-10-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "121495"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002602",
+        "begin": "2019-11-29T03:00:00.000Z",
+        "broadcast": "R/2019-11-29T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ぼくの地球を守って",
+    "titleTranslate": {
+      "zh-Hans": [
+        "地球守护灵",
+        "守护我们的地球"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-12-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1994-09-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "35761"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002326",
+        "begin": "2019-11-30T03:00:00.000Z",
+        "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
       }
     ]
   }

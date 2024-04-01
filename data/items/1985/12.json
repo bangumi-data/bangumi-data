@@ -20,6 +20,12 @@
         "site": "iqiyi",
         "id": "a_19rrhb4kld",
         "begin": "2015-08-11T08:03:32.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003352",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -45,6 +51,33 @@
         "id": "5582",
         "begin": "2016-10-07T09:48:00.000Z",
         "broadcast": "R/2016-10-07T09:48:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "キン肉マン 晴れ姿!正義超人",
+    "titleTranslate": {
+      "zh-Hans": [
+        "筋肉人 愉快的身影！正义超人"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-12-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1985-12-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "215104"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003120",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   }

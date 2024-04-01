@@ -50,6 +50,12 @@
         "id": "526",
         "begin": "2022-02-18T03:00:00.000Z",
         "broadcast": "R/2022-02-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016635",
+        "begin": "2023-02-14T03:00:00.000Z",
+        "broadcast": "R/2023-02-14T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -74,6 +80,12 @@
       {
         "site": "bangumi",
         "id": "4482"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012889",
+        "begin": "2008-10-23T06:00:00.000Z",
+        "broadcast": "R/2008-10-23T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -103,6 +115,12 @@
         "site": "iqiyi",
         "id": "a_19rrhb4015",
         "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010765",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -153,6 +171,12 @@
         "id": "35-46",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099856",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -213,6 +237,84 @@
         "id": "57732",
         "begin": "2018-01-19T02:34:00.000Z",
         "broadcast": "R/2018-01-19T02:34:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "BURN-UP",
+    "titleTranslate": {
+      "zh-Hans": [
+        "杀人科"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-03-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-03-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "36808"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016211",
+        "begin": "2023-04-14T03:00:00.000Z",
+        "broadcast": "R/2023-04-14T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "武者・騎士・コマンド SDガンダム緊急出撃",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-03-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-03-15T16:14:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "279055"
+      },
+      {
+        "site": "unext",
+        "id": "SID0077807",
+        "begin": "2023-01-26T15:00:00.000Z",
+        "broadcast": "R/2023-01-26T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "まじかる☆タルるートくん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小魔星",
+        "幻法小魔星剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-03-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-03-08T16:51:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "416781"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016948",
+        "begin": "2022-10-18T03:00:00.000Z",
+        "broadcast": "R/2022-10-18T03:00:00.000Z/P7D"
       }
     ]
   }

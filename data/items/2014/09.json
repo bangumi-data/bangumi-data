@@ -25,6 +25,12 @@
       {
         "site": "bangumi",
         "id": "96787"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012505",
+        "begin": "2019-08-01T03:00:00.000Z",
+        "broadcast": "R/2019-08-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -94,6 +100,12 @@
       {
         "site": "bangumi",
         "id": "105214"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017693",
+        "begin": "2020-01-13T03:00:00.000Z",
+        "broadcast": "R/2020-01-13T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -301,6 +313,12 @@
         "id": "72236",
         "begin": "2021-07-02T02:40:00.000Z",
         "broadcast": "R/2021-07-02T02:40:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002966",
+        "begin": "2019-04-06T03:00:00.000Z",
+        "broadcast": "R/2019-04-06T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -333,6 +351,66 @@
         "id": "kokaku-arise",
         "begin": "2022-10-31T15:00:00.000Z",
         "broadcast": "R/2022-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014767",
+        "begin": "2020-05-21T03:00:00.000Z",
+        "broadcast": "R/2020-05-21T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 カードファイト!! ヴァンガード ネオンメサイア",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 卡片战斗先导者 Neon Messiah"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://vanguard-movie.com/neonmessiah/index.html",
+    "begin": "2014-09-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2014-09-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "107200"
+      },
+      {
+        "site": "unext",
+        "id": "SID0058929",
+        "begin": "2021-06-19T03:00:00.000Z",
+        "broadcast": "R/2021-06-19T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "姉ログ 靄子姉さんの止まらないモノローグ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "姐姐的妄想日记OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2014-09-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2015-04-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "118696"
+      },
+      {
+        "site": "unext",
+        "id": "SID0067783",
+        "begin": "2022-04-11T03:00:00.000Z",
+        "broadcast": "R/2022-04-11T03:00:00.000Z/P7D"
       }
     ]
   }

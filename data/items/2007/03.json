@@ -73,6 +73,12 @@
         "id": "26-22mgkkcnnsxd",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0032045",
+        "begin": "2020-04-08T03:00:00.000Z",
+        "broadcast": "R/2020-04-08T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -104,6 +110,12 @@
         "id": "1323",
         "begin": "2007-03-02T16:00:00.000Z",
         "broadcast": "R/2010-08-13T08:32:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017333",
+        "begin": "2023-10-31T15:00:00.000Z",
+        "broadcast": "R/2023-10-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -224,6 +236,12 @@
         "id": "2688",
         "begin": "2007-03-03T16:00:00.000Z",
         "broadcast": "R/2016-04-22T03:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013582",
+        "begin": "2015-05-01T05:15:00.000Z",
+        "broadcast": "R/2015-05-01T05:15:00.000Z/P7D"
       }
     ]
   },
@@ -284,6 +302,12 @@
         "id": "35-46",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099877",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -322,6 +346,12 @@
       {
         "site": "bangumi",
         "id": "1999"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012957",
+        "begin": "2019-07-01T03:00:00.000Z",
+        "broadcast": "R/2019-07-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -342,6 +372,12 @@
         "site": "nicovideo",
         "id": "mushiking-movie02",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0014777",
+        "begin": "2019-01-31T03:00:00.000Z",
+        "broadcast": "R/2019-01-31T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -402,6 +438,12 @@
         "id": "4820",
         "begin": "2007-03-16T16:00:01.000Z",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0014741",
+        "begin": "2019-03-08T03:00:00.000Z",
+        "broadcast": "R/2019-03-08T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -427,6 +469,60 @@
         "id": "1954",
         "begin": "2014-05-21T13:59:00.000Z",
         "broadcast": "R/2014-05-21T13:59:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "秘密結社 鷹の爪 THE MOVIE ~総統は二度死ぬ~",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2007-03-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2007-03-14T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "127131"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003253",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ぷちえゔぁ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "EVA爆笑学园",
+        "Q版EVA",
+        "福音小战士",
+        "新世纪福音战士原创网络动画：爆笑学园",
+        "新世纪福音战士ONA：爆笑学园"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.evangelion.co.jp/petit_eva/",
+    "begin": "2007-03-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2009-03-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "2682"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002836",
+        "begin": "2019-10-08T03:00:00.000Z",
+        "broadcast": "R/2019-10-08T03:00:00.000Z/P7D"
       }
     ]
   }

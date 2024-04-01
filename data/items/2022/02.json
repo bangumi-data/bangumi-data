@@ -24,6 +24,12 @@
       {
         "site": "bangumi",
         "id": "364932"
+      },
+      {
+        "site": "unext",
+        "id": "SID0065920",
+        "begin": "2022-02-08T15:00:00.000Z",
+        "broadcast": "R/2022-02-08T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -135,6 +141,12 @@
         "id": "fruba-prelude",
         "begin": "2022-07-01T03:00:00.000Z",
         "broadcast": "R/2022-07-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0068694",
+        "begin": "2022-05-01T03:00:00.000Z",
+        "broadcast": "R/2022-05-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -179,6 +191,12 @@
         "id": "25-230",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0071338",
+        "begin": "2022-08-01T03:00:00.000Z",
+        "broadcast": "R/2022-08-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -212,6 +230,12 @@
         "id": "104709",
         "begin": "2022-09-29T04:00:00.000Z",
         "broadcast": "R/2022-09-29T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0073483",
+        "begin": "2024-01-26T15:00:00.000Z",
+        "broadcast": "R/2024-01-26T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -240,6 +264,85 @@
         "id": "deemo-movie",
         "begin": "2022-11-08T15:00:00.000Z",
         "broadcast": "R/2022-11-08T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0075374",
+        "begin": "2022-11-08T15:00:00.000Z",
+        "broadcast": "R/2022-11-08T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "宇宙戦艦ヤマト2205 新たなる旅立ち 後章 -STASHA-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战舰大和号2205 新的出发 后篇 -STASHA-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://starblazers-yamato.net/index.html",
+    "begin": "2022-02-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-02-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "352905"
+      },
+      {
+        "site": "unext",
+        "id": "SID0067787",
+        "begin": "2022-03-29T03:00:00.000Z",
+        "broadcast": "R/2022-03-29T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "インド版 忍者ハットリくん",
+    "titleTranslate": {
+      "zh-Hant": [
+        "新 忍者哈特利 第五季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-01-31T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-01-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "gamer",
+        "id": "123985",
+        "begin": "2022-05-13T03:00:00.000Z",
+        "broadcast": "R/2022-05-13T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "インド版 忍者ハットリくん",
+    "titleTranslate": {
+      "zh-Hant": [
+        "新 忍者哈特利 第六季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-01-31T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-01-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "gamer",
+        "id": "124880",
+        "begin": "2022-06-15T03:00:00.000Z",
+        "broadcast": "R/2022-06-15T03:00:00.000Z/P7D"
       }
     ]
   }

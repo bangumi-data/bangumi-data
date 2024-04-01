@@ -45,6 +45,12 @@
       {
         "site": "bangumi",
         "id": "90390"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018506",
+        "begin": "2013-05-01T06:00:00.000Z",
+        "broadcast": "R/2013-05-01T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -84,6 +90,12 @@
         "site": "bilibili",
         "id": "2921",
         "begin": "2012-08-24T16:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017794",
+        "begin": "2024-01-31T15:00:00.000Z",
+        "broadcast": "R/2024-01-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -113,6 +125,12 @@
         "site": "bilibili",
         "id": "3812",
         "begin": "2012-08-22T16:00:01.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0085040",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -147,6 +165,12 @@
         "site": "bilibili",
         "id": "1659",
         "begin": "2012-08-03T16:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013602",
+        "begin": "2015-03-19T15:00:00.000Z",
+        "broadcast": "R/2015-03-19T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -244,6 +268,12 @@
         "site": "youku",
         "id": "65014bf8fc8e11e1a19e",
         "begin": "2013-04-15T08:55:34.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0029354",
+        "begin": "2017-05-01T03:00:00.000Z",
+        "broadcast": "R/2017-05-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -317,6 +347,90 @@
       {
         "site": "bangumi",
         "id": "184661"
+      }
+    ]
+  },
+  {
+    "title": "乙女はお姉さまに恋してる 2人のエルダー THE ANIMATION",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少女爱上姐姐 2人的Elder THE ANIMATION"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.fwinc.co.jp/ova_otoboku2/",
+    "begin": "2012-08-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2012-10-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10457"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004295",
+        "begin": "2015-03-19T05:30:00.000Z",
+        "broadcast": "R/2015-03-19T05:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "乃木坂春香の秘密 ふぃな〜れ♪",
+    "titleTranslate": {
+      "zh-Hans": [
+        "乃木坂春香的秘密 Finale♪"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2012-08-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2012-11-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "47276"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044565",
+        "begin": "2020-05-14T03:00:00.000Z",
+        "broadcast": "R/2020-05-14T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "放課後ミッドナイターズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "放学后的MIDNIGHTERS",
+        "放学后的MIDNIGHT",
+        "放课后的午夜行者",
+        "怪诞校园之夜（港）"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://afterschool-midnighters.com/",
+    "begin": "2012-08-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2012-08-24T17:35:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "47025"
+      },
+      {
+        "site": "unext",
+        "id": "SID0069613",
+        "begin": "2022-06-27T03:00:00.000Z",
+        "broadcast": "R/2022-06-27T03:00:00.000Z/P7D"
       }
     ]
   }

@@ -27,6 +27,12 @@
         "id": "1113",
         "begin": "2011-02-09T05:17:00.000Z",
         "broadcast": "R/2011-02-09T05:17:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002669",
+        "begin": "2019-11-22T03:00:00.000Z",
+        "broadcast": "R/2019-11-22T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -62,6 +68,12 @@
         "id": "2306",
         "begin": "1996-04-04T16:00:00.000Z",
         "broadcast": "R/2012-11-22T08:31:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027055",
+        "begin": "2020-04-30T03:00:00.000Z",
+        "broadcast": "R/2020-04-30T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -116,6 +128,12 @@
         "site": "nicovideo",
         "id": "nube",
         "begin": "2015-01-14T15:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003503",
+        "begin": "2019-11-19T03:00:00.000Z",
+        "broadcast": "R/2019-11-19T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -145,6 +163,12 @@
       {
         "site": "bangumi",
         "id": "3633"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014492",
+        "begin": "2008-11-14T06:00:00.000Z",
+        "broadcast": "R/2008-11-14T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -170,6 +194,12 @@
         "id": "2298",
         "begin": "1996-04-03T16:00:00.000Z",
         "broadcast": "R/2012-10-12T08:59:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004812",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -215,6 +245,12 @@
         "id": "35-55",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010784",
+        "begin": "2024-03-06T03:00:00.000Z",
+        "broadcast": "R/2024-03-06T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -334,6 +370,12 @@
         "id": "3932",
         "begin": "1996-04-19T16:00:01.000Z",
         "broadcast": "R/2016-05-04T03:50:59.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0077516",
+        "begin": "2023-04-01T03:00:00.000Z",
+        "broadcast": "R/2023-04-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -410,6 +452,116 @@
         "id": "5708",
         "begin": "2016-11-22T02:46:00.000Z",
         "broadcast": "R/2016-11-22T02:46:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "新機動戦記ガンダムW ODD&amp;EVEN NUMBERSオペレーション・メテオ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新机动战记高达W 总集编"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.gundam-w.jp/",
+    "begin": "1996-04-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1996-10-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "36357"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013092",
+        "begin": "2008-10-31T15:00:00.000Z",
+        "broadcast": "R/2008-10-31T15:00:00.000Z/P7D",
+        "comment": "ＩＩ: SID0013091"
+      }
+    ]
+  },
+  {
+    "title": "BURN-UP W",
+    "titleTranslate": {
+      "zh-Hans": [
+        "杀人科 W"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-04-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1996-09-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "36809"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016213",
+        "begin": "2023-04-14T03:00:00.000Z",
+        "broadcast": "R/2023-04-14T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "タトゥーン★マスター",
+    "titleTranslate": {
+      "zh-Hans": [
+        "纹样传说",
+        "魔印传说"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-04-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1996-08-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "77746"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015587",
+        "begin": "2022-10-22T03:00:00.000Z",
+        "broadcast": "R/2022-10-22T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "シンデレラ物語",
+    "titleTranslate": {
+      "zh-Hans": [
+        "灰姑娘物语"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-04-03T16:00:00.000Z",
+    "broadcast": "R/1996-04-03T16:00:00.000Z/P7D",
+    "end": "1996-10-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "82383"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017872",
+        "begin": "2022-04-24T03:00:00.000Z",
+        "broadcast": "R/2022-04-24T03:00:00.000Z/P7D"
       }
     ]
   }

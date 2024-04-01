@@ -20,6 +20,12 @@
       {
         "site": "bangumi",
         "id": "396443"
+      },
+      {
+        "site": "unext",
+        "id": "SID0073683",
+        "begin": "2022-10-11T03:00:00.000Z",
+        "broadcast": "R/2022-10-11T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -95,6 +101,12 @@
         "id": "11-46",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0073132",
+        "begin": "2022-10-05T14:30:00.000Z",
+        "broadcast": "R/2022-10-05T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -171,6 +183,12 @@
         "id": "11-47",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0073130",
+        "begin": "2022-10-01T14:00:00.000Z",
+        "broadcast": "R/2022-10-01T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -241,6 +259,12 @@
         "id": "shippona-anime",
         "begin": "2022-10-03T03:00:00.000Z",
         "broadcast": "R/2022-10-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0073682",
+        "begin": "2022-10-03T03:00:00.000Z",
+        "broadcast": "R/2022-10-03T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -268,6 +292,12 @@
         "id": "169-122",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0085854",
+        "begin": "2023-04-21T03:00:00.000Z",
+        "broadcast": "R/2023-04-21T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -456,6 +486,12 @@
         "id": "gineiden-dnt-4",
         "begin": "2023-05-25T15:00:00.000Z",
         "broadcast": "R/2023-05-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0078836",
+        "begin": "2023-02-22T03:00:00.000Z",
+        "broadcast": "R/2023-02-22T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -486,6 +522,19 @@
         "id": "123695",
         "begin": "2023-04-28T03:00:00.000Z",
         "broadcast": "R/2023-04-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0078661",
+        "begin": "2023-02-01T03:00:00.000Z",
+        "broadcast": "R/2023-02-01T03:00:00.000Z/P7D",
+        "comment": "ありがとうver, 大好きver: SID0078665"
+      },
+      {
+        "site": "nicovideo",
+        "id": "utapri-movie2",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -520,6 +569,102 @@
         "id": "149-21",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0076941",
+        "begin": "2022-12-25T03:00:00.000Z",
+        "broadcast": "R/2022-12-25T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "特『刀剣乱舞-花丸-』～雪月華～華ノ巻",
+    "titleTranslate": {
+      "zh-Hans": [
+        "特『刀剑乱舞-花丸-』～雪月花～花之卷"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://toku.touken-hanamaru.jp/",
+    "begin": "2022-08-31T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-08-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "365706"
+      },
+      {
+        "site": "unext",
+        "id": "SID0077348",
+        "begin": "2023-01-25T03:00:00.000Z",
+        "broadcast": "R/2023-01-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "137621",
+        "begin": "2024-02-07T04:10:00.000Z",
+        "broadcast": "R/2024-02-07T04:10:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "夏へのトンネル、さよならの出口",
+    "titleTranslate": {
+      "zh-Hans": [
+        "通往夏天的隧道，再见的出口",
+        "通往夏日的隧道，离别的出口"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://natsuton.com",
+    "begin": "2022-09-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-09-08T17:28:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "362575"
+      },
+      {
+        "site": "unext",
+        "id": "SID0086585",
+        "begin": "2023-05-23T15:00:00.000Z",
+        "broadcast": "R/2023-05-23T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "映画 デリシャスパーティ♡プリキュア 夢みる♡お子さまランチ!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 美味派对♡光之美少女 梦想的♡儿童套餐！",
+        "电影 Delicious Party ♡ 光之美少女 梦想的♡儿童套餐！",
+        "美味派对♡光之美少女 剧场版 孩子们的午餐"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://2022.precure-movie.com/",
+    "begin": "2022-09-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-09-22T17:11:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "368456"
+      },
+      {
+        "site": "unext",
+        "id": "SID0098103",
+        "begin": "2024-02-01T03:00:00.000Z",
+        "broadcast": "R/2024-02-01T03:00:00.000Z/P7D"
       }
     ]
   }

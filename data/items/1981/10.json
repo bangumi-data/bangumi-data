@@ -54,6 +54,12 @@
         "site": "bilibili",
         "id": "2444",
         "begin": "1981-10-01T16:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0039468",
+        "begin": "2019-03-31T03:00:00.000Z",
+        "broadcast": "R/2019-03-31T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -69,6 +75,12 @@
       {
         "site": "bangumi",
         "id": "213652"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011761",
+        "begin": "2019-01-08T03:00:00.000Z",
+        "broadcast": "R/2019-01-08T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -88,6 +100,12 @@
       {
         "site": "bangumi",
         "id": "37196"
+      },
+      {
+        "site": "unext",
+        "id": "SID0020283",
+        "begin": "2015-11-26T03:00:00.000Z",
+        "broadcast": "R/2015-11-26T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -103,6 +121,12 @@
       {
         "site": "bangumi",
         "id": "213654"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011244",
+        "begin": "2016-03-03T03:00:00.000Z",
+        "broadcast": "R/2016-03-03T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -127,6 +151,61 @@
         "site": "bilibili",
         "id": "2439",
         "begin": "1981-10-22T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "Dogtanian and the Three Muskehounds",
+    "titleTranslate": {
+      "zh-Hans": [
+        "汤恩与三剑客",
+        "三个火枪手"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1981-10-08T16:00:00.000Z",
+    "broadcast": "R/1981-10-08T16:00:00.000Z/P7D",
+    "end": "1982-03-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "272058"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002395",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "アニメ 親子劇場",
+    "titleTranslate": {
+      "zh-Hans": [
+        "动画 亲子剧场"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://tatsunoko.co.jp/works/timebook",
+    "begin": "1981-10-08T16:00:00.000Z",
+    "broadcast": "R/1981-10-08T16:00:00.000Z/P7D",
+    "end": "1982-03-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "380722"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017866",
+        "begin": "2022-04-19T03:00:00.000Z",
+        "broadcast": "R/2022-04-19T03:00:00.000Z/P7D"
       }
     ]
   }

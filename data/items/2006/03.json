@@ -22,6 +22,12 @@
         "id": "1395",
         "begin": "2006-03-01T16:00:00.000Z",
         "broadcast": "R/2010-12-19T09:55:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003388",
+        "begin": "2019-09-01T03:00:00.000Z",
+        "broadcast": "R/2019-09-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -83,6 +89,13 @@
         "site": "youku",
         "id": "efc54e4261ad11e0bea1",
         "begin": "2013-03-06T06:15:28.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0042473",
+        "begin": "2019-08-10T03:00:00.000Z",
+        "broadcast": "R/2019-08-10T03:00:00.000Z/P7D",
+        "comment": "Semifinal: SID0042474, Final: SID0042475"
       }
     ]
   },
@@ -143,6 +156,12 @@
         "id": "35-46",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099876",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -167,6 +186,12 @@
       {
         "site": "bangumi",
         "id": "18779"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012901",
+        "begin": "2008-10-31T15:00:00.000Z",
+        "broadcast": "R/2008-10-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -196,6 +221,12 @@
         "site": "nicovideo",
         "id": "hokuto-no-ken",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0028274",
+        "begin": "2019-06-13T03:00:00.000Z",
+        "broadcast": "R/2019-06-13T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -215,6 +246,12 @@
       {
         "site": "bangumi",
         "id": "1995"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012956",
+        "begin": "2019-07-01T03:00:00.000Z",
+        "broadcast": "R/2019-07-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -303,6 +340,12 @@
         "id": "28220882",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0014739",
+        "begin": "2019-03-01T03:00:00.000Z",
+        "broadcast": "R/2019-03-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -353,6 +396,35 @@
         "id": "4312422",
         "begin": "2018-11-22T03:21:00.000Z",
         "broadcast": "R/2018-11-22T03:21:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016953",
+        "begin": "2019-07-04T03:00:00.000Z",
+        "broadcast": "R/2019-07-04T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "Sin in the Rain",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2006-03-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2006-03-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "79983"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003405",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
       }
     ]
   }

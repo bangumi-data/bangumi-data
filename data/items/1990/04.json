@@ -20,6 +20,12 @@
       {
         "site": "bangumi",
         "id": "10408"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010712",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -105,6 +111,92 @@
         "id": "17772",
         "begin": "2021-10-22T06:00:00.000Z",
         "broadcast": "R/2021-10-22T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003261",
+        "begin": "2018-12-18T03:00:00.000Z",
+        "broadcast": "R/2018-12-18T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "アイドル天使ようこそようこ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "偶像天使阳子",
+        "小俏妞"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-04-01T16:00:00.000Z",
+    "broadcast": "R/1990-04-01T16:00:00.000Z/P7D",
+    "end": "1991-02-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "11730"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004951",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "SDガンダム外伝",
+    "titleTranslate": {
+      "zh-Hans": [
+        "SD高达外传",
+        "机动战士SD高达外传",
+        "骑士高达"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-04-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-04-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "131171"
+      },
+      {
+        "site": "unext",
+        "id": "SID0077806",
+        "begin": "2023-01-26T15:00:00.000Z",
+        "broadcast": "R/2023-01-26T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ガタピシ",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-04-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-03-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "309551"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012681",
+        "begin": "2021-01-07T03:00:00.000Z",
+        "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
       }
     ]
   }

@@ -31,6 +31,12 @@
         "id": "2030",
         "begin": "2002-08-15T16:00:00.000Z",
         "broadcast": "R/2013-02-16T11:23:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016703",
+        "begin": "2023-05-24T03:00:00.000Z",
+        "broadcast": "R/2023-05-24T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -72,6 +78,12 @@
         "id": "sentoyouseiyukikaze",
         "begin": "2022-11-01T03:00:00.000Z",
         "broadcast": "R/2022-11-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015460",
+        "begin": "2022-11-01T03:00:00.000Z",
+        "broadcast": "R/2022-11-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -97,6 +109,12 @@
         "id": "komugite",
         "begin": "2016-04-26T06:00:00.000Z",
         "broadcast": "R/2016-04-26T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002751",
+        "begin": "2020-11-24T15:00:00.000Z",
+        "broadcast": "R/2020-11-24T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -128,6 +146,12 @@
         "id": "2090",
         "begin": "2014-07-03T09:17:00.000Z",
         "broadcast": "R/2014-07-03T09:17:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003291",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -160,6 +184,79 @@
         "id": "2092",
         "begin": "2015-02-15T08:26:00.000Z",
         "broadcast": "R/2015-02-15T08:26:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ウミガメと少年",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海龟与少年"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-08-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2002-08-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "450512"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004899",
+        "begin": "2016-02-18T15:00:00.000Z",
+        "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "魔王ダンテ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔王但丁"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-08-30T16:00:00.000Z",
+    "broadcast": "R/2002-08-30T16:00:00.000Z/P7D",
+    "end": "2002-11-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "120935"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016932",
+        "begin": "2019-11-25T03:00:00.000Z",
+        "broadcast": "R/2019-11-25T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 サルゲッチュ 黄金のピポヘル・ウッキーバトル",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-08-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2002-08-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "unext",
+        "id": "SID0003206",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   }

@@ -76,6 +76,12 @@
         "site": "nicovideo",
         "id": "movie-trinity-7-hlcl",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0041297",
+        "begin": "2019-04-27T03:00:00.000Z",
+        "broadcast": "R/2019-04-27T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -100,6 +106,12 @@
         "site": "nicovideo",
         "id": "grisaia-pt",
         "begin": "2019-04-17T03:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0040762",
+        "begin": "2019-04-15T03:00:00.000Z",
+        "broadcast": "R/2019-04-15T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -145,6 +157,12 @@
         "id": "100703",
         "begin": "2021-04-09T04:00:00.000Z",
         "broadcast": "R/2021-04-09T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0045130",
+        "begin": "2022-03-17T03:00:00.000Z",
+        "broadcast": "R/2022-03-17T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -231,6 +249,12 @@
         "id": "19-166",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0079422",
+        "begin": "2023-04-07T15:00:00.000Z",
+        "broadcast": "R/2023-04-07T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -289,6 +313,149 @@
         "id": "35-46",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099892",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "PERSONA5 the Animation Stars and Ours",
+    "titleTranslate": {
+      "zh-Hans": [
+        "女神异闻录5 Stars and Ours"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://p5a.jp/",
+    "begin": "2019-03-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-03-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "270473"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038973",
+        "begin": "2021-09-30T15:00:00.000Z",
+        "broadcast": "R/2021-09-30T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ハイスコアガール  EXTRA STAGE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "高分少女 EXTRA STAGE"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://hi-score-girl.com/",
+    "begin": "2019-03-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-03-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "262277"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044181",
+        "begin": "2019-11-29T03:00:00.000Z",
+        "broadcast": "R/2019-11-29T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "映画 プリキュアミラクルユニバース",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 光之美少女 Miracle Universe",
+        "剧场版 光之美少女 奇迹宇宙"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.precure-miracleuniverse.com",
+    "begin": "2019-03-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-03-15T17:11:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "270279"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047099",
+        "begin": "2020-04-01T03:00:00.000Z",
+        "broadcast": "R/2020-04-01T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "映画しまじろう しまじろうとうるるのヒーローランド",
+    "titleTranslate": {
+      "zh-Hans": [
+        "巧虎与乌鲁鲁的英雄乐园",
+        "英雄游乐园"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2019-03-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-03-14T16:58:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "424944"
+      },
+      {
+        "site": "unext",
+        "id": "SID0042167",
+        "begin": "2019-08-21T03:00:00.000Z",
+        "broadcast": "R/2019-08-21T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ヲタクに恋は難しい OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宅男腐女恋爱真难 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2019-03-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-10-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "260946"
+      },
+      {
+        "site": "unext",
+        "id": "SID0049034",
+        "begin": "2022-10-03T15:00:00.000Z",
+        "broadcast": "R/2022-10-03T15:00:00.000Z/P7D"
       }
     ]
   }

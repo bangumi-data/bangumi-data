@@ -20,6 +20,12 @@
         "site": "iqiyi",
         "id": "a_19rrhb4kld",
         "begin": "2015-08-11T08:03:32.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003300",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -49,6 +55,12 @@
         "site": "iqiyi",
         "id": "a_19rrhb4015",
         "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010759",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -79,6 +91,90 @@
         "id": "2426",
         "begin": "2013-02-25T15:50:34.000Z",
         "broadcast": "R/2013-02-25T15:50:34.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0040174",
+        "begin": "2019-03-31T03:00:00.000Z",
+        "broadcast": "R/2019-03-31T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "時空の旅人",
+    "titleTranslate": {
+      "zh-Hans": [
+        "时空的旅人",
+        "时空旅人"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.madhouse.co.jp/works/1986-1983/works_movie_timestranger.html",
+    "begin": "1986-12-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1986-12-19T17:31:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "52782"
+      },
+      {
+        "site": "unext",
+        "id": "SID0042776",
+        "begin": "2019-12-08T03:00:00.000Z",
+        "broadcast": "R/2019-12-08T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "Mr.ペンペンII",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-12-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1986-12-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "313670"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012549",
+        "begin": "2016-02-18T15:00:00.000Z",
+        "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "キン肉マン 正義超人vs戦士超人",
+    "titleTranslate": {
+      "zh-Hans": [
+        "筋肉人 正义超人vs战士超人"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-12-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1986-12-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "215106"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003118",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   }

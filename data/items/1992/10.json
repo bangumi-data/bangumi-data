@@ -15,6 +15,12 @@
       {
         "site": "bangumi",
         "id": "9267"
+      },
+      {
+        "site": "unext",
+        "id": "SID0077968",
+        "begin": "2023-02-01T03:00:00.000Z",
+        "broadcast": "R/2023-02-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -30,6 +36,12 @@
       {
         "site": "bangumi",
         "id": "161673"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018483",
+        "begin": "2019-12-06T03:00:00.000Z",
+        "broadcast": "R/2019-12-06T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -83,6 +95,12 @@
         "id": "15-29",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0017285",
+        "begin": "2016-12-16T03:00:00.000Z",
+        "broadcast": "R/2016-12-16T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -102,6 +120,12 @@
       {
         "site": "bangumi",
         "id": "19525"
+      },
+      {
+        "site": "unext",
+        "id": "SID0042226",
+        "begin": "2019-07-25T03:00:00.000Z",
+        "broadcast": "R/2019-07-25T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -185,6 +209,89 @@
         "id": "5452",
         "begin": "2016-08-18T02:05:00.000Z",
         "broadcast": "R/2016-08-18T02:05:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "南国少年パプワくん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "南国少年巴布华",
+        "南国少年奇小邪"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-10-09T16:00:00.000Z",
+    "broadcast": "R/1992-10-09T16:00:00.000Z/P7D",
+    "end": "1993-10-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "121287"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002271",
+        "begin": "2019-11-26T03:00:00.000Z",
+        "broadcast": "R/2019-11-26T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "風の中の少女 金髪のジェニー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "风中少女 金发珍妮",
+        "岁月飘零"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-10-14T16:00:00.000Z",
+    "broadcast": "R/1992-10-14T16:00:00.000Z/P7D",
+    "end": "1993-09-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "79369"
+      },
+      {
+        "site": "unext",
+        "id": "SID0056297",
+        "begin": "2021-03-30T03:00:00.000Z",
+        "broadcast": "R/2021-03-30T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "スーパーヅガン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超级麻将狂"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-10-07T16:00:00.000Z",
+    "broadcast": "R/1992-10-07T16:00:00.000Z/P7D",
+    "end": "1993-03-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "98426"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044391",
+        "begin": "2019-12-08T03:00:00.000Z",
+        "broadcast": "R/2019-12-08T03:00:00.000Z/P7D"
       }
     ]
   }

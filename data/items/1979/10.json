@@ -31,6 +31,12 @@
         "site": "qq",
         "id": "m/mzc00200pin2sf7",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0011731",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -57,6 +63,66 @@
         "id": "6160",
         "begin": "2017-05-09T05:48:00.000Z",
         "broadcast": "R/2017-05-09T05:48:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017870",
+        "begin": "2019-08-26T03:00:00.000Z",
+        "broadcast": "R/2019-08-26T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "銀河鉄道999 君は戦士のように生きられるか!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河铁道999：你能像战士那般活下来吗"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1979-10-10T15:00:00.000Z",
+    "broadcast": "",
+    "end": "1979-10-10T15:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "416984"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011075",
+        "begin": "2019-12-07T03:00:00.000Z",
+        "broadcast": "R/2019-12-07T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "闘士ゴーディアン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "斗士高迪安"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1979-10-06T15:00:00.000Z",
+    "broadcast": "R/1979-10-06T15:00:00.000Z/P7D",
+    "end": "1981-02-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37293"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017873",
+        "begin": "2022-04-07T03:00:00.000Z",
+        "broadcast": "R/2022-04-07T03:00:00.000Z/P7D"
       }
     ]
   }

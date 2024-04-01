@@ -77,6 +77,12 @@
         "id": "80243876",
         "begin": "2022-11-30T00:00:00.000Z",
         "broadcast": "R/2022-11-30T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002206",
+        "begin": "2019-06-28T03:00:00.000Z",
+        "broadcast": "R/2019-06-28T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -109,6 +115,12 @@
         "id": "2285",
         "begin": "1997-10-02T16:00:00.000Z",
         "broadcast": "R/2013-10-01T23:05:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002727",
+        "begin": "2020-05-02T03:00:00.000Z",
+        "broadcast": "R/2020-05-02T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -187,6 +199,12 @@
         "site": "nicovideo",
         "id": "vampire-miyu",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0003411",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -264,6 +282,114 @@
         "id": "2302",
         "begin": "2012-07-28T07:00:00.000Z",
         "broadcast": "R/2012-07-28T07:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "金田一少年の事件簿スペシャル 死神病院殺人事件",
+    "titleTranslate": {
+      "zh-Hans": [
+        "金田一少年事件簿 死神病院杀人事件",
+        "死神病院殺人事件"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-10-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1997-10-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "100451"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011082",
+        "begin": "2019-12-13T03:00:00.000Z",
+        "broadcast": "R/2019-12-13T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "エルフを狩るモノたち II",
+    "titleTranslate": {
+      "zh-Hans": [
+        "妖精狩猎者II",
+        "古怪猎人2",
+        "精灵狩猎者II"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-09-30T16:00:00.000Z",
+    "broadcast": "R/1997-09-30T16:00:00.000Z/P7D",
+    "end": "1997-12-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "43473"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014116",
+        "begin": "2020-11-17T15:00:00.000Z",
+        "broadcast": "R/2020-11-17T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "さくらももこ劇場 コジコジ",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-10-03T16:00:00.000Z",
+    "broadcast": "R/1997-10-03T16:00:00.000Z/P7D",
+    "end": "1999-09-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220515"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003380",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "電脳戦隊ヴギィ'ズ★エンジェル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "美少女电脑战队",
+        "电脑战队Voogie's Angel"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-10-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1998-07-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "82780"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002734",
+        "begin": "2022-10-31T03:00:00.000Z",
+        "broadcast": "R/2022-10-31T03:00:00.000Z/P7D"
       }
     ]
   }

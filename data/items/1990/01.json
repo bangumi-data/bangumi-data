@@ -41,6 +41,12 @@
         "site": "letv",
         "id": "29544",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0002367",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -86,6 +92,12 @@
         "site": "youku",
         "id": "9ccb5542124911e4b2ad",
         "begin": "2014-08-19T06:34:20.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0085101",
+        "begin": "2023-04-28T03:00:00.000Z",
+        "broadcast": "R/2023-04-28T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -110,6 +122,39 @@
         "site": "nicovideo",
         "id": "heiseitensai-bakabon",
         "begin": "2018-07-03T15:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002319",
+        "begin": "2018-07-12T03:00:00.000Z",
+        "broadcast": "R/2018-07-12T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "BE-BOP-HIGHSCHOOL",
+    "titleTranslate": {
+      "zh-Hans": [
+        "高校生极乐传说"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-01-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1998-12-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "207565"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011649",
+        "begin": "2019-11-19T03:00:00.000Z",
+        "broadcast": "R/2019-11-19T03:00:00.000Z/P7D"
       }
     ]
   }

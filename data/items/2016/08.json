@@ -32,6 +32,12 @@
         "id": "76301",
         "begin": "2019-11-01T09:00:00.000Z",
         "broadcast": "R/2019-11-01T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0026455",
+        "begin": "2016-08-29T03:00:00.000Z",
+        "broadcast": "R/2016-08-29T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -95,6 +101,12 @@
         "id": "84786",
         "begin": "2021-01-27T07:00:00.000Z",
         "broadcast": "R/2021-01-27T07:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0042218",
+        "begin": "2019-07-15T03:00:00.000Z",
+        "broadcast": "R/2019-07-15T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -156,6 +168,12 @@
         "id": "128792",
         "begin": "2016-08-20T16:00:00.000Z",
         "broadcast": "R/2018-08-29T09:33:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0026474",
+        "begin": "2016-09-08T03:00:00.000Z",
+        "broadcast": "R/2016-09-08T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -186,6 +204,12 @@
         "id": "6071",
         "begin": "2016-07-31T16:00:01.000Z",
         "broadcast": "R/2017-04-16T09:08:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0076812",
+        "begin": "2023-01-01T03:00:00.000Z",
+        "broadcast": "R/2023-01-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -232,6 +256,117 @@
         "id": "gintama-aizenkouhen1",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0053410",
+        "begin": "2023-10-31T15:00:00.000Z",
+        "broadcast": "R/2023-10-31T15:00:00.000Z/P7D",
+        "comment": "後編: SID0053411"
+      }
+    ]
+  },
+  {
+    "title": "君の名は。",
+    "titleTranslate": {
+      "zh-Hans": [
+        "你的名字。"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kiminona.com",
+    "begin": "2016-08-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2016-08-25T17:46:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "160209"
+      },
+      {
+        "site": "unext",
+        "id": "SID0029295",
+        "begin": "2017-07-25T15:00:00.000Z",
+        "broadcast": "R/2017-07-25T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "鷹の爪8 ～吉田くんのＸファイル～",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://xn--u9j429qiq1a.jp/xfile/",
+    "begin": "2016-08-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2016-08-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "187048"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027860",
+        "begin": "2021-07-22T03:00:00.000Z",
+        "broadcast": "R/2021-07-22T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版アイカツスターズ!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 偶像活动Stars"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.aikatsu-movie.net/",
+    "begin": "2016-08-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2016-08-12T16:59:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "170120"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044108",
+        "begin": "2019-11-05T03:00:00.000Z",
+        "broadcast": "R/2019-11-05T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "アイカツ!～ねらわれた魔法のアイカツ!カ―ド～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "偶像活动 ~被盯上的魔法偶活卡~"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.aikatsu-movie.net/",
+    "begin": "2016-08-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2016-08-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "200913"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044107",
+        "begin": "2019-11-05T03:00:00.000Z",
+        "broadcast": "R/2019-11-05T03:00:00.000Z/P7D"
       }
     ]
   }

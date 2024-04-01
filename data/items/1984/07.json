@@ -49,6 +49,62 @@
         "id": "3557",
         "begin": "2016-04-11T06:12:00.000Z",
         "broadcast": "R/2016-04-11T06:12:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015690",
+        "begin": "2019-12-02T03:00:00.000Z",
+        "broadcast": "R/2019-12-02T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "キン肉マン 奪われたチャンピオンベルト",
+    "titleTranslate": {
+      "zh-Hans": [
+        "筋肉人 被夺的冠军腰带"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1984-07-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1984-07-13T16:48:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "215100"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003353",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ふしぎなコアラブリンキー",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1984-07-06T16:00:00.000Z",
+    "broadcast": "R/1984-07-06T16:00:00.000Z/P7D",
+    "end": "1984-12-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "77938"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003322",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   }

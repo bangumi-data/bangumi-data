@@ -34,6 +34,12 @@
         "site": "nicovideo",
         "id": "vanguard-lm",
         "begin": "2014-03-18T10:30:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0058895",
+        "begin": "2021-06-19T03:00:00.000Z",
+        "broadcast": "R/2021-06-19T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -70,6 +76,12 @@
         "id": "5911",
         "begin": "2014-03-09T16:00:01.000Z",
         "broadcast": "R/2017-02-04T06:06:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013572",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -185,6 +197,12 @@
       {
         "site": "bangumi",
         "id": "88715"
+      },
+      {
+        "site": "unext",
+        "id": "SID0020392",
+        "begin": "2018-10-04T03:00:00.000Z",
+        "broadcast": "R/2018-10-04T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -245,6 +263,12 @@
         "id": "35-46",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099887",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -352,6 +376,12 @@
       {
         "site": "bangumi",
         "id": "85422"
+      },
+      {
+        "site": "unext",
+        "id": "SID0033342",
+        "begin": "2021-01-07T03:00:00.000Z",
+        "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -495,6 +525,12 @@
         "site": "nicovideo",
         "id": "wild-adapter",
         "begin": "2017-04-07T06:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0065006",
+        "begin": "2022-01-13T03:00:00.000Z",
+        "broadcast": "R/2022-01-13T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -530,6 +566,12 @@
         "site": "youku",
         "id": "fefb2f260d5e11e38b3f",
         "begin": "2014-10-09T05:36:35.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0045447",
+        "begin": "2020-01-21T03:00:00.000Z",
+        "broadcast": "R/2020-01-21T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -556,6 +598,35 @@
         "id": "3476",
         "begin": "2014-03-06T16:00:00.000Z",
         "broadcast": "R/2016-03-22T06:06:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版しまじろうのわお! しまじろうとくじらのうた",
+    "titleTranslate": {
+      "zh-Hans": [
+        "巧虎与小白鲸之歌",
+        "巧虎剧场版 老虎仔乐园 鲸之歌",
+        "巧虎与小白鲸的大冒险"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kodomo.benesse.ne.jp/ap/movie/2014-kujira/",
+    "begin": "2014-03-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2014-03-13T16:59:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "95790"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002982",
+        "begin": "2020-08-14T03:00:00.000Z",
+        "broadcast": "R/2020-08-14T03:00:00.000Z/P7D"
       }
     ]
   }

@@ -58,6 +58,12 @@
         "site": "nicovideo",
         "id": "sailor_moon_r",
         "begin": "2015-07-18T10:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002815",
+        "begin": "2021-01-07T03:00:00.000Z",
+        "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -111,6 +117,12 @@
         "site": "iqiyi",
         "id": "a_19rrhb4015",
         "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010769",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -166,6 +178,116 @@
         "id": "35-46",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099858",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "三国志 第二部・長江燃ゆ!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "三国志 第二部 长江的燃烧"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-03-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-03-19T18:35:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "46538"
+      },
+      {
+        "site": "unext",
+        "id": "SID0041829",
+        "begin": "2019-06-26T03:00:00.000Z",
+        "broadcast": "R/2019-06-26T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "けろけろけろっぴのミツバチ大騒動",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-03-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-03-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "315548"
+      },
+      {
+        "site": "unext",
+        "id": "SID0093081",
+        "begin": "2023-10-01T03:00:00.000Z",
+        "broadcast": "R/2023-10-01T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "カッパの三平",
+    "titleTranslate": {
+      "zh-Hans": [
+        "河童三平"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-03-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-03-12T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "299906"
+      },
+      {
+        "site": "unext",
+        "id": "SID0034013",
+        "begin": "2018-04-01T03:00:00.000Z",
+        "broadcast": "R/2018-04-01T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士SDガンダムまつり",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士SD高达祭"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-03-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-03-12T17:21:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "279060"
+      },
+      {
+        "site": "unext",
+        "id": "SID0077808",
+        "begin": "2023-01-26T15:00:00.000Z",
+        "broadcast": "R/2023-01-26T15:00:00.000Z/P7D"
       }
     ]
   }

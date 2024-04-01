@@ -20,6 +20,12 @@
       {
         "site": "bangumi",
         "id": "57569"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004312",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -70,6 +76,61 @@
         "id": "5712",
         "begin": "2016-11-30T02:22:00.000Z",
         "broadcast": "R/2016-11-30T02:22:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ドラゴンクエスト",
+    "titleTranslate": {
+      "zh-Hans": [
+        "勇者斗恶龙",
+        "勇者斗恶龙 勇者阿贝尔传说"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-12-01T16:00:00.000Z",
+    "broadcast": "R/1989-12-01T16:00:00.000Z/P7D",
+    "end": "1991-04-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "68297"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027069",
+        "begin": "2023-05-06T03:00:00.000Z",
+        "broadcast": "R/2023-05-06T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "Be-Boy Kidnapp'n Idol",
+    "titleTranslate": {
+      "zh-Hans": [
+        "漂亮男孩"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-12-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-12-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "18461"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003248",
+        "begin": "2010-01-29T06:00:00.000Z",
+        "broadcast": "R/2010-01-29T06:00:00.000Z/P7D"
       }
     ]
   }

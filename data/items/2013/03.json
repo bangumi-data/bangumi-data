@@ -43,6 +43,12 @@
         "id": "53062",
         "begin": "2019-11-05T09:00:00.000Z",
         "broadcast": "R/2019-11-05T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018623",
+        "begin": "2017-01-12T03:00:00.000Z",
+        "broadcast": "R/2017-01-12T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -70,6 +76,12 @@
         "site": "nicovideo",
         "id": "rdg",
         "begin": "2014-01-05T15:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012734",
+        "begin": "2017-01-12T03:00:00.000Z",
+        "broadcast": "R/2017-01-12T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -94,6 +106,12 @@
       {
         "site": "bangumi",
         "id": "54676"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002355",
+        "begin": "2015-02-17T06:00:00.000Z",
+        "broadcast": "R/2015-02-17T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -186,6 +204,12 @@
       {
         "site": "bangumi",
         "id": "54734"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013571",
+        "begin": "2019-11-23T03:00:00.000Z",
+        "broadcast": "R/2019-11-23T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -305,6 +329,12 @@
         "id": "35-46",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099886",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -449,6 +479,12 @@
         "site": "nicovideo",
         "id": "dragonball2013",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0013259",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -479,6 +515,12 @@
         "id": "131532",
         "begin": "2013-03-08T16:00:00.000Z",
         "broadcast": "R/2013-10-15T17:51:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017842",
+        "begin": "2016-10-06T03:00:00.000Z",
+        "broadcast": "R/2016-10-06T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -505,6 +547,63 @@
         "id": "3587",
         "begin": "2013-03-26T16:00:00.000Z",
         "broadcast": "R/2016-04-13T10:01:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "映画 プリキュアオールスターズNewStage2 こころのともだち",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 光之美少女 All Stars New Stage2 心之朋友",
+        "光之美少女全明星 New Stage2 心之朋友",
+        "光之美少女 All Stars New Stage2"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/movie/2013_precure_allstars/",
+    "begin": "2013-03-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2013-03-15T17:11:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "58948"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016686",
+        "begin": "2018-10-04T03:00:00.000Z",
+        "broadcast": "R/2018-10-04T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版しまじろうのわお! しまじろうとフフのだいぼうけん 〜すくえ!七色の花〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "巧虎与芙芙的大冒险～拯救！七色之花～",
+        "巧虎的大冒险抢救七彩花"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2013-03-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2013-03-14T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "120238"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002629",
+        "begin": "2020-08-14T03:00:00.000Z",
+        "broadcast": "R/2020-08-14T03:00:00.000Z/P7D"
       }
     ]
   }

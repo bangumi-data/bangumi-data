@@ -30,6 +30,12 @@
         "site": "bilibili",
         "id": "3930",
         "begin": "1990-07-19T16:00:01.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016770",
+        "begin": "2019-01-10T03:00:00.000Z",
+        "broadcast": "R/2019-01-10T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -59,6 +65,12 @@
         "site": "iqiyi",
         "id": "a_19rrhb4015",
         "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010764",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -83,6 +95,154 @@
       {
         "site": "bangumi",
         "id": "25728"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017858",
+        "begin": "2022-04-28T03:00:00.000Z",
+        "broadcast": "R/2022-04-28T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ぽこぽんのゆかいな西遊記",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-07-20T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "308942"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027612",
+        "begin": "2017-01-27T03:00:00.000Z",
+        "broadcast": "R/2017-01-27T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "藤子不二雄Aの夢魔子",
+    "titleTranslate": {
+      "zh-Hans": [
+        "藤子不二雄A的梦魔子"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-07-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-07-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "104562"
+      },
+      {
+        "site": "unext",
+        "id": "SID0053873",
+        "begin": "2020-12-27T03:00:00.000Z",
+        "broadcast": "R/2020-12-27T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "A-Ko The VS",
+    "titleTranslate": {
+      "zh-Hans": [
+        "A子计划 外传"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-07-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "55061"
+      },
+      {
+        "site": "unext",
+        "id": "SID0019073",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "けろけろけろっぴの大冒険　ふしぎな豆の木",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-07-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "unext",
+        "id": "SID0027611",
+        "begin": "2017-01-27T03:00:00.000Z",
+        "broadcast": "R/2017-01-27T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン おむすびまん",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060303.html",
+    "begin": "1990-07-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-07-06T16:26:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "89689"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018520",
+        "begin": "2015-06-01T06:00:00.000Z",
+        "broadcast": "R/2015-06-01T06:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン ばいきんまんの逆襲",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060302.html",
+    "begin": "1990-07-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-07-13T17:10:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "418854"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018519",
+        "begin": "2015-06-01T06:00:00.000Z",
+        "broadcast": "R/2015-06-01T06:00:00.000Z/P7D"
       }
     ]
   }

@@ -23,6 +23,12 @@
         "id": "shin-ikkitousen",
         "begin": "2022-06-23T15:00:00.000Z",
         "broadcast": "R/2022-06-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0070602",
+        "begin": "2022-06-23T15:00:00.000Z",
+        "broadcast": "R/2022-06-23T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -169,6 +175,18 @@
         "id": "gineiden-dnt-movie",
         "begin": "2022-07-02T15:00:00.000Z",
         "broadcast": "R/2022-07-02T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0067777",
+        "begin": "2022-06-03T03:00:00.000Z",
+        "broadcast": "R/2022-06-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "legendofthegalacticheroesdieneuethesecollision0001_140289",
+        "begin": "2024-02-27T16:00:00.000Z",
+        "broadcast": "R/2024-02-27T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -203,6 +221,12 @@
         "id": "189-52",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0074688",
+        "begin": "2022-10-20T15:00:00.000Z",
+        "broadcast": "R/2022-10-20T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -231,6 +255,68 @@
         "id": "inuoh-anime",
         "begin": "2023-01-13T15:00:00.000Z",
         "broadcast": "R/2023-01-13T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0076581",
+        "begin": "2022-12-14T03:00:00.000Z",
+        "broadcast": "R/2022-12-14T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ググミちゃん",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.mysta.tv/gugumichan/",
+    "begin": "2022-05-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-09-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "381386"
+      },
+      {
+        "site": "unext",
+        "id": "SID0095808",
+        "begin": "2023-12-01T03:00:00.000Z",
+        "broadcast": "R/2023-12-01T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "特『刀剣乱舞-花丸-』～雪月華～雪ノ巻",
+    "titleTranslate": {
+      "zh-Hans": [
+        "特『刀剑乱舞-花丸-』～雪月花～雪之卷"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://toku.touken-hanamaru.jp",
+    "begin": "2022-05-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-05-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "328197"
+      },
+      {
+        "site": "unext",
+        "id": "SID0077345",
+        "begin": "2023-01-25T03:00:00.000Z",
+        "broadcast": "R/2023-01-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "123554",
+        "begin": "2024-02-07T04:10:00.000Z",
+        "broadcast": "R/2024-02-07T04:10:00.000Z/P7D"
       }
     ]
   }

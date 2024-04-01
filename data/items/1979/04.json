@@ -72,6 +72,12 @@
       {
         "site": "bangumi",
         "id": "50"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012888",
+        "begin": "2010-03-31T15:00:00.000Z",
+        "broadcast": "R/2010-03-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -91,6 +97,12 @@
       {
         "site": "bangumi",
         "id": "213787"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038661",
+        "begin": "2019-02-21T03:00:00.000Z",
+        "broadcast": "R/2019-02-21T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -110,6 +122,39 @@
       {
         "site": "bangumi",
         "id": "61260"
+      },
+      {
+        "site": "unext",
+        "id": "SID0042110",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "まえがみ太郎",
+    "titleTranslate": {
+      "zh-Hans": [
+        "神赐太郎"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1979-04-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1979-04-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "193546"
+      },
+      {
+        "site": "unext",
+        "id": "SID0055998",
+        "begin": "2021-03-29T03:00:00.000Z",
+        "broadcast": "R/2021-03-29T03:00:00.000Z/P7D"
       }
     ]
   }

@@ -16,6 +16,12 @@
       {
         "site": "bangumi",
         "id": "119364"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013614",
+        "begin": "2015-06-04T06:00:00.000Z",
+        "broadcast": "R/2015-06-04T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -85,6 +91,12 @@
         "id": "80038207",
         "begin": "2015-06-01T07:00:00.000Z",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0027233",
+        "begin": "2019-12-07T03:00:00.000Z",
+        "broadcast": "R/2019-12-07T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -144,6 +156,13 @@
         "site": "youku",
         "id": "6cada7784adb11e4b432",
         "begin": "2014-10-02T05:31:42.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017700",
+        "begin": "2023-05-31T15:00:00.000Z",
+        "broadcast": "R/2023-05-31T15:00:00.000Z/P7D",
+        "comment": "後編: SID0018620"
       }
     ]
   },
@@ -310,6 +329,41 @@
         "id": "30-8",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0018728",
+        "begin": "2018-09-01T03:00:00.000Z",
+        "broadcast": "R/2018-09-01T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "IS〈インフィニット・ストラトス〉2 OVA ワールド・パージ編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "IS2 OVA 世界清洗篇",
+        "IS〈无限斯特拉托斯〉2 世界清洗篇",
+        "Infinite Stratos 2 OVA World Purge篇"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.tbs.co.jp/anime/is2",
+    "begin": "2014-11-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2014-11-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "90967"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017768",
+        "begin": "2023-02-12T03:00:00.000Z",
+        "broadcast": "R/2023-02-12T03:00:00.000Z/P7D"
       }
     ]
   }

@@ -55,6 +55,12 @@
       {
         "site": "bangumi",
         "id": "53789"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011131",
+        "begin": "2023-08-16T03:00:00.000Z",
+        "broadcast": "R/2023-08-16T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -103,6 +109,67 @@
       {
         "site": "bangumi",
         "id": "213642"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003138",
+        "begin": "2021-07-31T03:00:00.000Z",
+        "broadcast": "R/2021-07-31T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "戦え!!イクサー1",
+    "titleTranslate": {
+      "zh-Hans": [
+        "战斗吧!! 伊克萨1",
+        "战斗!! 伊库莎1"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-10-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1987-03-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "29326"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003229",
+        "begin": "2009-11-13T06:00:00.000Z",
+        "broadcast": "R/2009-11-13T06:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 ニルスのふしぎな旅",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 骑鹅旅行记"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-09-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1985-09-30T17:37:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "298392"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016160",
+        "begin": "2018-12-31T03:00:00.000Z",
+        "broadcast": "R/2018-12-31T03:00:00.000Z/P7D"
       }
     ]
   }

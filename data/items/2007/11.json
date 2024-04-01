@@ -109,6 +109,96 @@
         "site": "iqiyi",
         "id": "a_19rrhb4tzt",
         "begin": "2015-08-07T08:45:07.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013848",
+        "begin": "2018-10-04T03:00:00.000Z",
+        "broadcast": "R/2018-10-04T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "金田一少年の事件簿スペシャル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "金田一少年之事件簿 2007年特别篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/tv/kindaichi_sp",
+    "begin": "2007-11-11T16:00:00.000Z",
+    "broadcast": "R/2007-11-11T16:00:00.000Z/P7D",
+    "end": "2007-11-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "49426"
+      },
+      {
+        "site": "unext",
+        "id": "SID0054381",
+        "begin": "2021-01-07T03:00:00.000Z",
+        "broadcast": "R/2021-01-07T03:00:00.000Z/P7D",
+        "comment": "オペラ座館・最後の殺人, 吸血鬼伝説殺人事件: SID0054380"
+      }
+    ]
+  },
+  {
+    "title": "ストレイト・ジャケット",
+    "titleTranslate": {
+      "zh-Hans": [
+        "拘束衣",
+        "战术魔法士"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.straitjacket.jp",
+    "begin": "2007-11-29T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2008-04-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "20118"
+      },
+      {
+        "site": "unext",
+        "id": "SID0024333",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "ボノロン～不思議な森のいいつたえ～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Bonolon～不可思议森林的传说～",
+        "奇妙森林传说"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2007-11-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2008-05-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "445008"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003265",
+        "begin": "2014-10-29T06:00:00.000Z",
+        "broadcast": "R/2014-10-29T06:00:00.000Z/P7D"
       }
     ]
   }

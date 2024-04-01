@@ -42,6 +42,12 @@
       {
         "site": "bangumi",
         "id": "320857"
+      },
+      {
+        "site": "unext",
+        "id": "SID0089800",
+        "begin": "2023-07-23T03:00:00.000Z",
+        "broadcast": "R/2023-07-23T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -66,6 +72,12 @@
       {
         "site": "nicovideo",
         "id": "ichigo-animation",
+        "begin": "2021-02-13T15:00:00.000Z",
+        "broadcast": "R/2021-02-13T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0050920",
         "begin": "2021-02-13T15:00:00.000Z",
         "broadcast": "R/2021-02-13T15:00:00.000Z/P7D"
       }
@@ -134,6 +146,12 @@
         "id": "28234839",
         "begin": "2021-07-26T10:00:00.000Z",
         "broadcast": "R/2021-07-26T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0056317",
+        "begin": "2021-03-15T03:00:00.000Z",
+        "broadcast": "R/2021-03-15T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -166,6 +184,12 @@
         "id": "81214399",
         "begin": "2021-06-02T16:00:00.000Z",
         "broadcast": "R/2021-06-02T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0060711",
+        "begin": "2021-08-29T15:00:00.000Z",
+        "broadcast": "R/2021-08-29T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -235,6 +259,13 @@
         "id": "tenipuri-game-of-future",
         "begin": "2022-09-30T15:00:00.000Z",
         "broadcast": "R/2022-09-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0054281",
+        "begin": "2021-02-13T05:30:00.000Z",
+        "broadcast": "R/2021-02-13T05:30:00.000Z/P7D",
+        "comment": "後篇: SID0055586"
       }
     ]
   },
@@ -264,6 +295,36 @@
         "id": "116199",
         "begin": "2023-10-20T04:00:00.000Z",
         "broadcast": "R/2023-10-20T04:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "プリンセス・プリンシパル Crown Handler 第1章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Princess Principal Crown Handler 第1章",
+        "公主代理人 Crown Handler 第1章",
+        "公主委托人 Crown Handler 第1章",
+        "公主准则 Crown Handler 第1章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.pripri-anime.jp",
+    "begin": "2021-02-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-02-10T16:53:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "244928"
+      },
+      {
+        "site": "unext",
+        "id": "SID0057920",
+        "begin": "2021-09-27T15:00:00.000Z",
+        "broadcast": "R/2021-09-27T15:00:00.000Z/P7D"
       }
     ]
   }

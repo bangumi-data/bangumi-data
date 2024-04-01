@@ -32,5 +32,58 @@
         "broadcast": "R/2022-01-14T03:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "キューティーハニーF",
+    "titleTranslate": {
+      "zh-Hans": [
+        "甜心战士F"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-02-14T16:00:00.000Z",
+    "broadcast": "R/1997-02-14T16:00:00.000Z/P7D",
+    "end": "1998-01-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "38774"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044872",
+        "begin": "2019-12-17T03:00:00.000Z",
+        "broadcast": "R/2019-12-17T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "旭日の艦隊",
+    "titleTranslate": {
+      "zh-Hans": [
+        "旭日舰队"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-02-10T16:00:00.000Z",
+    "end": "2002-04-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "120936"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002544",
+        "begin": "2019-11-29T03:00:00.000Z",
+        "broadcast": "R/2019-11-29T03:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

@@ -25,6 +25,12 @@
       {
         "site": "bangumi",
         "id": "4213"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012899",
+        "begin": "2008-10-31T15:00:00.000Z",
+        "broadcast": "R/2008-10-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -49,6 +55,12 @@
         "site": "iqiyi",
         "id": "a_19rrhb4kld",
         "begin": "2015-08-11T08:03:32.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002204",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -94,6 +106,12 @@
         "id": "35-46",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099850",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -118,6 +136,85 @@
       {
         "site": "bangumi",
         "id": "2921"
+      }
+    ]
+  },
+  {
+    "title": "Mr.ペンペン",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-03-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1986-03-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "313669"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004900",
+        "begin": "2016-02-18T15:00:00.000Z",
+        "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 世紀末救世主伝説 北斗の拳",
+    "titleTranslate": {
+      "zh-Hans": [
+        "北斗神拳 剧场版",
+        "北斗神拳 旧剧场版",
+        "世纪末救世主传说 北斗神拳 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.anime-bb.com/tv_hokuto/index.html",
+    "begin": "1986-03-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1986-03-07T17:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "82714"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003355",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "キン肉マン ニューヨーク危機一髪!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "筋肉人 纽约命悬一线！"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-03-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1986-03-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "215105"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003119",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   }

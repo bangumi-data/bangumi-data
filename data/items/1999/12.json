@@ -25,6 +25,12 @@
         "site": "bilibili",
         "id": "28229287",
         "begin": "2020-06-22T16:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047108",
+        "begin": "2020-04-02T03:00:00.000Z",
+        "broadcast": "R/2020-04-02T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -45,6 +51,12 @@
       {
         "site": "bangumi",
         "id": "79678"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012538",
+        "begin": "2018-04-06T03:00:00.000Z",
+        "broadcast": "R/2018-04-06T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -70,6 +82,88 @@
         "site": "qq",
         "id": "r/rnjpu9bsbfirqjt",
         "begin": ""
+      }
+    ]
+  },
+  {
+    "title": "ピカチュウのふゆやすみ2000",
+    "titleTranslate": {
+      "zh-Hans": [
+        "皮卡丘的寒假2000"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-12-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1999-12-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "90014"
+      },
+      {
+        "site": "unext",
+        "id": "SID0088547",
+        "begin": "2023-07-14T03:00:00.000Z",
+        "broadcast": "R/2023-07-14T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "リボンの騎士",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蓝宝石王子",
+        "蓝宝石王子 1999"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-12-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1999-12-03T16:08:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "138356"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003342",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "こちら葛飾区亀有公園前派出所 THE MOVIE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "乌龙派出所 剧场版：史上最恶爆弹大作战"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-12-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1999-12-22T17:35:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "54607"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027788",
+        "begin": "2016-12-31T03:00:00.000Z",
+        "broadcast": "R/2016-12-31T03:00:00.000Z/P7D"
       }
     ]
   }

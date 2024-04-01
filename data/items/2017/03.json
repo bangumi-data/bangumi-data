@@ -21,6 +21,12 @@
         "id": "35-46",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099890",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -50,6 +56,12 @@
       {
         "site": "bangumi",
         "id": "207698"
+      },
+      {
+        "site": "unext",
+        "id": "SID0029133",
+        "begin": "2017-04-04T03:00:00.000Z",
+        "broadcast": "R/2017-04-04T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -257,6 +269,12 @@
         "site": "iqiyi",
         "id": "a_19rrhb4tzt",
         "begin": "2015-08-07T08:45:07.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0033690",
+        "begin": "2018-10-04T03:00:00.000Z",
+        "broadcast": "R/2018-10-04T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -281,6 +299,12 @@
         "site": "nicovideo",
         "id": "hai-furi-ova",
         "begin": "2018-05-31T15:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044133",
+        "begin": "2019-11-01T03:00:00.000Z",
+        "broadcast": "R/2019-11-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -332,6 +356,12 @@
         "id": "1gkHz4jwKOCT",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0047062",
+        "begin": "2020-03-13T03:00:00.000Z",
+        "broadcast": "R/2020-03-13T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -380,6 +410,41 @@
         "id": "28481063",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0031376",
+        "begin": "2020-04-20T03:00:00.000Z",
+        "broadcast": "R/2020-04-20T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版しまじろうのわお! しまじろうと にじのオアシス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "巧虎与彩虹的绿洲",
+        "剧场版 可爱巧虎岛 巧虎与彩虹绿洲",
+        "巧虎的彩虹绿洲"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kodomo.benesse.ne.jp/open/movie/2017-oasis/",
+    "begin": "2017-03-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-03-09T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "208314"
+      },
+      {
+        "site": "unext",
+        "id": "SID0030684",
+        "begin": "2020-08-14T03:00:00.000Z",
+        "broadcast": "R/2020-08-14T03:00:00.000Z/P7D"
       }
     ]
   }

@@ -31,6 +31,12 @@
         "id": "3934",
         "begin": "1992-07-23T16:00:01.000Z",
         "broadcast": "R/2021-03-31T15:39:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013509",
+        "begin": "2019-01-24T03:00:00.000Z",
+        "broadcast": "R/2019-01-24T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -60,6 +66,12 @@
         "site": "iqiyi",
         "id": "a_19rrhb4015",
         "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010768",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -172,6 +184,136 @@
         "id": "3967",
         "begin": "2016-05-06T02:49:00.000Z",
         "broadcast": "R/2016-05-06T02:49:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ろくでなしBLUES",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-07-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-07-10T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "442956"
+      },
+      {
+        "site": "unext",
+        "id": "SID0045128",
+        "begin": "2019-12-27T03:00:00.000Z",
+        "broadcast": "R/2019-12-27T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "風の大陸",
+    "titleTranslate": {
+      "zh-Hans": [
+        "风之大陆"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-07-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-07-17T16:54:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "6256"
+      },
+      {
+        "site": "unext",
+        "id": "SID0042767",
+        "begin": "2019-11-30T03:00:00.000Z",
+        "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ジャイアントロボ THE ANIMATION -地球が静止する日-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大铁人 地球静止之日",
+        "机械巨神 地球静止之日",
+        "铁甲人 地球静止之日",
+        "机械巨人 地球静止之日"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-07-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1998-01-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "4442"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015125",
+        "begin": "2020-11-15T15:00:00.000Z",
+        "broadcast": "R/2020-11-15T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ジャンケンマン 怪獣大決戦",
+    "titleTranslate": {
+      "zh-Hans": [
+        "正气大侠 怪兽大决战"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-07-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-07-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "195915"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004303",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "DRAGON QUEST ダイの大冒険 ぶちやぶれ!! 新生6大将軍",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-07-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-07-10T16:39:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317748"
+      },
+      {
+        "site": "unext",
+        "id": "SID0054520",
+        "begin": "2021-02-01T03:00:00.000Z",
+        "broadcast": "R/2021-02-01T03:00:00.000Z/P7D"
       }
     ]
   }

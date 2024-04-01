@@ -21,6 +21,12 @@
       {
         "site": "bangumi",
         "id": "195909"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003211",
+        "begin": "2019-08-31T03:00:00.000Z",
+        "broadcast": "R/2019-08-31T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -50,6 +56,12 @@
         "site": "nicovideo",
         "id": "DBZ",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010762",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -149,6 +161,65 @@
         "id": "38221",
         "begin": "2020-08-06T06:35:00.000Z",
         "broadcast": "R/2020-08-06T06:35:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014487",
+        "begin": "2018-06-04T03:00:00.000Z",
+        "broadcast": "R/2018-06-04T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "悪魔くん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恶魔小子"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://lineup.toei-anim.co.jp/ja/movie/movie_akumakun/",
+    "begin": "1989-07-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-07-14T16:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "418082"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003188",
+        "begin": "2020-01-11T03:00:00.000Z",
+        "broadcast": "R/2020-01-11T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ハローキティのシンデレラ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "凯蒂猫的灰姑娘"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-07-21T16:00:00.000Z",
+    "end": "1989-07-21T16:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "285396"
+      },
+      {
+        "site": "unext",
+        "id": "SID0093067",
+        "begin": "2023-10-01T03:00:00.000Z",
+        "broadcast": "R/2023-10-01T03:00:00.000Z/P7D"
       }
     ]
   }

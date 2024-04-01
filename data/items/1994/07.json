@@ -31,6 +31,12 @@
         "id": "3937",
         "begin": "1994-07-28T16:00:01.000Z",
         "broadcast": "R/2021-03-31T12:08:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002345",
+        "begin": "2019-02-07T03:00:00.000Z",
+        "broadcast": "R/2019-02-07T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -84,6 +90,12 @@
         "site": "iqiyi",
         "id": "a_19rrhb4015",
         "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010772",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -108,6 +120,12 @@
       {
         "site": "bangumi",
         "id": "80861"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016993",
+        "begin": "2022-10-27T03:00:00.000Z",
+        "broadcast": "R/2022-10-27T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -165,6 +183,81 @@
         "id": "5616",
         "begin": "2016-10-23T02:30:00.000Z",
         "broadcast": "R/2016-10-23T02:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "宇宙の騎士テッカマンブレードII",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙骑士BLADE II",
+        "宇宙骑士利刃II",
+        "宇宙骑士 II"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1995-04-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37254"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003372",
+        "begin": "2019-08-27T03:00:00.000Z",
+        "broadcast": "R/2019-08-27T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン みんな集まれ! アンパンマンワールド",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060310.html",
+    "begin": "1994-07-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1994-07-15T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "89704"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018527",
+        "begin": "2015-06-01T06:00:00.000Z",
+        "broadcast": "R/2015-06-01T06:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン リリカル☆マジカルまほうの学校",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060309.html",
+    "begin": "1994-07-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1994-07-15T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "419213"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018526",
+        "begin": "2015-06-01T06:00:00.000Z",
+        "broadcast": "R/2015-06-01T06:00:00.000Z/P7D"
       }
     ]
   }

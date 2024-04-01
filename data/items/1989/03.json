@@ -31,6 +31,12 @@
         "id": "gundam-0080",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0012898",
+        "begin": "2008-10-31T15:00:00.000Z",
+        "broadcast": "R/2008-10-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -61,6 +67,12 @@
         "site": "iqiyi",
         "id": "a_19rrhb4um9",
         "begin": "2016-02-16T07:22:34.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011323",
+        "begin": "2019-12-26T03:00:00.000Z",
+        "broadcast": "R/2019-12-26T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -107,6 +119,12 @@
         "id": "35-46",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099854",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -175,6 +193,66 @@
         "id": "5186",
         "begin": "2016-07-12T04:02:34.000Z",
         "broadcast": "R/2016-07-12T04:02:34.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0042194",
+        "begin": "2019-07-26T03:00:00.000Z",
+        "broadcast": "R/2019-07-26T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "宇宙皇子（地上編）",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙皇子 地上篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-03-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-03-10T17:22:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "77616"
+      },
+      {
+        "site": "unext",
+        "id": "SID0096716",
+        "begin": "2023-12-26T03:00:00.000Z",
+        "broadcast": "R/2023-12-26T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン キラキラ星の涙",
+    "titleTranslate": {
+      "zh-Hans": [
+        "面包超人：亮晶晶星的眼泪"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060301.html",
+    "begin": "1989-03-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-03-10T17:15:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "418852"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018518",
+        "begin": "2015-06-01T06:00:00.000Z",
+        "broadcast": "R/2015-06-01T06:00:00.000Z/P7D"
       }
     ]
   }

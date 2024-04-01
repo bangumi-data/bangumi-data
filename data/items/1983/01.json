@@ -15,6 +15,12 @@
       {
         "site": "bangumi",
         "id": "112435"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017884",
+        "begin": "2019-08-30T03:00:00.000Z",
+        "broadcast": "R/2019-08-30T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -30,6 +36,40 @@
       {
         "site": "bangumi",
         "id": "65286"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014540",
+        "begin": "2019-12-06T03:00:00.000Z",
+        "broadcast": "R/2019-12-06T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "亜空大作戦スラングル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "亚空大作战斯兰格尔",
+        "亚空大作战Srungle"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1983-01-20T16:00:00.000Z",
+    "broadcast": "R/1983-01-20T16:00:00.000Z/P7D",
+    "end": "1984-01-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37288"
+      },
+      {
+        "site": "unext",
+        "id": "SID0020273",
+        "begin": "2016-04-21T03:00:00.000Z",
+        "broadcast": "R/2016-04-21T03:00:00.000Z/P7D"
       }
     ]
   }

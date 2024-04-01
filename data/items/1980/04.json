@@ -20,6 +20,94 @@
       {
         "site": "bangumi",
         "id": "208612"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003061",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ムーの白鯨",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大白鲸"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.dupj.jp/munohakugei/mu_index.html",
+    "begin": "1980-04-04T16:00:00.000Z",
+    "broadcast": "R/1980-04-04T16:00:00.000Z/P7D",
+    "end": "1980-09-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "52394"
+      },
+      {
+        "site": "unext",
+        "id": "SID0054155",
+        "begin": "2020-12-28T03:00:00.000Z",
+        "broadcast": "R/2020-12-28T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "銀河鉄道999 永遠の旅人エメラルダス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河铁道999 永远的旅者"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1980-04-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1980-04-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "416987"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011074",
+        "begin": "2019-12-07T03:00:00.000Z",
+        "broadcast": "R/2019-12-07T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "地球へ…",
+    "titleTranslate": {
+      "zh-Hans": [
+        "奔向地球",
+        "回地球"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1980-04-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1980-04-25T17:52:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "38646"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003306",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   }

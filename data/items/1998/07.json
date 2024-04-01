@@ -30,6 +30,12 @@
         "site": "nicovideo",
         "id": "anime-lain",
         "begin": "2020-08-01T03:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002645",
+        "begin": "2018-04-13T03:00:00.000Z",
+        "broadcast": "R/2018-04-13T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -64,6 +70,12 @@
         "site": "bilibili",
         "id": "3945",
         "begin": "1998-07-23T16:00:01.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013404",
+        "begin": "2019-03-07T03:00:00.000Z",
+        "broadcast": "R/2019-03-07T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -108,6 +120,12 @@
         "site": "bilibili",
         "id": "5758",
         "begin": "1998-07-17T16:00:01.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028807",
+        "begin": "2022-06-21T03:00:00.000Z",
+        "broadcast": "R/2022-06-21T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -137,6 +155,56 @@
         "site": "bilibili",
         "id": "2250",
         "begin": "1998-07-01T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン アンパンマンとおかしな仲間",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060318.html",
+    "begin": "1998-07-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1998-07-24T16:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "89708"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018535",
+        "begin": "2015-06-01T06:00:00.000Z",
+        "broadcast": "R/2015-06-01T06:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "それいけ! アンパンマン てのひらを太陽に",
+    "titleTranslate": {
+      "zh-Hans": [
+        "面包超人：把你的手掌变成太阳"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060317.html",
+    "begin": "1998-07-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1998-07-24T16:55:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "315965"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018534",
+        "begin": "2015-06-01T06:00:00.000Z",
+        "broadcast": "R/2015-06-01T06:00:00.000Z/P7D"
       }
     ]
   }

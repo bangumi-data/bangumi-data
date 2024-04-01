@@ -55,6 +55,12 @@
         "id": "1220",
         "begin": "2008-10-06T16:00:00.000Z",
         "broadcast": "R/2013-08-21T04:20:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003181",
+        "begin": "2015-10-29T06:00:00.000Z",
+        "broadcast": "R/2015-10-29T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -85,6 +91,12 @@
         "id": "1206",
         "begin": "2008-09-23T16:00:00.000Z",
         "broadcast": "R/2011-08-26T03:35:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0054846",
+        "begin": "2021-01-29T03:00:00.000Z",
+        "broadcast": "R/2021-01-29T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -120,6 +132,12 @@
         "site": "acfun",
         "id": "6000137",
         "begin": "2019-09-19T10:58:48.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0035659",
+        "begin": "2018-08-01T03:00:00.000Z",
+        "broadcast": "R/2018-08-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -256,6 +274,39 @@
         "id": "26-48",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091702",
+        "begin": "2023-08-24T15:00:00.000Z",
+        "broadcast": "R/2023-08-24T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "マッハガール",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Mach Girl"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tatsunoko.co.jp/machgirl/",
+    "begin": "2008-09-12T16:00:00.000Z",
+    "broadcast": "R/2008-09-12T16:00:00.000Z/P7D",
+    "end": "2008-09-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "139469"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017886",
+        "begin": "2019-09-09T03:00:00.000Z",
+        "broadcast": "R/2019-09-09T03:00:00.000Z/P7D"
       }
     ]
   }

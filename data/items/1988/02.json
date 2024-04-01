@@ -66,6 +66,12 @@
       {
         "site": "bangumi",
         "id": "103157"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011176",
+        "begin": "2022-07-27T03:00:00.000Z",
+        "broadcast": "R/2022-07-27T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -117,6 +123,12 @@
         "id": "3284",
         "begin": "2016-01-12T09:14:00.000Z",
         "broadcast": "R/2016-01-12T09:14:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011073",
+        "begin": "2018-04-06T03:00:00.000Z",
+        "broadcast": "R/2018-04-06T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -163,6 +175,69 @@
         "id": "4005",
         "begin": "2016-05-17T08:13:00.000Z",
         "broadcast": "R/2016-05-17T08:13:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0040182",
+        "begin": "2019-03-19T03:00:00.000Z",
+        "broadcast": "R/2019-03-19T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "レイナ剣狼伝説",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蕾娜剑狼传说",
+        "Leina 剑狼传说"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-02-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-04-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37243"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004305",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D",
+        "comment": "II: SID0004306, III: SID0004307"
+      }
+    ]
+  },
+  {
+    "title": "おそ松くん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阿松",
+        "我系西瓜刨"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-02-12T16:00:00.000Z",
+    "broadcast": "R/1988-02-12T16:00:00.000Z/P7D",
+    "end": "1989-12-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53765"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002500",
+        "begin": "2020-10-26T03:00:00.000Z",
+        "broadcast": "R/2020-10-26T03:00:00.000Z/P7D"
       }
     ]
   }

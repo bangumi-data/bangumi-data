@@ -29,6 +29,12 @@
         "site": "iqiyi",
         "id": "a_19rrhx03kt",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0060746",
+        "begin": "2021-09-01T03:00:00.000Z",
+        "broadcast": "R/2021-09-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -74,6 +80,12 @@
         "id": "tenchimuyo5th",
         "begin": "2022-01-07T03:00:00.000Z",
         "broadcast": "R/2022-01-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0065304",
+        "begin": "2022-01-07T03:00:00.000Z",
+        "broadcast": "R/2022-01-07T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -115,6 +127,12 @@
         "id": "174-17",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0051713",
+        "begin": "2020-09-24T15:00:00.000Z",
+        "broadcast": "R/2020-09-24T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -139,6 +157,12 @@
       {
         "site": "nicovideo",
         "id": "movie-shirobako",
+        "begin": "2021-02-07T15:00:00.000Z",
+        "broadcast": "R/2021-02-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0053489",
         "begin": "2021-02-07T15:00:00.000Z",
         "broadcast": "R/2021-02-07T15:00:00.000Z/P7D"
       }
@@ -189,6 +213,12 @@
         "id": "110026",
         "begin": "2020-08-15T12:00:00.000Z",
         "broadcast": "R/2020-08-15T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0059040",
+        "begin": "2021-06-11T03:00:00.000Z",
+        "broadcast": "R/2021-06-11T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -250,6 +280,12 @@
         "id": "108388",
         "begin": "2023-10-20T04:00:00.000Z",
         "broadcast": "R/2023-10-20T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0065923",
+        "begin": "2022-02-14T03:00:00.000Z",
+        "broadcast": "R/2022-02-14T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -278,6 +314,68 @@
         "id": "g-reco-movie2",
         "begin": "2021-12-23T15:00:00.000Z",
         "broadcast": "R/2021-12-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0046126",
+        "begin": "2020-02-21T03:00:00.000Z",
+        "broadcast": "R/2020-02-21T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "デジモンアドベンチャー LAST EVOLUTION 絆",
+    "titleTranslate": {
+      "zh-Hans": [
+        "数码宝贝大冒险：最后的进化·羁绊",
+        "数码宝贝：最后的进化",
+        "数码宝贝大冒险 LAST EVOLUTION 绊"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://digimon-adventure.net",
+    "begin": "2020-02-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-02-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "255547"
+      },
+      {
+        "site": "unext",
+        "id": "SID0051546",
+        "begin": "2020-10-02T03:00:00.000Z",
+        "broadcast": "R/2020-10-02T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "爆丸アーマードアライアンス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "爆丸6 装甲联盟"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.bakugan.jp/armoredalliance/",
+    "begin": "2020-02-15T16:00:00.000Z",
+    "broadcast": "R/2020-02-15T16:00:00.000Z/P7D",
+    "end": "2021-01-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "303551"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047167",
+        "begin": "2020-04-03T08:00:00.000Z",
+        "broadcast": "R/2020-04-03T08:00:00.000Z/P7D"
       }
     ]
   }

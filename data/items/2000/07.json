@@ -88,6 +88,12 @@
         "id": "2142",
         "begin": "2000-07-25T16:00:00.000Z",
         "broadcast": "R/2015-01-27T16:09:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002813",
+        "begin": "2018-04-13T03:00:00.000Z",
+        "broadcast": "R/2018-04-13T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -123,6 +129,12 @@
         "id": "3948",
         "begin": "2000-07-27T16:00:01.000Z",
         "broadcast": "R/2021-03-31T15:45:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017580",
+        "begin": "2019-03-21T03:00:00.000Z",
+        "broadcast": "R/2019-03-21T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -142,6 +154,12 @@
       {
         "site": "bangumi",
         "id": "65554"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047507",
+        "begin": "2020-05-02T03:00:00.000Z",
+        "broadcast": "R/2020-05-02T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -202,6 +220,12 @@
         "site": "iqiyi",
         "id": "a_19rrhb4tgp",
         "begin": "2015-08-06T12:03:19.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0020329",
+        "begin": "2020-01-17T03:00:00.000Z",
+        "broadcast": "R/2020-01-17T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -233,6 +257,12 @@
         "begin": "2000-07-07T16:00:01.000Z",
         "broadcast": "",
         "comment": "中文版: 28233198"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028809",
+        "begin": "2022-06-21T03:00:00.000Z",
+        "broadcast": "R/2022-06-21T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -277,6 +307,139 @@
         "id": "5349",
         "begin": "2016-07-25T09:28:00.000Z",
         "broadcast": "R/2016-07-25T09:28:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "銀河英雄伝説外伝 第三次ティアマト会戦",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河英雄传说外传 第三次提亚马特会战"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2000-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2000-07-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "79689"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012545",
+        "begin": "2018-04-06T03:00:00.000Z",
+        "broadcast": "R/2018-04-06T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "映画 おジャ魔女どれみ♯",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小魔女DoReMi ♯ 愿望之花",
+        "小魔女DoReMi之亲心历险",
+        "小魔女DoReMi 魔法玫瑰"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/movie/2000_summer/index.html",
+    "begin": "2000-07-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2000-07-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "14880"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003196",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ジオブリーダーズ2 魍魎遊撃隊 File-XX 乱戦突破",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Geobreeders2 魍魉游击队 File-XX 乱战突破"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2000-07-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2000-07-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "78062"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002622",
+        "begin": "2019-11-30T03:00:00.000Z",
+        "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "やきそばパンマンとブラックサボテンマン",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2000-07-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2000-07-28T16:25:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "316271"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018539",
+        "begin": "2015-10-01T06:00:00.000Z",
+        "broadcast": "R/2015-10-01T06:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン 人魚姫のなみだ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "面包超人：人鱼公主的眼泪"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2000-07-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2000-07-28T16:56:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317689"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018538",
+        "begin": "2015-10-01T06:00:00.000Z",
+        "broadcast": "R/2015-10-01T06:00:00.000Z/P7D"
       }
     ]
   }

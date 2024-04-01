@@ -28,6 +28,12 @@
         "site": "nicovideo",
         "id": "sailormoon",
         "begin": "2014-07-11T15:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002301",
+        "begin": "2019-11-07T03:00:00.000Z",
+        "broadcast": "R/2019-11-07T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -57,6 +63,12 @@
         "site": "iqiyi",
         "id": "a_19rrhb4015",
         "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010767",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -112,6 +124,12 @@
         "id": "35-46",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099857",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -142,6 +160,129 @@
         "id": "7932",
         "begin": "1992-03-26T16:00:01.000Z",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "シークエンス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Sequence"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-03-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-03-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "92434"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012706",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "DRAGON QUEST ダイの大冒険 起ちあがれ!! アバンの使徒",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-03-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-03-06T16:41:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317749"
+      },
+      {
+        "site": "unext",
+        "id": "SID0054519",
+        "begin": "2021-02-01T03:00:00.000Z",
+        "broadcast": "R/2021-02-01T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "バビル2世",
+    "titleTranslate": {
+      "zh-Hans": [
+        "巴比伦二世 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-03-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-03-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37268"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016385",
+        "begin": "2020-12-16T03:00:00.000Z",
+        "broadcast": "R/2020-12-16T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン アンパンマンとゆかいな仲間たち",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060307.html",
+    "begin": "1992-03-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-03-13T16:31:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "419192"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018524",
+        "begin": "2015-07-01T06:00:00.000Z",
+        "broadcast": "R/2015-07-01T06:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン つみき城のひみつ",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060306.html",
+    "begin": "1992-03-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-03-13T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "419191"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018523",
+        "begin": "2015-07-01T06:00:00.000Z",
+        "broadcast": "R/2015-07-01T06:00:00.000Z/P7D"
       }
     ]
   }

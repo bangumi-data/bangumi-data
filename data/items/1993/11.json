@@ -35,6 +35,12 @@
         "site": "bilibili",
         "id": "2328",
         "begin": "1993-11-06T16:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013680",
+        "begin": "2021-01-07T03:00:00.000Z",
+        "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -102,6 +108,68 @@
         "site": "pptv",
         "id": "zHxHxS2TA0GkIoo",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0003361",
+        "begin": "2019-09-18T03:00:00.000Z",
+        "broadcast": "R/2019-09-18T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ぼのぼの",
+    "titleTranslate": {
+      "zh-Hans": [
+        "暖暖日记"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-11-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-11-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "161939"
+      },
+      {
+        "site": "unext",
+        "id": "SID0095784",
+        "begin": "2023-12-13T03:00:00.000Z",
+        "broadcast": "R/2023-12-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bonobono-movie",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "けろけろけろっぴのけろけろハウスのひみつ",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-11-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-11-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "315572"
+      },
+      {
+        "site": "unext",
+        "id": "SID0093078",
+        "begin": "2023-10-01T03:00:00.000Z",
+        "broadcast": "R/2023-10-01T03:00:00.000Z/P7D"
       }
     ]
   }

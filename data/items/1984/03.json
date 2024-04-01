@@ -42,6 +42,12 @@
         "id": "35-46",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099848",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -66,6 +72,12 @@
         "site": "nicovideo",
         "id": "lupin-3rd-3rd",
         "begin": "2011-11-30T06:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002357",
+        "begin": "2015-12-25T03:00:00.000Z",
+        "broadcast": "R/2015-12-25T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -90,6 +102,12 @@
         "site": "pptv",
         "id": "DwzoZs40pOJFwys",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0038629",
+        "begin": "2018-12-06T03:00:00.000Z",
+        "broadcast": "R/2018-12-06T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -173,6 +191,39 @@
         "id": "2430",
         "begin": "2013-06-14T17:42:15.000Z",
         "broadcast": "R/2013-06-14T17:42:15.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0091511",
+        "begin": "2023-09-10T03:00:00.000Z",
+        "broadcast": "R/2023-09-10T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "超人ロック",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超人洛克"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1984-03-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1984-03-10T17:59:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "106691"
+      },
+      {
+        "site": "unext",
+        "id": "SID0041508",
+        "begin": "2019-06-10T03:00:00.000Z",
+        "broadcast": "R/2019-06-10T03:00:00.000Z/P7D"
       }
     ]
   }
