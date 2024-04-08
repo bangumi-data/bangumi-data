@@ -1359,5 +1359,32 @@
         "broadcast": "R/2022-10-22T03:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "デュエル・マスターズ チャージ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "决斗大师Charge"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2004-04-18T16:00:00.000Z",
+    "broadcast": "R/2004-04-18T16:00:00.000Z/P7D",
+    "end": "2006-03-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "293614"
+      },
+      {
+        "site": "unext",
+        "id": "SID0062034",
+        "begin": "2024-04-01T03:00:00.000Z",
+        "broadcast": "R/2024-04-01T03:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "我的英雄学院 第七季"
+      ],
+      "zh-Hant": [
+        "我的英雄學院 第七季"
       ]
     },
     "type": "tv",
@@ -21,6 +24,65 @@
       {
         "site": "unext",
         "id": "SID0100079",
+        "begin": "2024-04-06T09:00:00.000Z",
+        "broadcast": "R/2024-04-06T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "131287",
+        "begin": "2024-04-06T09:30:00.000Z",
+        "broadcast": "R/2024-04-06T09:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JhZzlOqZupbg_TRdfU5dk9D",
+        "begin": "",
+        "broadcast": "",
+        "comment": "Memories"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQT6X5pGJ1Q1efk7NmVuFYO",
+        "begin": "",
+        "broadcast": "",
+        "comment": "Memories"
+      },
+      {
+        "site": "viu",
+        "id": "2339109",
+        "begin": "2024-04-06T09:30:29.000Z",
+        "broadcast": "R/2024-04-06T09:30:29.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "鬼滅の刃 柱稽古編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鬼灭之刃 柱训练篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://kimetsu.com/anime/hashirageikohen/",
+    "begin": "2024-05-12T14:15:00.000Z",
+    "broadcast": "R/2024-05-12T14:15:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "441939"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100064",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "kimetsu-hashirageikohen",
         "begin": "",
         "broadcast": ""
       }

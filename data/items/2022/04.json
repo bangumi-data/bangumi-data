@@ -1211,6 +1211,12 @@
       {
         "site": "bangumi",
         "id": "396444"
+      },
+      {
+        "site": "unext",
+        "id": "SID0068112",
+        "begin": "2024-04-01T03:00:00.000Z",
+        "broadcast": "R/2024-04-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1872,6 +1878,12 @@
         "id": "SID0066843",
         "begin": "2022-04-06T03:00:00.000Z",
         "broadcast": "R/2022-04-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "13-156",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3012,6 +3024,34 @@
         "id": "SID0099820",
         "begin": "2024-03-06T03:00:00.000Z",
         "broadcast": "R/2024-03-06T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "名探偵コナン ハロウィンの花嫁",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 万圣节的新娘",
+        "名侦探柯南 万圣节新娘"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.conan-movie.jp/",
+    "begin": "2022-04-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-04-14T17:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "359930"
+      },
+      {
+        "site": "bilibili",
+        "id": "28368316",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

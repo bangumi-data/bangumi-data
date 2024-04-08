@@ -309,5 +309,39 @@
         "broadcast": "R/2023-03-31T08:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "映画ドラえもん のび太と空の理想郷",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦：大雄与天空的理想乡",
+        "哆啦A梦 大雄与天空乌托邦"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://doraeiga.com/2023/",
+    "begin": "2023-03-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-03-02T17:47:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "390873"
+      },
+      {
+        "site": "bilibili",
+        "id": "28481096",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81734386",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]

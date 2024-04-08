@@ -1681,5 +1681,32 @@
         "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "デュエル・マスターズ クロス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "决斗大师Cross"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.tv-tokyo.co.jp/anime/duel_cross/",
+    "begin": "2008-04-04T16:00:00.000Z",
+    "broadcast": "R/2008-04-04T16:00:00.000Z/P7D",
+    "end": "2010-03-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "293618"
+      },
+      {
+        "site": "unext",
+        "id": "SID0062166",
+        "begin": "2024-04-01T03:00:00.000Z",
+        "broadcast": "R/2024-04-01T03:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

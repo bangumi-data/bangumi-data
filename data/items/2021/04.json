@@ -1917,8 +1917,8 @@
       {
         "site": "unext",
         "id": "SID0056099",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-01-26T03:00:00.000Z",
+        "broadcast": "R/2023-01-26T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -3295,6 +3295,40 @@
         "id": "SID0056084",
         "begin": "2021-06-21T03:00:00.000Z",
         "broadcast": "R/2021-06-21T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "名探偵コナン 緋色の弾丸",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 绯色的子弹",
+        "名侦探柯南 绯色的弹丸"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.conan-movie.jp",
+    "begin": "2021-04-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-04-15T17:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "295318"
+      },
+      {
+        "site": "unext",
+        "id": "SID0080437",
+        "begin": "2024-04-04T15:00:00.000Z",
+        "broadcast": "R/2024-04-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "415-8",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }
