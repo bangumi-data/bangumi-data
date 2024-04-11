@@ -1380,5 +1380,32 @@
         "broadcast": "R/2011-06-17T07:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "デュエル・マスターズ クロスショック",
+    "titleTranslate": {
+      "zh-Hans": [
+        "决斗大师Cross Shock"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.tv-tokyo.co.jp/contents/duel_cross/",
+    "begin": "2010-04-02T16:00:00.000Z",
+    "broadcast": "R/2010-04-02T16:00:00.000Z/P7D",
+    "end": "2011-03-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "293619"
+      },
+      {
+        "site": "unext",
+        "id": "SID0062167",
+        "begin": "2024-04-01T03:00:00.000Z",
+        "broadcast": "R/2024-04-01T03:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

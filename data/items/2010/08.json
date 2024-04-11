@@ -152,5 +152,33 @@
         "broadcast": "R/2015-02-17T06:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "ギャラクシーレーサー スキャン2ゴー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "旋风四驱王",
+        "银河四驱车"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://tv.sbs.co.kr/scan2go/",
+    "begin": "2010-08-08T16:00:00.000Z",
+    "broadcast": "R/2010-08-08T16:00:00.000Z/P7D",
+    "end": "2011-03-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "43208"
+      },
+      {
+        "site": "bilibili",
+        "id": "28220583",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]

@@ -750,6 +750,12 @@
         "id": "19-187",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "21176389",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -999,6 +1005,12 @@
       {
         "site": "abema",
         "id": "26-216",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "21194681",
         "begin": "",
         "broadcast": ""
       }
@@ -1978,6 +1990,12 @@
         "id": "26-215",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "21194555",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2459,6 +2477,7 @@
         "物理魔法使马修 第二季",
         "物理魔法使-马修- 第二季",
         "肌肉魔法使-MASHLE- 第二季",
+        "物理魔法使-马修- 神觉者候选人选拔考试篇",
         "物理魔法使马修 神觉者候补选拔试验篇"
       ],
       "zh-Hant": [
@@ -2510,6 +2529,12 @@
         "id": "SID0097561",
         "begin": "2024-01-09T03:00:00.000Z",
         "broadcast": "R/2024-01-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "21194297",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2703,6 +2728,12 @@
         "id": "25-255",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "21176277",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2795,6 +2826,39 @@
         "id": "482-39",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "名探侦コナンvs.怪盗キッド",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南VS怪盗基德"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.conan-movie.jp/2024/tvspecial/",
+    "begin": "2024-01-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-01-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "467955"
+      },
+      {
+        "site": "abema",
+        "id": "415-8",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0100687",
+        "begin": "2024-04-05T15:00:00.000Z",
+        "broadcast": "R/2024-04-05T15:00:00.000Z/P7D"
       }
     ]
   }

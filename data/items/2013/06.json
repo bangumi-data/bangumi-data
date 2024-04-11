@@ -347,5 +347,34 @@
         "broadcast": "R/2015-06-16T05:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "ハル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "HAL",
+        "春",
+        "京都爱情故事"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://hal-anime.com",
+    "begin": "2013-06-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2013-06-07T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "56849"
+      },
+      {
+        "site": "bilibili",
+        "id": "28235301",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]
