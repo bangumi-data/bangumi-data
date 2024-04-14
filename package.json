@@ -29,6 +29,7 @@
   "author": "Botao <wxt2005@gmail.com>",
   "license": "CC-BY-4.0",
   "devDependencies": {
+    "@semantic-release/git": "^10.0.1",
     "eslint": "^8.6.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.25.4",
