@@ -12,8 +12,7 @@
     "build": "node script/build.js",
     "lint": "eslint script/ --quiet",
     "validate": "node script/validate.js",
-    "test": "npm run lint && npm run validate",
-    "prepublishOnly": "npm run build"
+    "test": "npm run lint && npm run validate"
   },
   "repository": {
     "type": "git",
