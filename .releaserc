@@ -1,22 +1,36 @@
 {
-  "branches": ["master"],
-  "plugins": [
-    [
-        "@semantic-release/commit-analyzer",
-        {
-            "preset": "angular",
-            "releaseRules": [
-                { "type": "update", "release": "patch" }
-            ]
-        }
+    "branches": [
+        "master"
     ],
-    "@semantic-release/npm",
-    [
-      "@semantic-release/github",
-      {
-        "successComment": false,
-        "failComment": false
-      }
+    "plugins": [
+        [
+            "@semantic-release/commit-analyzer",
+            {
+                "preset": "angular",
+                "releaseRules": [
+                    {
+                        "type": "update",
+                        "release": "patch"
+                    }
+                ]
+            }
+        ],
+        "@semantic-release/npm",
+        [
+            "@semantic-release/github",
+            {
+                "successComment": false,
+                "failComment": false
+            }
+        ],
+        [
+            "@semantic-release/git",
+            {
+                "assets": [
+                    "dist/**/*.json"
+                ],
+                "message": "chore(release): ${nextRelease.version} [skip ci]"
+            }
+        ]
     ]
-  ]
 }
