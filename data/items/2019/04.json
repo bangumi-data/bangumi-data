@@ -2625,5 +2625,33 @@
         "broadcast": ""
       }
     ]
+  },
+  {
+    "title": "名探偵コナン 紺青の拳",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 绀青之拳",
+        "名侦探平井 绀青之拳"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.conan-movie.jp/",
+    "begin": "2019-04-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-04-11T17:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "268067"
+      },
+      {
+        "site": "unext",
+        "id": "SID0056973",
+        "begin": "2024-04-12T15:00:00.000Z",
+        "broadcast": "R/2024-04-12T15:00:00.000Z/P7D"
+      }
+    ]
   }
 ]
