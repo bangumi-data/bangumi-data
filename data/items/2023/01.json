@@ -176,6 +176,12 @@
         "id": "SID0069694",
         "begin": "2022-07-26T15:00:00.000Z",
         "broadcast": "R/2022-07-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjJRtW-6ARI19jYmjSNC028",
+        "begin": "2024-05-03T13:00:00.000Z",
+        "broadcast": "R/2024-05-03T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -599,6 +605,12 @@
         "id": "SID0076913",
         "begin": "2023-01-07T03:00:00.000Z",
         "broadcast": "R/2023-01-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81680192",
+        "begin": "2024-04-13T16:00:00.000Z",
+        "broadcast": "R/2024-04-13T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -2212,7 +2224,11 @@
         "搭档奶爸"
       ],
       "zh-Hant": [
-        "Buddy Daddies 殺手奶爸"
+        "Buddy Daddies 殺手奶爸",
+        "殺手奶爸"
+      ],
+      "en": [
+        "Buddy Daddies"
       ]
     },
     "type": "tv",
@@ -2250,6 +2266,12 @@
         "id": "SID0077316",
         "begin": "2023-01-09T03:00:00.000Z",
         "broadcast": "R/2023-01-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81680129",
+        "begin": "2024-04-13T16:00:00.000Z",
+        "broadcast": "R/2024-04-13T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -2964,6 +2986,12 @@
         "id": "SID0076922",
         "begin": "2023-01-08T03:00:00.000Z",
         "broadcast": "R/2023-01-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-191",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3577,6 +3605,33 @@
         "id": "SID0088517",
         "begin": "2023-07-12T03:00:00.000Z",
         "broadcast": "R/2023-07-12T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ルパン三世 VS キャッツ・アイ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世 VS 猫眼三姐妹"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.lupin-vs-catseye.com/",
+    "begin": "2023-01-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "402370"
+      },
+      {
+        "site": "unext",
+        "id": "SID0101870",
+        "begin": "2024-04-23T15:00:00.000Z",
+        "broadcast": "R/2024-04-23T15:00:00.000Z/P7D"
       }
     ]
   }
