@@ -3188,7 +3188,8 @@
         "site": "bilibili",
         "id": "21086686",
         "begin": "2023-11-11T12:00:01.000Z",
-        "broadcast": "R/2023-11-11T12:00:01.000Z/P7D"
+        "broadcast": "R/2023-11-11T12:00:01.000Z/P7D",
+        "comment": "中配版: 21618488"
       },
       {
         "site": "viu",
@@ -3607,6 +3608,12 @@
         "id": "SID0102034",
         "begin": "2024-04-18T15:00:00.000Z",
         "broadcast": "R/2024-04-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "maskdanshi",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

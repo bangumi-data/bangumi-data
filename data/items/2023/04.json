@@ -3167,5 +3167,32 @@
         "broadcast": "R/2023-04-02T00:15:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "名探偵コナン 黒鉄の魚影",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 黑铁的鱼影"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.conan-movie.jp/",
+    "begin": "2023-04-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-04-13T17:49:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "407515"
+      },
+      {
+        "site": "bilibili",
+        "id": "28481105",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]

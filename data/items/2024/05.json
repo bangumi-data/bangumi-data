@@ -87,5 +87,41 @@
         "broadcast": ""
       }
     ]
+  },
+  {
+    "title": "T・Pぼん シーズン1",
+    "titleTranslate": {
+      "zh-Hans": [
+        "时光巡逻队",
+        "时光巡逻队 第一季",
+        "T·P 時光特警 第一季"
+      ],
+      "zh-Hant": [
+        "時光巡邏隊",
+        "T·P 時光特警"
+      ],
+      "en": [
+        "T・P BON"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2024-05-01T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-05-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "457956"
+      },
+      {
+        "site": "netflix",
+        "id": "81497635",
+        "begin": "2024-05-01T16:00:00.000Z",
+        "broadcast": "R/2024-05-01T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]
