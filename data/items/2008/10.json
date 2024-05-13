@@ -1590,7 +1590,14 @@
     "title": "スティッチ！",
     "titleTranslate": {
       "zh-Hans": [
-        "星际宝贝！神奇大冒险"
+        "星际宝贝！神奇大冒险",
+        "星际宝贝：神奇大冒险"
+      ],
+      "zh-Hant": [
+        "星際寶貝：神奇大冒險"
+      ],
+      "en": [
+        "Stitch!"
       ]
     },
     "type": "tv",
@@ -1602,6 +1609,12 @@
       {
         "site": "bangumi",
         "id": "38702"
+      },
+      {
+        "site": "disneyplus",
+        "id": "4H8CW3h37mrz",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

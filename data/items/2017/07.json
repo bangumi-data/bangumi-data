@@ -2360,11 +2360,16 @@
     "title": "マーベル フューチャー・アベンジャーズ",
     "titleTranslate": {
       "en": [
-        "MARVEL FUTURE AVENGERS"
+        "MARVEL FUTURE AVENGERS",
+        "Future Avengers"
       ],
       "zh-Hans": [
         "漫威未来复仇者",
-        "漫威未来:复仇者联盟"
+        "漫威未来:复仇者联盟",
+        "未来复仇者"
+      ],
+      "zh-Hant": [
+        "未來復仇者"
       ]
     },
     "type": "tv",
@@ -2381,6 +2386,12 @@
         "site": "pptv",
         "id": "sIpm5EyyImDDQak",
         "begin": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "4chIo0amCXOO",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

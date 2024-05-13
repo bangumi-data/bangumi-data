@@ -266,5 +266,32 @@
         "broadcast": "R/2023-12-31T15:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "Star Wars: Visions Volume 2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "星球大战：幻境 第二季"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://disneyplusoriginals.disney.com/show/star-wars-visions-volume-2",
+    "begin": "2023-05-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-05-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "385455"
+      },
+      {
+        "site": "disneyplus",
+        "id": "5AiiTRJ7OaKg",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]
