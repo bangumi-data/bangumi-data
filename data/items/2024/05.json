@@ -35,17 +35,17 @@
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7JhZzlOqZupbg_TRdfU5dk9D",
+        "id": "PLxSscENEp7JjQCsqEtHctp6vciETdooSg",
         "begin": "",
         "broadcast": "",
-        "comment": "Memories"
+        "comment": "Memories: PLxSscENEp7JhZzlOqZupbg_TRdfU5dk9D"
       },
       {
         "site": "ani_one",
-        "id": "PLC18xlbCdwtQT6X5pGJ1Q1efk7NmVuFYO",
+        "id": "PLC18xlbCdwtQT7s1soDpUQH2cQvGgmdrP",
         "begin": "",
         "broadcast": "",
-        "comment": "Memories"
+        "comment": "Memories: PLC18xlbCdwtQT6X5pGJ1Q1efk7NmVuFYO"
       },
       {
         "site": "viu",
@@ -60,6 +60,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "鬼灭之刃 柱训练篇"
+      ],
+      "zh-Hant": [
+        "鬼滅之刃 柱訓練篇"
       ]
     },
     "type": "tv",
@@ -85,6 +88,60 @@
         "id": "kimetsu-hashirageikohen",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "viu",
+        "id": "2354709",
+        "begin": "2024-05-12T17:35:02.000Z",
+        "broadcast": "R/2024-05-12T17:35:02.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "133416",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "26-75",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "T・Pぼん シーズン1",
+    "titleTranslate": {
+      "zh-Hans": [
+        "时光巡逻队",
+        "时光巡逻队 第一季",
+        "T·P 時光特警 第一季"
+      ],
+      "zh-Hant": [
+        "時光巡邏隊",
+        "T·P 時光特警"
+      ],
+      "en": [
+        "T・P BON"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2024-05-01T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-05-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "457956"
+      },
+      {
+        "site": "netflix",
+        "id": "81497635",
+        "begin": "2024-05-01T16:00:00.000Z",
+        "broadcast": "R/2024-05-01T16:00:00.000Z/P7D"
       }
     ]
   }

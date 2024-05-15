@@ -60,6 +60,12 @@
         "id": "SID0091754",
         "begin": "2023-09-29T15:00:00.000Z",
         "broadcast": "R/2023-09-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "1rlaH8IM0pkQ",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -568,6 +574,35 @@
         "id": "81450803",
         "begin": "2024-01-14T16:00:00.000Z",
         "broadcast": "R/2024-01-14T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "映画 プリキュアオールスターズF",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 光之美少女 All Stars F",
+        "光之美少女群星F",
+        "光之美少女全明星F"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://2023allstars-f.precure-movie.com/",
+    "begin": "2023-09-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-09-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "422699"
+      },
+      {
+        "site": "unext",
+        "id": "SID0101001",
+        "begin": "2024-04-23T15:00:00.000Z",
+        "broadcast": "R/2024-04-23T15:00:00.000Z/P7D"
       }
     ]
   }

@@ -2275,6 +2275,12 @@
         "id": "SID0030189",
         "begin": "2019-03-31T15:00:00.000Z",
         "broadcast": "R/2019-03-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "158-12",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2354,11 +2360,16 @@
     "title": "マーベル フューチャー・アベンジャーズ",
     "titleTranslate": {
       "en": [
-        "MARVEL FUTURE AVENGERS"
+        "MARVEL FUTURE AVENGERS",
+        "Future Avengers"
       ],
       "zh-Hans": [
         "漫威未来复仇者",
-        "漫威未来:复仇者联盟"
+        "漫威未来:复仇者联盟",
+        "未来复仇者"
+      ],
+      "zh-Hant": [
+        "未來復仇者"
       ]
     },
     "type": "tv",
@@ -2375,6 +2386,12 @@
         "site": "pptv",
         "id": "sIpm5EyyImDDQak",
         "begin": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "4chIo0amCXOO",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2589,6 +2606,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "NO GAME NO LIFE 游戏人生 ZERO"
+      ],
+      "zh-Hant": [
+        "NO GAME NO LIFE 遊戲人生 ZERO"
       ]
     },
     "type": "movie",
@@ -2612,6 +2632,18 @@
         "id": "SID0037807",
         "begin": "2020-06-12T03:00:00.000Z",
         "broadcast": "R/2020-06-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-106",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "84307",
+        "begin": "2024-04-26T04:00:00.000Z",
+        "broadcast": "R/2024-04-26T04:00:00.000Z/P7D"
       }
     ]
   },

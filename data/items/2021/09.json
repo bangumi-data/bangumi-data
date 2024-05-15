@@ -377,5 +377,34 @@
         "broadcast": "R/2021-12-12T15:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "Star Wars: Visions",
+    "titleTranslate": {
+      "zh-Hans": [
+        "星球大战：幻境",
+        "星球大战：幻象",
+        "星球大战：异象"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2021-09-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-09-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "340837"
+      },
+      {
+        "site": "disneyplus",
+        "id": "5AiiTRJ7OaKg",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]
