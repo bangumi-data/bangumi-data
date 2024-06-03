@@ -73,6 +73,11 @@
     "urlTemplate": "https://acg.gamer.com.tw/acgDetail.php?s={{id}}",
     "regions": ["TW"]
   },
+  "gamer_hk": {
+    "title": "動畫瘋 HK",
+    "urlTemplate": "https://acg.gamer.com.tw/acgDetail.php?s={{id}}",
+    "regions": ["HK"]
+  },
   "muse_hk": {
     "title": "木棉花 HK",
     "urlTemplate": "https://www.youtube.com/playlist?list={{id}}",
