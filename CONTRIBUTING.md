@@ -137,7 +137,6 @@ dist/                                --> 存放构建后数据的目录
 * [https://www.le.com/comic/<kbd>10029954</kbd>.html](https://www.le.com/comic/10029954.html)
 * [https://www.mgtv.com/h/<kbd>301218</kbd>.html](https://www.mgtv.com/h/301218.html)
 * [https://ch.nicovideo.jp/<kbd>kemono-friends</kbd>](https://ch.nicovideo.jp/kemono-friends)
-* [http://v.pptv.com/page/<kbd>adq2NJwCcrATkfk</kbd>.html](http://v.pptv.com/page/adq2NJwCcrATkfk.html)
 * [https://tv.sohu.com/<kbd>s2011/yjdwb</kbd>](https://tv.sohu.com/s2011/yjdwb/)
 * [https://v.qq.com/detail/<kbd>g/gyf3u5vx0m42531</kbd>.html](https://v.qq.com/detail/g/gyf3u5vx0m42531.html)
 * [https://list.youku.com/show/id_z<kbd>4d8cce35815111e6b16e</kbd>.html](https://list.youku.com/show/id_z4d8cce35815111e6b16</kbd>.html)

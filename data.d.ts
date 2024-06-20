@@ -184,7 +184,6 @@ type SiteList =
     | "qq"
     | "iqiyi"
     | "letv"
-    | "pptv"
     | "mgtv"
     | "nicovideo"
     | "netflix"

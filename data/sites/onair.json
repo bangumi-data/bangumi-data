@@ -49,11 +49,6 @@
     "urlTemplate": "https://www.le.com/comic/{{id}}.html",
     "regions": ["CN"]
   },
-  "pptv": {
-    "title": "PPTV",
-    "urlTemplate": "http://v.pptv.com/page/{{id}}.html",
-    "regions": ["CN"]
-  },
   "mgtv": {
     "title": "芒果tv",
     "urlTemplate": "https://www.mgtv.com/h/{{id}}.html",
