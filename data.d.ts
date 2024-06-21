@@ -179,7 +179,6 @@ type SiteList =
     | "bilibili_hk_mo_tw"
     | "bilibili_hk_mo"
     | "bilibili_tw"
-    | "sohu"
     | "youku"
     | "qq"
     | "iqiyi"

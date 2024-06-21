@@ -24,11 +24,6 @@
     "urlTemplate": "https://www.bilibili.com/bangumi/media/md{{id}}/",
     "regions": ["TW"]
   },
-  "sohu": {
-    "title": "搜狐视频",
-    "urlTemplate": "https://tv.sohu.com/{{id}}",
-    "regions": ["CN"]
-  },
   "youku": {
     "title": "优酷",
     "urlTemplate": "https://list.youku.com/show/id_z{{id}}.html",
