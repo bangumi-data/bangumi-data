@@ -194,7 +194,6 @@ type SiteList =
     | "viu"
     | "mytv"
     | "disneyplus"
-    | "nowPlayer"
     | "abema"
     | "unext"
     | "dmhy";

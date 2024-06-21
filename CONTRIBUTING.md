@@ -146,7 +146,6 @@ dist/                                --> 存放构建后数据的目录
 * [https://www.viu.com/ott/hk/zh-hk/vod/<kbd>397958</kbd>/](https://www.viu.com/ott/hk/zh-hk/vod/397958/)
 * [https://www.mytvsuper.com/tc/programme/<kbd>397958</kbd>/](https://www.mytvsuper.com/tc/programme/yurucamp_115005/)
 * [https://www.disneyplus.com/series/view/<kbd>fet1h9jqmrAM</kbd>](https://www.disneyplus.com/series/view/fet1h9jqmrAM)
-* [https://nowplayer.now.com/ondemand/detail?id=<kbd>S202206240152184</kbd>&type=series](https://nowplayer.now.com/ondemand/detail?id=S202206240152184&type=series)
 * [https://abema.tv/video/title/<kbd>30-5</kbd>](https://abema.tv/video/title/30-5)
 * [https://video.unext.jp/title/<kbd>SID0079682</kbd>](https://video.unext.jp/title/SID0079682)
 
