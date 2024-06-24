@@ -187,6 +187,7 @@ type SiteList =
     | "nicovideo"
     | "netflix"
     | "gamer"
+    | "gamer_hk"
     | "muse_hk"
     | "ani_one"
     | "ani_one_asia"
