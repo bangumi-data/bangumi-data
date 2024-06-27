@@ -1950,6 +1950,12 @@
         "broadcast": "R/2024-04-03T16:00:07.000Z/P7D"
       },
       {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjUWYVcTRPtdw13U_Z-Xgfi",
+        "begin": "2024-06-19T16:00:07.000Z",
+        "broadcast": "R/2024-06-19T16:00:07.000Z/P7D"
+      },
+      {
         "site": "mytv",
         "id": "bartenderglassofgod_140757",
         "begin": "2024-04-03T16:00:00.000Z",
@@ -2967,7 +2973,8 @@
         "site": "abema",
         "id": "26-221",
         "begin": "",
-        "broadcast": ""
+        "broadcast": "",
+        "comment": "日本語字幕版: 26-222"
       },
       {
         "site": "gamer_hk",
@@ -3338,6 +3345,12 @@
       {
         "site": "bangumi",
         "id": "473805"
+      },
+      {
+        "site": "unext",
+        "id": "SID0104233",
+        "begin": "2024-06-05T03:00:00.000Z",
+        "broadcast": "R/2024-06-05T03:00:00.000Z/P7D"
       }
     ]
   }

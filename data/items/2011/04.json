@@ -454,10 +454,14 @@
     "title": "Aチャンネル",
     "titleTranslate": {
       "en": [
-        "A-CHANNEL"
+        "A-CHANNEL",
+        "A CHANNEL"
       ],
       "zh-Hans": [
         "A频道"
+      ],
+      "zh-Hant": [
+        "A頻道"
       ]
     },
     "type": "tv",
@@ -481,6 +485,12 @@
         "id": "SID0014053",
         "begin": "2019-11-22T03:00:00.000Z",
         "broadcast": "R/2019-11-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Ji8EOQoyANo7hiOyXx_n_Ns",
+        "begin": "2024-06-10T13:00:07.000Z",
+        "broadcast": "R/2024-06-10T13:00:07.000Z/P7D"
       }
     ]
   },
