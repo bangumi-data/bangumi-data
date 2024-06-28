@@ -196,7 +196,8 @@ type SiteList =
     | "disneyplus"
     | "abema"
     | "unext"
-    | "dmhy";
+    | "dmhy"
+    | "bangumi_moe";
 
 export const siteMeta: Record<SiteList, SiteMeta>;
 

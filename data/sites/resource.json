@@ -2,5 +2,9 @@
   "dmhy": {
     "title": "动漫花园",
     "urlTemplate": "https://share.dmhy.org/topics/list?keyword={{id}}"
+  },
+  "bangumi_moe": {
+    "title": "萌番组",
+    "urlTemplate": "https://bangumi.moe/search/{{id}}"
   }
 }
