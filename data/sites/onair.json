@@ -24,11 +24,6 @@
     "urlTemplate": "https://www.bilibili.com/bangumi/media/md{{id}}/",
     "regions": ["TW"]
   },
-  "sohu": {
-    "title": "搜狐视频",
-    "urlTemplate": "https://tv.sohu.com/{{id}}",
-    "regions": ["CN"]
-  },
   "youku": {
     "title": "优酷",
     "urlTemplate": "https://list.youku.com/show/id_z{{id}}.html",
@@ -47,11 +42,6 @@
   "letv": {
     "title": "乐视",
     "urlTemplate": "https://www.le.com/comic/{{id}}.html",
-    "regions": ["CN"]
-  },
-  "pptv": {
-    "title": "PPTV",
-    "urlTemplate": "http://v.pptv.com/page/{{id}}.html",
     "regions": ["CN"]
   },
   "mgtv": {
@@ -101,11 +91,6 @@
   "disneyplus": {
     "title": "Disney+",
     "urlTemplate": "https://www.disneyplus.com/series/view/{{id}}"
-  },
-  "nowPlayer": {
-    "title": "Now Player",
-    "urlTemplate": "https://nowplayer.now.com/ondemand/detail?id={{id}}&type=series",
-    "regions": ["HK"]
   },
   "abema": {
     "title": "ABEMA",
