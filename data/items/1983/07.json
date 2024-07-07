@@ -155,5 +155,35 @@
         "broadcast": "R/2019-08-29T03:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "超時空世紀オーガス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超时空世纪",
+        "超时空世纪ORGUSS",
+        "时空争霸战",
+        "时空战警"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1983-07-02T16:00:00.000Z",
+    "broadcast": "R/1983-07-02T16:00:00.000Z/P7D",
+    "end": "1984-04-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37167"
+      },
+      {
+        "site": "unext",
+        "id": "SID0103613",
+        "begin": "2024-06-01T03:00:00.000Z",
+        "broadcast": "R/2024-06-01T03:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

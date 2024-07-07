@@ -375,5 +375,32 @@
         "broadcast": "R/2024-06-21T15:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "映画 すみっコぐらし ツギハギ工場のふしぎなコ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 角落小伙伴 奇幻的玩具工厂"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://sumikkogurashi-movie.com/",
+    "begin": "2023-11-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-11-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "422904"
+      },
+      {
+        "site": "unext",
+        "id": "SID0102983",
+        "begin": "2024-06-28T15:00:00.000Z",
+        "broadcast": "R/2024-06-28T15:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

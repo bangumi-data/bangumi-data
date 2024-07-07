@@ -3,7 +3,8 @@
     "title": "まぁるい彼女と残念な彼氏",
     "titleTranslate": {
       "zh-Hans": [
-        "棉花糖女孩遇上闷骚男孩"
+        "棉花糖女孩遇上闷骚男孩",
+        "圆满女友和遗憾男友"
       ]
     },
     "type": "tv",
@@ -17,6 +18,18 @@
       {
         "site": "bangumi",
         "id": "491923"
+      },
+      {
+        "site": "unext",
+        "id": "SID0103568",
+        "begin": "2024-06-08T03:00:00.000Z",
+        "broadcast": "R/2024-06-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "54-91",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -120,6 +133,39 @@
         "id": "81563026",
         "begin": "2024-06-21T16:00:00.000Z",
         "broadcast": "R/2024-06-21T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "あたしンちNEXT",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我们这一家NEXT"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://atashinchi30th-anime.shin-ei-animation.jp/",
+    "begin": "2024-06-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "474905"
+      },
+      {
+        "site": "abema",
+        "id": "35-57",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0104458",
+        "begin": "2024-07-05T09:30:00.000Z",
+        "broadcast": "R/2024-07-05T09:30:00.000Z/P7D"
       }
     ]
   }

@@ -1267,7 +1267,8 @@
         "site": "unext",
         "id": "SID0096000",
         "begin": "2024-01-06T16:00:00.000Z",
-        "broadcast": "R/2024-01-06T16:00:00.000Z/P7D"
+        "broadcast": "R/2024-01-06T16:00:00.000Z/P7D",
+        "comment": "キャストコメンタリー版: SID0099214"
       },
       {
         "site": "gamer",
@@ -3503,6 +3504,33 @@
         "id": "SID0100687",
         "begin": "2024-04-05T15:00:00.000Z",
         "broadcast": "R/2024-04-05T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "BLOODY ESCAPE -地獄の逃走劇-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "BLOODY ESCAPE -地狱的逃跑剧-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://bloody-escape.com/",
+    "begin": "2024-01-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-01-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "366257"
+      },
+      {
+        "site": "unext",
+        "id": "SID0103190",
+        "begin": "2024-06-05T03:00:00.000Z",
+        "broadcast": "R/2024-06-05T03:00:00.000Z/P7D"
       }
     ]
   }
