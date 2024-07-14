@@ -415,5 +415,33 @@
         "broadcast": "R/2024-03-08T15:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "バイオハザード：デスアイランド",
+    "titleTranslate": {
+      "zh-Hans": [
+        "生化危机 死亡岛",
+        "生化危机：死亡岛"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://biohazard-deathisland.com/",
+    "begin": "2023-06-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-06-20T17:27:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "419426"
+      },
+      {
+        "site": "bilibili",
+        "id": "20366851",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]

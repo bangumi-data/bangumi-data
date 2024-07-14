@@ -559,6 +559,12 @@
       {
         "site": "mikan",
         "id": "3296"
+      },
+      {
+        "site": "bilibili",
+        "id": "21775114",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1170,6 +1176,12 @@
       {
         "site": "mikan",
         "id": "3304"
+      },
+      {
+        "site": "bilibili",
+        "id": "22134462",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2166,7 +2178,11 @@
   },
   {
     "title": "THE NEW GATE",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "新世界之门"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://the-new-gate-pr.com/",
@@ -2222,6 +2238,12 @@
       {
         "site": "mikan",
         "id": "3320"
+      },
+      {
+        "site": "bilibili",
+        "id": "22105707",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3961,6 +3983,72 @@
       {
         "site": "mikan",
         "id": "3346"
+      }
+    ]
+  },
+  {
+    "title": "クラメルカガリ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "炫目篝火"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kurayukaba.com/",
+    "begin": "2024-04-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-04-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "284235"
+      },
+      {
+        "site": "bilibili",
+        "id": "21232705",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "21232815",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "クラユカバ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "昏行者"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.kurayukaba.jp/kurayukaba/",
+    "begin": "2024-04-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-04-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "469357"
+      },
+      {
+        "site": "bilibili",
+        "id": "21232705",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "21232815",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }
