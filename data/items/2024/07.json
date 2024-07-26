@@ -989,7 +989,8 @@
         "site": "unext",
         "id": "SID0104174",
         "begin": "2024-07-10T15:00:00.000Z",
-        "broadcast": "R/2024-07-10T15:00:00.000Z/P7D"
+        "broadcast": "R/2024-07-10T15:00:00.000Z/P7D",
+        "comment": "ミニアニメ「直江くんは痩せさせたい。」: SID0104705"
       },
       {
         "site": "abema",
@@ -1140,6 +1141,10 @@
         "id": "137444",
         "begin": "2024-07-06T14:30:00.000Z",
         "broadcast": "R/2024-07-06T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "669cf974bfe5da00073b109f"
       }
     ]
   },
@@ -2101,6 +2106,12 @@
       {
         "site": "unext",
         "id": "SID0104164",
+        "begin": "2024-07-20T03:00:00.000Z",
+        "broadcast": "R/2024-07-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "54-93",
         "begin": "",
         "broadcast": ""
       }
@@ -2423,6 +2434,9 @@
       ],
       "zh-Hant": [
         "戰國妖狐 千魔混沌篇"
+      ],
+      "en": [
+        "Sengoku Youko: The Thousandfold Chaos Arc"
       ]
     },
     "type": "tv",
@@ -2464,6 +2478,12 @@
         "id": "PLC18xlbCdwtTJ4K9PFAHWWV6jqpBux-tJ",
         "begin": "2024-07-17T15:00:07.000Z",
         "broadcast": "R/2024-07-17T15:00:07.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jg7-Gjeh9OSWOtADRl__bLB",
+        "begin": "2024-07-24T15:00:06.000Z",
+        "broadcast": "R/2024-07-24T15:00:06.000Z/P7D"
       }
     ]
   },
@@ -3189,6 +3209,40 @@
         "id": "SID0104468",
         "begin": "2024-07-15T03:00:00.000Z",
         "broadcast": "R/2024-07-15T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "こねこのチー ポンポンらー夏休み",
+    "titleTranslate": {
+      "zh-Hans": [
+        "甜甜私房猫 吃饱啦暑假",
+        "甜甜私房猫：暑假大冒险"
+      ],
+      "zh-Hant": [
+        "奇奇的美好冒險：快樂暑假"
+      ],
+      "en": [
+        "Chi’s Sweet Adventure"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://koneko-chi.com/",
+    "begin": "2024-07-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-07-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "481662"
+      },
+      {
+        "site": "netflix",
+        "id": "81712502",
+        "begin": "2024-07-17T16:00:00.000Z",
+        "broadcast": "R/2024-07-17T16:00:00.000Z/P7D"
       }
     ]
   }

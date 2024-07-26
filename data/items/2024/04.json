@@ -422,7 +422,12 @@
         "防风铃"
       ],
       "zh-Hant": [
-        "WIND BREAKER—防風少年—"
+        "WIND BREAKER—防風少年—",
+        "防風少年",
+        "WIND BREAKER：防風少年"
+      ],
+      "en": [
+        "Wind Breaker"
       ]
     },
     "type": "tv",
@@ -478,6 +483,12 @@
       {
         "site": "mikan",
         "id": "3295"
+      },
+      {
+        "site": "netflix",
+        "id": "81771389",
+        "begin": "2024-07-18T16:00:00.000Z",
+        "broadcast": "R/2024-07-18T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -853,6 +864,12 @@
       {
         "site": "mikan",
         "id": "3300"
+      },
+      {
+        "site": "netflix",
+        "id": "81767667",
+        "begin": "2024-07-23T16:00:00.000Z",
+        "broadcast": "R/2024-07-23T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -3533,7 +3550,8 @@
         "site": "unext",
         "id": "SID0100069",
         "begin": "2024-04-09T03:00:00.000Z",
-        "broadcast": "R/2024-04-09T03:00:00.000Z/P7D"
+        "broadcast": "R/2024-04-09T03:00:00.000Z/P7D",
+        "comment": "日本語字幕版: SID0147781"
       },
       {
         "site": "ani_one",
