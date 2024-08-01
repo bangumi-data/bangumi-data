@@ -82,5 +82,55 @@
         "broadcast": ""
       }
     ]
+  },
+  {
+    "title": "映画おしりたんてい さらば愛しき相棒よ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影屁屁侦探 再见亲爱的伙伴"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://oshiri-movie.com/",
+    "begin": "2024-03-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-03-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "455630"
+      },
+      {
+        "site": "unext",
+        "id": "SID0102525",
+        "begin": "2024-06-21T03:00:00.000Z",
+        "broadcast": "R/2024-06-21T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "映画しまじろう ミラクルじまの なないろカーネーション",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://shimajiro.jp/movie2024/",
+    "begin": "2024-03-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-03-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "469288"
+      },
+      {
+        "site": "unext",
+        "id": "SID0104042",
+        "begin": "2024-07-08T03:00:00.000Z",
+        "broadcast": "R/2024-07-08T03:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

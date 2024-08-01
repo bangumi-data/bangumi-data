@@ -54,6 +54,22 @@
         "id": "SID0095559",
         "begin": "2023-11-05T03:00:00.000Z",
         "broadcast": "R/2023-11-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "136226",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchkFx6Rl70VbQeT10lIKoL7",
+        "begin": "2024-06-25T16:00:00.000Z",
+        "broadcast": "R/2024-06-25T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3215"
       }
     ]
   },
@@ -276,6 +292,114 @@
         "id": "gintama-2d",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "攻殻機動隊 SAC_2045 最後の人間",
+    "titleTranslate": {
+      "zh-Hans": [
+        "攻壳机动队SAC_2045 最后的人类"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.ghostintheshell-sac2045.jp/",
+    "begin": "2023-11-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-11-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "425994"
+      },
+      {
+        "site": "unext",
+        "id": "SID0101557",
+        "begin": "2024-05-25T09:00:00.000Z",
+        "broadcast": "R/2024-05-25T09:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 シルバニアファミリー フレアからのおくりもの",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 森林家族 來自芙蕾雅的礼物"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://sylvanianfamilies-movie.com/",
+    "begin": "2023-11-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-11-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "457070"
+      },
+      {
+        "site": "unext",
+        "id": "SID0102365",
+        "begin": "2024-05-25T15:00:00.000Z",
+        "broadcast": "R/2024-05-25T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "鬼太郎誕生 ゲゲゲの謎",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鬼太郎诞生 咯咯咯之谜"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.toei-anim.co.jp/kitaro-akumakun/",
+    "begin": "2023-11-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-11-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "360256"
+      },
+      {
+        "site": "unext",
+        "id": "SID0104022",
+        "begin": "2024-06-21T15:00:00.000Z",
+        "broadcast": "R/2024-06-21T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "映画 すみっコぐらし ツギハギ工場のふしぎなコ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 角落小伙伴 奇幻的玩具工厂"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://sumikkogurashi-movie.com/",
+    "begin": "2023-11-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-11-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "422904"
+      },
+      {
+        "site": "unext",
+        "id": "SID0102983",
+        "begin": "2024-06-28T15:00:00.000Z",
+        "broadcast": "R/2024-06-28T15:00:00.000Z/P7D"
       }
     ]
   }

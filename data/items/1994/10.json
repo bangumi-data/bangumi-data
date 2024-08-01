@@ -31,6 +31,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "超时空要塞7"
+      ],
+      "zh-Hant": [
+        "超時空要塞7"
+      ],
+      "en": [
+        "Macross 7"
       ]
     },
     "type": "tv",
@@ -49,6 +55,12 @@
         "begin": "2022-07-31T15:00:00.000Z",
         "broadcast": "R/2022-07-31T15:00:00.000Z/P7D",
         "comment": "TV未放映話: SID0016939"
+      },
+      {
+        "site": "disneyplus",
+        "id": "6VTFnLWm3vOs",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -153,6 +165,10 @@
         "id": "SID0030225",
         "begin": "2018-08-14T03:00:00.000Z",
         "broadcast": "R/2018-08-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "595681b7cc40e0d626c234d6"
       }
     ]
   },

@@ -118,5 +118,107 @@
         "broadcast": "R/2024-05-01T03:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "青春ブタ野郎はランドセルガールの夢を見ない",
+    "titleTranslate": {
+      "zh-Hans": [
+        "青春笨蛋少年不做小学美少女的梦",
+        "青春猪头少年不做小学美少女的梦",
+        "青春猪头少年不会梦到红书包女孩"
+      ],
+      "zh-Hant": [
+        "青春豬頭少年不會夢到紅書包女孩"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://ao-buta.com/knapsack/",
+    "begin": "2023-11-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-11-30T17:15:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "426239"
+      },
+      {
+        "site": "unext",
+        "id": "SID0104828",
+        "begin": "2024-06-25T15:00:00.000Z",
+        "broadcast": "R/2024-06-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3287"
+      },
+      {
+        "site": "netflix",
+        "id": "81906766",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "窓ぎわのトットちゃん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "窗边的小豆豆"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://tottochan-movie.jp/",
+    "begin": "2023-12-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-12-07T17:54:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "425290"
+      },
+      {
+        "site": "unext",
+        "id": "SID0103364",
+        "begin": "2024-05-29T03:00:00.000Z",
+        "broadcast": "R/2024-05-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3351"
+      }
+    ]
+  },
+  {
+    "title": "屋根裏のラジャー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "屋顶上的拉贾",
+        "阁楼的拉杰",
+        "楼阁的罗哲"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.ponoc.jp/Rudger/",
+    "begin": "2023-12-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-12-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "361352"
+      },
+      {
+        "site": "netflix",
+        "id": "81565710",
+        "begin": "2024-07-04T16:00:00.000Z",
+        "broadcast": "R/2024-07-04T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]
