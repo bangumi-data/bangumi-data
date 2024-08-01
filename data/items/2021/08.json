@@ -42,6 +42,12 @@
         "id": "114751",
         "begin": "2024-04-19T04:00:00.000Z",
         "broadcast": "R/2024-04-19T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "114751",
+        "begin": "2024-04-19T04:00:00.000Z",
+        "broadcast": "R/2024-04-19T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -82,7 +88,11 @@
   },
   {
     "title": "BanG Dream! FILM LIVE 2nd Stage",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hant": [
+        "BanG Dream！FILM LIVE 2nd Stage"
+      ]
+    },
     "type": "movie",
     "lang": "ja",
     "officialSite": "https://anime.bang-dream.com/filmlive2/",
@@ -96,6 +106,12 @@
       },
       {
         "site": "gamer",
+        "id": "110501",
+        "begin": "2022-07-21T06:00:00.000Z",
+        "broadcast": "R/2022-07-21T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
         "id": "110501",
         "begin": "2022-07-21T06:00:00.000Z",
         "broadcast": "R/2022-07-21T06:00:00.000Z/P7D"
@@ -148,6 +164,12 @@
         "id": "115033",
         "begin": "2024-05-03T04:00:00.000Z",
         "broadcast": "R/2024-05-03T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "115033",
+        "begin": "2024-05-03T04:00:00.000Z",
+        "broadcast": "R/2024-05-03T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -188,6 +210,10 @@
         "id": "SID0066473",
         "begin": "2022-02-25T03:00:00.000Z",
         "broadcast": "R/2022-02-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2416"
       }
     ]
   },
@@ -257,6 +283,10 @@
         "id": "SID0061820",
         "begin": "2021-10-11T03:00:00.000Z",
         "broadcast": "R/2021-10-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2541"
       }
     ]
   },
@@ -316,6 +346,33 @@
         "id": "117090",
         "begin": "2023-09-20T02:30:00.000Z",
         "broadcast": "R/2023-09-20T02:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "Re:STARS 〜未来へ繋ぐ2つのきらぼし〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "今天开始做明星之天使情歌"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://re-stars.com/movie/",
+    "begin": "2021-08-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-08-02T17:29:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "364866"
+      },
+      {
+        "site": "unext",
+        "id": "SID0103352",
+        "begin": "2024-06-07T03:00:00.000Z",
+        "broadcast": "R/2024-06-07T03:00:00.000Z/P7D"
       }
     ]
   }

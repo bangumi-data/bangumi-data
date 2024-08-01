@@ -30,6 +30,10 @@
         "id": "SID0011294",
         "begin": "2022-10-08T03:00:00.000Z",
         "broadcast": "R/2022-10-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "光之美少女+suite"
       }
     ]
   },
@@ -166,6 +170,12 @@
         "id": "SID0013311",
         "begin": "2018-09-20T03:00:00.000Z",
         "broadcast": "R/2018-09-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "39644",
+        "begin": "2022-01-07T05:00:00.000Z",
+        "broadcast": "R/2022-01-07T05:00:00.000Z/P7D"
       }
     ]
   },
@@ -199,6 +209,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "剧场版 超时空要塞F 恋离飞翼"
+      ],
+      "zh-Hant": [
+        "劇場版超時空要塞F～戀離飛翼～"
+      ],
+      "en": [
+        "Macross Frontier: The Wings of Farewell"
       ]
     },
     "type": "movie",
@@ -222,6 +238,13 @@
         "id": "SID0016945",
         "begin": "2022-07-31T15:00:00.000Z",
         "broadcast": "R/2022-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "15MHR7PQMMyE",
+        "url": "https://www.disneyplus.com/movies/macross-frontier-the-wings-of-farewell/15MHR7PQMMyE",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

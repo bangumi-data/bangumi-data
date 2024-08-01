@@ -187,6 +187,7 @@ type SiteList =
     | "nicovideo"
     | "netflix"
     | "gamer"
+    | "gamer_hk"
     | "muse_hk"
     | "ani_one"
     | "ani_one_asia"
@@ -195,7 +196,9 @@ type SiteList =
     | "disneyplus"
     | "abema"
     | "unext"
-    | "dmhy";
+    | "dmhy"
+    | "mikan"
+    | "bangumi_moe";
 
 export const siteMeta: Record<SiteList, SiteMeta>;
 

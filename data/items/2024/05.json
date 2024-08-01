@@ -52,6 +52,20 @@
         "id": "2339109",
         "begin": "2024-04-06T09:30:29.000Z",
         "broadcast": "R/2024-04-06T09:30:29.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "131287",
+        "begin": "2024-05-04T09:30:00.000Z",
+        "broadcast": "R/2024-05-04T09:30:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "66097bc816e6bbcc806d3452"
+      },
+      {
+        "site": "mikan",
+        "id": "3343"
       }
     ]
   },
@@ -93,7 +107,8 @@
         "site": "viu",
         "id": "2354709",
         "begin": "2024-05-12T17:35:02.000Z",
-        "broadcast": "R/2024-05-12T17:35:02.000Z/P7D"
+        "broadcast": "R/2024-05-12T17:35:02.000Z/P7D",
+        "comment": "粵語版: 2375814"
       },
       {
         "site": "gamer",
@@ -104,6 +119,26 @@
       {
         "site": "abema",
         "id": "26-75",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "66097bb616e6bbcc806d3400"
+      },
+      {
+        "site": "mikan",
+        "id": "3350"
+      },
+      {
+        "site": "bilibili",
+        "id": "21226899",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "133416",
         "begin": "",
         "broadcast": ""
       }
@@ -142,6 +177,114 @@
         "id": "81497635",
         "begin": "2024-05-01T16:00:00.000Z",
         "broadcast": "R/2024-05-01T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "餓狼伝: The Way of the Lone Wolf",
+    "titleTranslate": {
+      "zh-Hans": [
+        "饿狼传：孤狼之道"
+      ],
+      "zh-Hant": [
+        "餓狼傳：孤狼之道"
+      ],
+      "en": [
+        "Garouden: The Way of the Lone Wolf"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2024-05-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-05-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "491290"
+      },
+      {
+        "site": "netflix",
+        "id": "81215625",
+        "begin": "2024-05-22T16:00:00.000Z",
+        "broadcast": "R/2024-05-22T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "好きでも嫌いなあまのじゃく",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我的鬼女孩",
+        "我喜欢它也讨厌它"
+      ],
+      "zh-Hant": [
+        "我的鬼女孩"
+      ],
+      "en": [
+        "My Oni Girl"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.amanojaku-movie.com/",
+    "begin": "2024-05-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-05-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "485154"
+      },
+      {
+        "site": "netflix",
+        "id": "81582442",
+        "begin": "2024-05-23T16:00:00.000Z",
+        "broadcast": "R/2024-05-23T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "デッドデッドデーモンズデデデデデストラクション",
+    "titleTranslate": {
+      "zh-Hans": [
+        "DDDD 恶魔的破坏",
+        "恶魔的破坏 DEAD DEAD DEMON'S DEDEDEDE DESTRUCTION"
+      ],
+      "zh-Hant": [
+        "DDDD 惡魔的破壞"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://dededede.jp/",
+    "begin": "2024-05-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "495562"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "140064",
+        "begin": "2024-06-20T16:00:00.000Z",
+        "broadcast": "R/2024-06-20T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "140064",
+        "begin": "2024-06-20T16:00:00.000Z",
+        "broadcast": "R/2024-06-20T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3352"
       }
     ]
   }

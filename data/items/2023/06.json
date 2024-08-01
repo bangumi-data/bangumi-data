@@ -1,7 +1,11 @@
 [
   {
     "title": "BanG Dream! It's MyGO!!!!!",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hant": [
+        "BanG Dream! It's MyGO!!!!!"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://anime.bang-dream.com/mygo/",
@@ -43,6 +47,24 @@
         "id": "SID0088573",
         "begin": "2023-06-30T14:30:00.000Z",
         "broadcast": "R/2023-06-30T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "131634",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "dmhy",
+        "id": "MyGO"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "649efec368e7233aec4c96db"
+      },
+      {
+        "site": "mikan",
+        "id": "3052"
       }
     ]
   },
@@ -98,6 +120,24 @@
         "id": "SID0087150",
         "begin": "2023-07-02T14:00:00.000Z",
         "broadcast": "R/2023-07-02T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "125457",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "dmhy",
+        "id": "幻日"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "649efeb868e7233aec4c96b7"
+      },
+      {
+        "site": "mikan",
+        "id": "3049"
       }
     ]
   },
@@ -203,6 +243,10 @@
         "id": "SID0088263",
         "begin": "2023-07-24T03:00:00.000Z",
         "broadcast": "R/2023-07-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3133"
       }
     ]
   },
@@ -250,6 +294,16 @@
         "id": "SID0094540",
         "begin": "2023-10-23T15:00:00.000Z",
         "broadcast": "R/2023-10-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "135259",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3014"
       }
     ]
   },
@@ -293,6 +347,22 @@
         "id": "SID0095921",
         "begin": "2023-11-28T15:00:00.000Z",
         "broadcast": "R/2023-11-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "127587",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3216"
+      },
+      {
+        "site": "netflix",
+        "id": "81765074",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -349,6 +419,34 @@
         "id": "SID0099225",
         "begin": "2024-03-08T15:00:00.000Z",
         "broadcast": "R/2024-03-08T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "バイオハザード：デスアイランド",
+    "titleTranslate": {
+      "zh-Hans": [
+        "生化危机 死亡岛",
+        "生化危机：死亡岛"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://biohazard-deathisland.com/",
+    "begin": "2023-06-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-06-20T17:27:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "419426"
+      },
+      {
+        "site": "bilibili",
+        "id": "20366851",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }
