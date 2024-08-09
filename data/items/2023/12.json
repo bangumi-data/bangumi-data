@@ -158,6 +158,18 @@
         "id": "81906766",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "133271",
+        "begin": "2024-07-26T16:00:00.000Z",
+        "broadcast": "R/2024-07-26T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "133271",
+        "begin": "2024-07-26T16:00:00.000Z",
+        "broadcast": "R/2024-07-26T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -218,6 +230,34 @@
         "id": "81565710",
         "begin": "2024-07-04T16:00:00.000Z",
         "broadcast": "R/2024-07-04T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 SPY×FAMILY CODE: White",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 间谍过家家 代号：白",
+        "间谍过家家 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://spy-family.net/codewhite/",
+    "begin": "2023-12-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-12-21T17:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "411428"
+      },
+      {
+        "site": "unext",
+        "id": "SID0125020",
+        "begin": "2024-07-30T15:00:00.000Z",
+        "broadcast": "R/2024-07-30T15:00:00.000Z/P7D"
       }
     ]
   }

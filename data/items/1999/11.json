@@ -56,5 +56,32 @@
         "broadcast": "R/2022-10-29T03:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "人狼 JIN-ROH",
+    "titleTranslate": {
+      "zh-Hans": [
+        "人狼"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-11-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1999-11-16T17:42:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "844"
+      },
+      {
+        "site": "gamer",
+        "id": "19972",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]
