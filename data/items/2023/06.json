@@ -449,5 +449,35 @@
         "broadcast": ""
       }
     ]
+  },
+  {
+    "title": "それいけ!アンパンマン ロボリィとぽかぽかプレゼント",
+    "titleTranslate": {
+      "zh-Hans": [
+        "面包超人 乐波莉与暖呼呼礼物"
+      ],
+      "zh-Hant": [
+        "麵包超人電影版：樂波莉與暖呼呼禮物"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://anpan-movie.com/2023/",
+    "begin": "2023-06-29T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-06-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "418493"
+      },
+      {
+        "site": "gamer",
+        "id": "135362",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]
