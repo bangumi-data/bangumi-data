@@ -4452,5 +4452,43 @@
         "broadcast": ""
       }
     ]
+  },
+  {
+    "title": "デジモンアドベンチャー02 THE BEGINNING",
+    "titleTranslate": {
+      "zh-Hans": [
+        "数码宝贝02：最初的召唤",
+        "数码宝贝大冒险02：起源",
+        "数码宝贝02：起源",
+        "数码宝贝02 THE BEGINNING",
+        "数码暴龙02 THE BEGINNING",
+        "数码兽大冒险02 THE BEGINNING"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.toei-anim.co.jp/movie/digimon-adventure/",
+    "begin": "2023-10-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-10-26T17:20:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "341141"
+      },
+      {
+        "site": "unext",
+        "id": "SID0148285",
+        "begin": "2024-07-31T15:00:00.000Z",
+        "broadcast": "R/2024-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "21225247",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]
