@@ -30,6 +30,16 @@
         "id": "54-91",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3356"
+      },
+      {
+        "site": "nicovideo",
+        "id": "marukano",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -166,6 +176,33 @@
         "id": "SID0104458",
         "begin": "2024-07-05T09:30:00.000Z",
         "broadcast": "R/2024-07-05T09:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "大室家 dear friends",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大室家 亲爱的朋友们"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://ohmuroke.com/",
+    "begin": "2024-06-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-06-20T16:44:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "448657"
+      },
+      {
+        "site": "unext",
+        "id": "SID0148357",
+        "begin": "2024-08-22T15:00:00.000Z",
+        "broadcast": "R/2024-08-22T15:00:00.000Z/P7D"
       }
     ]
   }

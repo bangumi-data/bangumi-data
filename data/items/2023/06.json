@@ -479,5 +479,75 @@
         "broadcast": ""
       }
     ]
+  },
+  {
+    "title": "劇場版 美少女戦士セーラームーンCosmos 前編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 美少女战士Cosmos 前編",
+        "剧场版美少女战士：宇宙之章"
+      ],
+      "zh-Hant": [
+        "劇場版 美少女戰士 Cosmos",
+        "劇場版美少女戰士 Sailor Moon Cosmos"
+      ],
+      "en": [
+        "Pretty Guardian Sailor Moon Cosmos The Movie"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://2023.sailormoon-movie.jp/",
+    "begin": "2023-06-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-06-08T17:20:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "379605"
+      },
+      {
+        "site": "netflix",
+        "id": "81732000",
+        "begin": "2024-08-21T16:00:00.000Z",
+        "broadcast": "R/2024-08-21T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 美少女戦士セーラームーンCosmos 後編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 美少女战士Cosmos 后篇",
+        "剧场版美少女战士：宇宙之章"
+      ],
+      "zh-Hant": [
+        "劇場版 美少女戰士 Cosmos",
+        "劇場版美少女戰士 Sailor Moon Cosmos"
+      ],
+      "en": [
+        "Pretty Guardian Sailor Moon Cosmos The Movie"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://2023.sailormoon-movie.jp/",
+    "begin": "2023-06-29T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-06-29T17:20:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "415728"
+      },
+      {
+        "site": "netflix",
+        "id": "81732000",
+        "begin": "2024-08-21T16:00:00.000Z",
+        "broadcast": "R/2024-08-21T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

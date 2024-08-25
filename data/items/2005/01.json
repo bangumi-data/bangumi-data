@@ -21,7 +21,8 @@
       {
         "site": "nicovideo",
         "id": "negima01",
-        "begin": "2014-12-25T06:00:00.000Z"
+        "begin": "2014-12-25T06:00:00.000Z",
+        "broadcast": "R/2014-12-25T06:00:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -76,7 +77,8 @@
       {
         "site": "nicovideo",
         "id": "air_anime",
-        "begin": "2018-12-27T15:00:00.000Z"
+        "begin": "2018-12-27T15:00:00.000Z",
+        "broadcast": "R/2018-12-27T15:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -572,6 +574,12 @@
         "id": "29784",
         "begin": "2023-06-16T03:10:00.000Z",
         "broadcast": "R/2023-06-16T03:10:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tenipuri-hutarinosamurai",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -633,6 +641,12 @@
         "id": "133052",
         "begin": "2023-06-16T03:10:00.000Z",
         "broadcast": "R/2023-06-16T03:10:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tenipuri-atobekaranookurimono",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

@@ -372,5 +372,45 @@
         "id": "229508"
       }
     ]
+  },
+  {
+    "title": "Aチャンネル 鍋を食べよう",
+    "titleTranslate": {
+      "zh-Hans": [
+        "A频道 来吃火锅吧"
+      ],
+      "zh-Hant": [
+        "A 頻道 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.a-ch.jp/bd_dvd/bdbox.html",
+    "begin": "2017-09-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-09-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "212084"
+      },
+      {
+        "site": "mikan",
+        "id": "1476"
+      },
+      {
+        "site": "gamer",
+        "id": "51101",
+        "begin": "2024-08-23T04:00:00.000Z",
+        "broadcast": "R/2024-08-23T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "51101",
+        "begin": "2024-08-23T04:00:00.000Z",
+        "broadcast": "R/2024-08-23T04:00:00.000Z/P7D"
+      }
+    ]
   }
 ]
