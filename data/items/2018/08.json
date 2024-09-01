@@ -64,7 +64,8 @@
       {
         "site": "nicovideo",
         "id": "mahouritsu-anime",
-        "begin": "2020-03-31T15:00:00.000Z"
+        "begin": "2020-03-31T15:00:00.000Z",
+        "broadcast": "R/2020-03-31T15:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -99,7 +100,8 @@
       {
         "site": "nicovideo",
         "id": "k-seven-stories",
-        "begin": "2018-07-07T03:00:00.000Z"
+        "begin": "2018-07-07T03:00:00.000Z",
+        "broadcast": "R/2018-07-07T03:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -180,7 +182,8 @@
       {
         "site": "nicovideo",
         "id": "nonnontv-movie",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "unext",
@@ -220,7 +223,8 @@
       {
         "site": "nicovideo",
         "id": "7-taizai-movie",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "netflix",
@@ -280,6 +284,12 @@
         "begin": "2021-10-10T13:00:00.000Z",
         "broadcast": "R/2021-10-10T13:00:00.000Z/P7D",
         "comment": "乾・海堂 vs 宍戸・鳳／大石・菊丸 vs 仁王・柳生: SID0062779, 不二 vs 切原: SID0062780"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tenipri-best-games",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

@@ -25,7 +25,8 @@
       {
         "site": "nicovideo",
         "id": "working-02",
-        "begin": "2011-10-08T16:30:00.000Z"
+        "begin": "2011-10-08T16:30:00.000Z",
+        "broadcast": "R/2011-10-08T16:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -86,7 +87,8 @@
       {
         "site": "nicovideo",
         "id": "ikamusume-02",
-        "begin": "2011-10-03T15:30:00.000Z"
+        "begin": "2011-10-03T15:30:00.000Z",
+        "broadcast": "R/2011-10-03T15:30:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -288,6 +290,12 @@
         "id": "42143",
         "begin": "2023-06-16T03:10:00.000Z",
         "broadcast": "R/2023-06-16T03:10:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tenipuri-eikokushiki",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

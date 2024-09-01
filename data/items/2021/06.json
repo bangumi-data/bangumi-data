@@ -103,12 +103,6 @@
         "broadcast": ""
       },
       {
-        "site": "nicovideo",
-        "id": "gundam-hathaway",
-        "begin": "2021-10-15T15:00:00.000Z",
-        "broadcast": "R/2021-10-15T15:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0062010",
         "begin": "2021-10-15T15:00:00.000Z",
@@ -353,6 +347,12 @@
         "id": "112304",
         "begin": "2022-01-07T06:00:00.000Z",
         "broadcast": "R/2022-01-07T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sidonia-aitsumuguhoshi",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -389,6 +389,12 @@
         "id": "SID0062110",
         "begin": "2022-11-30T15:00:00.000Z",
         "broadcast": "R/2022-11-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "journey",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

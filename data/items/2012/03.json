@@ -428,6 +428,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "A频道+smile"
+      ],
+      "zh-Hant": [
+        "A 頻道 OVA"
       ]
     },
     "type": "ova",
@@ -445,6 +448,18 @@
         "id": "SID0046915",
         "begin": "2020-03-24T03:00:00.000Z",
         "broadcast": "R/2020-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "51101",
+        "begin": "2024-08-23T04:00:00.000Z",
+        "broadcast": "R/2024-08-23T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "51101",
+        "begin": "2024-08-23T04:00:00.000Z",
+        "broadcast": "R/2024-08-23T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -483,11 +498,6 @@
       {
         "site": "bangumi",
         "id": "26806"
-      },
-      {
-        "site": "nicovideo",
-        "id": "kiminoirumachi_OAD",
-        "begin": "2018-10-18T15:00:00.000Z"
       },
       {
         "site": "unext",

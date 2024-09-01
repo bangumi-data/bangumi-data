@@ -218,6 +218,12 @@
       {
         "site": "mikan",
         "id": "1263"
+      },
+      {
+        "site": "abema",
+        "id": "174-7",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -431,11 +437,6 @@
       {
         "site": "bangumi",
         "id": "195328"
-      },
-      {
-        "site": "nicovideo",
-        "id": "cingeki-anime",
-        "begin": "2017-05-17T03:00:00.000Z"
       },
       {
         "site": "qq",
@@ -730,11 +731,6 @@
         "id": "197441"
       },
       {
-        "site": "nicovideo",
-        "id": "alicetozouroku",
-        "begin": "2017-05-31T03:00:00.000Z"
-      },
-      {
         "site": "qq",
         "id": "0/0js9smvlptpgtol",
         "begin": ""
@@ -790,11 +786,6 @@
       {
         "site": "bangumi",
         "id": "159795"
-      },
-      {
-        "site": "nicovideo",
-        "id": "renaiboukun",
-        "begin": "2017-04-07T03:00:00.000Z"
       },
       {
         "site": "gamer",
@@ -1156,11 +1147,6 @@
       {
         "site": "bangumi",
         "id": "200547"
-      },
-      {
-        "site": "nicovideo",
-        "id": "sakura-quest",
-        "begin": "2017-04-07T14:30:00.000Z"
       },
       {
         "site": "gamer",
@@ -2442,11 +2428,6 @@
         "id": "195434"
       },
       {
-        "site": "nicovideo",
-        "id": "heine-royal",
-        "begin": "2017-04-05T15:00:00.000Z"
-      },
-      {
         "site": "gamer",
         "id": "86675",
         "begin": "2017-04-04T19:40:00.000Z",
@@ -2870,7 +2851,8 @@
       {
         "site": "nicovideo",
         "id": "7-sins",
-        "begin": "2017-04-15T03:00:00.000Z"
+        "begin": "2017-04-15T03:00:00.000Z",
+        "comment": "懺悔録: 7-sins-zange"
       },
       {
         "site": "unext",
