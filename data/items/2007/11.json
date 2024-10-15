@@ -180,5 +180,33 @@
         "broadcast": "R/2014-10-29T06:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "流星のロックマン トライブ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "流星之洛克人 Tribe",
+        "流星洛克人 Tribe"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.xebec-inc.co.jp/anime/ryusei2/",
+    "begin": "2007-11-02T16:00:00.000Z",
+    "broadcast": "R/2007-11-02T16:00:00.000Z/P7D",
+    "end": "2008-03-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "5235"
+      },
+      {
+        "site": "abema",
+        "id": "168-68",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]

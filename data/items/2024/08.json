@@ -25,8 +25,8 @@
       {
         "site": "unext",
         "id": "SID0104161",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-08-11T03:00:00.000Z",
+        "broadcast": "R/2024-08-11T03:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -53,6 +53,41 @@
       {
         "site": "mikan",
         "id": "3411"
+      }
+    ]
+  },
+  {
+    "title": "Terminator Zero",
+    "titleTranslate": {
+      "zh-Hans": [
+        "终结者 Zero",
+        "终结者 0"
+      ],
+      "zh-Hant": [
+        "未來戰士 Zero",
+        "魔鬼終結者 Zero"
+      ],
+      "en": [
+        "Terminator Zero"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.netflix.com/title/81217220",
+    "begin": "2024-08-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-08-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "464961"
+      },
+      {
+        "site": "netflix",
+        "id": "81217220",
+        "begin": "2024-08-28T16:00:00.000Z",
+        "broadcast": "R/2024-08-28T16:00:00.000Z/P7D"
       }
     ]
   }

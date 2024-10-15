@@ -778,6 +778,12 @@
       {
         "site": "dmhy",
         "id": "世界 漏洞"
+      },
+      {
+        "site": "unext",
+        "id": "SID0157563",
+        "begin": "2024-10-05T03:00:00.000Z",
+        "broadcast": "R/2024-10-05T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -953,7 +959,7 @@
     "officialSite": "https://wwws.warnerbros.co.jp/suicidesquad-isekai/",
     "begin": "2024-07-05T15:30:00.000Z",
     "broadcast": "R/2024-07-05T15:30:00.000Z/P7D",
-    "end": "",
+    "end": "2024-09-06T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1576,7 +1582,7 @@
     "officialSite": "https://atri-anime.com/",
     "begin": "2024-07-13T15:00:00.000Z",
     "broadcast": "R/2024-07-13T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-10-05T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2154,6 +2160,12 @@
       {
         "site": "dmhy",
         "id": "2.5次元"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ririsa-official",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2271,6 +2283,12 @@
       {
         "site": "mikan",
         "id": "3396"
+      },
+      {
+        "site": "bilibili",
+        "id": "21854215",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2329,7 +2347,7 @@
     "officialSite": "https://anime.cf-vanguard.com/vgd/",
     "begin": "2024-07-05T23:00:00.000Z",
     "broadcast": "R/2024-07-05T23:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-10-12T23:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2359,6 +2377,10 @@
         "id": "138936",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3398"
       }
     ]
   },
@@ -2439,7 +2461,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "神之塔 第二季",
-        "神之塔 -Tower of God- 工房戦"
+        "神之塔 -Tower of God- 工房戦",
+        "神之塔 王子的归来"
       ]
     },
     "type": "tv",
@@ -2458,7 +2481,8 @@
         "site": "unext",
         "id": "SID0104525",
         "begin": "2024-07-07T14:30:00.000Z",
-        "broadcast": "R/2024-07-07T14:30:00.000Z/P7D"
+        "broadcast": "R/2024-07-07T14:30:00.000Z/P7D",
+        "comment": "工房戦: SID0104526"
       },
       {
         "site": "bangumi_moe",
@@ -2473,6 +2497,12 @@
       {
         "site": "mikan",
         "id": "3400"
+      },
+      {
+        "site": "bilibili",
+        "id": "22806007",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2974,6 +3004,13 @@
         "begin": "",
         "broadcast": "",
         "comment": "オンエア版"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yoasobigurashi",
+        "begin": "",
+        "broadcast": "",
+        "comment": "オンエア版"
       }
     ]
   },
@@ -3174,7 +3211,7 @@
     "officialSite": "https://ichigoproduction.com/Season2/",
     "begin": "2024-07-03T14:00:00.000Z",
     "broadcast": "R/2024-07-03T14:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-10-06T10:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3398,7 +3435,7 @@
     "officialSite": "https://www.shusuisha.com/lp/info0saiji",
     "begin": "2024-07-07T08:55:00.000Z",
     "broadcast": "R/2024-07-07T08:55:00.000Z/P7D",
-    "end": "",
+    "end": "2024-09-22T08:55:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3435,7 +3472,7 @@
     "officialSite": "https://www.tv-tokyo.co.jp/anime/yamishibai13/",
     "begin": "2024-07-14T17:50:00.000Z",
     "broadcast": "R/2024-07-14T17:50:00.000Z/P7D",
-    "end": "",
+    "end": "2024-10-06T17:55:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3451,6 +3488,10 @@
         "id": "SID0104468",
         "begin": "2024-07-15T03:00:00.000Z",
         "broadcast": "R/2024-07-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3492"
       }
     ]
   },

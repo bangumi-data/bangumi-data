@@ -436,6 +436,12 @@
         "id": "108080",
         "begin": "2022-01-13T15:30:00.000Z",
         "broadcast": "R/2022-01-13T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "149-4",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1056,6 +1062,9 @@
       "zh-Hant": [
         "最遊記RELOAD -ZEROIN-",
         "最遊記 RELOAD -ZEROIN-"
+      ],
+      "en": [
+        "SAIYUKI RELOAD -ZEROIN-"
       ]
     },
     "type": "tv",
@@ -1107,6 +1116,12 @@
         "id": "115286",
         "begin": "2022-01-06T15:00:00.000Z",
         "broadcast": "R/2022-01-06T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "saiyukireloadzeroin0002_141947",
+        "begin": "2024-10-09T16:00:00.000Z",
+        "broadcast": "R/2024-10-09T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1208,6 +1223,12 @@
       {
         "site": "bangumi_moe",
         "id": "61d721fc6e31a0815abf5400"
+      },
+      {
+        "site": "nicovideo",
+        "id": "baraou-anime",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1285,6 +1306,12 @@
         "id": "orient_141231",
         "begin": "2024-07-05T02:00:00.000Z",
         "broadcast": "R/2024-07-05T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "orient-anime",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1321,6 +1348,12 @@
       {
         "site": "bangumi_moe",
         "id": "61d5f9392525b00007b9fa3e"
+      },
+      {
+        "site": "nicovideo",
+        "id": "irodorimidori-anime",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1508,6 +1541,12 @@
         "id": "116264",
         "begin": "2022-01-10T15:35:00.000Z",
         "broadcast": "R/2022-01-10T15:35:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "sabikuibisco0001_141935",
+        "begin": "2024-10-09T16:00:00.000Z",
+        "broadcast": "R/2024-10-09T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1586,6 +1625,12 @@
       {
         "site": "bangumi_moe",
         "id": "61d722006e31a0815abf5418"
+      },
+      {
+        "site": "mytv",
+        "id": "lifewithanordinaryguywhoreincarnatedintoatotalfantasyknockout0002_141603",
+        "begin": "2024-09-05T16:00:00.000Z",
+        "broadcast": "R/2024-09-05T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1933,6 +1978,12 @@
       {
         "site": "bangumi_moe",
         "id": "61d721fd6e31a0815abf5402"
+      },
+      {
+        "site": "nicovideo",
+        "id": "futsalboys",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2220,12 +2271,6 @@
         "broadcast": "R/2021-07-06T03:00:00.000Z/P7D"
       },
       {
-        "site": "viu",
-        "id": "419250",
-        "begin": "2022-01-14T16:30:00.000Z",
-        "broadcast": "R/2022-01-14T16:30:00.000Z/P7D"
-      },
-      {
         "site": "bangumi_moe",
         "id": "61d722066e31a0815abf5431"
       }
@@ -2466,6 +2511,12 @@
         "id": "SID0065944",
         "begin": "2022-01-21T03:00:00.000Z",
         "broadcast": "R/2022-01-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "luminaria-tales-fc",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

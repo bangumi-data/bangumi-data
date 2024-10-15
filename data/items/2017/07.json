@@ -49,6 +49,9 @@
       "zh-Hans": [
         "将国之天鹰星",
         "将国戡乱记"
+      ],
+      "zh-Hant": [
+        "將國戡亂記"
       ]
     },
     "type": "tv",
@@ -100,6 +103,18 @@
       {
         "site": "mikan",
         "id": "1335"
+      },
+      {
+        "site": "gamer",
+        "id": "86653",
+        "begin": "2024-08-30T04:00:00.000Z",
+        "broadcast": "R/2024-08-30T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "86653",
+        "begin": "2024-08-30T04:00:00.000Z",
+        "broadcast": "R/2024-08-30T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -449,6 +464,12 @@
       {
         "site": "mikan",
         "id": "1342"
+      },
+      {
+        "site": "nicovideo",
+        "id": "isekai-shokudo",
+        "begin": "2017-07-29T03:00:00.000Z",
+        "broadcast": "R/2017-07-29T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -761,6 +782,12 @@
       {
         "site": "mikan",
         "id": "1347"
+      },
+      {
+        "site": "nicovideo",
+        "id": "pripri-anime",
+        "begin": "2017-07-12T03:00:00.000Z",
+        "broadcast": "R/2017-07-12T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -797,12 +824,6 @@
         "id": "miabyss",
         "begin": "2017-07-14T15:00:00.000Z",
         "broadcast": "R/2017-07-14T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "viu",
-        "id": "443775",
-        "begin": "2022-07-01T16:00:00.000Z",
-        "broadcast": "R/2022-07-01T16:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -952,18 +973,6 @@
         "id": "saiyuki_rb",
         "begin": "2017-07-10T15:00:00.000Z",
         "broadcast": "R/2017-07-10T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UcizuGtUfA-gp7F4rGczy1LG",
-        "begin": "2020-07-26T16:00:00.000Z",
-        "broadcast": "R/2020-07-26T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "84433",
-        "begin": "2017-07-05T15:00:00.000Z",
-        "broadcast": "R/2017-07-05T15:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -1193,6 +1202,12 @@
       {
         "site": "mikan",
         "id": "1354"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kakegurui-anime",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1325,12 +1340,6 @@
         "id": "koiuso-anime",
         "begin": "2017-07-04T15:30:00.000Z",
         "broadcast": "R/2017-07-04T15:30:00.000Z/P7D"
-      },
-      {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UchDqQrYC32LZR2T_PUtc2cU",
-        "begin": "2020-10-25T16:00:00.000Z",
-        "broadcast": "R/2020-10-25T16:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -2069,12 +2078,6 @@
         "broadcast": "R/2022-08-09T16:00:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "88519",
-        "begin": "2019-06-28T04:00:00.000Z",
-        "broadcast": "R/2019-06-28T04:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0030198",
         "begin": "2019-03-03T03:00:00.000Z",
@@ -2733,6 +2736,12 @@
       {
         "site": "bangumi",
         "id": "219955"
+      },
+      {
+        "site": "nicovideo",
+        "id": "seizeiganbare",
+        "begin": "2017-08-12T03:00:00.000Z",
+        "broadcast": "R/2017-08-12T03:00:00.000Z/P7D"
       }
     ]
   },

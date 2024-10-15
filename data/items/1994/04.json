@@ -19,7 +19,8 @@
       {
         "site": "nicovideo",
         "id": "redbaron",
-        "begin": "2011-11-23T06:00:00.000Z"
+        "begin": "2011-11-23T06:00:00.000Z",
+        "broadcast": "R/2011-11-23T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -56,6 +57,12 @@
         "id": "SID0012904",
         "begin": "2008-11-07T06:00:00.000Z",
         "broadcast": "R/2008-11-07T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "g-gundam",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -136,11 +143,6 @@
         "id": "3809",
         "begin": "1994-03-31T16:00:01.000Z",
         "broadcast": "R/2018-02-08T04:16:00.000Z/P7D"
-      },
-      {
-        "site": "ani_one_asia",
-        "id": "PLxSscENEp7Jgv63BpD8ovpSFlCSOu8DvO",
-        "begin": ""
       },
       {
         "site": "unext",
