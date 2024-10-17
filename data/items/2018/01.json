@@ -1144,12 +1144,6 @@
         "comment": "TV未放送: SID0047615"
       },
       {
-        "site": "disneyplus",
-        "id": "XDjT5adXYDsi",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "gamer_hk",
         "id": "89804",
         "begin": "2024-06-03T01:40:00.000Z",
@@ -1177,6 +1171,9 @@
       ],
       "en": [
         "Record of Grancrest War"
+      ],
+      "zh-Hant": [
+        "皇帝聖印戰記"
       ]
     },
     "type": "tv",
@@ -1223,6 +1220,18 @@
       {
         "site": "mikan",
         "id": "1506"
+      },
+      {
+        "site": "gamer",
+        "id": "85733",
+        "begin": "2024-08-30T04:00:00.000Z",
+        "broadcast": "R/2024-08-30T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "85733",
+        "begin": "2024-08-30T04:00:00.000Z",
+        "broadcast": "R/2024-08-30T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -1266,12 +1275,6 @@
         "begin": "2018-01-07T03:00:00.000Z",
         "broadcast": "R/2018-01-07T03:00:00.000Z/P7D",
         "comment": "再放送(リミックス版): SID0061672"
-      },
-      {
-        "site": "netflix",
-        "id": "80228291",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "dmhy",
@@ -2337,12 +2340,6 @@
         "broadcast": "R/2018-01-06T03:00:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "85205",
-        "begin": "2019-11-01T09:00:00.000Z",
-        "broadcast": "R/2019-11-01T09:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0032694",
         "begin": "2018-01-13T03:00:00.000Z",
@@ -2989,12 +2986,6 @@
         "id": "PLuxqoToY7UchkFx6Rl70VbQeT10lIKoL7",
         "begin": "2023-06-11T13:55:55.059Z",
         "broadcast": "R/2023-06-11T13:55:55.059Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "30-11",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",

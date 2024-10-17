@@ -302,5 +302,39 @@
         "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "火垂るの墓",
+    "titleTranslate": {
+      "zh-Hans": [
+        "萤火虫之墓"
+      ],
+      "zh-Hant": [
+        "再見螢火蟲",
+        "螢火蟲之墓"
+      ],
+      "en": [
+        "Grave of the Fireflies"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-04-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1988-04-15T17:28:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "382"
+      },
+      {
+        "site": "netflix",
+        "id": "557010",
+        "begin": "2024-09-14T16:00:00.000Z",
+        "broadcast": "R/2024-09-14T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

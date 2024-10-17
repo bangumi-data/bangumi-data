@@ -303,6 +303,12 @@
       {
         "site": "mikan",
         "id": "3292"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kanteiskill",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -636,6 +642,12 @@
       {
         "site": "mikan",
         "id": "3297"
+      },
+      {
+        "site": "nicovideo",
+        "id": "niji4anime2",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -878,7 +890,8 @@
         "怪獸 8 號"
       ],
       "en": [
-        "Kaiju No.8"
+        "Kaiju No.8",
+        "Kaiju No.8 (Season 1)"
       ]
     },
     "type": "tv",
@@ -966,6 +979,18 @@
       {
         "site": "mikan",
         "id": "3301"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kaiju-no8",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mytv",
+        "id": "kaijuno8season1_141571",
+        "begin": "2024-09-24T16:00:00.000Z",
+        "broadcast": "R/2024-09-24T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1121,7 +1146,7 @@
     "officialSite": "https://mission-yozakura-family.com/",
     "begin": "2024-04-07T08:00:00.000Z",
     "broadcast": "R/2024-04-07T08:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-10-06T08:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1779,6 +1804,12 @@
       {
         "site": "mikan",
         "id": "3313"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dainanaoji",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2292,6 +2323,12 @@
       {
         "site": "mikan",
         "id": "3321"
+      },
+      {
+        "site": "nicovideo",
+        "id": "touken-honnouji",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2374,6 +2411,12 @@
       {
         "site": "mikan",
         "id": "3322"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bartender-anime",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3493,7 +3536,15 @@
     "broadcast": "R/2024-04-07T00:00:00.000Z/P7D",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bilibili",
+        "id": "23033385",
+        "begin": "",
+        "broadcast": "",
+        "comment": "中文配音: 23033523"
+      }
+    ]
   },
   {
     "title": "龍族 -The Blazing Dawn-",
@@ -3787,6 +3838,12 @@
       {
         "site": "mikan",
         "id": "3341"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ten-sura_03",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3966,7 +4023,7 @@
     "officialSite": "https://mahjongsoul-kang.jp/",
     "begin": "2024-04-25T13:00:00.000Z",
     "broadcast": "R/2024-04-25T13:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-07-18T13:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4048,6 +4105,54 @@
         "id": "21232815",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版ブルーロック -EPISODE 凪-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版蓝色监狱 -EPISODE 凪-",
+        "蓝色禁区：凪"
+      ],
+      "en": [
+        "Blue Lock The Movie -Episode Nagi-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://movie.bluelock-pr.com/",
+    "begin": "2024-04-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-04-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "426124"
+      },
+      {
+        "site": "disneyplus",
+        "id": "65pPeJ1orwsg",
+        "url": "https://www.disneyplus.com/movies/blue-lock-the-movie-episode-nagi/65pPeJ1orwsg",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0157267",
+        "begin": "2024-10-05T15:00:00.000Z",
+        "broadcast": "R/2024-10-05T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "420-70",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3479"
       }
     ]
   }

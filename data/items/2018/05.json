@@ -24,7 +24,8 @@
       {
         "site": "nicovideo",
         "id": "oshiri-tantei",
-        "begin": "2018-05-11T03:00:00.000Z"
+        "begin": "2018-05-11T03:00:00.000Z",
+        "broadcast": "R/2018-05-11T03:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -66,7 +67,8 @@
       {
         "site": "nicovideo",
         "id": "cf-vanguard",
-        "begin": "2018-05-10T11:30:00.000Z"
+        "begin": "2018-05-10T11:30:00.000Z",
+        "broadcast": "R/2018-05-10T11:30:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -102,7 +104,8 @@
       {
         "site": "nicovideo",
         "id": "TO_BE_HEROINE",
-        "begin": "2018-05-19T13:00:00.000Z"
+        "begin": "2018-05-19T13:00:00.000Z",
+        "broadcast": "R/2018-05-19T13:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -132,7 +135,8 @@
       {
         "site": "nicovideo",
         "id": "digimon-adventure-tri06",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "youku",
@@ -238,6 +242,12 @@
         "site": "disneyplus",
         "id": "3mXzfnFw6Dn1",
         "url": "https://www.disneyplus.com/movies/code-geass-lelouch-of-the-rebellion-glorification/3mXzfnFw6Dn1",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "geass-movie3",
         "begin": "",
         "broadcast": ""
       }

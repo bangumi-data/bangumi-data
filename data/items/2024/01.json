@@ -188,6 +188,12 @@
       {
         "site": "mikan",
         "id": "3267"
+      },
+      {
+        "site": "nicovideo",
+        "id": "himesama-goumon",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -869,6 +875,12 @@
       {
         "site": "mikan",
         "id": "3233"
+      },
+      {
+        "site": "mytv",
+        "id": "tsukimichimoonlitfantasyseason2_141750",
+        "begin": "2024-09-30T16:00:00.000Z",
+        "broadcast": "R/2024-09-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1248,7 +1260,8 @@
         "青之驱魔师 第三季"
       ],
       "zh-Hant": [
-        "青之驅魔師 島根啟明結社篇"
+        "青之驅魔師 島根啟明結社篇",
+        "青之驅魔師 島根啓明結社篇"
       ]
     },
     "type": "tv",
@@ -1311,6 +1324,12 @@
       {
         "site": "mikan",
         "id": "3234"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Ucgu4puxaBne9KpCiEfc50V1",
+        "begin": "2024-09-23T13:30:21.000Z",
+        "broadcast": "R/2024-09-23T13:30:21.000Z/P7D"
       }
     ]
   },
@@ -2628,6 +2647,12 @@
       {
         "site": "mikan",
         "id": "3252"
+      },
+      {
+        "site": "bilibili",
+        "id": "21194726",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2754,12 +2779,6 @@
         "id": "283-24",
         "begin": "",
         "broadcast": ""
-      },
-      {
-        "site": "gamer",
-        "id": "136407",
-        "begin": "2024-01-13T10:00:00.000Z",
-        "broadcast": "R/2024-01-13T10:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -3409,6 +3428,12 @@
       {
         "site": "mikan",
         "id": "3261"
+      },
+      {
+        "site": "unext",
+        "id": "SID0148747",
+        "begin": "2024-09-30T15:00:00.000Z",
+        "broadcast": "R/2024-09-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3536,18 +3561,6 @@
         "id": "467955"
       },
       {
-        "site": "abema",
-        "id": "415-8",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0100687",
-        "begin": "2024-04-05T15:00:00.000Z",
-        "broadcast": "R/2024-04-05T15:00:00.000Z/P7D"
-      },
-      {
         "site": "gamer",
         "id": "137538",
         "begin": "2024-08-02T04:00:00.000Z",
@@ -3616,6 +3629,33 @@
         "id": "81747912",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "映画 ギヴン 柊mix",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 GIVEN 柊mix"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://given-anime.com/",
+    "begin": "2024-01-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-01-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "425605"
+      },
+      {
+        "site": "unext",
+        "id": "SID0147572",
+        "begin": "2024-08-27T15:00:00.000Z",
+        "broadcast": "R/2024-08-27T15:00:00.000Z/P7D"
       }
     ]
   }

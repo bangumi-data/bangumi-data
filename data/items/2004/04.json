@@ -473,6 +473,12 @@
         "id": "SID0058299",
         "begin": "2021-06-14T03:00:00.000Z",
         "broadcast": "R/2021-06-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tenten-anime",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -864,7 +870,8 @@
       {
         "site": "nicovideo",
         "id": "saiyuki_rg",
-        "begin": "2017-01-10T06:00:00.000Z"
+        "begin": "2017-01-10T06:00:00.000Z",
+        "broadcast": "R/2017-01-10T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1083,12 +1090,6 @@
         "id": "28228949",
         "begin": "2020-05-21T16:00:00.000Z",
         "broadcast": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0010678",
-        "begin": "2024-04-11T15:00:00.000Z",
-        "broadcast": "R/2024-04-11T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1127,6 +1128,12 @@
       {
         "site": "bangumi",
         "id": "25920"
+      },
+      {
+        "site": "nicovideo",
+        "id": "getterrobot3",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

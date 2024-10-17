@@ -100,7 +100,8 @@
       {
         "site": "nicovideo",
         "id": "spiritpact2",
-        "begin": "2018-02-24T13:00:00.000Z"
+        "begin": "2018-02-24T13:00:00.000Z",
+        "broadcast": "R/2018-02-24T13:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -130,7 +131,8 @@
       {
         "site": "nicovideo",
         "id": "tokires-movie",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -215,6 +217,12 @@
       {
         "site": "mikan",
         "id": "1577"
+      },
+      {
+        "site": "nicovideo",
+        "id": "geass-movie2",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

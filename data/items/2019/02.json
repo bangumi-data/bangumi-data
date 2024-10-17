@@ -70,7 +70,8 @@
       {
         "site": "nicovideo",
         "id": "tsunoanime",
-        "begin": "2019-02-21T13:00:00.000Z"
+        "begin": "2019-02-21T13:00:00.000Z",
+        "broadcast": "R/2019-02-21T13:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -163,7 +164,8 @@
       {
         "site": "nicovideo",
         "id": "horamimi2",
-        "begin": "2019-04-12T13:30:00.000Z"
+        "begin": "2019-04-12T13:30:00.000Z",
+        "broadcast": "R/2019-04-12T13:30:00.000Z/P7D"
       }
     ]
   },
@@ -191,7 +193,8 @@
       {
         "site": "nicovideo",
         "id": "youjo-senki-movie",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "gamer",
@@ -253,6 +256,12 @@
       {
         "site": "mikan",
         "id": "2026"
+      },
+      {
+        "site": "nicovideo",
+        "id": "r-geass",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -280,7 +289,8 @@
       {
         "site": "nicovideo",
         "id": "danmachi-movie",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "gamer",
@@ -297,6 +307,12 @@
       {
         "site": "mikan",
         "id": "1962"
+      },
+      {
+        "site": "abema",
+        "id": "174-15",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

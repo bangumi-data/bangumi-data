@@ -32,7 +32,8 @@
       {
         "site": "nicovideo",
         "id": "itsudatte",
-        "begin": "2018-07-31T15:00:00.000Z"
+        "begin": "2018-07-31T15:00:00.000Z",
+        "broadcast": "R/2018-07-31T15:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -82,7 +83,8 @@
       {
         "site": "nicovideo",
         "id": "gochiusa-dms",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "bilibili",
@@ -159,7 +161,8 @@
       {
         "site": "nicovideo",
         "id": "fullmeta-movie",
-        "begin": "2020-03-20T06:00:00.000Z"
+        "begin": "2020-03-20T06:00:00.000Z",
+        "broadcast": "R/2020-03-20T06:00:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -239,6 +242,12 @@
       {
         "site": "mikan",
         "id": "1480"
+      },
+      {
+        "site": "nicovideo",
+        "id": "escha-chron",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

@@ -178,12 +178,6 @@
         "broadcast": "R/2017-11-07T04:00:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "67709",
-        "begin": "2022-05-06T04:30:00.000Z",
-        "broadcast": "R/2022-05-06T04:30:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0044897",
         "begin": "2020-12-30T03:00:00.000Z",
@@ -222,6 +216,12 @@
         "id": "SID0014767",
         "begin": "2020-05-21T03:00:00.000Z",
         "broadcast": "R/2020-05-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kokaku-arise",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

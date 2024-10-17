@@ -633,12 +633,6 @@
         "id": "211059"
       },
       {
-        "site": "ani_one",
-        "id": "PLC18xlbCdwtTNtd65zcspmumNOcGLBUPa",
-        "begin": "2022-09-11T16:00:00.000Z",
-        "broadcast": "R/2022-09-11T16:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0031307",
         "begin": "2017-10-09T03:00:00.000Z",
@@ -655,6 +649,12 @@
       {
         "site": "mikan",
         "id": "1413"
+      },
+      {
+        "site": "nicovideo",
+        "id": "12taisen",
+        "begin": "2023-10-09T15:00:00.000Z",
+        "broadcast": "R/2023-10-09T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -891,12 +891,6 @@
         "broadcast": "R/2022-12-11T13:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "13-57",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0031279",
         "begin": "2019-01-04T03:00:00.000Z",
@@ -919,6 +913,12 @@
       {
         "site": "mikan",
         "id": "1418"
+      },
+      {
+        "site": "nicovideo",
+        "id": "uranohoshi02",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1092,6 +1092,12 @@
         "id": "88978",
         "begin": "2024-07-15T03:00:00.000Z",
         "broadcast": "R/2024-07-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "land-of-the-lustrous",
+        "begin": "2017-10-10T15:00:00.000Z",
+        "broadcast": "R/2017-10-10T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2009,12 +2015,6 @@
         "broadcast": "R/2017-10-07T11:00:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "88747",
-        "begin": "2017-10-14T11:00:00.000Z",
-        "broadcast": "R/2017-10-14T11:00:00.000Z/P7D"
-      },
-      {
         "site": "dmhy",
         "id": "Classica+Loid"
       },
@@ -2761,6 +2761,12 @@
       {
         "site": "mikan",
         "id": "1459"
+      },
+      {
+        "site": "abema",
+        "id": "19-112",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2939,6 +2945,9 @@
     "titleTranslate": {
       "en": [
         "ONYANKOPON"
+      ],
+      "zh-Hant": [
+        "Onyankopon～有請喵喵神～"
       ]
     },
     "type": "web",
@@ -2966,6 +2975,18 @@
       {
         "site": "bangumi_moe",
         "id": "59d0cb67fb34aac154710b9d"
+      },
+      {
+        "site": "gamer",
+        "id": "92329",
+        "begin": "2024-09-20T04:00:00.000Z",
+        "broadcast": "R/2024-09-20T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "92329",
+        "begin": "2024-09-20T04:00:00.000Z",
+        "broadcast": "R/2024-09-20T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -3295,12 +3316,6 @@
         "broadcast": "R/2022-04-16T09:00:01.000Z/P7D"
       },
       {
-        "site": "unext",
-        "id": "SID0060065",
-        "begin": "2021-08-25T03:00:00.000Z",
-        "broadcast": "R/2021-08-25T03:00:00.000Z/P7D"
-      },
-      {
         "site": "mikan",
         "id": "1474"
       }
@@ -3395,6 +3410,12 @@
       {
         "site": "mikan",
         "id": "1560"
+      },
+      {
+        "site": "nicovideo",
+        "id": "geass-movie1",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

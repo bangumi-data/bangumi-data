@@ -260,12 +260,6 @@
         "broadcast": "R/2023-04-20T16:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "199-35",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0050917",
         "begin": "2020-10-07T03:00:00.000Z",
@@ -623,12 +617,6 @@
         "id": "110208",
         "begin": "2020-10-02T14:00:00.000Z",
         "broadcast": "R/2020-10-02T14:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "169-80",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "gamer_hk",
@@ -1075,12 +1063,6 @@
       {
         "site": "mikan",
         "id": "2283"
-      },
-      {
-        "site": "mytv",
-        "id": "jujutsukaisen0002_141252",
-        "begin": "2024-07-06T20:10:00.000Z",
-        "broadcast": "R/2024-07-06T20:10:00.000Z/P7D"
       }
     ]
   },
@@ -1724,6 +1706,12 @@
       {
         "site": "mikan",
         "id": "2301"
+      },
+      {
+        "site": "nicovideo",
+        "id": "moriarty-anime",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1968,6 +1956,12 @@
         "id": "111285",
         "begin": "2020-10-10T16:30:00.000Z",
         "broadcast": "R/2020-10-10T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "thedayibecameagod0002_141934",
+        "begin": "2024-10-09T16:00:00.000Z",
+        "broadcast": "R/2024-10-09T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -2101,12 +2095,6 @@
         "broadcast": "R/2020-10-03T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "13-123",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0050934",
         "begin": "2020-10-03T14:00:00.000Z",
@@ -2129,6 +2117,12 @@
       {
         "site": "mikan",
         "id": "2316"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nijigasaki",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2710,12 +2704,6 @@
         "broadcast": "R/2020-10-04T17:15:00.000Z/P7D"
       },
       {
-        "site": "unext",
-        "id": "SID0050943",
-        "begin": "2020-10-05T15:00:00.000Z",
-        "broadcast": "R/2020-10-05T15:00:00.000Z/P7D"
-      },
-      {
         "site": "bangumi_moe",
         "id": "5f7567db4b840abcfc63b180"
       },
@@ -3209,6 +3197,12 @@
       {
         "site": "bangumi",
         "id": "310899"
+      },
+      {
+        "site": "nicovideo",
+        "id": "seizeiganbare_3",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3312,12 +3306,6 @@
       {
         "site": "bangumi",
         "id": "311978"
-      },
-      {
-        "site": "nicovideo",
-        "id": "anitsuke4",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
@@ -3579,13 +3567,6 @@
         "id": "294137"
       },
       {
-        "site": "viu",
-        "id": "378326",
-        "begin": "2021-07-31T16:00:00.000Z",
-        "broadcast": "R/2021-07-31T16:00:00.000Z/P7D",
-        "comment": "粵語版:382092"
-      },
-      {
         "site": "gamer",
         "id": "115780",
         "begin": "2021-02-08T16:00:00.000Z",
@@ -3623,13 +3604,6 @@
       {
         "site": "bangumi",
         "id": "317002"
-      },
-      {
-        "site": "viu",
-        "id": "378714",
-        "begin": "2021-07-31T16:00:00.000Z",
-        "broadcast": "R/2021-07-31T16:00:00.000Z/P7D",
-        "comment": "粵語版:382093"
       },
       {
         "site": "gamer",
@@ -3672,13 +3646,6 @@
         "id": "322102"
       },
       {
-        "site": "viu",
-        "id": "378448",
-        "begin": "2021-07-31T16:00:00.000Z",
-        "broadcast": "R/2021-07-31T16:00:00.000Z/P7D",
-        "comment": "粵語版:382617"
-      },
-      {
         "site": "gamer",
         "id": "115784",
         "begin": "2021-02-08T16:00:00.000Z",
@@ -3716,13 +3683,6 @@
       {
         "site": "bangumi",
         "id": "291494"
-      },
-      {
-        "site": "viu",
-        "id": "381883",
-        "begin": "2021-08-15T16:00:00.000Z",
-        "broadcast": "R/2021-08-15T16:00:00.000Z/P7D",
-        "comment": "粵語版:381921"
       },
       {
         "site": "gamer",

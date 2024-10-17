@@ -70,7 +70,8 @@
       {
         "site": "nicovideo",
         "id": "movie-trinity-7-hlcl",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "unext",
@@ -104,7 +105,8 @@
       {
         "site": "nicovideo",
         "id": "grisaia-pt",
-        "begin": "2019-04-17T03:00:00.000Z"
+        "begin": "2019-04-17T03:00:00.000Z",
+        "broadcast": "R/2019-04-17T03:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -142,7 +144,8 @@
       {
         "site": "nicovideo",
         "id": "osomatsusan-movie",
-        "begin": ""
+        "begin": "2020-01-01T03:00:00.000Z",
+        "broadcast": "R/2020-01-01T03:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -192,6 +195,12 @@
       {
         "site": "bangumi",
         "id": "249246"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kinpri-movie-sss",
+        "begin": "2020-07-13T15:00:00.000Z",
+        "broadcast": "R/2020-07-13T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -212,6 +221,12 @@
       {
         "site": "bangumi",
         "id": "249247"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kinpri-movie-sss",
+        "begin": "2020-07-13T15:00:00.000Z",
+        "broadcast": "R/2020-07-13T15:00:00.000Z/P7D"
       }
     ]
   },
