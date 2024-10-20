@@ -1186,8 +1186,8 @@
       {
         "site": "netflix",
         "id": "81766575",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-04-06T16:00:00.000Z",
+        "broadcast": "R/2024-04-06T16:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
@@ -4117,6 +4117,9 @@
       ],
       "en": [
         "Blue Lock The Movie -Episode Nagi-"
+      ],
+      "zh-Hant": [
+        "劇場版藍色監獄：EPISODE 凪"
       ]
     },
     "type": "movie",
@@ -4153,6 +4156,12 @@
       {
         "site": "mikan",
         "id": "3479"
+      },
+      {
+        "site": "netflix",
+        "id": "81940376",
+        "begin": "2024-10-19T00:00:00.000Z",
+        "broadcast": "R/2024-10-19T00:00:00.000Z/P7D"
       }
     ]
   }

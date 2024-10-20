@@ -2887,8 +2887,8 @@
       {
         "site": "netflix",
         "id": "81943491",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-10-14T00:00:00.000Z",
+        "broadcast": "R/2024-10-14T00:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -3399,6 +3399,9 @@
       "zh-Hans": [
         "青之壬生浪",
         "青之壬生狼"
+      ],
+      "zh-Hant": [
+        "青之壬生浪"
       ]
     },
     "type": "tv",
@@ -3432,6 +3435,18 @@
       {
         "site": "mikan",
         "id": "3493"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "135523",
+        "begin": "2024-10-19T10:00:00.000Z",
+        "broadcast": "R/2024-10-19T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "135523",
+        "begin": "2024-10-19T10:00:00.000Z",
+        "broadcast": "R/2024-10-19T10:00:00.000Z/P7D"
       }
     ]
   },
@@ -4014,6 +4029,42 @@
       {
         "site": "mikan",
         "id": "3494"
+      }
+    ]
+  },
+  {
+    "title": "Gundam: Requiem for Vengeance",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达 复仇的安魂曲",
+        "机动战士高达 复仇的镇魂曲",
+        "机动战士高达：复仇的安魂曲"
+      ],
+      "zh-Hant": [
+        "機動戰士高達：復仇的安魂曲",
+        "機動戰士鋼彈：復仇的安魂曲"
+      ],
+      "en": [
+        "Gundam: Requiem for Vengeance"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://gundam-requiem.net/",
+    "begin": "2024-10-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-10-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "443929"
+      },
+      {
+        "site": "netflix",
+        "id": "81276500",
+        "begin": "2024-10-17T00:00:00.000Z",
+        "broadcast": "R/2024-10-17T00:00:00.000Z/P7D"
       }
     ]
   }

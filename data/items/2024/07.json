@@ -1919,8 +1919,8 @@
       {
         "site": "netflix",
         "id": "81566401",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-07-12T16:00:00.000Z",
+        "broadcast": "R/2024-07-12T16:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
@@ -2138,8 +2138,8 @@
       {
         "site": "netflix",
         "id": "81909977",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-07-04T16:00:00.000Z",
+        "broadcast": "R/2024-07-04T16:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
@@ -2818,7 +2818,11 @@
         "靠废柴技能【状态异常】成为最强的我将蹂躏一切"
       ],
       "zh-Hant": [
-        "靠廢柴技能【狀態異常】成為最強的我將蹂躪一切"
+        "靠廢柴技能【狀態異常】成為最強的我將蹂躪一切",
+        "靠廢柴技能「狀態異常」成為最強的我將蹂躪一切"
+      ],
+      "en": [
+        "Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells"
       ]
     },
     "type": "tv",
@@ -2874,6 +2878,12 @@
       {
         "site": "dmhy",
         "id": "狀態異常"
+      },
+      {
+        "site": "netflix",
+        "id": "81910037",
+        "begin": "2024-10-19T00:00:00.000Z",
+        "broadcast": "R/2024-10-19T00:00:00.000Z/P7D"
       }
     ]
   },
