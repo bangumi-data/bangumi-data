@@ -224,5 +224,33 @@
         "comment": "II: SID0043098"
       }
     ]
+  },
+  {
+    "title": "劇場版ロックマンエグゼ 光と闇の遺産",
+    "titleTranslate": {
+      "zh-Hans": [
+        "洛克人EXE剧场版 光与暗的遗产",
+        "网络英雄洛克人剧场版 光与暗之遗产"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.rockman-duel.com/",
+    "begin": "2005-03-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2005-03-11T16:48:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "5229"
+      },
+      {
+        "site": "unext",
+        "id": "SID0158516",
+        "begin": "2024-10-26T03:00:00.000Z",
+        "broadcast": "R/2024-10-26T03:00:00.000Z/P7D"
+      }
+    ]
   }
 ]
