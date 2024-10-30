@@ -22,12 +22,6 @@
       {
         "site": "bangumi",
         "id": "6389"
-      },
-      {
-        "site": "unext",
-        "id": "SID0004805",
-        "begin": "2022-04-01T03:00:00.000Z",
-        "broadcast": "R/2022-04-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -63,7 +57,8 @@
       {
         "site": "nicovideo",
         "id": "emma-victorian",
-        "begin": "2019-12-17T03:00:00.000Z"
+        "begin": "2019-12-17T03:00:00.000Z",
+        "broadcast": "R/2019-12-17T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -135,7 +130,8 @@
       {
         "site": "nicovideo",
         "id": "basilisk",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "unext",
@@ -209,7 +205,8 @@
       {
         "site": "nicovideo",
         "id": "aquarion",
-        "begin": "2011-12-03T03:00:00.000Z"
+        "begin": "2011-12-03T03:00:00.000Z",
+        "broadcast": "R/2011-12-03T03:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -360,12 +357,6 @@
       {
         "site": "bangumi",
         "id": "23542"
-      },
-      {
-        "site": "bilibili",
-        "id": "1476",
-        "begin": "2005-04-01T16:00:00.000Z",
-        "broadcast": "R/2012-05-21T17:08:00.000Z/P7D"
       }
     ]
   },
@@ -568,7 +559,8 @@
       {
         "site": "nicovideo",
         "id": "trinity-blood",
-        "begin": "2020-02-14T06:00:00.000Z"
+        "begin": "2020-02-14T06:00:00.000Z",
+        "broadcast": "R/2020-02-14T06:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -640,7 +632,8 @@
       {
         "site": "nicovideo",
         "id": "speed_grapher",
-        "begin": "2019-11-04T15:00:00.000Z"
+        "begin": "2019-11-04T15:00:00.000Z",
+        "broadcast": "R/2019-11-04T15:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -781,7 +774,8 @@
       {
         "site": "nicovideo",
         "id": "mushiking",
-        "begin": "2011-09-20T06:00:00.000Z"
+        "begin": "2011-09-20T06:00:00.000Z",
+        "broadcast": "R/2011-09-20T06:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -814,6 +808,12 @@
         "id": "SID0052801",
         "begin": "2020-11-12T03:00:00.000Z",
         "broadcast": "R/2020-11-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ichigo100",
+        "begin": "2020-08-31T15:00:00.000Z",
+        "broadcast": "R/2020-08-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1054,12 +1054,6 @@
         "id": "28228950",
         "begin": "2020-05-21T16:00:00.000Z",
         "broadcast": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0010679",
-        "begin": "2024-04-18T15:00:00.000Z",
-        "broadcast": "R/2024-04-18T15:00:00.000Z/P7D"
       }
     ]
   },

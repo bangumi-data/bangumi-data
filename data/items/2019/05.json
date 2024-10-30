@@ -26,7 +26,8 @@
       {
         "site": "nicovideo",
         "id": "cf-vanguard-2019",
-        "begin": "2019-05-16T12:00:00.000Z"
+        "begin": "2019-05-16T12:00:00.000Z",
+        "broadcast": "R/2019-05-16T12:00:00.000Z/P7D"
       },
       {
         "site": "mgtv",
@@ -65,7 +66,8 @@
       {
         "site": "nicovideo",
         "id": "mirutights",
-        "begin": ""
+        "begin": "2019-05-18T13:00:00.000Z",
+        "broadcast": "R/2019-05-18T13:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -89,7 +91,8 @@
       {
         "site": "nicovideo",
         "id": "wakige-anime",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -110,6 +113,12 @@
       {
         "site": "bangumi",
         "id": "249249"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kinpri-movie-sss",
+        "begin": "2020-07-13T15:00:00.000Z",
+        "broadcast": "R/2020-07-13T15:00:00.000Z/P7D"
       }
     ]
   },

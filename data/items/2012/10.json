@@ -28,7 +28,8 @@
       {
         "site": "nicovideo",
         "id": "sakurasou",
-        "begin": "2012-10-15T14:00:00.000Z"
+        "begin": "2012-10-15T14:00:00.000Z",
+        "broadcast": "R/2012-10-15T14:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -97,7 +98,8 @@
       {
         "site": "nicovideo",
         "id": "hidamari_04",
-        "begin": "2014-12-25T06:00:00.000Z"
+        "begin": "2014-12-25T06:00:00.000Z",
+        "broadcast": "R/2014-12-25T06:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -182,6 +184,12 @@
       {
         "site": "dmhy",
         "id": "Girls und Panzer"
+      },
+      {
+        "site": "nicovideo",
+        "id": "girls-und-panzer",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -219,7 +227,8 @@
       {
         "site": "nicovideo",
         "id": "zetsuen",
-        "begin": "2014-06-02T06:00:00.000Z"
+        "begin": "2014-06-02T06:00:00.000Z",
+        "broadcast": "R/2014-06-02T06:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -273,7 +282,8 @@
       {
         "site": "nicovideo",
         "id": "oniai",
-        "begin": "2012-10-18T15:00:00.000Z"
+        "begin": "2012-10-18T15:00:00.000Z",
+        "broadcast": "R/2012-10-18T15:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -355,7 +365,8 @@
       {
         "site": "nicovideo",
         "id": "to-love-ru3",
-        "begin": "2012-10-17T06:00:00.000Z"
+        "begin": "2012-10-17T06:00:00.000Z",
+        "broadcast": "R/2012-10-17T06:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -399,7 +410,8 @@
       {
         "site": "nicovideo",
         "id": "chu-2",
-        "begin": "2018-01-05T03:00:00.000Z"
+        "begin": "2018-01-05T03:00:00.000Z",
+        "broadcast": "R/2018-01-05T03:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -446,7 +458,8 @@
       {
         "site": "nicovideo",
         "id": "medakabox2",
-        "begin": "2012-10-13T16:30:00.000Z"
+        "begin": "2012-10-13T16:30:00.000Z",
+        "broadcast": "R/2012-10-13T16:30:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -488,7 +501,8 @@
       {
         "site": "nicovideo",
         "id": "mikagesha",
-        "begin": "2014-09-26T06:00:00.000Z"
+        "begin": "2014-09-26T06:00:00.000Z",
+        "broadcast": "R/2014-09-26T06:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -589,19 +603,14 @@
       {
         "site": "nicovideo",
         "id": "k-project",
-        "begin": "2012-10-13T16:00:00.000Z"
+        "begin": "2012-10-13T16:00:00.000Z",
+        "broadcast": "R/2012-10-13T16:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
         "id": "685",
         "begin": "2012-10-03T16:00:00.000Z",
         "broadcast": "R/2016-01-06T09:42:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "54809",
-        "begin": "2018-08-16T09:00:00.000Z",
-        "broadcast": "R/2018-08-16T09:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -636,7 +645,8 @@
       {
         "site": "nicovideo",
         "id": "btooom",
-        "begin": "2012-10-08T13:30:00.000Z"
+        "begin": "2012-10-08T13:30:00.000Z",
+        "broadcast": "R/2012-10-08T13:30:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -728,12 +738,6 @@
         "site": "qq",
         "id": "m/mzc00200mue673z",
         "begin": ""
-      },
-      {
-        "site": "gamer",
-        "id": "57123",
-        "begin": "2015-12-13T16:00:00.000Z",
-        "broadcast": "R/2015-12-13T16:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -837,7 +841,8 @@
       {
         "site": "nicovideo",
         "id": "sukinayo",
-        "begin": "2012-10-12T16:30:00.000Z"
+        "begin": "2012-10-12T16:30:00.000Z",
+        "broadcast": "R/2012-10-12T16:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -912,7 +917,8 @@
       {
         "site": "nicovideo",
         "id": "ixion-saga",
-        "begin": "2012-10-15T14:30:00.000Z"
+        "begin": "2012-10-15T14:30:00.000Z",
+        "broadcast": "R/2012-10-15T14:30:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -1049,7 +1055,8 @@
       {
         "site": "nicovideo",
         "id": "jormungand2",
-        "begin": "2012-10-19T17:00:00.000Z"
+        "begin": "2012-10-19T17:00:00.000Z",
+        "broadcast": "R/2012-10-19T17:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -1141,7 +1148,8 @@
       {
         "site": "nicovideo",
         "id": "tk-anime",
-        "begin": "2012-10-05T16:00:00.000Z"
+        "begin": "2012-10-05T16:00:00.000Z",
+        "broadcast": "R/2012-10-05T16:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1196,7 +1204,8 @@
       {
         "site": "nicovideo",
         "id": "bis",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1288,7 +1297,8 @@
         "食梦者 第三季",
         "食梦者 第三期",
         "爆漫王 第三季",
-        "爆漫 第三季"
+        "爆漫 第三季",
+        "爆漫王。第三季"
       ]
     },
     "type": "tv",
@@ -1304,7 +1314,8 @@
       {
         "site": "nicovideo",
         "id": "bakuman3",
-        "begin": "2012-10-20T15:00:00.000Z"
+        "begin": "2012-10-20T15:00:00.000Z",
+        "broadcast": "R/2012-10-20T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1321,6 +1332,12 @@
       {
         "site": "dmhy",
         "id": "bakuman|爆漫"
+      },
+      {
+        "site": "gamer",
+        "id": "53500",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1344,7 +1361,8 @@
       {
         "site": "nicovideo",
         "id": "te-kyu",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "bilibili",
@@ -1399,7 +1417,8 @@
       {
         "site": "nicovideo",
         "id": "wooser",
-        "begin": "2012-09-25T03:00:00.000Z"
+        "begin": "2012-09-25T03:00:00.000Z",
+        "broadcast": "R/2012-09-25T03:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1459,7 +1478,8 @@
       {
         "site": "nicovideo",
         "id": "seitokai2",
-        "begin": "2013-11-28T15:00:00.000Z"
+        "begin": "2013-11-28T15:00:00.000Z",
+        "broadcast": "R/2013-11-28T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1570,12 +1590,6 @@
         "id": "470",
         "begin": "2012-10-06T16:00:00.000Z",
         "broadcast": "R/2014-07-01T05:56:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "56518",
-        "begin": "2020-11-06T05:00:00.000Z",
-        "broadcast": "R/2020-11-06T05:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -1764,7 +1778,8 @@
       {
         "site": "nicovideo",
         "id": "mini-oyaji",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1813,7 +1828,8 @@
       {
         "site": "nicovideo",
         "id": "aoisekai-anime",
-        "begin": "2013-03-21T03:00:00.000Z"
+        "begin": "2013-03-21T03:00:00.000Z",
+        "broadcast": "R/2013-03-21T03:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -1847,7 +1863,8 @@
       {
         "site": "nicovideo",
         "id": "madoka-magica-movie1",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "bilibili",
@@ -1886,7 +1903,8 @@
       {
         "site": "nicovideo",
         "id": "madoka-magica-movie2",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "bilibili",
@@ -1922,7 +1940,8 @@
       {
         "site": "nicovideo",
         "id": "PH9",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "bilibili",

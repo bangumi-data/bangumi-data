@@ -61,6 +61,12 @@
       {
         "site": "bangumi",
         "id": "2789"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017382",
+        "begin": "2024-10-01T03:00:00.000Z",
+        "broadcast": "R/2024-10-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -158,12 +164,6 @@
         "id": "SID0016224",
         "begin": "2019-01-03T03:00:00.000Z",
         "broadcast": "R/2019-01-03T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "172-31",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
@@ -179,6 +179,9 @@
       ],
       "zh-Hant": [
         "魔動王"
+      ],
+      "en": [
+        "Mado King Granzort"
       ]
     },
     "type": "tv",
@@ -196,6 +199,18 @@
         "id": "2397",
         "begin": "1989-04-06T16:00:00.000Z",
         "broadcast": "R/2011-08-30T22:36:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "18168",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjuFGSZR8N3SEYTVStToEcF",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

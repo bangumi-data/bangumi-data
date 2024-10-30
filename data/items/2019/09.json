@@ -232,22 +232,10 @@
         "broadcast": ""
       },
       {
-        "site": "gamer",
-        "id": "106512",
-        "begin": "2020-05-19T06:30:00.000Z",
-        "broadcast": "R/2020-05-19T06:30:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0060951",
         "begin": "2021-08-24T15:00:00.000Z",
         "broadcast": "R/2021-08-24T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "106512",
-        "begin": "2020-05-19T06:30:00.000Z",
-        "broadcast": "R/2020-05-19T06:30:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -356,6 +344,12 @@
       {
         "site": "abema",
         "id": "30-13",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "gineiden-seiran",
         "begin": "",
         "broadcast": ""
       }
