@@ -1539,6 +1539,13 @@
       {
         "site": "mikan",
         "id": "2887"
+      },
+      {
+        "site": "unext",
+        "id": "SID0077102",
+        "begin": "2024-11-12T03:00:00.000Z",
+        "broadcast": "R/2024-11-12T03:00:00.000Z/P7D",
+        "comment": "ワンダフルver"
       }
     ]
   },
@@ -2746,6 +2753,12 @@
       {
         "site": "mikan",
         "id": "2879"
+      },
+      {
+        "site": "unext",
+        "id": "SID0076907",
+        "begin": "2024-11-12T03:00:00.000Z",
+        "broadcast": "R/2024-11-12T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -4083,6 +4096,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "偶像活动！ 10th STORY ～通往未来的STARWAY～"
+      ],
+      "zh-Hant": [
+        "星夢學園 邁向未來的STARWAY"
       ]
     },
     "type": "movie",
@@ -4106,6 +4122,12 @@
       {
         "site": "nicovideo",
         "id": "aikatsu_10th_story",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "142121",
         "begin": "",
         "broadcast": ""
       }

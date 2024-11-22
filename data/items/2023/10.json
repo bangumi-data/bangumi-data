@@ -550,7 +550,8 @@
         "site": "viu",
         "id": "2247795",
         "begin": "2023-09-30T16:00:00.000Z",
-        "broadcast": "R/2023-09-30T16:00:00.000Z/P7D"
+        "broadcast": "R/2023-09-30T16:00:00.000Z/P7D",
+        "comment": "粵語版: 2516774"
       },
       {
         "site": "gamer",
@@ -1748,6 +1749,10 @@
         "id": "135088",
         "begin": "2024-09-25T09:10:00.000Z",
         "broadcast": "R/2024-09-25T09:10:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "放學 花子君"
       }
     ]
   },
@@ -2456,6 +2461,12 @@
       {
         "site": "mikan",
         "id": "3138"
+      },
+      {
+        "site": "unext",
+        "id": "SID0093568",
+        "begin": "2024-11-12T03:00:00.000Z",
+        "broadcast": "R/2024-11-12T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -3270,6 +3281,12 @@
       {
         "site": "mikan",
         "id": "3171"
+      },
+      {
+        "site": "netflix",
+        "id": "81924739",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4461,6 +4478,10 @@
         "数码宝贝02 THE BEGINNING",
         "数码暴龙02 THE BEGINNING",
         "数码兽大冒险02 THE BEGINNING"
+      ],
+      "zh-Hant": [
+        "數碼暴龍 02 THE BEGINNING",
+        "數碼寶貝 02 THE BEGINNING"
       ]
     },
     "type": "movie",
@@ -4484,6 +4505,12 @@
       {
         "site": "bilibili",
         "id": "21225247",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81946494",
         "begin": "",
         "broadcast": ""
       }
