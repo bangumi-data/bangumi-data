@@ -669,6 +669,10 @@
         "少哭",
         "闺泣",
         "少女五乐哭"
+      ],
+      "zh-Hant": [
+        "GIRLS BAND CRY",
+        "少女樂團 吶喊吧"
       ]
     },
     "type": "tv",
@@ -710,6 +714,12 @@
       {
         "site": "nicovideo",
         "id": "girls-band-cry",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "131960",
         "begin": "",
         "broadcast": ""
       }
@@ -3528,6 +3538,12 @@
       {
         "site": "mikan",
         "id": "3339"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100083",
+        "begin": "2024-03-29T03:00:00.000Z",
+        "broadcast": "R/2024-03-29T03:00:00.000Z/P7D"
       }
     ]
   },

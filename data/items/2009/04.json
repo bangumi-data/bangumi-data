@@ -1093,6 +1093,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "毎日妈妈"
+      ],
+      "zh-Hant": [
+        "元氣媽媽"
       ]
     },
     "type": "tv",
@@ -1115,6 +1118,12 @@
         "id": "SID0003126",
         "begin": "2019-06-25T03:00:00.000Z",
         "broadcast": "R/2019-06-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "42466",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

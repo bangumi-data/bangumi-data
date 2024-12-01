@@ -99,5 +99,47 @@
         "broadcast": ""
       }
     ]
+  },
+  {
+    "title": "劇場版ハイキュー!! ゴミ捨て場の決戦",
+    "titleTranslate": {
+      "zh-Hans": [
+        "排球少年！！垃圾场决战",
+        "剧场版排球!! 垃圾场的决战",
+        "剧场版 排球少年!! 垃圾场的决战"
+      ],
+      "zh-Hant": [
+        "排球少年！！劇場版：垃圾場的決戰",
+        "劇場版 排球少年!! 垃圾場的決戰"
+      ],
+      "en": [
+        "Haikyu!!: The Dumpster Battle"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://haikyu.jp/movie/",
+    "begin": "2024-02-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-02-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "394621"
+      },
+      {
+        "site": "netflix",
+        "id": "81930066",
+        "begin": "2024-10-30T00:00:00.000Z",
+        "broadcast": "R/2024-10-30T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0159138",
+        "begin": "2024-10-29T15:00:00.000Z",
+        "broadcast": "R/2024-10-29T15:00:00.000Z/P7D"
+      }
+    ]
   }
 ]
