@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "摇曳百合♪♪"
+      ],
+      "en": [
+        "YuruYuri Season 2"
       ]
     },
     "type": "tv",
@@ -37,6 +40,12 @@
       {
         "site": "dmhy",
         "id": "搖曳百合|yuri"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GY19XDNQR",
+        "begin": "2011-07-04T17:03:00.000Z",
+        "broadcast": "R/2011-07-04T17:03:00.000Z/P7D"
       }
     ]
   },
@@ -68,6 +77,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "织田信奈的野望"
+      ],
+      "en": [
+        "The Ambition of Oda Nobuna"
       ]
     },
     "type": "tv",
@@ -100,6 +112,12 @@
       {
         "site": "dmhy",
         "id": "织田+野望"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G6JQK7D5R",
+        "begin": "2012-06-12T16:10:43.000Z",
+        "broadcast": "R/2012-06-12T16:10:43.000Z/P7D"
       }
     ]
   },
@@ -181,6 +199,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "千岁 Get you!!"
+      ],
+      "en": [
+        "Chitose Get You!"
       ]
     },
     "type": "tv",
@@ -204,6 +225,12 @@
         "id": "3352",
         "begin": "2012-06-30T16:00:01.000Z",
         "broadcast": "R/2016-02-18T02:18:00.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYGGVPV8Y",
+        "begin": "2012-07-01T15:56:00.000Z",
+        "broadcast": "R/2012-07-01T15:56:00.000Z/P7D"
       }
     ]
   },
@@ -367,6 +394,12 @@
       {
         "site": "dmhy",
         "id": "Total+Eclipse"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GY8VDPKGY",
+        "begin": "2012-06-26T12:15:50.000Z",
+        "broadcast": "R/2012-06-26T12:15:50.000Z/P7D"
       }
     ]
   },
@@ -1425,6 +1458,36 @@
         "id": "SID0018562",
         "begin": "2015-06-01T06:00:00.000Z",
         "broadcast": "R/2015-06-01T06:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "旅するぬいぐるみ ～traveling “Daru”～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "绒毛玩偶之旅"
+      ],
+      "en": [
+        "Traveling Daru"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.cwfilms.jp/tabinui/",
+    "begin": "2012-07-05T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2012-07-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "189517"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GRMGE945R",
+        "begin": "2012-08-06T13:00:00.000Z",
+        "broadcast": "R/2012-08-06T13:00:00.000Z/P7D"
       }
     ]
   }

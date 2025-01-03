@@ -5,6 +5,9 @@
       "zh-Hans": [
         "这个男人、工作是魔法",
         "这个男子从事魔法工作"
+      ],
+      "en": [
+        "This Boy is a Professional Wizard"
       ]
     },
     "type": "tv",
@@ -44,6 +47,12 @@
       {
         "site": "mikan",
         "id": "673"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G649MNM1Y",
+        "begin": "2016-02-05T14:00:00.000Z",
+        "broadcast": "R/2016-02-05T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -354,6 +363,34 @@
         "id": "SID0023861",
         "begin": "2019-11-21T03:00:00.000Z",
         "broadcast": "R/2019-11-21T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "NOBLESSE : Awakening",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大贵族：回醒",
+        "大貴族：甦醒"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2016-02-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2016-02-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "168466"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYGG9Z2WY",
+        "begin": "2016-02-04T02:25:36.000Z",
+        "broadcast": "R/2016-02-04T02:25:36.000Z/P7D"
       }
     ]
   }

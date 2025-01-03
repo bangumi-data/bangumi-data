@@ -1123,6 +1123,12 @@
       {
         "site": "mikan",
         "id": "2654"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G1XHJV3MV",
+        "begin": "2021-07-03T16:30:00.000Z",
+        "broadcast": "R/2021-07-03T16:30:00.000Z/P7D"
       }
     ]
   },
@@ -1410,6 +1416,9 @@
       "zh-Hans": [
         "彩绿",
         "深绿"
+      ],
+      "en": [
+        "Irodorimidori"
       ]
     },
     "type": "tv",
@@ -1453,6 +1462,12 @@
       {
         "site": "mikan",
         "id": "2650"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G24H1NW17",
+        "begin": "2023-06-14T14:30:00.000Z",
+        "broadcast": "R/2023-06-14T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -1583,6 +1598,12 @@
       {
         "site": "mikan",
         "id": "2648"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GW4HM7GNK",
+        "begin": "2022-06-14T10:00:00.000Z",
+        "broadcast": "R/2022-06-14T10:00:00.000Z/P7D"
       }
     ]
   },
@@ -2223,22 +2244,6 @@
     ]
   },
   {
-    "title": "パウ・パトロール(シーズン4)",
-    "titleTranslate": {
-      "en": [
-        "PAW PATROL"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "https://pawpatrol.jp/",
-    "begin": "2022-01-07T08:55:00.000Z",
-    "broadcast": "R/2022-01-07T08:55:00.000Z/P7D",
-    "end": "",
-    "comment": "",
-    "sites": []
-  },
-  {
     "title": "時光代理人 -LINK CLICK-",
     "titleTranslate": {},
     "type": "tv",
@@ -2610,6 +2615,12 @@
       {
         "site": "mikan",
         "id": "2543"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G79H230XN",
+        "begin": "2022-07-12T10:00:00.000Z",
+        "broadcast": "R/2022-07-12T10:00:00.000Z/P7D"
       }
     ]
   },
@@ -2648,7 +2659,11 @@
   },
   {
     "title": "テイルズ オブ ルミナリア The Fateful Crossroad",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "en": [
+        "Tales of Luminaria the Fateful Crossroad"
+      ]
+    },
     "type": "web",
     "lang": "ja",
     "officialSite": "https://luminaria.tales-ch.jp/anime/",
@@ -2672,6 +2687,12 @@
         "id": "luminaria-tales-fc",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GG5H5XE13",
+        "begin": "2022-01-21T02:45:00.000Z",
+        "broadcast": "R/2022-01-21T02:45:00.000Z/P7D"
       }
     ]
   },

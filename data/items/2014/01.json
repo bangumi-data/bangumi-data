@@ -43,6 +43,12 @@
       {
         "site": "mikan",
         "id": "248"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GY5VKE9EY",
+        "begin": "2014-04-25T16:30:00.000Z",
+        "broadcast": "R/2014-04-25T16:30:00.000Z/P7D"
       }
     ]
   },
@@ -453,6 +459,9 @@
       "zh-Hans": [
         "天才麻将少女 全国篇",
         "天才麻將少女 全國篇"
+      ],
+      "en": [
+        "Saki - The Nationals"
       ]
     },
     "type": "tv",
@@ -489,6 +498,12 @@
       {
         "site": "mikan",
         "id": "267"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GRDQKN9DY",
+        "begin": "2009-04-05T17:00:00.000Z",
+        "broadcast": "R/2009-04-05T17:00:00.000Z/P7D"
       }
     ]
   },
@@ -1397,6 +1412,12 @@
       {
         "site": "mikan",
         "id": "264"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GRGGVKZWR",
+        "begin": "2014-01-02T12:10:07.000Z",
+        "broadcast": "R/2014-01-02T12:10:07.000Z/P7D"
       }
     ]
   },
@@ -1895,7 +1916,7 @@
     "title": "うーさーのその日暮らし 覚醒編",
     "titleTranslate": {
       "en": [
-        "wooser's hand-to-mouth life"
+        "Wooser's Hand-to-Mouth Life: Awakening Arc"
       ],
       "zh-Hans": [
         "兔宝的悲惨日常 觉醒篇",
@@ -1928,6 +1949,12 @@
         "id": "SID0017596",
         "begin": "2020-06-01T03:00:00.000Z",
         "broadcast": "R/2020-06-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYX0M3J7R",
+        "begin": "2012-10-03T08:35:00.000Z",
+        "broadcast": "R/2012-10-03T08:35:00.000Z/P7D"
       }
     ]
   },
@@ -1936,6 +1963,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "姐姐来了"
+      ],
+      "en": [
+        "Onee-chan ga Kita"
       ]
     },
     "type": "tv",
@@ -1977,6 +2007,12 @@
       {
         "site": "mikan",
         "id": "632"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GRDQVM3KY",
+        "begin": "2014-01-08T18:00:00.000Z",
+        "broadcast": "R/2014-01-08T18:00:00.000Z/P7D"
       }
     ]
   },
@@ -2416,6 +2452,36 @@
         "id": "SID0002472",
         "begin": "2019-04-12T03:00:00.000Z",
         "broadcast": "R/2019-04-12T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ジョジョの奇妙な冒険 総集編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "JOJO的奇妙冒险 总集篇"
+      ],
+      "en": [
+        "JoJo's Bizarre Adventure Re-Edited"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://jojo-animation.com/",
+    "begin": "2013-12-31T16:00:00.000Z",
+    "broadcast": "R/2013-12-31T16:00:00.000Z/P7D",
+    "end": "2014-01-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "99859"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYP8DP1MY",
+        "begin": "2014-04-04T09:30:00.000Z",
+        "broadcast": "R/2014-04-04T09:30:00.000Z/P7D"
       }
     ]
   }

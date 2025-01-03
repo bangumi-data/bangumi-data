@@ -98,6 +98,12 @@
         "site": "youku",
         "id": "712415662cab4b149550",
         "begin": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G79H23WQ7",
+        "begin": "2021-11-23T14:00:00.000Z",
+        "broadcast": "R/2021-11-23T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -379,6 +385,37 @@
       {
         "site": "mikan",
         "id": "1548"
+      }
+    ]
+  },
+  {
+    "title": "いたずら魔女と眠らない街",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恶作剧魔女与不夜城",
+        "恶作剧魔女与不眠之街"
+      ],
+      "en": [
+        "Sorcery in the Big City"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://itazuramajo.com/",
+    "begin": "2017-11-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-11-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "230912"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G6Q4NJKGR",
+        "begin": "2017-12-01T10:00:00.000Z",
+        "broadcast": "R/2017-12-01T10:00:00.000Z/P7D"
       }
     ]
   }

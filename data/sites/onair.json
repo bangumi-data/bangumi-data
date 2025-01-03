@@ -106,5 +106,9 @@
     "title": "U-NEXT",
     "urlTemplate": "https://video.unext.jp/title/{{id}}",
     "regions": ["JP"]
+  },
+  "crunchyroll": {
+    "title": "Crunchyroll",
+    "urlTemplate": "https://www.crunchyroll.com/series/{{id}}/"
   }
 }

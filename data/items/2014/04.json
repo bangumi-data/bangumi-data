@@ -252,6 +252,12 @@
       {
         "site": "mikan",
         "id": "295"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYP8DP1MY",
+        "begin": "2014-04-04T09:30:00.000Z",
+        "broadcast": "R/2014-04-04T09:30:00.000Z/P7D"
       }
     ]
   },
@@ -2419,6 +2425,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "犬神同学和猫山同学"
+      ],
+      "en": [
+        "Inugami-san to Nekoyama-san"
       ]
     },
     "type": "tv",
@@ -2460,6 +2469,12 @@
       {
         "site": "mikan",
         "id": "331"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GR2P14M5R",
+        "begin": "2014-04-10T16:05:00.000Z",
+        "broadcast": "R/2014-04-10T16:05:00.000Z/P7D"
       }
     ]
   },
@@ -3048,7 +3063,11 @@
   },
   {
     "title": "ワールドフールニュース",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "en": [
+        "World Fool News"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.gtv.co.jp/program/animation/wfn/",
@@ -3064,6 +3083,12 @@
         "id": "SID0013627",
         "begin": "2017-05-08T03:00:00.000Z",
         "broadcast": "R/2017-05-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G6DQD29GR",
+        "begin": "2014-04-17T13:00:00.000Z",
+        "broadcast": "R/2014-04-17T13:00:00.000Z/P7D"
       }
     ]
   },

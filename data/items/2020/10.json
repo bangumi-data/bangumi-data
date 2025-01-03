@@ -2708,6 +2708,9 @@
     "titleTranslate": {
       "zh-Hant": [
         "D4DJ First Mix"
+      ],
+      "en": [
+        "D4DJ First Mix"
       ]
     },
     "type": "tv",
@@ -2759,6 +2762,12 @@
       {
         "site": "mikan",
         "id": "2309"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYGVN57EY",
+        "begin": "2020-10-22T14:00:00.000Z",
+        "broadcast": "R/2020-10-22T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -3425,6 +3434,12 @@
         "id": "burn-the-witch",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GRPP77VJR",
+        "begin": "2020-10-01T23:00:00.000Z",
+        "broadcast": "R/2020-10-01T23:00:00.000Z/P7D"
       }
     ]
   },
@@ -3887,6 +3902,29 @@
         "id": "SID0052998",
         "begin": "2020-11-16T15:00:00.000Z",
         "broadcast": "R/2020-11-16T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "TALES OF CRESTORIA ーTHE WAKE OF SINー",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://crestoria-en.tales-ch.jp/anime/",
+    "begin": "2020-10-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-10-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317337"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G65J2V786",
+        "begin": "2020-10-18T10:00:00.000Z",
+        "broadcast": "R/2020-10-18T10:00:00.000Z/P7D"
       }
     ]
   }

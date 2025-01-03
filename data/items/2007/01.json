@@ -608,5 +608,32 @@
         "broadcast": "R/2015-02-17T06:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "Robotech: The Shadow Chronicles",
+    "titleTranslate": {
+      "zh-Hans": [
+        "太空堡垒：暗影编年"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2007-01-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2007-01-04T17:28:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "89880"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GEXH3WKDP",
+        "begin": "2022-09-13T10:00:00.000Z",
+        "broadcast": "R/2022-09-13T10:00:00.000Z/P7D"
+      }
+    ]
   }
 ]
