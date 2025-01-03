@@ -2310,12 +2310,6 @@
         "id": "80131674",
         "begin": "",
         "broadcast": ""
-      },
-      {
-        "site": "mytv",
-        "id": "konosubagodsblessingonthiswonderfulworld_141789",
-        "begin": "2024-10-25T16:00:00.000Z",
-        "broadcast": "R/2024-10-25T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -2507,6 +2501,12 @@
         "id": "111587",
         "begin": "2020-06-19T03:00:00.000Z",
         "broadcast": "R/2020-06-19T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "172-58",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2716,6 +2716,37 @@
         "id": "5706",
         "begin": "2016-01-15T16:00:00.000Z",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "私たち、らくろじ部！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我们是LuckLogic部!"
+      ],
+      "zh-Hant": [
+        "我們是LuckLogic部！"
+      ],
+      "en": [
+        "We Are the Lucklogi Club!"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2016-01-08T16:00:00.000Z",
+    "broadcast": "R/2016-01-08T16:00:00.000Z/P7D",
+    "end": "2016-03-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "259626"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "56857f4ad4d7dbf20b597c4e"
       }
     ]
   }

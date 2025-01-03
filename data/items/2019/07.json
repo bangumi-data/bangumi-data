@@ -2794,5 +2794,60 @@
         "broadcast": ""
       }
     ]
+  },
+  {
+    "title": "少女☆寸劇 オールスタァライト",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少女☆寸剧 All Starlight",
+        "少女☆小短剧 All Starlight"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://revuestarlight.bushimo.jp/allstar/",
+    "begin": "2019-07-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-12-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "279541"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5db30e5c306f1a0007c0ae0d"
+      },
+      {
+        "site": "mikan",
+        "id": "2081"
+      }
+    ]
+  },
+  {
+    "title": "ノア 方舟の救世主",
+    "titleTranslate": {
+      "zh-Hans": [
+        "诺亚 方舟救世主"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://anime.monster-strike.com/",
+    "begin": "2019-07-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-08-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "286490"
+      },
+      {
+        "site": "mikan",
+        "id": "2012"
+      }
+    ]
   }
 ]

@@ -882,12 +882,6 @@
         "id": "2427"
       },
       {
-        "site": "mytv",
-        "id": "tokyorevengers2426_141236",
-        "begin": "2024-07-01T02:00:00.000Z",
-        "broadcast": "R/2024-07-01T02:00:00.000Z/P7D"
-      },
-      {
         "site": "muse_hk",
         "id": "PLuxqoToY7Uch24ToiTn-Yl1UyX7r-RFzB",
         "begin": "2024-08-20T13:30:06.000Z",
@@ -943,12 +937,6 @@
         "id": "PLuxqoToY7UchtU-rMECl3p2BQGbCGe16c",
         "begin": "2021-04-04T15:00:00.000Z",
         "broadcast": "R/2021-04-04T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "netflix",
-        "id": "81335206",
-        "begin": "2021-08-25T16:00:00.000Z",
-        "broadcast": "R/2021-08-25T16:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -3942,6 +3930,75 @@
       {
         "site": "mikan",
         "id": "2599"
+      }
+    ]
+  },
+  {
+    "title": "歌うサッカーパンダ ミファンダ",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://mifa.co.jp/",
+    "begin": "2021-03-31T16:00:00.000Z",
+    "broadcast": "R/2021-03-31T16:00:00.000Z/P7D",
+    "end": "2021-06-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "309170"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6065f099eaf504d0216b77af"
+      }
+    ]
+  },
+  {
+    "title": "あはれ！名作くん(第6期)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "做得很好！名作君 第六季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://meisakukun.com/",
+    "begin": "2021-04-01T09:20:00.000Z",
+    "end": "2022-03-24T09:20:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi_moe",
+        "id": "6065f09aeaf504d0216b77b1"
+      }
+    ]
+  },
+  {
+    "title": "ミニドラ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "迷你龙小剧场",
+        "迷你龙",
+        "迷你龙女仆",
+        "龙女仆小剧场"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://maidragon.jp/2nd/story/#/minidra",
+    "begin": "2021-04-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-06-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "332570"
+      },
+      {
+        "site": "mikan",
+        "id": "2479"
       }
     ]
   }

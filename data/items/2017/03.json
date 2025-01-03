@@ -450,5 +450,52 @@
         "broadcast": "R/2020-08-14T03:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "ひるね姫～知らないワタシの物語～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "午睡公主～我不为人知的故事～",
+        "午睡姬～我不为人知的故事～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://wwws.warnerbros.co.jp/hirunehime/",
+    "begin": "2017-03-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-03-17T17:51:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "179798"
+      },
+      {
+        "site": "mikan",
+        "id": "1383"
+      }
+    ]
+  },
+  {
+    "title": "DAYS OAD",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2017-03-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-05-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "192589"
+      },
+      {
+        "site": "mikan",
+        "id": "1392"
+      }
+    ]
   }
 ]

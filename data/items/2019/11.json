@@ -211,13 +211,6 @@
         "broadcast": "R/2020-04-07T15:00:00.000Z/P7D"
       },
       {
-        "site": "viu",
-        "id": "442976",
-        "begin": "2022-05-31T16:00:00.000Z",
-        "broadcast": "R/2022-05-31T16:00:00.000Z/P7D",
-        "comment": "粵語版: 442977"
-      },
-      {
         "site": "unext",
         "id": "SID0047096",
         "begin": "2020-04-08T03:00:00.000Z",
@@ -624,6 +617,31 @@
         "id": "g-reco-movie1",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "ぼくたちは勉強ができない OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我们真的学不来 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2019-10-31T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-04-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "294059"
+      },
+      {
+        "site": "mikan",
+        "id": "2084"
       }
     ]
   }

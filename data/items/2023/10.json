@@ -1371,6 +1371,12 @@
         "id": "matsuinu-anime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "168-55",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2467,6 +2473,12 @@
         "id": "SID0093568",
         "begin": "2024-11-12T03:00:00.000Z",
         "broadcast": "R/2024-11-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "643-2",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3261,12 +3273,6 @@
       {
         "site": "bangumi",
         "id": "418599"
-      },
-      {
-        "site": "mytv",
-        "id": "beybladex_139812",
-        "begin": "2023-11-19T12:30:00.000Z",
-        "broadcast": "R/2023-11-19T12:30:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -4513,6 +4519,32 @@
         "id": "81946494",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "北極百貨店のコンシェルジュさん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "北极百货店的接待员",
+        "北極百貨的秋乃小姐"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://hokkyoku-dept.com/",
+    "begin": "2023-10-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-10-19T17:09:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "431933"
+      },
+      {
+        "site": "mikan",
+        "id": "3281"
       }
     ]
   }

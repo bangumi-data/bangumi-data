@@ -406,6 +406,12 @@
       {
         "site": "mikan",
         "id": "3099"
+      },
+      {
+        "site": "abema",
+        "id": "13-183",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -530,6 +536,18 @@
       {
         "site": "mikan",
         "id": "3059"
+      },
+      {
+        "site": "unext",
+        "id": "SID0088438",
+        "begin": "2024-11-22T03:00:00.000Z",
+        "broadcast": "R/2024-11-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "643-1",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -796,6 +814,12 @@
         "id": "SID0158898",
         "begin": "2024-11-09T03:00:00.000Z",
         "broadcast": "R/2024-11-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "600-8",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1300,12 +1324,6 @@
         "id": "nanatsuma-pr",
         "begin": "2023-07-11T03:00:00.000Z",
         "broadcast": "R/2023-07-11T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "199-57",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -3204,6 +3222,33 @@
         "id": "81725555",
         "begin": "2024-10-05T16:00:00.000Z",
         "broadcast": "R/2024-10-05T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "範馬刃牙 2期",
+    "titleTranslate": {
+      "zh-Hans": [
+        "范马刃牙 第二季"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://baki-anime.jp/",
+    "begin": "2023-07-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-08-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "375541"
+      },
+      {
+        "site": "unext",
+        "id": "SID0148315",
+        "begin": "2024-08-31T15:00:00.000Z",
+        "broadcast": "R/2024-08-31T15:00:00.000Z/P7D"
       }
     ]
   }

@@ -77,6 +77,14 @@
         "id": "248-22",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3499"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "66fb601889c3a6ce864cbcbf"
       }
     ]
   },
@@ -169,7 +177,7 @@
     "officialSite": "https://animationid.com/marukano/",
     "begin": "2024-11-15T18:08:00.000Z",
     "broadcast": "R/2024-11-15T18:08:00.000Z/P7D",
-    "end": "",
+    "end": "2024-12-20T17:38:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -186,12 +194,40 @@
     "officialSite": "https://www.asahi.co.jp/sp/sorotani/",
     "begin": "2024-11-28T14:10:00.000Z",
     "broadcast": "R/2024-11-28T14:10:00.000Z/P7D",
-    "end": "",
+    "end": "2024-12-19T14:10:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "526102"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 風都探偵 仮面ライダースカルの肖像",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 风都侦探 假面骑士Skull的肖像",
+        "剧场版 风都侦探 假面骑士颅骨的肖像"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.kamen-rider-official.com/fuuto-movie/",
+    "begin": "2024-11-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-11-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "501859"
+      },
+      {
+        "site": "unext",
+        "id": "SID0164430",
+        "begin": "2024-12-17T09:00:00.000Z",
+        "broadcast": "R/2024-12-17T09:00:00.000Z/P7D"
       }
     ]
   }

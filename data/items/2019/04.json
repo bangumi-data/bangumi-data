@@ -199,6 +199,12 @@
       {
         "site": "mikan",
         "id": "1909"
+      },
+      {
+        "site": "abema",
+        "id": "168-10",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2952,6 +2958,35 @@
         "id": "kemono-friends3",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "荒野のコトブキ飛行隊 外伝 大空のハルカゼ飛行隊",
+    "titleTranslate": {
+      "zh-Hans": [
+        "荒野的寿飞行队 外传 天空的春风飞行队"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2019-04-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-02-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "279048"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5d1df7da306f1a0007b50850"
+      },
+      {
+        "site": "mikan",
+        "id": "2005"
       }
     ]
   }

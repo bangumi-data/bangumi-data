@@ -349,12 +349,6 @@
         "broadcast": "R/2017-03-24T06:00:00.000Z/P7D"
       },
       {
-        "site": "viu",
-        "id": "467500",
-        "begin": "2022-12-22T16:00:00.000Z",
-        "broadcast": "R/2022-12-22T16:00:00.000Z/P7D"
-      },
-      {
         "site": "gamer",
         "id": "72755",
         "begin": "2017-04-01T19:27:00.000Z",
@@ -3758,6 +3752,12 @@
       {
         "site": "mikan",
         "id": "1315"
+      },
+      {
+        "site": "unext",
+        "id": "SID0163503",
+        "begin": "2024-12-26T15:00:00.000Z",
+        "broadcast": "R/2024-12-26T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3879,6 +3879,31 @@
         "begin": "2020-08-30T03:00:00.000Z",
         "broadcast": "R/2020-08-30T03:00:00.000Z/P7D",
         "comment": "Training of the Dead: SID0050431"
+      }
+    ]
+  },
+  {
+    "title": "ソウタイセカイ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "相对世界"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.soutaisekai.jp/",
+    "begin": "2017-04-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-05-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "212017"
+      },
+      {
+        "site": "mikan",
+        "id": "1322"
       }
     ]
   }

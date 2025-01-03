@@ -52,6 +52,10 @@
       {
         "site": "bangumi_moe",
         "id": "63b58c3c441dff2ff8927e53"
+      },
+      {
+        "site": "mikan",
+        "id": "2878"
       }
     ]
   },
@@ -85,6 +89,10 @@
         "id": "81302750",
         "begin": "2022-12-20T00:00:00.000Z",
         "broadcast": "R/2022-12-20T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2881"
       }
     ]
   },
@@ -277,6 +285,58 @@
         "id": "SID0103147",
         "begin": "2024-06-01T03:00:00.000Z",
         "broadcast": "R/2024-06-01T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "THE FIRST SLAM DUNK",
+    "titleTranslate": {
+      "zh-Hans": [
+        "灌篮高手",
+        "灌篮高手 电影版",
+        "灌篮高手：THE FIRST"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://slamdunk-movie.jp/",
+    "begin": "2022-12-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-12-02T18:04:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "324720"
+      },
+      {
+        "site": "mikan",
+        "id": "3256"
+      }
+    ]
+  },
+  {
+    "title": "LUPIN ZERO",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦 零"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.lupin-zero.com",
+    "begin": "2022-12-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-01-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "405990"
+      },
+      {
+        "site": "mikan",
+        "id": "2880"
       }
     ]
   }

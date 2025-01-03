@@ -1645,6 +1645,10 @@
         "id": "onimai",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "2883"
       }
     ]
   },
@@ -2053,6 +2057,12 @@
       {
         "site": "bangumi_moe",
         "id": "63b58c41441dff2ff8927e67"
+      },
+      {
+        "site": "netflix",
+        "id": "81663919",
+        "begin": "2024-12-14T00:00:00.000Z",
+        "broadcast": "R/2024-12-14T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -3150,6 +3160,10 @@
       {
         "site": "bangumi_moe",
         "id": "63b58c49441dff2ff8927e81"
+      },
+      {
+        "site": "mikan",
+        "id": "2882"
       }
     ]
   },
@@ -4158,12 +4172,6 @@
         "id": "fafner-behind-the-line",
         "begin": "2023-11-01T03:00:00.000Z",
         "broadcast": "R/2023-11-01T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0095306",
-        "begin": "2023-11-01T03:00:00.000Z",
-        "broadcast": "R/2023-11-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -4302,6 +4310,31 @@
         "id": "SID0156131",
         "begin": "2024-09-07T15:00:00.000Z",
         "broadcast": "R/2024-09-07T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "「FLAGLIA」～なつやすみの物語～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "FLAGLIA"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.flaglia.com/animation/",
+    "begin": "2023-01-15T16:00:00.000Z",
+    "broadcast": "R/2023-01-15T16:00:00.000Z/P7D",
+    "end": "2023-01-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "406172"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "63b58c40441dff2ff8927e63"
       }
     ]
   }

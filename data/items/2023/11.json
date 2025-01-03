@@ -379,6 +379,10 @@
         "id": "SID0104022",
         "begin": "2024-06-21T15:00:00.000Z",
         "broadcast": "R/2024-06-21T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3424"
       }
     ]
   },
@@ -450,6 +454,39 @@
       {
         "site": "mikan",
         "id": "3276"
+      }
+    ]
+  },
+  {
+    "title": "ラプソディ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Rhapsody"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://rhapsodyrecords.jp",
+    "begin": "2023-11-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "486268"
+      },
+      {
+        "site": "abema",
+        "id": "662-1",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0095345",
+        "begin": "2023-11-19T15:00:00.000Z",
+        "broadcast": "R/2023-11-19T15:00:00.000Z/P7D"
       }
     ]
   }

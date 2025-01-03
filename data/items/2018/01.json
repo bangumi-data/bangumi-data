@@ -3330,5 +3330,34 @@
         "broadcast": "R/2020-07-03T03:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "銀魂. 銀ノ魂篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银魂. 银之魂篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tv-tokyo.co.jp/anime/gintama/",
+    "begin": "2018-01-06T16:00:00.000Z",
+    "broadcast": "R/2018-01-06T16:00:00.000Z/P7D",
+    "end": "2018-03-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "232884"
+      },
+      {
+        "site": "mikan",
+        "id": "1546"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5a43141617d48cbd4a96261c"
+      }
+    ]
   }
 ]

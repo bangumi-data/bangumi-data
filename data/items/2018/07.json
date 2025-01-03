@@ -311,6 +311,12 @@
       {
         "site": "mikan",
         "id": "1670"
+      },
+      {
+        "site": "netflix",
+        "id": "81004514",
+        "begin": "2024-11-30T00:00:00.000Z",
+        "broadcast": "R/2024-11-30T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -642,12 +648,6 @@
         "site": "iqiyi",
         "id": "a_19rrgytgjp",
         "begin": "2018-07-08T14:00:00.000Z"
-      },
-      {
-        "site": "unext",
-        "id": "SID0035371",
-        "begin": "2023-12-01T03:00:00.000Z",
-        "broadcast": "R/2023-12-01T03:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -1322,6 +1322,18 @@
       {
         "site": "mikan",
         "id": "1688"
+      },
+      {
+        "site": "gamer",
+        "id": "92353",
+        "begin": "2024-11-22T04:00:00.000Z",
+        "broadcast": "R/2024-11-22T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "92353",
+        "begin": "2024-11-22T04:00:00.000Z",
+        "broadcast": "R/2024-11-22T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -1584,12 +1596,6 @@
         "id": "117372",
         "begin": "2018-07-22T18:05:00.000Z",
         "broadcast": "R/2018-07-22T18:05:00.000Z/P7D"
-      },
-      {
-        "site": "viu",
-        "id": "467613",
-        "begin": "2022-12-14T16:00:00.000Z",
-        "broadcast": "R/2022-12-14T16:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -2911,6 +2917,12 @@
       {
         "site": "mikan",
         "id": "1739"
+      },
+      {
+        "site": "abema",
+        "id": "168-42",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3159,6 +3171,107 @@
       {
         "site": "mikan",
         "id": "1882"
+      }
+    ]
+  },
+  {
+    "title": "ゆらぎ荘の幽奈さん OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "汤摇庄的幽奈同学 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://yuragisou.com/",
+    "begin": "2018-07-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-12-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "232657"
+      },
+      {
+        "site": "mikan",
+        "id": "1720"
+      }
+    ]
+  },
+  {
+    "title": "ルシファー 反逆の堕天使",
+    "titleTranslate": {
+      "zh-Hans": [
+        "路西法 反叛的堕天使"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://anime.monster-strike.com/",
+    "begin": "2018-07-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2018-12-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "253250"
+      },
+      {
+        "site": "mikan",
+        "id": "1723"
+      }
+    ]
+  },
+  {
+    "title": "からかい上手の高木さん OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "擅长捉弄的高木同学 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://takagi3.me/",
+    "begin": "2018-07-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2018-07-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "241418"
+      },
+      {
+        "site": "mikan",
+        "id": "1730"
+      }
+    ]
+  },
+  {
+    "title": "クイーンズブレイド UNLIMITED",
+    "titleTranslate": {
+      "zh-Hans": [
+        "女皇之刃 UNLIMITED",
+        "女王之刃 UNLIMITED"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://queensblade.net/unlimited/anime",
+    "begin": "2018-07-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2018-07-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "236163"
+      },
+      {
+        "site": "mikan",
+        "id": "1737"
       }
     ]
   }

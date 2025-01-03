@@ -1240,12 +1240,6 @@
         "broadcast": "R/2019-01-10T13:30:00.000Z/P7D"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UciwhBaR6QHIEbDmdK32uLD0",
-        "begin": "2019-11-09T16:00:00.000Z",
-        "broadcast": "R/2019-11-09T16:00:00.000Z/P7D"
-      },
-      {
         "site": "abema",
         "id": "283-5",
         "begin": "",
@@ -2092,12 +2086,6 @@
         "id": "273517"
       },
       {
-        "site": "nicovideo",
-        "id": "morikawa",
-        "begin": "2016-10-02T16:30:00.000Z",
-        "broadcast": "R/2016-10-02T16:30:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0056906",
         "begin": "2021-05-23T03:00:00.000Z",
@@ -2323,6 +2311,10 @@
         "id": "SID0047059",
         "begin": "2020-03-13T03:00:00.000Z",
         "broadcast": "R/2020-03-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2794"
       }
     ]
   },
@@ -2572,6 +2564,57 @@
         "id": "SID0066106",
         "begin": "2022-04-21T03:00:00.000Z",
         "broadcast": "R/2022-04-21T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "エロマンガ先生 OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "埃罗芒阿老师 OVA",
+        "情色漫画老师 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://eromanga-sensei.com/bd-dvd/ova.html",
+    "begin": "2019-01-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-01-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "229795"
+      },
+      {
+        "site": "mikan",
+        "id": "1881"
+      }
+    ]
+  },
+  {
+    "title": "ナツオ整備班長の戦闘機講座",
+    "titleTranslate": {
+      "zh-Hans": [
+        "夏生整备班长的战斗机讲座"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2019-01-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-02-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "274256"
+      },
+      {
+        "site": "mikan",
+        "id": "2006"
       }
     ]
   }

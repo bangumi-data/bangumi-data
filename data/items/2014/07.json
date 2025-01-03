@@ -473,12 +473,6 @@
         "begin": "2014-07-05T10:00:00.000Z"
       },
       {
-        "site": "netflix",
-        "id": "80145747",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "dmhy",
         "id": "少女+Crystal"
       },
@@ -495,6 +489,12 @@
         "id": "SID0011655",
         "begin": "2024-09-01T03:00:00.000Z",
         "broadcast": "R/2024-09-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80145747",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -567,12 +567,6 @@
       {
         "site": "mikan",
         "id": "343"
-      },
-      {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UchLHDnyI6j0tcWeE3_ILxxk",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
@@ -1595,12 +1589,6 @@
         "begin": "2014-07-11T15:00:00.000Z"
       },
       {
-        "site": "unext",
-        "id": "SID0017172",
-        "begin": "2024-01-26T03:00:00.000Z",
-        "broadcast": "R/2024-01-26T03:00:00.000Z/P7D"
-      },
-      {
         "site": "dmhy",
         "id": "桃劍"
       },
@@ -2093,6 +2081,18 @@
         "id": "28414246",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "69449",
+        "begin": "2024-12-20T04:00:00.000Z",
+        "broadcast": "R/2024-12-20T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "69449",
+        "begin": "2024-12-20T04:00:00.000Z",
+        "broadcast": "R/2024-12-20T04:00:00.000Z/P7D"
       }
     ]
   },

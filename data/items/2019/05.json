@@ -281,5 +281,31 @@
         "broadcast": "R/2020-12-11T03:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "プロメア 前日譚",
+    "titleTranslate": {
+      "zh-Hans": [
+        "普罗米亚 前日谭",
+        "Promare 前日谭"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://promare-movie.com/",
+    "begin": "2019-05-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-06-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "282971"
+      },
+      {
+        "site": "mikan",
+        "id": "2089"
+      }
+    ]
   }
 ]

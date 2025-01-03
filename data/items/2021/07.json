@@ -659,12 +659,6 @@
         "broadcast": "R/2021-07-02T17:55:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "169-115",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0058453",
         "begin": "2021-07-07T17:00:00.000Z",
@@ -1948,6 +1942,9 @@
         "IDOLiSH7 - 偶像星願 - Third BEAT！",
         "IDOLiSH7-偶像星願-Third BEAT!",
         "偶像星願7 Third BEAT!"
+      ],
+      "en": [
+        "Idolish 7 Third BEAT!"
       ]
     },
     "type": "tv",
@@ -2244,6 +2241,12 @@
       {
         "site": "mikan",
         "id": "2511"
+      },
+      {
+        "site": "abema",
+        "id": "26-89",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2813,6 +2816,10 @@
         "id": "110589",
         "begin": "2022-08-19T02:00:00.000Z",
         "broadcast": "R/2022-08-19T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2802"
       }
     ]
   },
@@ -2945,12 +2952,6 @@
         "broadcast": "R/2022-03-01T15:00:00.000Z/P7D"
       },
       {
-        "site": "netflix",
-        "id": "81492822",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mikan",
         "id": "2606"
       }
@@ -3029,6 +3030,40 @@
         "id": "SID0065168",
         "begin": "2024-02-01T15:00:00.000Z",
         "broadcast": "R/2024-02-01T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2638"
+      }
+    ]
+  },
+  {
+    "title": "アサルトリリィ ふるーつ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "突击莉莉Fruits",
+        "突击莉莉缤纷果实"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://anime.assaultlily-pj.com/fruits",
+    "begin": "2021-07-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-01-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "331306"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "60fa15ab2525b00007396fa2"
+      },
+      {
+        "site": "mikan",
+        "id": "2535"
       }
     ]
   }

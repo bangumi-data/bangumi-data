@@ -1592,6 +1592,10 @@
       {
         "site": "mikan",
         "id": "588"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "560d107d9286e15329cf94fc"
       }
     ]
   },
@@ -3501,6 +3505,31 @@
         "id": "SID0025112",
         "begin": "2020-12-11T03:00:00.000Z",
         "broadcast": "R/2020-12-11T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "北斗の拳 イチゴ味",
+    "titleTranslate": {
+      "zh-Hans": [
+        "北斗之拳 草莓味"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.hikanukobinukaeriminuteiounitousouhanainodaaaaa.com/",
+    "begin": "2015-10-05T16:00:00.000Z",
+    "broadcast": "R/2015-10-05T16:00:00.000Z/P7D",
+    "end": "2015-12-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "137436"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "560d10139286e15329cf94f8"
       }
     ]
   }

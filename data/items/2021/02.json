@@ -165,6 +165,12 @@
       {
         "site": "mikan",
         "id": "2413"
+      },
+      {
+        "site": "abema",
+        "id": "26-135",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -361,6 +367,56 @@
       {
         "site": "mikan",
         "id": "2519"
+      }
+    ]
+  },
+  {
+    "title": "異能のアイシス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "异能的艾希斯"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.projectaicis.com/nonocis/",
+    "begin": "2021-02-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-06-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "328582"
+      },
+      {
+        "site": "mikan",
+        "id": "2415"
+      }
+    ]
+  },
+  {
+    "title": "Tokyo 7th シスターズ -僕らは青空になる-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "东京七姐妹 我们化作青空"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://project-t7s-a.jp/",
+    "begin": "2021-02-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-02-25T16:01:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "305411"
+      },
+      {
+        "site": "mikan",
+        "id": "2468"
       }
     ]
   }

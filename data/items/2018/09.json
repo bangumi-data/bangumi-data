@@ -377,5 +377,36 @@
         "comment": "第二弾: SID0063521, 第三弾: SID0075199"
       }
     ]
+  },
+  {
+    "title": "ヤリチン☆ビッチ部",
+    "titleTranslate": {
+      "zh-Hans": [
+        "无节操☆Bitch社"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://yaribu.jp/",
+    "begin": "2018-09-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-09-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "241186"
+      },
+      {
+        "site": "unext",
+        "id": "SID0102583",
+        "begin": "2024-11-22T03:00:00.000Z",
+        "broadcast": "R/2024-11-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2090"
+      }
+    ]
   }
 ]

@@ -478,6 +478,18 @@
       {
         "site": "mikan",
         "id": "3371"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kin29man-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "189-77",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -555,6 +567,12 @@
       {
         "site": "mikan",
         "id": "3372"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mayopan",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -649,6 +667,12 @@
       {
         "site": "dmhy",
         "id": "俄語"
+      },
+      {
+        "site": "nicovideo",
+        "id": "roshidere",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -784,6 +808,12 @@
         "id": "SID0157563",
         "begin": "2024-10-05T03:00:00.000Z",
         "broadcast": "R/2024-10-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81948423",
+        "begin": "2024-11-30T00:00:00.000Z",
+        "broadcast": "R/2024-11-30T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -1080,7 +1110,7 @@
         "id": "SID0104174",
         "begin": "2024-07-10T15:00:00.000Z",
         "broadcast": "R/2024-07-10T15:00:00.000Z/P7D",
-        "comment": "ミニアニメ「直江くんは痩せさせたい。」: SID0104705"
+        "comment": "ミニアニメ「直江くんは痩せさせたい。」: SID0104705, ぽてぽてver.: SID0104704"
       },
       {
         "site": "abema",
@@ -1338,6 +1368,12 @@
       {
         "site": "mikan",
         "id": "3381"
+      },
+      {
+        "site": "netflix",
+        "id": "81948389",
+        "begin": "2024-12-19T00:00:00.000Z",
+        "broadcast": "R/2024-12-19T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -1464,7 +1500,8 @@
     "title": "黄昏アウトフォーカス",
     "titleTranslate": {
       "zh-Hans": [
-        "黄昏失焦"
+        "黄昏失焦",
+        "黄昏光影"
       ],
       "zh-Hant": [
         "黃昏光影"
@@ -1528,6 +1565,12 @@
         "id": "133842",
         "begin": "2024-07-04T15:00:00.000Z",
         "broadcast": "R/2024-07-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81948293",
+        "begin": "2024-11-30T00:00:00.000Z",
+        "broadcast": "R/2024-11-30T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -1953,6 +1996,12 @@
       {
         "site": "mikan",
         "id": "3391"
+      },
+      {
+        "site": "nicovideo",
+        "id": "makeine-anime",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3039,6 +3088,12 @@
         "begin": "",
         "broadcast": "",
         "comment": "オンエア版"
+      },
+      {
+        "site": "unext",
+        "id": "SID0104167",
+        "begin": "2024-06-22T03:00:00.000Z",
+        "broadcast": "R/2024-06-22T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -3272,7 +3327,8 @@
         "site": "ani_one",
         "id": "PLC18xlbCdwtSbhgEIZUVRyNXF8TIsj0oh",
         "begin": "",
-        "broadcast": ""
+        "broadcast": "",
+        "comment": "粵語: PLC18xlbCdwtTqlLyusVXdMsI9nivREoDx"
       },
       {
         "site": "ani_one_asia",
@@ -3305,6 +3361,12 @@
       {
         "site": "dmhy",
         "id": "我推"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ichigoproduction_Season2",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3587,6 +3649,63 @@
         "id": "SID0159850",
         "begin": "2024-11-07T15:00:00.000Z",
         "broadcast": "R/2024-11-07T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 モノノ怪 唐傘",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 物怪 唐伞",
+        "剧场版物怪：唐伞",
+        "剧场版 怪化猫",
+        "怪化猫：唐伞"
+      ],
+      "zh-Hant": [
+        "劇場版物怪：唐傘"
+      ],
+      "en": [
+        "Mononoke The Movie: The Phantom in the Rain"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.mononoke-movie.com/",
+    "begin": "2024-07-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-07-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "388469"
+      },
+      {
+        "site": "netflix",
+        "id": "81580574",
+        "begin": "2024-11-28T00:00:00.000Z",
+        "broadcast": "R/2024-11-28T00:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "JOCHUM",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://jochum.sanrio.co.jp/",
+    "begin": "2024-07-12T16:00:00.000Z",
+    "broadcast": "R/2024-07-12T16:00:00.000Z/P7D",
+    "end": "2024-12-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "490781"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6681472557ba1568dc1b080c"
       }
     ]
   }

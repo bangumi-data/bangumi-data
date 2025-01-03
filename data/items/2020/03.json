@@ -318,5 +318,58 @@
         "broadcast": "R/2023-01-02T15:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "アイドルマスター シンデレラガールズ劇場 Extra Stage",
+    "titleTranslate": {
+      "zh-Hans": [
+        "偶像大师 灰姑娘女孩剧场 Extra Stage",
+        "偶像大师 灰姑娘女孩剧场 第5期",
+        "偶像大师 灰姑娘女孩剧场 第五季"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://cingeki-anime.com",
+    "begin": "2020-03-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-04-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302738"
+      },
+      {
+        "site": "mikan",
+        "id": "2226"
+      }
+    ]
+  },
+  {
+    "title": "通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？ OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "普通攻击是全体攻击而且能二次攻击的妈妈你喜欢吗？ OVA",
+        "普通攻击是全体二连击，这样的妈妈你喜欢吗？ OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://okaasan-online.com/",
+    "begin": "2020-03-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-03-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302767"
+      },
+      {
+        "site": "mikan",
+        "id": "2235"
+      }
+    ]
   }
 ]

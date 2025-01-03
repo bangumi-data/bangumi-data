@@ -611,5 +611,57 @@
         "broadcast": "R/2022-03-01T08:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "Landreaall",
+    "titleTranslate": {
+      "zh-Hans": [
+        "浪漫冒险"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.ichijinsha.co.jp/special/zerosum/9784758032476/",
+    "begin": "2017-02-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-02-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "193932"
+      },
+      {
+        "site": "mikan",
+        "id": "1319"
+      }
+    ]
+  },
+  {
+    "title": "蒼き雷霆ガンヴォルト",
+    "titleTranslate": {
+      "zh-Hans": [
+        "苍蓝雷霆：刚巴尔特",
+        "苍穹雷霆：GUNVOLT",
+        "苍穹雷霆：刚巴尔特"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://gunvolt.com/anime/",
+    "begin": "2017-02-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-02-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "186395"
+      },
+      {
+        "site": "mikan",
+        "id": "1475"
+      }
+    ]
   }
 ]

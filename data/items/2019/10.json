@@ -726,12 +726,6 @@
         "begin": "2019-10-02T18:09:03.000Z"
       },
       {
-        "site": "ani_one_asia",
-        "id": "PLxSscENEp7Jj3WjKVfQMssxMY-FNYEf7t",
-        "begin": "2019-11-24T16:00:00.000Z",
-        "broadcast": "R/2019-11-24T16:00:00.000Z/P7D"
-      },
-      {
         "site": "bilibili_hk_mo_tw",
         "id": "28222866",
         "begin": "2019-10-02T18:15:00.000Z",
@@ -864,12 +858,6 @@
       {
         "site": "bangumi",
         "id": "282564"
-      },
-      {
-        "site": "nicovideo",
-        "id": "val-love",
-        "begin": "2019-10-08T15:00:00.000Z",
-        "broadcast": "R/2019-10-08T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili_hk_mo_tw",
@@ -1978,12 +1966,6 @@
         "broadcast": "R/2019-10-13T13:30:00.000Z/P7D"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UcgNYvH4dHww4HSufuuvP4dI",
-        "begin": "2019-10-06T16:00:00.000Z",
-        "broadcast": "R/2019-10-06T16:00:00.000Z/P7D"
-      },
-      {
         "site": "bilibili_tw",
         "id": "28222941",
         "begin": "2019-10-07T15:00:00.000Z",
@@ -2930,6 +2912,10 @@
       {
         "site": "mikan",
         "id": "2080"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5db31ab7306f1a0007c0af75"
       }
     ]
   },
@@ -3642,6 +3628,57 @@
         "id": "SID0051547",
         "begin": "2020-10-01T03:00:00.000Z",
         "broadcast": "R/2020-10-01T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ルシファー ウェディングゲーム",
+    "titleTranslate": {
+      "zh-Hans": [
+        "路西法 结婚游戏"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://anime.monster-strike.com/",
+    "begin": "2019-10-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-11-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "292052"
+      },
+      {
+        "site": "mikan",
+        "id": "2072"
+      }
+    ]
+  },
+  {
+    "title": "蒼穹のファフナー THE BEYOND",
+    "titleTranslate": {
+      "zh-Hans": [
+        "苍穹之法芙娜 THE BEYOND",
+        "苍穹的法芙娜 THE BEYOND"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://fafner-beyond.jp/",
+    "begin": "2019-10-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-03-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "204623"
+      },
+      {
+        "site": "mikan",
+        "id": "2082"
       }
     ]
   }
