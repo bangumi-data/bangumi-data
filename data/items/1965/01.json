@@ -1,0 +1,29 @@
+[
+  {
+    "title": "新宝島",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新宝岛"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1965-01-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1965-01-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "208760"
+      },
+      {
+        "site": "danime",
+        "id": "24074",
+        "begin": "2020-08-14T01:00:00.000Z",
+        "broadcast": "R/2020-08-14T01:00:00.000Z/P7D"
+      }
+    ]
+  }
+]

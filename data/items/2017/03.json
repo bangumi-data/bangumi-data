@@ -79,6 +79,12 @@
         "id": "GY5VKE9EY",
         "begin": "2014-04-25T16:30:00.000Z",
         "broadcast": "R/2014-04-25T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21577",
+        "begin": "2017-04-11T03:00:00.000Z",
+        "broadcast": "R/2017-04-11T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -288,6 +294,12 @@
       {
         "site": "mikan",
         "id": "1377"
+      },
+      {
+        "site": "danime",
+        "id": "22074",
+        "begin": "2018-04-27T01:00:00.000Z",
+        "broadcast": "R/2018-04-27T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -322,6 +334,12 @@
       {
         "site": "mikan",
         "id": "1260"
+      },
+      {
+        "site": "danime",
+        "id": "21983",
+        "begin": "2018-01-19T01:00:00.000Z",
+        "broadcast": "R/2018-01-19T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -373,6 +391,12 @@
         "id": "SID0047062",
         "begin": "2020-03-13T03:00:00.000Z",
         "broadcast": "R/2020-03-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23561",
+        "begin": "2020-03-02T01:00:00.000Z",
+        "broadcast": "R/2020-03-02T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -425,6 +449,12 @@
       {
         "site": "mikan",
         "id": "1385"
+      },
+      {
+        "site": "danime",
+        "id": "22945",
+        "begin": "2022-04-01T15:00:00.000Z",
+        "broadcast": "R/2022-04-01T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -501,6 +531,29 @@
       {
         "site": "mikan",
         "id": "1392"
+      }
+    ]
+  },
+  {
+    "title": "RedAsh -GEARWORLD-",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://animetamago.jp/2017/title.php?id=2",
+    "begin": "2017-03-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-03-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "184316"
+      },
+      {
+        "site": "danime",
+        "id": "23925",
+        "begin": "2020-05-01T01:00:00.000Z",
+        "broadcast": "R/2020-05-01T01:00:00.000Z/P7D"
       }
     ]
   }

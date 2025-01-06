@@ -31,6 +31,39 @@
         "id": "SID0002843",
         "begin": "2019-12-08T03:00:00.000Z",
         "broadcast": "R/2019-12-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10290",
+        "begin": "2020-03-06T01:00:00.000Z",
+        "broadcast": "R/2020-03-06T01:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ブラック・ジャック / 平安遷都",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪医黑杰克 / 平安迁都"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://tezukaosamu.net/jp/anime/24.html",
+    "begin": "2000-11-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2000-11-02T16:14:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "348822"
+      },
+      {
+        "site": "danime",
+        "id": "11464",
+        "begin": "2014-10-03T01:00:00.000Z",
+        "broadcast": "R/2014-10-03T01:00:00.000Z/P7D"
       }
     ]
   }

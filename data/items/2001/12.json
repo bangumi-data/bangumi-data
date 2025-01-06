@@ -118,6 +118,12 @@
         "id": "SID0013123",
         "begin": "2019-10-02T03:00:00.000Z",
         "broadcast": "R/2019-10-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10021",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -218,6 +224,12 @@
         "id": "SID0013021",
         "begin": "2018-08-19T03:00:00.000Z",
         "broadcast": "R/2018-08-19T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10022",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -305,6 +317,67 @@
         "id": "SID0056598",
         "begin": "2021-03-25T03:00:00.000Z",
         "broadcast": "R/2021-03-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10023",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ハローキティの長靴をはいた猫",
+    "titleTranslate": {
+      "zh-Hans": [
+        "凯蒂猫 穿长靴的猫"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-12-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2001-12-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "316818"
+      },
+      {
+        "site": "danime",
+        "id": "25552",
+        "begin": "2023-01-20T01:00:00.000Z",
+        "broadcast": "R/2023-01-20T01:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "魔法遊戯 3D",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法游戏 3D",
+        "魔法遊戯（3D version）"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.starchild.co.jp/special/mahou/",
+    "begin": "2001-12-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2001-12-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "112451"
+      },
+      {
+        "site": "danime",
+        "id": "10386",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
       }
     ]
   }

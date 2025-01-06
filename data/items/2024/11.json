@@ -38,6 +38,12 @@
         "id": "5-71",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27403",
+        "begin": "2024-11-07T03:00:00.000Z",
+        "broadcast": "R/2024-11-07T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -85,6 +91,12 @@
       {
         "site": "bangumi_moe",
         "id": "66fb601889c3a6ce864cbcbf"
+      },
+      {
+        "site": "danime",
+        "id": "27439",
+        "begin": "2024-11-08T16:30:00.000Z",
+        "broadcast": "R/2024-11-08T16:30:00.000Z/P7D"
       }
     ]
   },
@@ -110,6 +122,12 @@
       {
         "site": "unext",
         "id": "SID0157068",
+        "begin": "2024-11-06T13:00:00.000Z",
+        "broadcast": "R/2024-11-06T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27423",
         "begin": "2024-11-06T13:00:00.000Z",
         "broadcast": "R/2024-11-06T13:00:00.000Z/P7D"
       }
@@ -228,6 +246,29 @@
         "id": "SID0164430",
         "begin": "2024-12-17T09:00:00.000Z",
         "broadcast": "R/2024-12-17T09:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "シルバニアファミリー フレアのピース・オブ・シークレット",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.sylvanianfamilies.com/ja-jp/special/tv/",
+    "begin": "2024-11-20T16:00:00.000Z",
+    "broadcast": "R/2024-11-20T16:00:00.000Z/P7D",
+    "end": "2024-12-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "515201"
+      },
+      {
+        "site": "danime",
+        "id": "27443",
+        "begin": "2024-11-21T10:40:00.000Z",
+        "broadcast": "R/2024-11-21T10:40:00.000Z/P7D"
       }
     ]
   }

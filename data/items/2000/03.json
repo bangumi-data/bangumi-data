@@ -27,6 +27,12 @@
         "id": "184-172",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26988",
+        "begin": "2024-03-07T15:00:00.000Z",
+        "broadcast": "R/2024-03-07T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -57,6 +63,12 @@
         "id": "SID0020327",
         "begin": "2020-01-17T03:00:00.000Z",
         "broadcast": "R/2020-01-17T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20599",
+        "begin": "2020-02-01T01:00:00.000Z",
+        "broadcast": "R/2020-02-01T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -108,6 +120,60 @@
         "id": "SID0099867",
         "begin": "2024-03-05T03:00:00.000Z",
         "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ブラック・ジャック 空からきた子ども",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪医黑杰克 从天而降的孩子"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://tezukaosamu.net/jp/anime/120.html",
+    "begin": "2000-03-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2000-03-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "227563"
+      },
+      {
+        "site": "danime",
+        "id": "11449",
+        "begin": "2014-09-26T01:00:00.000Z",
+        "broadcast": "R/2014-09-26T01:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ジャングル大帝",
+    "titleTranslate": {
+      "zh-Hans": [
+        "森林大帝"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://tezukaosamu.net/jp/anime/23.html",
+    "begin": "2000-03-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2000-03-17T16:14:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "316272"
+      },
+      {
+        "site": "danime",
+        "id": "11463",
+        "begin": "2014-10-03T01:00:00.000Z",
+        "broadcast": "R/2014-10-03T01:00:00.000Z/P7D"
       }
     ]
   }

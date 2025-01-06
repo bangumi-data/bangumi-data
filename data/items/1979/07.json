@@ -38,5 +38,32 @@
         "broadcast": "R/2016-05-20T03:05:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "海のトリトン 劇場版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小飞龙 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://tezukaosamu.net/jp/anime/12.html",
+    "begin": "1979-07-13T15:00:00.000Z",
+    "broadcast": "",
+    "end": "1979-07-13T17:18:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "527817"
+      },
+      {
+        "site": "danime",
+        "id": "10369",
+        "begin": "2022-03-08T01:00:00.000Z",
+        "broadcast": "R/2022-03-08T01:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

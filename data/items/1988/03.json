@@ -243,5 +243,32 @@
         "broadcast": "R/2023-01-26T15:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "ビックリマン 第一次聖魔大戦",
+    "titleTranslate": {
+      "zh-Hans": [
+        "仙魔大战 第一次圣魔大战"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-03-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1988-03-11T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "487091"
+      },
+      {
+        "site": "danime",
+        "id": "24699",
+        "begin": "2022-06-15T01:00:00.000Z",
+        "broadcast": "R/2022-06-15T01:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

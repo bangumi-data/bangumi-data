@@ -117,6 +117,12 @@
       {
         "site": "mikan",
         "id": "2071"
+      },
+      {
+        "site": "danime",
+        "id": "23027",
+        "begin": "2019-10-01T03:00:00.000Z",
+        "broadcast": "R/2019-10-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -198,6 +204,12 @@
       {
         "site": "mikan",
         "id": "2017"
+      },
+      {
+        "site": "danime",
+        "id": "24306",
+        "begin": "2020-10-31T15:00:00.000Z",
+        "broadcast": "R/2020-10-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -240,6 +252,12 @@
       {
         "site": "mikan",
         "id": "2389"
+      },
+      {
+        "site": "danime",
+        "id": "24971",
+        "begin": "2021-08-24T15:00:00.000Z",
+        "broadcast": "R/2021-08-24T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -352,6 +370,12 @@
         "id": "gineiden-seiran",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "24112",
+        "begin": "2020-07-15T03:00:00.000Z",
+        "broadcast": "R/2020-07-15T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -458,6 +482,12 @@
       {
         "site": "mikan",
         "id": "2405"
+      },
+      {
+        "site": "danime",
+        "id": "25315",
+        "begin": "2022-03-22T15:00:00.000Z",
+        "broadcast": "R/2022-03-22T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -510,6 +540,33 @@
       {
         "site": "mikan",
         "id": "2088"
+      }
+    ]
+  },
+  {
+    "title": "モノのかみさま ここたま",
+    "titleTranslate": {
+      "zh-Hans": [
+        "万物之神 心灵"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://toy.bandai.co.jp/series/cocotama/",
+    "begin": "2019-09-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-02-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302363"
+      },
+      {
+        "site": "danime",
+        "id": "25107",
+        "begin": "2021-10-15T01:00:00.000Z",
+        "broadcast": "R/2021-10-15T01:00:00.000Z/P7D"
       }
     ]
   }

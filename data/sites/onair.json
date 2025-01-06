@@ -110,5 +110,10 @@
   "crunchyroll": {
     "title": "Crunchyroll",
     "urlTemplate": "https://www.crunchyroll.com/series/{{id}}/"
+  },
+  "danime": {
+    "title": "dアニメストア",
+    "urlTemplate": "https://animestore.docomo.ne.jp/animestore/ci_pc?workId={{id}}",
+    "regions": ["JP"]
   }
 }

@@ -62,6 +62,13 @@
         "id": "GKEH2G04K",
         "begin": "2024-08-07T15:30:00.000Z",
         "broadcast": "R/2024-08-07T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27212",
+        "begin": "2024-08-11T03:00:00.000Z",
+        "broadcast": "R/2024-08-11T03:00:00.000Z/P7D",
+        "comment": "特別番組: 27249"
       }
     ]
   },
@@ -124,6 +131,33 @@
         "id": "SID0163694",
         "begin": "2024-12-24T15:00:00.000Z",
         "broadcast": "R/2024-12-24T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "Garden of Remembrance",
+    "titleTranslate": {
+      "zh-Hans": [
+        "纪念花园"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://gor-anemone.com/",
+    "begin": "2024-08-29T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-08-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "387972"
+      },
+      {
+        "site": "danime",
+        "id": "27261",
+        "begin": "2024-08-30T03:00:00.000Z",
+        "broadcast": "R/2024-08-30T03:00:00.000Z/P7D"
       }
     ]
   }

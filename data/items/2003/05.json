@@ -26,6 +26,12 @@
         "id": "SID0002676",
         "begin": "2019-05-19T03:00:00.000Z",
         "broadcast": "R/2019-05-19T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10161",
+        "begin": "2023-03-31T15:00:00.000Z",
+        "broadcast": "R/2023-03-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -113,6 +119,40 @@
         "id": "SID0016402",
         "begin": "2023-05-22T03:00:00.000Z",
         "broadcast": "R/2023-05-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10389",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "がぁーでぃあんHearts",
+    "titleTranslate": {
+      "zh-Hans": [
+        "守护之心",
+        "银河美少女Hearts"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://anime.softgarage.com/gartsu",
+    "begin": "2003-05-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2003-05-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "133675"
+      },
+      {
+        "site": "danime",
+        "id": "10228",
+        "begin": "2013-08-02T01:00:00.000Z",
+        "broadcast": "R/2013-08-02T01:00:00.000Z/P7D"
       }
     ]
   }

@@ -89,6 +89,12 @@
         "id": "SID0097623",
         "begin": "2024-01-27T15:00:00.000Z",
         "broadcast": "R/2024-01-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27392",
+        "begin": "2024-09-30T15:00:00.000Z",
+        "broadcast": "R/2024-09-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -311,6 +317,12 @@
         "id": "81924850",
         "begin": "2024-12-21T00:00:00.000Z",
         "broadcast": "R/2024-12-21T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27461",
+        "begin": "2024-12-21T15:00:00.000Z",
+        "broadcast": "R/2024-12-21T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -336,6 +348,25 @@
       {
         "site": "mikan",
         "id": "3272"
+      }
+    ]
+  },
+  {
+    "title": "こうしす！EE 総集編映画版　～こちら京姫鉄道広報部システム課～",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://kosys.opap.jp/special/movie",
+    "begin": "2023-12-31T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-12-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "danime",
+        "id": "27253",
+        "begin": "2024-08-11T15:00:00.000Z",
+        "broadcast": "R/2024-08-11T15:00:00.000Z/P7D"
       }
     ]
   }
