@@ -195,7 +195,8 @@
       {
         "site": "nicovideo",
         "id": "peeping",
-        "begin": "2011-12-26T03:00:00.000Z"
+        "begin": "2011-12-26T03:00:00.000Z",
+        "broadcast": "R/2011-12-26T03:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -239,6 +240,12 @@
         "id": "SID0003387",
         "begin": "2015-02-16T15:00:00.000Z",
         "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10142",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -300,7 +307,8 @@
       {
         "site": "nicovideo",
         "id": "evangelion_new_movie_ha",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "acfun",

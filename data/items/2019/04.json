@@ -2744,6 +2744,9 @@
       "zh-Hans": [
         "蜡笔小新 新婚旅行 ～散失的广志～",
         "蜡笔小新：新婚旅行飓风之遗失的野原广志"
+      ],
+      "zh-Hant": [
+        "蠟筆小新：新婚旅行風暴 奪回廣志大作戰"
       ]
     },
     "type": "movie",
@@ -2777,6 +2780,12 @@
       {
         "site": "bilibili",
         "id": "28371387",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "102623",
         "begin": "",
         "broadcast": ""
       }
@@ -3299,6 +3308,32 @@
         "id": "25754",
         "begin": "2022-09-14T01:00:00.000Z",
         "broadcast": "R/2022-09-14T01:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "まんなかのりっくん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "正中间的陆君",
+        "正中间的理久君"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.hokto-kinoko.co.jp/kinokolabo/rikkun/",
+    "begin": "2019-04-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-08-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "241044"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5c2b731296ff38314480b5f8"
       }
     ]
   }

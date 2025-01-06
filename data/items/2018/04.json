@@ -4387,6 +4387,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "蜡笔小新 爆盛！功夫男孩 ～拉面大乱～"
+      ],
+      "zh-Hant": [
+        "蠟筆小新：功夫小子〜拉麵大亂鬥〜"
       ]
     },
     "type": "movie",
@@ -4416,6 +4419,12 @@
       {
         "site": "mikan",
         "id": "1750"
+      },
+      {
+        "site": "gamer",
+        "id": "92078",
+        "begin": "2025-01-01T04:00:00.000Z",
+        "broadcast": "R/2025-01-01T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -4550,6 +4559,27 @@
         "id": "22776",
         "begin": "2019-05-22T01:00:00.000Z",
         "broadcast": "R/2019-05-22T01:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ケッケロケー",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://s.mxtv.jp/anime/animal_gekijo/",
+    "begin": "2018-04-04T16:00:00.000Z",
+    "broadcast": "R/2018-04-04T16:00:00.000Z/P7D",
+    "end": "2018-06-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "239840"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5ac0aa9d395e2a122f10f05f"
       }
     ]
   }
