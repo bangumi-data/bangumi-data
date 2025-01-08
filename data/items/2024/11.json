@@ -271,5 +271,35 @@
         "broadcast": "R/2024-11-21T10:40:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "Arcane Season 2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "英雄联盟：双城之战 第二季",
+        "英雄联盟：双城之战 最终季",
+        "奥术 第二季"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.arcane.com/",
+    "begin": "2024-11-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-11-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "358801"
+      },
+      {
+        "site": "bilibili",
+        "id": "20189753",
+        "begin": "",
+        "broadcast": "",
+        "comment": "中文配音: 23431028"
+      }
+    ]
   }
 ]

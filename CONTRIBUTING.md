@@ -147,6 +147,8 @@ dist/                                --> 存放构建后数据的目录
 * [https://www.disneyplus.com/series/view/<kbd>fet1h9jqmrAM</kbd>](https://www.disneyplus.com/series/view/fet1h9jqmrAM)
 * [https://abema.tv/video/title/<kbd>30-5</kbd>](https://abema.tv/video/title/30-5)
 * [https://video.unext.jp/title/<kbd>SID0079682</kbd>](https://video.unext.jp/title/SID0079682)
+* [https://www.crunchyroll.com/series/<kbd>G6QWV3976</kbd>](https://www.crunchyroll.com/series/G6QWV3976)
+* [https://animestore.docomo.ne.jp/animestore/ci_pc?workId=<kbd>20516</kbd>](https://animestore.docomo.ne.jp/animestore/ci_pc?workId=20516)
 
 ## 验证
 

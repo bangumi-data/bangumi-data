@@ -115,5 +115,10 @@
     "title": "dアニメストア",
     "urlTemplate": "https://animestore.docomo.ne.jp/animestore/ci_pc?workId={{id}}",
     "regions": ["JP"]
+  },
+  "tropics": {
+    "title": "回歸線娛樂",
+    "urlTemplate": "https://www.youtube.com/playlist?list={{id}}",
+    "regions": ["HK","TW","MO"]
   }
 }

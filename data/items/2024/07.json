@@ -215,6 +215,12 @@
         "id": "27226",
         "begin": "2024-07-07T15:00:00.000Z",
         "broadcast": "R/2024-07-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "23187923",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -461,6 +467,12 @@
         "id": "27207",
         "begin": "2024-07-05T17:30:00.000Z",
         "broadcast": "R/2024-07-05T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "tropics",
+        "id": "PLoGVqODys23BDbihmQFfJU9kI0fWMaKCT",
+        "begin": "2024-12-01T13:30:07.000Z",
+        "broadcast": "R/2024-12-01T13:30:07.000Z/P7D"
       }
     ]
   },
@@ -539,6 +551,12 @@
         "id": "27644",
         "begin": "2024-12-24T15:00:00.000Z",
         "broadcast": "R/2024-12-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tropics",
+        "id": "PLoGVqODys23Cf-mdgZVDOd-ASoiu5lI3W",
+        "begin": "2024-12-15T13:30:27.000Z",
+        "broadcast": "R/2024-12-15T13:30:27.000Z/P7D"
       }
     ]
   },
@@ -1112,14 +1130,14 @@
       {
         "site": "ani_one",
         "id": "PLC18xlbCdwtSu33eEhyzEdYnZque0kolc",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-08-12T04:38:02.000Z",
+        "broadcast": "R/2024-08-12T04:38:02.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7Jh3bhDq-EYeXx6Seif0sN2m",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-08-12T03:23:35.000Z",
+        "broadcast": "R/2024-08-12T03:23:35.000Z/P7D"
       },
       {
         "site": "viu",
@@ -2732,12 +2750,6 @@
         "broadcast": ""
       },
       {
-        "site": "gamer",
-        "id": "138936",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "gamer_hk",
         "id": "138936",
         "begin": "",
@@ -2851,7 +2863,8 @@
       "zh-Hans": [
         "神之塔 第二季",
         "神之塔 -Tower of God- 工房戦",
-        "神之塔 王子的归来"
+        "神之塔 王子的归来",
+        "神之塔 工房战"
       ],
       "en": [
         "Tower of God Season 2"
@@ -2894,7 +2907,8 @@
         "site": "bilibili",
         "id": "22806007",
         "begin": "",
-        "broadcast": ""
+        "broadcast": "",
+        "comment": "工房战: 23513915"
       },
       {
         "site": "crunchyroll",
@@ -3236,6 +3250,12 @@
         "id": "27181",
         "begin": "2024-07-07T08:30:00.000Z",
         "broadcast": "R/2024-07-07T08:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "23287785",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3733,15 +3753,15 @@
       {
         "site": "ani_one",
         "id": "PLC18xlbCdwtSbhgEIZUVRyNXF8TIsj0oh",
-        "begin": "",
-        "broadcast": "",
+        "begin": "2024-10-18T08:00:05.000Z",
+        "broadcast": "R/2024-10-18T08:00:05.000Z/P7D",
         "comment": "粵語: PLC18xlbCdwtTqlLyusVXdMsI9nivREoDx"
       },
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JjnfDK89UJui3A9wj9Ib6yF",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-10-03T07:14:37.000Z",
+        "broadcast": "R/2024-10-03T07:14:37.000Z/P7D"
       },
       {
         "site": "viu",
