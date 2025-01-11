@@ -298,6 +298,12 @@
         "id": "13-191",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27460",
+        "begin": "2024-10-31T15:00:00.000Z",
+        "broadcast": "R/2024-10-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -379,6 +385,16 @@
         "id": "SID0104022",
         "begin": "2024-06-21T15:00:00.000Z",
         "broadcast": "R/2024-06-21T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3424"
+      },
+      {
+        "site": "danime",
+        "id": "27141",
+        "begin": "2024-06-21T15:00:00.000Z",
+        "broadcast": "R/2024-06-21T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -450,6 +466,66 @@
       {
         "site": "mikan",
         "id": "3276"
+      }
+    ]
+  },
+  {
+    "title": "ラプソディ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Rhapsody"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://rhapsodyrecords.jp",
+    "begin": "2023-11-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-11-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "486268"
+      },
+      {
+        "site": "unext",
+        "id": "SID0095345",
+        "begin": "2023-11-19T15:00:00.000Z",
+        "broadcast": "R/2023-11-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26682",
+        "begin": "2023-11-19T15:00:00.000Z",
+        "broadcast": "R/2023-11-19T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "あんさんぶるスターズ！！追憶セレクション『クロスロード』",
+    "titleTranslate": {
+      "zh-Hans": [
+        "偶像梦幻祭 追忆Selection『Crossroad』"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://ensemble-stars.jp/anime/crossroad/",
+    "begin": "2023-11-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-11-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "432044"
+      },
+      {
+        "site": "danime",
+        "id": "26684",
+        "begin": "2023-12-09T15:00:00.000Z",
+        "broadcast": "R/2023-12-09T15:00:00.000Z/P7D"
       }
     ]
   }

@@ -5,6 +5,9 @@
       "zh-Hans": [
         "这个男人、工作是魔法",
         "这个男子从事魔法工作"
+      ],
+      "en": [
+        "This Boy is a Professional Wizard"
       ]
     },
     "type": "tv",
@@ -44,6 +47,18 @@
       {
         "site": "mikan",
         "id": "673"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G649MNM1Y",
+        "begin": "2016-02-05T14:00:00.000Z",
+        "broadcast": "R/2016-02-05T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20708",
+        "begin": "2016-03-18T01:00:00.000Z",
+        "broadcast": "R/2016-03-18T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -82,6 +97,12 @@
       {
         "site": "mikan",
         "id": "674"
+      },
+      {
+        "site": "danime",
+        "id": "24004",
+        "begin": "2020-09-04T01:00:00.000Z",
+        "broadcast": "R/2020-09-04T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -128,6 +149,12 @@
         "id": "5-57",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "24392",
+        "begin": "2020-12-11T01:00:00.000Z",
+        "broadcast": "R/2020-12-11T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -208,6 +235,18 @@
         "id": "SID0013602",
         "begin": "2015-03-19T15:00:00.000Z",
         "broadcast": "R/2015-03-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21965",
+        "begin": "2024-01-31T15:00:00.000Z",
+        "broadcast": "R/2024-01-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "2ihLMmnLHLaW",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -242,6 +281,12 @@
       {
         "site": "bangumi",
         "id": "144465"
+      },
+      {
+        "site": "danime",
+        "id": "23073",
+        "begin": "2019-12-16T01:00:00.000Z",
+        "broadcast": "R/2019-12-16T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -302,6 +347,12 @@
         "id": "SID0025657",
         "begin": "2023-04-01T03:00:00.000Z",
         "broadcast": "R/2023-04-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24237",
+        "begin": "2023-04-01T01:00:00.000Z",
+        "broadcast": "R/2023-04-01T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -326,6 +377,12 @@
         "begin": "2019-12-15T03:00:00.000Z",
         "broadcast": "R/2019-12-15T03:00:00.000Z/P7D",
         "comment": "#3-#4: SID0044352, #5-#6: SID0044353, #7-#8: SID0046414, #9-#10: SID0068755"
+      },
+      {
+        "site": "danime",
+        "id": "21373",
+        "begin": "2017-01-13T01:00:00.000Z",
+        "broadcast": "R/2017-01-13T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -354,6 +411,40 @@
         "id": "SID0023861",
         "begin": "2019-11-21T03:00:00.000Z",
         "broadcast": "R/2019-11-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24543",
+        "begin": "2021-03-12T01:00:00.000Z",
+        "broadcast": "R/2021-03-12T01:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "NOBLESSE : Awakening",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大贵族：回醒",
+        "大貴族：甦醒"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2016-02-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2016-02-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "168466"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYGG9Z2WY",
+        "begin": "2016-02-04T02:25:36.000Z",
+        "broadcast": "R/2016-02-04T02:25:36.000Z/P7D"
       }
     ]
   }

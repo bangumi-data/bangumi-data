@@ -44,6 +44,12 @@
         "site": "bilibili",
         "id": "4540",
         "begin": "2012-05-18T16:00:01.000Z"
+      },
+      {
+        "site": "danime",
+        "id": "26216",
+        "begin": "2023-05-26T01:00:00.000Z",
+        "broadcast": "R/2023-05-26T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -108,6 +114,33 @@
         "site": "bilibili",
         "id": "4541",
         "begin": "2012-04-30T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "title": "PES: Peace Eco Smile",
+    "titleTranslate": {
+      "zh-Hans": [
+        "驾临地球"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.toytoyota.com/pes/",
+    "begin": "2012-05-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2012-08-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "41864"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYE5XGK9R",
+        "begin": "2012-07-02T11:00:00.000Z",
+        "broadcast": "R/2012-07-02T11:00:00.000Z/P7D"
       }
     ]
   }

@@ -40,6 +40,12 @@
       {
         "site": "mikan",
         "id": "1877"
+      },
+      {
+        "site": "danime",
+        "id": "22837",
+        "begin": "2019-07-01T03:00:00.000Z",
+        "broadcast": "R/2019-07-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -159,6 +165,12 @@
       {
         "site": "mikan",
         "id": "1953"
+      },
+      {
+        "site": "danime",
+        "id": "22519",
+        "begin": "2019-01-20T01:00:00.000Z",
+        "broadcast": "R/2019-01-20T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -209,6 +221,12 @@
       {
         "site": "mikan",
         "id": "1892"
+      },
+      {
+        "site": "danime",
+        "id": "22704",
+        "begin": "2019-05-20T03:00:00.000Z",
+        "broadcast": "R/2019-05-20T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -317,6 +335,37 @@
       {
         "site": "mikan",
         "id": "1894"
+      },
+      {
+        "site": "danime",
+        "id": "23000",
+        "begin": "2019-09-20T01:00:00.000Z",
+        "broadcast": "R/2019-09-20T01:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "恋と嘘 OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恋爱禁止的世界 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2018-11-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2018-11-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "242617"
+      },
+      {
+        "site": "mikan",
+        "id": "1883"
       }
     ]
   }

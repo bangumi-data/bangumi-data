@@ -7,6 +7,9 @@
       ],
       "zh-Hant": [
         "我的英雄學院 第七季"
+      ],
+      "en": [
+        "My Hero Academia Season 7"
       ]
     },
     "type": "tv",
@@ -36,15 +39,15 @@
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JjQCsqEtHctp6vciETdooSg",
-        "begin": "",
-        "broadcast": "",
+        "begin": "2024-10-11T09:49:36.000Z",
+        "broadcast": "R/2024-10-11T09:49:36.000Z/P7D",
         "comment": "Memories: PLxSscENEp7JhZzlOqZupbg_TRdfU5dk9D"
       },
       {
         "site": "ani_one",
         "id": "PLC18xlbCdwtQT7s1soDpUQH2cQvGgmdrP",
-        "begin": "",
-        "broadcast": "",
+        "begin": "2024-10-11T09:48:45.000Z",
+        "broadcast": "R/2024-10-11T09:48:45.000Z/P7D",
         "comment": "Memories: PLC18xlbCdwtQT6X5pGJ1Q1efk7NmVuFYO"
       },
       {
@@ -66,6 +69,18 @@
       {
         "site": "mikan",
         "id": "3343"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G6NQ5DWZ6",
+        "begin": "2017-03-24T15:00:00.000Z",
+        "broadcast": "R/2017-03-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27040",
+        "begin": "2024-04-06T09:00:00.000Z",
+        "broadcast": "R/2024-04-06T09:00:00.000Z/P7D"
       }
     ]
   },
@@ -77,6 +92,9 @@
       ],
       "zh-Hant": [
         "鬼滅之刃 柱訓練篇"
+      ],
+      "en": [
+        "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc"
       ]
     },
     "type": "tv",
@@ -94,8 +112,8 @@
       {
         "site": "unext",
         "id": "SID0100064",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-05-12T16:00:00.000Z",
+        "broadcast": "R/2024-05-12T16:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -141,6 +159,24 @@
         "id": "133416",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "24g5VOAYb4vi",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GY5P48XEY",
+        "begin": "2024-05-12T14:15:00.000Z",
+        "broadcast": "R/2024-05-12T14:15:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27090",
+        "begin": "2024-05-12T16:00:00.000Z",
+        "broadcast": "R/2024-05-12T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -289,6 +325,72 @@
       {
         "site": "mikan",
         "id": "3352"
+      },
+      {
+        "site": "unext",
+        "id": "SID0162699",
+        "begin": "2024-12-18T03:00:00.000Z",
+        "broadcast": "R/2024-12-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "204-12",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "ウマ娘 プリティーダービー 新時代の扉",
+    "titleTranslate": {
+      "zh-Hans": [
+        "赛马娘 Pretty Derby 新时代之门"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://movie-umamusume.jp/",
+    "begin": "2024-05-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-05-23T17:48:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "472620"
+      },
+      {
+        "site": "unext",
+        "id": "SID0160058",
+        "begin": "2024-11-23T15:00:00.000Z",
+        "broadcast": "R/2024-11-23T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "デッドデッドデーモンズデデデデデストラクション 後章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恶魔的破坏 DEAD DEAD DEMON'S DEDEDEDE DESTRUCTION 后篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://dededede.jp/",
+    "begin": "2024-05-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-05-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "452432"
+      },
+      {
+        "site": "unext",
+        "id": "SID0162698",
+        "begin": "2024-12-18T03:00:00.000Z",
+        "broadcast": "R/2024-12-18T03:00:00.000Z/P7D"
       }
     ]
   }

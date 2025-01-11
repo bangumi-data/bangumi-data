@@ -49,6 +49,13 @@
       {
         "site": "mikan",
         "id": "1328"
+      },
+      {
+        "site": "danime",
+        "id": "25762",
+        "begin": "2022-08-24T01:00:00.000Z",
+        "broadcast": "R/2022-08-24T01:00:00.000Z/P7D",
+        "comment": "弐ノ皿　 OVA: 25763, 餐ノ皿　OVA: 25764"
       }
     ]
   },
@@ -190,6 +197,12 @@
         "id": "112276",
         "begin": "2020-07-11T12:00:00.000Z",
         "broadcast": "R/2020-07-11T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24148",
+        "begin": "2020-08-18T15:00:00.000Z",
+        "broadcast": "R/2020-08-18T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -266,6 +279,37 @@
       {
         "site": "mikan",
         "id": "1148"
+      },
+      {
+        "site": "danime",
+        "id": "22439",
+        "begin": "2018-10-01T01:00:00.000Z",
+        "broadcast": "R/2018-10-01T01:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "FAIRY TAIL OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "妖精的尾巴 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2016-05-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2016-12-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "134261"
+      },
+      {
+        "site": "mikan",
+        "id": "1210"
       }
     ]
   }

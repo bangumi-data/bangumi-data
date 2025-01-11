@@ -56,12 +56,6 @@
         "id": "81281579",
         "begin": "2021-06-16T16:00:00.000Z",
         "broadcast": "R/2021-06-16T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0063350",
-        "begin": "2021-12-22T03:00:00.000Z",
-        "broadcast": "R/2021-12-22T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -188,6 +182,12 @@
       {
         "site": "mikan",
         "id": "2542"
+      },
+      {
+        "site": "danime",
+        "id": "25155",
+        "begin": "2022-02-11T01:00:00.000Z",
+        "broadcast": "R/2022-02-11T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -244,6 +244,12 @@
       {
         "site": "mikan",
         "id": "2592"
+      },
+      {
+        "site": "danime",
+        "id": "25958",
+        "begin": "2024-02-29T15:00:00.000Z",
+        "broadcast": "R/2024-02-29T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -359,6 +365,16 @@
         "id": "sidonia-aitsumuguhoshi",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "2657"
+      },
+      {
+        "site": "danime",
+        "id": "25781",
+        "begin": "2022-10-02T15:00:00.000Z",
+        "broadcast": "R/2022-10-02T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -434,6 +450,12 @@
         "id": "SID0058494",
         "begin": "2021-06-14T08:00:00.000Z",
         "broadcast": "R/2021-06-14T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24802",
+        "begin": "2021-06-07T08:00:00.000Z",
+        "broadcast": "R/2021-06-07T08:00:00.000Z/P7D"
       }
     ]
   },
@@ -466,6 +488,12 @@
       {
         "site": "mikan",
         "id": "2612"
+      },
+      {
+        "site": "danime",
+        "id": "25743",
+        "begin": "2022-08-01T01:00:00.000Z",
+        "broadcast": "R/2022-08-01T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -525,6 +553,12 @@
         "id": "SID0061058",
         "begin": "2021-08-27T03:00:00.000Z",
         "broadcast": "R/2021-08-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26873",
+        "begin": "2024-03-07T15:00:00.000Z",
+        "broadcast": "R/2024-03-07T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -548,6 +582,63 @@
         "id": "111351",
         "begin": "2022-08-05T04:50:00.000Z",
         "broadcast": "R/2022-08-05T04:50:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ワンダーエッグ・プライオリティ 特別編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "奇蛋物语 特别篇",
+        "WONDER EGG PRIORITY 特别篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://wonder-egg-priority.com",
+    "begin": "2021-06-28T16:00:00.000Z",
+    "broadcast": "R/2021-06-28T16:00:00.000Z/P7D",
+    "end": "2021-06-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "331935"
+      },
+      {
+        "site": "mikan",
+        "id": "2529"
+      }
+    ]
+  },
+  {
+    "title": "漁港の肉子ちゃん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "渔港的肉子酱"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://29kochanmovie.com",
+    "begin": "2021-06-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-06-10T17:37:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "324285"
+      },
+      {
+        "site": "mikan",
+        "id": "2717"
+      },
+      {
+        "site": "unext",
+        "id": "SID0068123",
+        "begin": "2024-12-20T03:00:00.000Z",
+        "broadcast": "R/2024-12-20T03:00:00.000Z/P7D"
       }
     ]
   }

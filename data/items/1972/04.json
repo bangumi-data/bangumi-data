@@ -28,6 +28,35 @@
         "id": "SID0098515",
         "begin": "2024-02-16T03:00:00.000Z",
         "broadcast": "R/2024-02-16T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10368",
+        "begin": "2022-03-08T01:00:00.000Z",
+        "broadcast": "R/2022-03-08T01:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "赤胴鈴之助",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1972-04-04T16:00:00.000Z",
+    "broadcast": "R/1972-04-04T16:00:00.000Z/P7D",
+    "end": "1973-03-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "177805"
+      },
+      {
+        "site": "danime",
+        "id": "23360",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
       }
     ]
   }

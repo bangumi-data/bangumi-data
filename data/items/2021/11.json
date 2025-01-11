@@ -180,6 +180,12 @@
         "id": "118479",
         "begin": "2021-11-13T04:00:00.000Z",
         "broadcast": "R/2021-11-13T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26223",
+        "begin": "2023-03-10T01:00:00.000Z",
+        "broadcast": "R/2023-03-10T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -222,6 +228,16 @@
         "id": "summerghost",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "2671"
+      },
+      {
+        "site": "danime",
+        "id": "26275",
+        "begin": "2023-05-01T01:00:00.000Z",
+        "broadcast": "R/2023-05-01T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -231,7 +247,8 @@
       "zh-Hans": [
         "EUREKA/交响诗篇 Hi-Evolution",
         "EUREKA/交响诗篇—高度进化",
-        "交响诗篇 超进化3"
+        "交响诗篇 超进化3",
+        "优莱卡 交响诗篇 超进化"
       ]
     },
     "type": "movie",
@@ -251,6 +268,41 @@
         "id": "eurekaseven-movie",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "23334390",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "Arcane",
+    "titleTranslate": {
+      "zh-Hans": [
+        "英雄联盟：双城之战",
+        "奧術"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://arcane.com/",
+    "begin": "2021-11-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-11-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "335036"
+      },
+      {
+        "site": "bilibili",
+        "id": "28348963",
+        "begin": "",
+        "broadcast": "",
+        "comment": "中文配音: 23404432"
       }
     ]
   }

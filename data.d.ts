@@ -196,6 +196,7 @@ type SiteList =
     | "disneyplus"
     | "abema"
     | "unext"
+    | "tropics"
     | "dmhy"
     | "mikan"
     | "bangumi_moe";

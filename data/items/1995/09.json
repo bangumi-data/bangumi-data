@@ -57,6 +57,40 @@
         "id": "SID0028280",
         "begin": "2017-03-02T03:00:00.000Z",
         "broadcast": "R/2017-03-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22469",
+        "begin": "2018-11-29T01:00:00.000Z",
+        "broadcast": "R/2018-11-29T01:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "アイドル・プロジェクト",
+    "titleTranslate": {
+      "zh-Hans": [
+        "偶像计划",
+        "偶像万人迷"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1995-09-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1997-10-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "78088"
+      },
+      {
+        "site": "danime",
+        "id": "10897",
+        "begin": "2013-07-05T01:00:00.000Z",
+        "broadcast": "R/2013-07-05T01:00:00.000Z/P7D"
       }
     ]
   }

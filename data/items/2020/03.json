@@ -46,6 +46,12 @@
         "id": "acca-anime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "24301",
+        "begin": "2024-01-31T15:00:00.000Z",
+        "broadcast": "R/2024-01-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -132,6 +138,12 @@
       {
         "site": "mikan",
         "id": "2234"
+      },
+      {
+        "site": "danime",
+        "id": "26421",
+        "begin": "2023-06-01T03:00:00.000Z",
+        "broadcast": "R/2023-06-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -190,6 +202,12 @@
       {
         "site": "bangumi",
         "id": "296129"
+      },
+      {
+        "site": "danime",
+        "id": "23652",
+        "begin": "2020-03-10T15:00:00.000Z",
+        "broadcast": "R/2020-03-10T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -229,6 +247,12 @@
         "id": "19-185",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26781",
+        "begin": "2023-12-21T15:00:00.000Z",
+        "broadcast": "R/2023-12-21T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -262,6 +286,18 @@
       {
         "site": "mikan",
         "id": "2173"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GR75253JY",
+        "begin": "2016-09-15T14:00:00.000Z",
+        "broadcast": "R/2016-09-15T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24567",
+        "begin": "2021-03-26T15:00:00.000Z",
+        "broadcast": "R/2021-03-26T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -285,6 +321,12 @@
         "id": "SID0065474",
         "begin": "2022-02-11T03:00:00.000Z",
         "broadcast": "R/2022-02-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25376",
+        "begin": "2022-03-11T01:00:00.000Z",
+        "broadcast": "R/2022-03-11T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -312,10 +354,63 @@
         "id": "302549"
       },
       {
-        "site": "unext",
-        "id": "SID0053706",
-        "begin": "2023-01-02T15:00:00.000Z",
-        "broadcast": "R/2023-01-02T15:00:00.000Z/P7D"
+        "site": "danime",
+        "id": "24374",
+        "begin": "2020-12-03T02:00:00.000Z",
+        "broadcast": "R/2020-12-03T02:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "アイドルマスター シンデレラガールズ劇場 Extra Stage",
+    "titleTranslate": {
+      "zh-Hans": [
+        "偶像大师 灰姑娘女孩剧场 Extra Stage",
+        "偶像大师 灰姑娘女孩剧场 第5期",
+        "偶像大师 灰姑娘女孩剧场 第五季"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://cingeki-anime.com",
+    "begin": "2020-03-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-04-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302738"
+      },
+      {
+        "site": "mikan",
+        "id": "2226"
+      }
+    ]
+  },
+  {
+    "title": "通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？ OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "普通攻击是全体攻击而且能二次攻击的妈妈你喜欢吗？ OVA",
+        "普通攻击是全体二连击，这样的妈妈你喜欢吗？ OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://okaasan-online.com/",
+    "begin": "2020-03-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-03-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302767"
+      },
+      {
+        "site": "mikan",
+        "id": "2235"
       }
     ]
   }

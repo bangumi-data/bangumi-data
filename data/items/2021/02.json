@@ -62,6 +62,12 @@
         "id": "5-62",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "25872",
+        "begin": "2022-12-01T01:00:00.000Z",
+        "broadcast": "R/2022-12-01T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -102,6 +108,12 @@
       {
         "site": "mikan",
         "id": "2340"
+      },
+      {
+        "site": "danime",
+        "id": "24482",
+        "begin": "2021-02-13T15:00:00.000Z",
+        "broadcast": "R/2021-02-13T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -114,7 +126,8 @@
       ],
       "zh-Hant": [
         "國中高一貫！！鬼滅學園物語",
-        "國高中一貫！！鬼滅學園物語"
+        "國高中一貫！！鬼滅學園物語",
+        "國高中一貫!! 鬼滅學園物語"
       ],
       "en": [
         "Junior High and High School!! Kimetsu Academy Story"
@@ -165,6 +178,24 @@
       {
         "site": "mikan",
         "id": "2413"
+      },
+      {
+        "site": "abema",
+        "id": "26-135",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "24550",
+        "begin": "2021-03-15T01:00:00.000Z",
+        "broadcast": "R/2021-03-15T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "juniorhighandhighschoolkimetsuacademystory0002_142437",
+        "begin": "2025-01-05T19:45:00.000Z",
+        "broadcast": "R/2025-01-05T19:45:00.000Z/P7D"
       }
     ]
   },
@@ -298,6 +329,12 @@
         "id": "120583",
         "begin": "2021-11-19T08:00:00.000Z",
         "broadcast": "R/2021-11-19T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25858",
+        "begin": "2022-10-08T01:00:00.000Z",
+        "broadcast": "R/2022-10-08T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -361,6 +398,68 @@
       {
         "site": "mikan",
         "id": "2519"
+      },
+      {
+        "site": "danime",
+        "id": "25933",
+        "begin": "2022-12-22T15:00:00.000Z",
+        "broadcast": "R/2022-12-22T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "異能のアイシス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "异能的艾希斯"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.projectaicis.com/nonocis/",
+    "begin": "2021-02-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-06-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "328582"
+      },
+      {
+        "site": "mikan",
+        "id": "2415"
+      }
+    ]
+  },
+  {
+    "title": "Tokyo 7th シスターズ -僕らは青空になる-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "东京七姐妹 我们化作青空"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://project-t7s-a.jp/",
+    "begin": "2021-02-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-02-25T16:01:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "305411"
+      },
+      {
+        "site": "mikan",
+        "id": "2468"
+      },
+      {
+        "site": "danime",
+        "id": "25009",
+        "begin": "2021-09-24T01:00:00.000Z",
+        "broadcast": "R/2021-09-24T01:00:00.000Z/P7D"
       }
     ]
   }

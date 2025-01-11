@@ -8,6 +8,9 @@
       ],
       "zh-Hant": [
         "TRUMP 系列 Delicoʼs Nursery"
+      ],
+      "en": [
+        "Delico's Nursery"
       ]
     },
     "type": "tv",
@@ -53,6 +56,19 @@
       {
         "site": "mikan",
         "id": "3411"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GKEH2G04K",
+        "begin": "2024-08-07T15:30:00.000Z",
+        "broadcast": "R/2024-08-07T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27212",
+        "begin": "2024-08-11T03:00:00.000Z",
+        "broadcast": "R/2024-08-11T03:00:00.000Z/P7D",
+        "comment": "特別番組: 27249"
       }
     ]
   },
@@ -88,6 +104,66 @@
         "id": "81217220",
         "begin": "2024-08-28T16:00:00.000Z",
         "broadcast": "R/2024-08-28T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "刀剣乱舞 廻 -々伝 近し侍らうものら-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "刀剑乱舞 回 -旋传 亲近的侍从们-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://touken-kai.jp/",
+    "begin": "2024-08-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-08-15T17:08:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "495674"
+      },
+      {
+        "site": "unext",
+        "id": "SID0163694",
+        "begin": "2024-12-24T15:00:00.000Z",
+        "broadcast": "R/2024-12-24T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "Garden of Remembrance",
+    "titleTranslate": {
+      "zh-Hans": [
+        "纪念花园"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://gor-anemone.com/",
+    "begin": "2024-08-29T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-08-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "387972"
+      },
+      {
+        "site": "danime",
+        "id": "27261",
+        "begin": "2024-08-30T03:00:00.000Z",
+        "broadcast": "R/2024-08-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0156252",
+        "begin": "2024-08-30T01:00:00.000Z",
+        "broadcast": "R/2024-08-30T01:00:00.000Z/P7D"
       }
     ]
   }

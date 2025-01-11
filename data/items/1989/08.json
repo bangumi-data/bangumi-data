@@ -31,16 +31,55 @@
         "begin": ""
       },
       {
-        "site": "gamer",
+        "site": "gamer_hk",
         "id": "110993",
         "begin": "2020-04-21T04:00:00.000Z",
         "broadcast": "R/2020-04-21T04:00:00.000Z/P7D"
       },
       {
-        "site": "gamer_hk",
-        "id": "110993",
-        "begin": "2020-04-21T04:00:00.000Z",
-        "broadcast": "R/2020-04-21T04:00:00.000Z/P7D"
+        "site": "unext",
+        "id": "SID0017590",
+        "begin": "2024-12-20T03:00:00.000Z",
+        "broadcast": "R/2024-12-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26854",
+        "begin": "2024-12-25T15:00:00.000Z",
+        "broadcast": "R/2024-12-25T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "手塚治虫物語 ぼくは孫悟空",
+    "titleTranslate": {
+      "zh-Hans": [
+        "手冢治虫物语 我的孙悟空"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-08-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-08-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "100651"
+      },
+      {
+        "site": "danime",
+        "id": "24084",
+        "begin": "2020-08-28T01:00:00.000Z",
+        "broadcast": "R/2020-08-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003298",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       }
     ]
   }

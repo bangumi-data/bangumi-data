@@ -31,6 +31,18 @@
         "id": "SID0013495",
         "begin": "2019-01-31T03:00:00.000Z",
         "broadcast": "R/2019-01-31T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "172-14",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "21754",
+        "begin": "2017-09-08T01:00:00.000Z",
+        "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -146,12 +158,6 @@
         "broadcast": ""
       },
       {
-        "site": "gamer",
-        "id": "197",
-        "begin": "2024-02-01T04:00:00.000Z",
-        "broadcast": "R/2024-02-01T04:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0010781",
         "begin": "2024-03-06T03:00:00.000Z",
@@ -203,19 +209,25 @@
         "site": "ani_one_asia",
         "id": "PLxSscENEp7Jj8sua9J47dAFfc_s24jT7X",
         "begin": "2022-11-26T16:00:00.000Z",
-        "broadcast": ""
+        "broadcast": "R/2022-11-28T02:25:50.000Z/P7D"
       },
       {
         "site": "ani_one",
         "id": "PLC18xlbCdwtSAEbBd8mgeEwaQgJtzbem6",
         "begin": "2022-11-15T16:00:00.000Z",
-        "broadcast": ""
+        "broadcast": "R/2022-11-17T02:52:42.000Z/P7D"
       },
       {
         "site": "unext",
         "id": "SID0014719",
         "begin": "2021-07-12T03:00:00.000Z",
         "broadcast": "R/2021-07-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24825",
+        "begin": "2021-07-12T01:00:00.000Z",
+        "broadcast": "R/2021-07-12T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -262,6 +274,60 @@
         "id": "SID0018525",
         "begin": "2015-06-01T06:00:00.000Z",
         "broadcast": "R/2015-06-01T06:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ハローキティのしらゆきひめ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "凯蒂猫 白雪公主"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-07-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "315561"
+      },
+      {
+        "site": "danime",
+        "id": "25520",
+        "begin": "2023-01-20T01:00:00.000Z",
+        "broadcast": "R/2023-01-20T01:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "悪右衛門",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恶右卫门"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://tezukaosamu.net/jp/anime/89.html",
+    "begin": "1993-07-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-07-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "306574"
+      },
+      {
+        "site": "danime",
+        "id": "24067",
+        "begin": "2020-07-10T01:00:00.000Z",
+        "broadcast": "R/2020-07-10T01:00:00.000Z/P7D"
       }
     ]
   }

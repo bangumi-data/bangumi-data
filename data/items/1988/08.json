@@ -19,6 +19,39 @@
         "id": "SID0014748",
         "begin": "2022-10-29T03:00:00.000Z",
         "broadcast": "R/2022-10-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11348",
+        "begin": "2017-11-24T01:00:00.000Z",
+        "broadcast": "R/2017-11-24T01:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "はれときどきぶた",
+    "titleTranslate": {
+      "zh-Hans": [
+        "晴天小猪"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-08-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1988-08-22T17:14:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "211445"
+      },
+      {
+        "site": "danime",
+        "id": "23724",
+        "begin": "2020-05-22T01:00:00.000Z",
+        "broadcast": "R/2020-05-22T01:00:00.000Z/P7D"
       }
     ]
   }

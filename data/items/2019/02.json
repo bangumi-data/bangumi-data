@@ -46,6 +46,12 @@
         "id": "5-60",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "24395",
+        "begin": "2020-12-25T01:00:00.000Z",
+        "broadcast": "R/2020-12-25T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -96,6 +102,12 @@
         "id": "SID0047101",
         "begin": "2020-04-12T03:00:00.000Z",
         "broadcast": "R/2020-04-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22876",
+        "begin": "2019-07-12T03:00:00.000Z",
+        "broadcast": "R/2019-07-12T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -131,12 +143,6 @@
         "begin": "2019-02-16T04:29:30.000Z"
       },
       {
-        "site": "gamer",
-        "id": "101464",
-        "begin": "2020-07-15T07:00:00.000Z",
-        "broadcast": "R/2020-07-15T07:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0041918",
         "begin": "2019-06-28T03:00:00.000Z",
@@ -145,6 +151,12 @@
       {
         "site": "mikan",
         "id": "1957"
+      },
+      {
+        "site": "danime",
+        "id": "22799",
+        "begin": "2023-03-01T01:00:00.000Z",
+        "broadcast": "R/2023-03-01T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -166,6 +178,12 @@
         "id": "horamimi2",
         "begin": "2019-04-12T13:30:00.000Z",
         "broadcast": "R/2019-04-12T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22741",
+        "begin": "2019-04-13T03:00:00.000Z",
+        "broadcast": "R/2019-04-13T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -262,6 +280,12 @@
         "id": "r-geass",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27112",
+        "begin": "2024-05-09T15:00:00.000Z",
+        "broadcast": "R/2024-05-09T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -313,6 +337,12 @@
         "id": "174-15",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "23918",
+        "begin": "2020-03-31T15:00:00.000Z",
+        "broadcast": "R/2020-03-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -390,12 +420,6 @@
         "id": "239924"
       },
       {
-        "site": "gamer",
-        "id": "110699",
-        "begin": "2020-04-03T04:00:00.000Z",
-        "broadcast": "R/2020-04-03T04:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0079421",
         "begin": "2023-04-07T15:00:00.000Z",
@@ -437,6 +461,12 @@
       {
         "site": "mikan",
         "id": "2021"
+      },
+      {
+        "site": "danime",
+        "id": "24469",
+        "begin": "2024-12-25T15:00:00.000Z",
+        "broadcast": "R/2024-12-25T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -454,12 +484,33 @@
       {
         "site": "bangumi",
         "id": "338474"
+      }
+    ]
+  },
+  {
+    "title": "FINAL FANTASY XV: EPISODE ARDYN – PROLOGUE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "最终幻想15 艾汀篇 - 序章"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.jp.square-enix.com/ff15/dlc/epa/",
+    "begin": "2019-02-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-02-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "282591"
       },
       {
-        "site": "unext",
-        "id": "SID0044433",
-        "begin": "2023-07-31T15:00:00.000Z",
-        "broadcast": "R/2023-07-31T15:00:00.000Z/P7D"
+        "site": "crunchyroll",
+        "id": "G65PGDE76",
+        "begin": "2019-02-16T21:00:00.000Z",
+        "broadcast": "R/2019-02-16T21:00:00.000Z/P7D"
       }
     ]
   }

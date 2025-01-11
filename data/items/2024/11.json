@@ -38,6 +38,12 @@
         "id": "5-71",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27403",
+        "begin": "2024-11-07T03:00:00.000Z",
+        "broadcast": "R/2024-11-07T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -77,6 +83,20 @@
         "id": "248-22",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3499"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "66fb601889c3a6ce864cbcbf"
+      },
+      {
+        "site": "danime",
+        "id": "27439",
+        "begin": "2024-11-08T16:30:00.000Z",
+        "broadcast": "R/2024-11-08T16:30:00.000Z/P7D"
       }
     ]
   },
@@ -102,6 +122,12 @@
       {
         "site": "unext",
         "id": "SID0157068",
+        "begin": "2024-11-06T13:00:00.000Z",
+        "broadcast": "R/2024-11-06T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27423",
         "begin": "2024-11-06T13:00:00.000Z",
         "broadcast": "R/2024-11-06T13:00:00.000Z/P7D"
       }
@@ -169,7 +195,7 @@
     "officialSite": "https://animationid.com/marukano/",
     "begin": "2024-11-15T18:08:00.000Z",
     "broadcast": "R/2024-11-15T18:08:00.000Z/P7D",
-    "end": "",
+    "end": "2024-12-20T17:38:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -186,12 +212,93 @@
     "officialSite": "https://www.asahi.co.jp/sp/sorotani/",
     "begin": "2024-11-28T14:10:00.000Z",
     "broadcast": "R/2024-11-28T14:10:00.000Z/P7D",
-    "end": "",
+    "end": "2024-12-19T14:10:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "526102"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 風都探偵 仮面ライダースカルの肖像",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 风都侦探 假面骑士Skull的肖像",
+        "剧场版 风都侦探 假面骑士颅骨的肖像"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.kamen-rider-official.com/fuuto-movie/",
+    "begin": "2024-11-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-11-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "501859"
+      },
+      {
+        "site": "unext",
+        "id": "SID0164430",
+        "begin": "2024-12-17T09:00:00.000Z",
+        "broadcast": "R/2024-12-17T09:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "シルバニアファミリー フレアのピース・オブ・シークレット",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.sylvanianfamilies.com/ja-jp/special/tv/",
+    "begin": "2024-11-20T16:00:00.000Z",
+    "broadcast": "R/2024-11-20T16:00:00.000Z/P7D",
+    "end": "2024-12-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "515201"
+      },
+      {
+        "site": "danime",
+        "id": "27443",
+        "begin": "2024-11-21T10:40:00.000Z",
+        "broadcast": "R/2024-11-21T10:40:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "Arcane Season 2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "英雄联盟：双城之战 第二季",
+        "英雄联盟：双城之战 最终季",
+        "奥术 第二季"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.arcane.com/",
+    "begin": "2024-11-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-11-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "358801"
+      },
+      {
+        "site": "bilibili",
+        "id": "20189753",
+        "begin": "",
+        "broadcast": "",
+        "comment": "中文配音: 23431028"
       }
     ]
   }

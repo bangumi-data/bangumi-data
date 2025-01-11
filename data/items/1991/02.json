@@ -18,6 +18,12 @@
       {
         "site": "bangumi",
         "id": "37246"
+      },
+      {
+        "site": "danime",
+        "id": "11415",
+        "begin": "2018-09-07T01:00:00.000Z",
+        "broadcast": "R/2018-09-07T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -48,6 +54,39 @@
         "id": "SID0026309",
         "begin": "2016-10-27T03:00:00.000Z",
         "broadcast": "R/2016-10-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23372",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ゲッターロボ號",
+    "titleTranslate": {
+      "zh-Hans": [
+        "盖塔机器人号"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://lineup.toei-anim.co.jp/ja/tv/getter_go/",
+    "begin": "1991-02-10T16:00:00.000Z",
+    "broadcast": "R/1991-02-10T16:00:00.000Z/P7D",
+    "end": "1992-01-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37184"
+      },
+      {
+        "site": "danime",
+        "id": "24819",
+        "begin": "2023-02-28T01:00:00.000Z",
+        "broadcast": "R/2023-02-28T01:00:00.000Z/P7D"
       }
     ]
   }

@@ -57,13 +57,6 @@
         "comment": "中配版: 20316645"
       },
       {
-        "site": "mytv",
-        "id": "demonslayerkimetsunoyaibaentertainmentdistrictarc0001_133873",
-        "begin": "2022-01-12T16:00:00.000Z",
-        "broadcast": "R/2022-01-12T16:00:00.000Z/P7D",
-        "comment": "雙語版, 粵語版: demonslayerkimetsunoyaibaentertainmentdistrictarc0004_140918"
-      },
-      {
         "site": "nicovideo",
         "id": "kimetsu_yukakuhen",
         "begin": "",
@@ -98,6 +91,12 @@
       {
         "site": "mikan",
         "id": "2604"
+      },
+      {
+        "site": "danime",
+        "id": "25102",
+        "begin": "2021-12-05T16:00:00.000Z",
+        "broadcast": "R/2021-12-05T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -141,12 +140,6 @@
         "id": "329436"
       },
       {
-        "site": "viu",
-        "id": "416948",
-        "begin": "2021-12-31T16:00:00.000Z",
-        "broadcast": "R/2021-12-31T16:00:00.000Z/P0D"
-      },
-      {
         "site": "gamer",
         "id": "120950",
         "begin": "2021-12-31T16:30:00.000Z",
@@ -169,6 +162,16 @@
         "id": "120950",
         "begin": "2021-12-31T16:30:00.000Z",
         "broadcast": "R/2021-12-31T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2653"
+      },
+      {
+        "site": "danime",
+        "id": "25184",
+        "begin": "2023-07-31T15:00:00.000Z",
+        "broadcast": "R/2023-07-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -234,6 +237,16 @@
         "url": "https://www.disneyplus.com/movies/jujutsu-kaisen-0/4JOgJLmNQnNr",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "2807"
+      },
+      {
+        "site": "danime",
+        "id": "26466",
+        "begin": "2023-06-23T15:00:00.000Z",
+        "broadcast": "R/2023-06-23T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -283,6 +296,16 @@
         "id": "121152",
         "begin": "2021-12-31T14:30:00.000Z",
         "broadcast": "R/2021-12-31T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2656"
+      },
+      {
+        "site": "danime",
+        "id": "22597",
+        "begin": "2020-04-01T01:00:00.000Z",
+        "broadcast": "R/2020-04-01T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -329,6 +352,16 @@
         "id": "116200",
         "begin": "2022-07-27T04:00:00.000Z",
         "broadcast": "R/2022-07-27T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2783"
+      },
+      {
+        "site": "danime",
+        "id": "25845",
+        "begin": "2023-06-30T15:00:00.000Z",
+        "broadcast": "R/2023-06-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -363,6 +396,12 @@
         "id": "SID0097079",
         "begin": "2024-01-13T03:00:00.000Z",
         "broadcast": "R/2024-01-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26785",
+        "begin": "2023-12-31T15:00:00.000Z",
+        "broadcast": "R/2023-12-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -411,6 +450,9 @@
       "zh-Hans": [
         "一杆青空",
         "空色Utility"
+      ],
+      "en": [
+        "Sorairo Utility"
       ]
     },
     "type": "tv",
@@ -429,6 +471,44 @@
         "id": "28235977",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "sorairo-utility",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0163331",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "189-79",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "2652"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GG5H5XDJM",
+        "begin": "2021-12-31T10:30:00.000Z",
+        "broadcast": "R/2021-12-31T10:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25717",
+        "begin": "2022-07-29T01:00:00.000Z",
+        "broadcast": "R/2022-07-29T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "677aa0972f6756712facfc8c"
       }
     ]
   },
@@ -458,6 +538,10 @@
         "id": "114473",
         "begin": "2023-08-03T16:00:00.000Z",
         "broadcast": "R/2023-08-03T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2781"
       }
     ]
   },
@@ -479,12 +563,6 @@
       {
         "site": "bangumi",
         "id": "338424"
-      },
-      {
-        "site": "unext",
-        "id": "SID0086302",
-        "begin": "2023-11-08T03:00:00.000Z",
-        "broadcast": "R/2023-11-08T03:00:00.000Z/P7D"
       }
     ]
   }

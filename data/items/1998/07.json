@@ -37,6 +37,12 @@
         "id": "11-58",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "23272",
+        "begin": "2021-12-10T01:00:00.000Z",
+        "broadcast": "R/2021-12-10T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -72,6 +78,18 @@
         "id": "SID0013404",
         "begin": "2019-03-07T03:00:00.000Z",
         "broadcast": "R/2019-03-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "172-17",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "21758",
+        "begin": "2017-09-08T01:00:00.000Z",
+        "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
       }
     ]
   },
@@ -186,6 +204,60 @@
         "id": "SID0018534",
         "begin": "2015-06-01T06:00:00.000Z",
         "broadcast": "R/2015-06-01T06:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "Night Walker -真夜中の探偵-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "真夜中的侦探"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.anime-int.com/works/nightwalker/tv/",
+    "begin": "1998-07-07T16:00:00.000Z",
+    "broadcast": "R/1998-07-07T16:00:00.000Z/P7D",
+    "end": "1998-09-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "20862"
+      },
+      {
+        "site": "danime",
+        "id": "11074",
+        "begin": "2013-12-06T01:00:00.000Z",
+        "broadcast": "R/2013-12-06T01:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "発明BOYカニパン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机甲发明小子"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1998-07-02T16:00:00.000Z",
+    "broadcast": "R/1998-07-02T16:00:00.000Z/P7D",
+    "end": "1999-01-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "421004"
+      },
+      {
+        "site": "danime",
+        "id": "11562",
+        "begin": "2020-06-19T01:00:00.000Z",
+        "broadcast": "R/2020-06-19T01:00:00.000Z/P7D"
       }
     ]
   }

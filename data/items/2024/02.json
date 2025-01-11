@@ -37,6 +37,12 @@
         "id": "5-65",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26748",
+        "begin": "2024-02-06T15:00:00.000Z",
+        "broadcast": "R/2024-02-06T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -139,6 +145,46 @@
         "id": "SID0159138",
         "begin": "2024-10-29T15:00:00.000Z",
         "broadcast": "R/2024-10-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "21236139",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "GREAT PRETENDER razbliuto",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大欺诈师 razbliuto"
+      ],
+      "en": [
+        "GREAT PRETENDER razbliuto"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.greatpretender.jp/",
+    "begin": "2024-02-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-02-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "465773"
+      },
+      {
+        "site": "mikan",
+        "id": "3277"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GJ0H7QG4K",
+        "begin": "2024-02-21T15:00:00.000Z",
+        "broadcast": "R/2024-02-21T15:00:00.000Z/P7D"
       }
     ]
   }

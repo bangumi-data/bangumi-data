@@ -33,6 +33,12 @@
       {
         "site": "mikan",
         "id": "3415"
+      },
+      {
+        "site": "danime",
+        "id": "27303",
+        "begin": "2024-09-06T17:15:00.000Z",
+        "broadcast": "R/2024-09-06T17:15:00.000Z/P7D"
       }
     ]
   },
@@ -109,6 +115,50 @@
       {
         "site": "dmhy",
         "id": "貴族 鑑定|鉴定 2季|二季|2期|二期|S02|S2|2nd"
+      },
+      {
+        "site": "danime",
+        "id": "27345",
+        "begin": "2024-09-29T15:00:00.000Z",
+        "broadcast": "R/2024-09-29T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "うずまき",
+    "titleTranslate": {
+      "zh-Hans": [
+        "漩涡",
+        "旋涡"
+      ],
+      "zh-Hant": [
+        "漩渦"
+      ],
+      "en": [
+        "UZUMAKI: Animated TV Series"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2024-09-27T16:00:00.000Z",
+    "broadcast": "R/2024-09-27T16:00:00.000Z/P7D",
+    "end": "2024-10-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "289854"
+      },
+      {
+        "site": "netflix",
+        "id": "81776687",
+        "begin": "2024-12-19T00:00:00.000Z",
+        "broadcast": "R/2024-12-19T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3418"
       }
     ]
   }

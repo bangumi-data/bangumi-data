@@ -51,6 +51,12 @@
         "id": "SID0015404",
         "begin": "2024-01-31T15:00:00.000Z",
         "broadcast": "R/2024-01-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26878",
+        "begin": "2024-01-31T15:00:00.000Z",
+        "broadcast": "R/2024-01-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -79,6 +85,39 @@
         "id": "SID0090903",
         "begin": "2023-07-31T15:00:00.000Z",
         "broadcast": "R/2023-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26532",
+        "begin": "2023-07-31T15:00:00.000Z",
+        "broadcast": "R/2023-07-31T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "音響生命体ノイズマン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "音响生命体"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://studio4c.co.jp/works/pages/03.html",
+    "begin": "1997-11-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1997-11-21T16:15:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "5491"
+      },
+      {
+        "site": "danime",
+        "id": "23929",
+        "begin": "2020-05-01T01:00:00.000Z",
+        "broadcast": "R/2020-05-01T01:00:00.000Z/P7D"
       }
     ]
   }
