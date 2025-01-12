@@ -189,6 +189,7 @@ type SiteList =
     | "gamer"
     | "gamer_hk"
     | "muse_hk"
+    | "muse_tw"
     | "ani_one"
     | "ani_one_asia"
     | "viu"
