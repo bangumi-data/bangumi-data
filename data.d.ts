@@ -198,6 +198,7 @@ type SiteList =
     | "abema"
     | "unext"
     | "tropics"
+    | "prime"
     | "dmhy"
     | "mikan"
     | "bangumi_moe";

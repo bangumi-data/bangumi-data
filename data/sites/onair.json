@@ -125,5 +125,9 @@
     "title": "回歸線娛樂",
     "urlTemplate": "https://www.youtube.com/playlist?list={{id}}",
     "regions": ["HK","TW","MO"]
+  },
+  "prime": {
+    "title": "Prime Video",
+    "urlTemplate": "https://www.amazon.co.jp/gp/video/detail/{{id}}"
   }
 }
