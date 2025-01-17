@@ -84,8 +84,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfo6TAmxIM7rEvrJAB0rzAAO",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-01-16T14:00:06.000Z",
+        "broadcast": "R/2025-01-16T14:00:06.000Z/P7D"
       },
       {
         "site": "prime",
@@ -293,8 +293,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfo2b2zJY0wWMqzo0TSAEn27",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-01-12T13:00:06.000Z",
+        "broadcast": "R/2025-01-12T13:00:06.000Z/P7D"
       }
     ]
   },
@@ -320,8 +320,8 @@
       {
         "site": "unext",
         "id": "SID0163335",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-01-13T15:30:00.000Z",
+        "broadcast": "R/2025-01-13T15:30:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -354,6 +354,12 @@
       {
         "site": "mikan",
         "id": "3522"
+      },
+      {
+        "site": "prime",
+        "id": "B0DB6S1XGX",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -470,8 +476,8 @@
       {
         "site": "unext",
         "id": "SID0163368",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-01-15T14:00:00.000Z",
+        "broadcast": "R/2025-01-15T14:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -480,8 +486,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfrz7SGyU-5-7E0gmcQ0mNiF",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-01-12T14:00:07.000Z",
+        "broadcast": "R/2025-01-12T14:00:07.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -700,6 +706,12 @@
         "id": "137809",
         "begin": "2025-01-04T16:30:00.000Z",
         "broadcast": "R/2025-01-04T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DRQYV7H6",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -827,8 +839,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfpbyQ2M_VyWeVtDlVO21qLT",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-01-16T16:00:06.000Z",
+        "broadcast": "R/2025-01-16T16:00:06.000Z/P7D"
       }
     ]
   },
@@ -975,8 +987,8 @@
       {
         "site": "unext",
         "id": "SID0163170",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-01-14T03:00:00.000Z",
+        "broadcast": "R/2025-01-14T03:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
@@ -993,6 +1005,12 @@
         "id": "142404",
         "begin": "2025-01-10T14:30:00.000Z",
         "broadcast": "R/2025-01-10T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27497",
+        "begin": "2025-01-14T03:00:00.000Z",
+        "broadcast": "R/2025-01-14T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1105,8 +1123,8 @@
       {
         "site": "unext",
         "id": "SID0163332",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-01-13T15:00:00.000Z",
+        "broadcast": "R/2025-01-13T15:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -1163,6 +1181,12 @@
         "id": "B0DS3YGMZ9",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27622",
+        "begin": "2025-01-13T15:00:00.000Z",
+        "broadcast": "R/2025-01-13T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1194,6 +1218,10 @@
         "id": "B0DSJQW1DW",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3532"
       }
     ]
   },
@@ -1234,6 +1262,16 @@
       {
         "site": "bangumi_moe",
         "id": "677aa09b2f6756712facfca0"
+      },
+      {
+        "site": "danime",
+        "id": "27606",
+        "begin": "2025-01-14T17:30:00.000Z",
+        "broadcast": "R/2025-01-14T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3533"
       }
     ]
   },
@@ -1378,9 +1416,15 @@
       },
       {
         "site": "tropics",
-        "id": "PLoGVqODys23Cf-mdgZVDOd-ASoiu5lI3W",
-        "begin": "2024-12-15T13:30:27.000Z",
-        "broadcast": "R/2024-12-15T13:30:27.000Z/P7D"
+        "id": "PLoGVqODys23A3Zjq55X8BRdnL-cQDKwh6",
+        "begin": "2025-01-12T15:30:06.000Z",
+        "broadcast": "R/2025-01-12T15:30:06.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0163330",
+        "begin": "2025-01-14T15:30:00.000Z",
+        "broadcast": "R/2025-01-14T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -1459,6 +1503,12 @@
         "id": "27630",
         "begin": "2025-01-10T15:00:00.000Z",
         "broadcast": "R/2025-01-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DR8KDGMM",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2106,8 +2156,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfquIj_VgrFHUMVuwgNPco5Y",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-01-16T16:30:06.000Z",
+        "broadcast": "R/2025-01-16T16:30:06.000Z/P7D"
       }
     ]
   },
@@ -2142,8 +2192,8 @@
       {
         "site": "unext",
         "id": "SID0163333",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-01-14T13:00:00.000Z",
+        "broadcast": "R/2025-01-14T13:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -2511,6 +2561,16 @@
         "id": "27623",
         "begin": "2025-01-12T15:00:00.000Z",
         "broadcast": "R/2025-01-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G8DHV788M",
+        "begin": "2025-01-12T14:30:00.000Z",
+        "broadcast": "R/2025-01-12T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3550"
       }
     ]
   },
@@ -2821,6 +2881,18 @@
         "id": "G3KHEVDDD",
         "begin": "2025-01-09T15:30:00.000Z",
         "broadcast": "R/2025-01-09T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27613",
+        "begin": "2025-01-14T16:00:00.000Z",
+        "broadcast": "R/2025-01-14T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DP3RWN1Z",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2874,8 +2946,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfrrYxYr-n1f98iIkr_BDSPt",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-01-11T16:00:06.000Z",
+        "broadcast": "R/2025-01-11T16:00:06.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -2898,6 +2970,12 @@
       {
         "site": "mikan",
         "id": "3555"
+      },
+      {
+        "site": "prime",
+        "id": "B0DSBX73MH",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2952,8 +3030,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfqw1Y8esAx06P4DPVDblAM0",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-01-11T16:30:06.000Z",
+        "broadcast": "R/2025-01-11T16:30:06.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -2982,6 +3060,18 @@
       {
         "site": "mikan",
         "id": "3556"
+      },
+      {
+        "site": "prime",
+        "id": "B0DPNC53W5",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0163367",
+        "begin": "2025-01-14T16:30:00.000Z",
+        "broadcast": "R/2025-01-14T16:30:00.000Z/P7D"
       }
     ]
   },
@@ -3058,6 +3148,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "卡片战斗先导者 Divinez Deluxe篇"
+      ],
+      "zh-Hant": [
+        "卡片戰鬥!! 先導者 Divinez 第三季「DELUXE篇」"
       ]
     },
     "type": "tv",
@@ -3101,6 +3194,18 @@
         "id": "B0DK9VQPFY",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "143134",
+        "begin": "2025-01-17T12:00:00.000Z",
+        "broadcast": "R/2025-01-17T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "143134",
+        "begin": "2025-01-17T12:00:00.000Z",
+        "broadcast": "R/2025-01-17T12:00:00.000Z/P7D"
       }
     ]
   },
@@ -3161,8 +3266,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfoVJ-29KILJxi5z9ENoHRGN",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-01-16T14:30:06.000Z",
+        "broadcast": "R/2025-01-16T14:30:06.000Z/P7D"
       }
     ]
   },
@@ -3440,8 +3545,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfqZWTNZyw8Mvfdf0cbf3Xxo",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-01-11T14:00:06.000Z",
+        "broadcast": "R/2025-01-11T14:00:06.000Z/P7D"
       }
     ]
   },
@@ -3535,6 +3640,10 @@
       {
         "site": "bangumi",
         "id": "532061"
+      },
+      {
+        "site": "mikan",
+        "id": "3566"
       }
     ]
   },
@@ -3583,6 +3692,7 @@
       ],
       "zh-Hant": [
         "地縛少年花子君 第二季",
+        "地縛少年花子君S2",
         "地縛少年花子君 2"
       ]
     },
@@ -3635,8 +3745,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfo6QoLUhawiE3-FnJJiA1Yr",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-01-12T08:30:06.000Z",
+        "broadcast": "R/2025-01-12T08:30:06.000Z/P7D"
       },
       {
         "site": "danime",
@@ -3661,6 +3771,16 @@
         "id": "B0DQ99MH6F",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3568"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UciZkcJ7JPvr1FixxzAbbvXK",
+        "begin": "2025-01-12T08:30:06.000Z",
+        "broadcast": "R/2025-01-12T08:30:06.000Z/P7D"
       }
     ]
   },
