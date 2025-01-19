@@ -73,6 +73,11 @@
     "urlTemplate": "https://www.youtube.com/playlist?list={{id}}",
     "regions": ["HK","MO"]
   },
+  "muse_tw": {
+    "title": "木棉花 TW",
+    "urlTemplate": "https://www.youtube.com/playlist?list={{id}}",
+    "regions": ["TW"]
+  },
   "ani_one": {
     "title": "Ani-One中文官方動畫頻道",
     "urlTemplate": "https://www.youtube.com/playlist?list={{id}}",
@@ -120,5 +125,9 @@
     "title": "回歸線娛樂",
     "urlTemplate": "https://www.youtube.com/playlist?list={{id}}",
     "regions": ["HK","TW","MO"]
+  },
+  "prime": {
+    "title": "Prime Video",
+    "urlTemplate": "https://www.amazon.co.jp/gp/video/detail/{{id}}"
   }
 }

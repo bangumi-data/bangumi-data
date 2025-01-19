@@ -222,6 +222,13 @@
         "id": "26917",
         "begin": "2024-02-24T15:00:00.000Z",
         "broadcast": "R/2024-02-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfpr5R-Q4Kshpozv9At50GFj",
+        "begin": "",
+        "broadcast": "",
+        "comment": "國語: PL12UaAf_xzfrI2ieUbpUUa5YSX-ONtpNf"
       }
     ]
   },
@@ -314,6 +321,12 @@
         "id": "27204",
         "begin": "2024-10-13T03:00:00.000Z",
         "broadcast": "R/2024-10-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DJQY7DKY",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -324,6 +337,12 @@
         "铃芽之旅",
         "铃芽户缔",
         "铃芽的门锁"
+      ],
+      "zh-Hant": [
+        "鈴芽之旅"
+      ],
+      "en": [
+        "Suzume"
       ]
     },
     "type": "movie",
@@ -353,6 +372,19 @@
       {
         "site": "mikan",
         "id": "2876"
+      },
+      {
+        "site": "prime",
+        "id": "B0CGHXK5CN",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "53WicvpPfGnH",
+        "url": "https://www.disneyplus.com/movies/suzume/53WicvpPfGnH",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

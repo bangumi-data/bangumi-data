@@ -149,6 +149,7 @@ dist/                                --> 存放构建后数据的目录
 * [https://video.unext.jp/title/<kbd>SID0079682</kbd>](https://video.unext.jp/title/SID0079682)
 * [https://www.crunchyroll.com/series/<kbd>G6QWV3976</kbd>](https://www.crunchyroll.com/series/G6QWV3976)
 * [https://animestore.docomo.ne.jp/animestore/ci_pc?workId=<kbd>20516</kbd>](https://animestore.docomo.ne.jp/animestore/ci_pc?workId=20516)
+* [https://www.amazon.co.jp/gp/video/detail/<kbd>B0CJRFZ6JD</kbd>](https://www.amazon.co.jp/gp/video/detail/B0CJRFZ6JD)
 
 ## 验证
 
