@@ -2134,6 +2134,12 @@
         "id": "27201",
         "begin": "2024-07-07T15:15:00.000Z",
         "broadcast": "R/2024-07-07T15:15:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "narenare-anime",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2553,8 +2559,8 @@
       {
         "site": "gamer",
         "id": "137004",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-07-01T16:00:00.000Z",
+        "broadcast": "R/2024-07-01T16:00:00.000Z/P7D"
       },
       {
         "site": "viu",
@@ -3743,6 +3749,9 @@
       ],
       "en": [
         "Ninja Kamui"
+      ],
+      "zh-Hant": [
+        "忍者神威"
       ]
     },
     "type": "tv",
@@ -3790,6 +3799,18 @@
         "id": "B0CWP2H9J1",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "137886",
+        "begin": "2025-01-24T02:00:00.000Z",
+        "broadcast": "R/2025-01-24T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "137886",
+        "begin": "2025-01-24T02:00:00.000Z",
+        "broadcast": "R/2025-01-24T02:00:00.000Z/P7D"
       }
     ]
   },
