@@ -313,5 +313,38 @@
         "comment": "中文配音: 23431028"
       }
     ]
+  },
+  {
+    "title": "ヤマトよ永遠に REBEL3199 第二章 赤日の出撃",
+    "titleTranslate": {
+      "zh-Hans": [
+        "永远的大和号 REBEL3199 第二章 赤日的出击"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://starblazers-yamato.net/index.html",
+    "begin": "2024-11-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-11-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "473412"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yamato-rebel3199",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0167296",
+        "begin": "2025-01-28T15:00:00.000Z",
+        "broadcast": "R/2025-01-28T15:00:00.000Z/P7D"
+      }
+    ]
   }
 ]
