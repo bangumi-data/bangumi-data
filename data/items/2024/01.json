@@ -438,6 +438,12 @@
         "id": "GZJH3D858",
         "begin": "2024-01-01T13:30:00.000Z",
         "broadcast": "R/2024-01-01T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27749",
+        "begin": "2025-03-28T15:00:00.000Z",
+        "broadcast": "R/2025-03-28T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -616,6 +622,12 @@
         "id": "26814",
         "begin": "2024-01-09T13:00:00.000Z",
         "broadcast": "R/2024-01-09T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CLNXJPFS",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1176,6 +1188,12 @@
         "id": "26817",
         "begin": "2024-01-11T03:00:00.000Z",
         "broadcast": "R/2024-01-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81753309",
+        "begin": "2025-02-27T16:00:00.000Z",
+        "broadcast": "R/2025-02-27T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1339,6 +1357,12 @@
         "id": "26751",
         "begin": "2024-01-05T17:23:00.000Z",
         "broadcast": "R/2024-01-05T17:23:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CKC3S629",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2578,7 +2602,7 @@
       },
       {
         "site": "prime",
-        "id": "B0DHSNZ1SS",
+        "id": "B0CNZLCPQH",
         "begin": "",
         "broadcast": ""
       }
@@ -4328,8 +4352,8 @@
       {
         "site": "netflix",
         "id": "81747912",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-07-30T16:00:00.000Z",
+        "broadcast": "R/2024-07-30T16:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -4350,6 +4374,18 @@
       {
         "site": "prime",
         "id": "B0CWDJ2X3V",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "133796",
+        "begin": "2025-02-28T16:00:00.000Z",
+        "broadcast": "R/2025-02-28T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "133796",
         "begin": "",
         "broadcast": ""
       }

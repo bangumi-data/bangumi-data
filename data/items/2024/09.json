@@ -173,5 +173,33 @@
         "id": "3418"
       }
     ]
+  },
+  {
+    "title": "映画 ギヴン 海へ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 GIVEN 向着大海",
+        "GIVEN被贈與的未來劇場版：去海邊"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://given-anime.com/",
+    "begin": "2024-09-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-09-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "452627"
+      },
+      {
+        "site": "unext",
+        "id": "SID0175219",
+        "begin": "2025-03-25T15:00:00.000Z",
+        "broadcast": "R/2025-03-25T15:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

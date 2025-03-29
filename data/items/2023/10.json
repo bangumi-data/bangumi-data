@@ -407,6 +407,12 @@
         "id": "26644",
         "begin": "2023-10-11T15:00:00.000Z",
         "broadcast": "R/2023-10-11T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81975366",
+        "begin": "2025-03-13T16:00:00.000Z",
+        "broadcast": "R/2025-03-13T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -428,12 +434,6 @@
       {
         "site": "bangumi",
         "id": "424453"
-      },
-      {
-        "site": "abema",
-        "id": "5-43",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -890,6 +890,12 @@
         "id": "26643",
         "begin": "2023-10-06T13:00:00.000Z",
         "broadcast": "R/2023-10-06T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CJM6CYDR",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1146,12 +1152,6 @@
         "id": "under-ninja",
         "begin": "2023-10-10T18:00:00.000Z",
         "broadcast": "R/2023-10-10T18:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "19-173",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -2171,6 +2171,12 @@
         "id": "26703",
         "begin": "2023-12-04T03:00:00.000Z",
         "broadcast": "R/2023-12-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CP3RQNDC",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2219,12 +2225,6 @@
       {
         "site": "mikan",
         "id": "3145"
-      },
-      {
-        "site": "abema",
-        "id": "189-76",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
@@ -3280,6 +3280,12 @@
       {
         "site": "mikan",
         "id": "3177"
+      },
+      {
+        "site": "danime",
+        "id": "26571",
+        "begin": "2025-02-28T15:00:00.000Z",
+        "broadcast": "R/2025-02-28T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3689,7 +3695,8 @@
         "BEYBLADE X"
       ],
       "zh-Hant": [
-        "爆旋陀螺X"
+        "爆旋陀螺X",
+        "戰鬥陀螺 X"
       ],
       "zh-Hans": [
         "战斗陀螺 X",
@@ -3725,8 +3732,8 @@
       {
         "site": "netflix",
         "id": "81924739",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-11-14T00:00:00.000Z",
+        "broadcast": "R/2024-11-14T00:00:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -3737,6 +3744,12 @@
       {
         "site": "prime",
         "id": "B0CH9B6PF7",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "135648",
         "begin": "",
         "broadcast": ""
       }
@@ -3985,6 +3998,12 @@
         "id": "26650",
         "begin": "2023-10-25T03:00:00.000Z",
         "broadcast": "R/2023-10-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81975239",
+        "begin": "2025-02-18T16:00:00.000Z",
+        "broadcast": "R/2025-02-18T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -4968,12 +4987,6 @@
         "broadcast": "R/2024-01-10T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "26-144",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "nicovideo",
         "id": "tgcf-anime2",
         "begin": "",
@@ -5100,8 +5113,8 @@
       {
         "site": "netflix",
         "id": "81946494",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-10-31T16:00:00.000Z",
+        "broadcast": "R/2024-10-31T16:00:00.000Z/P7D"
       },
       {
         "site": "danime",
