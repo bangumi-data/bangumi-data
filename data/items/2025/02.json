@@ -1,7 +1,14 @@
 [
   {
     "title": "キミとアイドルプリキュア♪",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "en": [
+        "You and Idol Precure♪"
+      ],
+      "zh-Hans": [
+        "You and idol 光之美少女♪"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://www.toei-anim.co.jp/tv/you-and-idol_precure/",
@@ -35,6 +42,27 @@
         "id": "27609",
         "begin": "2025-02-04T15:00:00.000Z",
         "broadcast": "R/2025-02-04T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "監禁区域レベルX(第2期)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "监禁区域LevelX 第二季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://animationid.com/levelx/",
+    "begin": "2025-02-21T17:23:00.000Z",
+    "broadcast": "R/2025-02-21T17:23:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "517532"
       }
     ]
   }
