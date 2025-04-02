@@ -387,7 +387,8 @@
         "site": "unext",
         "id": "SID0052922",
         "begin": "2021-01-12T15:00:00.000Z",
-        "broadcast": "R/2021-01-12T15:00:00.000Z/P7D"
+        "broadcast": "R/2021-01-12T15:00:00.000Z/P7D",
+        "comment": "OVA: SID0168637"
       },
       {
         "site": "gamer_hk",
@@ -508,6 +509,12 @@
         "id": "24428",
         "begin": "2021-01-15T13:00:00.000Z",
         "broadcast": "R/2021-01-15T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQaNDjAYKkA5p06EK_Kc7Z2",
+        "begin": "2025-03-12T12:30:06.000Z",
+        "broadcast": "R/2025-03-12T12:30:06.000Z/P7D"
       }
     ]
   },
@@ -1491,12 +1498,6 @@
         "id": "2353"
       },
       {
-        "site": "mytv",
-        "id": "mushokutenseijoblessreincarnation0001_141230",
-        "begin": "2024-07-01T02:00:00.000Z",
-        "broadcast": "R/2024-07-01T02:00:00.000Z/P7D"
-      },
-      {
         "site": "danime",
         "id": "24405",
         "begin": "2021-01-10T15:00:00.000Z",
@@ -1877,12 +1878,6 @@
         "id": "2348"
       },
       {
-        "site": "netflix",
-        "id": "80131659",
-        "begin": "2023-07-28T16:00:00.000Z",
-        "broadcast": "R/2023-07-28T16:00:00.000Z/P7D"
-      },
-      {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfrzEb8v_1R2HTbm_QZ5Omjv",
         "begin": "",
@@ -2143,7 +2138,8 @@
         "site": "bilibili",
         "id": "28231854",
         "begin": "2021-01-09T18:30:00.000Z",
-        "broadcast": "R/2021-01-09T18:30:00.000Z/P7D"
+        "broadcast": "R/2021-01-09T18:30:00.000Z/P7D",
+        "comment": "特别篇: 25551928"
       },
       {
         "site": "nicovideo",
@@ -2186,6 +2182,18 @@
         "id": "24455",
         "begin": "2021-01-12T03:00:00.000Z",
         "broadcast": "R/2021-01-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G5PHNM434",
+        "begin": "2025-03-19T02:00:00.000Z",
+        "broadcast": "R/2025-03-19T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-128",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2409,6 +2417,12 @@
         "id": "B08RDCQ2TQ",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81145640",
+        "begin": "2025-03-23T16:00:00.000Z",
+        "broadcast": "R/2025-03-23T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -2555,6 +2569,12 @@
         "id": "24407",
         "begin": "2021-01-12T15:00:00.000Z",
         "broadcast": "R/2021-01-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B08SKQL9S6",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2710,6 +2730,12 @@
         "id": "24449",
         "begin": "2021-01-20T13:30:00.000Z",
         "broadcast": "R/2021-01-20T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "113188",
+        "begin": "2021-01-20T13:00:00.000Z",
+        "broadcast": "R/2021-01-20T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -2832,6 +2858,9 @@
       ],
       "zh-Hant": [
         "賽馬娘 Pretty Derby 第二季"
+      ],
+      "en": [
+        "Umamusume: Pretty Derby Season 2"
       ]
     },
     "type": "tv",
@@ -2881,14 +2910,32 @@
       {
         "site": "ani_one",
         "id": "PLC18xlbCdwtTx4vdmdWY6dbb1-escsuGS",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-09-24T08:00:41.000Z",
+        "broadcast": "R/2024-09-24T08:00:41.000Z/P7D"
       },
       {
         "site": "danime",
         "id": "24462",
         "begin": "2021-01-05T03:00:00.000Z",
         "broadcast": "R/2021-01-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "113834",
+        "begin": "2025-03-07T04:00:00.000Z",
+        "broadcast": "R/2025-03-07T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "113834",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jgj79jI0W9KxvoRwfTGyeIw",
+        "begin": "2025-03-19T12:30:06.000Z",
+        "broadcast": "R/2025-03-19T12:30:06.000Z/P7D"
       }
     ]
   },
@@ -3412,12 +3459,6 @@
         "broadcast": "R/2020-12-27T14:00:00.000Z/P7D"
       },
       {
-        "site": "unext",
-        "id": "SID0052899",
-        "begin": "2023-02-01T03:00:00.000Z",
-        "broadcast": "R/2023-02-01T03:00:00.000Z/P7D"
-      },
-      {
         "site": "gamer_hk",
         "id": "108986",
         "begin": "2020-12-27T14:00:00.000Z",
@@ -3508,6 +3549,12 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfoCevZ9xr9FeKPggodVoZhA",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B08RBFZ1SN",
         "begin": "",
         "broadcast": ""
       }

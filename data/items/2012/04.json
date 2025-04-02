@@ -2341,5 +2341,33 @@
         "broadcast": "R/2024-03-31T15:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "しまじろうのわお!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "巧虎 WAO！",
+        "巧虎 的 WOW"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.webtsc.com/prog/anime/shimajiro/",
+    "begin": "2012-04-01T16:00:00.000Z",
+    "broadcast": "R/2012-04-01T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "212153"
+      },
+      {
+        "site": "abema",
+        "id": "19-234",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]

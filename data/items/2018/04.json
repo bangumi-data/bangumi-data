@@ -460,12 +460,6 @@
         "broadcast": "R/2019-09-14T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "25-94",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "dmhy",
         "id": "極道超女|超能力女"
       },
@@ -1623,12 +1617,6 @@
         "id": "1614"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UcgbowJqjeqtQTk6SmE3IPku",
-        "begin": "2024-09-23T13:00:06.000Z",
-        "broadcast": "R/2024-09-23T13:00:06.000Z/P7D"
-      },
-      {
         "site": "abema",
         "id": "25-92",
         "begin": "",
@@ -1833,6 +1821,18 @@
         "id": "22525",
         "begin": "2019-02-01T01:00:00.000Z",
         "broadcast": "R/2019-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "94048",
+        "begin": "2025-03-05T04:00:00.000Z",
+        "broadcast": "R/2025-03-05T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "94048",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2628,7 +2628,8 @@
         "Umamusume: Pretty Derby"
       ],
       "zh-Hant": [
-        "賽馬娘"
+        "賽馬娘",
+        "賽馬娘 Pretty Derby"
       ]
     },
     "type": "tv",
@@ -2690,6 +2691,30 @@
         "begin": "2018-04-07T03:00:00.000Z",
         "broadcast": "R/2018-04-07T03:00:00.000Z/P7D",
         "comment": "EXTRA R「BNWの誓い」: 26662"
+      },
+      {
+        "site": "netflix",
+        "id": "81025716",
+        "begin": "2025-02-13T16:00:00.000Z",
+        "broadcast": "R/2025-02-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "91550",
+        "begin": "2025-03-07T04:00:00.000Z",
+        "broadcast": "R/2025-03-07T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "91550",
+        "begin": "2025-03-07T04:00:00.000Z",
+        "broadcast": "R/2025-03-07T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjzK3AD896WNfsfosMcC6pL",
+        "begin": "2022-07-01T01:30:01.000Z",
+        "broadcast": "R/2022-07-01T01:30:01.000Z/P7D"
       }
     ]
   },
@@ -3512,6 +3537,18 @@
         "id": "22105",
         "begin": "2020-02-29T03:00:00.000Z",
         "broadcast": "R/2020-02-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "92031",
+        "begin": "2025-03-05T04:00:00.000Z",
+        "broadcast": "R/2025-03-05T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "92031",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4069,6 +4106,12 @@
         "id": "22152",
         "begin": "2018-04-30T16:15:00.000Z",
         "broadcast": "R/2018-04-30T16:15:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B07V4NZ686",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4430,6 +4473,12 @@
       {
         "site": "mikan",
         "id": "1653"
+      },
+      {
+        "site": "danime",
+        "id": "27702",
+        "begin": "2025-03-20T15:00:00.000Z",
+        "broadcast": "R/2025-03-20T15:00:00.000Z/P7D"
       }
     ]
   },
