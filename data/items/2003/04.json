@@ -973,6 +973,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "名侦探柯南 迷宫的十字路口"
+      ],
+      "zh-Hant": [
+        "名偵探柯南：迷宮的十字路"
+      ],
+      "en": [
+        "Detective Conan: Crossroad in the Ancient Capital",
+        "Detective Conan the Movie: Crossroad in the Ancient Capital"
       ]
     },
     "type": "movie",
@@ -1003,6 +1010,25 @@
       {
         "site": "bilibili",
         "id": "28228948",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010677",
+        "begin": "2025-04-04T15:00:00.000Z",
+        "broadcast": "R/2025-04-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "3YG3fetXqKSp",
+        "url": "https://www.disneyplus.com/movies/detective-conan-crossroad-in-the-ancient-capital/3YG3fetXqKSp",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81757599",
         "begin": "",
         "broadcast": ""
       }

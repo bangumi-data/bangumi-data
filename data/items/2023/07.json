@@ -986,6 +986,12 @@
         "id": "130209",
         "begin": "2025-01-15T08:00:00.000Z",
         "broadcast": "R/2025-01-15T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26464",
+        "begin": "2025-03-31T15:00:00.000Z",
+        "broadcast": "R/2025-03-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3075,6 +3081,12 @@
         "id": "26480",
         "begin": "2023-10-10T15:00:00.000Z",
         "broadcast": "R/2023-10-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQtmVzR5SP-zGqxlbfl22XJ",
+        "begin": "2025-04-06T12:30:06.000Z",
+        "broadcast": "R/2025-04-06T12:30:06.000Z/P7D"
       }
     ]
   },
@@ -3639,6 +3651,33 @@
         "id": "26487",
         "begin": "2023-07-06T10:22:00.000Z",
         "broadcast": "R/2023-07-06T10:22:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "おそ松さん～魂のたこ焼きパーティーと伝説のお泊り会～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阿松～魂之章鱼烧派对与传说的留宿～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://osomatsusan.com/tamaden/",
+    "begin": "2023-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-07-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "338372"
+      },
+      {
+        "site": "danime",
+        "id": "27880",
+        "begin": "2025-04-03T15:00:00.000Z",
+        "broadcast": "R/2025-04-03T15:00:00.000Z/P7D"
       }
     ]
   }

@@ -3606,6 +3606,12 @@
         "id": "125095",
         "begin": "2022-06-24T04:00:00.000Z",
         "broadcast": "R/2022-06-24T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0068116",
+        "begin": "2025-04-04T15:00:00.000Z",
+        "broadcast": "R/2025-04-04T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -4063,6 +4069,13 @@
       "zh-Hans": [
         "名侦探柯南 万圣节的新娘",
         "名侦探柯南 万圣节新娘"
+      ],
+      "zh-Hant": [
+        "名偵探柯南：萬聖節的新娘"
+      ],
+      "en": [
+        "Detective Conan: The Bride of Halloween",
+        "Detective Conan the Movie: The Bride of Halloween"
       ]
     },
     "type": "movie",
@@ -4086,6 +4099,25 @@
       {
         "site": "mikan",
         "id": "2860"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100686",
+        "begin": "2025-04-04T15:00:00.000Z",
+        "broadcast": "R/2025-04-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "PMB103ZVE9eU",
+        "url": "https://www.disneyplus.com/movies/detective-conan-the-bride-of-halloween/PMB103ZVE9eU",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81757621",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

@@ -25,6 +25,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "鬼人幻灯抄"
+      ],
+      "zh-Hant": [
+        "鬼人幻燈抄"
+      ],
+      "en": [
+        "Sword of the Demon Hunter"
       ]
     },
     "type": "tv",
@@ -48,14 +54,58 @@
       {
         "site": "unext",
         "id": "SID0104177",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-03T15:00:00.000Z",
+        "broadcast": "R/2025-04-03T15:00:00.000Z/P7D"
       },
       {
         "site": "abema",
         "id": "169-144",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "136611",
+        "begin": "2025-03-31T12:30:00.000Z",
+        "broadcast": "R/2025-03-31T12:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27890",
+        "begin": "2025-04-03T15:00:00.000Z",
+        "broadcast": "R/2025-04-03T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0F25LC1TQ",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3580"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "67ed5cbd8b961748467f45e9"
+      },
+      {
+        "site": "gamer",
+        "id": "136611",
+        "begin": "2025-03-31T12:30:00.000Z",
+        "broadcast": "R/2025-03-31T12:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSSfb_kh2hw_ves_-VcmDU7",
+        "begin": "2025-03-27T09:30:30.000Z",
+        "broadcast": "R/2025-03-27T09:30:30.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jhve97gk77TX6seY4UaVkQn",
+        "begin": "2025-03-27T09:28:45.000Z",
+        "broadcast": "R/2025-03-27T09:28:45.000Z/P7D"
       }
     ]
   },
@@ -66,13 +116,31 @@
     "lang": "ja",
     "officialSite": "https://anime-hinahima.com/",
     "begin": "2025-03-28T14:30:00.000Z",
-    "broadcast": "R/2025-03-28T14:30:00.000Z/P7D",
-    "end": "",
+    "broadcast": "R/2025-03-28T14:30:00.000Z/P0D",
+    "end": "2025-03-28T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "528439"
+      },
+      {
+        "site": "unext",
+        "id": "SID0178347",
+        "begin": "2025-03-30T03:00:00.000Z",
+        "broadcast": "R/2025-03-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "117-41",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27734",
+        "begin": "2025-03-30T03:00:00.000Z",
+        "broadcast": "R/2025-03-30T03:00:00.000Z/P7D"
       }
     ]
   }

@@ -200,5 +200,32 @@
         "broadcast": "R/2023-05-01T01:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "宇宙戦艦ヤマトII ヤマトよ永遠なれ!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战舰大和号2 大和号永恒不灭"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1979-10-05T15:00:00.000Z",
+    "broadcast": "R/1979-10-05T15:00:00.000Z/P7D",
+    "end": "1979-10-05T15:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "511876"
+      },
+      {
+        "site": "unext",
+        "id": "SID0174170",
+        "begin": "2025-04-04T03:00:00.000Z",
+        "broadcast": "R/2025-04-04T03:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

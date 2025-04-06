@@ -201,5 +201,38 @@
         "broadcast": "R/2025-03-25T15:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "映画 ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第1章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 Love Live! 虹咲学园校园偶像同好会 完结篇 第1章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.lovelive-anime.jp/nijigasaki/movieteaser/",
+    "begin": "2024-09-05T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-09-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "442614"
+      },
+      {
+        "site": "unext",
+        "id": "SID0182606",
+        "begin": "2025-03-31T15:00:00.000Z",
+        "broadcast": "R/2025-03-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27887",
+        "begin": "2025-03-31T15:00:00.000Z",
+        "broadcast": "R/2025-03-31T15:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

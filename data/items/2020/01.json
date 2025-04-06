@@ -1499,6 +1499,12 @@
         "begin": "2020-01-11T14:30:00.000Z",
         "broadcast": "R/2020-01-11T14:30:00.000Z/P7D",
         "comment": "裏オプVer.: 23140"
+      },
+      {
+        "site": "unext",
+        "id": "SID0045276",
+        "begin": "2019-12-27T03:00:00.000Z",
+        "broadcast": "R/2019-12-27T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -2130,7 +2136,11 @@
         "奇幻怪盗"
       ],
       "zh-Hant": [
-        "奇幻怪盜 Hatena☆Illusion"
+        "奇幻怪盜 Hatena☆Illusion",
+        "奇幻☆怪盜"
+      ],
+      "en": [
+        "Hatena☆Illusion"
       ]
     },
     "type": "tv",
@@ -2185,6 +2195,12 @@
         "id": "24542",
         "begin": "2021-03-01T01:00:00.000Z",
         "broadcast": "R/2021-03-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JieiQq5VMZ5Wm4koDmhwUZw",
+        "begin": "2025-04-06T12:30:07.000Z",
+        "broadcast": "R/2025-04-06T12:30:07.000Z/P7D"
       }
     ]
   },
@@ -2292,6 +2308,12 @@
         "id": "PL12UaAf_xzfouz368O83e65ZZIWTg-JXU",
         "begin": "2025-01-26T14:00:06.000Z",
         "broadcast": "R/2025-01-26T14:00:06.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81233565",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2662,6 +2684,18 @@
       {
         "site": "mikan",
         "id": "2151"
+      },
+      {
+        "site": "abema",
+        "id": "19-256",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27896",
+        "begin": "2025-04-06T15:00:00.000Z",
+        "broadcast": "R/2025-04-06T15:00:00.000Z/P7D"
       }
     ]
   },

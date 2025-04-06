@@ -262,6 +262,10 @@
         "id": "SID0164430",
         "begin": "2024-12-17T09:00:00.000Z",
         "broadcast": "R/2024-12-17T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3514"
       }
     ]
   },
@@ -375,6 +379,33 @@
         "id": "shingeki-movie-last-attack",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場総集編 幻日のヨハネ -SUNSHINE in the MIRROR-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场总集篇 幻日夜羽 -镜中晖光-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.yohane.net/",
+    "begin": "2024-11-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-11-28T17:29:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "501937"
+      },
+      {
+        "site": "unext",
+        "id": "SID0181624",
+        "begin": "2025-04-03T15:00:00.000Z",
+        "broadcast": "R/2025-04-03T15:00:00.000Z/P7D"
       }
     ]
   }
