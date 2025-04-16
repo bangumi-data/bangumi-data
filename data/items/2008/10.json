@@ -653,6 +653,9 @@
       ],
       "zh-Hant": [
         "黑執事"
+      ],
+      "en": [
+        "Black Butler"
       ]
     },
     "type": "tv",
@@ -721,6 +724,12 @@
       {
         "site": "prime",
         "id": "B0DG7S6WXF",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "1KUmW7M2F5Eu",
         "begin": "",
         "broadcast": ""
       }
@@ -1436,6 +1445,12 @@
         "id": "10066",
         "begin": "2013-03-01T01:00:00.000Z",
         "broadcast": "R/2013-03-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B074PGLXGQ",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1728,6 +1743,12 @@
         "id": "SID0014496",
         "begin": "2011-03-25T06:00:00.000Z",
         "broadcast": "R/2011-03-25T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26206",
+        "begin": "2025-04-10T15:00:00.000Z",
+        "broadcast": "R/2025-04-10T15:00:00.000Z/P7D"
       }
     ]
   },

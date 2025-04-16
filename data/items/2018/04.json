@@ -52,8 +52,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfoz9LN_6KZX5jmA3u7Z8PYe",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2019-11-13T08:30:04.000Z",
+        "broadcast": "R/2019-11-13T08:30:04.000Z/P7D"
       }
     ]
   },
@@ -135,8 +135,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfqY94l2nlEQz5m4jW4CoWbR",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-01-13T14:00:10.000Z",
+        "broadcast": "R/2021-01-13T14:00:10.000Z/P7D"
       }
     ]
   },
@@ -617,8 +617,8 @@
       {
         "site": "ani_one",
         "id": "PLC18xlbCdwtQNUGYfTq8Dlz_1KYYEGBri",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-02T11:00:01.000Z",
+        "broadcast": "R/2023-07-02T11:00:01.000Z/P7D"
       },
       {
         "site": "danime",
@@ -1133,6 +1133,12 @@
         "id": "22095",
         "begin": "2018-04-02T16:40:00.000Z",
         "broadcast": "R/2018-04-02T16:40:00.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G6P5WP3G6",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2508,8 +2514,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfodOZZ2c7SJEFqnHcHjI-ZB",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-06-17T10:00:10.000Z",
+        "broadcast": "R/2023-06-17T10:00:10.000Z/P7D"
       }
     ]
   },
@@ -2682,8 +2688,8 @@
       {
         "site": "ani_one",
         "id": "PLC18xlbCdwtRADy5WE06tcoQvJmBR70jP",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-09-24T08:00:41.000Z",
+        "broadcast": "R/2024-09-24T08:00:41.000Z/P7D"
       },
       {
         "site": "danime",
@@ -2715,6 +2721,12 @@
         "id": "PLxSscENEp7JjzK3AD896WNfsfosMcC6pL",
         "begin": "2022-07-01T01:30:01.000Z",
         "broadcast": "R/2022-07-01T01:30:01.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CTLR9VQ2",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3050,7 +3062,7 @@
         "id": "SID0034253",
         "begin": "2018-04-05T03:00:00.000Z",
         "broadcast": "R/2018-04-05T03:00:00.000Z/P7D",
-        "comment": "#52-103: SID0040831, #104-197: SID0047324, #198-248: SID0067371, #249-300: SID0080548, #301-?: SID0100442"
+        "comment": "#52-103: SID0040831, #104-197: SID0047324, #198-248: SID0067371, #249-300: SID0080548, #301-351: SID0100442, #352-?: SID0181266"
       },
       {
         "site": "bangumi_moe",
@@ -3065,7 +3077,7 @@
         "id": "22108",
         "begin": "2018-04-05T03:00:00.000Z",
         "broadcast": "R/2018-04-05T03:00:00.000Z/P7D",
-        "comment": "#52-103: 22730, #104-197: 23922, #198-248: 25443, #249-300: 26337, #301-?: 27085"
+        "comment": "#52-103: 22730, #104-197: 23922, #198-248: 25443, #249-300: 26337, #301-351: 27085, #352-?: 27868"
       }
     ]
   },
@@ -3549,6 +3561,18 @@
         "id": "92031",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JgoFEVBdHozDwI-MCXpDoHK",
+        "begin": "2021-04-01T12:30:04.000Z",
+        "broadcast": "R/2021-04-01T12:30:04.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQMix8fos6PNevQ_2b6fBlU",
+        "begin": "2025-03-11T01:19:45.000Z",
+        "broadcast": "R/2025-03-11T01:19:45.000Z/P7D"
       }
     ]
   },
@@ -4525,6 +4549,12 @@
         "id": "92078",
         "begin": "2025-01-01T04:00:00.000Z",
         "broadcast": "R/2025-01-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfr3AnAFqWFYv5k0bl5DbbHa",
+        "begin": "2025-04-05T14:00:06.000Z",
+        "broadcast": "R/2025-04-05T14:00:06.000Z/P7D"
       }
     ]
   },
@@ -4608,6 +4638,18 @@
         "site": "disneyplus",
         "id": "2mmFhzkoABAA",
         "url": "https://www.disneyplus.com/movies/detective-conan-zero-the-enforcer/2mmFhzkoABAA",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "415-8",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B08743NZT9",
         "begin": "",
         "broadcast": ""
       }

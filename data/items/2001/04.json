@@ -627,6 +627,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "名侦探柯南 通往天国的倒数计时"
+      ],
+      "en": [
+        "Detective Conan: Countdown to Heaven"
       ]
     },
     "type": "movie",
@@ -658,6 +661,25 @@
         "site": "bilibili",
         "id": "28228945",
         "begin": "2020-05-21T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "2SAyqleDMuaC",
+        "url": "https://www.disneyplus.com/movies/detective-conan-countdown-to-heaven/2SAyqleDMuaC",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010675",
+        "begin": "2025-04-11T15:00:00.000Z",
+        "broadcast": "R/2025-04-11T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B06Y1L6XL6",
+        "begin": "",
         "broadcast": ""
       }
     ]
