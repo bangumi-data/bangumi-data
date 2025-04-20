@@ -609,8 +609,12 @@
       "zh-Hans": [
         "名侦探柯南 第14号目标"
       ],
+      "zh-Hant": [
+        "名偵探柯南：第14號獵物"
+      ],
       "en": [
-        "Detective Conan: The Fourteenth Target"
+        "Detective Conan: The Fourteenth Target",
+        "Detective Conan the Movie: The Fourteenth Target"
       ]
     },
     "type": "movie",
@@ -666,6 +670,12 @@
       {
         "site": "prime",
         "id": "B06Y26H63V",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "70082582",
         "begin": "",
         "broadcast": ""
       }

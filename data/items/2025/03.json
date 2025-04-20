@@ -143,5 +143,41 @@
         "broadcast": "R/2025-03-30T03:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "OVA SK∞ エスケーエイト EXTRA PART",
+    "titleTranslate": {
+      "zh-Hans": [
+        "OVA 无限滑板 EXTRA PART"
+      ],
+      "zh-Hant": [
+        "SK8 the infinity EXTRA PART"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://sk8-project.com/ova/",
+    "begin": "2025-03-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-03-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "396229"
+      },
+      {
+        "site": "gamer",
+        "id": "137495",
+        "begin": "2025-04-18T16:00:00.000Z",
+        "broadcast": "R/2025-04-18T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "137495",
+        "begin": "2025-04-18T16:00:00.000Z",
+        "broadcast": "R/2025-04-18T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

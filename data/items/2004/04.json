@@ -1192,6 +1192,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "名侦探柯南 银翼的魔术师"
+      ],
+      "zh-Hant": [
+        "名偵探柯南：銀翼的奇術師"
+      ],
+      "en": [
+        "Detective Conan the Movie: Magician of the Silver Sky"
       ]
     },
     "type": "movie",
@@ -1223,6 +1229,18 @@
         "site": "bilibili",
         "id": "28228949",
         "begin": "2020-05-21T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010678",
+        "begin": "2025-04-18T15:00:00.000Z",
+        "broadcast": "R/2025-04-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81757598",
+        "begin": "",
         "broadcast": ""
       }
     ]
