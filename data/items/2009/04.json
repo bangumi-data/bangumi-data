@@ -1237,8 +1237,8 @@
       {
         "site": "unext",
         "id": "SID0002563",
-        "begin": "2020-01-06T03:00:00.000Z",
-        "broadcast": "R/2020-01-06T03:00:00.000Z/P7D"
+        "begin": "2025-03-31T15:00:00.000Z",
+        "broadcast": "R/2025-03-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1450,6 +1450,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "名侦探柯南 漆黑的追迹者"
+      ],
+      "en": [
+        "Detective Conan: The Raven Chaser"
       ]
     },
     "type": "movie",
@@ -1481,6 +1484,31 @@
         "site": "bilibili",
         "id": "28228955",
         "begin": "2020-05-21T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010683",
+        "begin": "2025-04-04T15:00:00.000Z",
+        "broadcast": "R/2025-04-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "6Wczq6K7XSGv",
+        "url": "https://www.disneyplus.com/movies/detective-conan-the-raven-chaser/6Wczq6K7XSGv",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "415-8",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B06Y252JRC",
+        "begin": "",
         "broadcast": ""
       }
     ]
@@ -1839,6 +1867,41 @@
         "id": "10504",
         "begin": "2019-12-27T01:00:00.000Z",
         "broadcast": "R/2019-12-27T01:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "交響詩篇エウレカセブン ポケットが虹でいっぱい",
+    "titleTranslate": {
+      "zh-Hans": [
+        "交响诗篇 彩虹满载",
+        "交响诗篇Eureka Seven彩虹满载",
+        "交响诗篇剧场版 口袋装满了彩虹"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.eureka-prj.net/",
+    "begin": "2009-04-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2009-04-24T17:55:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1759"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014769",
+        "begin": "2025-03-31T15:00:00.000Z",
+        "broadcast": "R/2025-03-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22389",
+        "begin": "2025-03-31T15:00:00.000Z",
+        "broadcast": "R/2025-03-31T15:00:00.000Z/P7D"
       }
     ]
   }

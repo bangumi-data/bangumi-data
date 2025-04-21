@@ -48,12 +48,6 @@
         "id": "77939"
       },
       {
-        "site": "unext",
-        "id": "SID0015816",
-        "begin": "2024-01-31T15:00:00.000Z",
-        "broadcast": "R/2024-01-31T15:00:00.000Z/P7D"
-      },
-      {
         "site": "danime",
         "id": "26881",
         "begin": "2024-01-31T15:00:00.000Z",
@@ -432,6 +426,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "名侦探柯南 世纪末的魔术师"
+      ],
+      "zh-Hant": [
+        "名偵探柯南：世紀末的魔術師"
+      ],
+      "en": [
+        "Detective Conan the Movie: The Last Wizard of the Century"
       ]
     },
     "type": "movie",
@@ -464,6 +464,18 @@
         "id": "28228943",
         "begin": "2020-05-21T16:00:00.000Z",
         "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "70126871",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010673",
+        "begin": "2025-04-18T15:00:00.000Z",
+        "broadcast": "R/2025-04-18T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -547,12 +559,6 @@
         "id": "2237",
         "begin": "2012-06-30T06:54:46.000Z",
         "broadcast": "R/2012-06-30T06:54:46.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "19933",
-        "begin": "2019-08-20T08:00:00.000Z",
-        "broadcast": "R/2019-08-20T08:00:00.000Z/P7D"
       }
     ]
   },

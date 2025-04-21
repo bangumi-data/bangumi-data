@@ -50,6 +50,10 @@
         "id": "B0DKRFXL3D",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3516"
       }
     ]
   },
@@ -186,7 +190,7 @@
     "officialSite": "https://www.tv-tokyo.co.jp/anime/asateer2/",
     "begin": "2024-11-02T22:00:00.000Z",
     "broadcast": "R/2024-11-02T22:00:00.000Z/P7D",
-    "end": "",
+    "end": "2025-02-01T22:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -258,6 +262,10 @@
         "id": "SID0164430",
         "begin": "2024-12-17T09:00:00.000Z",
         "broadcast": "R/2024-12-17T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3514"
       }
     ]
   },
@@ -344,6 +352,66 @@
         "id": "SID0167296",
         "begin": "2025-01-28T15:00:00.000Z",
         "broadcast": "R/2025-01-28T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 進撃の巨人 完結編 THE LAST ATTACK",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 进击的巨人 完结篇 THE LAST ATTACK"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://shingeki.tv/final/",
+    "begin": "2024-11-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-11-07T18:25:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "508708"
+      },
+      {
+        "site": "nicovideo",
+        "id": "shingeki-movie-last-attack",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場総集編 幻日のヨハネ -SUNSHINE in the MIRROR-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场总集篇 幻日夜羽 -镜中晖光-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.yohane.net/",
+    "begin": "2024-11-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-11-28T17:29:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "501937"
+      },
+      {
+        "site": "unext",
+        "id": "SID0181624",
+        "begin": "2025-04-03T15:00:00.000Z",
+        "broadcast": "R/2025-04-03T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yohane-movie",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

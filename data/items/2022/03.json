@@ -188,6 +188,12 @@
         "id": "81275353",
         "begin": "2022-03-09T16:00:00.000Z",
         "broadcast": "R/2022-03-09T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0D6ZRPY48",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -469,6 +475,12 @@
       {
         "site": "mikan",
         "id": "2859"
+      },
+      {
+        "site": "prime",
+        "id": "B0DW93N4HJ",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -601,6 +613,34 @@
         "id": "26395",
         "begin": "2023-04-29T15:00:00.000Z",
         "broadcast": "R/2023-04-29T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "映画しまじろう しまじろうとキラキラおうこくのおうじさま",
+    "titleTranslate": {
+      "zh-Hans": [
+        "巧虎与闪亮闪亮王国的王子殿下",
+        "巧虎与塔鲁王子"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-03-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-03-10T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "424945"
+      },
+      {
+        "site": "abema",
+        "id": "19-100",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

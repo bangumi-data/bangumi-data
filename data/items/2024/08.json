@@ -172,5 +172,145 @@
         "broadcast": "R/2024-08-30T01:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "僕のヒーローアカデミア THE MOVIE ユアネクスト",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我的英雄学院 You're Next"
+      ],
+      "zh-Hant": [
+        "我的英雄學院劇場版：You’re Next",
+        "我的英雄學院劇場版：You're Next"
+      ],
+      "en": [
+        "My Hero Academia: You're Next"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://heroaca-movie.com/",
+    "begin": "2024-08-01T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-08-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "449154"
+      },
+      {
+        "site": "unext",
+        "id": "SID0170032",
+        "begin": "2025-02-18T15:00:00.000Z",
+        "broadcast": "R/2025-02-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3509"
+      },
+      {
+        "site": "netflix",
+        "id": "82036353",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "クレヨンしんちゃん オラたちの恐竜日記",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新 我们的恐龙日记"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.shinchan-movie.com/",
+    "begin": "2024-08-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-08-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "469483"
+      },
+      {
+        "site": "unext",
+        "id": "SID0172877",
+        "begin": "2025-02-26T03:00:00.000Z",
+        "broadcast": "R/2025-02-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3512"
+      }
+    ]
+  },
+  {
+    "title": "きみの色",
+    "titleTranslate": {
+      "zh-Hans": [
+        "你的颜色"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://kiminoiro.jp/",
+    "begin": "2024-08-29T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-08-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "409576"
+      },
+      {
+        "site": "unext",
+        "id": "SID0171270",
+        "begin": "2025-02-25T15:00:00.000Z",
+        "broadcast": "R/2025-02-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3513"
+      }
+    ]
+  },
+  {
+    "title": "劇場総集編ぼっち・ざ・ろっく！ Re:Re:",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场总集篇孤独摇滚！ Re:Re:"
+      ],
+      "zh-Hant": [
+        "劇場總集篇 孤獨搖滾！Re: Re:"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://bocchi.rocks/",
+    "begin": "2024-08-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-08-08T17:17:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "459642"
+      },
+      {
+        "site": "gamer",
+        "id": "144328",
+        "begin": "2025-03-31T16:00:00.000Z",
+        "broadcast": "R/2025-03-31T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3507"
+      }
+    ]
   }
 ]

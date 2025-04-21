@@ -299,12 +299,6 @@
         "id": "411248"
       },
       {
-        "site": "abema",
-        "id": "2-14",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0103147",
         "begin": "2024-06-01T03:00:00.000Z",
@@ -324,7 +318,15 @@
       "zh-Hans": [
         "灌篮高手",
         "灌篮高手 电影版",
-        "灌篮高手：THE FIRST"
+        "灌篮高手：THE FIRST",
+        "灌篮高手 THE FIRST SLAM DUNK"
+      ],
+      "zh-Hant": [
+        "THE FIRST SLAM DUNK",
+        "灌籃高手 THE FIRST SLAM DUNK"
+      ],
+      "en": [
+        "The First Slam Dunk"
       ]
     },
     "type": "movie",
@@ -342,6 +344,12 @@
       {
         "site": "mikan",
         "id": "3256"
+      },
+      {
+        "site": "netflix",
+        "id": "81765372",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

@@ -1346,6 +1346,12 @@
       {
         "site": "mikan",
         "id": "2970"
+      },
+      {
+        "site": "abema",
+        "id": "182-1450",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1612,7 +1618,7 @@
       },
       {
         "site": "prime",
-        "id": "B0BYSVVYKB",
+        "id": "B0BYSV4ZSJ",
         "begin": "",
         "broadcast": ""
       }
@@ -2031,8 +2037,8 @@
       {
         "site": "gamer_hk",
         "id": "130831",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-04-28T06:30:00.000Z",
+        "broadcast": "R/2023-04-28T06:30:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -2357,8 +2363,8 @@
       {
         "site": "gamer_hk",
         "id": "126545",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-04-03T16:00:00.000Z",
+        "broadcast": "R/2023-04-03T16:00:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -3859,7 +3865,8 @@
       ],
       "zh-Hant": [
         "機動戰士鋼彈 水星的魔女 Season2",
-        "機動戰士高達：水星的魔女 Season2"
+        "機動戰士高達：水星的魔女 Season2",
+        "機動戰士鋼彈 水星的魔女 Season 2"
       ]
     },
     "type": "tv",
@@ -3923,6 +3930,18 @@
         "id": "G79H2307W",
         "begin": "2022-09-25T08:00:00.000Z",
         "broadcast": "R/2022-09-25T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "130372",
+        "begin": "2023-04-09T09:00:00.000Z",
+        "broadcast": "R/2023-04-09T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "13-158",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4003,6 +4022,12 @@
       {
         "site": "danime",
         "id": "26301",
+        "begin": "2023-04-07T17:00:00.000Z",
+        "broadcast": "R/2023-04-07T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "125428",
         "begin": "2023-04-07T17:00:00.000Z",
         "broadcast": "R/2023-04-07T17:00:00.000Z/P7D"
       }
@@ -4258,6 +4283,12 @@
       {
         "site": "mikan",
         "id": "3047"
+      },
+      {
+        "site": "danime",
+        "id": "27663",
+        "begin": "2025-02-23T15:00:00.000Z",
+        "broadcast": "R/2025-02-23T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -4355,6 +4386,24 @@
       {
         "site": "mikan",
         "id": "3189"
+      },
+      {
+        "site": "prime",
+        "id": "B0DTPQ659G",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0179257",
+        "begin": "2025-04-04T15:00:00.000Z",
+        "broadcast": "R/2025-04-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "415-8",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

@@ -51,16 +51,16 @@
         "broadcast": "R/2016-12-07T09:33:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "2-14",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0103146",
         "begin": "2024-06-01T03:00:00.000Z",
         "broadcast": "R/2024-06-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "2-21",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -420,6 +420,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "名侦探柯南 引爆摩天楼"
+      ],
+      "zh-Hant": [
+        "名偵探柯南：引爆摩天樓"
+      ],
+      "en": [
+        "Detective Conan: The Time-Bombed Skyscraper",
+        "Detective Conan the Movie: The Time-Bombed Skyscraper"
       ]
     },
     "type": "movie",
@@ -452,6 +459,37 @@
         "site": "bilibili",
         "id": "28228964",
         "begin": "2020-05-21T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010671",
+        "begin": "2025-04-04T15:00:00.000Z",
+        "broadcast": "R/2025-04-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "2neYUIC4XyUh",
+        "url": "https://www.disneyplus.com/movies/detective-conan-the-time-bombed-skyscraper/2neYUIC4XyUh",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "70055218",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "415-8",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B06Y27GPSP",
+        "begin": "",
         "broadcast": ""
       }
     ]

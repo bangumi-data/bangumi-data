@@ -1294,7 +1294,7 @@
         "id": "PLxSscENEp7JjYz_Mr7sak82-ImkZfxLO1",
         "begin": "2023-09-21T01:55:10.000Z",
         "broadcast": "R/2023-09-21T01:55:10.000Z/P7D",
-        "comment": "#53-99: PLxSscENEp7JibnGLzxdM-ftMb74lnghSz"
+        "comment": "#53-99: PLxSscENEp7JibnGLzxdM-ftMb74lnghSz, #100-150: PLxSscENEp7JiO3ZM-4pFsJ2c8VwnslLJg, #151-201: PLxSscENEp7Jhwyjh_CUvG9Y3Mw2ccdv3q"
       },
       {
         "site": "mytv",
@@ -2048,6 +2048,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "名侦探柯南 侦探们的镇魂歌"
+      ],
+      "zh-Hant": [
+        "名偵探柯南：偵探們的鎮魂歌"
+      ],
+      "en": [
+        "Detective Conan : The Private Eyes' Requiem"
       ]
     },
     "type": "movie",
@@ -2079,6 +2085,18 @@
         "site": "bilibili",
         "id": "28228951",
         "begin": "2020-05-21T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010680",
+        "begin": "2025-04-18T15:00:00.000Z",
+        "broadcast": "R/2025-04-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81757597",
+        "begin": "",
         "broadcast": ""
       }
     ]
@@ -2124,6 +2142,12 @@
         "id": "SID0014501",
         "begin": "2008-12-12T06:00:00.000Z",
         "broadcast": "R/2008-12-12T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26205",
+        "begin": "2025-04-10T15:00:00.000Z",
+        "broadcast": "R/2025-04-10T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2161,6 +2185,12 @@
         "id": "10190",
         "begin": "2012-06-26T15:00:00.000Z",
         "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B074T3C1Z6",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

@@ -255,6 +255,12 @@
         "begin": "2014-10-03T01:00:00.000Z",
         "broadcast": "R/2014-10-03T01:00:00.000Z/P7D",
         "comment": "#14-16: 10950"
+      },
+      {
+        "site": "abema",
+        "id": "25-13gragggaxej",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -308,6 +314,12 @@
         "id": "24002",
         "begin": "2020-07-10T01:00:00.000Z",
         "broadcast": "R/2020-07-10T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B076RB82FW",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2127,7 +2139,13 @@
       },
       {
         "site": "prime",
-        "id": "B0B8K22GC3",
+        "id": "B0D3Y9W4Z2",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "13-97",
         "begin": "",
         "broadcast": ""
       }
@@ -2190,6 +2208,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "名侦探柯南 绝海的侦探"
+      ],
+      "zh-Hant": [
+        "名偵探柯南：絕海的偵探"
+      ],
+      "en": [
+        "Detective Conan the Movie: Privatre Eye in the Distant Sea"
       ]
     },
     "type": "movie",
@@ -2221,6 +2245,18 @@
         "site": "bilibili",
         "id": "28228959",
         "begin": "2020-05-21T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0004956",
+        "begin": "2025-04-11T15:00:00.000Z",
+        "broadcast": "R/2025-04-11T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81757603",
+        "begin": "",
         "broadcast": ""
       }
     ]

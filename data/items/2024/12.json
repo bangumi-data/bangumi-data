@@ -142,5 +142,32 @@
         "broadcast": ""
       }
     ]
+  },
+  {
+    "title": "劇場版 忍たま乱太郎 ドクタケ忍者隊最強の軍師",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 忍者乱太郎 毒竹忍者队最强的军师"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://sh-anime.shochiku.co.jp/nintama-movie/",
+    "begin": "2024-12-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-12-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "481866"
+      },
+      {
+        "site": "unext",
+        "id": "SID0184518",
+        "begin": "2025-04-09T15:00:00.000Z",
+        "broadcast": "R/2025-04-09T15:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

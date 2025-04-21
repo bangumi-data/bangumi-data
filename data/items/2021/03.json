@@ -110,6 +110,12 @@
         "id": "B0DC6FLR3Y",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtR5mEbaAHttfJL19EzVQVPG",
+        "begin": "2025-04-09T11:15:39.000Z",
+        "broadcast": "R/2025-04-09T11:15:39.000Z/P7D"
       }
     ]
   },
@@ -388,6 +394,34 @@
         "id": "SID0054401",
         "begin": "2021-06-01T03:00:00.000Z",
         "broadcast": "R/2021-06-01T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "映画しまじろう しまじろうと そらとぶふね",
+    "titleTranslate": {
+      "zh-Hans": [
+        "巧虎大飞船历险记",
+        "巧虎与飞船"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://kodomo.benesse.ne.jp/open/movie/2020/",
+    "begin": "2021-03-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-03-11T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "295473"
+      },
+      {
+        "site": "abema",
+        "id": "19-74",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

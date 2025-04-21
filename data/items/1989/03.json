@@ -32,6 +32,12 @@
         "id": "gundam-0080",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26200",
+        "begin": "2025-04-10T15:00:00.000Z",
+        "broadcast": "R/2025-04-10T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -306,6 +312,33 @@
         "id": "26239",
         "begin": "2023-04-28T01:00:00.000Z",
         "broadcast": "R/2023-04-28T01:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 ひみつのアッコちゃん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 甜蜜小天使"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-03-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-03-17T16:25:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "499293"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003258",
+        "begin": "2020-01-19T03:00:00.000Z",
+        "broadcast": "R/2020-01-19T03:00:00.000Z/P7D"
       }
     ]
   }

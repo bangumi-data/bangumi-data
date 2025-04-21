@@ -85,9 +85,15 @@
       },
       {
         "site": "prime",
-        "id": "B01JY07KG8",
+        "id": "B0DZY6M1H8",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26209",
+        "begin": "2025-04-10T15:00:00.000Z",
+        "broadcast": "R/2025-04-10T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -280,6 +286,29 @@
         "id": "SID0002821",
         "begin": "2015-02-16T15:00:00.000Z",
         "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "つるピカハゲ丸くん",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-03-02T16:00:00.000Z",
+    "broadcast": "R/1988-03-02T16:00:00.000Z/P7D",
+    "end": "1989-10-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "188450"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004811",
+        "begin": "2025-03-01T03:00:00.000Z",
+        "broadcast": "R/2025-03-01T03:00:00.000Z/P7D"
       }
     ]
   }

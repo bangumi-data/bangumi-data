@@ -909,6 +909,18 @@
         "id": "20488",
         "begin": "2015-12-19T03:00:00.000Z",
         "broadcast": "R/2015-12-19T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "73638",
+        "begin": "2025-03-07T04:00:00.000Z",
+        "broadcast": "R/2025-03-07T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "73638",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2238,7 +2250,7 @@
       },
       {
         "site": "prime",
-        "id": "B0BZLRDBLH",
+        "id": "B0BZLSMZHG",
         "begin": "",
         "broadcast": ""
       }
@@ -2420,6 +2432,12 @@
         "id": "22052",
         "begin": "2018-04-01T03:00:00.000Z",
         "broadcast": "R/2018-04-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JiPOoEgpgbcV_17Y0kLUkyl",
+        "begin": "2025-03-05T09:34:28.000Z",
+        "broadcast": "R/2025-03-05T09:34:28.000Z/P7D"
       }
     ]
   },
@@ -3013,12 +3031,6 @@
         "broadcast": "R/2017-02-16T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "117-8",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "gamer_hk",
         "id": "74323",
         "begin": "2024-06-03T01:40:00.000Z",
@@ -3577,6 +3589,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "名侦探柯南 业火的向日葵"
+      ],
+      "zh-Hant": [
+        "名偵探柯南：業火的向日葵"
+      ],
+      "en": [
+        "Detective Conan the Movie: Sunflowers of Inferno"
       ]
     },
     "type": "movie",
@@ -3616,6 +3634,18 @@
       {
         "site": "bangumi_moe",
         "id": "55137c861fe5c31a190a0728"
+      },
+      {
+        "site": "netflix",
+        "id": "81757600",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0028988",
+        "begin": "2025-04-18T15:00:00.000Z",
+        "broadcast": "R/2025-04-18T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3772,12 +3802,6 @@
         "id": "2844",
         "begin": "2015-04-24T16:00:00.000Z",
         "broadcast": "R/2016-04-14T05:36:00.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0021785",
-        "begin": "2019-11-13T03:00:00.000Z",
-        "broadcast": "R/2019-11-13T03:00:00.000Z/P7D"
       },
       {
         "site": "mikan",

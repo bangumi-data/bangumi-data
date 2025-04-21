@@ -333,6 +333,12 @@
         "id": "26597",
         "begin": "2023-10-03T15:00:00.000Z",
         "broadcast": "R/2023-10-03T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CJQFQH5K",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -474,6 +480,12 @@
         "id": "B0CJRF67LM",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GW4HM7W7Q",
+        "begin": "2023-09-28T15:30:00.000Z",
+        "broadcast": "R/2023-09-28T15:30:00.000Z/P7D"
       }
     ]
   },
@@ -558,6 +570,12 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfp_uOtg2M8yHR8P6sTzN0ot",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0CBYC8TYH",
         "begin": "",
         "broadcast": ""
       }
@@ -834,16 +852,55 @@
         "broadcast": ""
       },
       {
-        "site": "abema",
-        "id": "5-67",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "27258",
         "begin": "2024-08-31T15:00:00.000Z",
         "broadcast": "R/2024-08-31T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版シティーハンター 天使の涙",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 城市猎人 天使之泪"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://cityhunter-movie.com/",
+    "begin": "2023-09-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-09-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "377649"
+      },
+      {
+        "site": "nicovideo",
+        "id": "cityhunter-movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0166431",
+        "begin": "2025-02-13T15:00:00.000Z",
+        "broadcast": "R/2025-02-13T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27683",
+        "begin": "2025-02-13T15:00:00.000Z",
+        "broadcast": "R/2025-02-13T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "13-196",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

@@ -25,6 +25,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "鬼人幻灯抄"
+      ],
+      "zh-Hant": [
+        "鬼人幻燈抄"
+      ],
+      "en": [
+        "Sword of the Demon Hunter"
       ]
     },
     "type": "tv",
@@ -38,23 +44,144 @@
       {
         "site": "bangumi",
         "id": "404753"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kijin-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0104177",
+        "begin": "2025-04-03T15:00:00.000Z",
+        "broadcast": "R/2025-04-03T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "169-144",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "136611",
+        "begin": "2025-03-31T12:30:00.000Z",
+        "broadcast": "R/2025-03-31T12:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27890",
+        "begin": "2025-04-03T15:00:00.000Z",
+        "broadcast": "R/2025-04-03T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0F25LC1TQ",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3580"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "67ed5cbd8b961748467f45e9"
+      },
+      {
+        "site": "gamer",
+        "id": "136611",
+        "begin": "2025-03-31T12:30:00.000Z",
+        "broadcast": "R/2025-03-31T12:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSSfb_kh2hw_ves_-VcmDU7",
+        "begin": "2025-03-27T09:30:30.000Z",
+        "broadcast": "R/2025-03-27T09:30:30.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jhve97gk77TX6seY4UaVkQn",
+        "begin": "2025-03-27T09:28:45.000Z",
+        "broadcast": "R/2025-03-27T09:28:45.000Z/P7D"
       }
     ]
   },
   {
     "title": "ツインズひなひま",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "双胞胎阳奈妃莉",
+        "双子姐妹"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://anime-hinahima.com/",
     "begin": "2025-03-28T14:30:00.000Z",
-    "broadcast": "R/2025-03-28T14:30:00.000Z/P7D",
-    "end": "",
+    "broadcast": "R/2025-03-28T14:30:00.000Z/P0D",
+    "end": "2025-03-28T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "528439"
+      },
+      {
+        "site": "unext",
+        "id": "SID0178347",
+        "begin": "2025-03-30T03:00:00.000Z",
+        "broadcast": "R/2025-03-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "117-41",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27734",
+        "begin": "2025-03-30T03:00:00.000Z",
+        "broadcast": "R/2025-03-30T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "OVA SK∞ エスケーエイト EXTRA PART",
+    "titleTranslate": {
+      "zh-Hans": [
+        "OVA 无限滑板 EXTRA PART"
+      ],
+      "zh-Hant": [
+        "SK8 the infinity EXTRA PART"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://sk8-project.com/ova/",
+    "begin": "2025-03-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-03-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "396229"
+      },
+      {
+        "site": "gamer",
+        "id": "137495",
+        "begin": "2025-04-18T16:00:00.000Z",
+        "broadcast": "R/2025-04-18T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "137495",
+        "begin": "2025-04-18T16:00:00.000Z",
+        "broadcast": "R/2025-04-18T16:00:00.000Z/P7D"
       }
     ]
   }

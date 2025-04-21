@@ -177,5 +177,32 @@
         "broadcast": "R/2021-03-05T01:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "宇宙戦艦ヤマトIII",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战舰大和号3"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1980-10-10T16:00:00.000Z",
+    "broadcast": "R/1980-10-10T16:00:00.000Z/P7D",
+    "end": "1981-04-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53898"
+      },
+      {
+        "site": "unext",
+        "id": "SID0174164",
+        "begin": "2025-03-14T03:00:00.000Z",
+        "broadcast": "R/2025-03-14T03:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

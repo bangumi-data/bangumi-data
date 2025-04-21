@@ -167,6 +167,12 @@
         "id": "10405",
         "begin": "2012-06-26T15:00:00.000Z",
         "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0B6S51LZ2",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -446,12 +452,6 @@
         "broadcast": "R/2011-06-04T11:28:00.000Z/P7D"
       },
       {
-        "site": "unext",
-        "id": "SID0016500",
-        "begin": "2024-01-31T15:00:00.000Z",
-        "broadcast": "R/2024-01-31T15:00:00.000Z/P7D"
-      },
-      {
         "site": "danime",
         "id": "26882",
         "begin": "2024-01-31T15:00:00.000Z",
@@ -681,6 +681,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "名侦探柯南 贝克街的亡灵"
+      ],
+      "en": [
+        "Detective Conan: The Phantom of Baker Street"
       ]
     },
     "type": "movie",
@@ -712,6 +715,25 @@
         "site": "bilibili",
         "id": "28228946",
         "begin": "2020-05-21T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "2DjcASMOZzqi",
+        "url": "https://www.disneyplus.com/movies/detective-conan-the-phantom-of-baker-street/2DjcASMOZzqi",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010676",
+        "begin": "2025-04-11T15:00:00.000Z",
+        "broadcast": "R/2025-04-11T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B06Y233HJF",
+        "begin": "",
         "broadcast": ""
       }
     ]

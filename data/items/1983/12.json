@@ -25,5 +25,38 @@
         "broadcast": "R/2020-07-10T01:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "宇宙戦艦ヤマトIII 太陽系の破滅",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战舰大和号3 太阳系的毁灭"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1983-12-27T16:00:00.000Z",
+    "broadcast": "R/1983-12-27T16:00:00.000Z/P7D",
+    "end": "1983-12-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "511877"
+      },
+      {
+        "site": "unext",
+        "id": "SID0174171",
+        "begin": "2025-04-04T03:00:00.000Z",
+        "broadcast": "R/2025-04-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0D9FDV77Z",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]

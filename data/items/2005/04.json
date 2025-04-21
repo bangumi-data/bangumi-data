@@ -197,6 +197,18 @@
         "site": "qq",
         "id": "z/z9l38028k1gq7jn",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0012983",
+        "begin": "2025-03-31T15:00:00.000Z",
+        "broadcast": "R/2025-03-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21746",
+        "begin": "2025-03-31T15:00:00.000Z",
+        "broadcast": "R/2025-03-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -596,6 +608,12 @@
         "id": "21245",
         "begin": "2016-11-18T01:00:00.000Z",
         "broadcast": "R/2016-11-18T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B09MLLFZJZ",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -777,12 +795,6 @@
         "site": "qq",
         "id": "0/0vh979nrr6sjamc",
         "begin": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0011023",
-        "begin": "2016-03-24T03:00:00.000Z",
-        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -974,12 +986,6 @@
       {
         "site": "bangumi",
         "id": "10421"
-      },
-      {
-        "site": "bilibili",
-        "id": "1837",
-        "begin": "2005-04-09T16:00:00.000Z",
-        "broadcast": "R/2014-05-16T14:12:00.000Z/P7D"
       }
     ]
   },
@@ -1037,7 +1043,7 @@
         "id": "28228115",
         "begin": "2020-03-07T05:16:00.000Z",
         "broadcast": "R/2020-03-07T05:16:00.000Z/P7D",
-        "comment": "第二季: 28228116, 第三季: 28228117, 第四季: 28338738"
+        "comment": "第二季: 28228116, 第三季: 28228117, 第四季: 28338738, 第五季: 25575897"
       },
       {
         "site": "abema",
@@ -1121,6 +1127,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "名侦探柯南 水平线上的阴谋"
+      ],
+      "en": [
+        "Detective Conan: Strategy Above the Depths"
       ]
     },
     "type": "movie",
@@ -1152,6 +1161,25 @@
         "site": "bilibili",
         "id": "28228950",
         "begin": "2020-05-21T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "1gTxitDJ8OHu",
+        "url": "https://www.disneyplus.com/movies/detective-conan-strategy-above-the-depths/1gTxitDJ8OHu",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010679",
+        "begin": "2025-04-11T15:00:00.000Z",
+        "broadcast": "R/2025-04-11T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DZSG3VSD",
+        "begin": "",
         "broadcast": ""
       }
     ]

@@ -608,6 +608,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "名侦探柯南 第14号目标"
+      ],
+      "zh-Hant": [
+        "名偵探柯南：第14號獵物"
+      ],
+      "en": [
+        "Detective Conan: The Fourteenth Target",
+        "Detective Conan the Movie: The Fourteenth Target"
       ]
     },
     "type": "movie",
@@ -639,6 +646,37 @@
         "site": "bilibili",
         "id": "28228965",
         "begin": "2020-05-21T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010672",
+        "begin": "2025-04-04T15:00:00.000Z",
+        "broadcast": "R/2025-04-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "zdUX69qcdHSd",
+        "url": "https://www.disneyplus.com/movies/detective-conan-the-fourteenth-target/zdUX69qcdHSd",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "415-8",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B06Y26H63V",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "70082582",
+        "begin": "",
         "broadcast": ""
       }
     ]

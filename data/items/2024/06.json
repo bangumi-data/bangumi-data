@@ -112,6 +112,12 @@
         "id": "4XHzb6tQBRtd",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "182-1451",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -219,6 +225,12 @@
       {
         "site": "mikan",
         "id": "3481"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ohmuroke-df",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -243,10 +255,20 @@
         "id": "476808"
       },
       {
+        "site": "nicovideo",
+        "id": "yell-movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
         "site": "unext",
         "id": "SID0160371",
         "begin": "2024-11-30T15:00:00.000Z",
         "broadcast": "R/2024-11-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3515"
       }
     ]
   },
@@ -306,6 +328,40 @@
         "id": "23228864",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場総集編ぼっち・ざ・ろっく！ Re:",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场总集篇孤独摇滚！ Re:"
+      ],
+      "zh-Hant": [
+        "劇場總集篇 孤獨搖滾！Re:"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://bocchi.rocks/",
+    "begin": "2024-06-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-06-06T17:32:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "436738"
+      },
+      {
+        "site": "gamer",
+        "id": "136340",
+        "begin": "2025-03-31T16:00:00.000Z",
+        "broadcast": "R/2025-03-31T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3506"
       }
     ]
   }

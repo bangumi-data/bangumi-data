@@ -32,7 +32,17 @@
   },
   {
     "title": "キャプテン",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "青少棒扬威记"
+      ],
+      "zh-Hant": [
+        "青少棒揚威記"
+      ],
+      "en": [
+        "Captain"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://www.chibaakio.jp/",
@@ -54,6 +64,12 @@
         "id": "10943",
         "begin": "2013-08-02T01:00:00.000Z",
         "broadcast": "R/2013-08-02T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjowK2IpVzgVtv4K4k6kvZ5",
+        "begin": "2025-02-07T02:02:00.000Z",
+        "broadcast": "R/2025-02-07T02:02:00.000Z/P7D"
       }
     ]
   },

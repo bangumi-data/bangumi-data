@@ -767,7 +767,7 @@
       },
       {
         "site": "prime",
-        "id": "B07CLJ26WR",
+        "id": "B0DVX5LXZK",
         "begin": "",
         "broadcast": ""
       }
@@ -1324,7 +1324,7 @@
       },
       {
         "site": "prime",
-        "id": "B0CLD2DC9T",
+        "id": "B0DTJD3Z48",
         "begin": "",
         "broadcast": ""
       }
@@ -2591,6 +2591,12 @@
         "id": "PL12UaAf_xzfovEY72Dn9LL-GhxrfgkWhG",
         "begin": "2020-12-26T14:00:10.000Z",
         "broadcast": "R/2020-12-26T14:00:10.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B014GM0PNE",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3591,6 +3597,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "名侦探柯南 异次元的狙击手"
+      ],
+      "zh-Hant": [
+        "名偵探柯南：異次元的狙擊手"
+      ],
+      "en": [
+        "Detective Conan the Movie: Dimensional Sniper"
       ]
     },
     "type": "movie",
@@ -3622,6 +3634,24 @@
         "site": "bilibili",
         "id": "28228960",
         "begin": "2020-05-21T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0022691",
+        "begin": "2025-04-11T15:00:00.000Z",
+        "broadcast": "R/2025-04-11T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B06Y1P8J1N",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81757601",
+        "begin": "",
         "broadcast": ""
       }
     ]
@@ -3745,12 +3775,6 @@
         "id": "4155",
         "begin": "2014-04-25T16:00:01.000Z",
         "broadcast": "R/2017-08-04T10:00:00.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0012025",
-        "begin": "2019-11-29T03:00:00.000Z",
-        "broadcast": "R/2019-11-29T03:00:00.000Z/P7D"
       }
     ]
   },

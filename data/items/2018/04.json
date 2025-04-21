@@ -52,8 +52,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfoz9LN_6KZX5jmA3u7Z8PYe",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2019-11-13T08:30:04.000Z",
+        "broadcast": "R/2019-11-13T08:30:04.000Z/P7D"
       }
     ]
   },
@@ -135,8 +135,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfqY94l2nlEQz5m4jW4CoWbR",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-01-13T14:00:10.000Z",
+        "broadcast": "R/2021-01-13T14:00:10.000Z/P7D"
       }
     ]
   },
@@ -460,12 +460,6 @@
         "broadcast": "R/2019-09-14T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "25-94",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "dmhy",
         "id": "極道超女|超能力女"
       },
@@ -623,8 +617,8 @@
       {
         "site": "ani_one",
         "id": "PLC18xlbCdwtQNUGYfTq8Dlz_1KYYEGBri",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-02T11:00:01.000Z",
+        "broadcast": "R/2023-07-02T11:00:01.000Z/P7D"
       },
       {
         "site": "danime",
@@ -1139,6 +1133,12 @@
         "id": "22095",
         "begin": "2018-04-02T16:40:00.000Z",
         "broadcast": "R/2018-04-02T16:40:00.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G6P5WP3G6",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1623,12 +1623,6 @@
         "id": "1614"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UcgbowJqjeqtQTk6SmE3IPku",
-        "begin": "2024-09-23T13:00:06.000Z",
-        "broadcast": "R/2024-09-23T13:00:06.000Z/P7D"
-      },
-      {
         "site": "abema",
         "id": "25-92",
         "begin": "",
@@ -1833,6 +1827,18 @@
         "id": "22525",
         "begin": "2019-02-01T01:00:00.000Z",
         "broadcast": "R/2019-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "94048",
+        "begin": "2025-03-05T04:00:00.000Z",
+        "broadcast": "R/2025-03-05T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "94048",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2508,8 +2514,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfodOZZ2c7SJEFqnHcHjI-ZB",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-06-17T10:00:10.000Z",
+        "broadcast": "R/2023-06-17T10:00:10.000Z/P7D"
       }
     ]
   },
@@ -2628,7 +2634,8 @@
         "Umamusume: Pretty Derby"
       ],
       "zh-Hant": [
-        "賽馬娘"
+        "賽馬娘",
+        "賽馬娘 Pretty Derby"
       ]
     },
     "type": "tv",
@@ -2681,8 +2688,8 @@
       {
         "site": "ani_one",
         "id": "PLC18xlbCdwtRADy5WE06tcoQvJmBR70jP",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-09-24T08:00:41.000Z",
+        "broadcast": "R/2024-09-24T08:00:41.000Z/P7D"
       },
       {
         "site": "danime",
@@ -2690,6 +2697,36 @@
         "begin": "2018-04-07T03:00:00.000Z",
         "broadcast": "R/2018-04-07T03:00:00.000Z/P7D",
         "comment": "EXTRA R「BNWの誓い」: 26662"
+      },
+      {
+        "site": "netflix",
+        "id": "81025716",
+        "begin": "2025-02-13T16:00:00.000Z",
+        "broadcast": "R/2025-02-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "91550",
+        "begin": "2025-03-07T04:00:00.000Z",
+        "broadcast": "R/2025-03-07T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "91550",
+        "begin": "2025-03-07T04:00:00.000Z",
+        "broadcast": "R/2025-03-07T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjzK3AD896WNfsfosMcC6pL",
+        "begin": "2022-07-01T01:30:01.000Z",
+        "broadcast": "R/2022-07-01T01:30:01.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CTLR9VQ2",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3025,7 +3062,7 @@
         "id": "SID0034253",
         "begin": "2018-04-05T03:00:00.000Z",
         "broadcast": "R/2018-04-05T03:00:00.000Z/P7D",
-        "comment": "#52-103: SID0040831, #104-197: SID0047324, #198-248: SID0067371, #249-300: SID0080548, #301-?: SID0100442"
+        "comment": "#52-103: SID0040831, #104-197: SID0047324, #198-248: SID0067371, #249-300: SID0080548, #301-351: SID0100442, #352-?: SID0181266"
       },
       {
         "site": "bangumi_moe",
@@ -3040,7 +3077,7 @@
         "id": "22108",
         "begin": "2018-04-05T03:00:00.000Z",
         "broadcast": "R/2018-04-05T03:00:00.000Z/P7D",
-        "comment": "#52-103: 22730, #104-197: 23922, #198-248: 25443, #249-300: 26337, #301-?: 27085"
+        "comment": "#52-103: 22730, #104-197: 23922, #198-248: 25443, #249-300: 26337, #301-351: 27085, #352-?: 27868"
       }
     ]
   },
@@ -3512,6 +3549,30 @@
         "id": "22105",
         "begin": "2020-02-29T03:00:00.000Z",
         "broadcast": "R/2020-02-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "92031",
+        "begin": "2025-03-05T04:00:00.000Z",
+        "broadcast": "R/2025-03-05T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "92031",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JgoFEVBdHozDwI-MCXpDoHK",
+        "begin": "2021-04-01T12:30:04.000Z",
+        "broadcast": "R/2021-04-01T12:30:04.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQMix8fos6PNevQ_2b6fBlU",
+        "begin": "2025-03-11T01:19:45.000Z",
+        "broadcast": "R/2025-03-11T01:19:45.000Z/P7D"
       }
     ]
   },
@@ -4069,6 +4130,12 @@
         "id": "22152",
         "begin": "2018-04-30T16:15:00.000Z",
         "broadcast": "R/2018-04-30T16:15:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B07V4NZ686",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4430,6 +4497,12 @@
       {
         "site": "mikan",
         "id": "1653"
+      },
+      {
+        "site": "danime",
+        "id": "27702",
+        "begin": "2025-03-20T15:00:00.000Z",
+        "broadcast": "R/2025-03-20T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -4476,6 +4549,12 @@
         "id": "92078",
         "begin": "2025-01-01T04:00:00.000Z",
         "broadcast": "R/2025-01-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfr3AnAFqWFYv5k0bl5DbbHa",
+        "begin": "2025-04-05T14:00:06.000Z",
+        "broadcast": "R/2025-04-05T14:00:06.000Z/P7D"
       }
     ]
   },
@@ -4522,6 +4601,9 @@
       "zh-Hans": [
         "名侦探柯南 零的执行人",
         "名侦探柯南 零之执行人"
+      ],
+      "en": [
+        "Detective Conan: Zero The Enforcer"
       ]
     },
     "type": "movie",
@@ -4545,6 +4627,31 @@
       {
         "site": "mikan",
         "id": "1816"
+      },
+      {
+        "site": "unext",
+        "id": "SID0046993",
+        "begin": "2025-04-04T15:00:00.000Z",
+        "broadcast": "R/2025-04-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "2mmFhzkoABAA",
+        "url": "https://www.disneyplus.com/movies/detective-conan-zero-the-enforcer/2mmFhzkoABAA",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "415-8",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B08743NZT9",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

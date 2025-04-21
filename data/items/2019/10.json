@@ -299,12 +299,6 @@
         "broadcast": "R/2019-10-09T16:00:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "101857",
-        "begin": "2019-10-02T17:00:00.000Z",
-        "broadcast": "R/2019-10-02T17:00:00.000Z/P7D"
-      },
-      {
         "site": "bilibili_tw",
         "id": "28222862",
         "begin": "2019-10-02T17:00:00.000Z",
@@ -327,12 +321,6 @@
       {
         "site": "mikan",
         "id": "2034"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "101857",
-        "begin": "2019-10-02T17:00:00.000Z",
-        "broadcast": "R/2019-10-02T17:00:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -369,12 +357,6 @@
       {
         "site": "bilibili",
         "id": "28222688",
-        "begin": "2019-10-05T17:00:00.000Z",
-        "broadcast": "R/2019-10-05T17:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "106392",
         "begin": "2019-10-05T17:00:00.000Z",
         "broadcast": "R/2019-10-05T17:00:00.000Z/P7D"
       },
@@ -1338,12 +1320,6 @@
         "site": "acfun",
         "id": "6000220",
         "begin": "2019-10-06T13:30:00.000Z"
-      },
-      {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UciBjUHxXFhP5IbnLVjloUeD",
-        "begin": "2019-10-23T16:00:00.000Z",
-        "broadcast": "R/2019-10-23T16:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -2569,6 +2545,12 @@
         "id": "22996",
         "begin": "2019-10-09T03:00:00.000Z",
         "broadcast": "R/2019-10-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B07YR6TCKH",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2738,12 +2720,6 @@
         "broadcast": "R/2019-10-04T03:00:00.000Z/P7D"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7Ucgbi0MaI5QMNmVDmXE17rGg",
-        "begin": "2020-02-13T16:00:00.000Z",
-        "broadcast": "R/2020-02-13T16:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0043341",
         "begin": "2019-10-04T03:00:00.000Z",
@@ -2766,12 +2742,6 @@
         "id": "22981",
         "begin": "2019-10-04T03:00:00.000Z",
         "broadcast": "R/2019-10-04T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "muse_tw",
-        "id": "PL12UaAf_xzfp912h6a5vC7XcKYlwtWHzS",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
@@ -3015,6 +2985,12 @@
         "id": "B08ZC8HXD6",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtT6F48fkVobWi16nm6bNn3X",
+        "begin": "2025-03-05T07:53:54.000Z",
+        "broadcast": "R/2025-03-05T07:53:54.000Z/P7D"
       }
     ]
   },
