@@ -1096,7 +1096,9 @@
         "Princess Session Orchestra"
       ],
       "zh-Hans": [
-        "公主的管弦乐团"
+        "公主的管弦乐团",
+        "公主协奏管弦乐",
+        "公主专场管弦乐"
       ]
     },
     "type": "tv",
@@ -1365,7 +1367,8 @@
         "天启酒店"
       ],
       "en": [
-        "Apocalypse Hotel"
+        "Apocalypse Hotel",
+        "APOCALYPSE HOTEL"
       ]
     },
     "type": "tv",
@@ -1692,11 +1695,10 @@
         "赛马娘 芦毛灰姑娘",
         "赛马娘 栗帽灰姑娘",
         "赛马娘 Cinderella Gray",
-        "Umamusume: Cinderella Gray"
+        "賽馬娘 灰髮灰姑娘"
       ],
       "zh-Hant": [
-        "賽馬娘：蘆毛灰姑娘",
-        "Umamusume: Cinderella Gray"
+        "賽馬娘：蘆毛灰姑娘"
       ],
       "en": [
         "Umamusume: Cinderella Gray"
@@ -2072,6 +2074,9 @@
       ],
       "zh-Hant": [
         "完美到難以接近的聖女遭到解除婚約後被賣到鄰國"
+      ],
+      "en": [
+        "The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom"
       ]
     },
     "type": "tv",
@@ -2484,11 +2489,11 @@
         "最强的国王，第二次的人生要做什么？",
         "三岁开始做王者",
         "最强王者，第二人生要做什么？",
-        "The Beginning After the End"
+        "终末起点",
+        "最强王者的第二人生"
       ],
       "zh-Hant": [
-        "終末起點",
-        "The Beginning After the End"
+        "終末起點"
       ],
       "en": [
         "The Beginning After the End"
@@ -3094,7 +3099,10 @@
     "title": "日々は過ぎれど飯うまし",
     "titleTranslate": {
       "zh-Hans": [
-        "时光流逝，饭菜依旧美味"
+        "时光流逝，饭菜依旧美味",
+        "PA飯",
+        "歲月流逝飯菜依舊美味",
+        "岁月流逝饭菜依旧美味"
       ],
       "zh-Hant": [
         "歲月流逝飯菜依舊美味"
@@ -3261,7 +3269,11 @@
   },
   {
     "title": "おいでよ魔法少女村(不法占拠)",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "来啊魔法少女村（非法占据）"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://www.atpress.ne.jp/news/429240",
@@ -3506,7 +3518,11 @@
   },
   {
     "title": "やたらやらしい深見くん",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "过分色气的深见君"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://fukamikun.af-original.com/",
@@ -3697,17 +3713,23 @@
     "titleTranslate": {
       "zh-Hans": [
         "莉可莉丝 朋友是时间小偷。",
-        "莉可莉丝 短片"
+        "莉可莉丝 短片",
+        "莉可丽丝：友谊是时间的窃贼",
+        "莉可丽丝 朋友是时间小偷。",
+        "莉可丽丝 短片"
       ],
       "zh-Hant": [
         "Lycoris Recoil 莉可麗絲：友誼是時間的竊賊"
+      ],
+      "en": [
+        "Lycoris Recoil: Friends Are Thieves of Time."
       ]
     },
     "type": "web",
     "lang": "ja",
     "officialSite": "https://lycoris-recoil.com/shortmovie/",
     "begin": "2025-04-15T16:00:00.000Z",
-    "broadcast": "",
+    "broadcast": "R/2025-04-16T12:00:00.000Z/P7D",
     "end": "",
     "comment": "",
     "sites": [
@@ -3776,19 +3798,17 @@
     ]
   },
   {
-    "title": "真･侍伝 YAIBA",
+    "title": "真・侍伝 YAIBA",
     "titleTranslate": {
       "zh-Hans": [
         "真･武士传 剑勇传说",
         "城市风云儿",
-        "九龙珠",
-        "YAIBA: Samurai Legend"
+        "九龙珠"
       ],
       "zh-Hant": [
         "真·武士傳 YAIBA",
         "真・武士傳 YAIBA",
-        "真・武士傳YAIBA",
-        "YAIBA: Samurai Legend"
+        "真・武士傳YAIBA"
       ],
       "en": [
         "YAIBA: Samurai Legend"
@@ -3869,6 +3889,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "竹轮战纪～用我的可爱来侵略地球～"
+      ],
+      "en": [
+        "Chikuwa Wars"
       ]
     },
     "type": "tv",
@@ -3908,17 +3931,13 @@
     ]
   },
   {
-    "title": "凸变英雄X",
-    "titleTranslate": {
-      "en": [
-        "TO BE HERO X"
-      ]
-    },
+    "title": "TO BE HERO X",
+    "titleTranslate": {},
     "type": "web",
     "lang": "ja",
     "officialSite": "https://tbhx.net/",
-    "begin": "2025-04-06T12:30:00.000Z",
-    "broadcast": "R/2025-04-06T12:30:00.000Z/P7D",
+    "begin": "2025-04-06T00:30:00.000Z",
+    "broadcast": "R/2025-04-06T00:30:00.000Z/P7D",
     "end": "",
     "comment": "",
     "sites": [
@@ -4040,6 +4059,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "正能量企鹅"
+      ],
+      "en": [
+        "Koupen-chan"
       ]
     },
     "type": "tv",
@@ -4285,7 +4307,11 @@
   },
   {
     "title": "かいじゅうせかいせいふく",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "en": [
+        "Kaijuu Sekai Seifuku"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://kaijyu-sekai.com/",
@@ -4626,6 +4652,60 @@
       {
         "site": "mikan",
         "id": "3636"
+      }
+    ]
+  },
+  {
+    "title": "ゲゲゲの鬼太郎 私の愛した歴代ゲゲゲ",
+    "titleTranslate": {},
+    "type": "",
+    "lang": "ja",
+    "officialSite": "https://www.toei-anim.co.jp/kitaro/",
+    "begin": "2025-04-06T00:00:00.000Z",
+    "broadcast": "R/2025-04-06T00:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": []
+  },
+  {
+    "title": "白豚貴族ですが前世の記憶が生えたのでひよこな弟育てます",
+    "titleTranslate": {
+      "zh-Hans": [
+        "虽然我是白豚贵族，但因为我有前世的记忆，所以我在养育弱小的弟弟"
+      ],
+      "zh-Hant": [
+        "轉生為白豬貴族的我，運用前世記憶養育雛鳥般的弟弟"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://shirohiyo.com/",
+    "begin": "2025-06-30T16:00:00.000Z",
+    "broadcast": "R/2025-06-30T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "504054"
+      },
+      {
+        "site": "gamer",
+        "id": "143292",
+        "begin": "2025-04-20T11:30:00.000Z",
+        "broadcast": "R/2025-04-20T11:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "143292",
+        "begin": "2025-04-20T11:30:00.000Z",
+        "broadcast": "R/2025-04-20T11:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "564-13",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }
