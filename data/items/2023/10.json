@@ -660,6 +660,12 @@
         "id": "PL12UaAf_xzfrAfnXImGF4TCiF5s0p_FRq",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0CJVRTMQG",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -672,7 +678,8 @@
       ],
       "zh-Hant": [
         "Overtake!",
-        "競速 OVERTAKE!"
+        "競速 OVERTAKE!",
+        "追夢飛馳!"
       ],
       "en": [
         "OVERTAKE!"
@@ -749,6 +756,12 @@
         "id": "26642",
         "begin": "2023-10-01T14:00:00.000Z",
         "broadcast": "R/2023-10-01T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "overtake_143121",
+        "begin": "2025-04-27T06:00:00.000Z",
+        "broadcast": "R/2025-04-27T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -3773,6 +3786,12 @@
         "id": "135648",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "6vbRXb2U8w7R",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4228,6 +4247,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "全力兔子"
+      ],
+      "zh-Hant": [
+        "全力兔"
       ]
     },
     "type": "tv",
@@ -4253,6 +4275,18 @@
         "id": "26660",
         "begin": "2023-10-07T22:00:00.000Z",
         "broadcast": "R/2023-10-07T22:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "135369",
+        "begin": "2025-04-23T14:00:00.000Z",
+        "broadcast": "R/2025-04-23T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "135369",
+        "begin": "2025-04-23T14:00:00.000Z",
+        "broadcast": "R/2025-04-23T14:00:00.000Z/P7D"
       }
     ]
   },

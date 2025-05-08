@@ -466,6 +466,12 @@
         "id": "2nf9RP94zWtE",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GNVHKN72N",
+        "begin": "2025-04-07T13:00:00.000Z",
+        "broadcast": "R/2025-04-07T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -3747,7 +3753,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "小可爱",
-        "Chiikawa"
+        "Chiikawa",
+        "吉伊卡哇"
       ],
       "zh-Hant": [
         "吉伊卡哇",
@@ -3793,6 +3800,12 @@
         "begin": "2023-04-10T15:00:00.000Z",
         "broadcast": "R/2023-04-10T15:00:00.000Z/P7D",
         "comment": "#1-240, #241-:27692"
+      },
+      {
+        "site": "bilibili",
+        "id": "25417818",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
