@@ -424,5 +424,38 @@
         "broadcast": ""
       }
     ]
+  },
+  {
+    "title": "忍たま乱太郎 第29シリーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者乱太郎 第29季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.nhk.or.jp/anime/nintama/",
+    "begin": "2021-03-29T16:00:00.000Z",
+    "broadcast": "R/2021-03-29T16:00:00.000Z/P7D",
+    "end": "2022-01-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "375671"
+      },
+      {
+        "site": "danime",
+        "id": "27797",
+        "begin": "2025-04-24T15:00:00.000Z",
+        "broadcast": "R/2025-04-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0181688",
+        "begin": "2025-04-25T03:00:00.000Z",
+        "broadcast": "R/2025-04-25T03:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

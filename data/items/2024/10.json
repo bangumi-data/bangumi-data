@@ -882,7 +882,8 @@
         "site": "bilibili",
         "id": "23013233",
         "begin": "",
-        "broadcast": ""
+        "broadcast": "",
+        "comment": "中配: 25690070"
       },
       {
         "site": "dmhy",
@@ -4095,6 +4096,12 @@
         "id": "81955440",
         "begin": "2025-01-23T16:00:00.000Z",
         "broadcast": "R/2025-01-23T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchALEhJL7Yjdl1mETa2RwWz",
+        "begin": "2025-05-01T04:00:49.000Z",
+        "broadcast": "R/2025-05-01T04:00:49.000Z/P7D"
       }
     ]
   },
@@ -4772,6 +4779,12 @@
         "id": "SID0166163",
         "begin": "2025-01-03T15:00:00.000Z",
         "broadcast": "R/2025-01-03T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DNJPK6SK",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5354,6 +5367,44 @@
         "id": "SID0157784",
         "begin": "2024-10-04T22:30:00.000Z",
         "broadcast": "R/2024-10-04T22:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "がんばっていきまっしょい",
+    "titleTranslate": {
+      "zh-Hans": [
+        "一起加油吧",
+        "击浪青春"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://sh-anime.shochiku.co.jp/ganbatte-anime/",
+    "begin": "2024-10-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-10-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "485868"
+      },
+      {
+        "site": "mikan",
+        "id": "3573"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ganbatte-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0181802",
+        "begin": "2025-04-15T15:00:00.000Z",
+        "broadcast": "R/2025-04-15T15:00:00.000Z/P7D"
       }
     ]
   }

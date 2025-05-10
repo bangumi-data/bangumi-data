@@ -682,8 +682,12 @@
       "zh-Hans": [
         "名侦探柯南 贝克街的亡灵"
       ],
+      "zh-Hant": [
+        "名偵探柯南：貝克街的亡靈"
+      ],
       "en": [
-        "Detective Conan: The Phantom of Baker Street"
+        "Detective Conan: The Phantom of Baker Street",
+        "Detective Conan the Movie: The Phantom of Baker Street"
       ]
     },
     "type": "movie",
@@ -733,6 +737,12 @@
       {
         "site": "prime",
         "id": "B06Y233HJF",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "70129025",
         "begin": "",
         "broadcast": ""
       }

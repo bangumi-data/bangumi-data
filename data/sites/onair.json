@@ -129,5 +129,9 @@
   "prime": {
     "title": "Prime Video",
     "urlTemplate": "https://www.amazon.co.jp/gp/video/detail/{{id}}"
+  },
+  "youtube": {
+    "title": "YouTube",
+    "urlTemplate": "https://www.youtube.com/playlist?list={{id}}"
   }
 }

@@ -1859,6 +1859,12 @@
       {
         "site": "mikan",
         "id": "1933"
+      },
+      {
+        "site": "danime",
+        "id": "22677",
+        "begin": "2025-04-27T15:00:00.000Z",
+        "broadcast": "R/2025-04-27T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2425,6 +2431,12 @@
         "id": "27897",
         "begin": "2025-04-10T15:00:00.000Z",
         "broadcast": "R/2025-04-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044875",
+        "begin": "2025-05-01T03:00:00.000Z",
+        "broadcast": "R/2025-05-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -3280,6 +3292,12 @@
       "zh-Hans": [
         "名侦探柯南 绀青之拳",
         "名侦探平井 绀青之拳"
+      ],
+      "zh-Hant": [
+        "名偵探柯南：紺青之拳"
+      ],
+      "en": [
+        "Detective Conan the Movie: The Fist of Blue Sapphire"
       ]
     },
     "type": "movie",
@@ -3303,6 +3321,18 @@
         "id": "SID0056973",
         "begin": "2025-04-18T15:00:00.000Z",
         "broadcast": "R/2025-04-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B092L12WGH",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81757604",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
