@@ -628,8 +628,12 @@
       "zh-Hans": [
         "名侦探柯南 通往天国的倒数计时"
       ],
+      "zh-Hant": [
+        "名偵探柯南：往天國的倒數計時"
+      ],
       "en": [
-        "Detective Conan: Countdown to Heaven"
+        "Detective Conan: Countdown to Heaven",
+        "Detective Conan the Movie: Countdown to Heaven"
       ]
     },
     "type": "movie",
@@ -679,6 +683,12 @@
       {
         "site": "prime",
         "id": "B06Y1L6XL6",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "70128058",
         "begin": "",
         "broadcast": ""
       }

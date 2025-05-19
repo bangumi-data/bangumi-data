@@ -3761,6 +3761,12 @@
         "id": "22222",
         "begin": "2020-06-01T01:00:00.000Z",
         "broadcast": "R/2020-06-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B09755BJJ4",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4602,8 +4608,12 @@
         "名侦探柯南 零的执行人",
         "名侦探柯南 零之执行人"
       ],
+      "zh-Hant": [
+        "名偵探柯南：零的執行人"
+      ],
       "en": [
-        "Detective Conan: Zero The Enforcer"
+        "Detective Conan: Zero The Enforcer",
+        "Detective Conan the  Movie: Zero the Enforcer"
       ]
     },
     "type": "movie",
@@ -4650,6 +4660,12 @@
       {
         "site": "prime",
         "id": "B08743NZT9",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81757618",
         "begin": "",
         "broadcast": ""
       }
