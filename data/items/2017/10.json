@@ -2357,6 +2357,13 @@
         "begin": "2022-09-30T15:00:00.000Z",
         "broadcast": "R/2022-09-30T15:00:00.000Z/P7D",
         "comment": "#103-154: 25854, #155-170: 25855"
+      },
+      {
+        "site": "mytv",
+        "id": "blackclovers1_143246",
+        "begin": "2025-06-01T02:00:00.000Z",
+        "broadcast": "R/2025-06-01T02:00:00.000Z/P7D",
+        "comment": "#52-102: blackcloverseason20001_143247"
       }
     ]
   },
@@ -3802,6 +3809,29 @@
       {
         "site": "bangumi_moe",
         "id": "59d0cb78fb34aac154710bb9"
+      }
+    ]
+  },
+  {
+    "title": "アイスくりたろう",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2017-10-11T16:00:00.000Z",
+    "broadcast": "R/2017-10-11T16:00:00.000Z/P7D",
+    "end": "2018-09-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "387141"
+      },
+      {
+        "site": "danime",
+        "id": "27968",
+        "begin": "2025-05-22T15:00:00.000Z",
+        "broadcast": "R/2025-05-22T15:00:00.000Z/P7D"
       }
     ]
   }

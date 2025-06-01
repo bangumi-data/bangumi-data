@@ -261,5 +261,32 @@
         "broadcast": "R/2020-03-27T01:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "レモンエンジェル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "柠檬天使"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-09-30T16:00:00.000Z",
+    "broadcast": "R/1987-09-30T16:00:00.000Z/P7D",
+    "end": "1988-09-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "67771"
+      },
+      {
+        "site": "danime",
+        "id": "27961",
+        "begin": "2025-05-15T15:00:00.000Z",
+        "broadcast": "R/2025-05-15T15:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

@@ -1451,8 +1451,13 @@
       "zh-Hans": [
         "名侦探柯南 漆黑的追迹者"
       ],
+      "zh-Hant": [
+        "名偵探柯南：漆黑的追跡者",
+        "名偵探柯南：漆黒的追跡者"
+      ],
       "en": [
-        "Detective Conan: The Raven Chaser"
+        "Detective Conan: The Raven Chaser",
+        "Detective Conan the Movie: Raven Chaser"
       ]
     },
     "type": "movie",
@@ -1508,6 +1513,12 @@
       {
         "site": "prime",
         "id": "B06Y252JRC",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81757586",
         "begin": "",
         "broadcast": ""
       }

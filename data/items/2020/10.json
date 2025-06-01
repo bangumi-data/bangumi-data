@@ -577,8 +577,8 @@
       {
         "site": "crunchyroll",
         "id": "GQWH0M990",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2022-03-01T06:00:00.000Z",
+        "broadcast": "R/2022-03-01T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -2908,6 +2908,9 @@
       ],
       "zh-Hant": [
         "大貴族"
+      ],
+      "en": [
+        "Noblesse"
       ]
     },
     "type": "tv",
@@ -2945,6 +2948,12 @@
       {
         "site": "mikan",
         "id": "2310"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G64G2VDPR",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
