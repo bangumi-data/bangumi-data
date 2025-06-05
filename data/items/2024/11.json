@@ -146,6 +146,12 @@
         "id": "27423",
         "begin": "2024-11-06T13:00:00.000Z",
         "broadcast": "R/2024-11-06T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "729-1",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -427,6 +433,33 @@
         "id": "yohane-movie",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "PUI PUI モルカー ザ・ムービー MOLMAX",
+    "titleTranslate": {
+      "zh-Hans": [
+        "PUI PUI 天竺鼠车车 MOLMAX"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://molcar-movie.com/",
+    "begin": "2024-11-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-11-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "476683"
+      },
+      {
+        "site": "unext",
+        "id": "SID0193129",
+        "begin": "2025-06-01T03:00:00.000Z",
+        "broadcast": "R/2025-06-01T03:00:00.000Z/P7D"
       }
     ]
   }

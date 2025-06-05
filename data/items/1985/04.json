@@ -226,5 +226,34 @@
         "broadcast": "R/2020-07-10T01:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "六三四の剣",
+    "titleTranslate": {
+      "zh-Hans": [
+        "六三四之剑",
+        "剑击小精灵"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-04-17T16:00:00.000Z",
+    "broadcast": "R/1985-04-17T16:00:00.000Z/P7D",
+    "end": "1986-09-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "23447"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012617",
+        "begin": "2025-05-15T03:00:00.000Z",
+        "broadcast": "R/2025-05-15T03:00:00.000Z/P7D",
+        "comment": "青春編 #50-72: SID0012618"
+      }
+    ]
   }
 ]
