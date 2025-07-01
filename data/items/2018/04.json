@@ -360,6 +360,12 @@
       {
         "site": "mikan",
         "id": "1595"
+      },
+      {
+        "site": "unext",
+        "id": "SID0053912",
+        "begin": "2025-06-17T15:00:00.000Z",
+        "broadcast": "R/2025-06-17T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2060,7 +2066,7 @@
       },
       {
         "site": "prime",
-        "id": "B0B8MNVXVW",
+        "id": "B0DRPPTB1Q",
         "begin": "",
         "broadcast": ""
       }
@@ -2943,12 +2949,6 @@
         "id": "231971"
       },
       {
-        "site": "unext",
-        "id": "SID0034373",
-        "begin": "2018-04-17T03:00:00.000Z",
-        "broadcast": "R/2018-04-17T03:00:00.000Z/P7D"
-      },
-      {
         "site": "bangumi_moe",
         "id": "5ac0aa81395e2a122f10f029"
       }
@@ -3215,12 +3215,6 @@
         "broadcast": "R/2018-04-15T03:00:00.000Z/P7D"
       },
       {
-        "site": "netflix",
-        "id": "81037597",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bangumi_moe",
         "id": "5ac0ad7cbbbd10573223de8e"
       },
@@ -3233,6 +3227,12 @@
         "id": "22485",
         "begin": "2018-11-02T01:00:00.000Z",
         "broadcast": "R/2018-11-02T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81037597",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4638,8 +4638,8 @@
       {
         "site": "bilibili",
         "id": "28368838",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-02-15T06:00:01.000Z",
+        "broadcast": "R/2024-02-15T06:00:01.000Z/P7D"
       },
       {
         "site": "mikan",

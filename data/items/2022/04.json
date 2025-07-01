@@ -572,12 +572,6 @@
         "broadcast": "R/2022-04-01T16:30:00.000Z/P7D"
       },
       {
-        "site": "viu",
-        "id": "431029",
-        "begin": "2022-04-01T16:00:00.000Z",
-        "broadcast": "R/2022-04-01T16:00:00.000Z/P7D"
-      },
-      {
         "site": "nicovideo",
         "id": "virgin-road",
         "begin": "2022-04-06T15:00:00.000Z",
@@ -661,12 +655,6 @@
         "id": "PLxSscENEp7Jhzv3dEqiEWHhlXoQfWAk0w",
         "begin": "2022-04-05T15:00:00.000Z",
         "broadcast": "R/2022-04-05T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "viu",
-        "id": "431397",
-        "begin": "2022-04-04T16:00:00.000Z",
-        "broadcast": "R/2022-04-04T16:00:00.000Z/P7D"
       },
       {
         "site": "ani_one",
@@ -765,12 +753,6 @@
         "id": "PLxSscENEp7Ji_dqdq_OJX1NNW2ER9u6Tt",
         "begin": "2022-04-10T12:00:00.000Z",
         "broadcast": "R/2022-04-10T12:00:00.000Z/P7D"
-      },
-      {
-        "site": "viu",
-        "id": "431920",
-        "begin": "2022-04-09T16:00:00.000Z",
-        "broadcast": "R/2022-04-09T16:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -1045,13 +1027,6 @@
         "id": "310263"
       },
       {
-        "site": "mytv",
-        "id": "ascendanceofabookwormseason30001_136199",
-        "begin": "2022-08-11T16:00:00.000Z",
-        "broadcast": "R/2022-08-11T16:00:00.000Z/P7D",
-        "comment": "粵日雙語"
-      },
-      {
         "site": "nicovideo",
         "id": "booklove-anime",
         "begin": "2022-04-13T05:00:00.000Z",
@@ -1269,12 +1244,6 @@
       {
         "site": "nicovideo",
         "id": "shachikusan",
-        "begin": "2022-04-14T12:00:00.000Z",
-        "broadcast": "R/2022-04-14T12:00:00.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0066852",
         "begin": "2022-04-14T12:00:00.000Z",
         "broadcast": "R/2022-04-14T12:00:00.000Z/P7D"
       },
@@ -1521,12 +1490,6 @@
         "id": "PLxSscENEp7JiNzLbx2do5nOpObPMy6BGu",
         "begin": "2022-04-08T14:00:00.000Z",
         "broadcast": "R/2022-04-08T14:00:00.000Z/P7D"
-      },
-      {
-        "site": "viu",
-        "id": "431943",
-        "begin": "2022-04-07T16:00:00.000Z",
-        "broadcast": "R/2022-04-07T16:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -2356,12 +2319,6 @@
         "id": "355072"
       },
       {
-        "site": "disneyplus",
-        "id": "3yAkVZXo1tzj",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "nicovideo",
         "id": "tomodachi-anime",
         "begin": "2022-04-08T15:00:00.000Z",
@@ -2725,6 +2682,12 @@
         "id": "25451",
         "begin": "2022-04-14T15:00:00.000Z",
         "broadcast": "R/2022-04-14T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B09TGZ4WH8",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2919,6 +2882,12 @@
         "id": "25338",
         "begin": "2022-04-06T14:30:00.000Z",
         "broadcast": "R/2022-04-06T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtRQRL9Rb9kF8dAwX3xaqn-L",
+        "begin": "2025-06-21T12:00:06.000Z",
+        "broadcast": "R/2025-06-21T12:00:06.000Z/P7D"
       }
     ]
   },
@@ -2954,12 +2923,6 @@
         "broadcast": "R/2022-05-13T18:00:01.000Z/P7D"
       },
       {
-        "site": "disneyplus",
-        "id": "2ncOD8DBs2Yg",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0066837",
         "begin": "2022-10-14T03:00:00.000Z",
@@ -2982,6 +2945,12 @@
       {
         "site": "mikan",
         "id": "2697"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jin60x5M_I3-L1X7zxdpGpf",
+        "begin": "2025-06-07T12:00:06.000Z",
+        "broadcast": "R/2025-06-07T12:00:06.000Z/P7D"
       }
     ]
   },
@@ -3311,6 +3280,12 @@
         "id": "25344",
         "begin": "2022-04-23T16:30:00.000Z",
         "broadcast": "R/2022-04-23T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-203",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3728,8 +3703,8 @@
       {
         "site": "bilibili",
         "id": "28412213",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-09-10T02:00:00.000Z",
+        "broadcast": "R/2023-09-10T02:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -3805,8 +3780,8 @@
       {
         "site": "bilibili",
         "id": "25417818",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-03-28T11:14:20.000Z",
+        "broadcast": "R/2025-03-28T11:14:20.000Z/P7D"
       },
       {
         "site": "viu",
@@ -4143,8 +4118,8 @@
       {
         "site": "bilibili",
         "id": "28368316",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-03-18T02:00:00.000Z",
+        "broadcast": "R/2023-03-18T02:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -4250,8 +4225,12 @@
     ]
   },
   {
-    "title": "时空之隙",
-    "titleTranslate": {},
+    "title": "時空の隙",
+    "titleTranslate": {
+      "zh-Hans": [
+        "时空之隙"
+      ]
+    },
     "type": "web",
     "lang": "ja",
     "officialSite": "",
@@ -4269,6 +4248,18 @@
         "id": "27350",
         "begin": "2024-10-01T09:00:00.000Z",
         "broadcast": "R/2024-10-01T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "54-99",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0CLPLTT63",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

@@ -674,12 +674,6 @@
         "begin": "2014-10-04T17:00:00.000Z"
       },
       {
-        "site": "viu",
-        "id": "438873",
-        "begin": "2022-05-01T16:00:00.000Z",
-        "broadcast": "R/2022-05-01T16:00:00.000Z/P7D"
-      },
-      {
         "site": "gamer",
         "id": "67396",
         "begin": "2020-08-05T09:00:00.000Z",
@@ -833,6 +827,12 @@
       {
         "site": "mikan",
         "id": "405"
+      },
+      {
+        "site": "unext",
+        "id": "SID0053911",
+        "begin": "2025-06-17T15:00:00.000Z",
+        "broadcast": "R/2025-06-17T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2149,12 +2149,6 @@
         "broadcast": "R/2017-12-14T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "19-107",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "dmhy",
         "id": "PSYCHO PASS 2"
       },
@@ -2428,12 +2422,6 @@
         "site": "qq",
         "id": "r/rudctspx3dlrtsy",
         "begin": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0003287",
-        "begin": "2022-04-27T03:00:00.000Z",
-        "broadcast": "R/2022-04-27T03:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -3516,6 +3504,33 @@
         "id": "20579",
         "begin": "2016-01-29T01:00:00.000Z",
         "broadcast": "R/2016-01-29T01:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "OVA ふたりエッチ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "夫妻成长日记"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2014-10-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2015-10-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "102797"
+      },
+      {
+        "site": "danime",
+        "id": "28008",
+        "begin": "2025-06-20T15:00:00.000Z",
+        "broadcast": "R/2025-06-20T15:00:00.000Z/P7D"
       }
     ]
   }

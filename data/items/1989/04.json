@@ -194,6 +194,12 @@
         "id": "21750",
         "begin": "2017-09-08T01:00:00.000Z",
         "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "172-31",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -469,6 +475,33 @@
         "id": "23306",
         "begin": "2020-03-06T01:00:00.000Z",
         "broadcast": "R/2020-03-06T01:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "クレオパトラD.C.",
+    "titleTranslate": {
+      "zh-Hans": [
+        "妙龄女大亨"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-04-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-04-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "77940"
+      },
+      {
+        "site": "danime",
+        "id": "28043",
+        "begin": "2025-06-19T15:00:00.000Z",
+        "broadcast": "R/2025-06-19T15:00:00.000Z/P7D"
       }
     ]
   }

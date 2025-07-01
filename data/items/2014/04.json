@@ -327,12 +327,6 @@
         "broadcast": "R/2022-04-27T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "19-196",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "dmhy",
         "id": "合莊"
       },
@@ -447,6 +441,12 @@
       {
         "site": "mikan",
         "id": "305"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015439",
+        "begin": "2025-06-17T15:00:00.000Z",
+        "broadcast": "R/2025-06-17T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -768,6 +768,12 @@
       {
         "site": "prime",
         "id": "B0DRB3PG37",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "3Pp9ZA33jd8c",
         "begin": "",
         "broadcast": ""
       }
@@ -1258,9 +1264,10 @@
       },
       {
         "site": "ani_one",
-        "id": "PLC18xlbCdwtRJd3uNUmTDN4Wx6GxUchpN",
-        "begin": "2022-09-19T16:00:00.000Z",
-        "broadcast": "R/2022-09-19T16:00:00.000Z/P7D"
+        "id": "PLC18xlbCdwtRHQtvBo5_38UBmtmvxHa9r",
+        "begin": "",
+        "broadcast": "",
+        "comment": "台灣國語配音: PLC18xlbCdwtRJd3uNUmTDN4Wx6GxUchpN"
       },
       {
         "site": "netflix",
@@ -2293,12 +2300,6 @@
         "broadcast": "R/2017-05-25T09:30:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "25-10wkyfrkuytx",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0016189",
         "begin": "2014-07-04T06:00:00.000Z",
@@ -2547,12 +2548,6 @@
         "id": "PLuxqoToY7UciEERWYj2dr6LVgNP-L2Bga",
         "begin": "2021-01-19T16:00:00.000Z",
         "broadcast": "R/2021-01-19T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "117-6zrzjibaxzh",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -3489,8 +3484,8 @@
       {
         "site": "bilibili",
         "id": "28367264",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-07-09T02:00:00.000Z",
+        "broadcast": "R/2023-07-09T02:00:00.000Z/P7D"
       }
     ]
   },
