@@ -1131,7 +1131,7 @@
     "officialSite": "https://kusuriyanohitorigoto.jp/season2/",
     "begin": "2025-01-10T14:40:00.000Z",
     "broadcast": "R/2025-01-10T14:40:00.000Z/P7D",
-    "end": "",
+    "end": "2025-07-04T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1411,7 +1411,7 @@
     "officialSite": "https://wataru-anime.net/",
     "begin": "2025-01-12T08:30:00.000Z",
     "broadcast": "R/2025-01-12T08:30:00.000Z/P7D",
-    "end": "",
+    "end": "2025-06-22T08:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4408,6 +4408,45 @@
       {
         "site": "dmhy",
         "id": "從零 3季|三季|3期|三期|S03|S3|3rd"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 美男高校地球防衛部ETERNAL LOVE！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 美男高校地球防卫部ETERNAL LOVE！"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://boueibu.com/",
+    "begin": "2025-01-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-01-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "505378"
+      },
+      {
+        "site": "unext",
+        "id": "SID0204958",
+        "begin": "2025-06-30T15:00:00.000Z",
+        "broadcast": "R/2025-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "boueibu-movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28023",
+        "begin": "2025-06-30T15:00:00.000Z",
+        "broadcast": "R/2025-06-30T15:00:00.000Z/P7D"
       }
     ]
   }

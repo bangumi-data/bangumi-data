@@ -108,6 +108,18 @@
         "id": "26302",
         "begin": "2023-04-08T15:00:00.000Z",
         "broadcast": "R/2023-04-08T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "123790",
+        "begin": "2025-07-02T09:00:00.000Z",
+        "broadcast": "R/2025-07-02T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "123790",
+        "begin": "2025-07-02T09:00:00.000Z",
+        "broadcast": "R/2025-07-02T09:00:00.000Z/P7D"
       }
     ]
   },
@@ -1797,6 +1809,12 @@
       {
         "site": "mikan",
         "id": "2965"
+      },
+      {
+        "site": "danime",
+        "id": "26280",
+        "begin": "2025-06-30T15:00:00.000Z",
+        "broadcast": "R/2025-06-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2806,6 +2824,12 @@
         "id": "119698",
         "begin": "2023-09-22T04:00:00.000Z",
         "broadcast": "R/2023-09-22T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26282",
+        "begin": "2025-06-30T15:00:00.000Z",
+        "broadcast": "R/2025-06-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3797,8 +3821,8 @@
       {
         "site": "gamer",
         "id": "131853",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-06-01T11:00:00.000Z",
+        "broadcast": "R/2024-06-01T11:00:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -4446,6 +4470,13 @@
       {
         "site": "netflix",
         "id": "81757620",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "3On2EbLKUsH1",
+        "url": "https://www.disneyplus.com/movies/detective-conan-black-iron-submarine/3On2EbLKUsH1",
         "begin": "",
         "broadcast": ""
       }

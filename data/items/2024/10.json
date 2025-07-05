@@ -899,7 +899,8 @@
         "site": "muse_tw",
         "id": "PL12UaAf_xzfq5SwaJ7I9QsUglCml7_HDn",
         "begin": "",
-        "broadcast": ""
+        "broadcast": "",
+        "comment": "國語: PL12UaAf_xzfqXi3JvOG1z6QTHBcGKfgDp"
       },
       {
         "site": "prime",
@@ -911,7 +912,8 @@
         "site": "muse_hk",
         "id": "PLuxqoToY7UchYXhbYjj-Iuo0GEIDSAGBZ",
         "begin": "2025-06-01T13:30:06.000Z",
-        "broadcast": "R/2025-06-01T13:30:06.000Z/P7D"
+        "broadcast": "R/2025-06-01T13:30:06.000Z/P7D",
+        "comment": "粵語配音: PLuxqoToY7Ucjhxm54hGpN7tQef5yBb8wQ"
       }
     ]
   },
@@ -5452,6 +5454,33 @@
         "id": "27305",
         "begin": "2024-10-19T03:00:00.000Z",
         "broadcast": "R/2024-10-19T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ふれる。",
+    "titleTranslate": {
+      "zh-Hans": [
+        "触碰。",
+        "心之觸碰。",
+        "触碰你"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://fureru-movie.com/",
+    "begin": "2024-10-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-10-03T17:47:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "469033"
+      },
+      {
+        "site": "mikan",
+        "id": "3574"
       }
     ]
   }
