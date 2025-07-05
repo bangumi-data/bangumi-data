@@ -105,12 +105,6 @@
         "broadcast": "R/2020-04-30T10:05:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "19-143",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0038409",
         "begin": "2018-12-20T03:00:00.000Z",
@@ -1181,6 +1175,12 @@
         "id": "21520",
         "begin": "2017-04-03T03:00:00.000Z",
         "broadcast": "R/2017-04-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B06Y1P8MX4",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2404,12 +2404,6 @@
         "broadcast": "R/2022-11-30T00:00:00.000Z/P7D"
       },
       {
-        "site": "unext",
-        "id": "SID0029252",
-        "begin": "2017-04-11T03:00:00.000Z",
-        "broadcast": "R/2017-04-11T03:00:00.000Z/P7D"
-      },
-      {
         "site": "bangumi_moe",
         "id": "58df782379c3a0541f4b61ab"
       }
@@ -3379,18 +3373,6 @@
       {
         "site": "bangumi",
         "id": "173850"
-      },
-      {
-        "site": "nicovideo",
-        "id": "ginno-guardian",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0029044",
-        "begin": "2017-04-07T03:00:00.000Z",
-        "broadcast": "R/2017-04-07T03:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",

@@ -359,12 +359,6 @@
         "broadcast": "R/2021-12-24T05:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "174-1",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0002280",
         "begin": "2013-04-30T06:00:00.000Z",
@@ -1551,6 +1545,12 @@
         "id": "10805",
         "begin": "2013-04-08T01:00:00.000Z",
         "broadcast": "R/2013-04-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B073G59FK7",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1775,12 +1775,6 @@
       {
         "site": "bangumi",
         "id": "69253"
-      },
-      {
-        "site": "unext",
-        "id": "SID0091483",
-        "begin": "2023-09-02T03:00:00.000Z",
-        "broadcast": "R/2023-09-02T03:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -2256,6 +2250,12 @@
       {
         "site": "netflix",
         "id": "81757603",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B06Y2593G5",
         "begin": "",
         "broadcast": ""
       }

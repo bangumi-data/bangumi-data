@@ -31,14 +31,14 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28339207",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2022-08-13T10:00:00.000Z",
+        "broadcast": "R/2022-08-13T10:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
         "id": "28339206",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2022-08-13T10:00:00.000Z",
+        "broadcast": "R/2022-08-13T10:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -211,6 +211,29 @@
         "id": "20002",
         "begin": "2015-02-06T01:00:00.000Z",
         "broadcast": "R/2015-02-06T01:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 とっとこハム太郎 ハムハムハムージャ! 幻のプリンセス",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-12-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2002-12-13T16:51:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "417387"
+      },
+      {
+        "site": "abema",
+        "id": "2-31",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

@@ -90,5 +90,28 @@
         "broadcast": "R/2023-03-31T01:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "ワンダービートS",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-04-15T16:00:00.000Z",
+    "broadcast": "R/1986-04-15T16:00:00.000Z/P7D",
+    "end": "1986-11-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "102447"
+      },
+      {
+        "site": "danime",
+        "id": "27984",
+        "begin": "2025-05-30T15:00:00.000Z",
+        "broadcast": "R/2025-05-30T15:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

@@ -59,14 +59,14 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28339208",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2022-08-13T10:00:00.000Z",
+        "broadcast": "R/2022-08-13T10:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
         "id": "28339205",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2022-08-13T10:00:00.000Z",
+        "broadcast": "R/2022-08-13T10:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -372,6 +372,33 @@
         "id": "10386",
         "begin": "2012-06-26T15:00:00.000Z",
         "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 とっとこハム太郎 ハムハムランド大冒険",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哈姆太郎：哈姆哈姆乐园大冒险"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-12-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2001-12-14T16:51:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317785"
+      },
+      {
+        "site": "abema",
+        "id": "2-30",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

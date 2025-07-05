@@ -941,6 +941,9 @@
       ],
       "zh-Hant": [
         "青春豬頭少年不會夢到兔女郎學姊"
+      ],
+      "en": [
+        "Rascal Does Not Dream of Bunny Girl Senpai"
       ]
     },
     "type": "tv",
@@ -1011,6 +1014,12 @@
       {
         "site": "abema",
         "id": "26-59",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "5kWXixyKeCpg",
         "begin": "",
         "broadcast": ""
       }
@@ -1234,12 +1243,6 @@
         "id": "SID0037398",
         "begin": "2018-10-08T03:00:00.000Z",
         "broadcast": "R/2018-10-08T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "168-7",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bangumi_moe",
@@ -2421,6 +2424,12 @@
         "id": "22418",
         "begin": "2018-10-12T15:00:00.000Z",
         "broadcast": "R/2018-10-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B07T8MTYJW",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3592,12 +3601,6 @@
         "broadcast": "R/2021-01-07T07:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "216-8",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "gamer_hk",
         "id": "101903",
         "begin": "2021-01-07T07:00:00.000Z",
@@ -3929,7 +3932,7 @@
         "site": "bilibili",
         "id": "28226008",
         "begin": "2020-01-03T16:00:00.000Z",
-        "broadcast": ""
+        "broadcast": "R/2020-01-03T16:00:03.000Z/P7D"
       },
       {
         "site": "qq",

@@ -25,7 +25,8 @@
       {
         "site": "nicovideo",
         "id": "7-taizai02",
-        "begin": "2016-08-28T09:00:00.000Z"
+        "begin": "2016-08-28T09:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "unext",
@@ -109,7 +110,8 @@
       {
         "site": "nicovideo",
         "id": "kizumonogatari",
-        "begin": "2019-07-14T15:00:00.000Z"
+        "begin": "2019-07-14T15:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "gamer",
@@ -284,6 +286,13 @@
         "begin": "2023-10-31T15:00:00.000Z",
         "broadcast": "R/2023-10-31T15:00:00.000Z/P7D",
         "comment": "後編: 24363"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gintama-aizenkouhen1",
+        "begin": "",
+        "broadcast": "",
+        "comment": "後編: gintama-aizenkouhen2"
       }
     ]
   },

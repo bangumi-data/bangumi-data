@@ -6,7 +6,12 @@
         "Takopi's Original Sin"
       ],
       "zh-Hans": [
-        "章鱼哔的原罪"
+        "章鱼哔的原罪",
+        "章鱼噼的原罪",
+        "章鱼P的原罪"
+      ],
+      "zh-Hant": [
+        "章魚嗶的原罪"
       ]
     },
     "type": "web",
@@ -20,6 +25,126 @@
       {
         "site": "bangumi",
         "id": "527620"
+      },
+      {
+        "site": "nicovideo",
+        "id": "takopi_project",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0196501",
+        "begin": "2025-06-27T15:00:00.000Z",
+        "broadcast": "R/2025-06-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-266",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28000",
+        "begin": "2025-06-27T15:00:00.000Z",
+        "broadcast": "R/2025-06-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "82040459",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "5H7vwzNyhkdU",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "142775",
+        "begin": "2025-06-27T15:00:00.000Z",
+        "broadcast": "R/2025-06-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSLcx3UKk74V2JQg59t2bU8",
+        "begin": "2025-06-27T15:00:06.000Z",
+        "broadcast": "R/2025-06-27T15:00:06.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JiXIF_XC3Q8zWzNLgWesqLY",
+        "begin": "2025-06-27T15:00:06.000Z",
+        "broadcast": "R/2025-06-27T15:00:06.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "LUPIN THE IIIRD 銭形と2人のルパン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世 钱形与两个鲁邦"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.lupin-3rd.net/zenigata-twolupins/",
+    "begin": "2025-06-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-06-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "555830"
+      },
+      {
+        "site": "unext",
+        "id": "SID0195537",
+        "begin": "2025-06-19T15:00:00.000Z",
+        "broadcast": "R/2025-06-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27937",
+        "begin": "2025-06-19T15:00:00.000Z",
+        "broadcast": "R/2025-06-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DHBCSJG8",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "新星ギャルバース",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新星Galverse"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.galverse.art/",
+    "begin": "2025-06-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-06-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "557430"
+      },
+      {
+        "site": "danime",
+        "id": "28108",
+        "begin": "2025-06-25T12:30:00.000Z",
+        "broadcast": "R/2025-06-25T12:30:00.000Z/P7D"
       }
     ]
   }
