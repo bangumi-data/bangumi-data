@@ -129,12 +129,6 @@
         "broadcast": "R/2019-02-21T12:30:00.000Z/P7D"
       },
       {
-        "site": "gamer_hk",
-        "id": "93827",
-        "begin": "2019-02-21T12:30:00.000Z",
-        "broadcast": "R/2019-02-21T12:30:00.000Z/P7D"
-      },
-      {
         "site": "bangumi_moe",
         "id": "5b38d01df1a82c8443d7fc91"
       },
@@ -798,6 +792,10 @@
     "titleTranslate": {
       "zh-Hans": [
         "碧蓝之海"
+      ],
+      "zh-Hant": [
+        "GRAND BLUE 碧藍之海",
+        "GRANDBLUE 碧藍之海"
       ]
     },
     "type": "tv",
@@ -841,6 +839,24 @@
         "id": "23031",
         "begin": "2019-10-15T03:00:00.000Z",
         "broadcast": "R/2019-10-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "94184",
+        "begin": "2025-07-10T16:00:00.000Z",
+        "broadcast": "R/2025-07-10T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "94184",
+        "begin": "2025-07-10T16:00:00.000Z",
+        "broadcast": "R/2025-07-10T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tropics",
+        "id": "PLoGVqODys23D5a8DD4Og4wJScWUWfyCUG",
+        "begin": "2025-07-11T12:30:00.000Z",
+        "broadcast": "R/2025-07-11T12:30:00.000Z/P7D"
       }
     ]
   },
@@ -2612,12 +2628,6 @@
         "id": "1706"
       },
       {
-        "site": "gamer_hk",
-        "id": "100090",
-        "begin": "2020-08-28T04:30:00.000Z",
-        "broadcast": "R/2020-08-28T04:30:00.000Z/P7D"
-      },
-      {
         "site": "danime",
         "id": "22270",
         "begin": "2018-10-26T01:00:00.000Z",
@@ -3564,14 +3574,14 @@
         "broadcast": ""
       },
       {
+        "site": "mikan",
+        "id": "1882"
+      },
+      {
         "site": "netflix",
         "id": "81004268",
         "begin": "",
         "broadcast": ""
-      },
-      {
-        "site": "mikan",
-        "id": "1882"
       }
     ]
   },
