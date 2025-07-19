@@ -80,8 +80,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfpdMtHbEJtMTAKVEf922xod",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2020-02-22T12:00:12.000Z",
+        "broadcast": "R/2020-02-22T12:00:12.000Z/P7D"
       }
     ]
   },
@@ -1430,12 +1430,6 @@
         "begin": "2018-01-07T03:00:00.000Z",
         "broadcast": "R/2018-01-07T03:00:00.000Z/P7D",
         "comment": "再放送(リミックス版): 25093"
-      },
-      {
-        "site": "netflix",
-        "id": "80228291",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
@@ -2571,7 +2565,8 @@
         "七大罪 戒律的复活"
       ],
       "zh-Hant": [
-        "七大罪 戒律的復活"
+        "七大罪 戒律的復活",
+        "七大罪S2：戒律的復活"
       ]
     },
     "type": "tv",
@@ -2631,6 +2626,12 @@
         "id": "21931",
         "begin": "2018-01-13T03:00:00.000Z",
         "broadcast": "R/2018-01-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfpy8b8tJRVrl7d6Zdm6ZIVc",
+        "begin": "2025-05-25T13:00:06.000Z",
+        "broadcast": "R/2025-05-25T13:00:06.000Z/P7D"
       }
     ]
   },

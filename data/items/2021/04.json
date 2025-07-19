@@ -218,6 +218,12 @@
         "id": "B091KBX77Y",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "481-6",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -649,12 +655,6 @@
         "broadcast": "R/2021-04-06T15:30:01.000Z/P7D"
       },
       {
-        "site": "disneyplus",
-        "id": "tXb0fqUD71PL",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "abema",
         "id": "420-43",
         "begin": "",
@@ -827,6 +827,12 @@
       {
         "site": "disneyplus",
         "id": "33B0cpTnzp4A",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GW4HM79VM",
         "begin": "",
         "broadcast": ""
       }
@@ -3801,12 +3807,6 @@
         "id": "6065f097eaf504d0216b779f"
       },
       {
-        "site": "unext",
-        "id": "SID0056106",
-        "begin": "2024-06-30T15:00:00.000Z",
-        "broadcast": "R/2024-06-30T15:00:00.000Z/P7D"
-      },
-      {
         "site": "danime",
         "id": "27206",
         "begin": "2024-06-30T15:00:00.000Z",
@@ -4277,7 +4277,8 @@
         "BanG Dream! Episode of Roselia Ⅰ : 约定"
       ],
       "zh-Hant": [
-        "BanG Dream！Episode of Roselia I：約定"
+        "BanG Dream！Episode of Roselia I：約定",
+        "BanG Dream Episode of Roselia I 約定"
       ]
     },
     "type": "movie",
@@ -4324,6 +4325,13 @@
         "id": "27993",
         "begin": "2025-06-05T15:00:00.000Z",
         "broadcast": "R/2025-06-05T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjhXd9e2Y3a0Mlbn_NyaLeQ",
+        "url": "https://www.youtube.com/watch?v=Q83QxUXn8kM",
+        "begin": "2025-07-01T16:00:00.000Z",
+        "broadcast": ""
       }
     ]
   },

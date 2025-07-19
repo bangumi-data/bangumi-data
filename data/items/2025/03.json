@@ -227,5 +227,66 @@
         "broadcast": "R/2025-06-05T15:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "怪獣8号 保科の休日",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪兽8号 保科的假期"
+      ],
+      "zh-Hant": [
+        "怪獸8號 保科特休日",
+        "怪獸8號 保科放大假"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://kaiju-no8.net/",
+    "begin": "2025-03-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-03-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "507122"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "140244",
+        "begin": "2025-07-05T15:00:00.000Z",
+        "broadcast": "R/2025-07-05T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtRBg1e_l8hZxxGPIT9V-jcL",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjBFTyOmpLiobwouSY2fCJM",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "26648621",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28123",
+        "begin": "2025-07-05T14:30:00.000Z",
+        "broadcast": "R/2025-07-05T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0F62XC8CF",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]
