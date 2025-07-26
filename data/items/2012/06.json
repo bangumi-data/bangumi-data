@@ -3,7 +3,8 @@
     "title": "キングダム",
     "titleTranslate": {
       "en": [
-        "KINGDOM"
+        "KINGDOM",
+        "Kingdom Chapter 1"
       ],
       "zh-Hans": [
         "王者天下"
@@ -63,6 +64,12 @@
       {
         "site": "prime",
         "id": "B01JGTL0WC",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "3caNQEt8Sljs",
         "begin": "",
         "broadcast": ""
       }
@@ -279,12 +286,6 @@
       {
         "site": "bangumi",
         "id": "23626"
-      },
-      {
-        "site": "gamer",
-        "id": "45942",
-        "begin": "2021-02-01T03:00:00.000Z",
-        "broadcast": "R/2021-02-01T03:00:00.000Z/P7D"
       },
       {
         "site": "unext",

@@ -446,7 +446,14 @@
     "title": "PUI PUI モルカー ザ・ムービー MOLMAX",
     "titleTranslate": {
       "zh-Hans": [
-        "PUI PUI 天竺鼠车车 MOLMAX"
+        "PUI PUI 天竺鼠车车 MOLMAX",
+        "PUI PUI 天竺鼠车车 电影版 MOLMAX"
+      ],
+      "zh-Hant": [
+        "PUI PUI 天竺鼠車車電影版 MOLMAX"
+      ],
+      "en": [
+        "Pui Pui Molcar the Movie: MOLMAX"
       ]
     },
     "type": "movie",
@@ -472,6 +479,12 @@
         "id": "137511",
         "begin": "2025-07-01T16:00:00.000Z",
         "broadcast": "R/2025-07-01T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "82080270",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }
