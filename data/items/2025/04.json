@@ -2696,6 +2696,12 @@
       {
         "site": "dmhy",
         "id": "紫雲寺"
+      },
+      {
+        "site": "netflix",
+        "id": "82033310",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3534,6 +3540,12 @@
       {
         "site": "dmhy",
         "id": "LAZARUS"
+      },
+      {
+        "site": "netflix",
+        "id": "81986711",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5217,6 +5229,33 @@
         "id": "SID0182646",
         "begin": "2025-06-24T15:00:00.000Z",
         "broadcast": "R/2025-06-24T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 僕とロボコ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 我与机器子"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://boku-to-roboco.com",
+    "begin": "2025-04-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-04-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "441940"
+      },
+      {
+        "site": "unext",
+        "id": "SID0220206",
+        "begin": "2025-08-18T15:00:00.000Z",
+        "broadcast": "R/2025-08-18T15:00:00.000Z/P7D"
       }
     ]
   }

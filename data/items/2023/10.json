@@ -490,7 +490,8 @@
         "site": "viu",
         "id": "2247876",
         "begin": "2023-09-30T16:00:00.000Z",
-        "broadcast": "R/2023-09-30T16:00:00.000Z/P7D"
+        "broadcast": "R/2023-09-30T16:00:00.000Z/P7D",
+        "comment": "粵語版: 2645015"
       },
       {
         "site": "nicovideo",
@@ -1747,6 +1748,10 @@
         "id": "PL12UaAf_xzfrBTYxrhXL6TVvROBkpfQ7K",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3151"
       }
     ]
   },
@@ -2046,6 +2051,12 @@
       {
         "site": "crunchyroll",
         "id": "GKEH2G0W9",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0CJ4FC5C9",
         "begin": "",
         "broadcast": ""
       }
@@ -5062,6 +5073,12 @@
         "id": "128737",
         "begin": "2025-07-01T04:00:00.000Z",
         "broadcast": "R/2025-07-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28158",
+        "begin": "2025-07-31T15:00:00.000Z",
+        "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -5164,6 +5181,9 @@
       "zh-Hans": [
         "北极百货店的接待员",
         "北極百貨的秋乃小姐"
+      ],
+      "zh-Hant": [
+        "北極百貨的秋乃小姐"
       ]
     },
     "type": "movie",
@@ -5181,6 +5201,12 @@
       {
         "site": "mikan",
         "id": "3281"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "132951",
+        "begin": "2025-08-08T04:00:00.000Z",
+        "broadcast": "R/2025-08-08T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -5244,6 +5270,31 @@
         "id": "26648",
         "begin": "2023-10-04T15:00:00.000Z",
         "broadcast": "R/2023-10-04T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "Scavengers Reign",
+    "titleTranslate": {
+      "zh-Hans": [
+        "拾荒者统治"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2023-10-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-11-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "443179"
+      },
+      {
+        "site": "mikan",
+        "id": "3213"
       }
     ]
   }

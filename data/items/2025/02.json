@@ -112,5 +112,32 @@
         "broadcast": "R/2025-06-03T03:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "映画 先輩はおとこのこ あめのち晴れ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 前辈是男孩子 雨过天晴",
+        "电影 前辈是伪娘 雨过天晴",
+        "电影 学姐是男孩 雨过天晴"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://senpaiha-otokonoko.com/",
+    "begin": "2025-02-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-02-13T17:22:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "515392"
+      },
+      {
+        "site": "mikan",
+        "id": "3725"
+      }
+    ]
   }
 ]

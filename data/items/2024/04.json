@@ -751,7 +751,8 @@
         "site": "danime",
         "id": "26940",
         "begin": "2024-04-05T13:00:00.000Z",
-        "broadcast": "R/2024-04-05T13:00:00.000Z/P7D"
+        "broadcast": "R/2024-04-05T13:00:00.000Z/P7D",
+        "comment": "第13～15話（Blu-ray特典映像）: 28221"
       },
       {
         "site": "muse_tw",
@@ -1651,12 +1652,6 @@
         "broadcast": ""
       },
       {
-        "site": "abema",
-        "id": "19-191",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "gamer_hk",
         "id": "133918",
         "begin": "2024-04-04T16:58:00.000Z",
@@ -1970,12 +1965,6 @@
         "broadcast": "R/2024-04-10T12:00:00.000Z/P7D"
       },
       {
-        "site": "danime",
-        "id": "27055",
-        "begin": "2024-04-15T12:30:00.000Z",
-        "broadcast": "R/2024-04-15T12:30:00.000Z/P7D"
-      },
-      {
         "site": "prime",
         "id": "B0CW24ZQ8C",
         "begin": "",
@@ -2214,6 +2203,12 @@
         "id": "6ZnSBxkJUT0x",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GJ0H7QG4E",
+        "begin": "2025-07-09T15:00:00.000Z",
+        "broadcast": "R/2025-07-09T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2786,12 +2781,6 @@
         "broadcast": "R/2024-06-22T10:00:00.000Z/P7D"
       },
       {
-        "site": "danime",
-        "id": "27018",
-        "begin": "2024-04-13T16:30:00.000Z",
-        "broadcast": "R/2024-04-13T16:30:00.000Z/P7D"
-      },
-      {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfoNmXwWBrLEZaJBnSaRC6Y2",
         "begin": "2024-08-21T10:00:02.000Z",
@@ -2802,6 +2791,12 @@
         "id": "B0CV571WNM",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27018",
+        "begin": "2025-08-31T15:00:00.000Z",
+        "broadcast": "R/2025-08-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -4077,12 +4072,6 @@
         "broadcast": "R/2024-04-10T18:25:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "19-193",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "gamer_hk",
         "id": "137811",
         "begin": "2024-04-10T18:25:00.000Z",
@@ -5196,6 +5185,39 @@
         "id": "27007",
         "begin": "2024-04-25T15:00:00.000Z",
         "broadcast": "R/2024-04-25T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "忍たま乱太郎 第32シリーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者乱太郎 第32季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.nhk.or.jp/anime/nintama/",
+    "begin": "2024-03-31T16:00:00.000Z",
+    "broadcast": "R/2024-03-31T16:00:00.000Z/P7D",
+    "end": "2025-01-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "473769"
+      },
+      {
+        "site": "danime",
+        "id": "28165",
+        "begin": "2025-08-26T15:00:00.000Z",
+        "broadcast": "R/2025-08-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0211193",
+        "begin": "2025-08-27T03:00:00.000Z",
+        "broadcast": "R/2025-08-27T03:00:00.000Z/P7D"
       }
     ]
   }

@@ -125,7 +125,12 @@
     "title": "ふしぎ遊戯",
     "titleTranslate": {
       "zh-Hans": [
-        "不可思议的游戏"
+        "不思议游戏",
+        "不可思议的游戏",
+        "魔幻游戏"
+      ],
+      "zh-Hant": [
+        "夢幻遊戲"
       ]
     },
     "type": "tv",
@@ -142,6 +147,18 @@
       {
         "site": "bangumi",
         "id": "4507"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "15961",
+        "begin": "2025-08-07T16:00:00.000Z",
+        "broadcast": "R/2025-08-07T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tropics",
+        "id": "PLoGVqODys23CZVkx9OCarRtb6fVsG9xZV",
+        "begin": "2025-08-08T12:30:06.000Z",
+        "broadcast": "R/2025-08-08T12:30:06.000Z/P7D"
       }
     ]
   },
@@ -178,12 +195,6 @@
         "id": "SID0013089",
         "begin": "2008-10-31T15:00:00.000Z",
         "broadcast": "R/2008-10-31T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "13-98",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "prime",

@@ -1306,7 +1306,8 @@
         "site": "mytv",
         "id": "kaijuno8season2_143596",
         "begin": "2025-07-05T15:00:00.000Z",
-        "broadcast": "R/2025-07-05T15:00:00.000Z/P7D"
+        "broadcast": "R/2025-07-05T15:00:00.000Z/P7D",
+        "comment": "雙語版: kaijuno8season2canjapversion_144191"
       },
       {
         "site": "danime",
@@ -1562,6 +1563,12 @@
         "id": "129434",
         "begin": "2025-07-08T17:30:00.000Z",
         "broadcast": "R/2025-07-08T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FB7LBGVS",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1643,6 +1650,12 @@
       {
         "site": "disneyplus",
         "id": "42LgqWWAlxgK",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0F4L7V6S6",
         "begin": "",
         "broadcast": ""
       }
@@ -3408,7 +3421,8 @@
         "site": "unext",
         "id": "SID0200142",
         "begin": "2025-07-12T13:30:00.000Z",
-        "broadcast": "R/2025-07-12T13:30:00.000Z/P7D"
+        "broadcast": "R/2025-07-12T13:30:00.000Z/P7D",
+        "comment": "アンコール版: SID0200143"
       },
       {
         "site": "abema",
@@ -3871,6 +3885,12 @@
       {
         "site": "mikan",
         "id": "3704"
+      },
+      {
+        "site": "prime",
+        "id": "B0F4MJ88Y8",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4393,8 +4413,8 @@
       {
         "site": "unext",
         "id": "SID0200141",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-07-27T13:00:00.000Z",
+        "broadcast": "R/2025-07-27T13:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -4425,6 +4445,12 @@
         "broadcast": "R/2025-07-24T12:30:00.000Z/P7D"
       },
       {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQZe7c3vIyMvgWjyXZsEK_T",
+        "begin": "2025-07-24T12:30:06.000Z",
+        "broadcast": "R/2025-07-24T12:30:06.000Z/P7D"
+      },
+      {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7Jj7H_29_-ZpnYRA0Gx-ESrI",
         "begin": "2025-07-24T12:30:00.000Z",
@@ -4433,6 +4459,18 @@
       {
         "site": "mikan",
         "id": "3712"
+      },
+      {
+        "site": "danime",
+        "id": "28109",
+        "begin": "2025-07-27T13:00:00.000Z",
+        "broadcast": "R/2025-07-27T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0F83VB5P5",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5246,6 +5284,29 @@
         "id": "81318403",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "ネコのクラちゃん ～Ordinary days～",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://nekonokurachan-ordinarydays.jp",
+    "begin": "2025-07-08T16:00:00.000Z",
+    "broadcast": "R/2025-07-08T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "565400"
+      },
+      {
+        "site": "danime",
+        "id": "28168",
+        "begin": "2025-07-23T11:30:00.000Z",
+        "broadcast": "R/2025-07-23T11:30:00.000Z/P7D"
       }
     ]
   }

@@ -1391,12 +1391,6 @@
         "broadcast": "R/2017-10-07T17:30:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "115-7yjdnebupe-",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0031280",
         "begin": "2017-10-10T03:00:00.000Z",
@@ -2459,6 +2453,12 @@
         "id": "21802",
         "begin": "2017-10-05T03:00:00.000Z",
         "broadcast": "R/2017-10-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSQzeoD-ErT9K1ZUczEhRJl",
+        "begin": "2025-08-15T12:00:06.000Z",
+        "broadcast": "R/2025-08-15T12:00:06.000Z/P7D"
       }
     ]
   },
@@ -3075,6 +3075,12 @@
         "id": "19-112",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "22492",
+        "begin": "2025-08-08T15:00:00.000Z",
+        "broadcast": "R/2025-08-08T15:00:00.000Z/P7D"
       }
     ]
   },
