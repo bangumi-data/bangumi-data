@@ -1145,6 +1145,12 @@
         "id": "25108",
         "begin": "2021-10-12T16:58:00.000Z",
         "broadcast": "R/2021-10-12T16:58:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSJyB5b9kXJbgjl9vHYSH3J",
+        "begin": "2025-08-27T12:00:06.000Z",
+        "broadcast": "R/2025-08-27T12:00:06.000Z/P7D"
       }
     ]
   },
@@ -2410,6 +2416,10 @@
         "id": "25062",
         "begin": "2021-10-04T17:00:00.000Z",
         "broadcast": "R/2021-10-04T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2580"
       }
     ]
   },
@@ -2916,12 +2926,6 @@
         "broadcast": "R/2021-10-06T17:25:00.000Z/P7D"
       },
       {
-        "site": "unext",
-        "id": "SID0078603",
-        "begin": "2023-02-20T03:00:00.000Z",
-        "broadcast": "R/2023-02-20T03:00:00.000Z/P7D"
-      },
-      {
         "site": "dmhy",
         "id": "Muv-Luv Alternative"
       },
@@ -3372,12 +3376,6 @@
         "id": "SID0061711",
         "begin": "2021-10-09T01:00:00.000Z",
         "broadcast": "R/2021-10-09T01:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "168-34",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bangumi_moe",

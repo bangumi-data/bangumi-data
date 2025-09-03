@@ -36,6 +36,12 @@
         "id": "11552",
         "begin": "2014-12-05T01:00:00.000Z",
         "broadcast": "R/2014-12-05T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B074M2583Y",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -235,12 +241,6 @@
         "id": "5297",
         "begin": "2001-07-27T16:00:01.000Z",
         "broadcast": "R/2016-07-22T03:52:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "19-201",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
@@ -707,6 +707,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "怪医黑杰克WEB版"
+      ],
+      "zh-Hant": [
+        "怪醫黑傑克 Flash Anime"
       ]
     },
     "type": "web",
@@ -732,6 +735,18 @@
         "id": "SID0003343",
         "begin": "2015-02-16T15:00:00.000Z",
         "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tropics",
+        "id": "PLoGVqODys23B4T5OljAnOWwXqTfOh5WtJ",
+        "begin": "2025-08-14T13:00:00.000Z",
+        "broadcast": "R/2025-08-14T13:00:00.000Z/P1D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "146610",
+        "begin": "2025-08-14T16:00:00.000Z",
+        "broadcast": "R/2025-08-14T16:00:00.000Z/P7D"
       }
     ]
   },

@@ -198,5 +198,39 @@
         "broadcast": "R/2024-04-06T02:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "SAND LAND",
+    "titleTranslate": {
+      "zh-Hans": [
+        "沙漠大冒险",
+        "SAND LAND沙漠大追踪"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://sandland.jp",
+    "begin": "2023-08-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-08-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "411278"
+      },
+      {
+        "site": "unext",
+        "id": "SID0211419",
+        "begin": "2025-08-09T15:00:00.000Z",
+        "broadcast": "R/2025-08-09T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sandland",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]
