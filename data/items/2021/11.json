@@ -321,5 +321,44 @@
         "id": "2609"
       }
     ]
+  },
+  {
+    "title": "劇場版アルゴナビス 流星のオブリガート",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 ARGONAVIS 流星的obbligato"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://movie.argo-bdp.com/",
+    "begin": "2021-11-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-11-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "337274"
+      },
+      {
+        "site": "unext",
+        "id": "SID0235298",
+        "begin": "2025-10-02T15:00:00.000Z",
+        "broadcast": "R/2025-10-02T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28260",
+        "begin": "2025-10-02T15:00:00.000Z",
+        "broadcast": "R/2025-10-02T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "283-32",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]

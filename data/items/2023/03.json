@@ -416,5 +416,44 @@
         "broadcast": "R/2024-09-07T15:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "劇場版アルゴナビス AXIA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版ARGONAVIS AXIA"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://movie.argo-bdp.com/",
+    "begin": "2023-03-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-03-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "348384"
+      },
+      {
+        "site": "unext",
+        "id": "SID0235299",
+        "begin": "2025-10-02T15:00:00.000Z",
+        "broadcast": "R/2025-10-02T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28261",
+        "begin": "2025-10-02T15:00:00.000Z",
+        "broadcast": "R/2025-10-02T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "283-33",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]

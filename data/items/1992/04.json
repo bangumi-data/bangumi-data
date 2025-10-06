@@ -32,7 +32,11 @@
       ],
       "zh-Hant": [
         "蠟筆小新",
-        "新蠟筆小新 S1"
+        "新蠟筆小新 S1",
+        "蠟筆小新 電視版"
+      ],
+      "en": [
+        "Crayon Shin-chan"
       ]
     },
     "type": "tv",
@@ -102,6 +106,18 @@
       {
         "site": "prime",
         "id": "B0CGZXMWLQ",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "84263",
+        "begin": "2025-07-25T04:00:00.000Z",
+        "broadcast": "R/2025-07-25T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80152850",
         "begin": "",
         "broadcast": ""
       }

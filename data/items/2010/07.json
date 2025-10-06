@@ -1252,7 +1252,14 @@
   },
   {
     "title": "それいけ!アンパンマン ブラックノーズと魔法の歌",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hant": [
+        "麵包超人電影版: 黑諾滋與魔法之歌"
+      ],
+      "en": [
+        "Anpanman: The Blacknose with Magical Song"
+      ]
+    },
     "type": "movie",
     "lang": "ja",
     "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060349.html",
@@ -1270,6 +1277,12 @@
         "id": "SID0018558",
         "begin": "2016-06-01T03:00:00.000Z",
         "broadcast": "R/2016-06-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81719808",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

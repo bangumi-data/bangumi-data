@@ -593,5 +593,32 @@
         "broadcast": "R/2020-12-11T01:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "太陽の法",
+    "titleTranslate": {
+      "zh-Hans": [
+        "太阳之法"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2000-10-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2000-10-27T17:44:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "68748"
+      },
+      {
+        "site": "unext",
+        "id": "SID0227153",
+        "begin": "2025-10-01T03:00:00.000Z",
+        "broadcast": "R/2025-10-01T03:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

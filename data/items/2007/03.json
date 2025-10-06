@@ -168,6 +168,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "秒速5厘米"
+      ],
+      "en": [
+        "5 Centimeters Per Second"
       ]
     },
     "type": "movie",
@@ -186,12 +189,6 @@
         "begin": ""
       },
       {
-        "site": "bilibili",
-        "id": "2688",
-        "begin": "2007-03-03T16:00:00.000Z",
-        "broadcast": "R/2016-04-22T03:30:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0013582",
         "begin": "2015-05-01T05:15:00.000Z",
@@ -206,6 +203,13 @@
       {
         "site": "prime",
         "id": "B00R7X45OU",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "4FOpBfiRytPu",
+        "url": "https://www.disneyplus.com/movies/5-centimeters-per-second/4FOpBfiRytPu",
         "begin": "",
         "broadcast": ""
       }

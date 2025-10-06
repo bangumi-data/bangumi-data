@@ -24,7 +24,14 @@
     "title": "矢野くんの普通の日々",
     "titleTranslate": {
       "zh-Hans": [
-        "矢野同学的普通日常"
+        "矢野同学的普通日常",
+        "矢野同学观察日记"
+      ],
+      "zh-Hant": [
+        "矢野同學的普通日常"
+      ],
+      "en": [
+        "Yano-kun's Ordinary Days"
       ]
     },
     "type": "tv",
@@ -38,6 +45,52 @@
       {
         "site": "bangumi",
         "id": "502408"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yanokun-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "169-150",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28331",
+        "begin": "2025-10-01T03:00:00.000Z",
+        "broadcast": "R/2025-10-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tropics",
+        "id": "PLoGVqODys23DiDuIJ_XKX2bskVbBUKWVx",
+        "begin": "2025-09-30T17:35:06.000Z",
+        "broadcast": "R/2025-09-30T17:35:06.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "142268",
+        "begin": "2025-09-30T17:35:00.000Z",
+        "broadcast": "R/2025-09-30T17:35:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "142268",
+        "begin": "2025-09-30T17:35:00.000Z",
+        "broadcast": "R/2025-09-30T17:35:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0234951",
+        "begin": "2025-10-04T03:00:00.000Z",
+        "broadcast": "R/2025-10-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3735"
       }
     ]
   },
@@ -45,7 +98,11 @@
     "title": "永久のユウグレ",
     "titleTranslate": {
       "zh-Hans": [
-        "永远的黄昏"
+        "永远的黄昏",
+        "永恒余晖"
+      ],
+      "zh-Hant": [
+        "永遠的黃昏"
       ]
     },
     "type": "tv",
@@ -59,6 +116,187 @@
       {
         "site": "bangumi",
         "id": "566600"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "146029",
+        "begin": "2025-09-25T15:56:00.000Z",
+        "broadcast": "R/2025-09-25T15:56:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "towanoyuugure",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0234947",
+        "begin": "2025-09-25T15:56:00.000Z",
+        "broadcast": "R/2025-09-25T15:56:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28321",
+        "begin": "2025-09-25T15:56:00.000Z",
+        "broadcast": "R/2025-09-25T15:56:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FKZRM16Q",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "146029",
+        "begin": "2025-09-25T15:56:00.000Z",
+        "broadcast": "R/2025-09-25T15:56:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "593-13",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tropics",
+        "id": "PLoGVqODys23C_nbLEbdID3xK-aDxIkUMG",
+        "begin": "2025-09-25T15:56:06.000Z",
+        "broadcast": "R/2025-09-25T15:56:06.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3736"
+      }
+    ]
+  },
+  {
+    "title": "チェンソーマン 総集篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "链锯人 总集篇",
+        "电锯人 总集篇"
+      ],
+      "zh-Hant": [
+        "鏈鋸人 總集篇"
+      ],
+      "en": [
+        "Chainsaw Man – The Compilation"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://chainsawman.dog/",
+    "begin": "2025-09-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-09-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "580872"
+      },
+      {
+        "site": "gamer",
+        "id": "147060",
+        "begin": "2025-09-05T12:00:00.000Z",
+        "broadcast": "R/2025-09-05T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "147060",
+        "begin": "2025-09-05T12:00:00.000Z",
+        "broadcast": "R/2025-09-05T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0235257",
+        "begin": "2025-09-11T15:00:00.000Z",
+        "broadcast": "R/2025-09-11T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtRhXcG16dq0stqG3-CCofvV",
+        "begin": "2025-09-05T12:00:26.000Z",
+        "broadcast": "R/2025-09-05T12:00:26.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jhj-pwgeOkGCtQGq7B7p1dv",
+        "begin": "2025-09-05T12:00:06.000Z",
+        "broadcast": "R/2025-09-05T12:00:06.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28218",
+        "begin": "2025-09-11T15:00:00.000Z",
+        "broadcast": "R/2025-09-11T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "キャッツ♥アイ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "猫眼三姐妹"
+      ],
+      "zh-Hant": [
+        "貓眼三姐妹",
+        "Cat’s Eye – 貓眼"
+      ],
+      "en": [
+        "Cat's Eye"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://catseye-anime.com/",
+    "begin": "2025-09-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-01-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "524986"
+      },
+      {
+        "site": "disneyplus",
+        "id": "74iKLCPD4TvJ",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 チェンソーマン レゼ篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 链锯人 蕾塞篇",
+        "剧场版 链锯人 雷赛篇",
+        "剧场版 电锯人 蕾塞篇",
+        "剧场版 电锯人 雷赛篇"
+      ],
+      "zh-Hant": [
+        "劇場版 鏈鋸人 蕾潔篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://chainsawman.dog/movie_reze/",
+    "begin": "2025-09-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-09-18T17:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "470660"
+      },
+      {
+        "site": "mikan",
+        "id": "3799"
       }
     ]
   }

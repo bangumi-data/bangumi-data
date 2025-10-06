@@ -55,6 +55,12 @@
         "id": "SID0103146",
         "begin": "2024-06-01T03:00:00.000Z",
         "broadcast": "R/2024-06-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "2-21",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -368,6 +374,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "蜡笔小新之黑暗珠珠大追击"
+      ],
+      "zh-Hant": [
+        "蠟筆小新：黑暗珠珠大追擊"
       ]
     },
     "type": "movie",
@@ -412,6 +421,12 @@
         "id": "SID0010785",
         "begin": "2024-03-06T03:00:00.000Z",
         "broadcast": "R/2024-03-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "52572",
+        "begin": "2025-08-13T04:00:00.000Z",
+        "broadcast": "R/2025-08-13T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -462,27 +477,8 @@
         "broadcast": ""
       },
       {
-        "site": "unext",
-        "id": "SID0010671",
-        "begin": "2025-04-04T15:00:00.000Z",
-        "broadcast": "R/2025-04-04T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "disneyplus",
-        "id": "2neYUIC4XyUh",
-        "url": "https://www.disneyplus.com/movies/detective-conan-the-time-bombed-skyscraper/2neYUIC4XyUh",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "netflix",
         "id": "70055218",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "abema",
-        "id": "415-8",
         "begin": "",
         "broadcast": ""
       },

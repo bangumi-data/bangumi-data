@@ -91,6 +91,64 @@
         "id": "B0FC2PC12V",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "2r4X7SLXgV4y",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "ChaO",
+    "titleTranslate": {
+      "zh-Hans": [
+        "ChaO，我代表人類跟人魚結婚了"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://chao-movie.com/",
+    "begin": "2025-08-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-08-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "533246"
+      },
+      {
+        "site": "unext",
+        "id": "SID0236339",
+        "begin": "2025-09-26T03:00:00.000Z",
+        "broadcast": "R/2025-09-26T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "Bâan -大人の彊界-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Bâan -大人的彊界-"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2025-08-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-08-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "568136"
+      },
+      {
+        "site": "mikan",
+        "id": "3800"
       }
     ]
   }

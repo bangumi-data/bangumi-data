@@ -509,9 +509,15 @@
       },
       {
         "site": "prime",
-        "id": "B0CM44YG8C",
+        "id": "B0FC5WZNXC",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GR3KVPQER",
+        "begin": "2018-07-07T15:00:00.000Z",
+        "broadcast": "R/2018-07-07T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -907,6 +913,12 @@
       {
         "site": "mikan",
         "id": "1679"
+      },
+      {
+        "site": "danime",
+        "id": "28308",
+        "begin": "2025-09-30T15:00:00.000Z",
+        "broadcast": "R/2025-09-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2869,6 +2881,12 @@
       {
         "site": "bangumi_moe",
         "id": "5b38c4a2b3d4e8ef387d7ebd"
+      },
+      {
+        "site": "danime",
+        "id": "22247",
+        "begin": "2025-10-03T15:00:00.000Z",
+        "broadcast": "R/2025-10-03T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3575,12 +3593,6 @@
       {
         "site": "bangumi",
         "id": "215231"
-      },
-      {
-        "site": "bilibili",
-        "id": "28230640",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "mikan",
