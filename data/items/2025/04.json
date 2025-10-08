@@ -255,7 +255,8 @@
     "title": "機動戦士Gundam GQuuuuuuX",
     "titleTranslate": {
       "zh-Hans": [
-        "机动战士高达 GQuuuuuuX"
+        "机动战士高达 GQuuuuuuX",
+        "机动战士高达：跨时之战"
       ],
       "en": [
         "Mobile Suit Gundam GQuuuuuuX"
@@ -320,6 +321,12 @@
       {
         "site": "dmhy",
         "id": "GQuuu"
+      },
+      {
+        "site": "bilibili",
+        "id": "25581082",
+        "begin": "2025-09-25T02:00:00.000Z",
+        "broadcast": "R/2025-09-25T02:00:00.000Z/P7D"
       }
     ]
   },
@@ -452,7 +459,7 @@
     "officialSite": "https://witchwatch-anime.com/",
     "begin": "2025-04-06T08:00:00.000Z",
     "broadcast": "R/2025-04-06T08:00:00.000Z/P7D",
-    "end": "",
+    "end": "2025-10-05T08:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2227,7 +2234,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "圣女因太过完美不够可爱而被废除婚约并卖到邻国",
-        "完美到難以接近的聖女遭到解除婚約後被賣到鄰國"
+        "完美到難以接近的聖女遭到解除婚約後被賣到鄰國",
+        "完美到难以接近的圣女遭到解除婚约后被卖到邻国"
       ],
       "zh-Hant": [
         "完美到難以接近的聖女遭到解除婚約後被賣到鄰國"
@@ -2301,6 +2309,12 @@
         "id": "kanpekiseijo-anime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "82085670",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2308,7 +2322,8 @@
     "title": "黒執事 -緑の魔女編-",
     "titleTranslate": {
       "zh-Hans": [
-        "黑执事 -绿之魔女篇-"
+        "黑执事 -绿之魔女篇-",
+        "黑执事 绿魔女篇"
       ],
       "zh-Hant": [
         "黑執事 綠之魔女篇"
@@ -2367,6 +2382,12 @@
       {
         "site": "dmhy",
         "id": "黑執事 魔女"
+      },
+      {
+        "site": "bilibili",
+        "id": "25435993",
+        "begin": "2025-09-10T12:00:00.000Z",
+        "broadcast": "R/2025-09-10T12:00:00.000Z/P7D"
       }
     ]
   },
@@ -2436,6 +2457,30 @@
       {
         "site": "dmhy",
         "id": "炎炎 叁"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fireforce-anime03",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0233103",
+        "begin": "2025-09-13T03:00:00.000Z",
+        "broadcast": "R/2025-09-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28229",
+        "begin": "2025-09-13T03:00:00.000Z",
+        "broadcast": "R/2025-09-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FJ6H56VR",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2825,6 +2870,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "MIRU 我们的未来"
+      ],
+      "en": [
+        "MIRU: Paths to My Future"
       ]
     },
     "type": "tv",
@@ -2876,6 +2924,12 @@
       {
         "site": "mikan",
         "id": "3616"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00351576",
+        "begin": "2025-04-02T00:00:00.000Z",
+        "broadcast": "R/2025-04-02T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -5237,6 +5291,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "剧场版 我与机器子"
+      ],
+      "zh-Hant": [
+        "劇場版 我與機器子"
       ]
     },
     "type": "movie",
@@ -5256,6 +5313,49 @@
         "id": "SID0220206",
         "begin": "2025-08-18T15:00:00.000Z",
         "broadcast": "R/2025-08-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "133418",
+        "begin": "2025-09-30T16:00:00.000Z",
+        "broadcast": "R/2025-09-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "133418",
+        "begin": "2025-09-30T16:00:00.000Z",
+        "broadcast": "R/2025-09-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3798"
+      }
+    ]
+  },
+  {
+    "title": "つれづれポピパ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "徒然POPIPA"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.youtube.com/@bang_dream_official",
+    "begin": "2025-04-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-08-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "558831"
+      },
+      {
+        "site": "danime",
+        "id": "28262",
+        "begin": "2025-10-03T15:00:00.000Z",
+        "broadcast": "R/2025-10-03T15:00:00.000Z/P7D"
       }
     ]
   }

@@ -864,6 +864,12 @@
         "id": "11069",
         "begin": "2023-03-31T15:00:00.000Z",
         "broadcast": "R/2023-03-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002657",
+        "begin": "2025-10-03T03:00:00.000Z",
+        "broadcast": "R/2025-10-03T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1208,6 +1214,12 @@
         "id": "364",
         "begin": "2019-10-17T10:00:00.000Z",
         "broadcast": "R/2019-10-17T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfrn5UmWkACnbv5Tb9_mwRS3",
+        "begin": "2025-08-08T13:00:06.000Z",
+        "broadcast": "R/2025-08-08T13:00:06.000Z/P7D"
       }
     ]
   },
@@ -2076,21 +2088,8 @@
         "broadcast": ""
       },
       {
-        "site": "unext",
-        "id": "SID0010680",
-        "begin": "2025-04-18T15:00:00.000Z",
-        "broadcast": "R/2025-04-18T15:00:00.000Z/P7D"
-      },
-      {
         "site": "netflix",
         "id": "81757597",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "disneyplus",
-        "id": "5ElO5rtur6j3",
-        "url": "https://www.disneyplus.com/movies/detective-conan-the-private-eyes-requiem/5ElO5rtur6j3",
         "begin": "",
         "broadcast": ""
       },

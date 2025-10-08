@@ -2106,6 +2106,12 @@
       {
         "site": "mikan",
         "id": "785"
+      },
+      {
+        "site": "danime",
+        "id": "20984",
+        "begin": "2025-09-30T15:00:00.000Z",
+        "broadcast": "R/2025-09-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3055,6 +3061,12 @@
       {
         "site": "mikan",
         "id": "790"
+      },
+      {
+        "site": "danime",
+        "id": "21012",
+        "begin": "2025-09-30T15:00:00.000Z",
+        "broadcast": "R/2025-09-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3324,8 +3336,8 @@
       {
         "site": "crunchyroll",
         "id": "GY190DKQR",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2022-10-05T15:00:00.000Z",
+        "broadcast": "R/2022-10-05T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3336,7 +3348,8 @@
         "弹丸论破3 -The End of 希望之峰学园- 未来篇"
       ],
       "en": [
-        "Danganronpa 3 The End of Kibougamine Gakuen Side Future"
+        "Danganronpa 3 The End of Kibougamine Gakuen Side Future",
+        "Danganronpa 3: The End of Hope's Peak High School Side Future"
       ],
       "zh-Hant": [
         "槍彈辯駁3未來編",
@@ -3423,6 +3436,12 @@
         "id": "PL12UaAf_xzfp-420fmvPp1pl_cKLdWU92",
         "begin": "2019-12-10T12:30:09.000Z",
         "broadcast": "R/2019-12-10T12:30:09.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GR3V5EK46",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3492,7 +3511,8 @@
         "弹丸论破3 -The End of 希望之峰学园- 绝望篇"
       ],
       "en": [
-        "Danganronpa 3 The End of Kibougamine Gakuen Side Despair"
+        "Danganronpa 3 The End of Kibougamine Gakuen Side Despair",
+        "Danganronpa 3: The End of Hope's Peak High School Side Despair"
       ],
       "zh-Hant": [
         "槍彈辯駁3絕望編",
@@ -3579,6 +3599,12 @@
         "id": "PL12UaAf_xzfpvb-URLjeVjuS2d-fjqhsv",
         "begin": "2019-12-10T12:30:09.000Z",
         "broadcast": "R/2019-12-10T12:30:09.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GR3V5EK46",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3926,6 +3952,9 @@
     "titleTranslate": {
       "zh-Hant": [
         "麵包超人電影版：玩具之星的南達與倫妲"
+      ],
+      "zh-Hans": [
+        "Anpanman: Nanda and Runda from Star of Toys"
       ]
     },
     "type": "movie",
@@ -3957,6 +3986,12 @@
         "id": "27771",
         "begin": "2025-04-29T15:00:00.000Z",
         "broadcast": "R/2025-04-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81719826",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

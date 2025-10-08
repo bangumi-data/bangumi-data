@@ -190,7 +190,11 @@
   },
   {
     "title": "アサティール２ 未来の昔ばなし",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "未来童话 第二季"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://www.tv-tokyo.co.jp/anime/asateer2/",
@@ -202,6 +206,12 @@
       {
         "site": "bangumi",
         "id": "487318"
+      },
+      {
+        "site": "bilibili",
+        "id": "27108892",
+        "begin": "2025-08-01T10:00:00.000Z",
+        "broadcast": "R/2025-08-01T10:00:00.000Z/P7D"
       }
     ]
   },
@@ -406,6 +416,12 @@
         "id": "SID0201307",
         "begin": "2025-07-01T03:00:00.000Z",
         "broadcast": "R/2025-07-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28219",
+        "begin": "2025-09-09T03:00:00.000Z",
+        "broadcast": "R/2025-09-09T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -485,6 +501,39 @@
         "id": "82080270",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "銀魂オンシアター2D 金魂篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银魂ON THEATER 2D 金魂篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://anime-gintama.com/on_theater_2d/kintama/",
+    "begin": "2024-11-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-11-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "500060"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gintama-ontheater2d-2",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28341",
+        "begin": "2025-09-30T15:00:00.000Z",
+        "broadcast": "R/2025-09-30T15:00:00.000Z/P7D"
       }
     ]
   }

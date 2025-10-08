@@ -127,6 +127,12 @@
         "id": "22362",
         "begin": "2018-09-14T01:00:00.000Z",
         "broadcast": "R/2018-09-14T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-143",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3671,6 +3677,12 @@
       {
         "site": "bangumi_moe",
         "id": "58df7d2c79c3a0541f4b61eb"
+      },
+      {
+        "site": "danime",
+        "id": "21541",
+        "begin": "2025-10-03T15:00:00.000Z",
+        "broadcast": "R/2025-10-03T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -4038,19 +4050,6 @@
         "broadcast": ""
       },
       {
-        "site": "disneyplus",
-        "id": "34QsRRhd7Rt4",
-        "url": "https://www.disneyplus.com/movies/detective-conan-the-crimson-love-letter/34QsRRhd7Rt4",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0040358",
-        "begin": "2025-04-11T15:00:00.000Z",
-        "broadcast": "R/2025-04-11T15:00:00.000Z/P7D"
-      },
-      {
         "site": "prime",
         "id": "B07QRX7HW3",
         "begin": "",
@@ -4095,6 +4094,12 @@
         "id": "22227",
         "begin": "2018-06-23T01:00:00.000Z",
         "broadcast": "R/2018-06-23T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "88092",
+        "begin": "2025-09-12T04:00:00.000Z",
+        "broadcast": "R/2025-09-12T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -4144,6 +4149,12 @@
         "id": "SID0034759",
         "begin": "2024-10-31T15:00:00.000Z",
         "broadcast": "R/2024-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-119",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4254,7 +4265,11 @@
         "蜡笔小新 袭来!! 宇宙人西利利"
       ],
       "zh-Hant": [
-        "蠟筆小新電影 宇宙人 Pi 力來襲！！"
+        "蠟筆小新電影 宇宙人 Pi 力來襲！！",
+        "蠟筆小新：宇宙人Pi力來襲！"
+      ],
+      "en": [
+        "Crayon Shin-chan the Movie: Invasion!! Alien Shiriri"
       ]
     },
     "type": "movie",
@@ -4285,6 +4300,12 @@
         "id": "SID0099815",
         "begin": "2024-03-06T03:00:00.000Z",
         "broadcast": "R/2024-03-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80242862",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

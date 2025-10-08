@@ -241,8 +241,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfoOn6N5UjTKca5ohihxhGMl",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-10-03T13:00:26.000Z",
+        "broadcast": "R/2024-10-03T13:00:26.000Z/P7D"
       },
       {
         "site": "prime",
@@ -1179,6 +1179,12 @@
         "id": "24292",
         "begin": "2020-10-02T17:00:00.000Z",
         "broadcast": "R/2020-10-02T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "449265",
+        "begin": "2025-09-29T16:00:34.000Z",
+        "broadcast": "R/2025-09-29T16:00:34.000Z/P7D"
       }
     ]
   },
@@ -2308,8 +2314,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfq69XKZkLE1YotYphfxLnUV",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-01-06T13:05:09.000Z",
+        "broadcast": "R/2023-01-06T13:05:09.000Z/P7D"
       }
     ]
   },
@@ -2898,6 +2904,12 @@
         "id": "G64G2VDPR",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfoxwJy4UK6OcncWUBgDDaxc",
+        "begin": "2025-10-02T14:00:06.000Z",
+        "broadcast": "R/2025-10-02T14:00:06.000Z/P7D"
       }
     ]
   },
@@ -3362,8 +3374,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfogY5JjzuAB-KKjZV984ZlO",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2020-04-06T16:30:10.000Z",
+        "broadcast": "R/2020-04-06T16:30:10.000Z/P7D"
       }
     ]
   },
@@ -3615,6 +3627,12 @@
       {
         "site": "bangumi",
         "id": "311978"
+      },
+      {
+        "site": "danime",
+        "id": "24225",
+        "begin": "2025-10-03T15:00:00.000Z",
+        "broadcast": "R/2025-10-03T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -4010,6 +4028,9 @@
       ],
       "zh-Hant": [
         "鬼滅之刃劇場版 無限列車篇"
+      ],
+      "en": [
+        "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train"
       ]
     },
     "type": "movie",
@@ -4068,6 +4089,13 @@
         "id": "SID0205789",
         "begin": "2025-07-02T03:00:00.000Z",
         "broadcast": "R/2025-07-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "3m50edPxeNe5",
+        "url": "https://www.disneyplus.com/movies/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train/3m50edPxeNe5",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

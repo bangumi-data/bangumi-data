@@ -252,16 +252,22 @@
         "id": "363"
       },
       {
-        "site": "abema",
-        "id": "171-1",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "20242",
         "begin": "2020-07-01T01:00:00.000Z",
         "broadcast": "R/2020-07-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "67070",
+        "begin": "2025-09-24T04:00:00.000Z",
+        "broadcast": "R/2025-09-24T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "67070",
+        "begin": "2025-09-24T04:00:00.000Z",
+        "broadcast": "R/2025-09-24T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -3122,6 +3128,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "面包超人：苹果男孩与大家的愿望"
+      ],
+      "zh-Hant": [
+        "麵包超人電影版: 蘋果弟弟與大家的願望"
+      ],
+      "en": [
+        "Anpanman: Apple Boy And Everyone's Hope"
       ]
     },
     "type": "movie",
@@ -3141,6 +3153,12 @@
         "id": "SID0018566",
         "begin": "2015-11-01T03:00:00.000Z",
         "broadcast": "R/2015-11-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81719818",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

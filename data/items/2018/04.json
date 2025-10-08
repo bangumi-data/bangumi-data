@@ -1075,12 +1075,6 @@
         "broadcast": "R/2024-06-03T01:40:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "171-1",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "22107",
         "begin": "2020-07-01T01:00:00.000Z",
@@ -1993,6 +1987,12 @@
         "id": "22082",
         "begin": "2018-04-08T03:00:00.000Z",
         "broadcast": "R/2018-04-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B07BZF6FV6",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2469,6 +2469,9 @@
       ],
       "zh-Hant": [
         "妖怪旅館營業中"
+      ],
+      "en": [
+        "Kakuriyo -Bed & Breakfast for Spirits-"
       ]
     },
     "type": "tv",
@@ -2529,6 +2532,12 @@
         "id": "PL12UaAf_xzfodOZZ2c7SJEFqnHcHjI-ZB",
         "begin": "2023-06-17T10:00:10.000Z",
         "broadcast": "R/2023-06-17T10:00:10.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "5BZBOhidb5sD",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3934,12 +3943,6 @@
         "id": "206700"
       },
       {
-        "site": "bilibili",
-        "id": "78632",
-        "begin": "2018-04-10T02:00:00.000Z",
-        "broadcast": "R/2018-04-28T02:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0034153",
         "begin": "2018-04-10T03:00:00.000Z",
@@ -3987,12 +3990,6 @@
       {
         "site": "bangumi",
         "id": "206700"
-      },
-      {
-        "site": "bilibili",
-        "id": "88872",
-        "begin": "2018-04-10T02:00:00.000Z",
-        "broadcast": "R/2018-04-28T02:00:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -4514,7 +4511,11 @@
         "蜡笔小新 爆盛！功夫男孩 ～拉面大乱～"
       ],
       "zh-Hant": [
-        "蠟筆小新：功夫小子〜拉麵大亂鬥〜"
+        "蠟筆小新：功夫小子〜拉麵大亂鬥〜",
+        "蠟筆小新：功夫小子 拉麵大亂鬥"
+      ],
+      "en": [
+        "Crayon Shin-chan the Movie: Burst Serving! Kung Fu Boys ~Ramen Rebellion~"
       ]
     },
     "type": "movie",
@@ -4556,6 +4557,18 @@
         "id": "PL12UaAf_xzfr3AnAFqWFYv5k0bl5DbbHa",
         "begin": "2025-04-05T14:00:06.000Z",
         "broadcast": "R/2025-04-05T14:00:06.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81414744",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0FR1GRGHR",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4632,25 +4645,6 @@
       {
         "site": "mikan",
         "id": "1816"
-      },
-      {
-        "site": "unext",
-        "id": "SID0046993",
-        "begin": "2025-04-04T15:00:00.000Z",
-        "broadcast": "R/2025-04-04T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "disneyplus",
-        "id": "2mmFhzkoABAA",
-        "url": "https://www.disneyplus.com/movies/detective-conan-zero-the-enforcer/2mmFhzkoABAA",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "abema",
-        "id": "415-8",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "prime",

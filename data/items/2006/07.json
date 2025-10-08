@@ -773,7 +773,14 @@
   },
   {
     "title": "それいけ!アンパンマン いのちの星のドーリィ",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hant": [
+        "麵包超人：生命之星朵莉"
+      ],
+      "en": [
+        "Anpanman: Star-Spirited Dollie"
+      ]
+    },
     "type": "movie",
     "lang": "ja",
     "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060333.html",
@@ -797,6 +804,12 @@
         "id": "27764",
         "begin": "2025-04-29T15:00:00.000Z",
         "broadcast": "R/2025-04-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81719799",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

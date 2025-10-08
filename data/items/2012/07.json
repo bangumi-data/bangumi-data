@@ -1473,12 +1473,6 @@
         "id": "28440"
       },
       {
-        "site": "bilibili",
-        "id": "2923",
-        "begin": "2012-07-20T16:00:00.000Z",
-        "broadcast": "R/2018-05-12T16:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0034158",
         "begin": "2025-08-09T15:00:00.000Z",
@@ -1638,6 +1632,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "面包超人：复活吧！香蕉岛"
+      ],
+      "zh-Hant": [
+        "麵包超人：復活吧香蕉島"
+      ],
+      "en": [
+        "Anpanman: Revive Banana Island!"
       ]
     },
     "type": "movie",
@@ -1663,6 +1663,12 @@
         "id": "27769",
         "begin": "2025-04-29T15:00:00.000Z",
         "broadcast": "R/2025-04-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81719813",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

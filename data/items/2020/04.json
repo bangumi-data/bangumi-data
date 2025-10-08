@@ -114,12 +114,6 @@
         "broadcast": "R/2020-04-11T16:00:03.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "26-66",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "gamer_hk",
         "id": "108265",
         "begin": "2020-04-11T16:00:00.000Z",
@@ -188,12 +182,6 @@
         "id": "109025",
         "begin": "2020-04-02T16:00:00.000Z",
         "broadcast": "R/2020-04-02T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "168-23",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -763,12 +751,6 @@
         "broadcast": "R/2020-04-06T17:30:00.000Z/P7D"
       },
       {
-        "site": "disneyplus",
-        "id": "5m4JmjCRX6kH",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0047140",
         "begin": "2020-04-12T03:00:00.000Z",
@@ -803,6 +785,12 @@
         "id": "23863",
         "begin": "2020-04-07T03:00:00.000Z",
         "broadcast": "R/2020-04-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "fruitsbasketseason20002_144055",
+        "begin": "2025-09-12T16:00:00.000Z",
+        "broadcast": "R/2025-09-12T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -3158,7 +3146,11 @@
   },
   {
     "title": "アサティール 未来の昔ばなし",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "未来童话"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://c.myjcom.jp/jtele/p/J00000005030/index.html",
@@ -3175,6 +3167,12 @@
         "id": "asatir",
         "begin": "2020-04-04T15:00:00.000Z",
         "broadcast": "R/2020-04-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "27108792",
+        "begin": "2025-08-01T10:00:00.000Z",
+        "broadcast": "R/2025-08-01T10:00:00.000Z/P7D"
       }
     ]
   },

@@ -308,6 +308,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "你的名字。"
+      ],
+      "en": [
+        "Your Name."
       ]
     },
     "type": "movie",
@@ -335,6 +338,13 @@
       {
         "site": "prime",
         "id": "B072BKM4FZ",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "4ev2b2lIvNUI",
+        "url": "https://www.disneyplus.com/movies/your-name/4ev2b2lIvNUI",
         "begin": "",
         "broadcast": ""
       }

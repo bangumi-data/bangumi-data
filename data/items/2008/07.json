@@ -1033,7 +1033,11 @@
     "titleTranslate": {
       "zh-Hans": [
         "面包超人：妖精琳琳的秘密",
-        "面包超人：妖精灵灵的秘密"
+        "面包超人：妖精灵灵的秘密",
+        "Anpanman: The Secret of Fairy Rin-Rin"
+      ],
+      "zh-Hant": [
+        "麵包超人：妖精靈靈的秘密"
       ]
     },
     "type": "movie",
@@ -1053,6 +1057,12 @@
         "id": "SID0018554",
         "begin": "2016-05-01T03:00:00.000Z",
         "broadcast": "R/2016-05-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81719804",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }
