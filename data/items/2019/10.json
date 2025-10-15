@@ -4076,13 +4076,16 @@
     "titleTranslate": {
       "zh-Hans": [
         "路西法 结婚游戏"
+      ],
+      "zh-Hant": [
+        "路西法 結婚遊戲"
       ]
     },
     "type": "web",
     "lang": "ja",
     "officialSite": "http://anime.monster-strike.com/",
     "begin": "2019-10-04T16:00:00.000Z",
-    "broadcast": "",
+    "broadcast": "R/2019-10-04T16:00:00.000Z/P7D",
     "end": "2019-11-15T16:00:00.000Z",
     "comment": "",
     "sites": [
@@ -4093,6 +4096,12 @@
       {
         "site": "mikan",
         "id": "2072"
+      },
+      {
+        "site": "youtube",
+        "id": "PL8anBnIT2pG5sNBrcD84RspD996nBiIj4",
+        "begin": "2019-10-04T16:00:00.000Z",
+        "broadcast": "R/2019-10-04T16:00:00.000Z/P7D"
       }
     ]
   },
