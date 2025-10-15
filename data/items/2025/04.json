@@ -3311,9 +3311,10 @@
       },
       {
         "site": "unext",
-        "id": "SID0179212",
+        "id": "SID0237516",
         "begin": "2025-04-09T15:00:00.000Z",
-        "broadcast": "R/2025-04-09T15:00:00.000Z/P7D"
+        "broadcast": "R/2025-04-09T15:00:00.000Z/P7D",
+        "comment": "かくしてない版, かくしてる版: SID0179212"
       },
       {
         "site": "danime",
@@ -5356,6 +5357,33 @@
         "id": "28262",
         "begin": "2025-10-03T15:00:00.000Z",
         "broadcast": "R/2025-10-03T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "すみっコぐらし ここがおちつくんです",
+    "titleTranslate": {
+      "zh-Hans": [
+        "角落小伙伴 这里让人好安心"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://sumikkogurashi-movie.com/tvanime/",
+    "begin": "2025-04-03T16:00:00.000Z",
+    "broadcast": "R/2025-04-03T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "548858"
+      },
+      {
+        "site": "unext",
+        "id": "SID0234949",
+        "begin": "2025-10-10T15:00:00.000Z",
+        "broadcast": "R/2025-10-10T15:00:00.000Z/P7D"
       }
     ]
   }

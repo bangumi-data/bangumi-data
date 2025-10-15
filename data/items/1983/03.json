@@ -120,5 +120,32 @@
         "broadcast": ""
       }
     ]
+  },
+  {
+    "title": "クラッシャージョウ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙先锋"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.sunrise-anime.jp/sunrise-inc/works/detail.php?cid=68",
+    "begin": "1983-03-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1983-03-11T18:12:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "74199"
+      },
+      {
+        "site": "danime",
+        "id": "28359",
+        "begin": "2025-10-09T15:00:00.000Z",
+        "broadcast": "R/2025-10-09T15:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

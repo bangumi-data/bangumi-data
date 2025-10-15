@@ -20,7 +20,14 @@
   },
   {
     "title": "Cannon Busters",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "大炮破坏者"
+      ],
+      "zh-Hant": [
+        "火炮剋星"
+      ]
+    },
     "type": "web",
     "lang": "ja",
     "officialSite": "http://www.cannonbusters.com/",
@@ -36,6 +43,12 @@
         "id": "22020937",
         "begin": "2019-08-29T04:00:00.000Z",
         "broadcast": "R/2019-08-29T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80195357",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

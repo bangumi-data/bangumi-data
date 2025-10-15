@@ -250,5 +250,47 @@
         "broadcast": "R/2016-11-04T01:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "VAMPIRE HUNTER The Animated Series",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恶魔战士",
+        "魔域幽灵",
+        "恶魔猎人",
+        "吸血鬼猎人"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-03-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1998-03-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "38422"
+      },
+      {
+        "site": "danime",
+        "id": "28317",
+        "begin": "2025-10-10T15:00:00.000Z",
+        "broadcast": "R/2025-10-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0237515",
+        "begin": "2025-10-11T03:00:00.000Z",
+        "broadcast": "R/2025-10-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "149-33",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]
