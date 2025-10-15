@@ -2,7 +2,7 @@ name: Update end date for bangumi
 
 on:
   schedule:
-    - cron: '0 4 1 * *'
+    - cron: "0 4 1 * *"
   workflow_dispatch:
 
 jobs:
@@ -31,14 +31,14 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
 
       - name: Run bdh to update end date
         run: npx bangumi-data-helper end
 
       - name: Commit changes
         id: commit-changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: Update end date
           branch: ${{ steps.branch-name.outputs.result }}
