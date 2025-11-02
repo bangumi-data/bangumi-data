@@ -9,6 +9,10 @@
                 "preset": "angular",
                 "releaseRules": [
                     {
+                        "type": "feat",
+                        "release": "patch"
+                    },
+                    {
                         "type": "update",
                         "release": "patch"
                     }
