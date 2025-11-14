@@ -1094,7 +1094,8 @@
         "site": "unext",
         "id": "SID0157072",
         "begin": "2024-10-10T15:00:00.000Z",
-        "broadcast": "R/2024-10-10T15:00:00.000Z/P7D"
+        "broadcast": "R/2024-10-10T15:00:00.000Z/P7D",
+        "comment": "特別編: SID0239997"
       },
       {
         "site": "bangumi_moe",
@@ -1112,7 +1113,8 @@
         "site": "danime",
         "id": "27334",
         "begin": "2024-10-10T15:00:00.000Z",
-        "broadcast": "R/2024-10-10T15:00:00.000Z/P7D"
+        "broadcast": "R/2024-10-10T15:00:00.000Z/P7D",
+        "comment": "第十三話(特別編)　伸ばした手は: 28376"
       },
       {
         "site": "bilibili",
@@ -1130,7 +1132,11 @@
         "百姓貴族 第2期"
       ],
       "zh-Hant": [
-        "百姓貴族 2nd Season"
+        "百姓貴族 2nd Season",
+        "百姓貴族 第二季"
+      ],
+      "en": [
+        "Hyakusho Kizoku-the farmer's days 2nd Season"
       ]
     },
     "type": "tv",
@@ -1180,6 +1186,12 @@
         "id": "28327",
         "begin": "2025-10-03T13:00:00.000Z",
         "broadcast": "R/2025-10-03T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "hyakushokizokuthefarmersdays2ndseason_144419",
+        "begin": "2025-10-24T02:00:00.000Z",
+        "broadcast": "R/2025-10-24T02:00:00.000Z/P7D"
       }
     ]
   },
@@ -2060,12 +2072,6 @@
         "id": "66fb602189c3a6ce864cbcfd"
       },
       {
-        "site": "abema",
-        "id": "26-230",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mikan",
         "id": "3449"
       },
@@ -2385,6 +2391,12 @@
         "id": "B0DH2WQW7W",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0157075",
+        "begin": "2025-10-15T03:00:00.000Z",
+        "broadcast": "R/2025-10-15T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -3782,12 +3794,6 @@
         "broadcast": ""
       },
       {
-        "site": "netflix",
-        "id": "81943491",
-        "begin": "2024-10-14T00:00:00.000Z",
-        "broadcast": "R/2024-10-14T00:00:00.000Z/P7D"
-      },
-      {
         "site": "abema",
         "id": "5-69",
         "begin": "",
@@ -3802,6 +3808,12 @@
       {
         "site": "prime",
         "id": "B0DJL4VYM2",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81943491",
         "begin": "",
         "broadcast": ""
       }
@@ -4319,6 +4331,12 @@
         "id": "7NDQcudIe9lb",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "280696740",
+        "begin": "2025-11-01T04:00:00.000Z",
+        "broadcast": "R/2025-11-01T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -4352,12 +4370,6 @@
       {
         "site": "mikan",
         "id": "3475"
-      },
-      {
-        "site": "abema",
-        "id": "19-172",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "crunchyroll",
@@ -4446,12 +4458,6 @@
       {
         "site": "bangumi_moe",
         "id": "66fb601589c3a6ce864cbcab"
-      },
-      {
-        "site": "abema",
-        "id": "19-175",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
@@ -5361,12 +5367,6 @@
         "id": "SID0158790",
         "begin": "2024-10-24T03:00:00.000Z",
         "broadcast": "R/2024-10-24T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "5-70",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "mikan",

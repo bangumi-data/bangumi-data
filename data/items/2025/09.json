@@ -246,6 +246,10 @@
         "id": "28218",
         "begin": "2025-09-11T15:00:00.000Z",
         "broadcast": "R/2025-09-11T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3805"
       }
     ]
   },
@@ -311,6 +315,33 @@
       {
         "site": "mikan",
         "id": "3799"
+      }
+    ]
+  },
+  {
+    "title": "ポケモンコンシェルジュ 新エピソード",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宝可梦 礼宾部 新剧集"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2025-09-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-09-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "481530"
+      },
+      {
+        "site": "netflix",
+        "id": "81186864",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }
