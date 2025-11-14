@@ -89,5 +89,38 @@
         "broadcast": "R/2025-10-01T03:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "怪盗クイーンの優雅な休暇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪盗皇后的优雅假期"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://miragequeen.jp/",
+    "begin": "2025-05-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-05-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "461307"
+      },
+      {
+        "site": "danime",
+        "id": "28377",
+        "begin": "2025-10-31T15:00:00.000Z",
+        "broadcast": "R/2025-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0240268",
+        "begin": "2025-10-31T15:00:00.000Z",
+        "broadcast": "R/2025-10-31T15:00:00.000Z/P7D"
+      }
+    ]
   }
 ]
