@@ -1833,6 +1833,12 @@
         "id": "PLxSscENEp7JjJXnFpYs7h4bERNq1zV3zZ",
         "begin": "2025-07-05T14:30:06.000Z",
         "broadcast": "R/2025-07-05T14:30:06.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "82082002",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2184,7 +2190,8 @@
         "邂逅雨中貉"
       ],
       "zh-Hant": [
-        "和雨．和你"
+        "和雨．和你",
+        "和雨·和你"
       ],
       "en": [
         "With You and the Rain"
@@ -2267,6 +2274,12 @@
       {
         "site": "disneyplus",
         "id": "6P6BAPoeul4N",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "82081832",
         "begin": "",
         "broadcast": ""
       }
@@ -3398,6 +3411,12 @@
         "id": "B0FC2M1W3G",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "82081873",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3626,6 +3645,12 @@
       {
         "site": "abema",
         "id": "204-18",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0F7R6QTH5",
         "begin": "",
         "broadcast": ""
       }
@@ -4828,6 +4853,9 @@
       "zh-Hans": [
         "地狱老师"
       ],
+      "zh-Hant": [
+        "靈異教師神眉"
+      ],
       "en": [
         "Hell Teacher: Jigoku Sensei Nube"
       ]
@@ -4875,6 +4903,18 @@
       {
         "site": "prime",
         "id": "B0F9LQ1QTD",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "140516",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "82088677",
         "begin": "",
         "broadcast": ""
       }
@@ -5412,6 +5452,31 @@
         "id": "SID0236761",
         "begin": "2025-09-29T18:50:00.000Z",
         "broadcast": "R/2025-09-29T18:50:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "罗小黑战记2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "罗小黑战记2"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://luoxiaohei-movie.com/2nd/",
+    "begin": "2025-07-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-07-17T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "442114"
+      },
+      {
+        "site": "mikan",
+        "id": "3803"
       }
     ]
   }

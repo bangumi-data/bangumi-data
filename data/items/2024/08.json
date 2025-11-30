@@ -137,6 +137,12 @@
         "id": "SID0163694",
         "begin": "2024-12-24T15:00:00.000Z",
         "broadcast": "R/2024-12-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28353",
+        "begin": "2025-10-15T15:00:00.000Z",
+        "broadcast": "R/2025-10-15T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -334,6 +340,41 @@
       {
         "site": "mikan",
         "id": "3507"
+      },
+      {
+        "site": "bilibili",
+        "id": "25369044",
+        "begin": "2025-11-23T02:00:00.000Z",
+        "broadcast": "R/2025-11-23T02:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "KING OF PRISM -Dramatic PRISM.1-",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://kinpri.com/",
+    "begin": "2024-08-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-08-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "486477"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dramatic_prism1",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27989",
+        "begin": "2025-06-01T01:00:00.000Z",
+        "broadcast": "R/2025-06-01T01:00:00.000Z/P7D"
       }
     ]
   }
