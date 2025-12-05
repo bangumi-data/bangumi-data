@@ -9,7 +9,12 @@
     "broadcast": "R/2021-05-06T14:10:00.000Z/P7D",
     "end": "2021-05-27T14:17:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "tmdb",
+        "id": "tv/195778"
+      }
+    ]
   },
   {
     "title": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット- 後編 Paladin; Agateram",
@@ -66,6 +71,10 @@
       {
         "site": "mikan",
         "id": "2590"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/637462"
       }
     ]
   },
@@ -111,6 +120,10 @@
         "id": "25017",
         "begin": "2021-09-01T01:00:00.000Z",
         "broadcast": "R/2021-09-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/782541"
       }
     ]
   },
