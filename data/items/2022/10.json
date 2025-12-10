@@ -445,6 +445,10 @@
         "id": "B086H76WD7",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67075/season/3"
       }
     ]
   },
@@ -2963,6 +2967,10 @@
         "id": "B0C54FTQH7",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/30984/season/2"
       }
     ]
   },
@@ -3374,7 +3382,12 @@
     "broadcast": "R/2022-10-05T10:00:00.000Z/P7D",
     "end": "2023-03-15T10:25:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "tmdb",
+        "id": "tv/197429/season/2"
+      }
+    ]
   },
   {
     "title": "ぷにるんず",
@@ -3631,6 +3644,10 @@
         "id": "PL12UaAf_xzfrdwa7jGvZEfN9yZO_NK_8g",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/117166/season/2"
       }
     ]
   },
@@ -4191,6 +4208,10 @@
         "id": "SID0064011",
         "begin": "2021-12-22T03:00:00.000Z",
         "broadcast": "R/2021-12-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/63525/season/0/episode/5"
       }
     ]
   },
