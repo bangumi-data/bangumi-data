@@ -2,5 +2,9 @@
   "bangumi": {
     "title": "番组计划",
     "urlTemplate": "https://bangumi.tv/subject/{{id}}"
+  },
+  "tmdb": {
+    "title": "The Movie DB",
+    "urlTemplate": "https://www.themoviedb.org/{{id}}"
   }
 }

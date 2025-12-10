@@ -13,6 +13,10 @@
       {
         "site": "bangumi",
         "id": "468115"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/240946"
       }
     ]
   },
@@ -30,7 +34,12 @@
     "broadcast": "R/2023-12-11T14:45:00.000Z/P7D",
     "end": "2023-12-15T14:50:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "tmdb",
+        "id": "tv/290837/season/3"
+      }
+    ]
   },
   {
     "title": "ポケモンコンシェルジュ",
@@ -62,6 +71,10 @@
         "id": "81186864",
         "begin": "2023-12-28T00:00:00.000Z",
         "broadcast": "R/2023-12-28T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/221301"
       }
     ]
   },
@@ -95,6 +108,10 @@
         "id": "27392",
         "begin": "2024-09-30T15:00:00.000Z",
         "broadcast": "R/2024-09-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/207250/season/0/episode/1"
       }
     ]
   },
@@ -148,6 +165,10 @@
         "id": "28226",
         "begin": "2025-09-18T15:00:00.000Z",
         "broadcast": "R/2025-09-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/997086"
       }
     ]
   },
@@ -236,6 +257,10 @@
         "url": "https://www.disneyplus.com/movies/rascal-does-not-dream-of-a-knapsack-kid/7HNquVo5J8Da",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1086591"
       }
     ]
   },
@@ -267,6 +292,10 @@
       {
         "site": "mikan",
         "id": "3351"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1106904"
       }
     ]
   },
@@ -296,6 +325,10 @@
         "id": "81565710",
         "begin": "2024-07-04T16:00:00.000Z",
         "broadcast": "R/2024-07-04T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/913001"
       }
     ]
   },
@@ -383,6 +416,10 @@
         "id": "B0CW8JK63C",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1062807"
       }
     ]
   },
@@ -420,6 +457,10 @@
         "id": "SID0237772",
         "begin": "2025-10-15T03:00:00.000Z",
         "broadcast": "R/2025-10-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1179822"
       }
     ]
   },
