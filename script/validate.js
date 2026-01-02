@@ -84,6 +84,10 @@ const validateSites = readJsonPaths(SITES_DIRECTORY).then((sitePaths) => {
   return errorList;
 });
 
+const ALLOW_DUPLICATE_BANGUMI_ID = [
+  '443831', // Fate/strange Fake
+];
+
 // 验证 Bangumi ID 是唯一的
 const validateUniqueBangumiId = readJsonPaths(
   ITEMS_DIRECTORY,
@@ -98,7 +102,7 @@ const validateUniqueBangumiId = readJsonPaths(
         itemData.sites.find((site) => {
           return site.site === 'bangumi';
         }) || {};
-      if (!id) {
+      if (!id || ALLOW_DUPLICATE_BANGUMI_ID.includes(id)) {
         return;
       }
       const key = `${itemData.lang}_${id}`;
