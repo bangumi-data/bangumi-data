@@ -17,83 +17,87 @@ let itemsData = [];
 let sitesData = {};
 
 readJsonPaths(ITEMS_DIRECTORY, IGNORE_PATH_REGEXP)
-    .then((itemPaths) => {
-        // 根据年份和月份排序json文件
-        itemPaths.sort((prev, next) => {
-            const REGEXP = /(\d{4})(?:\/|\\)(\d{2})/;
-            const [prevYear, prevMonth] = prev.match(REGEXP).slice(1);
-            const [nextYear, nextMonth] = next.match(REGEXP).slice(1);
+  .then((itemPaths) => {
+    // 根据年份和月份排序json文件
+    itemPaths.sort((prev, next) => {
+      const REGEXP = /(\d{4})(?:\/|\\)(\d{2})/;
+      const [prevYear, prevMonth] = prev.match(REGEXP).slice(1);
+      const [nextYear, nextMonth] = next.match(REGEXP).slice(1);
 
-            if (+prevYear === +nextYear) {
-                return +prevMonth - +nextMonth;
-            }
+      if (+prevYear === +nextYear) {
+        return +prevMonth - +nextMonth;
+      }
 
-            return +prevYear - +nextYear;
-        });
-
-        // 同步读取所有json文件
-        itemPaths.forEach((itemPath) => {
-            let dataArray = fs.readJsonSync(itemPath);
-
-            dataArray = dataArray.map((itemData) => {
-                const result = Joi.validate(itemData, itemSchema);
-
-                if (result.error) {
-                    throw result.error;
-                }
-
-                return itemData;
-            });
-
-            itemsData = itemsData.concat(dataArray);
-        });
-
-        return Promise.resolve(itemsData);
-    })
-    .then(() => {
-        return readJsonPaths(SITES_DIRECTORY);
-    })
-    .then((sitePaths) => {
-        // 同步读取所有json文件
-        sitePaths.forEach((itemPath) => {
-            const REGEXP = /(\w+)\.json/i;
-            const type = itemPath.match(REGEXP)[1];
-            const siteData = fs.readJsonSync(itemPath);
-
-            Object.keys(siteData).forEach((key) => {
-                const result = Joi.validate(siteData[key], siteSchema);
-
-                if (result.error) {
-                    throw result.error;
-                }
-
-                // 为每一条站点元数据增加'type'字段
-                siteData[key].type = type;
-            });
-
-            sitesData = { ...sitesData, ...siteData };
-        });
-
-        return Promise.resolve(sitesData);
-    })
-    .then(() => {
-        fs.emptyDir(DIST_PATH, (error) => {
-            if (error) {
-                console.error(error);
-            }
-
-            fs.writeJson(path.resolve(DIST_PATH, DIST_FILE_NAME), {
-                siteMeta: sitesData,
-                items: itemsData
-            }, (err) => {
-                if (err) {
-                    console.error(err);
-                } else {
-                    console.log('done');
-                }
-            });
-        });
-    })
-    .catch((error) => {
-        console.error(error);
+      return +prevYear - +nextYear;
     });
+
+    // 同步读取所有json文件
+    itemPaths.forEach((itemPath) => {
+      let dataArray = fs.readJsonSync(itemPath);
+
+      dataArray = dataArray.map((itemData) => {
+        const result = Joi.validate(itemData, itemSchema);
+
+        if (result.error) {
+          throw result.error;
+        }
+
+        return itemData;
+      });
+
+      itemsData = itemsData.concat(dataArray);
+    });
+
+    return Promise.resolve(itemsData);
+  })
+  .then(() => {
+    return readJsonPaths(SITES_DIRECTORY);
+  })
+  .then((sitePaths) => {
+    // 同步读取所有json文件
+    sitePaths.forEach((itemPath) => {
+      const REGEXP = /(\w+)\.json/i;
+      const type = itemPath.match(REGEXP)[1];
+      const siteData = fs.readJsonSync(itemPath);
+
+      Object.keys(siteData).forEach((key) => {
+        const result = Joi.validate(siteData[key], siteSchema);
+
+        if (result.error) {
+          throw result.error;
+        }
+
+        // 为每一条站点元数据增加'type'字段
+        siteData[key].type = type;
+      });
+
+      sitesData = { ...sitesData, ...siteData };
+    });
+
+    return Promise.resolve(sitesData);
+  })
+  .then(() => {
+    fs.emptyDir(DIST_PATH, (error) => {
+      if (error) {
+        console.error(error);
+      }
+
+      fs.writeJson(
+        path.resolve(DIST_PATH, DIST_FILE_NAME),
+        {
+          siteMeta: sitesData,
+          items: itemsData,
+        },
+        (err) => {
+          if (err) {
+            console.error(err);
+          } else {
+            console.log('done');
+          }
+        }
+      );
+    });
+  })
+  .catch((error) => {
+    console.error(error);
+  });
