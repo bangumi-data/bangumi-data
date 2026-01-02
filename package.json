@@ -12,7 +12,8 @@
     "build": "node script/build.js",
     "lint": "eslint script/ --quiet",
     "validate": "node script/validate.js",
-    "test": "npm run lint && npm run validate"
+    "test": "npm run lint && npm run validate",
+    "prettier": "prettier --write script/**/*.js"
   },
   "repository": {
     "type": "git",
@@ -28,14 +29,18 @@
   "author": "Botao <wxt2005@gmail.com>",
   "license": "CC-BY-4.0",
   "devDependencies": {
+    "@eslint/eslintrc": "^3.3.3",
+    "@eslint/js": "^9.39.2",
     "@semantic-release/git": "^10.0.1",
-    "eslint": "^8.6.0",
-    "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-plugin-import": "^2.25.4",
+    "eslint": "9.39.2",
+    "eslint-plugin-import": "^2.32.0",
     "fs-extra": "^11.2.0",
+    "globals": "^17.0.0",
     "joi": "^13.7.0",
     "klaw": "^4.0.1",
     "lodash": "^4.17.21",
+    "prettier": "^3.7.4",
+    "prettier-plugin-multiline-arrays": "^4.1.3",
     "semantic-release": "^23.0.6"
   }
 }
