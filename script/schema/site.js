@@ -1,7 +1,9 @@
 const Joi = require('joi');
 
 module.exports = Joi.object().keys({
-    title: Joi.string().trim().required(),
-    urlTemplate: Joi.string().regex(/^https?:\/\/.+$/).trim(),
-    regions: Joi.array().items(Joi.string())
+  title: Joi.string().trim().required(),
+  urlTemplate: Joi.string()
+    .regex(/^https?:\/\/.+$/)
+    .trim(),
+  regions: Joi.array().items(Joi.string()),
 });
