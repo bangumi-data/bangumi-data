@@ -1,6 +1,5 @@
 const path = require('path');
 const fs = require('fs-extra');
-const Joi = require('joi');
 const { readJsonPaths } = require('./utils');
 const siteSchema = require('./schema/site');
 const itemSchema = require('./schema/item');
@@ -36,10 +35,10 @@ readJsonPaths(ITEMS_DIRECTORY, IGNORE_PATH_REGEXP)
       let dataArray = fs.readJsonSync(itemPath);
 
       dataArray = dataArray.map((itemData) => {
-        const result = Joi.validate(itemData, itemSchema);
+        const { error } = itemSchema.validate(itemData);
 
-        if (result.error) {
-          throw result.error;
+        if (error) {
+          throw error;
         }
 
         return itemData;
@@ -61,10 +60,10 @@ readJsonPaths(ITEMS_DIRECTORY, IGNORE_PATH_REGEXP)
       const siteData = fs.readJsonSync(itemPath);
 
       Object.keys(siteData).forEach((key) => {
-        const result = Joi.validate(siteData[key], siteSchema);
+        const { error } = siteSchema.validate(siteData[key]);
 
-        if (result.error) {
-          throw result.error;
+        if (error) {
+          throw error;
         }
 
         // 为每一条站点元数据增加'type'字段
