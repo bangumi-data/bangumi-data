@@ -1,6 +1,5 @@
 const path = require('path');
 const fs = require('fs-extra');
-const Joi = require('joi');
 const _ = require('lodash');
 const { readJsonPaths } = require('./utils');
 const siteSchema = require('./schema/site');
@@ -23,15 +22,14 @@ const validateItems = readJsonPaths(ITEMS_DIRECTORY, IGNORE_PATH_REGEXP).then(
       const dataArray = fs.readJsonSync(itemPath);
 
       dataArray.forEach((itemData) => {
-        Joi.validate(itemData, itemSchema, (error) => {
-          if (error) {
-            errorList.push(
-              new Error(
-                `[ITEM] ${path.relative(ITEMS_DIRECTORY, itemPath)} ${itemData.title}: ${error.message}`
-              )
-            );
-          }
-        });
+        const { error } = itemSchema.validate(itemData);
+        if (error) {
+          errorList.push(
+            new Error(
+              `[ITEM] ${path.relative(ITEMS_DIRECTORY, itemPath)} ${itemData.title}: ${error.message}`
+            )
+          );
+        }
 
         // validate end date if exist
         if (itemData.end && itemData.begin) {
@@ -48,9 +46,7 @@ const validateItems = readJsonPaths(ITEMS_DIRECTORY, IGNORE_PATH_REGEXP).then(
 
         if (itemData.sites) {
           // sites in item must be unique
-          const siteNames = itemData.sites.map(({ site }) => {
-            return site;
-          });
+          const siteNames = itemData.sites.map(({ site }) => site);
           if ([...new Set(siteNames)].length !== siteNames.length) {
             errorList.push(
               new Error(
@@ -74,15 +70,14 @@ const validateSites = readJsonPaths(SITES_DIRECTORY).then((sitePaths) => {
     const siteData = fs.readJsonSync(sitePath);
 
     Object.keys(siteData).forEach((key) => {
-      Joi.validate(siteData[key], siteSchema, (error) => {
-        if (error) {
-          errorList.push(
-            new Error(
-              `[SITE] ${path.relative(SITES_DIRECTORY, sitePath)} ${key}: ${error.message}`
-            )
-          );
-        }
-      });
+      const { error } = siteSchema.validate(siteData[key]);
+      if (error) {
+        errorList.push(
+          new Error(
+            `[SITE] ${path.relative(SITES_DIRECTORY, sitePath)} ${key}: ${error.message}`
+          )
+        );
+      }
     });
   });
 
