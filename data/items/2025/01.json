@@ -1634,12 +1634,6 @@
         "id": "3535"
       },
       {
-        "site": "tropics",
-        "id": "PLoGVqODys23CRoKR6r8irXRbbLFNqiOlT",
-        "begin": "2025-01-07T17:35:06.000Z",
-        "broadcast": "R/2025-01-07T17:35:06.000Z/P7D"
-      },
-      {
         "site": "gamer",
         "id": "139915",
         "begin": "2025-01-07T17:35:00.000Z",
@@ -3542,10 +3536,14 @@
     "title": "不遇職【鑑定士】が実は最強だった",
     "titleTranslate": {
       "zh-Hans": [
-        "不幸职业【鉴定士】实则最强"
+        "不幸职业【鉴定士】实则最强",
+        "不幸职业【鉴定士】其实是最强的"
       ],
       "zh-Hant": [
         "不幸職業【鑑定士】其實是最強的"
+      ],
+      "en": [
+        "Even Given the Worthless “Appraiser” Class, I'm Actually the Strongest"
       ]
     },
     "type": "tv",
@@ -3613,6 +3611,12 @@
         "id": "28316",
         "begin": "2025-10-08T15:00:00.000Z",
         "broadcast": "R/2025-10-08T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "82172678",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4372,7 +4376,7 @@
     "officialSite": "https://fate-strange-fake.com/",
     "begin": "2024-12-31T16:00:00.000Z",
     "broadcast": "R/2024-12-31T16:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-12-31T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4394,6 +4398,12 @@
         "id": "133843",
         "begin": "2024-12-31T14:00:00.000Z",
         "broadcast": "R/2024-12-31T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fate-strange-fake",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4601,6 +4611,18 @@
       {
         "site": "mikan",
         "id": "3727"
+      },
+      {
+        "site": "nicovideo",
+        "id": "pjsekai-movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "218-845",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }
