@@ -230,12 +230,6 @@
         "id": "3429"
       },
       {
-        "site": "disneyplus",
-        "id": "43zlOAXbOjkn",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "abema",
         "id": "19-204",
         "begin": "",
@@ -1121,6 +1115,12 @@
         "id": "23053814",
         "begin": "2024-11-12T15:00:00.000Z",
         "broadcast": "R/2024-11-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DJ9LPMZB",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1192,6 +1192,12 @@
         "id": "hyakushokizokuthefarmersdays2ndseason_144419",
         "begin": "2025-10-24T02:00:00.000Z",
         "broadcast": "R/2025-10-24T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FNJXTXCG",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1324,12 +1330,6 @@
       {
         "site": "mikan",
         "id": "3441"
-      },
-      {
-        "site": "disneyplus",
-        "id": "3z6hr4WXG2l7",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bilibili",
@@ -2889,7 +2889,8 @@
         "一兆遊戲"
       ],
       "zh-Hant": [
-        "一兆遊戲"
+        "一兆遊戲",
+        "一兆＄遊戲"
       ],
       "en": [
         "Trillion Game"
@@ -2970,6 +2971,12 @@
       {
         "site": "prime",
         "id": "B0DGWRWMLN",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81944802",
         "begin": "",
         "broadcast": ""
       }
@@ -3781,7 +3788,8 @@
         "site": "viu",
         "id": "2440221",
         "begin": "2024-10-11T16:58:33.000Z",
-        "broadcast": "R/2024-10-11T16:58:33.000Z/P7D"
+        "broadcast": "R/2024-10-11T16:58:33.000Z/P7D",
+        "comment": "粵語版: 2680249"
       },
       {
         "site": "mikan",

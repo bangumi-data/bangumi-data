@@ -3645,6 +3645,9 @@
       ],
       "zh-Hant": [
         "航海王電影：GOLD"
+      ],
+      "en": [
+        "One Piece Film Gold"
       ]
     },
     "type": "movie",
@@ -3693,6 +3696,13 @@
       {
         "site": "prime",
         "id": "B0DYF7JSNY",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "6x4a1Ss2j3oT",
+        "url": "https://www.disneyplus.com/movies/one-piece-film-gold/6x4a1Ss2j3oT",
         "begin": "",
         "broadcast": ""
       }
@@ -3935,9 +3945,15 @@
       },
       {
         "site": "abema",
-        "id": "2-8",
+        "id": "746-20",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26013",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
       }
     ]
   },
