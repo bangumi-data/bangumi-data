@@ -2,7 +2,7 @@ name: Update end date for bangumi
 
 on:
   schedule:
-    - cron: "0 4 1 * *"
+    - cron: '0 4 1 * *'
   workflow_dispatch:
 
 jobs:
@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: Get current time
         id: current-time
-        uses: srfrnk/current-time@master
+        uses: srfrnk/current-time@5a4163ad035ccd9a407ec9e519c3b6ba1b633d1e
         with:
           format: X
 
@@ -20,16 +20,16 @@ jobs:
         id: branch-name
         run: echo "::set-output name=result::$BRANCH_NAME"
         env:
-          BRANCH_NAME: "update-end-${{ steps.current-time.outputs.formattedTime }}"
+          BRANCH_NAME: 'update-end-${{ steps.current-time.outputs.formattedTime }}'
 
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Create a new branch
         run: git checkout -b ${{ steps.branch-name.outputs.result }}
 
       - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
           node-version: 22
 
@@ -38,7 +38,7 @@ jobs:
 
       - name: Commit changes
         id: commit-changes
-        uses: stefanzweifel/git-auto-commit-action@v6
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: Update end date
           branch: ${{ steps.branch-name.outputs.result }}

@@ -8,26 +8,26 @@ const klaw = require('klaw');
  * @return {Promise}
  */
 const readFilePaths = (startPoint, pattern = /.+/gi, ignore) => {
-    const filePaths = [];
+  const filePaths = [];
 
-    return new Promise((resolve, reject) => {
-        klaw(startPoint)
-            .on('data', (item) => {
-                if (ignore && ignore.test(item.path)) {
-                    return;
-                }
+  return new Promise((resolve, reject) => {
+    klaw(startPoint)
+      .on('data', (item) => {
+        if (ignore && ignore.test(item.path)) {
+          return;
+        }
 
-                if (pattern.test(item.path)) {
-                    filePaths.push(item.path);
-                }
-            })
-            .on('error', (error) => {
-                reject(error);
-            })
-            .on('end', () => {
-                resolve(filePaths);
-            });
-    });
+        if (pattern.test(item.path)) {
+          filePaths.push(item.path);
+        }
+      })
+      .on('error', (error) => {
+        reject(error);
+      })
+      .on('end', () => {
+        resolve(filePaths);
+      });
+  });
 };
 
 /**
@@ -37,10 +37,10 @@ const readFilePaths = (startPoint, pattern = /.+/gi, ignore) => {
  * @return {Promise}
  */
 const readJsonPaths = (startPoint, ignore) => {
-    return readFilePaths(startPoint, /\.json$/i, ignore);
+  return readFilePaths(startPoint, /\.json$/i, ignore);
 };
 
 module.exports = {
-    readFilePaths,
-    readJsonPaths
+  readFilePaths,
+  readJsonPaths,
 };
