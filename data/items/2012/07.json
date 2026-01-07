@@ -148,6 +148,12 @@
       {
         "site": "tmdb",
         "id": "tv/45853"
+      },
+      {
+        "site": "abema",
+        "id": "174-36",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -555,6 +561,12 @@
       {
         "site": "tmdb",
         "id": "tv/53356"
+      },
+      {
+        "site": "danime",
+        "id": "22598",
+        "begin": "2025-12-21T15:00:00.000Z",
+        "broadcast": "R/2025-12-21T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -623,12 +635,6 @@
         "id": "SID0013157",
         "begin": "2015-11-19T03:00:00.000Z",
         "broadcast": "R/2015-11-19T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "disneyplus",
-        "id": "4jvaGtNsHEwU",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "gamer_hk",
@@ -719,12 +725,6 @@
         "broadcast": "R/2012-07-14T17:00:00.000Z/P7D"
       },
       {
-        "site": "unext",
-        "id": "SID0002641",
-        "begin": "2018-08-28T03:00:00.000Z",
-        "broadcast": "R/2018-08-28T03:00:00.000Z/P7D"
-      },
-      {
         "site": "dmhy",
         "id": "女子落"
       },
@@ -737,6 +737,12 @@
       {
         "site": "tmdb",
         "id": "tv/79040"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002641",
+        "begin": "2026-01-01T03:00:00.000Z",
+        "broadcast": "R/2026-01-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1394,13 +1400,19 @@
       },
       {
         "site": "abema",
-        "id": "2-8",
+        "id": "746-16",
         "begin": "",
         "broadcast": ""
       },
       {
         "site": "tmdb",
         "id": "movie/150213"
+      },
+      {
+        "site": "danime",
+        "id": "26005",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1453,6 +1465,12 @@
       {
         "site": "tmdb",
         "id": "movie/272087"
+      },
+      {
+        "site": "danime",
+        "id": "26006",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1613,6 +1631,18 @@
       {
         "site": "tmdb",
         "id": "movie/110420"
+      },
+      {
+        "site": "danime",
+        "id": "22307",
+        "begin": "2025-11-21T15:00:00.000Z",
+        "broadcast": "R/2025-11-21T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B07CLCG1WX",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

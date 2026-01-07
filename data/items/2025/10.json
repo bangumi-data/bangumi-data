@@ -251,7 +251,8 @@
         "site": "viu",
         "id": "2689636",
         "begin": "2025-10-12T15:15:59.000Z",
-        "broadcast": "R/2025-10-12T15:15:59.000Z/P7D"
+        "broadcast": "R/2025-10-12T15:15:59.000Z/P7D",
+        "comment": "粵語版: 2873541"
       },
       {
         "site": "prime",
@@ -367,7 +368,7 @@
     "officialSite": "https://ranma-pr.com/",
     "begin": "2025-10-04T15:55:00.000Z",
     "broadcast": "R/2025-10-04T15:55:00.000Z/P7D",
-    "end": "",
+    "end": "2025-12-20T15:55:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -391,23 +392,24 @@
       {
         "site": "tmdb",
         "id": "tv/57706"
-      }
-    ]
-  },
-  {
-    "title": "闇芝居 十五期",
-    "titleTranslate": {},
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "https://www.tv-tokyo.co.jp/anime/yamishibai15/",
-    "begin": "",
-    "broadcast": "",
-    "end": "2025-10-05T18:25:00.000Z",
-    "comment": "",
-    "sites": [
+      },
       {
-        "site": "tmdb",
-        "id": "tv/56559"
+        "site": "unext",
+        "id": "SID0256626",
+        "begin": "2025-12-31T15:00:00.000Z",
+        "broadcast": "R/2025-12-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28617",
+        "begin": "2025-12-31T15:00:00.000Z",
+        "broadcast": "R/2025-12-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0G5P983H8",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -811,6 +813,12 @@
       {
         "site": "tmdb",
         "id": "tv/274810"
+      },
+      {
+        "site": "prime",
+        "id": "B0FR6MSDXP",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -978,6 +986,12 @@
       {
         "site": "tmdb",
         "id": "tv/286404"
+      },
+      {
+        "site": "prime",
+        "id": "B0FSDKJD1C",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1044,6 +1058,12 @@
       {
         "site": "tmdb",
         "id": "tv/282662"
+      },
+      {
+        "site": "prime",
+        "id": "B0FR4XHL4Z",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1235,7 +1255,7 @@
       },
       {
         "site": "prime",
-        "id": "B0FQSQ1BH7",
+        "id": "B0FQSPZCT8",
         "begin": "",
         "broadcast": ""
       },
@@ -1316,6 +1336,12 @@
       {
         "site": "tmdb",
         "id": "tv/289217"
+      },
+      {
+        "site": "prime",
+        "id": "B0DTFG8FG9",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1422,6 +1448,12 @@
       {
         "site": "tmdb",
         "id": "tv/280048"
+      },
+      {
+        "site": "prime",
+        "id": "B0FF5RX13H",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1489,7 +1521,8 @@
         "site": "viu",
         "id": "2686371",
         "begin": "2025-10-04T15:00:25.000Z",
-        "broadcast": "R/2025-10-04T15:00:25.000Z/P7D"
+        "broadcast": "R/2025-10-04T15:00:25.000Z/P7D",
+        "comment": "粵語版: 2873513"
       },
       {
         "site": "gamer",
@@ -1526,6 +1559,12 @@
       {
         "site": "tmdb",
         "id": "tv/120089"
+      },
+      {
+        "site": "bilibili",
+        "id": "27709925",
+        "begin": "2025-12-31T15:59:00.000Z",
+        "broadcast": "R/2025-12-31T15:59:00.000Z/P7D"
       }
     ]
   },
@@ -1620,6 +1659,12 @@
       {
         "site": "tmdb",
         "id": "tv/284442"
+      },
+      {
+        "site": "prime",
+        "id": "B0FLBN577F",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1720,6 +1765,12 @@
       {
         "site": "tmdb",
         "id": "tv/97525"
+      },
+      {
+        "site": "prime",
+        "id": "B0FLVCN6LR",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1861,6 +1912,12 @@
       {
         "site": "tmdb",
         "id": "tv/296287"
+      },
+      {
+        "site": "prime",
+        "id": "B0FSKP9FFP",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1914,6 +1971,12 @@
       {
         "site": "tmdb",
         "id": "tv/299595"
+      },
+      {
+        "site": "prime",
+        "id": "B0FTGP8DTX",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2453,6 +2516,12 @@
       {
         "site": "tmdb",
         "id": "tv/283689"
+      },
+      {
+        "site": "prime",
+        "id": "B0F39N6LW6",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2562,6 +2631,10 @@
       {
         "site": "tmdb",
         "id": "tv/221165"
+      },
+      {
+        "site": "mikan",
+        "id": "3767"
       }
     ]
   },
@@ -2712,6 +2785,12 @@
       {
         "site": "tmdb",
         "id": "tv/300323"
+      },
+      {
+        "site": "prime",
+        "id": "B0FJFKM6NH",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2741,6 +2820,12 @@
       {
         "site": "tmdb",
         "id": "tv/285070"
+      },
+      {
+        "site": "prime",
+        "id": "B0FP12N61H",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2917,6 +3002,18 @@
       {
         "site": "tmdb",
         "id": "tv/259789"
+      },
+      {
+        "site": "unext",
+        "id": "SID0234937",
+        "begin": "2025-11-20T03:00:00.000Z",
+        "broadcast": "R/2025-11-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28391",
+        "begin": "2025-11-20T03:00:00.000Z",
+        "broadcast": "R/2025-11-20T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -3011,6 +3108,12 @@
       {
         "site": "tmdb",
         "id": "tv/261343"
+      },
+      {
+        "site": "prime",
+        "id": "B0FR7N34HR",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3547,6 +3650,12 @@
       {
         "site": "tmdb",
         "id": "tv/278604"
+      },
+      {
+        "site": "prime",
+        "id": "B0FVJZ5QB3",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3677,6 +3786,12 @@
       {
         "site": "tmdb",
         "id": "tv/286236"
+      },
+      {
+        "site": "prime",
+        "id": "B0FST1XLKT",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3836,6 +3951,12 @@
       {
         "site": "tmdb",
         "id": "tv/87478"
+      },
+      {
+        "site": "prime",
+        "id": "B0FS574Y1S",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3905,6 +4026,12 @@
       {
         "site": "tmdb",
         "id": "tv/107255"
+      },
+      {
+        "site": "prime",
+        "id": "B0FRSDZD7X",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3965,6 +4092,12 @@
       {
         "site": "tmdb",
         "id": "tv/286791"
+      },
+      {
+        "site": "prime",
+        "id": "B0FT984KDL",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4018,6 +4151,12 @@
       {
         "site": "tmdb",
         "id": "tv/288577"
+      },
+      {
+        "site": "prime",
+        "id": "B0FJ5XSPS6",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4076,8 +4215,7 @@
         "site": "danime",
         "id": "28294",
         "begin": "2025-10-10T15:00:00.000Z",
-        "broadcast": "R/2025-10-10T15:00:00.000Z/P7D",
-        "comment": "ミニアニメ劇場: 28295"
+        "broadcast": "R/2025-10-10T15:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -4092,6 +4230,12 @@
       {
         "site": "tmdb",
         "id": "tv/283880"
+      },
+      {
+        "site": "prime",
+        "id": "B0FV2YTFBV",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4336,7 +4480,7 @@
     "officialSite": "https://anime-cinderellagray.com/",
     "begin": "2025-10-05T07:30:00.000Z",
     "broadcast": "R/2025-10-05T07:30:00.000Z/P7D",
-    "end": "",
+    "end": "2025-12-21T07:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4387,7 +4531,7 @@
     "officialSite": "http://www.madoka-magica.com/tv/",
     "begin": "2025-10-12T08:00:00.000Z",
     "broadcast": "R/2025-10-12T08:00:00.000Z/P7D",
-    "end": "",
+    "end": "2025-12-21T08:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4408,7 +4552,7 @@
     "officialSite": "https://www.atpress.ne.jp/news/544857",
     "begin": "2025-10-02T18:15:00.000Z",
     "broadcast": "R/2025-10-02T18:15:00.000Z/P7D",
-    "end": "",
+    "end": "2025-12-25T18:15:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4864,6 +5008,12 @@
       {
         "site": "tmdb",
         "id": "tv/299743"
+      },
+      {
+        "site": "prime",
+        "id": "B0FSKSM89W",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4882,7 +5032,7 @@
     "officialSite": "https://chinaentame.com/hujiboku/",
     "begin": "2025-10-01T13:30:00.000Z",
     "broadcast": "R/2025-10-01T13:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-01-07T13:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4916,6 +5066,12 @@
       {
         "site": "tmdb",
         "id": "tv/98123"
+      },
+      {
+        "site": "prime",
+        "id": "B0FTHPT2GV",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4934,7 +5090,7 @@
     "officialSite": "https://chinaentame.com/cinderella_chef/",
     "begin": "2025-10-01T14:00:00.000Z",
     "broadcast": "R/2025-10-01T14:00:00.000Z/P7D",
-    "end": "",
+    "end": "2025-12-17T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4979,7 +5135,7 @@
     "officialSite": "https://5th.chofutsu.com/",
     "begin": "2025-10-02T12:54:00.000Z",
     "broadcast": "R/2025-10-02T12:54:00.000Z/P7D",
-    "end": "",
+    "end": "2025-12-25T12:54:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4996,7 +5152,7 @@
     "officialSite": "https://www.sylvanianfamilies.com/ja-jp/special/tv/",
     "begin": "2025-10-01T16:00:00.000Z",
     "broadcast": "R/2025-10-01T16:00:00.000Z/P7D",
-    "end": "",
+    "end": "2025-12-17T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5105,8 +5261,8 @@
     "lang": "ja",
     "officialSite": "https://kotesashikun.deregula.com/",
     "begin": "2025-10-04T16:00:00.000Z",
-    "broadcast": "",
-    "end": "",
+    "broadcast": "R/2025-10-04T16:00:00.000Z/P7D",
+    "end": "2025-12-20T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5116,6 +5272,30 @@
       {
         "site": "unext",
         "id": "SID0236844",
+        "begin": "2025-10-10T15:00:00.000Z",
+        "broadcast": "R/2025-10-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "643-15",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0FV2YTFBV",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "kotesashikun",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28295",
         "begin": "2025-10-10T15:00:00.000Z",
         "broadcast": "R/2025-10-10T15:00:00.000Z/P7D"
       }
@@ -5138,8 +5318,8 @@
     "lang": "ja",
     "officialSite": "https://disneyplus.disney.co.jp/program/twisted-wonderland-the-animation",
     "begin": "2025-10-28T16:00:00.000Z",
-    "broadcast": "",
-    "end": "",
+    "broadcast": "R/2025-10-28T16:00:00.000Z/P7D",
+    "end": "2025-12-16T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5200,6 +5380,39 @@
       {
         "site": "tmdb",
         "id": "tv/219266"
+      },
+      {
+        "site": "prime",
+        "id": "B0FSYHS231",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "機動戦士ガンダム 鉄血のオルフェンズ ウルズハント -小さな挑戦者の軌跡-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达 铁血的奥尔芬斯 Urdr-Hunt -小小挑战者的轨迹-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.g-tekketsu.com/urdr-hunt/",
+    "begin": "2025-10-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-10-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "464293"
+      },
+      {
+        "site": "nicovideo",
+        "id": "g-tekketsu-urdr-hunt",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

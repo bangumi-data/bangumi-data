@@ -1374,6 +1374,12 @@
       {
         "site": "tmdb",
         "id": "tv/245204/season/2"
+      },
+      {
+        "site": "prime",
+        "id": "B0F12PCJY3",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1640,10 +1646,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "中禅寺老师的灵怪讲义实录 老师会把谜题全都解开的。",
-        "中禅寺老师妖怪讲义录 解谜就交给老师。"
+        "中禅寺老师妖怪讲义录 解谜就交给老师。",
+        "中禅寺老师的灵怪讲义实录 解谜就交给老师"
       ],
       "zh-Hant": [
-        "中禪寺老師妖怪講義錄 解謎就交給老師"
+        "中禪寺老師妖怪講義錄 解謎就交給老師",
+        "中禪寺老師妖怪講義錄：解謎就交給老師"
       ],
       "en": [
         "The Mononoke Lecture Logs of Chuzenji-sensei -He Just Solves All the Mysteries-",
@@ -1737,6 +1745,12 @@
       {
         "site": "tmdb",
         "id": "tv/275623"
+      },
+      {
+        "site": "netflix",
+        "id": "82040423",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2153,6 +2167,12 @@
       {
         "site": "tmdb",
         "id": "tv/260523"
+      },
+      {
+        "site": "netflix",
+        "id": "82040407",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4062,7 +4082,7 @@
     "officialSite": "https://www.toei-anim.co.jp/petitcure/",
     "begin": "2025-04-03T09:30:00.000Z",
     "broadcast": "R/2025-04-03T09:30:00.000Z/P7D",
-    "end": "",
+    "end": "2025-09-25T09:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4072,6 +4092,12 @@
       {
         "site": "tmdb",
         "id": "tv/287971"
+      },
+      {
+        "site": "danime",
+        "id": "28458",
+        "begin": "2025-12-31T15:00:00.000Z",
+        "broadcast": "R/2025-12-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -5707,7 +5733,7 @@
     "officialSite": "https://sumikkogurashi-movie.com/tvanime/",
     "begin": "2025-04-03T16:00:00.000Z",
     "broadcast": "R/2025-04-03T16:00:00.000Z/P7D",
-    "end": "",
+    "end": "2025-12-11T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5723,6 +5749,31 @@
       {
         "site": "tmdb",
         "id": "tv/288052"
+      }
+    ]
+  },
+  {
+    "title": "名探偵コナン 隻眼の残像",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 独眼的残像"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.conan-movie.jp/2025/",
+    "begin": "2025-04-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-04-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "489499"
+      },
+      {
+        "site": "mikan",
+        "id": "3730"
       }
     ]
   }

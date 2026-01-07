@@ -490,12 +490,6 @@
         "id": "19704"
       },
       {
-        "site": "bilibili",
-        "id": "1437",
-        "begin": "2006-07-26T16:00:00.000Z",
-        "broadcast": "R/2013-02-27T20:27:45.000Z/P7D"
-      },
-      {
         "site": "tmdb",
         "id": "tv/34126"
       }
@@ -565,13 +559,19 @@
       },
       {
         "site": "abema",
-        "id": "2-8",
+        "id": "746-9",
         "begin": "",
         "broadcast": ""
       },
       {
         "site": "tmdb",
         "id": "movie/16808"
+      },
+      {
+        "site": "danime",
+        "id": "25998",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -796,6 +796,18 @@
       {
         "site": "tmdb",
         "id": "movie/14069"
+      },
+      {
+        "site": "danime",
+        "id": "22233",
+        "begin": "2025-11-28T15:00:00.000Z",
+        "broadcast": "R/2025-11-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FLNP4BPL",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

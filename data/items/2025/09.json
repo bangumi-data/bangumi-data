@@ -21,6 +21,12 @@
       {
         "site": "tmdb",
         "id": "tv/298889"
+      },
+      {
+        "site": "danime",
+        "id": "28406",
+        "begin": "2025-11-28T15:00:00.000Z",
+        "broadcast": "R/2025-11-28T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -370,6 +376,40 @@
       {
         "site": "tmdb",
         "id": "tv/221301/season/1"
+      }
+    ]
+  },
+  {
+    "title": "ひゃくえむ。",
+    "titleTranslate": {
+      "zh-Hans": [
+        "百米。"
+      ],
+      "zh-Hant": [
+        "極速一百米。",
+        "一百公尺"
+      ],
+      "en": [
+        "100 Meters"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://hyakuemu-anime.com/",
+    "begin": "2025-09-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-09-18T17:47:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "496135"
+      },
+      {
+        "site": "netflix",
+        "id": "81785821",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

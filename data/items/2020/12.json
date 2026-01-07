@@ -263,6 +263,18 @@
       {
         "site": "tmdb",
         "id": "movie/637202"
+      },
+      {
+        "site": "danime",
+        "id": "24664",
+        "begin": "2025-12-01T03:00:00.000Z",
+        "broadcast": "R/2025-12-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-140",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -416,13 +428,19 @@
       },
       {
         "site": "abema",
-        "id": "2-8",
+        "id": "746-24",
         "begin": "",
         "broadcast": ""
       },
       {
         "site": "tmdb",
         "id": "movie/662708"
+      },
+      {
+        "site": "danime",
+        "id": "26017",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -559,6 +577,12 @@
       {
         "site": "tmdb",
         "id": "movie/655437"
+      },
+      {
+        "site": "danime",
+        "id": "28589",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
       }
     ]
   }

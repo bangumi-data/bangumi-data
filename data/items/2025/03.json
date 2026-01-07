@@ -404,6 +404,10 @@
       {
         "site": "tmdb",
         "id": "movie/1322218"
+      },
+      {
+        "site": "mikan",
+        "id": "3726"
       }
     ]
   },
@@ -431,6 +435,74 @@
       {
         "site": "tmdb",
         "id": "movie/1406240"
+      },
+      {
+        "site": "danime",
+        "id": "28500",
+        "begin": "2025-12-19T03:00:00.000Z",
+        "broadcast": "R/2025-12-19T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "怪獣8号 第1期総集編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪兽8号 第一季总集篇",
+        "怪兽八号：侦察任务",
+        "怪獸8號 Mission Recon"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://kaiju-no8.net/",
+    "begin": "2025-03-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-03-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "507115"
+      },
+      {
+        "site": "unext",
+        "id": "SID0200950",
+        "begin": "2025-07-01T03:00:00.000Z",
+        "broadcast": "R/2025-07-01T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "cocoon ～ある夏の少女たちより～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "cocoon ～来自夏日的少女～"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.nhk.jp/g/blog/7glgyq4tp/",
+    "begin": "2025-03-29T16:00:00.000Z",
+    "broadcast": "R/2025-03-29T16:00:00.000Z/P7D",
+    "end": "2025-03-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "443168"
+      },
+      {
+        "site": "unext",
+        "id": "SID0243986",
+        "begin": "2025-12-05T03:00:00.000Z",
+        "broadcast": "R/2025-12-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28483",
+        "begin": "2025-12-04T15:00:00.000Z",
+        "broadcast": "R/2025-12-04T15:00:00.000Z/P7D"
       }
     ]
   }

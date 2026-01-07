@@ -180,7 +180,7 @@
     "officialSite": "https://atashinchi30th-anime.shin-ei-animation.jp/",
     "begin": "2024-06-04T16:00:00.000Z",
     "broadcast": "",
-    "end": "2024-10-04T16:00:00.000Z",
+    "end": "2026-03-19T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -208,6 +208,12 @@
       {
         "site": "tmdb",
         "id": "tv/255083"
+      },
+      {
+        "site": "prime",
+        "id": "B0D57HF2PF",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -373,6 +379,25 @@
       {
         "site": "tmdb",
         "id": "movie/1244492"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lookback-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28459",
+        "begin": "2025-12-24T15:00:00.000Z",
+        "broadcast": "R/2025-12-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "3YCaJzoF5Izp",
+        "url": "https://www.disneyplus.com/movies/look-back/3YCaJzoF5Izp",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

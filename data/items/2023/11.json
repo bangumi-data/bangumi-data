@@ -32,12 +32,6 @@
         "broadcast": "R/2023-11-04T16:00:00.000Z/P7D"
       },
       {
-        "site": "viu",
-        "id": "2259122",
-        "begin": "2023-11-04T16:00:00.000Z",
-        "broadcast": "R/2023-11-04T16:00:00.000Z/P7D"
-      },
-      {
         "site": "gamer",
         "id": "136226",
         "begin": "2023-11-04T18:25:00.000Z",
@@ -75,7 +69,8 @@
         "site": "muse_tw",
         "id": "PL12UaAf_xzfpr7SoZ60tGNPpJvFxWs7I2",
         "begin": "2025-11-05T14:00:07.000Z",
-        "broadcast": "R/2025-11-05T14:00:07.000Z/P7D"
+        "broadcast": "R/2025-11-05T14:00:07.000Z/P7D",
+        "comment": "國語: PL12UaAf_xzfpUKQjbl6RNiDzgTNf55zSv"
       },
       {
         "site": "tmdb",
@@ -504,6 +499,18 @@
       {
         "site": "tmdb",
         "id": "movie/1148588"
+      },
+      {
+        "site": "danime",
+        "id": "28486",
+        "begin": "2025-11-21T15:00:00.000Z",
+        "broadcast": "R/2025-11-21T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FXTYXKG5",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

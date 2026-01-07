@@ -1027,6 +1027,12 @@
       {
         "site": "tmdb",
         "id": "tv/72636"
+      },
+      {
+        "site": "abema",
+        "id": "25-135",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3533,13 +3539,19 @@
       },
       {
         "site": "abema",
-        "id": "2-8",
+        "id": "746-21",
         "begin": "",
         "broadcast": ""
       },
       {
         "site": "tmdb",
         "id": "movie/436931"
+      },
+      {
+        "site": "danime",
+        "id": "26014",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
       }
     ]
   },

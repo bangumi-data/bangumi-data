@@ -135,6 +135,25 @@
       {
         "site": "tmdb",
         "id": "movie/685274"
+      },
+      {
+        "site": "danime",
+        "id": "28563",
+        "begin": "2025-12-25T15:00:00.000Z",
+        "broadcast": "R/2025-12-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "7M6cL24WvNeM",
+        "url": "https://www.disneyplus.com/movies/mobile-suit-gundam-hathaway/7M6cL24WvNeM",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "13-202",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -351,13 +370,15 @@
         "site": "nicovideo",
         "id": "fate-grand-carnival-1st",
         "begin": "2022-01-31T15:00:00.000Z",
-        "broadcast": "R/2022-01-31T15:00:00.000Z/P7D"
+        "broadcast": "R/2022-01-31T15:00:00.000Z/P7D",
+        "comment": "2nd Season: fate-gc2"
       },
       {
         "site": "unext",
         "id": "SID0065005",
         "begin": "2021-12-31T15:00:00.000Z",
-        "broadcast": "R/2021-12-31T15:00:00.000Z/P7D"
+        "broadcast": "R/2021-12-31T15:00:00.000Z/P7D",
+        "comment": "2nd Season: SID0245866"
       },
       {
         "site": "gamer_hk",
@@ -372,6 +393,19 @@
       {
         "site": "tmdb",
         "id": "tv/132848"
+      },
+      {
+        "site": "abema",
+        "id": "26-160",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28513",
+        "begin": "2025-12-01T03:00:00.000Z",
+        "broadcast": "R/2025-12-01T03:00:00.000Z/P7D",
+        "comment": "2nd Season: 28514"
       }
     ]
   },
@@ -736,12 +770,6 @@
       {
         "site": "mikan",
         "id": "2717"
-      },
-      {
-        "site": "unext",
-        "id": "SID0068123",
-        "begin": "2024-12-20T03:00:00.000Z",
-        "broadcast": "R/2024-12-20T03:00:00.000Z/P7D"
       },
       {
         "site": "prime",

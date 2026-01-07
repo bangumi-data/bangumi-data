@@ -140,6 +140,12 @@
       {
         "site": "tmdb",
         "id": "tv/34782"
+      },
+      {
+        "site": "danime",
+        "id": "11521",
+        "begin": "2025-12-12T15:00:00.000Z",
+        "broadcast": "R/2025-12-12T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -346,12 +352,6 @@
         "id": "2049"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UcjnSpufHgb5n149YLV40nGq",
-        "begin": "2021-08-18T16:00:00.000Z",
-        "broadcast": "R/2021-09-11T16:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0002529",
         "begin": "2017-08-03T03:00:00.000Z",
@@ -368,12 +368,6 @@
         "id": "432",
         "begin": "2021-02-28T16:00:00.000Z",
         "broadcast": "R/2021-02-28T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "muse_tw",
-        "id": "PL12UaAf_xzfocPx0sKR5uOEP5DAbt38NL",
-        "begin": "2023-03-12T13:30:11.000Z",
-        "broadcast": "R/2023-03-12T13:30:11.000Z/P7D"
       },
       {
         "site": "tmdb",
