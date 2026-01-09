@@ -20,6 +20,36 @@
       {
         "site": "bangumi",
         "id": "580762"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kanael",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0FJXVZ2W5",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0246864",
+        "begin": "2025-12-09T14:00:00.000Z",
+        "broadcast": "R/2025-12-09T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "54-113",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28508",
+        "begin": "2025-12-04T03:30:00.000Z",
+        "broadcast": "R/2025-12-04T03:30:00.000Z/P7D"
       }
     ]
   },
@@ -27,7 +57,11 @@
     "title": "青のミブロ ―芹沢暗殺編―",
     "titleTranslate": {
       "zh-Hans": [
-        "青之壬生浪 -芹泽暗杀篇-"
+        "青之壬生浪 -芹泽暗杀篇-",
+        "青之壬生浪 第二季"
+      ],
+      "zh-Hant": [
+        "青之壬生浪 第二季 芹澤暗殺篇"
       ]
     },
     "type": "tv",
@@ -41,6 +75,46 @@
       {
         "site": "bangumi",
         "id": "548558"
+      },
+      {
+        "site": "danime",
+        "id": "28557",
+        "begin": "2025-12-20T09:00:00.000Z",
+        "broadcast": "R/2025-12-20T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0G6G93SB8",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "miburoanime2",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "147239",
+        "begin": "2025-12-27T09:30:00.000Z",
+        "broadcast": "R/2025-12-27T09:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "147239",
+        "begin": "2025-12-27T09:30:00.000Z",
+        "broadcast": "R/2025-12-27T09:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0251292",
+        "begin": "2025-12-20T09:00:00.000Z",
+        "broadcast": "R/2025-12-20T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3820"
       }
     ]
   },
@@ -49,6 +123,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "辉夜大小姐想让我告白 通往大人的阶梯"
+      ],
+      "zh-Hant": [
+        "輝夜姬想讓人告白 邁向大人的階梯"
       ]
     },
     "type": "tv",
@@ -62,12 +139,31 @@
       {
         "site": "bangumi",
         "id": "565802"
+      },
+      {
+        "site": "gamer",
+        "id": "145936",
+        "begin": "2025-12-31T14:30:00.000Z",
+        "broadcast": "R/2025-12-31T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "145936",
+        "begin": "2025-12-31T14:30:00.000Z",
+        "broadcast": "R/2025-12-31T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3869"
       }
     ]
   },
   {
     "title": "シンデレラ・シェフ ～萌妻食神～ シーズン2",
     "titleTranslate": {
+      "zh-Hans": [
+        "萌妻食神之再结良缘"
+      ],
       "en": [
         "Cinderella Chef 2nd Season"
       ]
@@ -79,7 +175,24 @@
     "broadcast": "R/2025-12-24T13:00:00.000Z/P7D",
     "end": "",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "352153"
+      },
+      {
+        "site": "prime",
+        "id": "B0G6TYYTK9",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28507",
+        "begin": "2025-12-24T09:00:00.000Z",
+        "broadcast": "R/2025-12-24T09:00:00.000Z/P7D"
+      }
+    ]
   },
   {
     "title": "アンデッドアンラック Winter編",
@@ -93,12 +206,34 @@
     "officialSite": "https://undead-unluck.net/",
     "begin": "2025-12-25T15:10:00.000Z",
     "broadcast": "R/2025-12-25T15:10:00.000Z/P7D",
-    "end": "",
+    "end": "2025-12-25T15:10:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "506120"
+      },
+      {
+        "site": "prime",
+        "id": "B0G4SJQKZ6",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0250238",
+        "begin": "2025-12-25T16:10:00.000Z",
+        "broadcast": "R/2025-12-25T16:10:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28433",
+        "begin": "2025-12-25T16:10:00.000Z",
+        "broadcast": "R/2025-12-25T16:10:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3872"
       }
     ]
   }

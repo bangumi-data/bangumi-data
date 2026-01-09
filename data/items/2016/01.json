@@ -550,13 +550,6 @@
         "broadcast": "R/2021-09-29T16:00:00.000Z/P7D"
       },
       {
-        "site": "viu",
-        "id": "467504",
-        "begin": "2022-12-22T16:00:00.000Z",
-        "broadcast": "R/2022-12-22T16:00:00.000Z/P7D",
-        "comment": "粵語版: 2076341"
-      },
-      {
         "site": "gamer",
         "id": "76842",
         "begin": "2016-01-08T00:00:00.000Z",
@@ -1616,12 +1609,24 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfplhoRbWklzGUMfb3LdLMXr",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-04-15T14:00:13.000Z",
+        "broadcast": "R/2021-04-15T14:00:13.000Z/P7D"
       },
       {
         "site": "tmdb",
         "id": "tv/65211"
+      },
+      {
+        "site": "unext",
+        "id": "SID0021389",
+        "begin": "2025-12-31T15:00:00.000Z",
+        "broadcast": "R/2025-12-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20547",
+        "begin": "2025-12-31T15:00:00.000Z",
+        "broadcast": "R/2025-12-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1769,6 +1774,12 @@
       {
         "site": "tmdb",
         "id": "tv/71511"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfp1-9REULj-sQvlCa6wBgYV",
+        "begin": "2025-11-28T14:00:06.000Z",
+        "broadcast": "R/2025-11-28T14:00:06.000Z/P7D"
       }
     ]
   },
@@ -2055,6 +2066,12 @@
       {
         "site": "tmdb",
         "id": "tv/65816"
+      },
+      {
+        "site": "abema",
+        "id": "174-32",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3068,6 +3085,12 @@
       {
         "site": "tmdb",
         "id": "movie/372761"
+      },
+      {
+        "site": "abema",
+        "id": "26-42",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3097,6 +3120,12 @@
       {
         "site": "tmdb",
         "id": "tv/63087/season/0/episode/1"
+      },
+      {
+        "site": "danime",
+        "id": "28576",
+        "begin": "2025-12-31T15:00:00.000Z",
+        "broadcast": "R/2025-12-31T15:00:00.000Z/P7D"
       }
     ]
   },

@@ -64,13 +64,6 @@
         "broadcast": "R/2024-08-07T15:30:00.000Z/P7D"
       },
       {
-        "site": "danime",
-        "id": "27212",
-        "begin": "2024-08-11T03:00:00.000Z",
-        "broadcast": "R/2024-08-11T03:00:00.000Z/P7D",
-        "comment": "特別番組: 27249"
-      },
-      {
         "site": "prime",
         "id": "B0DC9YXD13",
         "begin": "",
@@ -252,6 +245,19 @@
       {
         "site": "tmdb",
         "id": "movie/1159311"
+      },
+      {
+        "site": "disneyplus",
+        "id": "3n34kKblpE11",
+        "url": "https://www.disneyplus.com/movies/my-hero-academia-youre-next/3n34kKblpE11",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "heroaca-movie",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -334,6 +340,12 @@
       {
         "site": "tmdb",
         "id": "movie/1056444"
+      },
+      {
+        "site": "danime",
+        "id": "28590",
+        "begin": "2025-12-31T15:00:00.000Z",
+        "broadcast": "R/2025-12-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -411,6 +423,12 @@
       {
         "site": "tmdb",
         "id": "movie/1337268"
+      },
+      {
+        "site": "unext",
+        "id": "SID0186019",
+        "begin": "2025-05-01T01:00:00.000Z",
+        "broadcast": "R/2025-05-01T01:00:00.000Z/P7D"
       }
     ]
   }

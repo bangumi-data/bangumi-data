@@ -357,6 +357,12 @@
       {
         "site": "tmdb",
         "id": "tv/261311"
+      },
+      {
+        "site": "danime",
+        "id": "28556",
+        "begin": "2026-01-04T15:00:00.000Z",
+        "broadcast": "R/2026-01-04T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1708,12 +1714,6 @@
       {
         "site": "mikan",
         "id": "3535"
-      },
-      {
-        "site": "tropics",
-        "id": "PLoGVqODys23CRoKR6r8irXRbbLFNqiOlT",
-        "begin": "2025-01-07T17:35:06.000Z",
-        "broadcast": "R/2025-01-07T17:35:06.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -3714,10 +3714,14 @@
     "title": "不遇職【鑑定士】が実は最強だった",
     "titleTranslate": {
       "zh-Hans": [
-        "不幸职业【鉴定士】实则最强"
+        "不幸职业【鉴定士】实则最强",
+        "不幸职业【鉴定士】其实是最强的"
       ],
       "zh-Hant": [
         "不幸職業【鑑定士】其實是最強的"
+      ],
+      "en": [
+        "Even Given the Worthless “Appraiser” Class, I'm Actually the Strongest"
       ]
     },
     "type": "tv",
@@ -3789,6 +3793,12 @@
       {
         "site": "tmdb",
         "id": "tv/270474"
+      },
+      {
+        "site": "netflix",
+        "id": "82172678",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4592,7 +4602,7 @@
     "officialSite": "https://fate-strange-fake.com/",
     "begin": "2024-12-31T16:00:00.000Z",
     "broadcast": "R/2024-12-31T16:00:00.000Z/P7D",
-    "end": "",
+    "end": "2024-12-31T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4618,6 +4628,12 @@
       {
         "site": "tmdb",
         "id": "tv/229858"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fate-strange-fake",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4837,6 +4853,18 @@
       {
         "site": "tmdb",
         "id": "movie/1322752"
+      },
+      {
+        "site": "nicovideo",
+        "id": "pjsekai-movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "218-845",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

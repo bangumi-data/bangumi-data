@@ -99,8 +99,8 @@
       {
         "site": "gamer",
         "id": "16186",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-02-27T04:00:00.000Z",
+        "broadcast": "R/2025-02-27T04:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -1136,6 +1136,12 @@
       {
         "site": "tmdb",
         "id": "tv/30980"
+      },
+      {
+        "site": "abema",
+        "id": "25-4pkxnjwwrpn",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1438,6 +1444,9 @@
       "zh-Hans": [
         "超智游戏",
         "鬼影投手"
+      ],
+      "zh-Hant": [
+        "鬼影投手"
       ]
     },
     "type": "tv",
@@ -1477,6 +1486,24 @@
       {
         "site": "tmdb",
         "id": "tv/22366"
+      },
+      {
+        "site": "gamer",
+        "id": "19860",
+        "begin": "2026-01-02T04:00:00.000Z",
+        "broadcast": "R/2026-01-02T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "19860",
+        "begin": "2026-01-02T04:00:00.000Z",
+        "broadcast": "R/2026-01-02T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "tropics",
+        "id": "PLoGVqODys23A9J-fIqy75aNJpmLRCV9s5",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

@@ -1194,6 +1194,12 @@
       {
         "site": "tmdb",
         "id": "tv/63323"
+      },
+      {
+        "site": "danime",
+        "id": "22503",
+        "begin": "2025-11-30T15:00:00.000Z",
+        "broadcast": "R/2025-11-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1775,6 +1781,12 @@
       {
         "site": "tmdb",
         "id": "tv/62715"
+      },
+      {
+        "site": "abema",
+        "id": "5-30",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3472,12 +3484,6 @@
         "broadcast": "R/2024-01-31T15:00:00.000Z/P7D"
       },
       {
-        "site": "disneyplus",
-        "id": "2ihLMmnLHLaW",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "movie/347187"
       }
@@ -3519,13 +3525,19 @@
       },
       {
         "site": "abema",
-        "id": "2-8",
+        "id": "746-19",
         "begin": "",
         "broadcast": ""
       },
       {
         "site": "tmdb",
         "id": "movie/350499"
+      },
+      {
+        "site": "danime",
+        "id": "26011",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3555,6 +3567,12 @@
       {
         "site": "tmdb",
         "id": "movie/389621"
+      },
+      {
+        "site": "danime",
+        "id": "26012",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3611,6 +3629,12 @@
       {
         "site": "tmdb",
         "id": "movie/969382"
+      },
+      {
+        "site": "danime",
+        "id": "28577",
+        "begin": "2025-12-31T15:00:00.000Z",
+        "broadcast": "R/2025-12-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3890,6 +3914,18 @@
       {
         "site": "tmdb",
         "id": "movie/315465"
+      },
+      {
+        "site": "danime",
+        "id": "24775",
+        "begin": "2025-11-21T15:00:00.000Z",
+        "broadcast": "R/2025-11-21T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FMF7XCDN",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

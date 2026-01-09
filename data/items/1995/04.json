@@ -174,7 +174,8 @@
         "site": "tropics",
         "id": "PLoGVqODys23CZVkx9OCarRtb6fVsG9xZV",
         "begin": "2025-08-08T12:30:06.000Z",
-        "broadcast": "R/2025-08-08T12:30:06.000Z/P7D"
+        "broadcast": "R/2025-08-08T12:30:06.000Z/P7D",
+        "comment": "中文配音: PLoGVqODys23CDQkfVP1oIH-7qxG8GQdom"
       },
       {
         "site": "gamer",
@@ -470,6 +471,12 @@
       {
         "site": "tmdb",
         "id": "movie/31049"
+      },
+      {
+        "site": "prime",
+        "id": "B09QK85ZQF",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -493,6 +500,12 @@
       {
         "site": "tmdb",
         "id": "tv/57144"
+      },
+      {
+        "site": "danime",
+        "id": "22817",
+        "begin": "2025-12-12T15:00:00.000Z",
+        "broadcast": "R/2025-12-12T15:00:00.000Z/P7D"
       }
     ]
   },

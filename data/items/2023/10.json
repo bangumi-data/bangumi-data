@@ -604,7 +604,7 @@
       },
       {
         "site": "prime",
-        "id": "B0CJN1XCLK",
+        "id": "B0CJN2W2GM",
         "begin": "",
         "broadcast": ""
       },
@@ -915,12 +915,6 @@
         "broadcast": "R/2023-10-02T14:00:00.000Z/P7D"
       },
       {
-        "site": "netflix",
-        "id": "81729724",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bangumi_moe",
         "id": "65186f7b4c90aa63daeaa1f9"
       },
@@ -943,6 +937,12 @@
       {
         "site": "tmdb",
         "id": "tv/153450"
+      },
+      {
+        "site": "netflix",
+        "id": "81729724",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1474,6 +1474,12 @@
       {
         "site": "tmdb",
         "id": "tv/209077"
+      },
+      {
+        "site": "abema",
+        "id": "172-56",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2250,12 +2256,6 @@
         "id": "SID0091728",
         "begin": "2023-10-11T14:00:00.000Z",
         "broadcast": "R/2023-10-11T14:00:00.000Z/P7D"
-      },
-      {
-        "site": "disneyplus",
-        "id": "5I6JkWfEmf0M",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "gamer_hk",

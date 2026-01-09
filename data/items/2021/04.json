@@ -411,6 +411,12 @@
       {
         "site": "tmdb",
         "id": "tv/106519"
+      },
+      {
+        "site": "abema",
+        "id": "149-13",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -849,7 +855,7 @@
       },
       {
         "site": "prime",
-        "id": "B0B8P5XXY2",
+        "id": "B0FBQYFBG7",
         "begin": "",
         "broadcast": ""
       },
@@ -1701,6 +1707,12 @@
       {
         "site": "tmdb",
         "id": "tv/105721"
+      },
+      {
+        "site": "danime",
+        "id": "24603",
+        "begin": "2025-12-21T15:00:00.000Z",
+        "broadcast": "R/2025-12-21T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3083,12 +3095,6 @@
         "id": "tv_anime-86",
         "begin": "",
         "broadcast": ""
-      },
-      {
-        "site": "bilibili",
-        "id": "28233940",
-        "begin": "2021-12-30T16:00:01.000Z",
-        "broadcast": "R/2021-12-30T16:00:01.000Z/P7D"
       },
       {
         "site": "gamer",
