@@ -186,6 +186,12 @@
       {
         "site": "mikan",
         "id": "3823"
+      },
+      {
+        "site": "abema",
+        "id": "13-203",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -250,16 +256,38 @@
         "broadcast": ""
       },
       {
-        "site": "gamer_hk",
-        "id": "138492",
+        "site": "abema",
+        "id": "189-59",
         "begin": "",
         "broadcast": ""
       },
       {
+        "site": "gamer_hk",
+        "id": "138492",
+        "begin": "2026-01-08T15:30:00.000Z",
+        "broadcast": "R/2026-01-08T15:30:00.000Z/P7D"
+      },
+      {
         "site": "gamer",
         "id": "138492",
+        "begin": "2026-01-08T15:30:00.000Z",
+        "broadcast": "R/2026-01-08T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Uch0cYAjaI3L6YuuZFHBF4_K",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfolPxCeXvuIKaQE48aj5Ogg",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3825"
       }
     ]
   },
@@ -317,6 +345,12 @@
       {
         "site": "mikan",
         "id": "3826"
+      },
+      {
+        "site": "unext",
+        "id": "SID0255299",
+        "begin": "2026-01-08T15:00:00.000Z",
+        "broadcast": "R/2026-01-08T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -370,6 +404,12 @@
       {
         "site": "mikan",
         "id": "3827"
+      },
+      {
+        "site": "danime",
+        "id": "28562",
+        "begin": "2026-01-09T13:00:00.000Z",
+        "broadcast": "R/2026-01-09T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -561,6 +601,12 @@
       {
         "site": "mikan",
         "id": "3829"
+      },
+      {
+        "site": "prime",
+        "id": "B0G7M89DS1",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -598,8 +644,8 @@
       {
         "site": "unext",
         "id": "SID0251555",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-10T03:00:00.000Z",
+        "broadcast": "R/2026-01-10T03:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -610,14 +656,30 @@
       {
         "site": "gamer_hk",
         "id": "147821",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-09T16:00:00.000Z",
+        "broadcast": "R/2026-01-09T16:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "147821",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-09T16:00:00.000Z",
+        "broadcast": "R/2026-01-09T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28607",
+        "begin": "2026-01-10T03:00:00.000Z",
+        "broadcast": "R/2026-01-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tropics",
+        "id": "PLoGVqODys23BqNq4bNV2KvIfk1rXFkMjk",
+        "begin": "2026-01-09T16:00:07.000Z",
+        "broadcast": "R/2026-01-09T16:00:07.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3830"
       }
     ]
   },
@@ -653,8 +715,8 @@
       {
         "site": "unext",
         "id": "SID0249087",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-09T15:30:00.000Z",
+        "broadcast": "R/2026-01-09T15:30:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -804,8 +866,8 @@
       {
         "site": "unext",
         "id": "SID0251558",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-09T16:00:00.000Z",
+        "broadcast": "R/2026-01-09T16:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -828,6 +890,18 @@
       {
         "site": "mikan",
         "id": "3833"
+      },
+      {
+        "site": "danime",
+        "id": "28598",
+        "begin": "2026-01-09T16:00:00.000Z",
+        "broadcast": "R/2026-01-09T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0G8VZ9LCX",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -836,6 +910,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "地狱模式 ～喜欢速通游戏的玩家在废设定异世界无双～"
+      ],
+      "zh-Hant": [
+        "地獄模式 ～喜歡挑戰特殊成就的玩家在廢設定的異世界成為無雙～"
       ]
     },
     "type": "tv",
@@ -867,6 +944,28 @@
         "id": "593-14",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28573",
+        "begin": "2026-01-09T16:35:00.000Z",
+        "broadcast": "R/2026-01-09T16:35:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "142684",
+        "begin": "2026-01-09T16:35:00.000Z",
+        "broadcast": "R/2026-01-09T16:35:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "142684",
+        "begin": "2026-01-09T16:35:00.000Z",
+        "broadcast": "R/2026-01-09T16:35:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3834"
       }
     ]
   },
@@ -874,7 +973,8 @@
     "title": "29歳独身中堅冒険者の日常",
     "titleTranslate": {
       "en": [
-        "The Daily Life of a Single 29-Year-Old Adventurer"
+        "The Daily Life of a Single 29-Year-Old Adventurer",
+        "An Adventurer's Daily Grind at Age 29"
       ],
       "zh-Hans": [
         "29岁单身冒险家的日常"
@@ -904,14 +1004,30 @@
       {
         "site": "unext",
         "id": "SID0251562",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-10T15:00:00.000Z",
+        "broadcast": "R/2026-01-10T15:00:00.000Z/P7D"
       },
       {
         "site": "abema",
         "id": "25-305",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28568",
+        "begin": "2026-01-07T15:00:00.000Z",
+        "broadcast": "R/2026-01-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00365607",
+        "begin": "2026-01-07T00:00:00.000Z",
+        "broadcast": "R/2026-01-07T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3835"
       }
     ]
   },
@@ -923,6 +1039,9 @@
       ],
       "zh-Hant": [
         "大江戶烈火殺手 - 鳳凰傳說"
+      ],
+      "en": [
+        "Oedo Fire Slayer - the Legend of Phoenix -"
       ]
     },
     "type": "tv",
@@ -966,6 +1085,18 @@
         "id": "143977",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtTvrvnZBmGIeHMuCsa6b1xr",
+        "begin": "2026-01-11T16:00:00.000Z",
+        "broadcast": "R/2026-01-11T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jgg8qGQKMckY8CM8ewbQAFo",
+        "begin": "2026-01-11T16:00:00.000Z",
+        "broadcast": "R/2026-01-11T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1003,8 +1134,8 @@
       {
         "site": "gamer",
         "id": "143473",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-04T14:00:00.000Z",
+        "broadcast": "R/2026-01-04T14:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -1113,6 +1244,9 @@
       ],
       "zh-Hant": [
         "靠死亡遊戲混飯吃。"
+      ],
+      "en": [
+        "SHIBOYUGI: Playing Death Games to Put Food on the Table"
       ]
     },
     "type": "tv",
@@ -1136,8 +1270,8 @@
       {
         "site": "unext",
         "id": "SID0251567",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-07T14:00:00.000Z",
+        "broadcast": "R/2026-01-07T14:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -1148,12 +1282,52 @@
       {
         "site": "gamer_hk",
         "id": "141219",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-07T15:00:00.000Z",
+        "broadcast": "R/2026-01-07T15:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "141219",
+        "begin": "2026-01-07T15:00:00.000Z",
+        "broadcast": "R/2026-01-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28566",
+        "begin": "2026-01-07T14:00:00.000Z",
+        "broadcast": "R/2026-01-07T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0G5F85RZD",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "82047155",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchmlXg78CT0afsBEQj8LWpZ",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3839"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00365787",
+        "begin": "2026-01-07T00:00:00.000Z",
+        "broadcast": "R/2026-01-07T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfq3qj1B3Ic5c9bHUco_olso",
         "begin": "",
         "broadcast": ""
       }
@@ -1167,6 +1341,9 @@
       ],
       "zh-Hant": [
         "死亡帳號"
+      ],
+      "en": [
+        "Dead Account"
       ]
     },
     "type": "tv",
@@ -1190,8 +1367,8 @@
       {
         "site": "unext",
         "id": "SID0251275",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-10T15:00:00.000Z",
+        "broadcast": "R/2026-01-10T15:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -1202,14 +1379,36 @@
       {
         "site": "gamer_hk",
         "id": "144273",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-10T15:00:00.000Z",
+        "broadcast": "R/2026-01-10T15:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "144273",
+        "begin": "2026-01-10T15:00:00.000Z",
+        "broadcast": "R/2026-01-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtRMQN8lPVcnq4eSonWaS1MI",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JiQXR4zJbzIwxsiMHu_HSZK",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3840"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00365559",
+        "begin": "2026-01-10T00:00:00.000Z",
+        "broadcast": "R/2026-01-10T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -1398,6 +1597,12 @@
       {
         "site": "mikan",
         "id": "3842"
+      },
+      {
+        "site": "danime",
+        "id": "28571",
+        "begin": "2026-01-09T15:00:00.000Z",
+        "broadcast": "R/2026-01-09T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1448,6 +1653,9 @@
       ],
       "zh-Hant": [
         "厄里斯的聖杯"
+      ],
+      "en": [
+        "The Holy Grail of Eris"
       ]
     },
     "type": "tv",
@@ -1477,14 +1685,30 @@
       {
         "site": "gamer_hk",
         "id": "141994",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-08T15:00:00.000Z",
+        "broadcast": "R/2026-01-08T15:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "141994",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-08T15:00:00.000Z",
+        "broadcast": "R/2026-01-08T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28619",
+        "begin": "2026-01-08T15:00:00.000Z",
+        "broadcast": "R/2026-01-08T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3844"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00365781",
+        "begin": "2026-01-08T00:00:00.000Z",
+        "broadcast": "R/2026-01-08T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -1493,6 +1717,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "非人学生与厌世教师"
+      ],
+      "en": [
+        "A Misanthrope Teaches a Class for Demi-Humans"
       ]
     },
     "type": "tv",
@@ -1524,6 +1751,22 @@
         "id": "25-306",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28569",
+        "begin": "2026-01-10T17:30:00.000Z",
+        "broadcast": "R/2026-01-10T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3845"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00365542",
+        "begin": "2026-01-10T00:00:00.000Z",
+        "broadcast": "R/2026-01-10T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -1556,6 +1799,9 @@
       ],
       "zh-Hant": [
         "咒術迴戰 死滅迴游 前篇"
+      ],
+      "en": [
+        "JUJUTSU KAISEN The Culling Game Part 1"
       ]
     },
     "type": "tv",
@@ -1579,20 +1825,60 @@
       {
         "site": "unext",
         "id": "SID0249078",
+        "begin": "2026-01-08T16:30:00.000Z",
+        "broadcast": "R/2026-01-08T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "536-1",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81278456",
         "begin": "",
         "broadcast": ""
       },
       {
         "site": "gamer_hk",
         "id": "137133",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-08T17:00:00.000Z",
+        "broadcast": "R/2026-01-08T17:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "137133",
+        "begin": "2026-01-08T17:00:00.000Z",
+        "broadcast": "R/2026-01-08T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSENfS74onXPOiLanTZjpZx",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JhRHMXloduRBZmrGlDW5gmC",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "viu",
+        "id": "2876958",
+        "begin": "2026-01-08T17:00:01.000Z",
+        "broadcast": "R/2026-01-08T17:00:01.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28588",
+        "begin": "2026-01-08T16:30:00.000Z",
+        "broadcast": "R/2026-01-08T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3847"
       }
     ]
   },
@@ -1623,6 +1909,28 @@
         "id": "cf-vanguard_genma",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0255300",
+        "begin": "2026-01-09T23:30:00.000Z",
+        "broadcast": "R/2026-01-09T23:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "283-35",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28534",
+        "begin": "2026-01-09T23:30:00.000Z",
+        "broadcast": "R/2026-01-09T23:30:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3848"
       }
     ]
   },
@@ -1689,6 +1997,9 @@
       ],
       "zh-Hant": [
         "安逸領主的愉快領地防衛～用生產系魔術將無名村改造成最強要塞都市～"
+      ],
+      "en": [
+        "Easygoing Territory Defense by the Optimistic Lord"
       ]
     },
     "type": "tv",
@@ -1712,8 +2023,8 @@
       {
         "site": "unext",
         "id": "SID0249079",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-10T13:30:00.000Z",
+        "broadcast": "R/2026-01-10T13:30:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -1724,12 +2035,46 @@
       {
         "site": "gamer_hk",
         "id": "144870",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-07T13:00:00.000Z",
+        "broadcast": "R/2026-01-07T13:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "144870",
+        "begin": "2026-01-07T13:00:00.000Z",
+        "broadcast": "R/2026-01-07T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28601",
+        "begin": "2026-01-10T13:30:00.000Z",
+        "broadcast": "R/2026-01-10T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "7mFK8pESQaIw",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjK3mVXazRjLirv2ATYdhe7",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3850"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00365565",
+        "begin": "2026-01-07T00:00:00.000Z",
+        "broadcast": "R/2026-01-07T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfr3kxN2OG7hSdEZTTix6hEq",
         "begin": "",
         "broadcast": ""
       }
@@ -1766,20 +2111,42 @@
       {
         "site": "unext",
         "id": "SID0251554",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-10T14:30:00.000Z",
+        "broadcast": "R/2026-01-10T14:30:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "131293",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-10T15:00:00.000Z",
+        "broadcast": "R/2026-01-10T15:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "131293",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-10T15:00:00.000Z",
+        "broadcast": "R/2026-01-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28580",
+        "begin": "2026-01-10T14:30:00.000Z",
+        "broadcast": "R/2026-01-10T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQWYOfdcIjnWmxQY_K0o4Or",
+        "begin": "2026-01-10T15:00:06.000Z",
+        "broadcast": "R/2026-01-10T15:00:06.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JggUBXP_li2EfufYwIJ7q_A",
+        "begin": "2026-01-10T15:00:06.000Z",
+        "broadcast": "R/2026-01-10T15:00:06.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3851"
       }
     ]
   },
@@ -1805,6 +2172,12 @@
       {
         "site": "mikan",
         "id": "3852"
+      },
+      {
+        "site": "prime",
+        "id": "B0FZLYNYGL",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1878,6 +2251,12 @@
       {
         "site": "mikan",
         "id": "3853"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfqvHz7pQSbIt2cHNGueii9b",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1913,14 +2292,36 @@
       {
         "site": "gamer_hk",
         "id": "142562",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-08T15:00:00.000Z",
+        "broadcast": "R/2026-01-08T15:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "142562",
+        "begin": "2026-01-08T15:00:00.000Z",
+        "broadcast": "R/2026-01-08T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "198-19",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28600",
+        "begin": "2026-01-08T15:00:00.000Z",
+        "broadcast": "R/2026-01-08T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0249084",
+        "begin": "2026-01-08T15:00:00.000Z",
+        "broadcast": "R/2026-01-08T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3854"
       }
     ]
   },
@@ -1961,14 +2362,24 @@
       {
         "site": "gamer_hk",
         "id": "144289",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-10T13:00:00.000Z",
+        "broadcast": "R/2026-01-10T13:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "144289",
+        "begin": "2026-01-10T13:00:00.000Z",
+        "broadcast": "R/2026-01-10T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "11-78",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3855"
       }
     ]
   },
@@ -1981,6 +2392,9 @@
       ],
       "zh-Hant": [
         "神八小妹不可怕"
+      ],
+      "en": [
+        "Kaya-chan Isn't Scary"
       ]
     },
     "type": "tv",
@@ -2024,6 +2438,18 @@
         "id": "142204",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtTAI5Qxf6LeA2wLy5hlK9eA",
+        "begin": "2026-01-11T08:30:00.000Z",
+        "broadcast": "R/2026-01-11T08:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jis0F2QZax-uSX38BtSw_-B",
+        "begin": "2026-01-11T08:30:00.000Z",
+        "broadcast": "R/2026-01-11T08:30:00.000Z/P7D"
       }
     ]
   },
@@ -2062,8 +2488,8 @@
       {
         "site": "unext",
         "id": "SID0249082",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-10T15:00:00.000Z",
+        "broadcast": "R/2026-01-10T15:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -2074,14 +2500,14 @@
       {
         "site": "gamer_hk",
         "id": "143220",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-07T15:00:00.000Z",
+        "broadcast": "R/2026-01-07T15:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "143220",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-07T15:00:00.000Z",
+        "broadcast": "R/2026-01-07T15:00:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -2098,6 +2524,12 @@
       {
         "site": "mikan",
         "id": "3857"
+      },
+      {
+        "site": "tropics",
+        "id": "PLoGVqODys23DbPMMUai8b1orcTXmyOt4_",
+        "begin": "2026-01-07T15:00:06.000Z",
+        "broadcast": "R/2026-01-07T15:00:06.000Z/P7D"
       }
     ]
   },
@@ -2138,20 +2570,30 @@
       {
         "site": "gamer_hk",
         "id": "144297",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-10T16:30:00.000Z",
+        "broadcast": "R/2026-01-10T16:30:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "144297",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-10T16:30:00.000Z",
+        "broadcast": "R/2026-01-10T16:30:00.000Z/P7D"
       },
       {
         "site": "unext",
         "id": "SID0251566",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28567",
+        "begin": "2026-01-10T16:30:00.000Z",
+        "broadcast": "R/2026-01-10T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3858"
       }
     ]
   },
@@ -2208,6 +2650,9 @@
       ],
       "en": [
         "CHAMPIGNON WITCH"
+      ],
+      "zh-Hant": [
+        "蘑菇魔女"
       ]
     },
     "type": "tv",
@@ -2239,6 +2684,28 @@
         "id": "194-81",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28555",
+        "begin": "2026-01-08T18:00:00.000Z",
+        "broadcast": "R/2026-01-08T18:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "145458",
+        "begin": "2026-01-08T18:00:00.000Z",
+        "broadcast": "R/2026-01-08T18:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3860"
+      },
+      {
+        "site": "gamer",
+        "id": "145458",
+        "begin": "2026-01-08T18:00:00.000Z",
+        "broadcast": "R/2026-01-08T18:00:00.000Z/P7D"
       }
     ]
   },
@@ -2250,6 +2717,9 @@
       ],
       "zh-Hant": [
         "「憑妳也想討伐魔王？」被勇者小隊逐出隊伍，只好在王都自在過活"
+      ],
+      "en": [
+        "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!"
       ]
     },
     "type": "tv",
@@ -2273,8 +2743,8 @@
       {
         "site": "unext",
         "id": "SID0249090",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-08T16:00:00.000Z",
+        "broadcast": "R/2026-01-08T16:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -2285,14 +2755,42 @@
       {
         "site": "gamer_hk",
         "id": "145012",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-08T15:30:00.000Z",
+        "broadcast": "R/2026-01-08T15:30:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "145012",
+        "begin": "2026-01-08T15:30:00.000Z",
+        "broadcast": "R/2026-01-08T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28559",
+        "begin": "2026-01-08T16:00:00.000Z",
+        "broadcast": "R/2026-01-08T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjozJ7lx00Gq3U1jr-Jay0P",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00365592",
+        "begin": "2026-01-08T00:00:00.000Z",
+        "broadcast": "R/2026-01-08T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3861"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfqwzhdPS_m2QXSLWhlGQqF6",
+        "begin": "2026-01-08T15:30:06.000Z",
+        "broadcast": "R/2026-01-08T15:30:06.000Z/P7D"
       }
     ]
   },
@@ -2420,14 +2918,18 @@
       {
         "site": "gamer_hk",
         "id": "141841",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-07T15:30:00.000Z",
+        "broadcast": "R/2026-01-07T15:30:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "141841",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-07T15:30:00.000Z",
+        "broadcast": "R/2026-01-07T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3863"
       }
     ]
   },
@@ -2457,6 +2959,22 @@
         "id": "643-17",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0250012",
+        "begin": "2026-01-07T15:00:00.000Z",
+        "broadcast": "R/2026-01-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28528",
+        "begin": "2026-01-07T15:00:00.000Z",
+        "broadcast": "R/2026-01-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3864"
       }
     ]
   },
@@ -2501,6 +3019,12 @@
         "id": "54-115",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28558",
+        "begin": "2026-01-09T20:30:00.000Z",
+        "broadcast": "R/2026-01-09T20:30:00.000Z/P7D"
       }
     ]
   },
@@ -2534,6 +3058,22 @@
         "id": "643-16",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0251553",
+        "begin": "2026-01-07T16:05:00.000Z",
+        "broadcast": "R/2026-01-07T16:05:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28610",
+        "begin": "2026-01-07T16:05:00.000Z",
+        "broadcast": "R/2026-01-07T16:05:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3866"
       }
     ]
   },
@@ -2574,14 +3114,18 @@
       {
         "site": "gamer_hk",
         "id": "147822",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-09T16:00:00.000Z",
+        "broadcast": "R/2026-01-09T16:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "147822",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-09T16:00:00.000Z",
+        "broadcast": "R/2026-01-09T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3867"
       }
     ]
   },
@@ -2673,7 +3217,11 @@
         "终究、与你相恋。 第二季"
       ],
       "zh-Hant": [
-        "終究，與你相戀。 第二季"
+        "終究，與你相戀。 第二季",
+        "終究，與你相戀。第二季"
+      ],
+      "en": [
+        "Anyway, I'm Falling in Love with You. Season 2"
       ]
     },
     "type": "tv",
@@ -2697,18 +3245,52 @@
       {
         "site": "unext",
         "id": "SID0251556",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-08T17:00:00.000Z",
+        "broadcast": "R/2026-01-08T17:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "144517",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-08T17:00:00.000Z",
+        "broadcast": "R/2026-01-08T17:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "144517",
+        "begin": "2026-01-08T17:00:00.000Z",
+        "broadcast": "R/2026-01-08T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28591",
+        "begin": "2026-01-08T17:00:00.000Z",
+        "broadcast": "R/2026-01-08T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQlW4OQaVCG0MufRkiq3ZuX",
+        "begin": "2026-01-08T17:00:07.000Z",
+        "broadcast": "R/2026-01-08T17:00:07.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjpQd7HlUeumX6M6zMPXFyw",
+        "begin": "2026-01-08T17:00:06.000Z",
+        "broadcast": "R/2026-01-08T17:00:06.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3874"
+      },
+      {
+        "site": "prime",
+        "id": "B0G9L9R37X",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "19-219",
         "begin": "",
         "broadcast": ""
       }
@@ -2732,6 +3314,34 @@
       {
         "site": "bangumi",
         "id": "555772"
+      },
+      {
+        "site": "mikan",
+        "id": "3877"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nube-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0200177",
+        "begin": "2026-01-07T02:45:00.000Z",
+        "broadcast": "R/2026-01-07T02:45:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28106",
+        "begin": "2026-01-07T02:45:00.000Z",
+        "broadcast": "R/2026-01-07T02:45:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "1EkCNnz1XMDW",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2844,6 +3454,34 @@
       {
         "site": "bangumi",
         "id": "502876"
+      },
+      {
+        "site": "mikan",
+        "id": "3875"
+      },
+      {
+        "site": "gamer",
+        "id": "124471",
+        "begin": "2026-01-09T16:53:00.000Z",
+        "broadcast": "R/2026-01-09T16:53:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "124471",
+        "begin": "2026-01-09T16:53:00.000Z",
+        "broadcast": "R/2026-01-09T16:53:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "2877831",
+        "begin": "2026-01-09T16:53:00.000Z",
+        "broadcast": "R/2026-01-09T16:53:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81143589",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3026,14 +3664,30 @@
       {
         "site": "gamer_hk",
         "id": "141448",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-09T16:30:00.000Z",
+        "broadcast": "R/2026-01-09T16:30:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "141448",
+        "begin": "2026-01-09T16:30:00.000Z",
+        "broadcast": "R/2026-01-09T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "26-258",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00365556",
+        "begin": "2026-01-09T00:00:00.000Z",
+        "broadcast": "R/2026-01-09T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3876"
       }
     ]
   },
@@ -3068,6 +3722,12 @@
         "id": "SID0232893",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28531",
+        "begin": "2026-01-10T13:00:00.000Z",
+        "broadcast": "R/2026-01-10T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -3184,6 +3844,41 @@
       {
         "site": "mikan",
         "id": "3870"
+      }
+    ]
+  },
+  {
+    "title": "mofusand",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://mofusand-anime.jp/",
+    "begin": "2026-01-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "617197"
+      },
+      {
+        "site": "abema",
+        "id": "19-284",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28614",
+        "begin": "2026-01-06T23:00:00.000Z",
+        "broadcast": "R/2026-01-06T23:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0252766",
+        "begin": "2026-01-06T23:00:00.000Z",
+        "broadcast": "R/2026-01-06T23:00:00.000Z/P7D"
       }
     ]
   }
