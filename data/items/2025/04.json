@@ -883,6 +883,9 @@
       ],
       "zh-Hant": [
         "我是星際國家的惡德領主！"
+      ],
+      "en": [
+        "I'm the Evil Lord of an Intergalactic Empire!"
       ]
     },
     "type": "tv",
@@ -970,6 +973,12 @@
       {
         "site": "tmdb",
         "id": "tv/274737"
+      },
+      {
+        "site": "netflix",
+        "id": "82033328",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4661,6 +4670,12 @@
       {
         "site": "tmdb",
         "id": "tv/272059"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GQWH0M1J3",
+        "begin": "2025-04-05T00:00:00.000Z",
+        "broadcast": "R/2025-04-05T00:00:00.000Z/P7D"
       }
     ]
   },
