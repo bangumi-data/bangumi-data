@@ -391,7 +391,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/57706"
+        "id": "tv/259140"
       },
       {
         "site": "unext",
@@ -4516,6 +4516,12 @@
       {
         "site": "tmdb",
         "id": "tv/262700"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQgnpvvtNP_FQsJQVB-appR",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5413,6 +5419,33 @@
         "id": "g-tekketsu-urdr-hunt",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "ヤマトよ永遠に REBEL3199 第四章 水色の乙女",
+    "titleTranslate": {
+      "zh-Hans": [
+        "永远的大和号 REBEL3199 第四章 水色的少女"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://starblazers-yamato.net",
+    "begin": "2025-10-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-10-09T17:41:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "473414"
+      },
+      {
+        "site": "unext",
+        "id": "SID0254499",
+        "begin": "2026-01-13T15:00:00.000Z",
+        "broadcast": "R/2026-01-13T15:00:00.000Z/P7D"
       }
     ]
   }

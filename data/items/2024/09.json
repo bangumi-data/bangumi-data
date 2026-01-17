@@ -396,5 +396,38 @@
         "id": "movie/1014505"
       }
     ]
+  },
+  {
+    "title": "劇場版 BanG Dream! It's MyGO!!!!! 前編 春の陽だまり、迷い猫",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 BanG Dream! It's MyGO!!!!! 前篇 春日向阳，迷途野猫"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://mygo-movie.bang-dream.com/",
+    "begin": "2024-09-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-09-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "473832"
+      },
+      {
+        "site": "unext",
+        "id": "SID0255959",
+        "begin": "2026-01-15T15:00:00.000Z",
+        "broadcast": "R/2026-01-15T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mygo-movie-bang-dream",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]

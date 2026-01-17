@@ -290,5 +290,38 @@
         "id": "movie/1346726"
       }
     ]
+  },
+  {
+    "title": "時光代理人 -LINK CLICK- 英都篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "时光代理人 英都篇"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2024-12-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-01-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "456165"
+      },
+      {
+        "site": "unext",
+        "id": "SID0251575",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "link-click3",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]
