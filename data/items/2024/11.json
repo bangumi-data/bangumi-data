@@ -57,7 +57,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/37854"
+        "id": "tv/37854/season/0"
       }
     ]
   },
@@ -604,6 +604,39 @@
       {
         "site": "tmdb",
         "id": "movie/1363564"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 BanG Dream! It's MyGO!!!!! 後編 うたう、僕らになれるうた & FILM LIVE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 BanG Dream! It's MyGO!!!!! 后篇 歌唱着，由我们所作的歌 & FILM LIVE"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://mygo-movie.bang-dream.com/",
+    "begin": "2024-11-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-11-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "473833"
+      },
+      {
+        "site": "unext",
+        "id": "SID0255960",
+        "begin": "2026-01-15T15:00:00.000Z",
+        "broadcast": "R/2026-01-15T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mygo-movie-bang-dream",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

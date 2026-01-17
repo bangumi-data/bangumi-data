@@ -187,16 +187,18 @@
         "broadcast": "R/2024-01-08T16:30:00.000Z/P7D"
       },
       {
-        "site": "ani_one_asia",
-        "id": "PLxSscENEp7Jj_DWMG7HGfaMhicOjAhih4",
-        "begin": "2024-03-25T05:02:36.000Z",
-        "broadcast": "R/2024-03-25T05:02:36.000Z/P7D"
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtTHkTNhrATwHj-mhvO1Ek0O",
+        "begin": "2026-01-17T12:00:00.000Z",
+        "broadcast": "R/2026-01-17T12:00:00.000Z/P7D",
+        "comment": "會員限定: PLC18xlbCdwtSIgPGudvhmmFx-kYSSIoqw"
       },
       {
-        "site": "ani_one",
-        "id": "PLC18xlbCdwtSIgPGudvhmmFx-kYSSIoqw",
-        "begin": "2024-03-25T07:18:52.000Z",
-        "broadcast": "R/2024-03-25T07:18:52.000Z/P7D"
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Ji_fy47KAfWelg9Hh1PxiBY",
+        "begin": "2026-01-17T12:00:00.000Z",
+        "broadcast": "R/2026-01-17T12:00:00.000Z/P7D",
+        "comment": "會員限定: PLxSscENEp7Jj_DWMG7HGfaMhicOjAhih4"
       },
       {
         "site": "unext",
@@ -255,6 +257,12 @@
       {
         "site": "tmdb",
         "id": "tv/229443"
+      },
+      {
+        "site": "disneyplus",
+        "id": "4iDaG8JkNi7T",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
