@@ -147,7 +147,11 @@
   },
   {
     "title": "たべっ子どうぶつ THE MOVIE",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "愉快动物饼干 电影版"
+      ]
+    },
     "type": "movie",
     "lang": "ja",
     "officialSite": "https://tabekko-movie.com/",
@@ -165,6 +169,10 @@
         "id": "SID0243651",
         "begin": "2025-11-27T15:00:00.000Z",
         "broadcast": "R/2025-11-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1329578"
       }
     ]
   },
