@@ -175,5 +175,39 @@
         "id": "movie/1500531"
       }
     ]
+  },
+  {
+    "title": "小林さんちのメイドラゴン さみしがりやの竜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小林家的龙女仆 怕寂寞的龙",
+        "小林家的龙丫头：怕寂寞的龙"
+      ],
+      "zh-Hant": [
+        "電影版小林家的龍女僕：害怕寂寞的龍"
+      ],
+      "en": [
+        "Miss Kobayashi's Dragon Maid: A Lonely Dragon Wants to be Loved"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://maidragon.jp/movie",
+    "begin": "2025-06-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-06-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "514353"
+      },
+      {
+        "site": "netflix",
+        "id": "81999068",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]

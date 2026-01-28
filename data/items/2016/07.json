@@ -628,7 +628,8 @@
         "B-PROJECT～鼓动＊Ambitious～"
       ],
       "zh-Hant": [
-        "B-PROJECT"
+        "B-PROJECT",
+        "B-PROJECT超星團"
       ],
       "en": [
         "B-PROJECT"
@@ -694,6 +695,12 @@
       {
         "site": "tmdb",
         "id": "tv/67628"
+      },
+      {
+        "site": "mytv",
+        "id": "bproject_145288",
+        "begin": "2026-01-25T06:00:00.000Z",
+        "broadcast": "R/2026-01-25T06:00:00.000Z/P7D"
       }
     ]
   },
@@ -4296,6 +4303,34 @@
       {
         "site": "tmdb",
         "id": "movie/446961"
+      }
+    ]
+  },
+  {
+    "title": "風のように",
+    "titleTranslate": {
+      "zh-Hans": [
+        "像风一样",
+        "宛如风"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.kazenoyouni.com/",
+    "begin": "2016-07-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2016-07-08T16:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "178662"
+      },
+      {
+        "site": "danime",
+        "id": "28462",
+        "begin": "2026-01-10T15:00:00.000Z",
+        "broadcast": "R/2026-01-10T15:00:00.000Z/P7D"
       }
     ]
   }
