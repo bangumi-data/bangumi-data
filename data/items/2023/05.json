@@ -32,6 +32,18 @@
       {
         "site": "tmdb",
         "id": "tv/223119"
+      },
+      {
+        "site": "mal",
+        "id": "54851"
+      },
+      {
+        "site": "anidb",
+        "id": "17942"
+      },
+      {
+        "site": "aniList",
+        "id": "163138"
       }
     ]
   },
@@ -45,7 +57,12 @@
     "broadcast": "R/2023-05-04T14:10:00.000Z/P7D",
     "end": "2023-05-25T14:10:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "mal",
+        "id": "60091"
+      }
+    ]
   },
   {
     "title": "劇場版 Collar×Malice -deep cover- 前編",
@@ -216,6 +233,18 @@
       {
         "site": "tmdb",
         "id": "tv/216890"
+      },
+      {
+        "site": "mal",
+        "id": "54013"
+      },
+      {
+        "site": "anidb",
+        "id": "17792"
+      },
+      {
+        "site": "aniList",
+        "id": "165749"
       }
     ]
   },
@@ -257,6 +286,18 @@
       {
         "site": "tmdb",
         "id": "movie/1108298"
+      },
+      {
+        "site": "mal",
+        "id": "54118"
+      },
+      {
+        "site": "anidb",
+        "id": "17809"
+      },
+      {
+        "site": "aniList",
+        "id": "161440"
       }
     ]
   },
@@ -304,6 +345,18 @@
       {
         "site": "tmdb",
         "id": "movie/1012652"
+      },
+      {
+        "site": "mal",
+        "id": "52747"
+      },
+      {
+        "site": "anidb",
+        "id": "17573"
+      },
+      {
+        "site": "aniList",
+        "id": "153687"
       }
     ]
   },
@@ -331,6 +384,18 @@
       {
         "site": "tmdb",
         "id": "movie/725064"
+      },
+      {
+        "site": "mal",
+        "id": "41029"
+      },
+      {
+        "site": "anidb",
+        "id": "15353"
+      },
+      {
+        "site": "aniList",
+        "id": "114606"
       }
     ]
   },
@@ -391,6 +456,10 @@
       {
         "site": "tmdb",
         "id": "tv/114478/season/2"
+      },
+      {
+        "site": "anidb",
+        "id": "18140"
       }
     ]
   }
