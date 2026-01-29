@@ -99,6 +99,18 @@
       {
         "site": "tmdb",
         "id": "tv/284445"
+      },
+      {
+        "site": "mal",
+        "id": "60489"
+      },
+      {
+        "site": "anidb",
+        "id": "19038"
+      },
+      {
+        "site": "aniList",
+        "id": "185407"
       }
     ]
   },
@@ -142,6 +154,18 @@
       {
         "site": "tmdb",
         "id": "movie/1474048"
+      },
+      {
+        "site": "mal",
+        "id": "61616"
+      },
+      {
+        "site": "anidb",
+        "id": "19338"
+      },
+      {
+        "site": "aniList",
+        "id": "191884"
       }
     ]
   },
@@ -173,6 +197,64 @@
       {
         "site": "tmdb",
         "id": "movie/1500531"
+      },
+      {
+        "site": "mal",
+        "id": "61672"
+      },
+      {
+        "site": "anidb",
+        "id": "19389"
+      },
+      {
+        "site": "aniList",
+        "id": "192474"
+      }
+    ]
+  },
+  {
+    "title": "小林さんちのメイドラゴン さみしがりやの竜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小林家的龙女仆 怕寂寞的龙",
+        "小林家的龙丫头：怕寂寞的龙"
+      ],
+      "zh-Hant": [
+        "電影版小林家的龍女僕：害怕寂寞的龍"
+      ],
+      "en": [
+        "Miss Kobayashi's Dragon Maid: A Lonely Dragon Wants to be Loved"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://maidragon.jp/movie",
+    "begin": "2025-06-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-06-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "514353"
+      },
+      {
+        "site": "netflix",
+        "id": "81999068",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "59897"
+      },
+      {
+        "site": "anidb",
+        "id": "18873"
+      },
+      {
+        "site": "aniList",
+        "id": "181839"
       }
     ]
   }

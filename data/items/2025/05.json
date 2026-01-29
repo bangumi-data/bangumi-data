@@ -34,6 +34,18 @@
       {
         "site": "tmdb",
         "id": "tv/291674"
+      },
+      {
+        "site": "mal",
+        "id": "60200"
+      },
+      {
+        "site": "anidb",
+        "id": "19401"
+      },
+      {
+        "site": "aniList",
+        "id": "185778"
       }
     ]
   },
@@ -62,6 +74,12 @@
       {
         "site": "tmdb",
         "id": "movie/1438229"
+      },
+      {
+        "site": "unext",
+        "id": "SID0212207",
+        "begin": "2026-01-27T15:00:00.000Z",
+        "broadcast": "R/2026-01-27T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -93,6 +111,18 @@
       {
         "site": "tmdb",
         "id": "movie/1448628"
+      },
+      {
+        "site": "mal",
+        "id": "57622"
+      },
+      {
+        "site": "anidb",
+        "id": "18961"
+      },
+      {
+        "site": "aniList",
+        "id": "172393"
       }
     ]
   },
@@ -136,12 +166,28 @@
         "id": "B0FQMK7SK9",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "54705"
+      },
+      {
+        "site": "anidb",
+        "id": "17905"
+      },
+      {
+        "site": "aniList",
+        "id": "162682"
       }
     ]
   },
   {
     "title": "たべっ子どうぶつ THE MOVIE",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "愉快动物饼干 电影版"
+      ]
+    },
     "type": "movie",
     "lang": "ja",
     "officialSite": "https://tabekko-movie.com/",
@@ -159,6 +205,22 @@
         "id": "SID0243651",
         "begin": "2025-11-27T15:00:00.000Z",
         "broadcast": "R/2025-11-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1329578"
+      },
+      {
+        "site": "mal",
+        "id": "61198"
+      },
+      {
+        "site": "anidb",
+        "id": "19048"
+      },
+      {
+        "site": "aniList",
+        "id": "180124"
       }
     ]
   },

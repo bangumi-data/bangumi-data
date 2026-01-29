@@ -18,13 +18,25 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/35966/season/1"
+        "id": "tv/35966"
       },
       {
         "site": "danime",
         "id": "22893",
         "begin": "2025-12-12T15:00:00.000Z",
         "broadcast": "R/2025-12-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "5395"
+      },
+      {
+        "site": "anidb",
+        "id": "3961"
+      },
+      {
+        "site": "aniList",
+        "id": "5395"
       }
     ]
   },
@@ -73,6 +85,18 @@
       {
         "site": "tmdb",
         "id": "tv/3570/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "740"
+      },
+      {
+        "site": "anidb",
+        "id": "2539"
+      },
+      {
+        "site": "aniList",
+        "id": "740"
       }
     ]
   },
@@ -101,6 +125,18 @@
       {
         "site": "tmdb",
         "id": "movie/146090"
+      },
+      {
+        "site": "mal",
+        "id": "7816"
+      },
+      {
+        "site": "anidb",
+        "id": "6623"
+      },
+      {
+        "site": "aniList",
+        "id": "7816"
       }
     ]
   },
@@ -267,6 +303,18 @@
         "id": "SID0093081",
         "begin": "2023-10-01T03:00:00.000Z",
         "broadcast": "R/2023-10-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "22653"
+      },
+      {
+        "site": "anidb",
+        "id": "7834"
+      },
+      {
+        "site": "aniList",
+        "id": "138944"
       }
     ]
   },
@@ -304,6 +352,18 @@
       {
         "site": "tmdb",
         "id": "movie/522504"
+      },
+      {
+        "site": "mal",
+        "id": "9584"
+      },
+      {
+        "site": "anidb",
+        "id": "5756"
+      },
+      {
+        "site": "aniList",
+        "id": "9584"
       }
     ]
   },
@@ -335,6 +395,18 @@
       {
         "site": "tmdb",
         "id": "movie/582488"
+      },
+      {
+        "site": "mal",
+        "id": "9098"
+      },
+      {
+        "site": "anidb",
+        "id": "3342"
+      },
+      {
+        "site": "aniList",
+        "id": "9098"
       }
     ]
   }

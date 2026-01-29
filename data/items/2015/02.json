@@ -120,7 +120,19 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/88865"
+        "id": "movie/329365"
+      },
+      {
+        "site": "mal",
+        "id": "10937"
+      },
+      {
+        "site": "anidb",
+        "id": "8517"
+      },
+      {
+        "site": "aniList",
+        "id": "10937"
       }
     ]
   },
@@ -150,6 +162,18 @@
       {
         "site": "tmdb",
         "id": "movie/311054"
+      },
+      {
+        "site": "mal",
+        "id": "27969"
+      },
+      {
+        "site": "anidb",
+        "id": "10886"
+      },
+      {
+        "site": "aniList",
+        "id": "20908"
       }
     ]
   },
@@ -196,7 +220,19 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/52891"
+        "id": "movie/1123871"
+      },
+      {
+        "site": "mal",
+        "id": "23225"
+      },
+      {
+        "site": "anidb",
+        "id": "10528"
+      },
+      {
+        "site": "aniList",
+        "id": "20625"
       }
     ]
   },
@@ -229,13 +265,21 @@
       },
       {
         "site": "tmdb",
-        "id": "movie/969384"
+        "id": "tv/64492/season/0"
       },
       {
         "site": "danime",
         "id": "28578",
         "begin": "2025-12-31T15:00:00.000Z",
         "broadcast": "R/2025-12-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "28105"
+      },
+      {
+        "site": "aniList",
+        "id": "20938"
       }
     ]
   },
@@ -317,6 +361,18 @@
       {
         "site": "tmdb",
         "id": "tv/61512/season/0/episode/2"
+      },
+      {
+        "site": "mal",
+        "id": "27417"
+      },
+      {
+        "site": "anidb",
+        "id": "11491"
+      },
+      {
+        "site": "aniList",
+        "id": "20844"
       }
     ]
   }

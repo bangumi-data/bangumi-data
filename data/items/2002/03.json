@@ -37,7 +37,19 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/5653/season/1"
+        "id": "tv/5653"
+      },
+      {
+        "site": "mal",
+        "id": "1710"
+      },
+      {
+        "site": "anidb",
+        "id": "146"
+      },
+      {
+        "site": "aniList",
+        "id": "1710"
       }
     ]
   },
@@ -98,6 +110,18 @@
       {
         "site": "tmdb",
         "id": "movie/162095"
+      },
+      {
+        "site": "mal",
+        "id": "2655"
+      },
+      {
+        "site": "anidb",
+        "id": "6582"
+      },
+      {
+        "site": "aniList",
+        "id": "2655"
       }
     ]
   },
@@ -126,6 +150,18 @@
       {
         "site": "tmdb",
         "id": "tv/132166"
+      },
+      {
+        "site": "mal",
+        "id": "425"
+      },
+      {
+        "site": "anidb",
+        "id": "1192"
+      },
+      {
+        "site": "aniList",
+        "id": "425"
       }
     ]
   },
@@ -216,6 +252,18 @@
       {
         "site": "tmdb",
         "id": "movie/16402"
+      },
+      {
+        "site": "mal",
+        "id": "1290"
+      },
+      {
+        "site": "anidb",
+        "id": "537"
+      },
+      {
+        "site": "aniList",
+        "id": "1290"
       }
     ]
   },
@@ -307,6 +355,18 @@
       {
         "site": "tmdb",
         "id": "movie/36199"
+      },
+      {
+        "site": "mal",
+        "id": "3033"
+      },
+      {
+        "site": "anidb",
+        "id": "1475"
+      },
+      {
+        "site": "aniList",
+        "id": "3033"
       }
     ]
   },
@@ -343,8 +403,16 @@
         "broadcast": "R/2025-10-01T04:00:00.000Z/P7D"
       },
       {
-        "site": "tmdb",
-        "id": "movie/269354"
+        "site": "mal",
+        "id": "2733"
+      },
+      {
+        "site": "anidb",
+        "id": "770"
+      },
+      {
+        "site": "aniList",
+        "id": "2733"
       }
     ]
   },
@@ -374,6 +442,18 @@
       {
         "site": "tmdb",
         "id": "tv/115967"
+      },
+      {
+        "site": "mal",
+        "id": "337"
+      },
+      {
+        "site": "anidb",
+        "id": "157"
+      },
+      {
+        "site": "aniList",
+        "id": "337"
       }
     ]
   },
@@ -409,6 +489,18 @@
       {
         "site": "tmdb",
         "id": "tv/25015"
+      },
+      {
+        "site": "mal",
+        "id": "1706"
+      },
+      {
+        "site": "anidb",
+        "id": "1209"
+      },
+      {
+        "site": "aniList",
+        "id": "1706"
       }
     ]
   },
@@ -493,6 +585,18 @@
       {
         "site": "tmdb",
         "id": "movie/30491"
+      },
+      {
+        "site": "mal",
+        "id": "1141"
+      },
+      {
+        "site": "anidb",
+        "id": "604"
+      },
+      {
+        "site": "aniList",
+        "id": "1141"
       }
     ]
   },
@@ -522,7 +626,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/27244"
+        "id": "tv/27244/season/0"
       }
     ]
   }

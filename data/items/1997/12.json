@@ -71,6 +71,18 @@
       {
         "site": "tmdb",
         "id": "movie/1373767"
+      },
+      {
+        "site": "mal",
+        "id": "1398"
+      },
+      {
+        "site": "anidb",
+        "id": "497"
+      },
+      {
+        "site": "aniList",
+        "id": "1398"
       }
     ]
   },
@@ -112,6 +124,12 @@
       {
         "site": "abema",
         "id": "26-114",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "rurouni-kenshin-movie",
         "begin": "",
         "broadcast": ""
       }
@@ -160,6 +178,18 @@
       {
         "site": "tmdb",
         "id": "tv/74944"
+      },
+      {
+        "site": "mal",
+        "id": "1165"
+      },
+      {
+        "site": "anidb",
+        "id": "489"
+      },
+      {
+        "site": "aniList",
+        "id": "1165"
       }
     ]
   }

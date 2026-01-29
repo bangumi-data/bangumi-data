@@ -75,6 +75,18 @@
       {
         "site": "tmdb",
         "id": "tv/132168"
+      },
+      {
+        "site": "mal",
+        "id": "21335"
+      },
+      {
+        "site": "anidb",
+        "id": "10276"
+      },
+      {
+        "site": "aniList",
+        "id": "20532"
       }
     ]
   },
@@ -176,6 +188,18 @@
       {
         "site": "tmdb",
         "id": "movie/239530"
+      },
+      {
+        "site": "mal",
+        "id": "15813"
+      },
+      {
+        "site": "anidb",
+        "id": "9464"
+      },
+      {
+        "site": "aniList",
+        "id": "15813"
       }
     ]
   },
@@ -294,7 +318,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/57577/season/0/episode/1"
+        "id": "tv/57577/season/0"
       }
     ]
   },
@@ -462,7 +486,15 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/45501"
+        "id": "tv/45501/season/0/episode/15"
+      },
+      {
+        "site": "mal",
+        "id": "21797"
+      },
+      {
+        "site": "aniList",
+        "id": "20582"
       }
     ]
   },
@@ -540,7 +572,19 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/1429"
+        "id": "tv/1429/season/0/episode/7"
+      },
+      {
+        "site": "mal",
+        "id": "18397"
+      },
+      {
+        "site": "aniList",
+        "id": "18397"
+      },
+      {
+        "site": "anidb",
+        "id": "9826"
       }
     ]
   },
@@ -574,6 +618,18 @@
       {
         "site": "tmdb",
         "id": "movie/362479"
+      },
+      {
+        "site": "mal",
+        "id": "19587"
+      },
+      {
+        "site": "anidb",
+        "id": "9970"
+      },
+      {
+        "site": "aniList",
+        "id": "19587"
       }
     ]
   },
@@ -654,6 +710,18 @@
       {
         "site": "tmdb",
         "id": "tv/121620"
+      },
+      {
+        "site": "mal",
+        "id": "20539"
+      },
+      {
+        "site": "anidb",
+        "id": "12733"
+      },
+      {
+        "site": "aniList",
+        "id": "20484"
       }
     ]
   }

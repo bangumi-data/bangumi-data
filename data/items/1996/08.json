@@ -97,7 +97,8 @@
     "title": "新世紀GPXサイバーフォーミュラSAGA",
     "titleTranslate": {
       "zh-Hans": [
-        "高智能方程式：SAGA"
+        "高智能方程式：SAGA",
+        "閃電霹靂車SAGA"
       ],
       "zh-Hant": [
         "高智能方程式SAGA"
@@ -124,6 +125,22 @@
         "id": "11580",
         "begin": "2021-12-24T01:00:00.000Z",
         "broadcast": "R/2021-12-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/9320/season/4"
+      },
+      {
+        "site": "mal",
+        "id": "1394"
+      },
+      {
+        "site": "anidb",
+        "id": "2149"
+      },
+      {
+        "site": "aniList",
+        "id": "1394"
       }
     ]
   },
@@ -165,6 +182,18 @@
       {
         "site": "tmdb",
         "id": "movie/578374"
+      },
+      {
+        "site": "mal",
+        "id": "9824"
+      },
+      {
+        "site": "anidb",
+        "id": "7935"
+      },
+      {
+        "site": "aniList",
+        "id": "9824"
       }
     ]
   },

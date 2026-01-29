@@ -27,6 +27,18 @@
       {
         "site": "tmdb",
         "id": "movie/150027"
+      },
+      {
+        "site": "mal",
+        "id": "1924"
+      },
+      {
+        "site": "anidb",
+        "id": "382"
+      },
+      {
+        "site": "aniList",
+        "id": "1924"
       }
     ]
   },
@@ -55,6 +67,18 @@
       {
         "site": "tmdb",
         "id": "tv/223509"
+      },
+      {
+        "site": "mal",
+        "id": "8158"
+      },
+      {
+        "site": "anidb",
+        "id": "1454"
+      },
+      {
+        "site": "aniList",
+        "id": "8158"
       }
     ]
   },
@@ -90,6 +114,18 @@
       {
         "site": "tmdb",
         "id": "tv/88796"
+      },
+      {
+        "site": "mal",
+        "id": "2903"
+      },
+      {
+        "site": "anidb",
+        "id": "2070"
+      },
+      {
+        "site": "aniList",
+        "id": "2903"
       }
     ]
   },
@@ -119,6 +155,18 @@
       {
         "site": "tmdb",
         "id": "movie/301515"
+      },
+      {
+        "site": "mal",
+        "id": "2460"
+      },
+      {
+        "site": "anidb",
+        "id": "491"
+      },
+      {
+        "site": "aniList",
+        "id": "2460"
       }
     ]
   },
@@ -184,13 +232,25 @@
       },
       {
         "site": "tmdb",
-        "id": "movie/1047788"
+        "id": "tv/32377/season/0/episode/7"
       },
       {
         "site": "danime",
         "id": "28546",
         "begin": "2025-12-12T15:00:00.000Z",
         "broadcast": "R/2025-12-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "2585"
+      },
+      {
+        "site": "anidb",
+        "id": "4842"
+      },
+      {
+        "site": "aniList",
+        "id": "2585"
       }
     ]
   },
@@ -227,6 +287,18 @@
       {
         "site": "tmdb",
         "id": "tv/158349"
+      },
+      {
+        "site": "mal",
+        "id": "5372"
+      },
+      {
+        "site": "anidb",
+        "id": "2468"
+      },
+      {
+        "site": "aniList",
+        "id": "5372"
       }
     ]
   },
@@ -266,7 +338,19 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/14290/season/0/episode/1"
+        "id": "tv/14290/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "6577"
+      },
+      {
+        "site": "anidb",
+        "id": "4110"
+      },
+      {
+        "site": "aniList",
+        "id": "6577"
       }
     ]
   },
@@ -336,6 +420,18 @@
       {
         "site": "tmdb",
         "id": "movie/166795"
+      },
+      {
+        "site": "mal",
+        "id": "3135"
+      },
+      {
+        "site": "anidb",
+        "id": "2622"
+      },
+      {
+        "site": "aniList",
+        "id": "3135"
       }
     ]
   }

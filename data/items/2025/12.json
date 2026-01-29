@@ -50,6 +50,18 @@
         "id": "28508",
         "begin": "2025-12-04T03:30:00.000Z",
         "broadcast": "R/2025-12-04T03:30:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "62521"
+      },
+      {
+        "site": "anidb",
+        "id": "19565"
+      },
+      {
+        "site": "aniList",
+        "id": "199005"
       }
     ]
   },
@@ -115,6 +127,18 @@
       {
         "site": "mikan",
         "id": "3820"
+      },
+      {
+        "site": "mal",
+        "id": "61333"
+      },
+      {
+        "site": "anidb",
+        "id": "19258"
+      },
+      {
+        "site": "aniList",
+        "id": "189258"
       }
     ]
   },
@@ -155,6 +179,28 @@
       {
         "site": "mikan",
         "id": "3869"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/83121/season/0/episode/5"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kaguya_love5",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "61903"
+      },
+      {
+        "site": "anidb",
+        "id": "19402"
+      },
+      {
+        "site": "aniList",
+        "id": "194884"
       }
     ]
   },
@@ -162,7 +208,8 @@
     "title": "シンデレラ・シェフ ～萌妻食神～ シーズン2",
     "titleTranslate": {
       "zh-Hans": [
-        "萌妻食神之再结良缘"
+        "萌妻食神之再结良缘",
+        "萌妻食神 第二季"
       ],
       "en": [
         "Cinderella Chef 2nd Season"
@@ -191,6 +238,16 @@
         "id": "28507",
         "begin": "2025-12-24T09:00:00.000Z",
         "broadcast": "R/2025-12-24T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/87978/season/2"
+      },
+      {
+        "site": "unext",
+        "id": "SID0260178",
+        "begin": "2026-01-19T09:00:00.000Z",
+        "broadcast": "R/2026-01-19T09:00:00.000Z/P7D"
       }
     ]
   },

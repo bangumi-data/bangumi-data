@@ -21,6 +21,18 @@
       {
         "site": "tmdb",
         "id": "tv/53353"
+      },
+      {
+        "site": "mal",
+        "id": "6890"
+      },
+      {
+        "site": "anidb",
+        "id": "6717"
+      },
+      {
+        "site": "aniList",
+        "id": "6890"
       }
     ]
   },
@@ -36,6 +48,18 @@
       {
         "site": "bangumi",
         "id": "113564"
+      },
+      {
+        "site": "mal",
+        "id": "6947"
+      },
+      {
+        "site": "anidb",
+        "id": "6771"
+      },
+      {
+        "site": "aniList",
+        "id": "6947"
       }
     ]
   },
@@ -192,6 +216,18 @@
       {
         "site": "tmdb",
         "id": "movie/36728"
+      },
+      {
+        "site": "mal",
+        "id": "6325"
+      },
+      {
+        "site": "anidb",
+        "id": "6503"
+      },
+      {
+        "site": "aniList",
+        "id": "6325"
       }
     ]
   },
@@ -224,6 +260,18 @@
       {
         "site": "tmdb",
         "id": "movie/39544"
+      },
+      {
+        "site": "mal",
+        "id": "5998"
+      },
+      {
+        "site": "anidb",
+        "id": "6299"
+      },
+      {
+        "site": "aniList",
+        "id": "5998"
       }
     ]
   },
@@ -254,6 +302,18 @@
       {
         "site": "tmdb",
         "id": "movie/364134"
+      },
+      {
+        "site": "mal",
+        "id": "6693"
+      },
+      {
+        "site": "anidb",
+        "id": "6536"
+      },
+      {
+        "site": "aniList",
+        "id": "6693"
       }
     ]
   },
@@ -282,7 +342,11 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/45527/season/0"
+        "id": "tv/45527/season/0/episode/3"
+      },
+      {
+        "site": "anidb",
+        "id": "6779"
       }
     ]
   },
@@ -368,6 +432,18 @@
       {
         "site": "tmdb",
         "id": "movie/783187"
+      },
+      {
+        "site": "mal",
+        "id": "10901"
+      },
+      {
+        "site": "anidb",
+        "id": "6759"
+      },
+      {
+        "site": "aniList",
+        "id": "10901"
       }
     ]
   }
