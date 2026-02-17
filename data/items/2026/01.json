@@ -213,6 +213,12 @@
       {
         "site": "aniList",
         "id": "182255"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GG5H5XQX4",
+        "begin": "2026-01-16T15:00:00.000Z",
+        "broadcast": "R/2026-01-16T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -278,6 +284,10 @@
         "id": "B0DPGK7W3T",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3822"
       }
     ]
   },
@@ -407,6 +417,12 @@
       {
         "site": "aniList",
         "id": "166521"
+      },
+      {
+        "site": "danime",
+        "id": "28659",
+        "begin": "2026-01-26T14:00:00.000Z",
+        "broadcast": "R/2026-01-26T14:00:00.000Z/P7D"
       }
     ]
   },
@@ -2072,15 +2088,17 @@
       },
       {
         "site": "ani_one",
-        "id": "PLC18xlbCdwtTaQB1s5HTmSmMjSetP7urN",
-        "begin": "",
-        "broadcast": ""
+        "id": "PLC18xlbCdwtSl3gJnbFt4Jp9JauRadlb7",
+        "begin": "2026-02-07T13:00:07.000Z",
+        "broadcast": "R/2026-02-07T13:00:07.000Z/P7D",
+        "comment": "ULTRA 會員搶先看: PLC18xlbCdwtTaQB1s5HTmSmMjSetP7urN"
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7JhI_LMRY2MHHGdT1QxjvlG6",
-        "begin": "",
-        "broadcast": ""
+        "id": "PLxSscENEp7JiBn0KYLdsXFo7xy06094DR",
+        "begin": "2026-02-07T13:00:06.000Z",
+        "broadcast": "R/2026-02-07T13:00:06.000Z/P7D",
+        "comment": "ULTRA 會員搶先看: PLxSscENEp7JhI_LMRY2MHHGdT1QxjvlG6"
       },
       {
         "site": "viu",
@@ -2868,9 +2886,10 @@
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7Jhq08yiz58yytNN3EGYsKwu",
-        "begin": "",
-        "broadcast": ""
+        "id": "PLxSscENEp7JgUtrkd6tikPRql9V5ym38F",
+        "begin": "2026-02-15T08:30:06.000Z",
+        "broadcast": "R/2026-02-15T08:30:06.000Z/P7D",
+        "comment": "ULTRA 會員搶先看: PLxSscENEp7Jhq08yiz58yytNN3EGYsKwu"
       },
       {
         "site": "mikan",
@@ -2893,6 +2912,12 @@
       {
         "site": "aniList",
         "id": "184951"
+      },
+      {
+        "site": "bilibili",
+        "id": "292073015",
+        "begin": "2026-01-25T08:30:00.000Z",
+        "broadcast": "R/2026-01-25T08:30:00.000Z/P7D"
       }
     ]
   },
@@ -3312,13 +3337,15 @@
         "site": "danime",
         "id": "28600",
         "begin": "2026-01-08T15:00:00.000Z",
-        "broadcast": "R/2026-01-08T15:00:00.000Z/P7D"
+        "broadcast": "R/2026-01-08T15:00:00.000Z/P7D",
+        "comment": "字幕版: 28653, 副音声版: 28654"
       },
       {
         "site": "unext",
         "id": "SID0249084",
         "begin": "2026-01-08T15:00:00.000Z",
-        "broadcast": "R/2026-01-08T15:00:00.000Z/P7D"
+        "broadcast": "R/2026-01-08T15:00:00.000Z/P7D",
+        "comment": "日本語字幕版: SID0268547, 音声ガイド版: SID0268548"
       },
       {
         "site": "mikan",
@@ -4339,6 +4366,12 @@
       {
         "site": "aniList",
         "id": "203148"
+      },
+      {
+        "site": "prime",
+        "id": "B0G46C671K",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5202,6 +5235,12 @@
       {
         "site": "aniList",
         "id": "182587"
+      },
+      {
+        "site": "netflix",
+        "id": "81684733",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5465,6 +5504,12 @@
         "id": "SID0260374",
         "begin": "2026-01-11T15:00:00.000Z",
         "broadcast": "R/2026-01-11T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "13-205",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5642,6 +5687,12 @@
         "id": "SID0260743",
         "begin": "2026-01-19T09:00:00.000Z",
         "broadcast": "R/2026-01-19T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0GFVWQW2R",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5687,6 +5738,10 @@
       {
         "site": "aniList",
         "id": "201903"
+      },
+      {
+        "site": "mikan",
+        "id": "3878"
       }
     ]
   }

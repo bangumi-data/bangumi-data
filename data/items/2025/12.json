@@ -201,6 +201,12 @@
       {
         "site": "aniList",
         "id": "194884"
+      },
+      {
+        "site": "unext",
+        "id": "SID0267779",
+        "begin": "2026-01-31T15:00:00.000Z",
+        "broadcast": "R/2026-01-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -291,6 +297,39 @@
       {
         "site": "mikan",
         "id": "3872"
+      }
+    ]
+  },
+  {
+    "title": "ガールズ&パンツァー もっとらぶらぶ作戦です! 第1幕",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少女与战车 lovelove大作战 第1幕"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://gup-mottolovelove.jp/",
+    "begin": "2025-12-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-12-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "544624"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gup-mottolovelove",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0261887",
+        "begin": "2026-01-29T15:00:00.000Z",
+        "broadcast": "R/2026-01-29T15:00:00.000Z/P7D"
       }
     ]
   }
