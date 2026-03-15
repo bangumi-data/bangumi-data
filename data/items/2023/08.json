@@ -87,6 +87,24 @@
       {
         "site": "aniList",
         "id": "165426"
+      },
+      {
+        "site": "unext",
+        "id": "SID0276114",
+        "begin": "2026-02-24T15:00:00.000Z",
+        "broadcast": "R/2026-02-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28618",
+        "begin": "2026-02-24T15:00:00.000Z",
+        "broadcast": "R/2026-02-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-312",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -152,6 +170,18 @@
       {
         "site": "tmdb",
         "id": "movie/1108306"
+      },
+      {
+        "site": "mal",
+        "id": "51995"
+      },
+      {
+        "site": "aniList",
+        "id": "150429"
+      },
+      {
+        "site": "anidb",
+        "id": "17441"
       }
     ]
   },
@@ -250,12 +280,6 @@
         "broadcast": "R/2024-04-06T02:00:00.000Z/P7D"
       },
       {
-        "site": "netflix",
-        "id": "81729645",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "movie/1059572"
       },
@@ -270,6 +294,12 @@
       {
         "site": "aniList",
         "id": "158595"
+      },
+      {
+        "site": "abema",
+        "id": "35-89",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

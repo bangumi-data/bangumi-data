@@ -370,7 +370,7 @@
       },
       {
         "site": "abema",
-        "id": "35-46",
+        "id": "35-123",
         "begin": "",
         "broadcast": ""
       },
@@ -686,6 +686,14 @@
       {
         "site": "tmdb",
         "id": "tv/75992/season/0/episode/2"
+      },
+      {
+        "site": "mal",
+        "id": "22071"
+      },
+      {
+        "site": "aniList",
+        "id": "20633"
       }
     ]
   },
@@ -901,12 +909,6 @@
       {
         "site": "tmdb",
         "id": "movie/405461"
-      },
-      {
-        "site": "netflix",
-        "id": "80062001",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "mal",

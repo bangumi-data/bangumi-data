@@ -538,6 +538,18 @@
       {
         "site": "tmdb",
         "id": "tv/223565"
+      },
+      {
+        "site": "mal",
+        "id": "54716"
+      },
+      {
+        "site": "aniList",
+        "id": "162720"
+      },
+      {
+        "site": "anidb",
+        "id": "17907"
       }
     ]
   },
@@ -1047,12 +1059,6 @@
         "id": "tv/153450"
       },
       {
-        "site": "netflix",
-        "id": "81729724",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mal",
         "id": "50586"
       },
@@ -1457,6 +1463,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "暂停！让我查攻略"
+      ],
+      "zh-Hant": [
+        "暫停！讓我查攻略"
+      ],
+      "en": [
+        "Let Me Check the Walkthrough First"
       ]
     },
     "type": "tv",
@@ -1496,6 +1508,24 @@
       {
         "site": "tmdb",
         "id": "tv/139171"
+      },
+      {
+        "site": "mal",
+        "id": "50571"
+      },
+      {
+        "site": "aniList",
+        "id": "141882"
+      },
+      {
+        "site": "anidb",
+        "id": "17425"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JiW3En0BYAe0K411ZofSpyF",
+        "begin": "2026-03-10T12:00:06.000Z",
+        "broadcast": "R/2026-03-10T12:00:06.000Z/P7D"
       }
     ]
   },
@@ -1904,12 +1934,6 @@
         "broadcast": "R/2023-10-13T09:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "54-64",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0091757",
         "begin": "2023-10-10T13:00:00.000Z",
@@ -2259,12 +2283,6 @@
         "broadcast": "R/2023-10-15T08:10:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "632-4",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0091716",
         "begin": "2023-10-15T08:10:00.000Z",
@@ -2608,6 +2626,12 @@
       {
         "site": "aniList",
         "id": "161964"
+      },
+      {
+        "site": "disneyplus",
+        "id": "5I6JkWfEmf0M",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3075,12 +3099,6 @@
         "broadcast": "R/2023-10-02T13:30:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "25-248",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0091729",
         "begin": "2023-10-02T13:30:00.000Z",
@@ -3173,12 +3191,6 @@
         "id": "butaliver-anime",
         "begin": "2023-10-12T15:30:00.000Z",
         "broadcast": "R/2023-10-12T15:30:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "25-245",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -3404,12 +3416,6 @@
         "broadcast": "R/2024-11-12T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "643-2",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "26588",
         "begin": "2025-02-28T15:00:00.000Z",
@@ -3566,12 +3572,6 @@
         "id": "seijyonomaryoku2",
         "begin": "2023-10-08T15:00:00.000Z",
         "broadcast": "R/2023-10-08T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "25-167",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -4749,6 +4749,12 @@
       {
         "site": "aniList",
         "id": "166896"
+      },
+      {
+        "site": "danime",
+        "id": "26615",
+        "begin": "2026-02-28T15:00:00.000Z",
+        "broadcast": "R/2026-02-28T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -5260,12 +5266,6 @@
         "id": "kanokano-anime2",
         "begin": "2023-10-12T17:23:00.000Z",
         "broadcast": "R/2023-10-12T17:23:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "11-38",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -6230,6 +6230,18 @@
       {
         "site": "tmdb",
         "id": "movie/1223906"
+      },
+      {
+        "site": "mal",
+        "id": "54792"
+      },
+      {
+        "site": "aniList",
+        "id": "162989"
+      },
+      {
+        "site": "anidb",
+        "id": "17928"
       }
     ]
   },

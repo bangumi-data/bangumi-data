@@ -158,12 +158,6 @@
         "broadcast": "R/2024-03-29T04:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "203-5",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/902"
       },
@@ -406,6 +400,18 @@
       {
         "site": "tmdb",
         "id": "movie/423126"
+      },
+      {
+        "site": "mal",
+        "id": "1124"
+      },
+      {
+        "site": "aniList",
+        "id": "1124"
+      },
+      {
+        "site": "anidb",
+        "id": "6"
       }
     ]
   },
@@ -723,7 +729,7 @@
       },
       {
         "site": "abema",
-        "id": "35-55",
+        "id": "35-66",
         "begin": "",
         "broadcast": ""
       },
@@ -1009,6 +1015,18 @@
       {
         "site": "tmdb",
         "id": "tv/36247/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "332"
+      },
+      {
+        "site": "aniList",
+        "id": "332"
+      },
+      {
+        "site": "anidb",
+        "id": "1619"
       }
     ]
   },
@@ -1205,6 +1223,18 @@
       {
         "site": "tmdb",
         "id": "tv/26209/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "1381"
+      },
+      {
+        "site": "aniList",
+        "id": "1381"
+      },
+      {
+        "site": "anidb",
+        "id": "1623"
       }
     ]
   },

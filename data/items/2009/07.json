@@ -640,6 +640,18 @@
       {
         "site": "tmdb",
         "id": "tv/26707/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "5341"
+      },
+      {
+        "site": "aniList",
+        "id": "5341"
+      },
+      {
+        "site": "anidb",
+        "id": "6169"
       }
     ]
   },
@@ -938,14 +950,26 @@
         "broadcast": "R/2022-06-21T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "746-12",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "movie/39057"
+      },
+      {
+        "site": "mal",
+        "id": "6178"
+      },
+      {
+        "site": "aniList",
+        "id": "6178"
+      },
+      {
+        "site": "anidb",
+        "id": "6316"
+      },
+      {
+        "site": "danime",
+        "id": "26001",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1185,6 +1209,22 @@
         "id": "SID0018557",
         "begin": "2015-06-01T06:00:00.000Z",
         "broadcast": "R/2015-06-01T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "21945"
+      },
+      {
+        "site": "aniList",
+        "id": "169982"
+      },
+      {
+        "site": "anidb",
+        "id": "7740"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/56389/season/0"
       }
     ]
   },
@@ -1218,6 +1258,18 @@
       {
         "site": "tmdb",
         "id": "movie/361497"
+      },
+      {
+        "site": "mal",
+        "id": "17213"
+      },
+      {
+        "site": "aniList",
+        "id": "17213"
+      },
+      {
+        "site": "anidb",
+        "id": "7397"
       }
     ]
   }

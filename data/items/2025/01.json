@@ -751,12 +751,6 @@
         "broadcast": "R/2025-01-03T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "26-232",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "27610",
         "begin": "2025-01-03T15:00:00.000Z",
@@ -3874,12 +3868,6 @@
         "broadcast": "R/2025-01-11T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "26-191",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bangumi_moe",
         "id": "677aa0982f6756712facfc92"
       },
@@ -4223,6 +4211,18 @@
       {
         "site": "tmdb",
         "id": "tv/106301/season/7"
+      },
+      {
+        "site": "mal",
+        "id": "54144"
+      },
+      {
+        "site": "aniList",
+        "id": "182920"
+      },
+      {
+        "site": "anidb",
+        "id": "19050"
       }
     ]
   },
@@ -4395,12 +4395,6 @@
         "broadcast": "R/2025-01-07T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "26-215",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "crunchyroll",
         "id": "GDKHZEJ0K",
         "begin": "2024-01-06T15:00:00.000Z",
@@ -4488,12 +4482,6 @@
       {
         "site": "bangumi_moe",
         "id": "677aa08a2f6756712facfc4e"
-      },
-      {
-        "site": "abema",
-        "id": "643-8",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "nicovideo",

@@ -132,12 +132,6 @@
         "broadcast": "R/2025-07-25T04:00:00.000Z/P7D"
       },
       {
-        "site": "netflix",
-        "id": "80152850",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/30623"
       },
@@ -355,6 +349,18 @@
       {
         "site": "tmdb",
         "id": "tv/197275"
+      },
+      {
+        "site": "mal",
+        "id": "27681"
+      },
+      {
+        "site": "aniList",
+        "id": "136645"
+      },
+      {
+        "site": "anidb",
+        "id": "9171"
       }
     ]
   },

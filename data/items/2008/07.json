@@ -1270,14 +1270,26 @@
         "broadcast": "R/2022-06-21T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "746-11",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "movie/47292"
+      },
+      {
+        "site": "mal",
+        "id": "4026"
+      },
+      {
+        "site": "aniList",
+        "id": "4026"
+      },
+      {
+        "site": "anidb",
+        "id": "5772"
+      },
+      {
+        "site": "danime",
+        "id": "26000",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1441,6 +1453,18 @@
       {
         "site": "tmdb",
         "id": "movie/436736"
+      },
+      {
+        "site": "mal",
+        "id": "21951"
+      },
+      {
+        "site": "aniList",
+        "id": "121840"
+      },
+      {
+        "site": "anidb",
+        "id": "6079"
       }
     ]
   },

@@ -323,12 +323,6 @@
         "broadcast": "R/2016-03-23T01:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "25-17",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/68642"
       },
@@ -702,12 +696,6 @@
       {
         "site": "mikan",
         "id": "437"
-      },
-      {
-        "site": "abema",
-        "id": "198-14",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",
@@ -1669,6 +1657,12 @@
       {
         "site": "aniList",
         "id": "20799"
+      },
+      {
+        "site": "prime",
+        "id": "B0BZZNZJM4",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1879,9 +1873,9 @@
       },
       {
         "site": "muse_hk",
-        "id": "PLuxqoToY7Ucib76kq1h8C6T0TTmG-bW9b",
-        "begin": "2021-06-30T16:00:00.000Z",
-        "broadcast": "R/2021-06-30T16:00:00.000Z/P7D"
+        "id": "PLuxqoToY7UcgmZOiB-pq4hTtAwdpbzySi",
+        "begin": "2026-03-04T14:00:06.000Z",
+        "broadcast": "R/2026-03-04T14:00:06.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -1932,13 +1926,6 @@
         "broadcast": "R/2015-01-10T03:00:00.000Z/P7D"
       },
       {
-        "site": "muse_tw",
-        "id": "PL12UaAf_xzfrUmit6EAe4T5EWUGoE59Or",
-        "begin": "2022-08-13T04:00:08.000Z",
-        "broadcast": "R/2022-08-13T04:00:08.000Z/P7D",
-        "comment": "國語: PL12UaAf_xzfpNZtjdA1gfJX0Ev4BZDo7_"
-      },
-      {
         "site": "crunchyroll",
         "id": "GRE59JGX6",
         "begin": "2016-11-22T15:00:00.000Z",
@@ -1959,6 +1946,12 @@
       {
         "site": "aniList",
         "id": "20755"
+      },
+      {
+        "site": "prime",
+        "id": "B0GDTSG931",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2238,6 +2231,18 @@
       {
         "site": "aniList",
         "id": "20840"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017798",
+        "begin": "2026-03-12T15:00:00.000Z",
+        "broadcast": "R/2026-03-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28731",
+        "begin": "2026-03-12T15:00:00.000Z",
+        "broadcast": "R/2026-03-12T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2872,6 +2877,18 @@
       {
         "site": "bangumi",
         "id": "84705"
+      },
+      {
+        "site": "mal",
+        "id": "27997"
+      },
+      {
+        "site": "aniList",
+        "id": "21834"
+      },
+      {
+        "site": "anidb",
+        "id": "10890"
       }
     ]
   },
@@ -2901,6 +2918,18 @@
       {
         "site": "tmdb",
         "id": "tv/65614/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "22117"
+      },
+      {
+        "site": "aniList",
+        "id": "20601"
+      },
+      {
+        "site": "anidb",
+        "id": "10397"
       }
     ]
   },
@@ -2971,6 +3000,14 @@
         "id": "26117",
         "begin": "2023-03-01T01:00:00.000Z",
         "broadcast": "R/2023-03-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "56452"
+      },
+      {
+        "site": "aniList",
+        "id": "202421"
       }
     ]
   }

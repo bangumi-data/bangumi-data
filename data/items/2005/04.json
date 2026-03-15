@@ -587,6 +587,18 @@
       {
         "site": "tmdb",
         "id": "tv/21236"
+      },
+      {
+        "site": "mal",
+        "id": "505"
+      },
+      {
+        "site": "aniList",
+        "id": "505"
+      },
+      {
+        "site": "anidb",
+        "id": "2829"
       }
     ]
   },
@@ -616,6 +628,18 @@
       {
         "site": "tmdb",
         "id": "tv/25099/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "706"
+      },
+      {
+        "site": "aniList",
+        "id": "706"
+      },
+      {
+        "site": "anidb",
+        "id": "3068"
       }
     ]
   },
@@ -1327,12 +1351,6 @@
         "id": "2981"
       },
       {
-        "site": "gamer_hk",
-        "id": "16526",
-        "begin": "2022-01-14T03:00:00.000Z",
-        "broadcast": "R/2022-01-14T03:00:00.000Z/P7D"
-      },
-      {
         "site": "gamer",
         "id": "16526",
         "begin": "2022-01-14T03:00:00.000Z",
@@ -1513,6 +1531,12 @@
       {
         "site": "aniList",
         "id": "8687"
+      },
+      {
+        "site": "prime",
+        "id": "B0DPSKJJFC",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1559,7 +1583,7 @@
       },
       {
         "site": "abema",
-        "id": "35-55",
+        "id": "35-71",
         "begin": "",
         "broadcast": ""
       },
@@ -1770,6 +1794,18 @@
       {
         "site": "tmdb",
         "id": "movie/27812"
+      },
+      {
+        "site": "mal",
+        "id": "1192"
+      },
+      {
+        "site": "aniList",
+        "id": "1192"
+      },
+      {
+        "site": "anidb",
+        "id": "2178"
       }
     ]
   }

@@ -31,12 +31,6 @@
         "broadcast": "R/2023-12-22T09:00:00.000Z/P7D"
       },
       {
-        "site": "netflix",
-        "id": "60000043",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "movie/10494"
       },
@@ -88,6 +82,18 @@
       {
         "site": "tmdb",
         "id": "movie/280594"
+      },
+      {
+        "site": "mal",
+        "id": "2067"
+      },
+      {
+        "site": "aniList",
+        "id": "2067"
+      },
+      {
+        "site": "anidb",
+        "id": "666"
       }
     ]
   },
@@ -172,6 +178,18 @@
       {
         "site": "tmdb",
         "id": "movie/310742"
+      },
+      {
+        "site": "mal",
+        "id": "1027"
+      },
+      {
+        "site": "aniList",
+        "id": "1027"
+      },
+      {
+        "site": "anidb",
+        "id": "1140"
       }
     ]
   },

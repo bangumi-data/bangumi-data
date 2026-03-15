@@ -1118,22 +1118,10 @@
         "id": "魔力家族|arcana+famiglia"
       },
       {
-        "site": "gamer_hk",
-        "id": "54244",
-        "begin": "2019-07-04T09:00:00.000Z",
-        "broadcast": "R/2019-07-04T09:00:00.000Z/P7D"
-      },
-      {
         "site": "danime",
         "id": "10514",
         "begin": "2012-07-09T03:00:00.000Z",
         "broadcast": "R/2012-07-09T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "muse_tw",
-        "id": "PL12UaAf_xzfqlSRTvZZ8ijnXzsa1LwVgf",
-        "begin": "2019-12-28T11:30:09.000Z",
-        "broadcast": "R/2019-12-28T11:30:09.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -1699,12 +1687,6 @@
         "broadcast": "R/2022-06-21T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "746-16",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "movie/150213"
       },
@@ -1807,6 +1789,12 @@
       {
         "site": "aniList",
         "id": "13799"
+      },
+      {
+        "site": "abema",
+        "id": "746-30",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1848,6 +1836,18 @@
       {
         "site": "tmdb",
         "id": "movie/118408"
+      },
+      {
+        "site": "mal",
+        "id": "13215"
+      },
+      {
+        "site": "aniList",
+        "id": "13215"
+      },
+      {
+        "site": "anidb",
+        "id": "8922"
       }
     ]
   },
@@ -1919,6 +1919,18 @@
       {
         "site": "tmdb",
         "id": "tv/31724/season/0/episode/34"
+      },
+      {
+        "site": "mal",
+        "id": "12685"
+      },
+      {
+        "site": "aniList",
+        "id": "12685"
+      },
+      {
+        "site": "anidb",
+        "id": "8914"
       }
     ]
   },
@@ -2194,6 +2206,18 @@
       {
         "site": "tmdb",
         "id": "movie/716735"
+      },
+      {
+        "site": "mal",
+        "id": "27683"
+      },
+      {
+        "site": "aniList",
+        "id": "121823"
+      },
+      {
+        "site": "anidb",
+        "id": "9791"
       }
     ]
   },
@@ -2295,6 +2319,18 @@
       {
         "site": "tmdb",
         "id": "movie/132037"
+      },
+      {
+        "site": "mal",
+        "id": "15077"
+      },
+      {
+        "site": "aniList",
+        "id": "15077"
+      },
+      {
+        "site": "anidb",
+        "id": "9349"
       }
     ]
   }

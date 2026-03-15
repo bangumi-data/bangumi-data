@@ -491,6 +491,12 @@
       {
         "site": "aniList",
         "id": "97907"
+      },
+      {
+        "site": "abema",
+        "id": "168-3",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1748,12 +1754,6 @@
       {
         "site": "tmdb",
         "id": "tv/76139"
-      },
-      {
-        "site": "netflix",
-        "id": "80228291",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "mal",
@@ -3268,6 +3268,12 @@
       {
         "site": "aniList",
         "id": "99539"
+      },
+      {
+        "site": "abema",
+        "id": "26-82",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3373,12 +3379,6 @@
       {
         "site": "tmdb",
         "id": "tv/76128"
-      },
-      {
-        "site": "abema",
-        "id": "775-2",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "mal",
@@ -3631,6 +3631,12 @@
       {
         "site": "aniList",
         "id": "100332"
+      },
+      {
+        "site": "danime",
+        "id": "24359",
+        "begin": "2026-02-28T15:00:00.000Z",
+        "broadcast": "R/2026-02-28T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3684,6 +3690,10 @@
       {
         "site": "tmdb",
         "id": "tv/75778"
+      },
+      {
+        "site": "mal",
+        "id": "36840"
       }
     ]
   },
@@ -3753,6 +3763,18 @@
       {
         "site": "bangumi",
         "id": "222884"
+      },
+      {
+        "site": "mal",
+        "id": "36996"
+      },
+      {
+        "site": "aniList",
+        "id": "101077"
+      },
+      {
+        "site": "anidb",
+        "id": "13685"
       }
     ]
   },
@@ -3902,21 +3924,9 @@
         "id": "217239"
       },
       {
-        "site": "nicovideo",
-        "id": "ginno-guardian2",
-        "begin": "2018-01-13T13:00:00.000Z",
-        "broadcast": "R/2018-01-13T13:00:00.000Z/P7D"
-      },
-      {
         "site": "youku",
         "id": "efbfbd15d385efbfbdef",
         "begin": "2018-01-11T02:00:07.000Z"
-      },
-      {
-        "site": "unext",
-        "id": "SID0032944",
-        "begin": "2018-01-14T03:00:00.000Z",
-        "broadcast": "R/2018-01-14T03:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -4062,6 +4072,14 @@
         "id": "23924",
         "begin": "2020-05-01T01:00:00.000Z",
         "broadcast": "R/2020-05-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "37054"
+      },
+      {
+        "site": "anidb",
+        "id": "13716"
       }
     ]
   },
@@ -4135,6 +4153,18 @@
       {
         "site": "tmdb",
         "id": "movie/492999"
+      },
+      {
+        "site": "mal",
+        "id": "36702"
+      },
+      {
+        "site": "aniList",
+        "id": "100465"
+      },
+      {
+        "site": "anidb",
+        "id": "13546"
       }
     ]
   },
@@ -4270,6 +4300,14 @@
       {
         "site": "tmdb",
         "id": "movie/579564"
+      },
+      {
+        "site": "mal",
+        "id": "36343"
+      },
+      {
+        "site": "aniList",
+        "id": "115916"
       }
     ]
   },
@@ -4331,6 +4369,14 @@
       {
         "site": "tmdb",
         "id": "movie/579567"
+      },
+      {
+        "site": "mal",
+        "id": "36344"
+      },
+      {
+        "site": "aniList",
+        "id": "115918"
       }
     ]
   },
@@ -4568,6 +4614,14 @@
       {
         "site": "tmdb",
         "id": "tv/57041/season/10"
+      },
+      {
+        "site": "mal",
+        "id": "36838"
+      },
+      {
+        "site": "aniList",
+        "id": "100784"
       }
     ]
   }

@@ -25,12 +25,6 @@
         "broadcast": "R/2024-09-07T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "54-94",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mikan",
         "id": "3415"
       },
@@ -412,12 +406,6 @@
         "id": "3648"
       },
       {
-        "site": "netflix",
-        "id": "82040442",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "28243",
         "begin": "2025-09-25T15:00:00.000Z",
@@ -450,6 +438,18 @@
       {
         "site": "tmdb",
         "id": "movie/1014505"
+      },
+      {
+        "site": "mal",
+        "id": "48896"
+      },
+      {
+        "site": "aniList",
+        "id": "133845"
+      },
+      {
+        "site": "anidb",
+        "id": "16297"
       }
     ]
   },
@@ -481,6 +481,39 @@
       {
         "site": "nicovideo",
         "id": "mygo-movie-bang-dream",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28630",
+        "begin": "2026-02-28T15:00:00.000Z",
+        "broadcast": "R/2026-02-28T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "POKÉTOON 2024",
+    "titleTranslate": {
+      "zh-Hans": [
+        "POKÉTOON动画系列2024"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.pokemon.co.jp/ex/poketoon/2024/",
+    "begin": "2024-09-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-02-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "513788"
+      },
+      {
+        "site": "abema",
+        "id": "2-43",
         "begin": "",
         "broadcast": ""
       }

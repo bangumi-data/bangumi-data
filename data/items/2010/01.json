@@ -244,12 +244,6 @@
         "broadcast": "R/2022-03-04T13:00:09.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "25-33",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/56343"
       },
@@ -1120,6 +1114,18 @@
       {
         "site": "tmdb",
         "id": "movie/972868"
+      },
+      {
+        "site": "mal",
+        "id": "7597"
+      },
+      {
+        "site": "aniList",
+        "id": "7597"
+      },
+      {
+        "site": "anidb",
+        "id": "7318"
       }
     ]
   },
@@ -1200,6 +1206,18 @@
       {
         "site": "tmdb",
         "id": "tv/279426"
+      },
+      {
+        "site": "mal",
+        "id": "7668"
+      },
+      {
+        "site": "aniList",
+        "id": "7668"
+      },
+      {
+        "site": "anidb",
+        "id": "7376"
       }
     ]
   },
@@ -1321,6 +1339,18 @@
       {
         "site": "tmdb",
         "id": "movie/863158"
+      },
+      {
+        "site": "mal",
+        "id": "8357"
+      },
+      {
+        "site": "aniList",
+        "id": "8357"
+      },
+      {
+        "site": "anidb",
+        "id": "6958"
       }
     ]
   }

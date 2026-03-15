@@ -416,12 +416,6 @@
         "broadcast": "R/2019-01-11T03:00:00.000Z/P7D"
       },
       {
-        "site": "gamer_hk",
-        "id": "95932",
-        "begin": "2019-01-07T17:30:00.000Z",
-        "broadcast": "R/2019-01-07T17:30:00.000Z/P7D"
-      },
-      {
         "site": "bangumi_moe",
         "id": "5c2b730796ff38314480b5de"
       },
@@ -1321,7 +1315,8 @@
         "site": "danime",
         "id": "22867",
         "begin": "2019-07-01T01:00:00.000Z",
-        "broadcast": "R/2019-07-01T01:00:00.000Z/P7D"
+        "broadcast": "R/2019-07-01T01:00:00.000Z/P7D",
+        "comment": "にゃんコレVer., TV ver.: 22544"
       },
       {
         "site": "tmdb",
@@ -1573,18 +1568,6 @@
       {
         "site": "mikan",
         "id": "1845"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "79337",
-        "begin": "2019-01-20T16:45:00.000Z",
-        "broadcast": "R/2019-01-20T16:45:00.000Z/P7D"
-      },
-      {
-        "site": "muse_tw",
-        "id": "PL12UaAf_xzfoksEm5x0YErVyZwJ1njjUB",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "tmdb",
@@ -2097,12 +2080,6 @@
         "id": "SID0054396",
         "begin": "2021-01-07T03:00:00.000Z",
         "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "102578",
-        "begin": "2019-01-12T14:00:00.000Z",
-        "broadcast": "R/2019-01-12T14:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -2622,6 +2599,18 @@
         "id": "ch286",
         "begin": "2009-09-08T02:49:50.000Z",
         "broadcast": "R/2009-09-08T02:49:50.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "38837"
+      },
+      {
+        "site": "aniList",
+        "id": "109280"
+      },
+      {
+        "site": "anidb",
+        "id": "14539"
       }
     ]
   },

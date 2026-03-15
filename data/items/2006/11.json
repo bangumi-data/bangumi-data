@@ -321,12 +321,6 @@
         "broadcast": "R/2021-09-16T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "420-7",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "movie/18874"
       },
@@ -335,6 +329,18 @@
         "id": "B0G9W1FW1L",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "1566"
+      },
+      {
+        "site": "aniList",
+        "id": "1566"
+      },
+      {
+        "site": "anidb",
+        "id": "4414"
       }
     ]
   },

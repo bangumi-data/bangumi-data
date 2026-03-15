@@ -2714,6 +2714,18 @@
       {
         "site": "tmdb",
         "id": "tv/210181"
+      },
+      {
+        "site": "mal",
+        "id": "56731"
+      },
+      {
+        "site": "aniList",
+        "id": "169559"
+      },
+      {
+        "site": "anidb",
+        "id": "18206"
       }
     ]
   },
@@ -2972,12 +2984,6 @@
         "broadcast": "R/2024-07-03T15:00:07.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "248-16",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0096079",
         "begin": "2024-01-10T15:00:00.000Z",
@@ -3049,12 +3055,6 @@
       {
         "site": "nicovideo",
         "id": "hyakuyoufu",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "abema",
-        "id": "19-188",
         "begin": "",
         "broadcast": ""
       },
@@ -3625,12 +3625,6 @@
         "broadcast": "R/2024-01-06T16:30:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "26-215",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bilibili",
         "id": "21194555",
         "begin": "2024-02-10T12:30:00.000Z",
@@ -3733,6 +3727,10 @@
       {
         "site": "aniList",
         "id": "172966"
+      },
+      {
+        "site": "anidb",
+        "id": "18423"
       }
     ]
   },
@@ -4610,6 +4608,10 @@
       {
         "site": "tmdb",
         "id": "tv/241002"
+      },
+      {
+        "site": "mal",
+        "id": "57470"
       }
     ]
   },
@@ -5081,6 +5083,18 @@
       {
         "site": "tmdb",
         "id": "movie/1244064"
+      },
+      {
+        "site": "mal",
+        "id": "57441"
+      },
+      {
+        "site": "aniList",
+        "id": "184369"
+      },
+      {
+        "site": "anidb",
+        "id": "18584"
       }
     ]
   },
@@ -5131,6 +5145,18 @@
       {
         "site": "tmdb",
         "id": "movie/1103432"
+      },
+      {
+        "site": "mal",
+        "id": "54793"
+      },
+      {
+        "site": "aniList",
+        "id": "144770"
+      },
+      {
+        "site": "anidb",
+        "id": "17144"
       }
     ]
   },
@@ -5200,6 +5226,18 @@
       {
         "site": "tmdb",
         "id": "movie/1146972"
+      },
+      {
+        "site": "mal",
+        "id": "49073"
+      },
+      {
+        "site": "aniList",
+        "id": "134761"
+      },
+      {
+        "site": "anidb",
+        "id": "14032"
       }
     ]
   },
@@ -5256,6 +5294,18 @@
       {
         "site": "tmdb",
         "id": "movie/1230477"
+      },
+      {
+        "site": "mal",
+        "id": "54791"
+      },
+      {
+        "site": "aniList",
+        "id": "162987"
+      },
+      {
+        "site": "anidb",
+        "id": "17929"
       }
     ]
   },
@@ -5348,6 +5398,10 @@
       {
         "site": "tmdb",
         "id": "tv/242408"
+      },
+      {
+        "site": "mal",
+        "id": "58648"
       }
     ]
   }

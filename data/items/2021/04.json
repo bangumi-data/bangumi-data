@@ -373,6 +373,12 @@
       {
         "site": "aniList",
         "id": "117448"
+      },
+      {
+        "site": "abema",
+        "id": "168-5",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -646,12 +652,6 @@
         "id": "28234108",
         "begin": "2021-04-06T16:00:01.000Z",
         "broadcast": "R/2021-04-06T16:00:01.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "25-167",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -4265,6 +4265,18 @@
       {
         "site": "tmdb",
         "id": "tv/120165"
+      },
+      {
+        "site": "mal",
+        "id": "45782"
+      },
+      {
+        "site": "aniList",
+        "id": "128563"
+      },
+      {
+        "site": "anidb",
+        "id": "15981"
       }
     ]
   },
@@ -4363,6 +4375,18 @@
       {
         "site": "tmdb",
         "id": "tv/77939/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "40729"
+      },
+      {
+        "site": "aniList",
+        "id": "113359"
+      },
+      {
+        "site": "anidb",
+        "id": "15271"
       }
     ]
   },
@@ -5152,12 +5176,6 @@
         "broadcast": ""
       },
       {
-        "site": "abema",
-        "id": "13-27uzkrexuzx2",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "24569",
         "begin": "2021-04-03T14:00:00.000Z",
@@ -5427,6 +5445,14 @@
       {
         "site": "tmdb",
         "id": "tv/62745/season/0/episode/4"
+      },
+      {
+        "site": "mal",
+        "id": "44983"
+      },
+      {
+        "site": "aniList",
+        "id": "127368"
       }
     ]
   },
@@ -5673,6 +5699,14 @@
       {
         "site": "tmdb",
         "id": "tv/69291/season/0/episode/9"
+      },
+      {
+        "site": "mal",
+        "id": "49483"
+      },
+      {
+        "site": "aniList",
+        "id": "132096"
       }
     ]
   }

@@ -170,10 +170,16 @@
         "id": "182342"
       },
       {
-        "site": "unext",
-        "id": "SID0027423",
-        "begin": "2016-12-22T03:00:00.000Z",
-        "broadcast": "R/2016-12-22T03:00:00.000Z/P7D"
+        "site": "mal",
+        "id": "33290"
+      },
+      {
+        "site": "aniList",
+        "id": "21810"
+      },
+      {
+        "site": "anidb",
+        "id": "15083"
       }
     ]
   },
@@ -249,6 +255,18 @@
       {
         "site": "tmdb",
         "id": "tv/67034"
+      },
+      {
+        "site": "mal",
+        "id": "30014"
+      },
+      {
+        "site": "aniList",
+        "id": "21050"
+      },
+      {
+        "site": "anidb",
+        "id": "11073"
       }
     ]
   },
@@ -2857,12 +2875,6 @@
         "id": "784"
       },
       {
-        "site": "abema",
-        "id": "198-15",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "21027",
         "begin": "2016-07-14T03:00:00.000Z",
@@ -3205,12 +3217,6 @@
         "id": "PLuxqoToY7UchWNgL6v65uWcwmka3bUEdD",
         "begin": "2024-08-08T13:00:07.000Z",
         "broadcast": "R/2024-08-08T13:00:07.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "13-27uzkrexuzx2",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",
@@ -4440,12 +4446,6 @@
         "id": "1156"
       },
       {
-        "site": "abema",
-        "id": "184-183",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "26999",
         "begin": "2024-03-07T15:00:00.000Z",
@@ -4532,6 +4532,18 @@
       {
         "site": "tmdb",
         "id": "tv/71003/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "33033"
+      },
+      {
+        "site": "aniList",
+        "id": "21759"
+      },
+      {
+        "site": "anidb",
+        "id": "12039"
       }
     ]
   },
@@ -4561,6 +4573,14 @@
       {
         "site": "tmdb",
         "id": "tv/42410/season/0/episode/5"
+      },
+      {
+        "site": "mal",
+        "id": "32915"
+      },
+      {
+        "site": "aniList",
+        "id": "21695"
       }
     ]
   },
@@ -4758,12 +4778,6 @@
         "id": "1149"
       },
       {
-        "site": "abema",
-        "id": "746-20",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "movie/382190"
       },
@@ -4926,6 +4940,18 @@
       {
         "site": "tmdb",
         "id": "movie/446961"
+      },
+      {
+        "site": "mal",
+        "id": "31236"
+      },
+      {
+        "site": "aniList",
+        "id": "145680"
+      },
+      {
+        "site": "anidb",
+        "id": "11371"
       }
     ]
   },
@@ -4966,6 +4992,12 @@
       {
         "site": "aniList",
         "id": "105974"
+      },
+      {
+        "site": "unext",
+        "id": "SID0270465",
+        "begin": "2026-02-20T03:00:00.000Z",
+        "broadcast": "R/2026-02-20T03:00:00.000Z/P7D"
       }
     ]
   }

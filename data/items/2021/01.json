@@ -635,6 +635,12 @@
       {
         "site": "aniList",
         "id": "103632"
+      },
+      {
+        "site": "abema",
+        "id": "25-160",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -793,12 +799,6 @@
         "id": "SID0052934",
         "begin": "2021-01-08T03:00:00.000Z",
         "broadcast": "R/2021-01-08T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "110261",
-        "begin": "2021-01-04T15:30:00.000Z",
-        "broadcast": "R/2021-01-04T15:30:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -2343,24 +2343,12 @@
         "broadcast": "R/2021-01-06T09:35:00.000Z/P7D"
       },
       {
-        "site": "unext",
-        "id": "SID0052901",
-        "begin": "2021-01-20T09:35:00.000Z",
-        "broadcast": "R/2021-01-20T09:35:00.000Z/P7D"
-      },
-      {
         "site": "bangumi_moe",
         "id": "5ff0434c84202e4c2e99e1d4"
       },
       {
         "site": "mikan",
         "id": "2346"
-      },
-      {
-        "site": "nicovideo",
-        "id": "7-taizai-hunnunoshinpan",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",
@@ -3750,6 +3738,18 @@
       {
         "site": "tmdb",
         "id": "tv/112667"
+      },
+      {
+        "site": "mal",
+        "id": "39725"
+      },
+      {
+        "site": "aniList",
+        "id": "109010"
+      },
+      {
+        "site": "anidb",
+        "id": "14824"
       }
     ]
   },
@@ -3828,6 +3828,18 @@
       {
         "site": "tmdb",
         "id": "tv/113780"
+      },
+      {
+        "site": "mal",
+        "id": "40267"
+      },
+      {
+        "site": "aniList",
+        "id": "111137"
+      },
+      {
+        "site": "anidb",
+        "id": "15046"
       }
     ]
   },
@@ -3907,6 +3919,12 @@
       {
         "site": "aniList",
         "id": "113814"
+      },
+      {
+        "site": "abema",
+        "id": "481-5",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4065,12 +4083,6 @@
         "id": "2370"
       },
       {
-        "site": "gamer_hk",
-        "id": "109385",
-        "begin": "2021-01-06T17:00:00.000Z",
-        "broadcast": "R/2021-01-06T17:00:00.000Z/P7D"
-      },
-      {
         "site": "danime",
         "id": "24457",
         "begin": "2023-03-01T01:00:00.000Z",
@@ -4179,6 +4191,12 @@
       {
         "site": "aniList",
         "id": "113585"
+      },
+      {
+        "site": "unext",
+        "id": "SID0052899",
+        "begin": "2026-03-12T15:00:00.000Z",
+        "broadcast": "R/2026-03-12T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -4231,22 +4249,10 @@
         "id": "2369"
       },
       {
-        "site": "gamer_hk",
-        "id": "103061",
-        "begin": "2021-01-10T17:35:00.000Z",
-        "broadcast": "R/2021-01-10T17:35:00.000Z/P7D"
-      },
-      {
         "site": "danime",
         "id": "25372",
         "begin": "2022-04-01T01:00:00.000Z",
         "broadcast": "R/2022-04-01T01:00:00.000Z/P7D"
-      },
-      {
-        "site": "muse_tw",
-        "id": "PL12UaAf_xzfoCevZ9xr9FeKPggodVoZhA",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "prime",
@@ -4807,6 +4813,18 @@
       {
         "site": "tmdb",
         "id": "tv/117166"
+      },
+      {
+        "site": "mal",
+        "id": "44235"
+      },
+      {
+        "site": "aniList",
+        "id": "127690"
+      },
+      {
+        "site": "anidb",
+        "id": "16007"
       }
     ]
   },
@@ -4866,12 +4884,6 @@
       {
         "site": "mikan",
         "id": "2408"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "115142",
-        "begin": "2021-01-10T19:25:00.000Z",
-        "broadcast": "R/2021-01-10T19:25:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -5263,6 +5275,18 @@
       {
         "site": "tmdb",
         "id": "tv/87247/season/4"
+      },
+      {
+        "site": "mal",
+        "id": "48555"
+      },
+      {
+        "site": "aniList",
+        "id": "131096"
+      },
+      {
+        "site": "anidb",
+        "id": "16167"
       }
     ]
   },

@@ -321,6 +321,18 @@
       {
         "site": "tmdb",
         "id": "tv/98986/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "42962"
+      },
+      {
+        "site": "aniList",
+        "id": "124395"
+      },
+      {
+        "site": "anidb",
+        "id": "15742"
       }
     ]
   },
@@ -370,12 +382,6 @@
       {
         "site": "prime",
         "id": "B0B8JYKZGY",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "abema",
-        "id": "11-61",
         "begin": "",
         "broadcast": ""
       },
@@ -569,12 +575,6 @@
         "id": "beasttamer",
         "begin": "2022-10-08T13:00:00.000Z",
         "broadcast": "R/2022-10-08T13:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "564-2",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -960,6 +960,24 @@
       {
         "site": "tmdb",
         "id": "tv/45790/season/5"
+      },
+      {
+        "site": "mal",
+        "id": "48661"
+      },
+      {
+        "site": "aniList",
+        "id": "131942"
+      },
+      {
+        "site": "anidb",
+        "id": "16187"
+      },
+      {
+        "site": "prime",
+        "id": "B0B7FM1RKG",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1178,6 +1196,12 @@
       {
         "site": "aniList",
         "id": "130298"
+      },
+      {
+        "site": "disneyplus",
+        "id": "5I6JkWfEmf0M",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1239,13 +1263,6 @@
         "begin": "2023-03-09T16:00:00.000Z",
         "broadcast": "R/2023-03-09T16:00:00.000Z/P7D",
         "comment": "粵語配音"
-      },
-      {
-        "site": "viu",
-        "id": "2080799",
-        "begin": "2023-02-23T16:00:00.000Z",
-        "broadcast": "R/2023-02-23T16:00:00.000Z/P7D",
-        "comment": "粵語版: 2089454"
       },
       {
         "site": "bilibili_hk_mo",
@@ -1887,6 +1904,12 @@
       {
         "site": "aniList",
         "id": "146233"
+      },
+      {
+        "site": "unext",
+        "id": "SID0073144",
+        "begin": "2022-10-03T03:00:00.000Z",
+        "broadcast": "R/2022-10-03T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -2463,12 +2486,6 @@
         "id": "bocchi_rocks",
         "begin": "2022-10-11T03:00:00.000Z",
         "broadcast": "R/2022-10-11T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "26-175",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -3327,12 +3344,6 @@
         "broadcast": "R/2022-10-15T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "15-30",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0073149",
         "begin": "2022-10-11T03:00:00.000Z",
@@ -3627,6 +3638,18 @@
       {
         "site": "tmdb",
         "id": "tv/112010"
+      },
+      {
+        "site": "mal",
+        "id": "50638"
+      },
+      {
+        "site": "aniList",
+        "id": "142985"
+      },
+      {
+        "site": "anidb",
+        "id": "17073"
       }
     ]
   },
@@ -4825,6 +4848,10 @@
       {
         "site": "tmdb",
         "id": "tv/63525/season/0/episode/5"
+      },
+      {
+        "site": "aniList",
+        "id": "139806"
       }
     ]
   },

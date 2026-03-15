@@ -62,12 +62,6 @@
         "broadcast": "R/2024-12-19T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "2-28",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/60572/season/20"
       },
@@ -196,6 +190,24 @@
       {
         "site": "tmdb",
         "id": "tv/62110/season/0/episode/2"
+      },
+      {
+        "site": "mal",
+        "id": "32863"
+      },
+      {
+        "site": "aniList",
+        "id": "21678"
+      },
+      {
+        "site": "anidb",
+        "id": "15475"
+      },
+      {
+        "site": "prime",
+        "id": "B0GNYFBWFK",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -585,12 +597,6 @@
         "broadcast": "R/2018-04-01T06:00:00.000Z/P7D"
       },
       {
-        "site": "gamer_hk",
-        "id": "85224",
-        "begin": "2018-04-01T06:00:00.000Z",
-        "broadcast": "R/2018-04-01T06:00:00.000Z/P7D"
-      },
-      {
         "site": "abema",
         "id": "19-138",
         "begin": "",
@@ -611,13 +617,6 @@
         "id": "22723",
         "begin": "2019-04-02T01:00:00.000Z",
         "broadcast": "R/2019-04-02T01:00:00.000Z/P7D"
-      },
-      {
-        "site": "muse_tw",
-        "id": "PL12UaAf_xzfrUmit6EAe4T5EWUGoE59Or",
-        "begin": "",
-        "broadcast": "",
-        "comment": "國語: PL12UaAf_xzfpNZtjdA1gfJX0Ev4BZDo7_"
       },
       {
         "site": "muse_hk",
@@ -641,6 +640,12 @@
       {
         "site": "aniList",
         "id": "101102"
+      },
+      {
+        "site": "prime",
+        "id": "B0GKWPH97W",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

@@ -97,12 +97,6 @@
         "broadcast": "R/2011-10-02T01:55:00.000Z/P7D"
       },
       {
-        "site": "unext",
-        "id": "SID0011645",
-        "begin": "2025-08-01T03:00:00.000Z",
-        "broadcast": "R/2025-08-01T03:00:00.000Z/P7D"
-      },
-      {
         "site": "tmdb",
         "id": "tv/46298"
       },
@@ -1664,6 +1658,18 @@
       {
         "site": "tmdb",
         "id": "tv/36041/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "10030"
+      },
+      {
+        "site": "aniList",
+        "id": "10030"
+      },
+      {
+        "site": "anidb",
+        "id": "8150"
       }
     ]
   },
@@ -2055,6 +2061,18 @@
       {
         "site": "tmdb",
         "id": "movie/112082"
+      },
+      {
+        "site": "mal",
+        "id": "10821"
+      },
+      {
+        "site": "aniList",
+        "id": "10821"
+      },
+      {
+        "site": "anidb",
+        "id": "8489"
       }
     ]
   },
@@ -2182,6 +2200,14 @@
       {
         "site": "tmdb",
         "id": "tv/38464/season/0/episode/6"
+      },
+      {
+        "site": "mal",
+        "id": "11266"
+      },
+      {
+        "site": "aniList",
+        "id": "11266"
       }
     ]
   },

@@ -103,12 +103,6 @@
         "id": "55703"
       },
       {
-        "site": "nicovideo",
-        "id": "imocyo-anime",
-        "begin": "2014-01-10T03:00:00.000Z",
-        "broadcast": "R/2014-01-10T03:00:00.000Z/P7D"
-      },
-      {
         "site": "dmhy",
         "id": "妹+怪"
       },
@@ -3168,6 +3162,10 @@
       {
         "site": "anidb",
         "id": "12388"
+      },
+      {
+        "site": "aniList",
+        "id": "127510"
       }
     ]
   },
@@ -3265,6 +3263,18 @@
       {
         "site": "tmdb",
         "id": "tv/70036/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "20977"
+      },
+      {
+        "site": "aniList",
+        "id": "20600"
+      },
+      {
+        "site": "anidb",
+        "id": "10386"
       }
     ]
   },
@@ -3321,6 +3331,22 @@
         "id": "22459",
         "begin": "2020-02-07T01:00:00.000Z",
         "broadcast": "R/2020-02-07T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "20649"
+      },
+      {
+        "site": "aniList",
+        "id": "20715"
+      },
+      {
+        "site": "anidb",
+        "id": "10162"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/70228/season/0/episode/3"
       }
     ]
   },

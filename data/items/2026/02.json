@@ -86,7 +86,7 @@
     "officialSite": "https://sakuna-anime.com/",
     "begin": "2026-02-14T16:00:00.000Z",
     "broadcast": "R/2026-02-14T16:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-02-22T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -134,6 +134,22 @@
         "id": "19-200",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "60294"
+      },
+      {
+        "site": "aniList",
+        "id": "184280"
+      },
+      {
+        "site": "anidb",
+        "id": "18986"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/255492/season/0"
       }
     ]
   },
@@ -148,8 +164,8 @@
     "lang": "ja",
     "officialSite": "",
     "begin": "2026-02-05T16:00:00.000Z",
-    "broadcast": "",
-    "end": "",
+    "broadcast": "R/2026-02-05T16:00:00.000Z/P7D",
+    "end": "2026-03-05T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -161,6 +177,57 @@
         "id": "SID0251576",
         "begin": "2026-02-10T03:00:00.000Z",
         "broadcast": "R/2026-02-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "61119"
+      },
+      {
+        "site": "aniList",
+        "id": "187508"
+      },
+      {
+        "site": "danime",
+        "id": "28584",
+        "begin": "2026-02-10T03:00:00.000Z",
+        "broadcast": "R/2026-02-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "13-204",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "刃牙道",
+    "titleTranslate": {
+      "zh-Hans": [
+        "刃牙道",
+        "刃牙道：无敌武士"
+      ],
+      "zh-Hant": [
+        "刃牙道：無敵武士"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://baki-anime.jp/",
+    "begin": "2026-02-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-02-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "487716"
+      },
+      {
+        "site": "netflix",
+        "id": "81922765",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

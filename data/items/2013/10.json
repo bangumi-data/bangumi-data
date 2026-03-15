@@ -1764,6 +1764,12 @@
       {
         "site": "aniList",
         "id": "18115"
+      },
+      {
+        "site": "danime",
+        "id": "22515",
+        "begin": "2025-12-20T15:00:00.000Z",
+        "broadcast": "R/2025-12-20T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3246,12 +3252,6 @@
         "broadcast": "R/2024-12-19T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "2-26",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/60572/season/17"
       },
@@ -3341,6 +3341,14 @@
       {
         "site": "tmdb",
         "id": "tv/45254/season/0/episode/2"
+      },
+      {
+        "site": "mal",
+        "id": "23619"
+      },
+      {
+        "site": "aniList",
+        "id": "20733"
       }
     ]
   },

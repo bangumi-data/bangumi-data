@@ -336,12 +336,6 @@
         "broadcast": "R/2021-07-02T18:55:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "11-38",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0058457",
         "begin": "2021-07-09T18:30:00.000Z",
@@ -2120,12 +2114,6 @@
         "broadcast": "R/2021-08-28T12:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "13-151",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0058486",
         "begin": "2021-07-13T03:00:00.000Z",
@@ -2357,12 +2345,6 @@
         "id": "26332",
         "begin": "2023-03-31T15:00:00.000Z",
         "broadcast": "R/2023-03-31T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "mytv",
-        "id": "howarealistherorebuiltthekingdom_143253",
-        "begin": "2025-06-01T02:00:00.000Z",
-        "broadcast": "R/2025-06-01T02:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -2912,6 +2894,18 @@
       {
         "site": "tmdb",
         "id": "tv/90815/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "42206"
+      },
+      {
+        "site": "aniList",
+        "id": "119696"
+      },
+      {
+        "site": "anidb",
+        "id": "15614"
       }
     ]
   },
@@ -3122,6 +3116,18 @@
       {
         "site": "tmdb",
         "id": "tv/112398"
+      },
+      {
+        "site": "mal",
+        "id": "40730"
+      },
+      {
+        "site": "aniList",
+        "id": "113260"
+      },
+      {
+        "site": "anidb",
+        "id": "15648"
       }
     ]
   },
@@ -3375,6 +3381,18 @@
       {
         "site": "tmdb",
         "id": "tv/82684/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "41487"
+      },
+      {
+        "site": "aniList",
+        "id": "116742"
+      },
+      {
+        "site": "anidb",
+        "id": "15456"
       }
     ]
   },
@@ -3905,6 +3923,12 @@
       {
         "site": "tmdb",
         "id": "movie/843248"
+      },
+      {
+        "site": "danime",
+        "id": "25666",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -4027,12 +4051,6 @@
         "broadcast": "R/2025-08-09T15:00:00.000Z/P7D"
       },
       {
-        "site": "netflix",
-        "id": "81492822",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "movie/776305"
       },
@@ -4088,7 +4106,7 @@
       },
       {
         "site": "abema",
-        "id": "35-55",
+        "id": "35-87",
         "begin": "",
         "broadcast": ""
       },
@@ -4103,12 +4121,6 @@
         "id": "28367633",
         "begin": "2024-05-01T10:00:00.000Z",
         "broadcast": "R/2024-05-01T10:00:00.000Z/P7D"
-      },
-      {
-        "site": "netflix",
-        "id": "81590011",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "gamer",
