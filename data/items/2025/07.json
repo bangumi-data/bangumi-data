@@ -252,12 +252,6 @@
         "id": "tv/281058"
       },
       {
-        "site": "netflix",
-        "id": "82081970",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mal",
         "id": "59459"
       },
@@ -2465,9 +2459,10 @@
       },
       {
         "site": "ani_one",
-        "id": "PLC18xlbCdwtTblQr7CwyeQDBNUTvjtB3H",
-        "begin": "",
-        "broadcast": ""
+        "id": "PLC18xlbCdwtSRTmUJDJPiNwycvvjVEzVG",
+        "begin": "2026-02-26T04:00:07.000Z",
+        "broadcast": "R/2026-02-26T04:00:07.000Z/P7D",
+        "comment": "會員限定: PLC18xlbCdwtTblQr7CwyeQDBNUTvjtB3H"
       },
       {
         "site": "viu",
@@ -2804,6 +2799,18 @@
       {
         "site": "tmdb",
         "id": "tv/71785/season/4"
+      },
+      {
+        "site": "mal",
+        "id": "58996"
+      },
+      {
+        "site": "aniList",
+        "id": "177880"
+      },
+      {
+        "site": "anidb",
+        "id": "18673"
       }
     ]
   },
@@ -3340,6 +3347,18 @@
       {
         "site": "tmdb",
         "id": "tv/86031/season/4"
+      },
+      {
+        "site": "mal",
+        "id": "61322"
+      },
+      {
+        "site": "aniList",
+        "id": "189117"
+      },
+      {
+        "site": "anidb",
+        "id": "19248"
       }
     ]
   },
@@ -3439,6 +3458,12 @@
       {
         "site": "aniList",
         "id": "186561"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcibL06BL2ozOtkyWgem3xeU",
+        "begin": "2026-02-20T14:00:06.000Z",
+        "broadcast": "R/2026-02-20T14:00:06.000Z/P7D"
       }
     ]
   },
@@ -3953,6 +3978,18 @@
       {
         "site": "tmdb",
         "id": "tv/122587/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "59402"
+      },
+      {
+        "site": "aniList",
+        "id": "179828"
+      },
+      {
+        "site": "anidb",
+        "id": "18773"
       }
     ]
   },
@@ -4304,6 +4341,18 @@
       {
         "site": "tmdb",
         "id": "tv/280078"
+      },
+      {
+        "site": "mal",
+        "id": "60572"
+      },
+      {
+        "site": "aniList",
+        "id": "191974"
+      },
+      {
+        "site": "anidb",
+        "id": "19323"
       }
     ]
   },

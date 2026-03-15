@@ -79,12 +79,6 @@
         "id": "tv/60572/season/23"
       },
       {
-        "site": "abema",
-        "id": "2-22",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mal",
         "id": "40351"
       },
@@ -251,6 +245,18 @@
       {
         "site": "tmdb",
         "id": "tv/52891/season/0/episode/8"
+      },
+      {
+        "site": "mal",
+        "id": "37773"
+      },
+      {
+        "site": "aniList",
+        "id": "102090"
+      },
+      {
+        "site": "anidb",
+        "id": "14047"
       }
     ]
   },
@@ -401,6 +407,10 @@
       {
         "site": "tmdb",
         "id": "movie/566451"
+      },
+      {
+        "site": "mal",
+        "id": "38414"
       }
     ]
   },
@@ -555,12 +565,6 @@
         "broadcast": "R/2020-07-15T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "30-13",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "nicovideo",
         "id": "gineiden-seiran",
         "begin": "",
@@ -579,6 +583,10 @@
       {
         "site": "mal",
         "id": "36371"
+      },
+      {
+        "site": "anidb",
+        "id": "13473"
       }
     ]
   },
@@ -829,6 +837,12 @@
       {
         "site": "tmdb",
         "id": "movie/648969"
+      },
+      {
+        "site": "danime",
+        "id": "25664",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
       }
     ]
   },

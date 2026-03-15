@@ -149,12 +149,6 @@
         "broadcast": "R/2024-07-11T14:45:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "168-64",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bilibili",
         "id": "21827779",
         "begin": "2024-07-16T14:45:00.000Z",
@@ -339,12 +333,6 @@
       {
         "site": "bangumi_moe",
         "id": "6681472057ba1568dc1b07f4"
-      },
-      {
-        "site": "abema",
-        "id": "593-9",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "gamer_hk",
@@ -593,12 +581,6 @@
         "broadcast": "R/2024-07-05T17:30:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "564-12",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bilibili",
         "id": "22097384",
         "begin": "2024-07-05T17:30:00.000Z",
@@ -709,12 +691,6 @@
         "broadcast": ""
       },
       {
-        "site": "abema",
-        "id": "189-77",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "27644",
         "begin": "2024-12-24T15:00:00.000Z",
@@ -814,12 +790,6 @@
         "id": "137597",
         "begin": "2024-07-08T13:30:00.000Z",
         "broadcast": "R/2024-07-08T13:30:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "54-92",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "dmhy",
@@ -2539,12 +2509,6 @@
         "id": "6681471757ba1568dc1b07ca"
       },
       {
-        "site": "abema",
-        "id": "194-41",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bilibili",
         "id": "21854346",
         "begin": "2024-07-07T15:45:00.000Z",
@@ -3672,12 +3636,6 @@
         "id": "6681471457ba1568dc1b07c2"
       },
       {
-        "site": "abema",
-        "id": "420-69",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mikan",
         "id": "3400"
       },
@@ -3930,6 +3888,18 @@
       {
         "site": "tmdb",
         "id": "tv/223515"
+      },
+      {
+        "site": "mal",
+        "id": "54846"
+      },
+      {
+        "site": "aniList",
+        "id": "156111"
+      },
+      {
+        "site": "anidb",
+        "id": "18000"
       }
     ]
   },
@@ -4130,6 +4100,12 @@
       {
         "site": "aniList",
         "id": "174576"
+      },
+      {
+        "site": "disneyplus",
+        "id": "5HfHsz9sNuZp",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4290,12 +4266,6 @@
       {
         "site": "mikan",
         "id": "3361"
-      },
-      {
-        "site": "abema",
-        "id": "143-49",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "dmhy",
@@ -4527,6 +4497,18 @@
       {
         "site": "tmdb",
         "id": "tv/202284"
+      },
+      {
+        "site": "mal",
+        "id": "56285"
+      },
+      {
+        "site": "aniList",
+        "id": "151639"
+      },
+      {
+        "site": "anidb",
+        "id": "18132"
       }
     ]
   },
@@ -5352,6 +5334,10 @@
       {
         "site": "aniList",
         "id": "179408"
+      },
+      {
+        "site": "anidb",
+        "id": "19854"
       }
     ]
   },

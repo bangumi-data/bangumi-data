@@ -23,6 +23,18 @@
         "id": "19-221",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "5474"
+      },
+      {
+        "site": "aniList",
+        "id": "5474"
+      },
+      {
+        "site": "anidb",
+        "id": "2861"
       }
     ]
   },
@@ -204,6 +216,12 @@
       {
         "site": "aniList",
         "id": "401"
+      },
+      {
+        "site": "danime",
+        "id": "21727",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -249,7 +267,8 @@
         "site": "tropics",
         "id": "PLoGVqODys23CesXgJcMyak9mywMu9s0l2",
         "begin": "2025-11-07T13:00:07.000Z",
-        "broadcast": "R/2025-11-07T13:00:07.000Z/P7D"
+        "broadcast": "R/2025-11-07T13:00:07.000Z/P7D",
+        "comment": "中文配音: PLoGVqODys23ASqIdvARkZC5_QFfDN1yVI"
       },
       {
         "site": "tmdb",

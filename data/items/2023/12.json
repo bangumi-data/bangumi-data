@@ -17,6 +17,10 @@
       {
         "site": "tmdb",
         "id": "tv/240946"
+      },
+      {
+        "site": "mal",
+        "id": "57522"
       }
     ]
   },
@@ -132,6 +136,14 @@
       {
         "site": "tmdb",
         "id": "tv/207250/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "56948"
+      },
+      {
+        "site": "aniList",
+        "id": "170221"
       }
     ]
   },
@@ -189,6 +201,18 @@
       {
         "site": "tmdb",
         "id": "movie/997086"
+      },
+      {
+        "site": "mal",
+        "id": "49842"
+      },
+      {
+        "site": "aniList",
+        "id": "139359"
+      },
+      {
+        "site": "anidb",
+        "id": "16727"
       }
     ]
   },
@@ -459,12 +483,6 @@
         "id": "21219259",
         "begin": "2025-01-31T01:50:00.000Z",
         "broadcast": "R/2025-01-31T01:50:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "19-207",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "disneyplus",

@@ -40,12 +40,6 @@
         "broadcast": "R/2018-01-19T01:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "203-14",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/12536"
       },
@@ -1751,6 +1745,18 @@
       {
         "site": "tmdb",
         "id": "tv/30678"
+      },
+      {
+        "site": "mal",
+        "id": "9967"
+      },
+      {
+        "site": "aniList",
+        "id": "9967"
+      },
+      {
+        "site": "anidb",
+        "id": "2188"
       }
     ]
   },
@@ -1782,6 +1788,10 @@
       {
         "site": "aniList",
         "id": "600"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/95135"
       }
     ]
   },

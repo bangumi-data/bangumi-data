@@ -344,6 +344,12 @@
       {
         "site": "aniList",
         "id": "20474"
+      },
+      {
+        "site": "prime",
+        "id": "B0BZWPY2TN",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4166,6 +4172,18 @@
         "id": "21054",
         "begin": "2016-08-12T01:00:00.000Z",
         "broadcast": "R/2016-08-12T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "22821"
+      },
+      {
+        "site": "aniList",
+        "id": "117284"
+      },
+      {
+        "site": "anidb",
+        "id": "10586"
       }
     ]
   },
@@ -4327,7 +4345,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/77239"
+        "id": "tv/77239/season/0"
       },
       {
         "site": "mal",
@@ -4443,7 +4461,7 @@
       },
       {
         "site": "abema",
-        "id": "35-55",
+        "id": "35-80",
         "begin": "",
         "broadcast": ""
       },

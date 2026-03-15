@@ -267,12 +267,6 @@
         "id": "1909"
       },
       {
-        "site": "abema",
-        "id": "168-10",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "22682",
         "begin": "2020-09-01T01:00:00.000Z",
@@ -289,6 +283,10 @@
       {
         "site": "aniList",
         "id": "103870"
+      },
+      {
+        "site": "anidb",
+        "id": "14134"
       }
     ]
   },
@@ -382,12 +380,6 @@
         "id": "isekai-quartet",
         "begin": "2019-04-09T15:45:00.000Z",
         "broadcast": "R/2019-04-09T15:45:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "25-115",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -2039,6 +2031,18 @@
       {
         "site": "aniList",
         "id": "105749"
+      },
+      {
+        "site": "gamer",
+        "id": "102701",
+        "begin": "2026-03-04T04:00:00.000Z",
+        "broadcast": "R/2026-03-04T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "102701",
+        "begin": "2026-03-04T04:00:00.000Z",
+        "broadcast": "R/2026-03-04T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -3483,6 +3487,18 @@
       {
         "site": "tmdb",
         "id": "tv/1429/season/3"
+      },
+      {
+        "site": "mal",
+        "id": "38524"
+      },
+      {
+        "site": "aniList",
+        "id": "104578"
+      },
+      {
+        "site": "anidb",
+        "id": "14444"
       }
     ]
   },
@@ -3564,6 +3580,18 @@
       {
         "site": "tmdb",
         "id": "movie/572647"
+      },
+      {
+        "site": "mal",
+        "id": "38558"
+      },
+      {
+        "site": "aniList",
+        "id": "104721"
+      },
+      {
+        "site": "anidb",
+        "id": "14450"
       }
     ]
   },
@@ -3643,7 +3671,7 @@
       },
       {
         "site": "abema",
-        "id": "35-55",
+        "id": "35-85",
         "begin": "",
         "broadcast": ""
       },
@@ -3670,12 +3698,6 @@
         "id": "PL12UaAf_xzfr3AnAFqWFYv5k0bl5DbbHa",
         "begin": "2025-04-05T14:00:06.000Z",
         "broadcast": "R/2025-04-05T14:00:06.000Z/P7D"
-      },
-      {
-        "site": "netflix",
-        "id": "81414745",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "prime",
@@ -4448,6 +4470,18 @@
       {
         "site": "bangumi_moe",
         "id": "5c2b731296ff38314480b5f8"
+      },
+      {
+        "site": "mal",
+        "id": "37560"
+      },
+      {
+        "site": "aniList",
+        "id": "101579"
+      },
+      {
+        "site": "anidb",
+        "id": "13955"
       }
     ]
   }

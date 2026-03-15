@@ -990,12 +990,6 @@
         "id": "130230"
       },
       {
-        "site": "unext",
-        "id": "SID0020101",
-        "begin": "2017-11-02T03:00:00.000Z",
-        "broadcast": "R/2017-11-02T03:00:00.000Z/P7D"
-      },
-      {
         "site": "dmhy",
         "id": "蒼穹"
       },
@@ -1971,8 +1965,7 @@
         "site": "unext",
         "id": "SID0027096",
         "begin": "2016-10-23T03:00:00.000Z",
-        "broadcast": "R/2016-10-23T03:00:00.000Z/P7D",
-        "comment": "第26話～: SID0027097"
+        "broadcast": "R/2016-10-23T03:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -2020,6 +2013,12 @@
       {
         "site": "aniList",
         "id": "21268"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtRcOebGI5mpR5_kiM5PsAtl",
+        "begin": "2026-03-04T13:00:07.000Z",
+        "broadcast": "R/2026-03-04T13:00:07.000Z/P7D"
       }
     ]
   },
@@ -4540,6 +4539,14 @@
       {
         "site": "tmdb",
         "id": "movie/357397"
+      },
+      {
+        "site": "mal",
+        "id": "24921"
+      },
+      {
+        "site": "aniList",
+        "id": "20764"
       }
     ]
   },
@@ -4701,6 +4708,18 @@
       {
         "site": "tmdb",
         "id": "tv/67126/season/0/episode/13"
+      },
+      {
+        "site": "mal",
+        "id": "30991"
+      },
+      {
+        "site": "aniList",
+        "id": "21327"
+      },
+      {
+        "site": "anidb",
+        "id": "11287"
       }
     ]
   },
@@ -4730,6 +4749,18 @@
       {
         "site": "tmdb",
         "id": "movie/1449871"
+      },
+      {
+        "site": "mal",
+        "id": "30381"
+      },
+      {
+        "site": "aniList",
+        "id": "21119"
+      },
+      {
+        "site": "anidb",
+        "id": "11151"
       }
     ]
   },
@@ -4887,6 +4918,18 @@
       {
         "site": "tmdb",
         "id": "tv/68574/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "30379"
+      },
+      {
+        "site": "aniList",
+        "id": "21122"
+      },
+      {
+        "site": "anidb",
+        "id": "11163"
       }
     ]
   },
@@ -4965,6 +5008,18 @@
       {
         "site": "tmdb",
         "id": "tv/211560"
+      },
+      {
+        "site": "mal",
+        "id": "31539"
+      },
+      {
+        "site": "aniList",
+        "id": "21352"
+      },
+      {
+        "site": "anidb",
+        "id": "11546"
       }
     ]
   },

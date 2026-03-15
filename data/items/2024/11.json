@@ -101,12 +101,6 @@
         "broadcast": ""
       },
       {
-        "site": "abema",
-        "id": "248-22",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mikan",
         "id": "3499"
       },
@@ -264,6 +258,18 @@
       {
         "site": "tmdb",
         "id": "tv/98665/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "59499"
+      },
+      {
+        "site": "aniList",
+        "id": "185541"
+      },
+      {
+        "site": "anidb",
+        "id": "18964"
       }
     ]
   },
@@ -354,6 +360,18 @@
       {
         "site": "tmdb",
         "id": "movie/1310672"
+      },
+      {
+        "site": "mal",
+        "id": "59186"
+      },
+      {
+        "site": "aniList",
+        "id": "178774"
+      },
+      {
+        "site": "anidb",
+        "id": "18724"
       }
     ]
   },
@@ -518,6 +536,14 @@
       {
         "site": "tmdb",
         "id": "movie/1333100"
+      },
+      {
+        "site": "mal",
+        "id": "59571"
+      },
+      {
+        "site": "anidb",
+        "id": "18820"
       }
     ]
   },
@@ -561,6 +587,18 @@
         "id": "28405",
         "begin": "2025-11-20T15:00:00.000Z",
         "broadcast": "R/2025-11-20T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "59190"
+      },
+      {
+        "site": "aniList",
+        "id": "178782"
+      },
+      {
+        "site": "anidb",
+        "id": "18726"
       }
     ]
   },
@@ -709,6 +747,12 @@
         "id": "mygo-movie-bang-dream",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28631",
+        "begin": "2026-02-28T15:00:00.000Z",
+        "broadcast": "R/2026-02-28T15:00:00.000Z/P7D"
       }
     ]
   }

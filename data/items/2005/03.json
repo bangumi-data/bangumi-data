@@ -26,12 +26,6 @@
         "broadcast": "R/2019-07-01T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "184-177",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "26993",
         "begin": "2024-03-07T15:00:00.000Z",
@@ -53,6 +47,18 @@
         "url": "https://www.disneyplus.com/movies/one-piece-6-baron-omatsuri-and-secret-island/6GEmPmx3Avug",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "464"
+      },
+      {
+        "site": "aniList",
+        "id": "464"
+      },
+      {
+        "site": "anidb",
+        "id": "2644"
       }
     ]
   },

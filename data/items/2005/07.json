@@ -91,12 +91,6 @@
         "broadcast": "R/2020-01-29T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "11-65",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "10698",
         "begin": "2012-12-14T01:00:00.000Z",
@@ -355,6 +349,10 @@
       {
         "site": "anidb",
         "id": "2840"
+      },
+      {
+        "site": "aniList",
+        "id": "491"
       }
     ]
   },
@@ -882,12 +880,6 @@
         "broadcast": "R/2022-06-21T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "746-8",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "movie/34067"
       },
@@ -1041,6 +1033,18 @@
       {
         "site": "tmdb",
         "id": "movie/474870"
+      },
+      {
+        "site": "mal",
+        "id": "21959"
+      },
+      {
+        "site": "aniList",
+        "id": "140307"
+      },
+      {
+        "site": "anidb",
+        "id": "7742"
       }
     ]
   },
@@ -1084,6 +1088,18 @@
       {
         "site": "tmdb",
         "id": "movie/437872"
+      },
+      {
+        "site": "mal",
+        "id": "17215"
+      },
+      {
+        "site": "aniList",
+        "id": "17215"
+      },
+      {
+        "site": "anidb",
+        "id": "7561"
       }
     ]
   }

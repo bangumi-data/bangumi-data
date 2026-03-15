@@ -48,6 +48,12 @@
       {
         "site": "aniList",
         "id": "1439"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002947",
+        "begin": "2026-02-28T15:00:00.000Z",
+        "broadcast": "R/2026-02-28T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -138,6 +144,10 @@
       {
         "site": "aniList",
         "id": "1736"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/30386/season/2"
       }
     ]
   },
@@ -264,6 +274,18 @@
       {
         "site": "tmdb",
         "id": "movie/14368"
+      },
+      {
+        "site": "mal",
+        "id": "2264"
+      },
+      {
+        "site": "aniList",
+        "id": "2264"
+      },
+      {
+        "site": "anidb",
+        "id": "1490"
       }
     ]
   }

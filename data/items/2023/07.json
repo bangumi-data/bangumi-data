@@ -689,12 +689,6 @@
         "broadcast": "R/2024-11-22T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "643-1",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "prime",
         "id": "B0C9PHG1XJ",
         "begin": "",
@@ -1016,6 +1010,18 @@
       {
         "site": "aniList",
         "id": "142877"
+      },
+      {
+        "site": "unext",
+        "id": "SID0087153",
+        "begin": "2023-07-10T03:00:00.000Z",
+        "broadcast": "R/2023-07-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26484",
+        "begin": "2023-07-10T03:00:00.000Z",
+        "broadcast": "R/2023-07-10T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1968,12 +1974,6 @@
         "id": "133657",
         "begin": "2023-07-08T15:30:00.000Z",
         "broadcast": "R/2023-07-08T15:30:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "15-30",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "gamer_hk",
@@ -2987,6 +2987,12 @@
       {
         "site": "aniList",
         "id": "154391"
+      },
+      {
+        "site": "abema",
+        "id": "168-46",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3093,6 +3099,12 @@
       {
         "site": "aniList",
         "id": "157397"
+      },
+      {
+        "site": "prime",
+        "id": "B0GMD1WNJG",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3937,6 +3949,18 @@
       {
         "site": "tmdb",
         "id": "tv/98823/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "54854"
+      },
+      {
+        "site": "aniList",
+        "id": "163136"
+      },
+      {
+        "site": "anidb",
+        "id": "17952"
       }
     ]
   },
@@ -4287,6 +4311,18 @@
       {
         "site": "tmdb",
         "id": "tv/231502"
+      },
+      {
+        "site": "mal",
+        "id": "49793"
+      },
+      {
+        "site": "aniList",
+        "id": "154525"
+      },
+      {
+        "site": "anidb",
+        "id": "16664"
       }
     ]
   },

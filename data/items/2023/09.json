@@ -1091,6 +1091,45 @@
         "url": "https://www.disneyplus.com/movies/city-hunter-the-movie-angel-dust/65sY7PB6l4um",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "51585"
+      },
+      {
+        "site": "aniList",
+        "id": "147189"
+      },
+      {
+        "site": "anidb",
+        "id": "17310"
+      }
+    ]
+  },
+  {
+    "title": "放課後のブレス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "帕底亚的课后时光"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.pokemon.co.jp/ex/sv/ja/sp_anime/",
+    "begin": "2023-09-05T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-12-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "449459"
+      },
+      {
+        "site": "abema",
+        "id": "2-41",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

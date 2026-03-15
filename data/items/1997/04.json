@@ -498,6 +498,18 @@
       {
         "site": "tmdb",
         "id": "tv/23587"
+      },
+      {
+        "site": "mal",
+        "id": "2076"
+      },
+      {
+        "site": "aniList",
+        "id": "2076"
+      },
+      {
+        "site": "anidb",
+        "id": "1240"
       }
     ]
   },
@@ -544,7 +556,7 @@
       },
       {
         "site": "abema",
-        "id": "35-55",
+        "id": "35-63",
         "begin": "",
         "broadcast": ""
       },
@@ -645,6 +657,12 @@
       {
         "site": "aniList",
         "id": "779"
+      },
+      {
+        "site": "bilibili",
+        "id": "28228964",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

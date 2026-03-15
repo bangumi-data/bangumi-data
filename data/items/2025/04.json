@@ -631,12 +631,6 @@
         "id": "魔女守護"
       },
       {
-        "site": "mytv",
-        "id": "witchwatch_144302",
-        "begin": "2025-10-28T16:00:00.000Z",
-        "broadcast": "R/2025-10-28T16:00:00.000Z/P7D"
-      },
-      {
         "site": "tmdb",
         "id": "tv/261868"
       },
@@ -2785,12 +2779,6 @@
         "broadcast": ""
       },
       {
-        "site": "netflix",
-        "id": "82085670",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/274741"
       },
@@ -4739,6 +4727,10 @@
       {
         "site": "tmdb",
         "id": "tv/284780"
+      },
+      {
+        "site": "mal",
+        "id": "58888"
       }
     ]
   },
@@ -4802,6 +4794,14 @@
       {
         "site": "anidb",
         "id": "19428"
+      },
+      {
+        "site": "mal",
+        "id": "59012"
+      },
+      {
+        "site": "aniList",
+        "id": "156087"
       }
     ]
   },
@@ -5846,6 +5846,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "每日男公关"
+      ],
+      "zh-Hant": [
+        "EVERYDAY HOST CLUB 男公關俱樂部的歡樂日常"
       ]
     },
     "type": "tv",
@@ -5899,6 +5902,30 @@
       {
         "site": "tmdb",
         "id": "tv/279710"
+      },
+      {
+        "site": "mal",
+        "id": "60535"
+      },
+      {
+        "site": "aniList",
+        "id": "185584"
+      },
+      {
+        "site": "anidb",
+        "id": "19268"
+      },
+      {
+        "site": "gamer",
+        "id": "142970",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "142970",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -6179,6 +6206,18 @@
       {
         "site": "tmdb",
         "id": "tv/246676"
+      },
+      {
+        "site": "mal",
+        "id": "60612"
+      },
+      {
+        "site": "aniList",
+        "id": "185715"
+      },
+      {
+        "site": "anidb",
+        "id": "19274"
       }
     ]
   },
@@ -6340,6 +6379,24 @@
       {
         "site": "tmdb",
         "id": "tv/281623"
+      },
+      {
+        "site": "mal",
+        "id": "59322"
+      },
+      {
+        "site": "aniList",
+        "id": "179541"
+      },
+      {
+        "site": "anidb",
+        "id": "18760"
+      },
+      {
+        "site": "unext",
+        "id": "SID0277201",
+        "begin": "2026-02-28T15:00:00.000Z",
+        "broadcast": "R/2026-02-28T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -6369,6 +6426,18 @@
         "id": "PLzFNGS7Rcf-PdE85nUVwFcON2ikZwHT-m",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "61579"
+      },
+      {
+        "site": "aniList",
+        "id": "191689"
+      },
+      {
+        "site": "anidb",
+        "id": "19320"
       }
     ]
   },
@@ -6400,6 +6469,14 @@
       {
         "site": "tmdb",
         "id": "tv/289728"
+      },
+      {
+        "site": "mal",
+        "id": "61297"
+      },
+      {
+        "site": "aniList",
+        "id": "188753"
       }
     ]
   },
@@ -6509,6 +6586,12 @@
       {
         "site": "aniList",
         "id": "166249"
+      },
+      {
+        "site": "prime",
+        "id": "B0FWDTW9DM",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

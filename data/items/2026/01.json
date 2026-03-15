@@ -2880,9 +2880,10 @@
       },
       {
         "site": "ani_one",
-        "id": "PLC18xlbCdwtQxOY4tRKy2h4ihDjKu4mpP",
-        "begin": "",
-        "broadcast": ""
+        "id": "PLC18xlbCdwtTXEhWlNbwYQkmPhf7iQ3kF",
+        "begin": "2026-02-15T08:30:07.000Z",
+        "broadcast": "R/2026-02-15T08:30:07.000Z/P7D",
+        "comment": "ULTRA 會員搶先看: PLC18xlbCdwtQxOY4tRKy2h4ihDjKu4mpP"
       },
       {
         "site": "ani_one_asia",
@@ -3125,6 +3126,10 @@
       {
         "site": "aniList",
         "id": "163144"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/204266/season/2"
       }
     ]
   },
@@ -4262,6 +4267,10 @@
       {
         "site": "mikan",
         "id": "3864"
+      },
+      {
+        "site": "mal",
+        "id": "63096"
       }
     ]
   },
@@ -4953,6 +4962,10 @@
       {
         "site": "aniList",
         "id": "195322"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/280110"
       }
     ]
   },
@@ -5465,6 +5478,10 @@
         "id": "B0G6148NYH",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "19809"
       }
     ]
   },
@@ -5601,6 +5618,18 @@
       {
         "site": "tmdb",
         "id": "tv/308934-mofusand"
+      },
+      {
+        "site": "mal",
+        "id": "63151"
+      },
+      {
+        "site": "anidb",
+        "id": "19783"
+      },
+      {
+        "site": "aniList",
+        "id": "204656"
       }
     ]
   },
@@ -5742,6 +5771,38 @@
       {
         "site": "mikan",
         "id": "3878"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1575337"
+      }
+    ]
+  },
+  {
+    "title": "ガールズ＆パンツァー もっとらぶらぶ作戦です！ 第2幕",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少女与战车 lovelove大作战！ 第2幕",
+        "少女与战车：更加相亲相爱作战！ ～第二章～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://gup-mottolovelove.jp/",
+    "begin": "2026-01-29T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-01-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "544626"
+      },
+      {
+        "site": "unext",
+        "id": "SID0261888",
+        "begin": "2026-03-05T15:00:00.000Z",
+        "broadcast": "R/2026-03-05T15:00:00.000Z/P7D"
       }
     ]
   }

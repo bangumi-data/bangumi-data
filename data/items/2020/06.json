@@ -66,5 +66,32 @@
         "id": "114963"
       }
     ]
+  },
+  {
+    "title": "POKÉTOON",
+    "titleTranslate": {
+      "zh-Hans": [
+        "POKÉTOON动画系列"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.pokemon.co.jp/ex/poketoon/",
+    "begin": "2020-06-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-12-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "338353"
+      },
+      {
+        "site": "abema",
+        "id": "2-43",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
   }
 ]

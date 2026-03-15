@@ -70,12 +70,6 @@
         "broadcast": "R/2019-07-01T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "184-173",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "26989",
         "begin": "2024-03-07T15:00:00.000Z",
@@ -91,6 +85,18 @@
       {
         "site": "tmdb",
         "id": "movie/23446"
+      },
+      {
+        "site": "mal",
+        "id": "460"
+      },
+      {
+        "site": "aniList",
+        "id": "460"
+      },
+      {
+        "site": "anidb",
+        "id": "893"
       }
     ]
   },
@@ -184,7 +190,7 @@
       },
       {
         "site": "abema",
-        "id": "35-46",
+        "id": "35-111",
         "begin": "",
         "broadcast": ""
       },

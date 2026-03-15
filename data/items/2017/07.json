@@ -882,12 +882,6 @@
         "id": "1345"
       },
       {
-        "site": "abema",
-        "id": "11-13",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "21656",
         "begin": "2017-07-14T03:00:00.000Z",
@@ -1651,12 +1645,6 @@
       {
         "site": "nicovideo",
         "id": "kakegurui-anime",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "abema",
-        "id": "168-70",
         "begin": "",
         "broadcast": ""
       },
@@ -3171,6 +3159,18 @@
         "id": "21671",
         "begin": "2017-08-03T03:00:00.000Z",
         "broadcast": "R/2017-08-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "34725"
+      },
+      {
+        "site": "aniList",
+        "id": "98517"
+      },
+      {
+        "site": "anidb",
+        "id": "12716"
       }
     ]
   },
@@ -3238,6 +3238,10 @@
       {
         "site": "aniList",
         "id": "98976"
+      },
+      {
+        "site": "mal",
+        "id": "36823"
       }
     ]
   },
@@ -4132,12 +4136,6 @@
       {
         "site": "mikan",
         "id": "1485"
-      },
-      {
-        "site": "abema",
-        "id": "746-21",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "tmdb",

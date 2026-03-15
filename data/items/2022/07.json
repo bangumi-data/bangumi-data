@@ -840,12 +840,6 @@
         "broadcast": "R/2022-07-21T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "189-55",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0069670",
         "begin": "2022-07-21T15:00:00.000Z",
@@ -1856,6 +1850,12 @@
       {
         "site": "aniList",
         "id": "135806"
+      },
+      {
+        "site": "abema",
+        "id": "25-209",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2325,12 +2325,6 @@
       {
         "site": "prime",
         "id": "B0DQ5YM7FG",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "netflix",
-        "id": "81620000",
         "begin": "",
         "broadcast": ""
       },
@@ -2998,6 +2992,18 @@
       {
         "site": "tmdb",
         "id": "tv/62745/season/4"
+      },
+      {
+        "site": "mal",
+        "id": "47164"
+      },
+      {
+        "site": "aniList",
+        "id": "129196"
+      },
+      {
+        "site": "anidb",
+        "id": "16032"
       }
     ]
   },
@@ -3051,12 +3057,6 @@
         "id": "28338505",
         "begin": "2023-04-05T12:00:01.000Z",
         "broadcast": "R/2023-04-05T12:00:01.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "13-151",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -3154,12 +3154,6 @@
         "id": "teppen-anime",
         "begin": "2022-07-04T13:00:00.000Z",
         "broadcast": "R/2022-07-04T13:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "481-8",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -3345,12 +3339,6 @@
         "broadcast": "R/2022-07-15T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "54-74",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0069689",
         "begin": "2022-07-15T15:00:00.000Z",
@@ -3504,12 +3492,6 @@
         "id": "SID0070107",
         "begin": "2022-07-17T15:30:00.000Z",
         "broadcast": "R/2022-07-17T15:30:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "600-1",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",
@@ -4339,6 +4321,18 @@
       {
         "site": "tmdb",
         "id": "tv/65930/season/0/episode/10"
+      },
+      {
+        "site": "mal",
+        "id": "51781"
+      },
+      {
+        "site": "aniList",
+        "id": "149073"
+      },
+      {
+        "site": "anidb",
+        "id": "17356"
       }
     ]
   },
@@ -4417,6 +4411,18 @@
       {
         "site": "tmdb",
         "id": "tv/127264/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "51839"
+      },
+      {
+        "site": "aniList",
+        "id": "151128"
+      },
+      {
+        "site": "anidb",
+        "id": "17357"
       }
     ]
   },
@@ -4535,6 +4541,18 @@
       {
         "site": "tmdb",
         "id": "tv/133387"
+      },
+      {
+        "site": "mal",
+        "id": "49780"
+      },
+      {
+        "site": "aniList",
+        "id": "138912"
+      },
+      {
+        "site": "anidb",
+        "id": "16615"
       }
     ]
   },
@@ -4890,6 +4908,12 @@
       {
         "site": "tmdb",
         "id": "movie/994311"
+      },
+      {
+        "site": "danime",
+        "id": "26437",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -5036,6 +5060,10 @@
       {
         "site": "tmdb",
         "id": "movie/968993"
+      },
+      {
+        "site": "aniList",
+        "id": "148179"
       }
     ]
   },

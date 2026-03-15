@@ -153,7 +153,7 @@
       },
       {
         "site": "abema",
-        "id": "35-55",
+        "id": "35-60",
         "begin": "",
         "broadcast": ""
       },
@@ -265,12 +265,6 @@
         "id": "SID0157652",
         "begin": "2024-10-26T15:00:00.000Z",
         "broadcast": "R/2024-10-26T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "15-32",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",
@@ -516,6 +510,18 @@
       {
         "site": "tmdb",
         "id": "movie/473204"
+      },
+      {
+        "site": "mal",
+        "id": "7698"
+      },
+      {
+        "site": "aniList",
+        "id": "7698"
+      },
+      {
+        "site": "anidb",
+        "id": "5408"
       }
     ]
   },

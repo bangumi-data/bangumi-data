@@ -425,12 +425,6 @@
         "broadcast": "R/2024-12-18T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "204-12",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "prime",
         "id": "B0DP3SKQGR",
         "begin": "",
@@ -510,6 +504,18 @@
         "id": "28425",
         "begin": "2025-11-23T15:00:00.000Z",
         "broadcast": "R/2025-11-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "57647"
+      },
+      {
+        "site": "aniList",
+        "id": "172420"
+      },
+      {
+        "site": "anidb",
+        "id": "18359"
       }
     ]
   },

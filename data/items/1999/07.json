@@ -139,6 +139,24 @@
       {
         "site": "tmdb",
         "id": "movie/31594"
+      },
+      {
+        "site": "mal",
+        "id": "1431"
+      },
+      {
+        "site": "aniList",
+        "id": "20914"
+      },
+      {
+        "site": "anidb",
+        "id": "1421"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012743",
+        "begin": "2026-02-28T15:00:00.000Z",
+        "broadcast": "R/2026-02-28T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -179,12 +197,6 @@
         "id": "SID0028808",
         "begin": "2022-06-21T03:00:00.000Z",
         "broadcast": "R/2022-06-21T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "746-2",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "tmdb",
@@ -359,6 +371,12 @@
       {
         "site": "aniList",
         "id": "4792"
+      },
+      {
+        "site": "abema",
+        "id": "746-26",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -646,6 +664,18 @@
       {
         "site": "tmdb",
         "id": "movie/716732"
+      },
+      {
+        "site": "mal",
+        "id": "27501"
+      },
+      {
+        "site": "aniList",
+        "id": "121830"
+      },
+      {
+        "site": "anidb",
+        "id": "7753"
       }
     ]
   },
@@ -677,6 +707,18 @@
       {
         "site": "tmdb",
         "id": "movie/716728"
+      },
+      {
+        "site": "mal",
+        "id": "21971"
+      },
+      {
+        "site": "aniList",
+        "id": "145481"
+      },
+      {
+        "site": "anidb",
+        "id": "7556"
       }
     ]
   },

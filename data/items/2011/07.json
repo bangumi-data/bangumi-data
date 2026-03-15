@@ -660,12 +660,6 @@
         "broadcast": "R/2022-03-04T13:00:09.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "25-34",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/56343/season/2"
       },
@@ -1056,12 +1050,6 @@
         "id": "SID0016056",
         "begin": "2011-08-01T06:00:00.000Z",
         "broadcast": "R/2011-08-01T06:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "44655",
-        "begin": "2021-08-01T04:00:00.000Z",
-        "broadcast": "R/2021-08-01T04:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -1795,12 +1783,6 @@
         "broadcast": "R/2022-06-21T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "746-15",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "movie/115223"
       },
@@ -1862,12 +1844,6 @@
         "id": "SID0028820",
         "begin": "2022-06-21T03:00:00.000Z",
         "broadcast": "R/2022-06-21T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "746-14",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "tmdb",
@@ -2168,6 +2144,18 @@
       {
         "site": "tmdb",
         "id": "movie/648319"
+      },
+      {
+        "site": "mal",
+        "id": "10685"
+      },
+      {
+        "site": "aniList",
+        "id": "10685"
+      },
+      {
+        "site": "anidb",
+        "id": "8330"
       }
     ]
   },
@@ -2200,6 +2188,18 @@
       {
         "site": "tmdb",
         "id": "movie/495609"
+      },
+      {
+        "site": "mal",
+        "id": "10684"
+      },
+      {
+        "site": "aniList",
+        "id": "10684"
+      },
+      {
+        "site": "anidb",
+        "id": "8329"
       }
     ]
   }

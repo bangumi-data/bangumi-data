@@ -321,12 +321,6 @@
         "comment": "#14-16: 10950"
       },
       {
-        "site": "abema",
-        "id": "25-13gragggaxej",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/56353/season/2"
       }
@@ -1554,12 +1548,6 @@
         "id": "悠悠|yuyu"
       },
       {
-        "site": "abema",
-        "id": "11-64",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "23210",
         "begin": "2020-02-01T01:00:00.000Z",
@@ -2460,6 +2448,18 @@
       {
         "site": "tmdb",
         "id": "tv/55364/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "17147"
+      },
+      {
+        "site": "aniList",
+        "id": "17147"
+      },
+      {
+        "site": "anidb",
+        "id": "9657"
       }
     ]
   },
@@ -2901,7 +2901,7 @@
       },
       {
         "site": "abema",
-        "id": "35-55",
+        "id": "35-79",
         "begin": "",
         "broadcast": ""
       },
@@ -2916,12 +2916,6 @@
         "id": "59700",
         "begin": "2025-07-23T04:00:00.000Z",
         "broadcast": "R/2025-07-23T04:00:00.000Z/P7D"
-      },
-      {
-        "site": "netflix",
-        "id": "80243209",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "tmdb",
@@ -3093,6 +3087,18 @@
       {
         "site": "tmdb",
         "id": "tv/45844"
+      },
+      {
+        "site": "mal",
+        "id": "12029"
+      },
+      {
+        "site": "aniList",
+        "id": "12029"
+      },
+      {
+        "site": "anidb",
+        "id": "8787"
       }
     ]
   },
@@ -3147,6 +3153,18 @@
       {
         "site": "tmdb",
         "id": "movie/799311"
+      },
+      {
+        "site": "mal",
+        "id": "18599"
+      },
+      {
+        "site": "aniList",
+        "id": "18599"
+      },
+      {
+        "site": "anidb",
+        "id": "9607"
       }
     ]
   },
@@ -3367,6 +3385,18 @@
         "id": "23955",
         "begin": "2023-06-30T15:00:00.000Z",
         "broadcast": "R/2023-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "24437"
+      },
+      {
+        "site": "aniList",
+        "id": "18205"
+      },
+      {
+        "site": "anidb",
+        "id": "10633"
       }
     ]
   }

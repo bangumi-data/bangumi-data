@@ -880,12 +880,6 @@
         "comment": "TRUEROUTE: 10669"
       },
       {
-        "site": "abema",
-        "id": "25-12bcmuytxgcm",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/56353"
       },
@@ -1077,6 +1071,12 @@
       {
         "site": "aniList",
         "id": "7674"
+      },
+      {
+        "site": "danime",
+        "id": "21980",
+        "begin": "2025-01-31T15:00:00.000Z",
+        "broadcast": "R/2025-01-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1834,6 +1834,10 @@
       {
         "site": "tmdb",
         "id": "tv/96737/season/1/episode/2"
+      },
+      {
+        "site": "mal",
+        "id": "8481"
       }
     ]
   },
@@ -1960,6 +1964,18 @@
       {
         "site": "tmdb",
         "id": "movie/409376"
+      },
+      {
+        "site": "mal",
+        "id": "8768"
+      },
+      {
+        "site": "aniList",
+        "id": "8768"
+      },
+      {
+        "site": "anidb",
+        "id": "7995"
       }
     ]
   },
@@ -2125,6 +2141,18 @@
       {
         "site": "tmdb",
         "id": "movie/71883"
+      },
+      {
+        "site": "mal",
+        "id": "6675"
+      },
+      {
+        "site": "aniList",
+        "id": "6675"
+      },
+      {
+        "site": "anidb",
+        "id": "6529"
       }
     ]
   },

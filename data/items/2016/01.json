@@ -700,13 +700,6 @@
         "broadcast": "R/2016-01-08T03:00:00.000Z/P7D"
       },
       {
-        "site": "muse_tw",
-        "id": "PL12UaAf_xzfrUmit6EAe4T5EWUGoE59Or",
-        "begin": "2022-08-13T04:00:08.000Z",
-        "broadcast": "R/2022-08-13T04:00:08.000Z/P7D",
-        "comment": "國語: PL12UaAf_xzfpNZtjdA1gfJX0Ev4BZDo7_"
-      },
-      {
         "site": "crunchyroll",
         "id": "GRE59JGX6",
         "begin": "2016-11-22T15:00:00.000Z",
@@ -727,6 +720,12 @@
       {
         "site": "aniList",
         "id": "21170"
+      },
+      {
+        "site": "prime",
+        "id": "B0GNMKHQ9G",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3787,6 +3786,14 @@
       {
         "site": "tmdb",
         "id": "tv/126340/season/3"
+      },
+      {
+        "site": "aniList",
+        "id": "177226"
+      },
+      {
+        "site": "anidb",
+        "id": "12964"
       }
     ]
   }
