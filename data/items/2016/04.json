@@ -2792,6 +2792,12 @@
       {
         "site": "aniList",
         "id": "21196"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GR24GX896",
+        "begin": "2019-11-01T15:00:00.000Z",
+        "broadcast": "R/2019-11-01T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -4907,6 +4913,9 @@
       "zh-Hant": [
         "蠟筆小新電影 爆睡 夢世界大作戰！",
         "蠟筆小新：爆睡！夢世界大作戰！"
+      ],
+      "en": [
+        "Crayon Shin-chan the Movie: Fast Asleep! The Great Assault on the Dreaming World"
       ]
     },
     "type": "movie",
@@ -4979,6 +4988,12 @@
       {
         "site": "anidb",
         "id": "11742"
+      },
+      {
+        "site": "netflix",
+        "id": "80242953",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
