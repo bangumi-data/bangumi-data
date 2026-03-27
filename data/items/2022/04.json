@@ -1509,6 +1509,12 @@
       {
         "site": "aniList",
         "id": "135384"
+      },
+      {
+        "site": "danime",
+        "id": "25389",
+        "begin": "2026-03-20T15:00:00.000Z",
+        "broadcast": "R/2026-03-20T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -5006,6 +5012,9 @@
       "zh-Hant": [
         "蠟筆小新：幽靈忍者珍風傳",
         "蠟筆小新: 幽靈忍者珍風傳"
+      ],
+      "en": [
+        "Crayon Shinchan the Movie: The Tornado Legend of Ninja Mononoke"
       ]
     },
     "type": "movie",
@@ -5047,6 +5056,12 @@
       {
         "site": "tmdb",
         "id": "movie/955666"
+      },
+      {
+        "site": "netflix",
+        "id": "81677549",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
