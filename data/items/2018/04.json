@@ -935,12 +935,6 @@
         "id": "tv/45950/season/4"
       },
       {
-        "site": "abema",
-        "id": "25-91",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mal",
         "id": "34281"
       },
@@ -2180,12 +2174,6 @@
         "begin": ""
       },
       {
-        "site": "gamer",
-        "id": "92051",
-        "begin": "2021-02-18T06:00:00.000Z",
-        "broadcast": "R/2021-02-18T06:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0034205",
         "begin": "2023-05-31T15:00:00.000Z",
@@ -2402,21 +2390,9 @@
         "broadcast": "R/2019-04-11T07:39:00.000Z/P7D"
       },
       {
-        "site": "nicovideo",
-        "id": "gineiden-anime",
-        "begin": "2018-04-08T03:00:00.000Z",
-        "broadcast": "R/2018-04-08T03:00:00.000Z/P7D"
-      },
-      {
         "site": "qq",
         "id": "m/mzc00200b21e6fj",
         "begin": ""
-      },
-      {
-        "site": "gamer",
-        "id": "67626",
-        "begin": "2022-11-18T06:30:00.000Z",
-        "broadcast": "R/2022-11-18T06:30:00.000Z/P7D"
       },
       {
         "site": "bilibili_hk_mo_tw",
@@ -2469,6 +2445,12 @@
       {
         "site": "aniList",
         "id": "20628"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gineiden-dnt-kaikou",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3465,6 +3447,12 @@
       {
         "site": "aniList",
         "id": "100745"
+      },
+      {
+        "site": "abema",
+        "id": "168-79",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5710,12 +5698,6 @@
       {
         "site": "anidb",
         "id": "13520"
-      },
-      {
-        "site": "netflix",
-        "id": "81414744",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
@@ -5882,7 +5864,8 @@
       {
         "site": "nicovideo",
         "id": "ponque",
-        "begin": "2016-01-13T11:00:00.000Z"
+        "begin": "2016-01-13T11:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "abema",

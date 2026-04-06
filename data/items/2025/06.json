@@ -290,5 +290,90 @@
         "id": "184756"
       }
     ]
+  },
+  {
+    "title": "それいけ！アンパンマン チャポンのヒーロー！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "面包超人 恰彭的英雄！"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://anpan-movie.com/2025/",
+    "begin": "2025-06-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-06-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "542125"
+      },
+      {
+        "site": "unext",
+        "id": "SID0243312",
+        "begin": "2025-11-18T15:00:00.000Z",
+        "broadcast": "R/2025-11-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "60962"
+      },
+      {
+        "site": "aniList",
+        "id": "186542"
+      },
+      {
+        "site": "anidb",
+        "id": "19257"
+      }
+    ]
+  },
+  {
+    "title": "ヴァージン・パンク Clockwork Girl",
+    "titleTranslate": {
+      "zh-Hans": [
+        "纯洁庞克 发条少女",
+        "处女朋克：发条女孩",
+        "维珍朋克： 发条女孩"
+      ],
+      "zh-Hant": [
+        "純潔龐克 發條少女"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://virgin-punk.com/",
+    "begin": "2025-06-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-06-26T16:35:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "513352"
+      },
+      {
+        "site": "mikan",
+        "id": "3885"
+      },
+      {
+        "site": "mal",
+        "id": "59848"
+      },
+      {
+        "site": "aniList",
+        "id": "181449"
+      },
+      {
+        "site": "anidb",
+        "id": "18866"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/271604"
+      }
+    ]
   }
 ]

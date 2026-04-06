@@ -1211,12 +1211,6 @@
         "broadcast": "R/2015-10-07T14:30:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "78087",
-        "begin": "2017-01-13T06:20:00.000Z",
-        "broadcast": "R/2017-01-13T06:20:00.000Z/P7D"
-      },
-      {
         "site": "abema",
         "id": "26-2mzbynr-cph",
         "begin": "",
@@ -1289,12 +1283,6 @@
       {
         "site": "bangumi",
         "id": "139950"
-      },
-      {
-        "site": "nicovideo",
-        "id": "kindaichi_r2",
-        "begin": "2015-10-05T06:00:00.000Z",
-        "broadcast": "R/2015-10-05T06:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -1456,6 +1444,12 @@
         "id": "haikyu2ndseason0001_145413",
         "begin": "2026-02-12T16:00:00.000Z",
         "broadcast": "R/2026-02-12T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GY8VM8MWY",
+        "begin": "2014-04-06T00:00:00.000Z",
+        "broadcast": "R/2014-04-06T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -2551,6 +2545,12 @@
       {
         "site": "aniList",
         "id": "20991"
+      },
+      {
+        "site": "abema",
+        "id": "25-314",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2826,6 +2826,12 @@
       {
         "site": "aniList",
         "id": "21261"
+      },
+      {
+        "site": "prime",
+        "id": "B0GLP9X56T",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

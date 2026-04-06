@@ -669,12 +669,6 @@
         "id": "tv/223500"
       },
       {
-        "site": "mytv",
-        "id": "windbreaker0001_144912",
-        "begin": "2025-12-26T16:00:00.000Z",
-        "broadcast": "R/2025-12-26T16:00:00.000Z/P7D"
-      },
-      {
         "site": "mal",
         "id": "54900"
       },
@@ -1666,6 +1660,12 @@
       {
         "site": "aniList",
         "id": "158898"
+      },
+      {
+        "site": "abema",
+        "id": "11-60",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2062,12 +2062,6 @@
         "id": "SID0100050",
         "begin": "2024-04-14T15:00:00.000Z",
         "broadcast": "R/2024-04-14T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "25-262",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bilibili",
@@ -6105,6 +6099,24 @@
       {
         "site": "aniList",
         "id": "169754"
+      },
+      {
+        "site": "unext",
+        "id": "SID0289628",
+        "begin": "2026-03-27T15:00:00.000Z",
+        "broadcast": "R/2026-03-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FX5SLYNM",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "415-73",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

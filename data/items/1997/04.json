@@ -57,12 +57,6 @@
         "broadcast": "R/2024-06-01T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "2-21",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/60572"
       },
@@ -667,6 +661,12 @@
       {
         "site": "bilibili",
         "id": "28228964",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "415-33",
         "begin": "",
         "broadcast": ""
       }

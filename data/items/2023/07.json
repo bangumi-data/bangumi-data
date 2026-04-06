@@ -1619,12 +1619,6 @@
         "broadcast": "R/2023-07-05T14:30:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "25-244",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0087610",
         "begin": "2023-07-05T14:30:00.000Z",
@@ -2696,6 +2690,12 @@
       {
         "site": "aniList",
         "id": "163132"
+      },
+      {
+        "site": "abema",
+        "id": "26-201",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3197,6 +3197,12 @@
       {
         "site": "aniList",
         "id": "156040"
+      },
+      {
+        "site": "prime",
+        "id": "B0CBHTWNSC",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4036,6 +4042,12 @@
       {
         "site": "aniList",
         "id": "154745"
+      },
+      {
+        "site": "prime",
+        "id": "B0CB1VTBJZ",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4542,6 +4554,55 @@
       {
         "site": "aniList",
         "id": "135178"
+      }
+    ]
+  },
+  {
+    "title": "忘星のヴァリシア 第一章：劫火",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.voliciamovie.com/",
+    "begin": "2023-07-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-07-02T16:33:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "437925"
+      },
+      {
+        "site": "danime",
+        "id": "28686",
+        "begin": "2026-03-26T15:00:00.000Z",
+        "broadcast": "R/2026-03-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0268799",
+        "begin": "2026-03-27T03:00:00.000Z",
+        "broadcast": "R/2026-03-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "55640"
+      },
+      {
+        "site": "aniList",
+        "id": "169375"
+      },
+      {
+        "site": "prime",
+        "id": "B0GMQWKRYR",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "19-287",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

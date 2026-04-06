@@ -602,12 +602,6 @@
         "broadcast": "R/2023-10-01T09:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "632-3",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bilibili",
         "id": "21086747",
         "begin": "2023-11-05T10:00:00.000Z",
@@ -790,6 +784,12 @@
       {
         "site": "aniList",
         "id": "163024"
+      },
+      {
+        "site": "abema",
+        "id": "168-79",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3080,13 +3080,6 @@
         "broadcast": "R/2023-10-01T16:00:00.000Z/P7D"
       },
       {
-        "site": "mytv",
-        "id": "ronkamonohashisforbiddendeductions_139629",
-        "begin": "2023-10-02T14:30:00.000Z",
-        "broadcast": "R/2023-10-02T14:30:00.000Z/P7D",
-        "comment": "ronkamonohashisforbiddendeductions0001_141951"
-      },
-      {
         "site": "gamer",
         "id": "129279",
         "begin": "2023-10-02T14:30:00.000Z",
@@ -3291,12 +3284,6 @@
         "id": "130911",
         "begin": "2023-10-08T14:00:00.000Z",
         "broadcast": "R/2023-10-08T14:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "420-60",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",

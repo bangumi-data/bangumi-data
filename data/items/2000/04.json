@@ -29,12 +29,6 @@
         "broadcast": "R/2017-02-24T01:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "19-226",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/45549"
       },
@@ -112,13 +106,6 @@
         "begin": "2022-06-07T16:00:00.000Z",
         "broadcast": "R/2022-06-07T16:00:00.000Z/P7D",
         "comment": "#52-#97: PLxSscENEp7JhOYEpedisG-L_pllsytJQe, #98-#121: PLxSscENEp7Jinb7O6q2JWNVJ4zAPBcJ0L, #122-#144: PLxSscENEp7JgrfrrrjtDBTt8UXrSv5p-X, #145-#184: PLxSscENEp7JjUs3YZW3c_VIWf15JKqsus, #185-#198: PLxSscENEp7Jg5DgWKsdk172w43rMtfFQ9 #199-#224: PLxSscENEp7Jj9X28LGA4-E3CQtra58L3J"
-      },
-      {
-        "site": "mytv",
-        "id": "yugiohduelmonster_131582",
-        "begin": "2021-04-01T16:00:00.000Z",
-        "broadcast": "R/2021-04-01T16:00:00.000Z/P7D",
-        "comment": "#52-97: yugiohduelmonstersii_134988"
       },
       {
         "site": "bilibili_hk_mo_tw",
@@ -1321,6 +1308,12 @@
       {
         "site": "aniList",
         "id": "2566"
+      },
+      {
+        "site": "gamer",
+        "id": "20149",
+        "begin": "2025-12-12T04:00:00.000Z",
+        "broadcast": "R/2025-12-12T04:00:00.000Z/P7D"
       }
     ]
   }
