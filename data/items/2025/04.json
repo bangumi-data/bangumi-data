@@ -4496,12 +4496,6 @@
         "broadcast": "R/2025-04-08T14:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "420-71",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "prime",
         "id": "B0DTB4DBCV",
         "begin": "",
@@ -6501,6 +6495,10 @@
       {
         "site": "aniList",
         "id": "188753"
+      },
+      {
+        "site": "anidb",
+        "id": "19870"
       }
     ]
   },
@@ -6762,6 +6760,49 @@
       {
         "site": "aniList",
         "id": "185212"
+      }
+    ]
+  },
+  {
+    "title": "忘星のヴァリシア 第二章：群青",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.voliciamovie.com/",
+    "begin": "2025-04-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-04-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "540904"
+      },
+      {
+        "site": "danime",
+        "id": "28687",
+        "begin": "2026-03-26T15:00:00.000Z",
+        "broadcast": "R/2026-03-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0268800",
+        "begin": "2026-03-27T03:00:00.000Z",
+        "broadcast": "R/2026-03-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "61865"
+      },
+      {
+        "site": "aniList",
+        "id": "194706"
+      },
+      {
+        "site": "abema",
+        "id": "19-288",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

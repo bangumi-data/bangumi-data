@@ -1224,12 +1224,6 @@
         "broadcast": "R/2017-04-19T15:30:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "84118",
-        "begin": "2017-04-11T16:00:00.000Z",
-        "broadcast": "R/2017-04-11T16:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0028965",
         "begin": "2019-10-04T03:00:00.000Z",
@@ -1849,12 +1843,6 @@
         "id": "rinne03",
         "begin": "",
         "broadcast": ""
-      },
-      {
-        "site": "gamer",
-        "id": "85332",
-        "begin": "2020-06-16T08:00:00.000Z",
-        "broadcast": "R/2020-06-16T08:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -5034,6 +5022,12 @@
       {
         "site": "aniList",
         "id": "98222"
+      },
+      {
+        "site": "abema",
+        "id": "415-53",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5360,12 +5354,6 @@
       {
         "site": "aniList",
         "id": "100290"
-      },
-      {
-        "site": "netflix",
-        "id": "80242862",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },

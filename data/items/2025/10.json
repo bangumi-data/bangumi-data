@@ -1953,7 +1953,7 @@
     "officialSite": "https://www.anime-fumetsunoanatae.com/",
     "begin": "2025-10-04T14:45:00.000Z",
     "broadcast": "R/2025-10-04T14:45:00.000Z/P7D",
-    "end": "",
+    "end": "2026-03-28T14:45:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2585,6 +2585,12 @@
       {
         "site": "aniList",
         "id": "186794"
+      },
+      {
+        "site": "unext",
+        "id": "SID0232880",
+        "begin": "2026-03-30T15:00:00.000Z",
+        "broadcast": "R/2026-03-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2603,7 +2609,7 @@
     "officialSite": "https://aooke-anime.com/",
     "begin": "2025-10-05T08:00:00.000Z",
     "broadcast": "R/2025-10-05T08:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-03-01T08:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3533,7 +3539,7 @@
     "officialSite": "https://chiramune.com/",
     "begin": "2025-10-07T09:00:00.000Z",
     "broadcast": "R/2025-10-07T09:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-03-31T09:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -6444,6 +6450,41 @@
       {
         "site": "aniList",
         "id": "186714"
+      }
+    ]
+  },
+  {
+    "title": "映画 すみっコぐらし 空の王国とふたりのコ",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://sumikkogurashi-movie.com/",
+    "begin": "2025-10-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-10-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "545844"
+      },
+      {
+        "site": "prime",
+        "id": "B0GM1ZBL94",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "61278"
+      },
+      {
+        "site": "aniList",
+        "id": "188522"
+      },
+      {
+        "site": "anidb",
+        "id": "19639"
       }
     ]
   }

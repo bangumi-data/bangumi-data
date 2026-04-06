@@ -1232,12 +1232,6 @@
         "id": "96861"
       },
       {
-        "site": "nicovideo",
-        "id": "kindaichi_r",
-        "begin": "2014-06-05T06:00:00.000Z",
-        "broadcast": "R/2014-06-05T06:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0002194",
         "begin": "2019-11-30T03:00:00.000Z",
@@ -1502,6 +1496,12 @@
       {
         "site": "aniList",
         "id": "19111"
+      },
+      {
+        "site": "abema",
+        "id": "13-8gjhfxmjumf",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1584,7 +1584,8 @@
         "排球少年"
       ],
       "en": [
-        "HAIKYU"
+        "HAIKYU",
+        "Haikyu!!"
       ],
       "zh-Hant": [
         "排球少年!!",
@@ -1696,12 +1697,6 @@
         "id": "tv/60863"
       },
       {
-        "site": "mytv",
-        "id": "haikyuseason10001_142911",
-        "begin": "2026-01-08T16:00:00.000Z",
-        "broadcast": "R/2026-01-08T16:00:00.000Z/P7D"
-      },
-      {
         "site": "mal",
         "id": "20583"
       },
@@ -1712,6 +1707,12 @@
       {
         "site": "aniList",
         "id": "20464"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GY8VM8MWY",
+        "begin": "2014-04-06T00:00:00.000Z",
+        "broadcast": "R/2014-04-06T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -4675,6 +4676,12 @@
       {
         "site": "aniList",
         "id": "20546"
+      },
+      {
+        "site": "abema",
+        "id": "415-50",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

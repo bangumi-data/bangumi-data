@@ -861,12 +861,6 @@
         "broadcast": "R/2016-04-06T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "301-1",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/66111"
       },
@@ -1357,12 +1351,6 @@
       {
         "site": "tmdb",
         "id": "tv/67524"
-      },
-      {
-        "site": "abema",
-        "id": "13-66",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "mal",
@@ -2517,6 +2505,18 @@
       {
         "site": "aniList",
         "id": "21499"
+      },
+      {
+        "site": "unext",
+        "id": "SID0023657",
+        "begin": "2016-04-13T03:00:00.000Z",
+        "broadcast": "R/2016-04-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20880",
+        "begin": "2026-03-26T15:00:00.000Z",
+        "broadcast": "R/2026-03-26T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3593,12 +3593,6 @@
         "broadcast": "R/2016-04-16T15:00:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "79260",
-        "begin": "2020-10-16T11:00:00.000Z",
-        "broadcast": "R/2020-10-16T11:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0023666",
         "begin": "2019-11-01T03:00:00.000Z",
@@ -3671,12 +3665,6 @@
         "id": "rinne_anime2",
         "begin": "",
         "broadcast": ""
-      },
-      {
-        "site": "gamer",
-        "id": "79559",
-        "begin": "2020-05-22T09:00:00.000Z",
-        "broadcast": "R/2020-05-22T09:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -3858,6 +3846,12 @@
       {
         "site": "aniList",
         "id": "21495"
+      },
+      {
+        "site": "unext",
+        "id": "SID0023856",
+        "begin": "2026-03-31T15:00:00.000Z",
+        "broadcast": "R/2026-03-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -4900,6 +4894,12 @@
       {
         "site": "aniList",
         "id": "21470"
+      },
+      {
+        "site": "abema",
+        "id": "415-52",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4988,12 +4988,6 @@
       {
         "site": "anidb",
         "id": "11742"
-      },
-      {
-        "site": "netflix",
-        "id": "80242953",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
@@ -5566,12 +5560,6 @@
     "end": "2016-10-10T16:00:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "gamer",
-        "id": "121949",
-        "begin": "2022-01-25T04:00:00.000Z",
-        "broadcast": "R/2022-01-25T04:00:00.000Z/P7D"
-      },
       {
         "site": "tmdb",
         "id": "tv/158198/season/3"

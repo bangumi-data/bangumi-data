@@ -98,12 +98,6 @@
         "broadcast": "R/2020-01-03T15:30:00.000Z/P7D"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7Uci2AaJynaGoTn467Dr2j7-F",
-        "begin": "2020-01-09T16:00:00.000Z",
-        "broadcast": "R/2020-01-09T16:00:00.000Z/P7D"
-      },
-      {
         "site": "gamer",
         "id": "104191",
         "begin": "2020-01-03T15:30:00.000Z",
@@ -144,12 +138,6 @@
         "id": "PL12UaAf_xzfpW8hJ2eMGrJZpLSP3SSN2W",
         "begin": "2021-02-06T14:00:11.000Z",
         "broadcast": "R/2021-02-06T14:00:11.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "25-137",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "tmdb",
@@ -1721,12 +1709,6 @@
         "begin": "2020-01-10T17:20:09.000Z"
       },
       {
-        "site": "nicovideo",
-        "id": "shinamon-nobunaga",
-        "begin": "2020-01-15T15:00:00.000Z",
-        "broadcast": "R/2020-01-15T15:00:00.000Z/P7D"
-      },
-      {
         "site": "youku",
         "id": "ceaff49a9804480d8c6b",
         "begin": "2020-01-10T17:20:55.000Z"
@@ -1736,12 +1718,6 @@
         "id": "106792",
         "begin": "2020-01-10T17:25:00.000Z",
         "broadcast": "R/2020-01-10T17:25:00.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0045517",
-        "begin": "2020-01-16T03:00:00.000Z",
-        "broadcast": "R/2020-01-16T03:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -1809,12 +1785,6 @@
         "id": "isyuzoku",
         "begin": "2020-01-11T14:30:00.000Z",
         "broadcast": "R/2020-01-11T14:30:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "106302",
-        "begin": "2020-01-11T15:30:00.000Z",
-        "broadcast": "R/2020-01-11T15:30:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -2086,18 +2056,6 @@
         "id": "isekai-quartet2",
         "begin": "2020-01-14T15:30:00.000Z",
         "broadcast": "R/2020-01-14T15:30:00.000Z/P7D"
-      },
-      {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7Ucj5UQCRFXwELearxpjS3SDW",
-        "begin": "2022-08-31T16:00:00.000Z",
-        "broadcast": "R/2022-08-31T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "106259",
-        "begin": "2020-01-14T16:45:00.000Z",
-        "broadcast": "R/2020-01-14T16:45:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -2490,12 +2448,6 @@
         "id": "PLxSscENEp7JiazRuzo7l7hCx6ul7r8Oxc",
         "begin": "2020-01-17T16:00:00.000Z",
         "broadcast": "R/2020-01-17T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "108032",
-        "begin": "2020-01-21T09:00:00.000Z",
-        "broadcast": "R/2020-01-21T09:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -3004,6 +2956,12 @@
         "id": "19-286",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0GJQHVR74",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3347,11 +3305,13 @@
       "zh-Hant": [
         "排球少年!! TO THE TOP",
         "排球少年!! TO THE TOP (第四季)",
-        "排球少年！！第四季"
+        "排球少年！！第四季",
+        "排球少年!! (第四季)"
       ],
       "en": [
         "Haikyu!! TO THE TOP",
-        "Haikyu!! TO THE TOP (4th Season)"
+        "Haikyu!! TO THE TOP (4th Season)",
+        "HAIKYU!! 4th Season"
       ]
     },
     "type": "tv",
@@ -3457,6 +3417,18 @@
       {
         "site": "aniList",
         "id": "106625"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GY8VM8MWY",
+        "begin": "2014-04-06T00:00:00.000Z",
+        "broadcast": "R/2014-04-06T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "haikyu4thseason_145984",
+        "begin": "2026-04-02T16:00:00.000Z",
+        "broadcast": "R/2026-04-02T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -3752,12 +3724,6 @@
         "site": "youku",
         "id": "aabcf2748b67401d8316",
         "begin": "2020-02-03T06:40:18.000Z"
-      },
-      {
-        "site": "gamer",
-        "id": "112278",
-        "begin": "2020-07-25T12:00:00.000Z",
-        "broadcast": "R/2020-07-25T12:00:00.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
