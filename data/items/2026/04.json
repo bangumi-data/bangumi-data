@@ -536,6 +536,12 @@
       {
         "site": "mikan",
         "id": "3902"
+      },
+      {
+        "site": "prime",
+        "id": "B0GWCJRK7D",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -986,6 +992,12 @@
       {
         "site": "mikan",
         "id": "3907"
+      },
+      {
+        "site": "danime",
+        "id": "28818",
+        "begin": "2026-04-12T15:00:00.000Z",
+        "broadcast": "R/2026-04-12T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2994,6 +3006,18 @@
         "id": "345-6",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00374357",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28819",
+        "begin": "2026-04-12T15:00:00.000Z",
+        "broadcast": "R/2026-04-12T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3363,6 +3387,12 @@
       {
         "site": "gamer_hk",
         "id": "146932",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0GK8V88JD",
         "begin": "",
         "broadcast": ""
       }
@@ -6010,6 +6040,33 @@
       {
         "site": "aniList",
         "id": "21"
+      }
+    ]
+  },
+  {
+    "title": "北斗の拳 -FIST OF THE NORTH STAR-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "北斗神拳 -FIST OF THE NORTH STAR-"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://hokuto-anime.com/",
+    "begin": "2026-04-09T16:00:00.000Z",
+    "broadcast": "R/2026-04-09T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "454438"
+      },
+      {
+        "site": "prime",
+        "id": "B0GPDB3ZHX",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }
