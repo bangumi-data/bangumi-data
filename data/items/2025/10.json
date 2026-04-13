@@ -287,7 +287,7 @@
       },
       {
         "site": "prime",
-        "id": "B0FMNVNR17",
+        "id": "B0FTQPHGMV",
         "begin": "",
         "broadcast": ""
       },
@@ -6485,6 +6485,42 @@
       {
         "site": "anidb",
         "id": "19639"
+      }
+    ]
+  },
+  {
+    "title": "ギヴン OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "GIVEN 被赠与的未来 OAD"
+      ],
+      "zh-Hant": [
+        "GIVEN 被贈與的未來 OAD：日常片刻"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2025-09-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-09-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "590856"
+      },
+      {
+        "site": "gamer",
+        "id": "150782",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "150782",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

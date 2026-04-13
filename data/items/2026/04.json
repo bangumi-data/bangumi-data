@@ -91,6 +91,10 @@
         "id": "28846",
         "begin": "2026-04-05T15:30:00.000Z",
         "broadcast": "R/2026-04-05T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/259819"
       }
     ]
   },
@@ -155,12 +159,24 @@
       {
         "site": "unext",
         "id": "SID0282789",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-09T15:30:00.000Z",
+        "broadcast": "R/2026-04-09T15:30:00.000Z/P7D"
       },
       {
         "site": "netflix",
         "id": "82031882",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28844",
+        "begin": "2026-04-09T15:30:00.000Z",
+        "broadcast": "R/2026-04-09T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0GVNFM87T",
         "begin": "",
         "broadcast": ""
       }
@@ -170,10 +186,14 @@
     "title": "とんがり帽子のアトリエ",
     "titleTranslate": {
       "en": [
-        "WITCH HAT ATELIER"
+        "WITCH HAT ATELIER",
+        "Witch Hat Atelier"
       ],
       "zh-Hans": [
         "尖帽子的魔法工房"
+      ],
+      "zh-Hant": [
+        "魔法帽的工作室"
       ]
     },
     "type": "tv",
@@ -213,14 +233,36 @@
       {
         "site": "unext",
         "id": "SID0282781",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-06T14:00:00.000Z",
+        "broadcast": "R/2026-04-06T14:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
         "id": "tongari-anime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "82741721",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28882",
+        "begin": "2026-04-06T14:00:00.000Z",
+        "broadcast": "R/2026-04-06T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0GVGZ66MK",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3899"
       }
     ]
   },
@@ -318,8 +360,8 @@
       {
         "site": "crunchyroll",
         "id": "GT00371860",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-04T00:00:00.000Z",
+        "broadcast": "R/2026-04-04T00:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -332,6 +374,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "没有辣妹会对阿宅温柔!?"
+      ],
+      "en": [
+        "Gals Can't be Kind to Otaku!?"
       ]
     },
     "type": "tv",
@@ -371,8 +416,36 @@
       {
         "site": "unext",
         "id": "SID0282778",
+        "begin": "2026-04-11T03:00:00.000Z",
+        "broadcast": "R/2026-04-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28808",
+        "begin": "2026-04-08T15:21:00.000Z",
+        "broadcast": "R/2026-04-08T15:21:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0F487ZZW2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00371662",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "12-30",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3901"
       }
     ]
   },
@@ -385,6 +458,9 @@
       ],
       "zh-Hant": [
         "女騎士成為蠻族新娘"
+      ],
+      "en": [
+        "The Warrior Princess and the Barbaric King"
       ]
     },
     "type": "tv",
@@ -414,14 +490,14 @@
       {
         "site": "gamer",
         "id": "141723",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-09T12:30:00.000Z",
+        "broadcast": "R/2026-04-09T12:30:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "141723",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-09T12:30:00.000Z",
+        "broadcast": "R/2026-04-09T12:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -444,6 +520,28 @@
       {
         "site": "tmdb",
         "id": "tv/273467"
+      },
+      {
+        "site": "danime",
+        "id": "28816",
+        "begin": "2026-04-09T13:30:00.000Z",
+        "broadcast": "R/2026-04-09T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00362253",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3902"
+      },
+      {
+        "site": "prime",
+        "id": "B0GWCJRK7D",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -526,12 +624,28 @@
       {
         "site": "crunchyroll",
         "id": "G9VHN91DJ",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-01-07T00:00:00.000Z",
+        "broadcast": "R/2023-01-07T00:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
         "id": "3903"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/154743/season/2"
+      },
+      {
+        "site": "unext",
+        "id": "SID0282791",
+        "begin": "2026-04-06T15:00:00.000Z",
+        "broadcast": "R/2026-04-06T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DFL7H2TY",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -588,8 +702,8 @@
       {
         "site": "crunchyroll",
         "id": "GT00371887",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-03T00:00:00.000Z",
+        "broadcast": "R/2026-04-03T00:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -600,6 +714,18 @@
         "id": "786-2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0289410",
+        "begin": "2026-04-08T13:00:00.000Z",
+        "broadcast": "R/2026-04-08T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28836",
+        "begin": "2026-04-08T13:00:00.000Z",
+        "broadcast": "R/2026-04-08T13:00:00.000Z/P7D"
       }
     ]
   },
@@ -611,6 +737,9 @@
       ],
       "zh-Hant": [
         "上伊那牡丹，醉姿如百合"
+      ],
+      "en": [
+        "Botan Kamiina Fully Blossoms When Drunk"
       ]
     },
     "type": "tv",
@@ -644,14 +773,14 @@
       {
         "site": "gamer",
         "id": "144229",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-10T15:30:00.000Z",
+        "broadcast": "R/2026-04-10T15:30:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "144229",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-10T15:30:00.000Z",
+        "broadcast": "R/2026-04-10T15:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -670,6 +799,22 @@
         "id": "SID0282776",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "viu",
+        "id": "3037786",
+        "begin": "2026-04-10T15:30:43.000Z",
+        "broadcast": "R/2026-04-10T15:30:43.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00371890",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3905"
       }
     ]
   },
@@ -711,14 +856,14 @@
       {
         "site": "gamer",
         "id": "146056",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-07T13:30:00.000Z",
+        "broadcast": "R/2026-04-07T13:30:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "146056",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-07T13:30:00.000Z",
+        "broadcast": "R/2026-04-07T13:30:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -735,20 +880,34 @@
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UcisUVk0o-vTHA_Y7vH7fPKl",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-07T13:30:06.000Z",
+        "broadcast": "R/2026-04-07T13:30:06.000Z/P7D"
       },
       {
         "site": "unext",
         "id": "SID0285877",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-10T13:30:00.000Z",
+        "broadcast": "R/2026-04-10T13:30:00.000Z/P7D"
       },
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfqRLfW1AdqjPjy_1kUdHF_j",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28805",
+        "begin": "2026-04-07T13:30:00.000Z",
+        "broadcast": "R/2026-04-07T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/213326/season/2"
+      },
+      {
+        "site": "mikan",
+        "id": "3906"
       }
     ]
   },
@@ -799,14 +958,14 @@
       {
         "site": "gamer",
         "id": "143831",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-07T14:30:00.000Z",
+        "broadcast": "R/2026-04-07T14:30:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "143831",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-07T14:30:00.000Z",
+        "broadcast": "R/2026-04-07T14:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -823,6 +982,22 @@
       {
         "site": "tmdb",
         "id": "tv/284568"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00374288",
+        "begin": "2026-04-07T00:00:00.000Z",
+        "broadcast": "R/2026-04-07T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3907"
+      },
+      {
+        "site": "danime",
+        "id": "28818",
+        "begin": "2026-04-12T15:00:00.000Z",
+        "broadcast": "R/2026-04-12T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1067,14 +1242,42 @@
       {
         "site": "gamer",
         "id": "149108",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-07T17:35:00.000Z",
+        "broadcast": "R/2026-04-07T17:35:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "149108",
+        "begin": "2026-04-07T17:35:00.000Z",
+        "broadcast": "R/2026-04-07T17:35:00.000Z/P7D"
+      },
+      {
+        "site": "tropics",
+        "id": "PLoGVqODys23C2t5byRlXGYi3d0KQ7-54R",
+        "begin": "2026-04-07T17:35:06.000Z",
+        "broadcast": "R/2026-04-07T17:35:06.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0287893",
+        "begin": "2026-04-11T15:00:00.000Z",
+        "broadcast": "R/2026-04-11T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28878",
+        "begin": "2026-04-11T15:00:00.000Z",
+        "broadcast": "R/2026-04-11T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "415-75",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3910"
       }
     ]
   },
@@ -1134,8 +1337,8 @@
       {
         "site": "unext",
         "id": "SID0282793",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-10T09:00:00.000Z",
+        "broadcast": "R/2026-04-10T09:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -1152,6 +1355,16 @@
       {
         "site": "mikan",
         "id": "3911"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/60761/season/4"
+      },
+      {
+        "site": "danime",
+        "id": "28793",
+        "begin": "2026-04-10T09:00:00.000Z",
+        "broadcast": "R/2026-04-10T09:00:00.000Z/P7D"
       }
     ]
   },
@@ -1285,12 +1498,18 @@
       {
         "site": "unext",
         "id": "SID0282460",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-06T12:00:00.000Z",
+        "broadcast": "R/2026-04-06T12:00:00.000Z/P7D"
       },
       {
         "site": "aniList",
         "id": "206914"
+      },
+      {
+        "site": "prime",
+        "id": "B0FW4TRTDF",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1302,6 +1521,9 @@
       ],
       "zh-Hant": [
         "淡島百景"
+      ],
+      "en": [
+        "A Hundred Scenes of AWAJIMA"
       ]
     },
     "type": "tv",
@@ -1335,14 +1557,14 @@
       {
         "site": "gamer",
         "id": "139254",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-09T16:45:00.000Z",
+        "broadcast": "R/2026-04-09T16:45:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "139254",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-09T16:45:00.000Z",
+        "broadcast": "R/2026-04-09T16:45:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1365,6 +1587,24 @@
       {
         "site": "mikan",
         "id": "3884"
+      },
+      {
+        "site": "danime",
+        "id": "28802",
+        "begin": "2026-04-09T17:15:00.000Z",
+        "broadcast": "R/2026-04-09T17:15:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtT4Zio1sPOVC4nnRqzt7LVk",
+        "begin": "2026-04-09T16:45:07.000Z",
+        "broadcast": "R/2026-04-09T16:45:07.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjWZOD_IeD4sSKU4icerKBZ",
+        "begin": "2026-04-09T16:45:06.000Z",
+        "broadcast": "R/2026-04-09T16:45:06.000Z/P7D"
       }
     ]
   },
@@ -1412,14 +1652,14 @@
       {
         "site": "gamer",
         "id": "135739",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-07T15:00:00.000Z",
+        "broadcast": "R/2026-04-07T15:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "135739",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-07T15:00:00.000Z",
+        "broadcast": "R/2026-04-07T15:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1430,14 +1670,34 @@
       {
         "site": "unext",
         "id": "SID0285884",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-07T15:00:00.000Z",
+        "broadcast": "R/2026-04-07T15:00:00.000Z/P7D"
       },
       {
         "site": "abema",
         "id": "169-153",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/290019"
+      },
+      {
+        "site": "danime",
+        "id": "28724",
+        "begin": "2026-04-07T15:00:00.000Z",
+        "broadcast": "R/2026-04-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0GVKZLC1H",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3914"
       }
     ]
   },
@@ -1449,6 +1709,9 @@
       ],
       "zh-Hant": [
         "木頭風紀委員和迷你裙 JK 的故事"
+      ],
+      "en": [
+        "The Klutzy Class Monitor and the Girl with the Short Skirt"
       ]
     },
     "type": "tv",
@@ -1478,20 +1741,20 @@
       {
         "site": "unext",
         "id": "SID0282772",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-11T15:00:00.000Z",
+        "broadcast": "R/2026-04-11T15:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "144684",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-06T14:00:00.000Z",
+        "broadcast": "R/2026-04-06T14:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "144684",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-06T14:00:00.000Z",
+        "broadcast": "R/2026-04-06T14:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -1508,6 +1771,22 @@
         "id": "ponsuka-anime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00371923",
+        "begin": "2026-04-06T00:00:00.000Z",
+        "broadcast": "R/2026-04-06T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28825",
+        "begin": "2026-04-06T15:00:00.000Z",
+        "broadcast": "R/2026-04-06T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3915"
       }
     ]
   },
@@ -1569,8 +1848,8 @@
       {
         "site": "unext",
         "id": "SID0284842",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-09T17:00:00.000Z",
+        "broadcast": "R/2026-04-09T17:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -1603,8 +1882,8 @@
       {
         "site": "crunchyroll",
         "id": "GT00374360",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-04T00:00:00.000Z",
+        "broadcast": "R/2026-04-04T00:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -1688,8 +1967,8 @@
       {
         "site": "crunchyroll",
         "id": "GT00371875",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-03-31T00:00:00.000Z",
+        "broadcast": "R/2026-03-31T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -1783,8 +2062,8 @@
       {
         "site": "crunchyroll",
         "id": "GT00337506",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-01T00:00:00.000Z",
+        "broadcast": "R/2026-04-01T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -1844,14 +2123,14 @@
       {
         "site": "unext",
         "id": "SID0282807",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-06T09:00:00.000Z",
+        "broadcast": "R/2026-04-06T09:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UcjQ6G1KGRYKUSRyTW5wa-tR",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-11T10:55:06.000Z",
+        "broadcast": "R/2026-04-11T10:55:06.000Z/P7D"
       },
       {
         "site": "muse_tw",
@@ -1862,6 +2141,22 @@
       {
         "site": "mikan",
         "id": "3918"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/91801/season/4"
+      },
+      {
+        "site": "danime",
+        "id": "28780",
+        "begin": "2026-04-06T09:00:00.000Z",
+        "broadcast": "R/2026-04-06T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0GVJJJCBS",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1873,6 +2168,9 @@
       ],
       "zh-Hant": [
         "弱弱老師"
+      ],
+      "en": [
+        "Yowayowa Sensei"
       ]
     },
     "type": "tv",
@@ -1902,14 +2200,14 @@
       {
         "site": "gamer",
         "id": "148100",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-11T13:00:00.000Z",
+        "broadcast": "R/2026-04-11T13:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "148100",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-11T13:00:00.000Z",
+        "broadcast": "R/2026-04-11T13:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -1922,6 +2220,26 @@
         "id": "yowayowa-anime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/284447"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQ8kVITflpbi0_oqZEmEHjj",
+        "begin": "2026-04-11T13:00:07.000Z",
+        "broadcast": "R/2026-04-11T13:00:07.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JgXUB10c8pdjrn7SUPo4IdI",
+        "begin": "2026-04-11T13:00:06.000Z",
+        "broadcast": "R/2026-04-11T13:00:06.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3919"
       }
     ]
   },
@@ -2009,6 +2327,12 @@
       {
         "site": "mikan",
         "id": "3920"
+      },
+      {
+        "site": "danime",
+        "id": "28840",
+        "begin": "2026-04-09T15:00:00.000Z",
+        "broadcast": "R/2026-04-09T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2021,6 +2345,9 @@
       ],
       "zh-Hant": [
         "婚姻劇毒"
+      ],
+      "en": [
+        "Marriagetoxin"
       ]
     },
     "type": "tv",
@@ -2054,20 +2381,20 @@
       {
         "site": "gamer",
         "id": "147555",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-07T14:30:00.000Z",
+        "broadcast": "R/2026-04-07T14:30:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "147555",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-07T14:30:00.000Z",
+        "broadcast": "R/2026-04-07T14:30:00.000Z/P7D"
       },
       {
         "site": "unext",
         "id": "SID0285887",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-07T14:30:00.000Z",
+        "broadcast": "R/2026-04-07T14:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -2086,6 +2413,34 @@
         "id": "PL12UaAf_xzfp_bDKTPlU8kHMf0-W_W450",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "82758413",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00371857",
+        "begin": "2026-04-07T00:00:00.000Z",
+        "broadcast": "R/2026-04-07T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "3029388",
+        "begin": "2026-04-07T14:30:08.000Z",
+        "broadcast": "R/2026-04-07T14:30:08.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28839",
+        "begin": "2026-04-07T14:30:00.000Z",
+        "broadcast": "R/2026-04-07T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3921"
       }
     ]
   },
@@ -2132,14 +2487,14 @@
       {
         "site": "gamer",
         "id": "128925",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-07T16:00:00.000Z",
+        "broadcast": "R/2026-04-07T16:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "128925",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-07T16:00:00.000Z",
+        "broadcast": "R/2026-04-07T16:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -2158,6 +2513,14 @@
         "id": "PLC18xlbCdwtRawn_hHrv7EON7yFWjEXev",
         "begin": "2026-04-07T16:00:00.000Z",
         "broadcast": "R/2026-04-07T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/305567"
+      },
+      {
+        "site": "mikan",
+        "id": "3922"
       }
     ]
   },
@@ -2169,6 +2532,9 @@
       ],
       "zh-Hant": [
         "神之雫"
+      ],
+      "en": [
+        "The Drops of God"
       ]
     },
     "type": "tv",
@@ -2198,14 +2564,14 @@
       {
         "site": "gamer",
         "id": "148300",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-10T15:30:00.000Z",
+        "broadcast": "R/2026-04-10T15:30:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "148300",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-10T15:30:00.000Z",
+        "broadcast": "R/2026-04-10T15:30:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -2222,6 +2588,28 @@
       {
         "site": "tmdb",
         "id": "tv/306121"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dropsofgod-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tropics",
+        "id": "PLoGVqODys23BdDdC5fMx3A0TzRwRMYavc",
+        "begin": "2026-04-10T15:30:07.000Z",
+        "broadcast": "R/2026-04-10T15:30:07.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00371872",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3923"
       }
     ]
   },
@@ -2287,6 +2675,22 @@
       {
         "site": "mikan",
         "id": "3924"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/316427"
+      },
+      {
+        "site": "unext",
+        "id": "SID0282805",
+        "begin": "2026-04-08T16:10:00.000Z",
+        "broadcast": "R/2026-04-08T16:10:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28771",
+        "begin": "2026-04-08T16:10:00.000Z",
+        "broadcast": "R/2026-04-08T16:10:00.000Z/P7D"
       }
     ]
   },
@@ -2295,6 +2699,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "杀手青春"
+      ],
+      "zh-Hant": [
+        "殺手青春"
+      ],
+      "en": [
+        "KILL BLUE"
       ]
     },
     "type": "tv",
@@ -2324,6 +2734,64 @@
       {
         "site": "tmdb",
         "id": "tv/300131"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kill-blue",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0282783",
+        "begin": "2026-04-11T14:30:00.000Z",
+        "broadcast": "R/2026-04-11T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28881",
+        "begin": "2026-04-11T14:30:00.000Z",
+        "broadcast": "R/2026-04-11T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "82757009",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00371896",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQPT_yZ0va94-eCxOx8t1U2",
+        "begin": "2026-04-11T14:30:07.000Z",
+        "broadcast": "R/2026-04-11T14:30:07.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "147007",
+        "begin": "2026-04-11T14:30:00.000Z",
+        "broadcast": "R/2026-04-11T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "147007",
+        "begin": "2026-04-11T14:30:00.000Z",
+        "broadcast": "R/2026-04-11T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "675-10",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3925"
       }
     ]
   },
@@ -2367,8 +2835,8 @@
       {
         "site": "unext",
         "id": "SID0282779",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-07T08:00:00.000Z",
+        "broadcast": "R/2026-04-07T08:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -2379,6 +2847,12 @@
         "id": "203-28",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28781",
+        "begin": "2026-04-07T08:00:00.000Z",
+        "broadcast": "R/2026-04-07T08:00:00.000Z/P7D"
       }
     ]
   },
@@ -2437,6 +2911,16 @@
         "id": "ichijyoma-anime",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28880",
+        "begin": "2026-04-11T17:00:00.000Z",
+        "broadcast": "R/2026-04-11T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3927"
       }
     ]
   },
@@ -2448,6 +2932,9 @@
       ],
       "zh-Hant": [
         "黑貓與魔女的教室"
+      ],
+      "en": [
+        "The Classroom of a Black Cat and a Witch"
       ]
     },
     "type": "tv",
@@ -2495,6 +2982,42 @@
         "id": "SID0290092",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "witch-classroom",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtRA_zHD1Pifp0PZmw9psdU2",
+        "begin": "2026-04-12T15:00:00.000Z",
+        "broadcast": "R/2026-04-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jh2Aq9dnBrcdmlUPfq5VQtL",
+        "begin": "2026-04-12T15:00:00.000Z",
+        "broadcast": "R/2026-04-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "345-6",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00374357",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28819",
+        "begin": "2026-04-12T15:00:00.000Z",
+        "broadcast": "R/2026-04-12T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2577,6 +3100,10 @@
         "id": "28824",
         "begin": "2026-04-05T14:00:00.000Z",
         "broadcast": "R/2026-04-05T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3929"
       }
     ]
   },
@@ -2676,14 +3203,14 @@
       {
         "site": "crunchyroll",
         "id": "GT00371642",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-01T00:00:00.000Z",
+        "broadcast": "R/2026-04-01T00:00:00.000Z/P7D"
       },
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfoCIyywvjwHGMeEpLFVlQcS",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-08T15:30:06.000Z",
+        "broadcast": "R/2026-04-08T15:30:06.000Z/P7D"
       }
     ]
   },
@@ -2695,6 +3222,9 @@
       ],
       "zh-Hant": [
         "庫吉馬唱歌的家"
+      ],
+      "en": [
+        "Kujima : Why Sing, When You Can Warble"
       ]
     },
     "type": "tv",
@@ -2724,26 +3254,52 @@
       {
         "site": "gamer",
         "id": "139274",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-09T14:00:00.000Z",
+        "broadcast": "R/2026-04-09T14:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "139274",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-09T14:00:00.000Z",
+        "broadcast": "R/2026-04-09T14:00:00.000Z/P7D"
       },
       {
         "site": "unext",
         "id": "SID0275454",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-09T15:00:00.000Z",
+        "broadcast": "R/2026-04-09T15:00:00.000Z/P7D"
       },
       {
         "site": "abema",
         "id": "506-8",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "kujima-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/283888"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtT-RBT2W6hEFJ1ACZp0_e0E",
+        "begin": "2026-04-09T14:00:06.000Z",
+        "broadcast": "R/2026-04-09T14:00:06.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jgh7HSGQ8_OD4-vXd6pcrbq",
+        "begin": "2026-04-09T14:00:06.000Z",
+        "broadcast": "R/2026-04-09T14:00:06.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3931"
       }
     ]
   },
@@ -2755,6 +3311,9 @@
       ],
       "zh-Hans": [
         "女仆小姐的贪吃日常"
+      ],
+      "zh-Hant": [
+        "女僕小姐的貪吃日常"
       ]
     },
     "type": "tv",
@@ -2812,6 +3371,30 @@
         "id": "28778",
         "begin": "2026-03-31T15:00:00.000Z",
         "broadcast": "R/2026-03-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00375170",
+        "begin": "2026-03-31T00:00:00.000Z",
+        "broadcast": "R/2026-03-31T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "146932",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "146932",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0GK8V88JD",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2821,6 +3404,9 @@
       "zh-Hans": [
         "想结束这场“我爱你”的游戏",
         "让“我爱你”游戏快点结束"
+      ],
+      "zh-Hant": [
+        "想結束這場「我愛你」的遊戲"
       ]
     },
     "type": "tv",
@@ -2862,6 +3448,18 @@
       {
         "site": "tmdb",
         "id": "tv/293697"
+      },
+      {
+        "site": "gamer",
+        "id": "145822",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "145822",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2933,12 +3531,30 @@
       {
         "site": "crunchyroll",
         "id": "GT00371863",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-04T00:00:00.000Z",
+        "broadcast": "R/2026-04-04T00:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
         "id": "3933"
+      },
+      {
+        "site": "unext",
+        "id": "SID0282777",
+        "begin": "2026-04-07T03:00:00.000Z",
+        "broadcast": "R/2026-04-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28792",
+        "begin": "2026-04-07T03:00:00.000Z",
+        "broadcast": "R/2026-04-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "needygirloverdose_146143",
+        "begin": "2026-04-11T17:00:00.000Z",
+        "broadcast": "R/2026-04-11T17:00:00.000Z/P7D"
       }
     ]
   },
@@ -3041,8 +3657,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfrTUtEoM7jlCdmtvJn67wHu",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-10T15:30:06.000Z",
+        "broadcast": "R/2026-04-10T15:30:06.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -3108,6 +3724,16 @@
         "id": "GVDHX8504",
         "begin": "2026-04-01T13:00:00.000Z",
         "broadcast": "R/2026-04-01T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/207564/season/3"
+      },
+      {
+        "site": "prime",
+        "id": "B0GVPPSTTK",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3172,8 +3798,8 @@
       {
         "site": "crunchyroll",
         "id": "GT00371668",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-02T00:00:00.000Z",
+        "broadcast": "R/2026-04-02T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -3265,12 +3891,18 @@
       {
         "site": "crunchyroll",
         "id": "GT00371630",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-04T00:00:00.000Z",
+        "broadcast": "R/2026-04-04T00:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
         "id": "3937"
+      },
+      {
+        "site": "prime",
+        "id": "B0GQY2J25T",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3313,14 +3945,14 @@
       {
         "site": "gamer",
         "id": "146929",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-06T14:00:00.000Z",
+        "broadcast": "R/2026-04-06T14:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "146929",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-06T14:00:00.000Z",
+        "broadcast": "R/2026-04-06T14:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -3333,6 +3965,20 @@
         "id": "PL12UaAf_xzfo1gYyvMgvZN9w9iWyqcHa5",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/196285/season/2"
+      },
+      {
+        "site": "prime",
+        "id": "B0GVN41KB6",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3938"
       }
     ]
   },
@@ -3377,14 +4023,14 @@
       {
         "site": "gamer",
         "id": "145911",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-08T16:45:00.000Z",
+        "broadcast": "R/2026-04-08T16:45:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "145911",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-08T16:45:00.000Z",
+        "broadcast": "R/2026-04-08T16:45:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -3401,6 +4047,42 @@
         "id": "SID0294457",
         "begin": "2026-04-02T03:00:00.000Z",
         "broadcast": "R/2026-04-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-254",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27809",
+        "begin": "2026-04-02T03:00:00.000Z",
+        "broadcast": "R/2026-04-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G24H1NWKE",
+        "begin": "2026-04-02T03:00:00.000Z",
+        "broadcast": "R/2026-04-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "82036784",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "saikyo2dome-anime",
+        "begin": "2026-04-02T03:00:00.000Z",
+        "broadcast": "R/2026-04-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DWD43RLJ",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3412,6 +4094,9 @@
       ],
       "zh-Hant": [
         "女神「異世界轉生想成為什麼」我「勇者的肋骨」"
+      ],
+      "en": [
+        "My Ribdiculous Reincarnation"
       ]
     },
     "type": "tv",
@@ -3463,14 +4148,36 @@
       {
         "site": "gamer",
         "id": "150266",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-07T18:05:00.000Z",
+        "broadcast": "R/2026-04-07T18:05:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "150266",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-07T18:05:00.000Z",
+        "broadcast": "R/2026-04-07T18:05:00.000Z/P7D"
+      },
+      {
+        "site": "tropics",
+        "id": "PLoGVqODys23Cwak1wu9SaMxAlf9RPUevY",
+        "begin": "2026-04-07T18:05:06.000Z",
+        "broadcast": "R/2026-04-07T18:05:06.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00371665",
+        "begin": "2026-04-07T00:00:00.000Z",
+        "broadcast": "R/2026-04-07T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28727",
+        "begin": "2026-04-07T17:30:00.000Z",
+        "broadcast": "R/2026-04-07T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3940"
       }
     ]
   },
@@ -3479,6 +4186,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "欺诈游戏"
+      ],
+      "en": [
+        "LIAR GAME"
       ]
     },
     "type": "tv",
@@ -3508,8 +4218,8 @@
       {
         "site": "unext",
         "id": "SID0282782",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-06T15:30:00.000Z",
+        "broadcast": "R/2026-04-06T15:30:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -3526,6 +4236,28 @@
         "id": "675-11",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28872",
+        "begin": "2026-04-06T15:30:00.000Z",
+        "broadcast": "R/2026-04-06T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00371851",
+        "begin": "2026-04-06T00:00:00.000Z",
+        "broadcast": "R/2026-04-06T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0GVVN7T5Q",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3941"
       }
     ]
   },
@@ -3603,6 +4335,12 @@
         "id": "28811",
         "begin": "2026-04-02T17:30:00.000Z",
         "broadcast": "R/2026-04-02T17:30:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0GTLL26S5",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3698,6 +4436,12 @@
         "id": "B0GS3GJ79V",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0284839",
+        "begin": "2026-04-07T16:30:00.000Z",
+        "broadcast": "R/2026-04-07T16:30:00.000Z/P7D"
       }
     ]
   },
@@ -3802,6 +4546,16 @@
         "id": "19-286",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/94404/season/2"
+      },
+      {
+        "site": "netflix",
+        "id": "80991903",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3852,20 +4606,48 @@
       {
         "site": "gamer",
         "id": "147356",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-08T13:00:00.000Z",
+        "broadcast": "R/2026-04-08T13:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "147356",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-08T13:00:00.000Z",
+        "broadcast": "R/2026-04-08T13:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
         "id": "kanokari-official5",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28794",
+        "begin": "2026-04-11T17:53:00.000Z",
+        "broadcast": "R/2026-04-11T17:53:00.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G6QWV3976",
+        "begin": "2026-04-09T16:53:00.000Z",
+        "broadcast": "R/2026-04-09T16:53:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0GVKRYL3Y",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "194-15",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3945"
       }
     ]
   },
@@ -4044,6 +4826,24 @@
       {
         "site": "mikan",
         "id": "3947"
+      },
+      {
+        "site": "netflix",
+        "id": "81900358",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "viu",
+        "id": "3042355",
+        "begin": "2026-04-05T08:30:00.000Z",
+        "broadcast": "R/2026-04-05T08:30:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0GW4GXV5M",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4084,20 +4884,20 @@
       {
         "site": "gamer",
         "id": "141776",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-12T08:30:00.000Z",
+        "broadcast": "R/2026-04-12T08:30:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "141776",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-12T08:30:00.000Z",
+        "broadcast": "R/2026-04-12T08:30:00.000Z/P7D"
       },
       {
         "site": "unext",
         "id": "SID0282771",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-12T08:30:00.000Z",
+        "broadcast": "R/2026-04-12T08:30:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -4114,8 +4914,28 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfrDTBsbdtPEx2tXf4QI6_yE",
+        "begin": "2026-04-12T08:30:06.000Z",
+        "broadcast": "R/2026-04-12T08:30:06.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/216467/season/2"
+      },
+      {
+        "site": "prime",
+        "id": "B0GWK27Y1Q",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "viu",
+        "id": "3042646",
+        "begin": "2026-04-12T08:30:29.000Z",
+        "broadcast": "R/2026-04-12T08:30:29.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3948"
       }
     ]
   },
@@ -4208,6 +5028,12 @@
         "id": "GRVN8MNQY",
         "begin": "2026-04-01T12:00:06.000Z",
         "broadcast": "R/2026-04-01T12:00:06.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-73",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4343,20 +5169,20 @@
       {
         "site": "gamer",
         "id": "144453",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-08T14:00:00.000Z",
+        "broadcast": "R/2026-04-08T14:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "144453",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-08T14:00:00.000Z",
+        "broadcast": "R/2026-04-08T14:00:00.000Z/P7D"
       },
       {
         "site": "unext",
         "id": "SID0284840",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-11T13:30:00.000Z",
+        "broadcast": "R/2026-04-11T13:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -4369,6 +5195,34 @@
         "id": "PL12UaAf_xzfor6SdQvoC7pr7Hwfowmr5Q",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "viu",
+        "id": "3036512",
+        "begin": "2026-04-08T14:00:45.000Z",
+        "broadcast": "R/2026-04-08T14:00:45.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28801",
+        "begin": "2026-04-08T13:30:00.000Z",
+        "broadcast": "R/2026-04-08T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-139",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0GVGTDNBP",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3951"
       }
     ]
   },
@@ -4470,6 +5324,9 @@
       "zh-Hans": [
         "小书痴的下克上 〜为了成为图书管理员而不择手段〜 领主的养女",
         "小书痴的下克上 〜为了成为图书管理员而不择手段〜 第四季"
+      ],
+      "zh-Hant": [
+        "小書痴的下剋上  為了成為圖書管理員不擇手段！領主的養女"
       ]
     },
     "type": "tv",
@@ -4511,6 +5368,40 @@
       {
         "site": "mikan",
         "id": "3953"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/91768/season/2"
+      },
+      {
+        "site": "unext",
+        "id": "SID0284834",
+        "begin": "2026-04-07T15:00:00.000Z",
+        "broadcast": "R/2026-04-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0GVLR5PGF",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "415-74",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "142675",
+        "begin": "2026-04-11T09:30:00.000Z",
+        "broadcast": "R/2026-04-11T09:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "142675",
+        "begin": "2026-04-11T09:30:00.000Z",
+        "broadcast": "R/2026-04-11T09:30:00.000Z/P7D"
       }
     ]
   },
@@ -4629,20 +5520,20 @@
       {
         "site": "gamer",
         "id": "150467",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-07T13:00:00.000Z",
+        "broadcast": "R/2026-04-07T13:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "150467",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-07T13:00:00.000Z",
+        "broadcast": "R/2026-04-07T13:00:00.000Z/P7D"
       },
       {
         "site": "unext",
         "id": "SID0285892",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-07T13:00:00.000Z",
+        "broadcast": "R/2026-04-07T13:00:00.000Z/P7D"
       },
       {
         "site": "aniList",
@@ -4665,6 +5556,16 @@
         "id": "PLxSscENEp7JgbFVxH93w5flYikcz7V3YM",
         "begin": "2026-04-07T13:00:00.000Z",
         "broadcast": "R/2026-04-07T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28799",
+        "begin": "2026-04-07T13:00:00.000Z",
+        "broadcast": "R/2026-04-07T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3955"
       }
     ]
   },
@@ -4791,6 +5692,18 @@
       {
         "site": "mikan",
         "id": "3959"
+      },
+      {
+        "site": "danime",
+        "id": "28772",
+        "begin": "2026-04-08T16:00:00.000Z",
+        "broadcast": "R/2026-04-08T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0282806",
+        "begin": "2026-04-08T16:00:00.000Z",
+        "broadcast": "R/2026-04-08T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -4828,6 +5741,28 @@
         "id": "643-21",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0282803",
+        "begin": "2026-04-08T16:05:00.000Z",
+        "broadcast": "R/2026-04-08T16:05:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0GW6HKMPG",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28770",
+        "begin": "2026-04-08T16:05:00.000Z",
+        "broadcast": "R/2026-04-08T16:05:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3962"
       }
     ]
   },
@@ -4957,8 +5892,8 @@
       {
         "site": "crunchyroll",
         "id": "GT00374493",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-03T00:00:00.000Z",
+        "broadcast": "R/2026-04-03T00:00:00.000Z/P7D"
       },
       {
         "site": "muse_tw",
@@ -4969,6 +5904,167 @@
       {
         "site": "abema",
         "id": "19-291",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3964"
+      }
+    ]
+  },
+  {
+    "title": "クマーバ シーズン3",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://kumarba.com/pages/tv-anime",
+    "begin": "2026-04-11T16:00:00.000Z",
+    "broadcast": "R/2026-04-11T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "532772"
+      },
+      {
+        "site": "danime",
+        "id": "28884",
+        "begin": "2026-04-11T22:30:00.000Z",
+        "broadcast": "R/2026-04-11T22:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0285882",
+        "begin": "2026-04-11T22:30:00.000Z",
+        "broadcast": "R/2026-04-11T22:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "小3アシベ QQゴマちゃん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小3阿贝 QQ小芝麻"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://qq-gomachan.com/",
+    "begin": "2026-04-11T16:00:00.000Z",
+    "broadcast": "R/2026-04-11T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "607043"
+      },
+      {
+        "site": "danime",
+        "id": "28883",
+        "begin": "2026-04-11T22:30:00.000Z",
+        "broadcast": "R/2026-04-11T22:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0285881",
+        "begin": "2026-04-11T22:30:00.000Z",
+        "broadcast": "R/2026-04-11T22:30:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ONE PIECE エルバフ編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "航海王 埃鲁巴夫篇",
+        "海贼王 艾尔巴夫篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://one-piece.com/",
+    "begin": "2026-04-05T14:15:00.000Z",
+    "broadcast": "R/2026-04-05T14:15:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "602059"
+      },
+      {
+        "site": "unext",
+        "id": "SID0289409",
+        "begin": "2026-04-09T03:00:00.000Z",
+        "broadcast": "R/2026-04-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28843",
+        "begin": "2026-04-09T03:00:00.000Z",
+        "broadcast": "R/2026-04-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "2096126",
+        "begin": "2023-04-16T06:00:22.000Z",
+        "broadcast": "R/2018-10-08T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0GW86GRKR",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "5-38",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/37854/season/23"
+      },
+      {
+        "site": "mal",
+        "id": "21"
+      },
+      {
+        "site": "anidb",
+        "id": "69"
+      },
+      {
+        "site": "aniList",
+        "id": "21"
+      }
+    ]
+  },
+  {
+    "title": "北斗の拳 -FIST OF THE NORTH STAR-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "北斗神拳 -FIST OF THE NORTH STAR-"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://hokuto-anime.com/",
+    "begin": "2026-04-09T16:00:00.000Z",
+    "broadcast": "R/2026-04-09T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "454438"
+      },
+      {
+        "site": "prime",
+        "id": "B0GPDB3ZHX",
         "begin": "",
         "broadcast": ""
       }
