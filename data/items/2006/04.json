@@ -3006,6 +3006,12 @@
         "id": "415-42",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010680",
+        "begin": "2026-03-27T15:00:00.000Z",
+        "broadcast": "R/2026-03-27T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3310,6 +3316,33 @@
       {
         "site": "aniList",
         "id": "11521"
+      }
+    ]
+  },
+  {
+    "title": "新星輝デュエル・マスターズ フラッシュ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新星辉决斗大师Flash"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2006-04-09T16:00:00.000Z",
+    "broadcast": "R/2006-04-09T16:00:00.000Z/P7D",
+    "end": "2007-03-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "293615"
+      },
+      {
+        "site": "danime",
+        "id": "28903",
+        "begin": "2026-04-23T15:00:00.000Z",
+        "broadcast": "R/2026-04-23T15:00:00.000Z/P7D"
       }
     ]
   }

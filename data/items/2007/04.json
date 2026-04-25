@@ -2409,6 +2409,12 @@
         "id": "415-43",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010681",
+        "begin": "2026-04-10T15:00:00.000Z",
+        "broadcast": "R/2026-04-10T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2804,6 +2810,33 @@
       {
         "site": "aniList",
         "id": "3885"
+      }
+    ]
+  },
+  {
+    "title": "ゼロ デュエル・マスターズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Zero决斗大师"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2007-04-08T16:00:00.000Z",
+    "broadcast": "R/2007-04-08T16:00:00.000Z/P7D",
+    "end": "2007-09-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "293616"
+      },
+      {
+        "site": "danime",
+        "id": "28904",
+        "begin": "2026-04-23T15:00:00.000Z",
+        "broadcast": "R/2026-04-23T15:00:00.000Z/P7D"
       }
     ]
   }

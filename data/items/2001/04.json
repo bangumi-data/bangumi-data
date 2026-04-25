@@ -84,8 +84,8 @@
       {
         "site": "unext",
         "id": "SID0014508",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-28T03:00:00.000Z",
+        "broadcast": "R/2026-01-28T03:00:00.000Z/P7D"
       },
       {
         "site": "mal",
@@ -1034,6 +1034,12 @@
         "id": "415-37",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010675",
+        "begin": "2026-04-03T15:00:00.000Z",
+        "broadcast": "R/2026-04-03T15:00:00.000Z/P7D"
       }
     ]
   },
