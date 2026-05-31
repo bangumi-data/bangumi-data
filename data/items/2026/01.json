@@ -1639,6 +1639,12 @@
       {
         "site": "aniList",
         "id": "187062"
+      },
+      {
+        "site": "netflix",
+        "id": "82703469",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1716,6 +1722,12 @@
         "id": "SID0249088",
         "begin": "2026-04-04T03:00:00.000Z",
         "broadcast": "R/2026-04-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FVKLT46R",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2683,9 +2695,10 @@
       },
       {
         "site": "ani_one",
-        "id": "PLC18xlbCdwtSENfS74onXPOiLanTZjpZx",
-        "begin": "",
-        "broadcast": ""
+        "id": "PLC18xlbCdwtRU8dW6dalJd77zhVbnICYT",
+        "begin": "2026-05-15T13:00:06.000Z",
+        "broadcast": "R/2026-05-15T13:00:06.000Z/P7D",
+        "comment": "粵語: PLC18xlbCdwtSxNi1WNuT7CCD23BAy-2rx, ULTRA搶先看: PLC18xlbCdwtSENfS74onXPOiLanTZjpZx"
       },
       {
         "site": "tmdb",
@@ -2693,9 +2706,10 @@
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7JhRHMXloduRBZmrGlDW5gmC",
-        "begin": "",
-        "broadcast": ""
+        "id": "PLxSscENEp7Ji3bsb-zczT-LronPNB4IqM",
+        "begin": "2026-05-15T13:00:07.000Z",
+        "broadcast": "R/2026-05-15T13:00:07.000Z/P7D",
+        "comment": "ULTRA搶先看: PLxSscENEp7JhRHMXloduRBZmrGlDW5gmC"
       },
       {
         "site": "viu",
@@ -3682,7 +3696,8 @@
         "site": "tropics",
         "id": "PLoGVqODys23DbPMMUai8b1orcTXmyOt4_",
         "begin": "2026-01-07T15:00:06.000Z",
-        "broadcast": "R/2026-01-07T15:00:06.000Z/P7D"
+        "broadcast": "R/2026-01-07T15:00:06.000Z/P7D",
+        "comment": "中文配音: PLoGVqODys23B5XolCsF4zOp-fvU8PUoQb"
       },
       {
         "site": "prime",
@@ -5873,6 +5888,50 @@
       {
         "site": "aniList",
         "id": "188034"
+      }
+    ]
+  },
+  {
+    "title": "ALL YOU NEED IS KILL",
+    "titleTranslate": {
+      "zh-Hans": [
+        "杀戮轮回",
+        "明日边缘"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://aynk-anime.com/",
+    "begin": "2026-01-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-01-08T17:25:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "543589"
+      },
+      {
+        "site": "unext",
+        "id": "SID0287190",
+        "begin": "2026-04-07T15:00:00.000Z",
+        "broadcast": "R/2026-04-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "61192"
+      },
+      {
+        "site": "aniList",
+        "id": "187892"
+      },
+      {
+        "site": "anidb",
+        "id": "19208"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1432547"
       }
     ]
   }

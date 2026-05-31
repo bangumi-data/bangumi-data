@@ -43,6 +43,12 @@
       {
         "site": "aniList",
         "id": "198188"
+      },
+      {
+        "site": "unext",
+        "id": "SID0300004",
+        "begin": "2026-05-08T03:00:00.000Z",
+        "broadcast": "R/2026-05-08T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -128,6 +134,61 @@
       {
         "site": "aniList",
         "id": "183384"
+      }
+    ]
+  },
+  {
+    "title": "果てしなきスカーレット",
+    "titleTranslate": {
+      "zh-Hans": [
+        "无尽的斯嘉丽",
+        "复仇公主斯嘉丽",
+        "Scarlet永無止境的史嘉蕾",
+        "无尽希望的斯嘉丽",
+        "无尽的绯红"
+      ],
+      "zh-Hant": [
+        "無盡的施嘉莉"
+      ],
+      "en": [
+        "Scarlet"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://scarlet-movie.jp/",
+    "begin": "2025-11-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-11-20T17:51:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "530158"
+      },
+      {
+        "site": "unext",
+        "id": "SID0293373",
+        "begin": "2026-04-21T15:00:00.000Z",
+        "broadcast": "R/2026-04-21T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "60610"
+      },
+      {
+        "site": "aniList",
+        "id": "185773"
+      },
+      {
+        "site": "anidb",
+        "id": "19073"
+      },
+      {
+        "site": "netflix",
+        "id": "82888057",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }
