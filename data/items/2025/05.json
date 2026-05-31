@@ -96,6 +96,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "剧场版 歌之王子殿下 TABOO NIGHT XXXX"
+      ],
+      "zh-Hant": [
+        "劇場版 歌之☆王子殿下♪ TABOO NIGHT XXXX"
       ]
     },
     "type": "movie",
@@ -137,6 +140,18 @@
         "id": "utapri-movie3",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "141344",
+        "begin": "2026-05-14T16:00:00.000Z",
+        "broadcast": "R/2026-05-14T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "141344",
+        "begin": "2026-05-14T16:00:00.000Z",
+        "broadcast": "R/2026-05-14T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -290,6 +305,12 @@
       {
         "site": "tmdb",
         "id": "movie/1338799"
+      },
+      {
+        "site": "abema",
+        "id": "536-11",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

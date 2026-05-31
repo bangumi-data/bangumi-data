@@ -2013,6 +2013,18 @@
         "id": "PLC18xlbCdwtRcOebGI5mpR5_kiM5PsAtl",
         "begin": "2026-03-04T13:00:07.000Z",
         "broadcast": "R/2026-03-04T13:00:07.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "78416",
+        "begin": "2026-05-04T04:00:00.000Z",
+        "broadcast": "R/2026-05-04T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "78416",
+        "begin": "2026-05-04T04:00:00.000Z",
+        "broadcast": "R/2026-05-04T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -3319,6 +3331,10 @@
       {
         "site": "tmdb",
         "id": "tv/130728/season/2"
+      },
+      {
+        "site": "mikan",
+        "id": "611"
       }
     ]
   },
@@ -3416,6 +3432,12 @@
       {
         "site": "aniList",
         "id": "20704"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSDnE6E1c3mwGK7Ot_5XBap",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

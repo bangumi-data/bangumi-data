@@ -512,6 +512,49 @@
         "id": "SID0283408",
         "begin": "2026-03-31T15:00:00.000Z",
         "broadcast": "R/2026-03-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1295026"
+      }
+    ]
+  },
+  {
+    "title": "映画キミとアイドルプリキュア♪ お待たせ！キミに届けるキラッキライブ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 Idol光之美少女你与我♪ 久等了！为你献上闪耀舞台！"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://2025.precure-movie.com/",
+    "begin": "2025-09-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-09-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "553872"
+      },
+      {
+        "site": "unext",
+        "id": "SID0296274",
+        "begin": "2026-04-28T03:00:00.000Z",
+        "broadcast": "R/2026-04-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "60773"
+      },
+      {
+        "site": "aniList",
+        "id": "183414"
+      },
+      {
+        "site": "anidb",
+        "id": "19113"
       }
     ]
   }

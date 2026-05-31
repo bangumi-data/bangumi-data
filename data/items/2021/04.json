@@ -5715,5 +5715,52 @@
         "id": "132096"
       }
     ]
+  },
+  {
+    "title": "Yasuke -ヤスケ-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "武士弥助",
+        "弥助"
+      ],
+      "zh-Hant": [
+        "武士彌助"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.netflix.com/title/80990863",
+    "begin": "2021-04-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-04-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "277360"
+      },
+      {
+        "site": "netflix",
+        "id": "80990863",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "43697"
+      },
+      {
+        "site": "aniList",
+        "id": "131930"
+      },
+      {
+        "site": "anidb",
+        "id": "14482"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/112166"
+      }
+    ]
   }
 ]

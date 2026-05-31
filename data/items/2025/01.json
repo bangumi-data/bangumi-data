@@ -3259,6 +3259,9 @@
         "战队红战士在异世界当冒险者",
         "红战士转职冒险者"
       ],
+      "zh-Hant": [
+        "紅戰士在異世界成了冒險者"
+      ],
       "en": [
         "The Red Ranger Becomes an Adventurer in Another World"
       ]
@@ -3344,6 +3347,18 @@
       {
         "site": "aniList",
         "id": "180052"
+      },
+      {
+        "site": "gamer",
+        "id": "140791",
+        "begin": "2026-05-14T04:00:00.000Z",
+        "broadcast": "R/2026-05-14T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "140791",
+        "begin": "2026-05-14T04:00:00.000Z",
+        "broadcast": "R/2026-05-14T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -5489,6 +5504,49 @@
       {
         "site": "aniList",
         "id": "179878"
+      }
+    ]
+  },
+  {
+    "title": "ベルサイユのばら",
+    "titleTranslate": {
+      "zh-Hans": [
+        "凡尔赛玫瑰"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://verbara-movie.jp/",
+    "begin": "2025-01-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-01-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "400216"
+      },
+      {
+        "site": "unext",
+        "id": "SID0300000",
+        "begin": "2026-05-01T03:00:00.000Z",
+        "broadcast": "R/2026-05-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "52967"
+      },
+      {
+        "site": "aniList",
+        "id": "154392"
+      },
+      {
+        "site": "anidb",
+        "id": "17609"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1021679"
       }
     ]
   }
