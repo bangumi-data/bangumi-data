@@ -73,6 +73,12 @@
         "id": "26313",
         "begin": "2026-03-20T15:00:00.000Z",
         "broadcast": "R/2026-03-20T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0079605",
+        "begin": "2026-05-31T15:00:00.000Z",
+        "broadcast": "R/2026-05-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2199,6 +2205,18 @@
       {
         "site": "aniList",
         "id": "150957"
+      },
+      {
+        "site": "prime",
+        "id": "B0B6N94LVS",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "564-5",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3514,6 +3532,12 @@
       {
         "site": "aniList",
         "id": "128893"
+      },
+      {
+        "site": "abema",
+        "id": "560-2",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5074,10 +5098,6 @@
         "id": "26303",
         "begin": "2023-04-03T03:00:00.000Z",
         "broadcast": "R/2023-04-03T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "tmdb",
-        "id": "tv/83121/season/0/episode/5"
       },
       {
         "site": "abema",

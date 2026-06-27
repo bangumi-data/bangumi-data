@@ -188,8 +188,8 @@
       {
         "site": "netflix",
         "id": "81726714",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-15T16:00:00.000Z",
+        "broadcast": "R/2026-01-15T16:00:00.000Z/P7D"
       },
       {
         "site": "disneyplus",
@@ -1261,6 +1261,12 @@
       {
         "site": "aniList",
         "id": "195515"
+      },
+      {
+        "site": "netflix",
+        "id": "82624865",
+        "begin": "2026-05-30T16:00:00.000Z",
+        "broadcast": "R/2026-05-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1273,6 +1279,9 @@
       ],
       "zh-Hant": [
         "異國日記"
+      ],
+      "en": [
+        "Journal With Witch"
       ]
     },
     "type": "tv",
@@ -1348,6 +1357,12 @@
       {
         "site": "aniList",
         "id": "177385"
+      },
+      {
+        "site": "netflix",
+        "id": "82703495",
+        "begin": "2026-06-13T16:00:00.000Z",
+        "broadcast": "R/2026-06-13T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1643,8 +1658,8 @@
       {
         "site": "netflix",
         "id": "82703469",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-05-20T16:00:00.000Z",
+        "broadcast": "R/2026-05-20T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1898,8 +1913,8 @@
       {
         "site": "netflix",
         "id": "82047155",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-06T16:00:00.000Z",
+        "broadcast": "R/2026-01-06T16:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -2117,8 +2132,8 @@
       {
         "site": "netflix",
         "id": "82645278",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-14T16:00:00.000Z",
+        "broadcast": "R/2026-01-14T16:00:00.000Z/P7D"
       },
       {
         "site": "ani_one",
@@ -2609,8 +2624,8 @@
       {
         "site": "netflix",
         "id": "81574246",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-24T16:00:00.000Z",
+        "broadcast": "R/2026-01-24T16:00:00.000Z/P7D"
       },
       {
         "site": "mal",
@@ -2678,8 +2693,8 @@
       {
         "site": "netflix",
         "id": "81278456",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-07T16:00:00.000Z",
+        "broadcast": "R/2026-01-07T16:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
@@ -2906,8 +2921,8 @@
       {
         "site": "netflix",
         "id": "82653227",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-10T16:00:00.000Z",
+        "broadcast": "R/2026-01-10T16:00:00.000Z/P7D"
       },
       {
         "site": "disneyplus",
@@ -3734,7 +3749,7 @@
     "officialSite": "https://yushanokuzu.com/",
     "begin": "2026-01-10T15:55:00.000Z",
     "broadcast": "R/2026-01-10T15:55:00.000Z/P7D",
-    "end": "",
+    "end": "2026-06-27T15:55:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4565,6 +4580,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "北斗神拳 拳王军杂兵们的挽歌"
+      ],
+      "zh-Hant": [
+        "北斗之拳 拳王軍雜魚們的輓歌"
       ]
     },
     "type": "tv",
@@ -4626,6 +4644,18 @@
       {
         "site": "prime",
         "id": "B0GCLNZM7Z",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "148359",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "148359",
         "begin": "",
         "broadcast": ""
       }
@@ -5009,8 +5039,8 @@
       {
         "site": "netflix",
         "id": "82036361",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-06T16:00:00.000Z",
+        "broadcast": "R/2025-04-06T16:00:00.000Z/P7D"
       },
       {
         "site": "mal",
@@ -5078,8 +5108,8 @@
       {
         "site": "netflix",
         "id": "81143589",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-03T16:00:00.000Z",
+        "broadcast": "R/2025-04-03T16:00:00.000Z/P7D"
       },
       {
         "site": "mal",
@@ -5092,6 +5122,12 @@
       {
         "site": "aniList",
         "id": "179062"
+      },
+      {
+        "site": "abema",
+        "id": "194-16",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5313,8 +5349,8 @@
       {
         "site": "netflix",
         "id": "81684733",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-04-11T16:00:00.000Z",
+        "broadcast": "R/2023-04-11T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -5722,8 +5758,8 @@
       {
         "site": "netflix",
         "id": "81498882",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-14T16:00:00.000Z",
+        "broadcast": "R/2026-01-14T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -5826,8 +5862,8 @@
       {
         "site": "netflix",
         "id": "81756595",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-21T16:00:00.000Z",
+        "broadcast": "R/2026-01-21T16:00:00.000Z/P7D"
       },
       {
         "site": "mal",
@@ -5932,6 +5968,34 @@
       {
         "site": "tmdb",
         "id": "movie/1432547"
+      }
+    ]
+  },
+  {
+    "title": "迷宮のしおり",
+    "titleTranslate": {
+      "zh-Hans": [
+        "迷宫的栞",
+        "谜攻少女"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://gaga.ne.jp/meikyu-shiori/",
+    "begin": "2025-12-31T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-12-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "567684"
+      },
+      {
+        "site": "unext",
+        "id": "SID0281594",
+        "begin": "2026-05-31T15:00:00.000Z",
+        "broadcast": "R/2026-05-31T15:00:00.000Z/P7D"
       }
     ]
   }

@@ -1357,6 +1357,12 @@
       {
         "site": "aniList",
         "id": "100240"
+      },
+      {
+        "site": "abema",
+        "id": "171-1",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5949,6 +5955,33 @@
       {
         "site": "aniList",
         "id": "115007"
+      }
+    ]
+  },
+  {
+    "title": "忍たま乱太郎 第26シリーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者乱太郎 第26季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.nhk.or.jp/anime/nintama/",
+    "begin": "2018-04-01T16:00:00.000Z",
+    "broadcast": "R/2018-04-01T16:00:00.000Z/P7D",
+    "end": "2018-12-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "303899"
+      },
+      {
+        "site": "danime",
+        "id": "28901",
+        "begin": "2026-06-04T15:00:00.000Z",
+        "broadcast": "R/2026-06-04T15:00:00.000Z/P7D"
       }
     ]
   }

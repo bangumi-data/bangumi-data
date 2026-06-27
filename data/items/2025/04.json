@@ -112,6 +112,9 @@
       "zh-Hans": [
         "直至魔女消逝",
         "直到某魔女死去"
+      ],
+      "zh-Hant": [
+        "直至魔女消逝"
       ]
     },
     "type": "tv",
@@ -195,6 +198,18 @@
       {
         "site": "aniList",
         "id": "178701"
+      },
+      {
+        "site": "gamer",
+        "id": "140236",
+        "begin": "2026-06-18T04:00:00.000Z",
+        "broadcast": "R/2026-06-18T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "140236",
+        "begin": "2026-06-18T04:00:00.000Z",
+        "broadcast": "R/2026-06-18T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -986,6 +1001,24 @@
       {
         "site": "aniList",
         "id": "179955"
+      },
+      {
+        "site": "unext",
+        "id": "SID0305425",
+        "begin": "2026-06-22T03:00:00.000Z",
+        "broadcast": "R/2026-06-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "29068",
+        "begin": "2026-06-21T15:00:00.000Z",
+        "broadcast": "R/2026-06-21T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "11-81",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3009,6 +3042,12 @@
       {
         "site": "aniList",
         "id": "149118"
+      },
+      {
+        "site": "abema",
+        "id": "194-16",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5961,20 +6000,26 @@
       {
         "site": "gamer",
         "id": "142970",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-02-26T16:00:00.000Z",
+        "broadcast": "R/2026-02-26T16:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "142970",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-02-26T16:00:00.000Z",
+        "broadcast": "R/2026-02-26T16:00:00.000Z/P7D"
       },
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfpYDLxpS6EhC0gxjbve16vK",
         "begin": "2026-05-02T13:00:06.000Z",
         "broadcast": "R/2026-05-02T13:00:06.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Uch6-sihzj4XL4c-ROuEbj4z",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

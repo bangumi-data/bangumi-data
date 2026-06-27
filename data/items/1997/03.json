@@ -402,5 +402,32 @@
         "id": "tv/88506"
       }
     ]
+  },
+  {
+    "title": "ケロケロちゃいむ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "青蛙公主"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-03-05T16:00:00.000Z",
+    "broadcast": "R/1997-03-05T16:00:00.000Z/P7D",
+    "end": "1997-09-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "421441"
+      },
+      {
+        "site": "danime",
+        "id": "29009",
+        "begin": "2026-05-19T15:00:00.000Z",
+        "broadcast": "R/2026-05-19T15:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

@@ -379,5 +379,51 @@
         "id": "movie/1360829"
       }
     ]
+  },
+  {
+    "title": "LUPIN THE IIIRD THE MOVIE 不死身の血族",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 鲁邦三世 不死身的血族"
+      ],
+      "zh-Hant": [
+        "魯邦三世 不死身的血族"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://lupinthe3rd.com/",
+    "begin": "2025-06-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-06-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "526159"
+      },
+      {
+        "site": "gamer",
+        "id": "142586",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "60408"
+      },
+      {
+        "site": "aniList",
+        "id": "185084"
+      },
+      {
+        "site": "anidb",
+        "id": "19020"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1395140"
+      }
+    ]
   }
 ]

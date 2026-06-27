@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "龙珠GT"
+      ],
+      "en": [
+        "Dragon Ball GT"
       ]
     },
     "type": "tv",
@@ -56,6 +59,18 @@
       {
         "site": "aniList",
         "id": "225"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G4PH0WXXM",
+        "begin": "2022-03-15T09:00:00.000Z",
+        "broadcast": "R/2022-03-15T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B07YF3G4Y3",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

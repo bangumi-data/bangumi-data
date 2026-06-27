@@ -739,6 +739,18 @@
       {
         "site": "aniList",
         "id": "171291"
+      },
+      {
+        "site": "unext",
+        "id": "SID0303778",
+        "begin": "2026-05-31T15:00:00.000Z",
+        "broadcast": "R/2026-05-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28931",
+        "begin": "2026-05-31T15:00:00.000Z",
+        "broadcast": "R/2026-05-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -762,6 +774,49 @@
       {
         "site": "tmdb",
         "id": "tv/157583"
+      }
+    ]
+  },
+  {
+    "title": "鬼滅の刃 刀鍛冶の里編 特別編集版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鬼灭之刃 刀匠村篇 特別编集版"
+      ],
+      "zh-Hant": [
+        "鬼滅之刃 刀匠村 敵襲篇",
+        "鬼滅之刃 刀匠村 連繫的羈絆篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://kimetsu.com/anime/katanakajinosatohen/",
+    "begin": "2024-05-03T16:00:00.000Z",
+    "broadcast": "R/2024-05-03T16:00:00.000Z/P7D",
+    "end": "2024-05-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "484412"
+      },
+      {
+        "site": "gamer",
+        "id": "152099",
+        "begin": "2026-06-12T04:00:00.000Z",
+        "broadcast": "R/2026-06-12T04:00:00.000Z/P7D",
+        "comment": "敵襲篇, 連繫的羈絆篇: 152100"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "152099",
+        "begin": "2026-06-12T04:00:00.000Z",
+        "broadcast": "R/2026-06-12T04:00:00.000Z/P7D",
+        "comment": "敵襲篇, 連繫的羈絆篇: 152100"
+      },
+      {
+        "site": "anidb",
+        "id": "18529"
       }
     ]
   }

@@ -472,6 +472,12 @@
       {
         "site": "aniList",
         "id": "182309"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GNVHKN94W",
+        "begin": "2025-06-25T00:00:00.000Z",
+        "broadcast": "R/2025-06-25T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -6157,6 +6163,9 @@
       "zh-Hans": [
         "银河特急 银河☆地铁",
         "银河特急 Milky✩Subway"
+      ],
+      "zh-Hant": [
+        "銀河特急 Milky☆Subway"
       ]
     },
     "type": "tv",
@@ -6216,6 +6225,18 @@
       {
         "site": "aniList",
         "id": "189069"
+      },
+      {
+        "site": "gamer",
+        "id": "147306",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "147306",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -6647,6 +6668,12 @@
       {
         "site": "aniList",
         "id": "204624"
+      },
+      {
+        "site": "unext",
+        "id": "SID0303782",
+        "begin": "2026-06-01T03:00:00.000Z",
+        "broadcast": "R/2026-06-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -6733,6 +6760,45 @@
       {
         "site": "aniList",
         "id": "166475"
+      }
+    ]
+  },
+  {
+    "title": "鬼滅の刃 柱稽古編 特別編集版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鬼灭之刃 柱训练篇 特別编集版"
+      ],
+      "zh-Hant": [
+        "鬼滅之刃 柱訓練 開幕篇",
+        "鬼滅之刃 柱訓練 柱集結篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2025-07-15T16:00:00.000Z",
+    "broadcast": "R/2025-07-15T16:00:00.000Z/P7D",
+    "end": "2025-07-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "569579"
+      },
+      {
+        "site": "gamer",
+        "id": "152101",
+        "begin": "2026-06-12T04:00:00.000Z",
+        "broadcast": "R/2026-06-12T04:00:00.000Z/P7D",
+        "comment": "開幕篇, 柱集結篇: 152102"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "152101",
+        "begin": "2026-06-12T04:00:00.000Z",
+        "broadcast": "R/2026-06-12T04:00:00.000Z/P7D",
+        "comment": "開幕篇, 柱集結篇: 152102"
       }
     ]
   }

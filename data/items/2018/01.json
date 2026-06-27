@@ -110,6 +110,9 @@
       "zh-Hant": [
         "Citrus～柑橘味香氣～",
         "citrus～柑橘味香氣～"
+      ],
+      "en": [
+        "citrus"
       ]
     },
     "type": "tv",
@@ -191,6 +194,12 @@
       {
         "site": "aniList",
         "id": "97832"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GY5V74MPY",
+        "begin": "2018-01-06T14:30:00.000Z",
+        "broadcast": "R/2018-01-06T14:30:00.000Z/P7D"
       }
     ]
   },
@@ -1877,6 +1886,12 @@
       {
         "site": "aniList",
         "id": "99426"
+      },
+      {
+        "site": "abema",
+        "id": "25-229",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
