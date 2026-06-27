@@ -913,8 +913,8 @@
       {
         "site": "netflix",
         "id": "81990516",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-06-18T16:00:00.000Z",
+        "broadcast": "R/2025-06-18T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -1152,6 +1152,49 @@
         "id": "28744",
         "begin": "2026-03-19T15:00:00.000Z",
         "broadcast": "R/2026-03-19T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "GAMERA -Rebirth-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大怪兽加美拉：重生",
+        "加美拉 -复活-"
+      ],
+      "zh-Hant": [
+        "大怪獸卡美拉：重生"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://gamera-rebirth.com/",
+    "begin": "2023-09-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-09-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "418289"
+      },
+      {
+        "site": "netflix",
+        "id": "81087387",
+        "begin": "2023-09-06T16:00:00.000Z",
+        "broadcast": "R/2023-09-06T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "53627"
+      },
+      {
+        "site": "aniList",
+        "id": "160831"
+      },
+      {
+        "site": "anidb",
+        "id": "17841"
       }
     ]
   }

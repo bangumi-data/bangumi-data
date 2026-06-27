@@ -533,6 +533,18 @@
         "id": "13-49",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "17730",
+        "begin": "2026-06-01T04:00:00.000Z",
+        "broadcast": "R/2026-06-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "17730",
+        "begin": "2026-06-01T04:00:00.000Z",
+        "broadcast": "R/2026-06-01T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -1006,6 +1018,12 @@
       {
         "site": "aniList",
         "id": "340"
+      },
+      {
+        "site": "prime",
+        "id": "B0B8M3BCGF",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1053,6 +1071,12 @@
       {
         "site": "anidb",
         "id": "2400"
+      },
+      {
+        "site": "netflix",
+        "id": "80133769",
+        "begin": "2026-05-30T16:00:00.000Z",
+        "broadcast": "R/2026-05-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1803,12 +1827,12 @@
       {
         "site": "netflix",
         "id": "81757598",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-16T16:00:00.000Z",
+        "broadcast": "R/2025-04-16T16:00:00.000Z/P7D"
       },
       {
         "site": "prime",
-        "id": "B06Y217TN5",
+        "id": "B0GVZNDMZX",
         "begin": "",
         "broadcast": ""
       },

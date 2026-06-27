@@ -363,8 +363,8 @@
       {
         "site": "crunchyroll",
         "id": "GP5HJ815K",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2023-01-10T11:00:00.000Z",
+        "broadcast": "R/2023-01-10T11:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -491,6 +491,12 @@
       {
         "site": "aniList",
         "id": "127720"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G24H1N3MP",
+        "begin": "2021-01-11T00:00:00.000Z",
+        "broadcast": "R/2021-01-11T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -1295,6 +1301,12 @@
       {
         "site": "aniList",
         "id": "132473"
+      },
+      {
+        "site": "abema",
+        "id": "54-64",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4304,7 +4316,7 @@
       },
       {
         "site": "prime",
-        "id": "B0B8JYBZFB",
+        "id": "B0H3341BYM",
         "begin": "",
         "broadcast": ""
       },

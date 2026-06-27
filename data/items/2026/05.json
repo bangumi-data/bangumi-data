@@ -97,5 +97,38 @@
         "id": "204356"
       }
     ]
+  },
+  {
+    "title": "映画 ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 LoveLive！莲之空女学院学园偶像俱乐部 Bloom Garden Party"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.lovelive-anime.jp/hasunosora/movie/",
+    "begin": "2026-05-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-05-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "563256"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lovelive-hasunosora-movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0307566",
+        "begin": "2026-06-19T03:00:00.000Z",
+        "broadcast": "R/2026-06-19T03:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

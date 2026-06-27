@@ -287,7 +287,7 @@
       },
       {
         "site": "prime",
-        "id": "B0FTQPHGMV",
+        "id": "B0FMNVNR17",
         "begin": "",
         "broadcast": ""
       },
@@ -845,6 +845,18 @@
       {
         "site": "aniList",
         "id": "179302"
+      },
+      {
+        "site": "unext",
+        "id": "SID0306387",
+        "begin": "2026-06-20T03:00:00.000Z",
+        "broadcast": "R/2026-06-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "29035",
+        "begin": "2026-06-19T15:00:00.000Z",
+        "broadcast": "R/2026-06-19T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2603,6 +2615,12 @@
         "id": "SID0232880",
         "begin": "2026-03-30T15:00:00.000Z",
         "broadcast": "R/2026-03-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UciBXfN6YJXy0zR1fcCu06WI",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2829,7 +2847,7 @@
     "officialSite": "https://www.nhk.jp/p/smurfs/ts/9YKXZ1954G/",
     "begin": "2025-10-03T23:10:00.000Z",
     "broadcast": "R/2025-10-03T23:10:00.000Z/P7D",
-    "end": "",
+    "end": "2026-03-27T23:10:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -6472,8 +6490,8 @@
       {
         "site": "unext",
         "id": "SID0264927",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-02-10T03:00:00.000Z",
+        "broadcast": "R/2026-02-10T03:00:00.000Z/P7D"
       },
       {
         "site": "mal",
@@ -6561,6 +6579,31 @@
         "id": "150782",
         "begin": "",
         "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "ゾンビランドサガ ゆめぎんがパラダイス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "佐贺偶像是传奇 梦想银河乐园"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://zombielandsaga-movie.com/",
+    "begin": "2025-10-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-10-23T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "353181"
+      },
+      {
+        "site": "mikan",
+        "id": "3894"
       }
     ]
   }
