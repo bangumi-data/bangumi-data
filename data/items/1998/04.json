@@ -488,8 +488,8 @@
       {
         "site": "netflix",
         "id": "70309056",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-09-29T16:00:00.000Z",
+        "broadcast": "R/2025-09-29T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -929,6 +929,12 @@
       {
         "site": "aniList",
         "id": "8360"
+      },
+      {
+        "site": "danime",
+        "id": "28941",
+        "begin": "2026-06-30T15:00:00.000Z",
+        "broadcast": "R/2026-06-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -986,8 +992,8 @@
       {
         "site": "netflix",
         "id": "70082582",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-16T16:00:00.000Z",
+        "broadcast": "R/2025-04-16T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",

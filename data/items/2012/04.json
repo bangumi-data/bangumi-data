@@ -68,6 +68,12 @@
       {
         "site": "aniList",
         "id": "12431"
+      },
+      {
+        "site": "abema",
+        "id": "415-76",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2904,6 +2910,12 @@
       {
         "site": "tmdb",
         "id": "movie/163772"
+      },
+      {
+        "site": "danime",
+        "id": "28955",
+        "begin": "2026-06-30T15:00:00.000Z",
+        "broadcast": "R/2026-06-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2954,8 +2966,8 @@
       {
         "site": "netflix",
         "id": "81757602",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-05-14T16:00:00.000Z",
+        "broadcast": "R/2025-05-14T16:00:00.000Z/P7D"
       },
       {
         "site": "prime",

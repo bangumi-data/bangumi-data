@@ -134,7 +134,7 @@
     "officialSite": "https://korinojoheki-pr.com/",
     "begin": "2026-04-02T14:56:00.000Z",
     "broadcast": "R/2026-04-02T14:56:00.000Z/P7D",
-    "end": "",
+    "end": "2026-07-02T14:56:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4019,12 +4019,6 @@
         "broadcast": "R/2026-04-03T15:00:00.000Z/P7D"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UcgM-eazdqnvvGvwYtCvKNcq",
-        "begin": "2026-04-03T15:30:06.000Z",
-        "broadcast": "R/2026-04-03T15:30:06.000Z/P7D"
-      },
-      {
         "site": "abema",
         "id": "19-290",
         "begin": "",
@@ -5211,6 +5205,10 @@
         "id": "B0GJLDT2S4",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "aniList",
+        "id": "210234"
       }
     ]
   },
@@ -5620,8 +5618,8 @@
         "Re：从零开始的异世界生活 第四季 丧失篇"
       ],
       "zh-Hant": [
-        "Re：從零開始的異世界生活 第四季",
-        "Re:從零開始的異世界生活 第四季"
+        "Re：從零開始的異世界生活 第四季 喪失篇",
+        "Re:從零開始的異世界生活 第四季 喪失篇"
       ]
     },
     "type": "tv",
@@ -5629,7 +5627,7 @@
     "officialSite": "http://re-zero-anime.jp/tv/",
     "begin": "2026-04-08T14:00:00.000Z",
     "broadcast": "R/2026-04-08T14:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-06-17T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5989,6 +5987,14 @@
         "id": "B0GTVGFF52",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "aniList",
+        "id": "210375"
+      },
+      {
+        "site": "anidb",
+        "id": "19994"
       }
     ]
   },
@@ -6076,6 +6082,10 @@
         "id": "B0GVH7TSMB",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "20000"
       }
     ]
   },
@@ -6158,6 +6168,10 @@
       {
         "site": "bangumi_moe",
         "id": "69db11a94b29be5e9e214f0c"
+      },
+      {
+        "site": "anidb",
+        "id": "20012"
       }
     ]
   },
@@ -6238,6 +6252,10 @@
       {
         "site": "bangumi_moe",
         "id": "69db11a24b29be5e9e214ee2"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/315816"
       }
     ]
   },
@@ -6834,6 +6852,18 @@
       {
         "site": "mikan",
         "id": "3969"
+      },
+      {
+        "site": "aniList",
+        "id": "196840"
+      },
+      {
+        "site": "anidb",
+        "id": "19508"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/80867/season/3"
       }
     ]
   },
@@ -6856,12 +6886,6 @@
       {
         "site": "bangumi",
         "id": "544628"
-      },
-      {
-        "site": "unext",
-        "id": "SID0261890",
-        "begin": "2026-05-14T15:00:00.000Z",
-        "broadcast": "R/2026-05-14T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -6873,7 +6897,7 @@
     "officialSite": "https://www.poplar.co.jp/pr/anime-nezumikun/",
     "begin": "2026-04-03T00:00:00.000Z",
     "broadcast": "R/2026-04-03T00:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-06-26T00:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -6936,6 +6960,33 @@
       {
         "site": "aniList",
         "id": "204269"
+      }
+    ]
+  },
+  {
+    "title": "おしりたんてい 第10シリーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "屁屁侦探 第十季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2026-04-03T16:00:00.000Z",
+    "broadcast": "R/2026-04-03T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "625355"
+      },
+      {
+        "site": "danime",
+        "id": "28737",
+        "begin": "2026-04-09T03:00:00.000Z",
+        "broadcast": "R/2026-04-09T03:00:00.000Z/P7D"
       }
     ]
   }

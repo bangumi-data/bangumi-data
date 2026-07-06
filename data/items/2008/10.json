@@ -888,12 +888,6 @@
         "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "26-12",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "gamer_hk",
         "id": "16185",
         "begin": "2020-12-02T08:00:00.000Z",
@@ -1826,12 +1820,6 @@
         "broadcast": "R/2020-05-01T01:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "143-62",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/22366"
       },
@@ -2038,6 +2026,12 @@
       {
         "site": "aniList",
         "id": "5231"
+      },
+      {
+        "site": "abema",
+        "id": "19-273",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

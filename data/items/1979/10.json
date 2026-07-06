@@ -42,8 +42,8 @@
       {
         "site": "netflix",
         "id": "81177638",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-29T16:00:00.000Z",
+        "broadcast": "R/2025-04-29T16:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -81,6 +81,9 @@
       "zh-Hans": [
         "科学小飞侠F",
         "旋风小飞侠"
+      ],
+      "zh-Hant": [
+        "科學小飛俠 F"
       ]
     },
     "type": "tv",
@@ -132,6 +135,24 @@
         "id": "19-209",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tropics",
+        "id": "PLoGVqODys23A7XHVTEpVjNolu2u1m0JL5",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "152539",
+        "begin": "2026-06-26T03:00:00.000Z",
+        "broadcast": "R/2026-06-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "152539",
+        "begin": "2026-06-26T03:00:00.000Z",
+        "broadcast": "R/2026-06-26T03:00:00.000Z/P7D"
       }
     ]
   },

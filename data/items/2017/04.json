@@ -848,6 +848,12 @@
       {
         "site": "aniList",
         "id": "21700"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYDQ8WZ16",
+        "begin": "2017-04-04T00:00:00.000Z",
+        "broadcast": "R/2017-04-04T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -920,18 +926,6 @@
         "id": "21529",
         "begin": "2017-04-08T03:00:00.000Z",
         "broadcast": "R/2017-04-08T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "muse_tw",
-        "id": "PL12UaAf_xzfoBjcdhSa52pfOo9ogVt06O",
-        "begin": "2023-03-18T10:00:38.000Z",
-        "broadcast": "R/2023-03-18T10:00:38.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "117-9",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "tmdb",
@@ -5022,8 +5016,8 @@
       {
         "site": "netflix",
         "id": "81757605",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-02T16:00:00.000Z",
+        "broadcast": "R/2025-04-02T16:00:00.000Z/P7D"
       },
       {
         "site": "prime",
@@ -5384,6 +5378,12 @@
       {
         "site": "aniList",
         "id": "100290"
+      },
+      {
+        "site": "danime",
+        "id": "28960",
+        "begin": "2026-06-30T15:00:00.000Z",
+        "broadcast": "R/2026-06-30T15:00:00.000Z/P7D"
       }
     ]
   },

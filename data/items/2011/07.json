@@ -620,12 +620,6 @@
         "broadcast": "R/2011-07-07T21:47:00.000Z/P7D"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7Ucg3DcUXssGs3GmSU9YJ2Yf5",
-        "begin": "2022-02-24T16:00:00.000Z",
-        "broadcast": "R/2022-02-24T16:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0013310",
         "begin": "2018-09-20T03:00:00.000Z",
@@ -636,28 +630,10 @@
         "id": "蛋+測+贰|雙黃|獸2|II"
       },
       {
-        "site": "gamer_hk",
-        "id": "37062",
-        "begin": "2022-01-07T05:00:00.000Z",
-        "broadcast": "R/2022-01-07T05:00:00.000Z/P7D"
-      },
-      {
         "site": "danime",
         "id": "10100",
         "begin": "2012-06-26T15:00:00.000Z",
         "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "37062",
-        "begin": "2022-01-07T05:00:00.000Z",
-        "broadcast": "R/2022-01-07T05:00:00.000Z/P7D"
-      },
-      {
-        "site": "muse_tw",
-        "id": "PL12UaAf_xzfrPbG_SrcvKmBEx0cU1ak3k",
-        "begin": "2022-03-04T13:00:09.000Z",
-        "broadcast": "R/2022-03-04T13:00:09.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -1316,6 +1292,18 @@
       {
         "site": "aniList",
         "id": "10049"
+      },
+      {
+        "site": "danime",
+        "id": "29075",
+        "begin": "2026-07-02T15:00:00.000Z",
+        "broadcast": "R/2026-07-02T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016170",
+        "begin": "2026-07-03T03:00:00.000Z",
+        "broadcast": "R/2026-07-03T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1803,6 +1791,12 @@
       {
         "site": "aniList",
         "id": "10740"
+      },
+      {
+        "site": "abema",
+        "id": "746-15",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1866,6 +1860,12 @@
       {
         "site": "aniList",
         "id": "9917"
+      },
+      {
+        "site": "abema",
+        "id": "746-14",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

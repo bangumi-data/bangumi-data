@@ -437,12 +437,6 @@
         "broadcast": "R/2013-04-09T15:30:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "58111",
-        "begin": "2021-12-24T05:00:00.000Z",
-        "broadcast": "R/2021-12-24T05:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0002280",
         "begin": "2013-04-30T06:00:00.000Z",
@@ -451,12 +445,6 @@
       {
         "site": "dmhy",
         "id": "奈亚子|Nyarlko"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "58111",
-        "begin": "2021-12-24T05:00:00.000Z",
-        "broadcast": "R/2021-12-24T05:00:00.000Z/P7D"
       },
       {
         "site": "crunchyroll",
@@ -1116,6 +1104,12 @@
       {
         "site": "aniList",
         "id": "16498"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GR751KNZY",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2779,6 +2773,12 @@
       {
         "site": "aniList",
         "id": "11577"
+      },
+      {
+        "site": "abema",
+        "id": "25-8",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2953,6 +2953,12 @@
       {
         "site": "aniList",
         "id": "17113"
+      },
+      {
+        "site": "danime",
+        "id": "28956",
+        "begin": "2026-06-30T15:00:00.000Z",
+        "broadcast": "R/2026-06-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3003,8 +3009,8 @@
       {
         "site": "netflix",
         "id": "81757603",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-16T16:00:00.000Z",
+        "broadcast": "R/2025-04-16T16:00:00.000Z/P7D"
       },
       {
         "site": "prime",

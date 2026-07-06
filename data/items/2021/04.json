@@ -1895,12 +1895,6 @@
         "broadcast": ""
       },
       {
-        "site": "gamer",
-        "id": "114035",
-        "begin": "2021-04-02T17:23:00.000Z",
-        "broadcast": "R/2021-04-02T17:23:00.000Z/P7D"
-      },
-      {
         "site": "bilibili",
         "id": "28233926",
         "begin": "2021-10-19T10:00:01.000Z",
@@ -1911,12 +1905,6 @@
         "id": "SID0056102",
         "begin": "2021-04-06T03:00:00.000Z",
         "broadcast": "R/2021-04-06T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "114035",
-        "begin": "2021-04-02T17:23:00.000Z",
-        "broadcast": "R/2021-04-02T17:23:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -3100,8 +3088,8 @@
       {
         "site": "netflix",
         "id": "81427422",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-03-29T16:00:00.000Z",
+        "broadcast": "R/2025-03-29T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -3118,6 +3106,12 @@
       {
         "site": "aniList",
         "id": "120697"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GQWH0M455",
+        "begin": "2021-04-11T00:00:00.000Z",
+        "broadcast": "R/2021-04-11T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -4027,12 +4021,6 @@
         "broadcast": "R/2021-04-04T16:30:00.000Z/P7D"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UcivLSgm5i_gPfjLWrOZRdg9",
-        "begin": "2021-04-04T16:30:00.000Z",
-        "broadcast": "R/2021-04-04T16:30:00.000Z/P7D"
-      },
-      {
         "site": "bilibili_hk_mo_tw",
         "id": "28234125",
         "begin": "2021-04-04T16:30:01.000Z",
@@ -4053,12 +4041,6 @@
         "id": "2453"
       },
       {
-        "site": "gamer_hk",
-        "id": "115759",
-        "begin": "2021-04-04T16:30:00.000Z",
-        "broadcast": "R/2021-04-04T16:30:00.000Z/P7D"
-      },
-      {
         "site": "nicovideo",
         "id": "sevenknights-anime",
         "begin": "",
@@ -4069,12 +4051,6 @@
         "id": "24587",
         "begin": "2021-04-04T15:30:00.000Z",
         "broadcast": "R/2021-04-04T15:30:00.000Z/P7D"
-      },
-      {
-        "site": "muse_tw",
-        "id": "PL12UaAf_xzfqamjfavi6e525I5-34c2kB",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "tmdb",
@@ -4698,6 +4674,12 @@
       {
         "site": "aniList",
         "id": "125867"
+      },
+      {
+        "site": "unext",
+        "id": "SID0056106",
+        "begin": "2026-06-30T15:00:00.000Z",
+        "broadcast": "R/2026-06-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -5244,12 +5226,6 @@
         "broadcast": "R/2025-03-04T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "482-96",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/122475"
       },
@@ -5586,8 +5562,8 @@
       {
         "site": "netflix",
         "id": "81757619",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-16T16:00:00.000Z",
+        "broadcast": "R/2025-04-16T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -5673,6 +5649,12 @@
       {
         "site": "anidb",
         "id": "16366"
+      },
+      {
+        "site": "unext",
+        "id": "SID0104522",
+        "begin": "2024-06-27T03:00:00.000Z",
+        "broadcast": "R/2024-06-27T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -5748,8 +5730,8 @@
       {
         "site": "netflix",
         "id": "80990863",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-04-28T16:00:00.000Z",
+        "broadcast": "R/2021-04-28T16:00:00.000Z/P7D"
       },
       {
         "site": "mal",

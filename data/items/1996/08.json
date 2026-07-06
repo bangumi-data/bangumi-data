@@ -214,6 +214,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "X战记 剧场版"
+      ],
+      "en": [
+        "X: The Movie"
       ]
     },
     "type": "movie",
@@ -247,6 +250,12 @@
       {
         "site": "anidb",
         "id": "429"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GMTE00380050",
+        "begin": "1996-08-03T00:00:00.000Z",
+        "broadcast": "R/1996-08-03T00:00:00.000Z/P7D"
       }
     ]
   }

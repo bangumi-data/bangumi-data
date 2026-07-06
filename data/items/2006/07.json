@@ -223,40 +223,16 @@
         "broadcast": "R/2012-01-13T06:36:00.000Z/P7D"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7Uchyr4Vd3iS8g5TZ_0DQVbUl",
-        "begin": "2022-04-01T16:00:00.000Z",
-        "broadcast": "R/2022-04-01T16:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0015445",
         "begin": "2014-06-18T15:00:00.000Z",
         "broadcast": "R/2014-06-18T15:00:00.000Z/P7D"
       },
       {
-        "site": "gamer_hk",
-        "id": "176",
-        "begin": "2022-02-18T03:00:00.000Z",
-        "broadcast": "R/2022-02-18T03:00:00.000Z/P7D"
-      },
-      {
         "site": "danime",
         "id": "10327",
         "begin": "2012-06-26T15:00:00.000Z",
         "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "176",
-        "begin": "2022-02-18T03:00:00.000Z",
-        "broadcast": "R/2022-02-18T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "muse_tw",
-        "id": "PL12UaAf_xzfoBGJ5w9paXXaaxM8ncXtZl",
-        "begin": "2022-04-22T13:00:10.000Z",
-        "broadcast": "R/2022-04-22T13:00:10.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -273,6 +249,12 @@
       {
         "site": "aniList",
         "id": "1195"
+      },
+      {
+        "site": "abema",
+        "id": "25-24ymbcanddfj",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -752,6 +734,12 @@
       {
         "site": "anidb",
         "id": "4199"
+      },
+      {
+        "site": "abema",
+        "id": "746-9",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1172,8 +1160,8 @@
       {
         "site": "netflix",
         "id": "81719799",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-09-17T16:00:00.000Z",
+        "broadcast": "R/2025-09-17T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",

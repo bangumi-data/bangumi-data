@@ -283,12 +283,6 @@
       {
         "site": "aniList",
         "id": "123645"
-      },
-      {
-        "site": "gamer",
-        "id": "113491",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
@@ -373,6 +367,12 @@
       {
         "site": "aniList",
         "id": "99900"
+      },
+      {
+        "site": "abema",
+        "id": "25-326",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -833,12 +833,6 @@
     "end": "2021-06-24T18:00:00.000Z",
     "comment": "",
     "sites": [
-      {
-        "site": "gamer",
-        "id": "111351",
-        "begin": "2022-08-05T04:50:00.000Z",
-        "broadcast": "R/2022-08-05T04:50:00.000Z/P7D"
-      },
       {
         "site": "tmdb",
         "id": "movie/691517"

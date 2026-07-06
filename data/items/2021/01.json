@@ -1051,12 +1051,6 @@
         "broadcast": ""
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UcgarYXnz38UWOky-pGBX7Ew",
-        "begin": "2024-01-30T13:00:00.000Z",
-        "broadcast": "R/2024-01-30T13:00:00.000Z/P1D"
-      },
-      {
         "site": "unext",
         "id": "SID0052900",
         "begin": "2021-01-06T03:00:00.000Z",
@@ -3068,6 +3062,9 @@
       "zh-Hans": [
         "碧蓝航线 微速前进！",
         "碧蓝航线：微速前行！"
+      ],
+      "zh-Hant": [
+        "碧藍航線 微速前進！"
       ]
     },
     "type": "tv",
@@ -3135,6 +3132,24 @@
       {
         "site": "aniList",
         "id": "114473"
+      },
+      {
+        "site": "tropics",
+        "id": "PLoGVqODys23ANhfgrEHJHMU9vGnhl-Xjp",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "113700",
+        "begin": "2026-07-03T03:00:00.000Z",
+        "broadcast": "R/2026-07-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "113700",
+        "begin": "2026-07-03T03:00:00.000Z",
+        "broadcast": "R/2026-07-03T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -3538,8 +3553,8 @@
       {
         "site": "gamer",
         "id": "113834",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-03-07T04:00:00.000Z",
+        "broadcast": "R/2025-03-07T04:00:00.000Z/P7D"
       },
       {
         "site": "ani_one_asia",

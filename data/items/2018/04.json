@@ -1030,6 +1030,12 @@
       {
         "site": "anidb",
         "id": "13779"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfpe5UuQkztLoazGm8B2mVIY",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1822,12 +1828,6 @@
         "id": "SID0038890",
         "begin": "2022-10-03T15:00:00.000Z",
         "broadcast": "R/2022-10-03T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "19-113",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "dmhy",
@@ -5716,6 +5716,12 @@
       {
         "site": "anidb",
         "id": "13520"
+      },
+      {
+        "site": "danime",
+        "id": "28961",
+        "begin": "2026-06-30T15:00:00.000Z",
+        "broadcast": "R/2026-06-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -5814,8 +5820,8 @@
       {
         "site": "netflix",
         "id": "81757618",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-30T16:00:00.000Z",
+        "broadcast": "R/2025-04-30T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -5982,6 +5988,12 @@
         "id": "28901",
         "begin": "2026-06-04T15:00:00.000Z",
         "broadcast": "R/2026-06-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0295405",
+        "begin": "2026-06-05T03:00:00.000Z",
+        "broadcast": "R/2026-06-05T03:00:00.000Z/P7D"
       }
     ]
   }

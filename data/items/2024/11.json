@@ -34,12 +34,6 @@
         "broadcast": "R/2024-11-07T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "5-71",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "27403",
         "begin": "2024-11-07T03:00:00.000Z",
@@ -164,12 +158,6 @@
         "id": "27423",
         "begin": "2024-11-06T13:00:00.000Z",
         "broadcast": "R/2024-11-06T13:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "729-1",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "tmdb",
@@ -320,6 +308,10 @@
       {
         "site": "mal",
         "id": "61289"
+      },
+      {
+        "site": "aniList",
+        "id": "213458"
       }
     ]
   },
@@ -651,8 +643,8 @@
       {
         "site": "netflix",
         "id": "82080270",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-07-18T16:00:00.000Z",
+        "broadcast": "R/2025-07-18T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",

@@ -1443,8 +1443,8 @@
       {
         "site": "netflix",
         "id": "81983791",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-05-08T16:00:00.000Z",
+        "broadcast": "R/2025-05-08T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -2801,12 +2801,6 @@
         "broadcast": "R/2023-10-09T15:00:00.000Z/P7D"
       },
       {
-        "site": "unext",
-        "id": "SID0093578",
-        "begin": "2023-10-09T15:00:00.000Z",
-        "broadcast": "R/2023-10-09T15:00:00.000Z/P7D"
-      },
-      {
         "site": "bangumi_moe",
         "id": "65186f784c90aa63daeaa1e7"
       },
@@ -2853,6 +2847,12 @@
       {
         "site": "aniList",
         "id": "155419"
+      },
+      {
+        "site": "prime",
+        "id": "B0CH3CNRGQ",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3992,6 +3992,12 @@
       {
         "site": "aniList",
         "id": "158704"
+      },
+      {
+        "site": "prime",
+        "id": "B0CH4985DN",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4537,7 +4543,8 @@
         "site": "gamer",
         "id": "135648",
         "begin": "2025-02-17T04:00:00.000Z",
-        "broadcast": "R/2025-02-17T04:00:00.000Z/P7D"
+        "broadcast": "R/2025-02-17T04:00:00.000Z/P7D",
+        "comment": "第二季: 152682"
       },
       {
         "site": "disneyplus",
@@ -5201,12 +5208,6 @@
       {
         "site": "bangumi",
         "id": "442523"
-      },
-      {
-        "site": "viu",
-        "id": "2250826",
-        "begin": "2023-10-05T13:00:00.000Z",
-        "broadcast": "R/2023-10-05T13:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -6112,12 +6113,6 @@
       {
         "site": "bangumi",
         "id": "289102"
-      },
-      {
-        "site": "unext",
-        "id": "SID0096001",
-        "begin": "2024-01-10T03:00:00.000Z",
-        "broadcast": "R/2024-01-10T03:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",

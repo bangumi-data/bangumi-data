@@ -852,12 +852,6 @@
         "broadcast": "R/2024-10-02T13:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "115-115",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mikan",
         "id": "3435"
       },
@@ -1229,12 +1223,6 @@
       {
         "site": "tmdb",
         "id": "tv/204098"
-      },
-      {
-        "site": "abema",
-        "id": "182-1448",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "mal",
@@ -2191,8 +2179,8 @@
       {
         "site": "netflix",
         "id": "81988381",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-03-28T16:00:00.000Z",
+        "broadcast": "R/2025-03-28T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -3210,6 +3198,12 @@
       {
         "site": "aniList",
         "id": "141182"
+      },
+      {
+        "site": "prime",
+        "id": "B0D7CFNH4S",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3489,8 +3483,8 @@
       {
         "site": "netflix",
         "id": "81944802",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-12-19T00:00:00.000Z",
+        "broadcast": "R/2025-12-19T00:00:00.000Z/P7D"
       },
       {
         "site": "mal",
@@ -3892,7 +3886,7 @@
         "Re0 第三季"
       ],
       "zh-Hant": [
-        "Re：從零開始的異世界生活 第三季"
+        "Re：從零開始的異世界生活 第三季 襲擊編"
       ]
     },
     "type": "tv",

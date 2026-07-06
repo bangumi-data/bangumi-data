@@ -812,22 +812,10 @@
         "begin": "2014-10-04T17:00:00.000Z"
       },
       {
-        "site": "gamer",
-        "id": "67396",
-        "begin": "2020-08-05T09:00:00.000Z",
-        "broadcast": "R/2020-08-05T09:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0010777",
         "begin": "2017-10-01T03:00:00.000Z",
         "broadcast": "R/2017-10-01T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "67396",
-        "begin": "2020-08-05T09:00:00.000Z",
-        "broadcast": "R/2020-08-05T09:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -1105,12 +1093,6 @@
         "broadcast": ""
       },
       {
-        "site": "abema",
-        "id": "415-6",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/68573"
       },
@@ -1252,12 +1234,6 @@
         "site": "youku",
         "id": "7f0ea2e2bd4511e3a705",
         "begin": "2014-10-02T22:15:35.000Z"
-      },
-      {
-        "site": "unext",
-        "id": "SID0017696",
-        "begin": "2023-05-31T15:00:00.000Z",
-        "broadcast": "R/2023-05-31T15:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -2793,12 +2769,6 @@
         "broadcast": "R/2014-10-10T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "143-61",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "prime",
         "id": "B0CGJ584V8",
         "begin": "",
@@ -3118,12 +3088,6 @@
         "begin": ""
       },
       {
-        "site": "viu",
-        "id": "2126345",
-        "begin": "2023-04-20T16:00:00.000Z",
-        "broadcast": "R/2023-04-20T16:00:00.000Z/P7D"
-      },
-      {
         "site": "gamer",
         "id": "68438",
         "begin": "2021-04-01T03:00:00.000Z",
@@ -3180,6 +3144,12 @@
       {
         "site": "aniList",
         "id": "20665"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G63V7KN9Y",
+        "begin": "2014-10-09T00:00:00.000Z",
+        "broadcast": "R/2014-10-09T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -4204,12 +4174,6 @@
       {
         "site": "prime",
         "id": "B0D8C1VGX9",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "abema",
-        "id": "26-238",
         "begin": "",
         "broadcast": ""
       },

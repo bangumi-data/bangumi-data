@@ -8,7 +8,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://heroaca.com/",
     "begin": "2026-05-01T16:00:00.000Z",
     "broadcast": "R/2026-05-01T16:00:00.000Z/P7D",
     "end": "2026-05-01T16:00:00.000Z",
@@ -75,8 +75,8 @@
       {
         "site": "netflix",
         "id": "80135674",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-10-31T00:00:00.000Z",
+        "broadcast": "R/2024-10-31T00:00:00.000Z/P7D"
       },
       {
         "site": "crunchyroll",
@@ -128,6 +128,10 @@
         "id": "SID0307566",
         "begin": "2026-06-19T03:00:00.000Z",
         "broadcast": "R/2026-06-19T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "61806"
       }
     ]
   }

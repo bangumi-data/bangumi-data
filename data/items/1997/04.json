@@ -398,12 +398,6 @@
         "comment": "國語: PL12UaAf_xzfrl5RpF5F5z863tnAWKS2Cp, 【台語】EP34~EP45 + 特別企劃: PL12UaAf_xzfpmqoDZj9av_ZXDiy2SyhnR"
       },
       {
-        "site": "abema",
-        "id": "482-94",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/25080"
       },
@@ -599,6 +593,12 @@
       {
         "site": "aniList",
         "id": "6460"
+      },
+      {
+        "site": "danime",
+        "id": "28940",
+        "begin": "2026-06-30T15:00:00.000Z",
+        "broadcast": "R/2026-06-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -645,8 +645,8 @@
       {
         "site": "netflix",
         "id": "70055218",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-02T16:00:00.000Z",
+        "broadcast": "R/2025-04-02T16:00:00.000Z/P7D"
       },
       {
         "site": "prime",

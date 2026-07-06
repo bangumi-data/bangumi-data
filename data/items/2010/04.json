@@ -1494,12 +1494,6 @@
         "broadcast": "R/2024-03-21T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "415-7",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "prime",
         "id": "B0CV3FTP36",
         "begin": "",
@@ -1701,6 +1695,12 @@
       {
         "site": "aniList",
         "id": "8369"
+      },
+      {
+        "site": "danime",
+        "id": "28953",
+        "begin": "2026-06-30T15:00:00.000Z",
+        "broadcast": "R/2026-06-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -1751,8 +1751,8 @@
       {
         "site": "netflix",
         "id": "81757579",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-30T16:00:00.000Z",
+        "broadcast": "R/2025-04-30T16:00:00.000Z/P7D"
       },
       {
         "site": "prime",
