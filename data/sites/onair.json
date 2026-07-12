@@ -133,5 +133,10 @@
   "youtube": {
     "title": "YouTube",
     "urlTemplate": "https://www.youtube.com/playlist?list={{id}}"
+  },
+  "mighty": {
+    "title": "曼迪",
+    "urlTemplate": "https://www.youtube.com/playlist?list={{id}}",
+    "regions": ["HK","TW","MO"]
   }
 }

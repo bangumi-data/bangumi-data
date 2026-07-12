@@ -77,8 +77,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfrCAOTroy2IhYeGg7mYc6wO",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-10-07T09:30:26.000Z",
+        "broadcast": "R/2024-10-07T09:30:26.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -488,8 +488,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfoOn6N5UjTKca5ohihxhGMl",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-10-03T13:00:26.000Z",
+        "broadcast": "R/2024-10-03T13:00:26.000Z/P7D"
       },
       {
         "site": "prime",
@@ -1018,8 +1018,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfq5SwaJ7I9QsUglCml7_HDn",
-        "begin": "",
-        "broadcast": "",
+        "begin": "2026-05-02T13:30:06.000Z",
+        "broadcast": "R/2026-05-02T13:30:06.000Z/P7D",
         "comment": "國語: PL12UaAf_xzfqXi3JvOG1z6QTHBcGKfgDp"
       },
       {
@@ -3958,8 +3958,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfrzEb8v_1R2HTbm_QZ5Omjv",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-08T14:00:06.000Z",
+        "broadcast": "R/2026-04-08T14:00:06.000Z/P7D"
       },
       {
         "site": "prime",
@@ -5453,8 +5453,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfpv_EIuCk3K-WwFSDdYvJiE",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-10-13T08:30:06.000Z",
+        "broadcast": "R/2024-10-13T08:30:06.000Z/P7D"
       },
       {
         "site": "prime",
@@ -6634,6 +6634,45 @@
         "id": "SID0157779",
         "begin": "2024-10-05T17:00:00.000Z",
         "broadcast": "R/2024-10-05T17:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ぽちゃーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Pochars"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.pochars.com/",
+    "begin": "2024-10-07T16:00:00.000Z",
+    "broadcast": "R/2024-10-07T16:00:00.000Z/P7D",
+    "end": "2026-03-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "513530"
+      },
+      {
+        "site": "mal",
+        "id": "59732"
+      },
+      {
+        "site": "anidb",
+        "id": "18912"
+      },
+      {
+        "site": "aniList",
+        "id": "182772"
+      },
+      {
+        "site": "danime",
+        "id": "29130",
+        "begin": "2026-07-09T15:00:00.000Z",
+        "broadcast": "R/2026-07-09T15:00:00.000Z/P7D"
       }
     ]
   }

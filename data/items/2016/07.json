@@ -702,8 +702,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfqvSr-ec0LHcSKeTJth4UjS",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2022-07-06T13:00:10.000Z",
+        "broadcast": "R/2022-07-06T13:00:10.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -1783,8 +1783,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfqFZK1Q5eBBefGw7YoyrrAq",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2020-10-01T14:00:10.000Z",
+        "broadcast": "R/2020-10-01T14:00:10.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -3278,6 +3278,12 @@
       {
         "site": "aniList",
         "id": "98143"
+      },
+      {
+        "site": "abema",
+        "id": "13-27uzkrexuzx2",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3377,8 +3383,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfrZxr2vG-NxaHjLaArp3Dq3",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2020-12-19T14:00:09.000Z",
+        "broadcast": "R/2020-12-19T14:00:09.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -4502,13 +4508,6 @@
       {
         "site": "tmdb",
         "id": "movie/374205"
-      },
-      {
-        "site": "disneyplus",
-        "id": "6x4a1Ss2j3oT",
-        "url": "https://www.disneyplus.com/movies/one-piece-film-gold/6x4a1Ss2j3oT",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "mal",

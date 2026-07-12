@@ -310,8 +310,8 @@
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UcgexrKVJazYIIfwbJZzI8fl",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-06-26T13:00:07.000Z",
+        "broadcast": "R/2026-06-26T13:00:07.000Z/P7D"
       }
     ]
   },
@@ -2625,8 +2625,8 @@
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UciBXfN6YJXy0zR1fcCu06WI",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-06-18T13:30:06.000Z",
+        "broadcast": "R/2026-06-18T13:30:06.000Z/P7D"
       },
       {
         "site": "prime",
@@ -3067,6 +3067,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "百姓贵族 第三季"
+      ],
+      "zh-Hant": [
+        "百姓貴族 3rd Season"
       ]
     },
     "type": "tv",
@@ -3104,6 +3107,12 @@
       {
         "site": "aniList",
         "id": "185694"
+      },
+      {
+        "site": "gamer",
+        "id": "143048",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4470,6 +4479,12 @@
         "id": "82176195",
         "begin": "2026-02-13T16:00:00.000Z",
         "broadcast": "R/2026-02-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mighty",
+        "id": "PL2ql078AibHXHz84sVhLZ7CQoQgJuRrvJ",
+        "begin": "2026-03-22T11:00:06.000Z",
+        "broadcast": "R/2026-03-22T11:00:06.000Z/P7D"
       }
     ]
   },
