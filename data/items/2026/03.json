@@ -372,5 +372,46 @@
         "broadcast": "R/2026-06-09T21:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "劇場版 暗殺教室 みんなの時間",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 暗杀教室 大家的时间",
+        "剧场版 暗杀教室 我们的时光"
+      ],
+      "en": [
+        "Assassination Classroom the Movie: Our Time"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.ansatsu-anime.com/",
+    "begin": "2026-03-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-03-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "583746"
+      },
+      {
+        "site": "mal",
+        "id": "62421"
+      },
+      {
+        "site": "aniList",
+        "id": "198373"
+      },
+      {
+        "site": "anidb",
+        "id": "19567"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1542877"
+      }
+    ]
   }
 ]
