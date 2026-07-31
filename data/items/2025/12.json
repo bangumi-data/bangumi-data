@@ -384,5 +384,38 @@
         "id": "movie/1591447"
       }
     ]
+  },
+  {
+    "title": "アイドリッシュセブン First BEAT! 劇場総集編 後編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "IDOLiSH7-偶像星愿- 剧场总集篇 后篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://idolish7.com/aninana/firstbeat/",
+    "begin": "2025-12-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-12-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "555683"
+      },
+      {
+        "site": "nicovideo",
+        "id": "aninana_firstbeat",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0308924",
+        "begin": "2026-07-28T15:00:00.000Z",
+        "broadcast": "R/2026-07-28T15:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

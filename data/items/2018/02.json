@@ -424,5 +424,38 @@
         "id": "101126"
       }
     ]
+  },
+  {
+    "title": "アイドリッシュセブン Vibrato",
+    "titleTranslate": {
+      "zh-Hans": [
+        "IDOLiSH7 Vibrato"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://idolish7.com/aninana/",
+    "begin": "2018-02-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2018-03-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "238027"
+      },
+      {
+        "site": "nicovideo",
+        "id": "aninana_vibrato",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0308925",
+        "begin": "2026-07-28T15:00:00.000Z",
+        "broadcast": "R/2026-07-28T15:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

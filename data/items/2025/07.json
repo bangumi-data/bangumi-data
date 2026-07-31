@@ -3365,7 +3365,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/86031/season/4"
+        "id": "tv/86031/season/4/episode/13"
       },
       {
         "site": "mal",
@@ -6852,19 +6852,21 @@
         "剧场版 鬼灭之刃 无限城篇 第一章 猗窝座再袭"
       ],
       "zh-Hant": [
+        "劇場版「鬼滅之刃」無限城篇 第一章 猗窩座再襲",
         "劇場版 鬼滅之刃 無限城篇 第一章 猗窩座再來"
       ],
       "en": [
         "Demon Slayer: Kimetsu no Yaiba - The Movie: Infinity Castle - Part 1: Akaza Returns",
-        "Demon Slayer: Kimetsu no Yaiba Infinity Castle"
+        "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+        "Demon Slayer: Kimetsu no Yaiba Infinity Castle I"
       ]
     },
     "type": "movie",
     "lang": "ja",
     "officialSite": "https://kimetsu.com/anime/mugenjyohen_movie/",
-    "begin": "2025-07-18T16:00:00.000Z",
+    "begin": "2025-07-17T16:00:00.000Z",
     "broadcast": "",
-    "end": "2025-07-18T16:00:00.000Z",
+    "end": "2025-07-17T18:35:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -6886,6 +6888,35 @@
       {
         "site": "tmdb",
         "id": "movie/1311031"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G8DHV7809",
+        "begin": "2026-07-03T08:00:00.000Z",
+        "broadcast": "R/2026-07-03T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "140246",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "140246",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "4050"
+      },
+      {
+        "site": "viu",
+        "id": "3242544",
+        "begin": "2026-07-28T15:00:28.000Z",
+        "broadcast": "R/2026-07-28T15:00:28.000Z/P7D",
+        "comment": "粵語版: 3243191"
       }
     ]
   }
