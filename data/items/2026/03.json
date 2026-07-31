@@ -387,9 +387,9 @@
     "type": "movie",
     "lang": "ja",
     "officialSite": "https://www.ansatsu-anime.com/",
-    "begin": "2026-03-20T16:00:00.000Z",
+    "begin": "2026-03-19T16:00:00.000Z",
     "broadcast": "",
-    "end": "2026-03-20T16:00:00.000Z",
+    "end": "2026-03-19T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -411,6 +411,10 @@
       {
         "site": "tmdb",
         "id": "movie/1542877"
+      },
+      {
+        "site": "mikan",
+        "id": "4049"
       }
     ]
   }
