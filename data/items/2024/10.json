@@ -1161,7 +1161,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/131041"
+        "id": "tv/131041/season/1/episode/25"
       },
       {
         "site": "mal",
@@ -1385,7 +1385,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/221165"
+        "id": "tv/221165/season/1/episode/15"
       },
       {
         "site": "prime",
@@ -2872,7 +2872,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/243140"
+        "id": "tv/243140/season/1/episode/14"
       },
       {
         "site": "mal",
@@ -3987,7 +3987,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/65942"
+        "id": "tv/65942/season/1/episode/51"
       },
       {
         "site": "mal",
@@ -4248,7 +4248,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/210879"
+        "id": "tv/210879/season/1/episode/25"
       },
       {
         "site": "mal",
@@ -4561,7 +4561,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/218843"
+        "id": "tv/218843/season/1/episode/25"
       },
       {
         "site": "mal",
@@ -4625,6 +4625,14 @@
       {
         "site": "tmdb",
         "id": "tv/271026"
+      },
+      {
+        "site": "mal",
+        "id": "59698"
+      },
+      {
+        "site": "anidb",
+        "id": "18832"
       }
     ]
   },
@@ -5139,7 +5147,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/222798"
+        "id": "tv/222798/season/1/episode/13"
       },
       {
         "site": "mal",
@@ -5247,7 +5255,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/233408"
+        "id": "tv/233408/season/1/episode/5"
       },
       {
         "site": "mal",
@@ -5482,7 +5490,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/205050"
+        "id": "tv/205050/season/1/episode/26"
       },
       {
         "site": "mal",
@@ -5589,7 +5597,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/216523"
+        "id": "tv/216523/season/1/episode/14"
       },
       {
         "site": "mal",
@@ -5801,7 +5809,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/154526"
+        "id": "tv/154526/season/1/episode/13"
       },
       {
         "site": "disneyplus",
@@ -5930,7 +5938,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/246676"
+        "id": "tv/246676/season/1/episode/14"
       },
       {
         "site": "mal",
@@ -6701,6 +6709,12 @@
       {
         "site": "tmdb",
         "id": "tv/270660"
+      },
+      {
+        "site": "unext",
+        "id": "SID0310873",
+        "begin": "2026-08-01T03:00:00.000Z",
+        "broadcast": "R/2026-08-01T03:00:00.000Z/P7D"
       }
     ]
   }

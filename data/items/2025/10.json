@@ -401,7 +401,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/258579"
+        "id": "tv/258579/season/1/episode/14"
       },
       {
         "site": "mal",
@@ -452,7 +452,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/259140"
+        "id": "tv/259140/season/1/episode/13"
       },
       {
         "site": "unext",
@@ -1071,7 +1071,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/218493"
+        "id": "tv/218493/season/1/episode/13"
       },
       {
         "site": "mal",
@@ -1483,7 +1483,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/213402"
+        "id": "tv/213402/season/1/episode/13"
       },
       {
         "site": "mal",
@@ -3093,7 +3093,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/221165"
+        "id": "tv/221165/season/1/episode/25"
       },
       {
         "site": "mikan",
@@ -4918,6 +4918,10 @@
       {
         "site": "aniList",
         "id": "182531"
+      },
+      {
+        "site": "anidb",
+        "id": "19533"
       }
     ]
   },
@@ -5324,7 +5328,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/262700"
+        "id": "tv/262700/season/1/episode/14"
       },
       {
         "site": "ani_one",
@@ -5740,7 +5744,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/246676"
+        "id": "tv/246676/season/1/episode/39"
       },
       {
         "site": "mal",
@@ -6700,6 +6704,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "IDOLiSH7-偶像星愿- 剧场总集篇 前篇"
+      ],
+      "zh-Hant": [
+        "IDOLiSH7 - 偶像星願 - First BEAT！ 劇場版總集篇 前篇"
       ]
     },
     "type": "movie",
@@ -6725,6 +6732,18 @@
         "id": "SID0308923",
         "begin": "2026-07-28T15:00:00.000Z",
         "broadcast": "R/2026-07-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "153473",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "153473",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }
