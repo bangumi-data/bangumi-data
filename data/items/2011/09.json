@@ -228,8 +228,8 @@
       {
         "site": "unext",
         "id": "SID0017594",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-10-10T03:00:00.000Z",
+        "broadcast": "R/2024-10-10T03:00:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -328,6 +328,18 @@
       {
         "site": "tmdb",
         "id": "movie/179932"
+      },
+      {
+        "site": "danime",
+        "id": "29159",
+        "begin": "2026-07-31T15:00:00.000Z",
+        "broadcast": "R/2026-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016005",
+        "begin": "2026-08-01T03:00:00.000Z",
+        "broadcast": "R/2026-08-01T03:00:00.000Z/P7D"
       }
     ]
   },

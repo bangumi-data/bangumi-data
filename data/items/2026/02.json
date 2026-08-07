@@ -396,5 +396,46 @@
         "broadcast": "R/2026-07-21T16:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "劇場版 僕の心のヤバイやつ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 我心里危险的东西"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://bokuyaba-anime-movie.com/",
+    "begin": "2026-02-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-02-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "515869"
+      },
+      {
+        "site": "mikan",
+        "id": "4051"
+      },
+      {
+        "site": "mal",
+        "id": "59985"
+      },
+      {
+        "site": "aniList",
+        "id": "182317"
+      },
+      {
+        "site": "anidb",
+        "id": "18890"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1363979"
+      }
+    ]
   }
 ]

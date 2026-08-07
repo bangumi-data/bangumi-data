@@ -852,7 +852,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/240411"
+        "id": "tv/240411/season/1/episode/13"
       },
       {
         "site": "mal",
@@ -954,7 +954,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/123249"
+        "id": "tv/123249/season/1/episode/13"
       },
       {
         "site": "mal",
@@ -1167,7 +1167,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/213830"
+        "id": "tv/213830/season/1/episode/13"
       },
       {
         "site": "mal",
@@ -1610,7 +1610,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/207468"
+        "id": "tv/207468/season/1/episode/13"
       },
       {
         "site": "mal",
@@ -2392,7 +2392,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/241811"
+        "id": "tv/241811/season/1/episode/13"
       },
       {
         "site": "mal",
@@ -3739,7 +3739,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/95269/season/2"
+        "id": "tv/95269/season/2/episode/13"
       },
       {
         "site": "mal",
@@ -4195,6 +4195,18 @@
       {
         "site": "aniList",
         "id": "169420"
+      },
+      {
+        "site": "unext",
+        "id": "SID0201732",
+        "begin": "2026-07-31T15:00:00.000Z",
+        "broadcast": "R/2026-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "29144",
+        "begin": "2026-07-31T15:00:00.000Z",
+        "broadcast": "R/2026-07-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -5453,6 +5465,10 @@
       {
         "site": "aniList",
         "id": "186789"
+      },
+      {
+        "site": "anidb",
+        "id": "19163"
       }
     ]
   },
@@ -5639,6 +5655,10 @@
       {
         "site": "aniList",
         "id": "193607"
+      },
+      {
+        "site": "anidb",
+        "id": "19353"
       }
     ]
   },
@@ -5916,7 +5936,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/96316"
+        "id": "tv/96316/season/1/episode/37"
       },
       {
         "site": "mal",
@@ -6104,7 +6124,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/207332"
+        "id": "tv/207332/season/1/episode/12"
       },
       {
         "site": "mal",
@@ -6314,7 +6334,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/227810"
+        "id": "tv/227810/season/1/episode/26"
       },
       {
         "site": "mal",
@@ -6917,6 +6937,12 @@
         "begin": "2026-07-28T15:00:28.000Z",
         "broadcast": "R/2026-07-28T15:00:28.000Z/P7D",
         "comment": "粵語版: 3243191"
+      },
+      {
+        "site": "netflix",
+        "id": "82723106",
+        "begin": "2026-07-27T16:00:00.000Z",
+        "broadcast": "R/2026-07-27T16:00:00.000Z/P7D"
       }
     ]
   }
