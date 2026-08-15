@@ -1137,5 +1137,67 @@
         "id": "7827"
       }
     ]
+  },
+  {
+    "title": "Blue Remains",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.dmf.co.jp/blueremains",
+    "begin": "2001-07-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2001-07-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "138692"
+      },
+      {
+        "site": "mal",
+        "id": "4733"
+      },
+      {
+        "site": "anidb",
+        "id": "2627"
+      }
+    ]
+  },
+  {
+    "title": "アリーテ姫",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阿莱蒂公主"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.arete.jp/arete/index.html",
+    "begin": "2001-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2001-07-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "12282"
+      },
+      {
+        "site": "mal",
+        "id": "1028"
+      },
+      {
+        "site": "anidb",
+        "id": "1190"
+      },
+      {
+        "site": "aniList",
+        "id": "1028"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/59297"
+      }
+    ]
   }
 ]

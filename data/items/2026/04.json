@@ -7103,5 +7103,30 @@
         "id": "tv/96117/season/1/episode/124"
       }
     ]
+  },
+  {
+    "title": "KILLTUBE",
+    "titleTranslate": {
+      "en": [
+        "Killtube"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://killtu.be/",
+    "begin": "2026-03-31T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-03-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "489223"
+      },
+      {
+        "site": "mal",
+        "id": "58756"
+      }
+    ]
   }
 ]

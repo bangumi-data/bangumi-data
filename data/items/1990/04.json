@@ -326,5 +326,63 @@
         "id": "20243"
       }
     ]
+  },
+  {
+    "title": "ヘヴィ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "重拳出击"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-04-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-04-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "100479"
+      },
+      {
+        "site": "mal",
+        "id": "10964"
+      },
+      {
+        "site": "anidb",
+        "id": "5230"
+      }
+    ]
+  },
+  {
+    "title": "走れ!白いオオカミ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "奔跑吧!白狼"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-04-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-04-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "100492"
+      },
+      {
+        "site": "mal",
+        "id": "5936"
+      },
+      {
+        "site": "anidb",
+        "id": "3189"
+      }
+    ]
   }
 ]

@@ -437,5 +437,41 @@
         "id": "movie/1363979"
       }
     ]
+  },
+  {
+    "title": "映画ドラえもん 新・のび太の海底鬼岩城",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦:新・大雄的海底鬼岩城"
+      ],
+      "en": [
+        "Doraemon Movie 45: Shin Nobita no Kaitei Kiganjou"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://doraeiga.com/2026/",
+    "begin": "2026-02-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-02-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "583519"
+      },
+      {
+        "site": "mal",
+        "id": "62508"
+      },
+      {
+        "site": "aniList",
+        "id": "198368"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1542261"
+      }
+    ]
   }
 ]

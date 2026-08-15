@@ -151,5 +151,74 @@
         "id": "movie/1675042"
       }
     ]
+  },
+  {
+    "title": "劇場版 魔法科高校の劣等生 四葉継承編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 魔法科高校的劣等生 四叶继承篇"
+      ],
+      "en": [
+        "Mahouka Koukou no Rettousei Movie: Yotsuba Keishou-hen"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://mahouka.jp/yotsuba/",
+    "begin": "2026-05-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-05-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "501729"
+      },
+      {
+        "site": "mal",
+        "id": "59174"
+      },
+      {
+        "site": "anidb",
+        "id": "18720"
+      },
+      {
+        "site": "aniList",
+        "id": "178707"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1310387"
+      }
+    ]
+  },
+  {
+    "title": "機動警察パトレイバー EZY File 1",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动警察 EZY 第一章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://ezy.patlabor.tokyo",
+    "begin": "2026-05-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-05-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "217071"
+      },
+      {
+        "site": "mal",
+        "id": "59889"
+      },
+      {
+        "site": "anidb",
+        "id": "13226"
+      }
+    ]
   }
 ]

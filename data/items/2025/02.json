@@ -336,5 +336,58 @@
         "broadcast": "R/2026-02-06T04:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "映画 ヒプノシスマイク -Division Rap Battle-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 催眠麦克风"
+      ],
+      "en": [
+        "Hypnosis Mic: Division Rap Battle Movie"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://hypnosismic-movie.com/",
+    "begin": "2025-02-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-02-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "523821"
+      },
+      {
+        "site": "mal",
+        "id": "60273"
+      },
+      {
+        "site": "anidb",
+        "id": "19076"
+      }
+    ]
+  },
+  {
+    "title": "親鸞 人生の目的",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://shinran-life-movie.jp/",
+    "begin": "2025-02-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-02-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "511571"
+      },
+      {
+        "site": "mal",
+        "id": "59729"
+      }
+    ]
   }
 ]

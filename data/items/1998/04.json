@@ -1385,5 +1385,63 @@
         "broadcast": "R/2023-02-01T03:00:00.000Z/P7D"
       }
     ]
+  },
+  {
+    "title": "魔法阿媽",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法阿妈"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://mofaama.com/",
+    "begin": "1998-04-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1998-04-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "54579"
+      },
+      {
+        "site": "mal",
+        "id": "10149"
+      },
+      {
+        "site": "anidb",
+        "id": "8426"
+      }
+    ]
+  },
+  {
+    "title": "MAZE☆爆熱時空 天変脅威の大巨人",
+    "titleTranslate": {
+      "zh-Hans": [
+        "爆热时空 天变威胁的大巨人"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1998-04-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1998-04-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "280842"
+      },
+      {
+        "site": "mal",
+        "id": "8442"
+      },
+      {
+        "site": "anidb",
+        "id": "3374"
+      }
+    ]
   }
 ]

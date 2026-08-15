@@ -123,5 +123,34 @@
         "id": "movie/1023542"
       }
     ]
+  },
+  {
+    "title": "ギルステイン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "兽星记基尔斯汀"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-06-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2002-06-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "158789"
+      },
+      {
+        "site": "mal",
+        "id": "11995"
+      },
+      {
+        "site": "anidb",
+        "id": "1855"
+      }
+    ]
   }
 ]

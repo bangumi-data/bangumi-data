@@ -5476,5 +5476,37 @@
         "id": "movie/1021679"
       }
     ]
+  },
+  {
+    "title": "メイクアガール",
+    "titleTranslate": {
+      "zh-Hans": [
+        "伊人制造"
+      ],
+      "en": [
+        "Make a Girl"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://make-a-girl.com/",
+    "begin": "2025-01-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-01-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "398556"
+      },
+      {
+        "site": "mal",
+        "id": "54740"
+      },
+      {
+        "site": "anidb",
+        "id": "18460"
+      }
+    ]
   }
 ]
