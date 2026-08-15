@@ -651,15 +651,17 @@
       },
       {
         "site": "ani_one",
-        "id": "PLC18xlbCdwtR1Jvy3yWXqHYZqVbfpACyF",
-        "begin": "",
-        "broadcast": ""
+        "id": "PLWt6quvyLgAI",
+        "begin": "2026-08-16T13:00:06.000Z",
+        "broadcast": "R/2026-08-16T13:00:06.000Z/P7D",
+        "comment": "Ani-One ULTRA: PLC18xlbCdwtR1Jvy3yWXqHYZqVbfpACyF"
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7JjhVqkAt1bFMDpgrRsby7Z_",
-        "begin": "",
-        "broadcast": ""
+        "id": "PLC2PAbftnNp8",
+        "begin": "2026-08-16T13:00:07.000Z",
+        "broadcast": "R/2026-08-16T13:00:07.000Z/P7D",
+        "comment": "Ani-One ULTRA: PLxSscENEp7JjhVqkAt1bFMDpgrRsby7Z_"
       },
       {
         "site": "danime",
@@ -7074,7 +7076,7 @@
     ]
   },
   {
-    "title": "おしりたんてい 第10シリーズ",
+    "title": "おしりたんてい(第10シリーズ)",
     "titleTranslate": {
       "zh-Hans": [
         "屁屁侦探 第十季"
@@ -7126,6 +7128,14 @@
       {
         "site": "mal",
         "id": "58756"
+      },
+      {
+        "site": "anidb",
+        "id": "19450"
+      },
+      {
+        "site": "aniList",
+        "id": "176910"
       }
     ]
   }
