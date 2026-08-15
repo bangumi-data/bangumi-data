@@ -342,5 +342,34 @@
         "id": "7330"
       }
     ]
+  },
+  {
+    "title": "アテルイ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阿弖流为"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.cinema-tohoku.co.jp/movie/aterui/index.html",
+    "begin": "2002-12-01T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2002-12-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "318344"
+      },
+      {
+        "site": "mal",
+        "id": "23523"
+      },
+      {
+        "site": "anidb",
+        "id": "8509"
+      }
+    ]
   }
 ]

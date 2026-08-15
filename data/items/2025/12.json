@@ -432,5 +432,34 @@
         "broadcast": ""
       }
     ]
+  },
+  {
+    "title": "ペリリュー -楽園のゲルニカ-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "贝里琉岛 -乐园的格尔尼卡"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://peleliu-movie.jp/",
+    "begin": "2025-12-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-12-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "332677"
+      },
+      {
+        "site": "mal",
+        "id": "48701"
+      },
+      {
+        "site": "anidb",
+        "id": "16193"
+      }
+    ]
   }
 ]

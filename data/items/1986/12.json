@@ -297,5 +297,59 @@
         "id": "3279"
       }
     ]
+  },
+  {
+    "title": "GREY デジタル・ターゲット",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-12-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1986-12-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "108294"
+      },
+      {
+        "site": "mal",
+        "id": "2423"
+      },
+      {
+        "site": "anidb",
+        "id": "1515"
+      }
+    ]
+  },
+  {
+    "title": "火の鳥 鳳凰編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "火之鸟 凤凰篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-12-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1986-12-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "40935"
+      },
+      {
+        "site": "mal",
+        "id": "2997"
+      },
+      {
+        "site": "anidb",
+        "id": "2629"
+      }
+    ]
   }
 ]

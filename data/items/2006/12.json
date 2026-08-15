@@ -507,5 +507,66 @@
         "id": "7547"
       }
     ]
+  },
+  {
+    "title": "劇場版 どうぶつの森",
+    "titleTranslate": {
+      "zh-Hans": [
+        "动物之森"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2006-12-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2006-12-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "2905"
+      },
+      {
+        "site": "mal",
+        "id": "2950"
+      },
+      {
+        "site": "anidb",
+        "id": "4590"
+      }
+    ]
+  },
+  {
+    "title": "TOKYO LOOP",
+    "titleTranslate": {
+      "zh-Hans": [
+        "回转东京"
+      ],
+      "en": [
+        "Tokyo Loop"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.imageforum.co.jp/tokyoloop/",
+    "begin": "2006-12-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2006-12-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "189665"
+      },
+      {
+        "site": "mal",
+        "id": "4761"
+      },
+      {
+        "site": "anidb",
+        "id": "8744"
+      }
+    ]
   }
 ]
