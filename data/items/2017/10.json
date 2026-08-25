@@ -635,6 +635,12 @@
         "id": "PL12UaAf_xzfrdrmSr6UPtiXEtEXOymBUx",
         "begin": "2026-06-08T13:00:06.000Z",
         "broadcast": "R/2026-06-08T13:00:06.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLQ22ENDM45hQ",
+        "begin": "2026-08-11T13:00:06.000Z",
+        "broadcast": "R/2026-08-11T13:00:06.000Z/P7D"
       }
     ]
   },
@@ -1098,6 +1104,12 @@
       {
         "site": "aniList",
         "id": "99420"
+      },
+      {
+        "site": "abema",
+        "id": "25-78",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4971,6 +4983,10 @@
       {
         "site": "anidb",
         "id": "13016"
+      },
+      {
+        "site": "aniList",
+        "id": "98998"
       }
     ]
   }

@@ -174,6 +174,10 @@ declare interface Item {
 
 type SiteList =
     | "bangumi"
+    | "tmdb"
+    | "anidb"
+    | "aniList"
+    | "mal"
     | "acfun"
     | "bilibili"
     | "bilibili_hk_mo_tw"
@@ -197,8 +201,12 @@ type SiteList =
     | "disneyplus"
     | "abema"
     | "unext"
+    | "crunchyroll"
+    | "danime"
     | "tropics"
     | "prime"
+    | "youtube"
+    | "mighty"
     | "dmhy"
     | "mikan"
     | "bangumi_moe";
