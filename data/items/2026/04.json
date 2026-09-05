@@ -7072,6 +7072,10 @@
       {
         "site": "aniList",
         "id": "204269"
+      },
+      {
+        "site": "mikan",
+        "id": "3978"
       }
     ]
   },
@@ -7136,6 +7140,45 @@
       {
         "site": "aniList",
         "id": "176910"
+      }
+    ]
+  },
+  {
+    "title": "最終楽章 響け！ユーフォニアム 前編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "最终乐章 吹响吧！上低音号 前篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://anime-eupho.com/",
+    "begin": "2026-04-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-04-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "544816"
+      },
+      {
+        "site": "unext",
+        "id": "SID0315530",
+        "begin": "2026-09-04T03:00:00.000Z",
+        "broadcast": "R/2026-09-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "anime-eupho-movie2026",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "29201",
+        "begin": "2026-09-04T03:00:00.000Z",
+        "broadcast": "R/2026-09-04T03:00:00.000Z/P7D"
       }
     ]
   }

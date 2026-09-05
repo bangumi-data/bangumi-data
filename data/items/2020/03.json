@@ -192,6 +192,12 @@
       {
         "site": "tmdb",
         "id": "tv/118443"
+      },
+      {
+        "site": "abema",
+        "id": "199-56",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -577,6 +583,42 @@
       {
         "site": "aniList",
         "id": "110445"
+      }
+    ]
+  },
+  {
+    "title": "忍たま乱太郎 第28シリーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者乱太郎 第28季"
+      ],
+      "zh-Hant": [
+        "忍者亂太郎 第 28 季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.nhk.or.jp/anime/nintama/",
+    "begin": "2020-03-29T16:00:00.000Z",
+    "broadcast": "R/2020-03-29T16:00:00.000Z/P7D",
+    "end": "2021-01-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "303902"
+      },
+      {
+        "site": "gamer",
+        "id": "153615",
+        "begin": "2026-08-17T02:00:00.000Z",
+        "broadcast": "R/2026-08-17T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "153615",
+        "begin": "2026-08-17T02:00:00.000Z",
+        "broadcast": "R/2026-08-17T02:00:00.000Z/P7D"
       }
     ]
   }

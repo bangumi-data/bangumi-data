@@ -259,6 +259,9 @@
         "魔炮ViVid",
         "魔炮V"
       ],
+      "zh-Hant": [
+        "魔法少女奈葉 ViVid"
+      ],
       "en": [
         "Magical Girl Lyrical Nanoha ViVid"
       ]
@@ -336,6 +339,18 @@
       {
         "site": "aniList",
         "id": "20820"
+      },
+      {
+        "site": "gamer",
+        "id": "72190",
+        "begin": "2026-08-19T04:00:00.000Z",
+        "broadcast": "R/2026-08-19T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "72190",
+        "begin": "2026-08-19T04:00:00.000Z",
+        "broadcast": "R/2026-08-19T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -4850,6 +4865,12 @@
         "id": "28958",
         "begin": "2026-06-30T15:00:00.000Z",
         "broadcast": "R/2026-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80242795",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

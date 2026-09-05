@@ -347,5 +347,32 @@
         "id": "movie/345380"
       }
     ]
+  },
+  {
+    "title": "カメレオン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "变色龙"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-08-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1996-03-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "161771"
+      },
+      {
+        "site": "danime",
+        "id": "29199",
+        "begin": "2026-08-31T15:00:00.000Z",
+        "broadcast": "R/2026-08-31T15:00:00.000Z/P7D"
+      }
+    ]
   }
 ]
