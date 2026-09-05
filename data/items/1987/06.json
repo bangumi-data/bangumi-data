@@ -97,5 +97,40 @@
         "id": "tv/9704"
       }
     ]
+  },
+  {
+    "title": "ブラックマジック M-66",
+    "titleTranslate": {
+      "zh-Hans": [
+        "黑色魔法 M-66",
+        "暴走机甲",
+        "黑魔术 M-66"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-06-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1987-06-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "27088"
+      },
+      {
+        "site": "danime",
+        "id": "29202",
+        "begin": "2026-08-31T15:00:00.000Z",
+        "broadcast": "R/2026-08-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016664",
+        "begin": "2026-08-31T15:00:00.000Z",
+        "broadcast": "R/2026-08-31T15:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

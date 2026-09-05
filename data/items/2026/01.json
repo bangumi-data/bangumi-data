@@ -6091,6 +6091,50 @@
       {
         "site": "tmdb",
         "id": "movie/1461201"
+      },
+      {
+        "site": "unext",
+        "id": "SID0312128",
+        "begin": "2026-08-12T03:00:00.000Z",
+        "broadcast": "R/2026-08-12T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
+        "机动战士高达 闪光的哈萨维 布莱德之子"
+      ],
+      "zh-Hant": [
+        "機動戰士高達 閃光之凱薩衛 瑟茜的魔女",
+        "機動戰士鋼彈 閃光的哈薩威 喀耳刻的魔女"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.gundam.info/feature/hathaway/",
+    "begin": "2026-01-29T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-01-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "243430"
+      },
+      {
+        "site": "netflix",
+        "id": "82854665",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0H961RVMK",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }
