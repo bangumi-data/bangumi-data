@@ -2839,7 +2839,8 @@
         "AnneHappy♪"
       ],
       "en": [
-        "unhappy go lucky!"
+        "unhappy go lucky!",
+        "Anne-Happy"
       ],
       "zh-Hant": [
         "Anne Happy",
@@ -2929,6 +2930,12 @@
         "id": "SID0022991",
         "begin": "2026-05-31T15:00:00.000Z",
         "broadcast": "R/2026-05-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYWE2J9JY",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3593,6 +3600,12 @@
       {
         "site": "tmdb",
         "id": "tv/66149"
+      },
+      {
+        "site": "abema",
+        "id": "199-60",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
