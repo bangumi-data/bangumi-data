@@ -5122,6 +5122,12 @@
       {
         "site": "bangumi_moe",
         "id": "6a715389b56eb30ad03fd501"
+      },
+      {
+        "site": "prime",
+        "id": "B0H6WVZ6DC",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -6746,6 +6752,60 @@
       {
         "site": "mikan",
         "id": "4048"
+      }
+    ]
+  },
+  {
+    "title": "SEALOOK 2nd season",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.tv-tokyo.co.jp/anime/sealook/",
+    "begin": "2026-07-23T16:00:00.000Z",
+    "broadcast": "R/2026-07-23T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "679732"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sealook2",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "パンの赤ちゃん",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.ktv.jp/pan-aka-tv/",
+    "begin": "2026-07-03T16:00:00.000Z",
+    "broadcast": "R/2026-07-03T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "651872"
+      },
+      {
+        "site": "danime",
+        "id": "29177",
+        "begin": "2026-08-25T15:00:00.000Z",
+        "broadcast": "R/2026-08-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "aniList",
+        "id": "212308"
+      },
+      {
+        "site": "mal",
+        "id": "64210"
       }
     ]
   }

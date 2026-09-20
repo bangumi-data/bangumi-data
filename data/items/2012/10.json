@@ -256,7 +256,8 @@
         "site": "danime",
         "id": "20431",
         "begin": "2025-07-31T15:00:00.000Z",
-        "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
+        "broadcast": "R/2025-07-31T15:00:00.000Z/P7D",
+        "comment": "OVA: 29198"
       },
       {
         "site": "tmdb",
@@ -2917,6 +2918,12 @@
       {
         "site": "aniList",
         "id": "11979"
+      },
+      {
+        "site": "prime",
+        "id": "B0GZ7PWKWB",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

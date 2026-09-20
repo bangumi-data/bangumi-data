@@ -554,5 +554,54 @@
         "id": "15815"
       }
     ]
+  },
+  {
+    "title": "鬼公子炎魔",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鬼公子炎魔"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.k-enma.com/",
+    "begin": "2006-08-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2007-03-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "7654"
+      },
+      {
+        "site": "danime",
+        "id": "29214",
+        "begin": "2026-09-17T15:00:00.000Z",
+        "broadcast": "R/2026-09-17T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014446",
+        "begin": "2026-09-17T15:00:00.000Z",
+        "broadcast": "R/2026-09-17T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "1556"
+      },
+      {
+        "site": "aniList",
+        "id": "1556"
+      },
+      {
+        "site": "anidb",
+        "id": "4411"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67580"
+      }
+    ]
   }
 ]

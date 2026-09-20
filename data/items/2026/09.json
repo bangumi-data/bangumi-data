@@ -1,20 +1,24 @@
 [
   {
-    "title": "怪獣8号 鳴海の平日",
+    "title": "鳴海の平日",
     "titleTranslate": {
       "zh-Hans": [
+        "怪兽8号 鸣海的平日",
         "怪兽8号 鸣海的日常"
       ],
       "zh-Hant": [
         "怪獸8號 鳴海的平日",
         "怪獸 8 號 原創短篇動畫 鳴海的平日"
+      ],
+      "en": [
+        "Kaiju No. 8: Narumi's Week at Work"
       ]
     },
     "type": "web",
     "lang": "ja",
     "officialSite": "https://kaiju-no8.net/",
-    "begin": "2026-09-04T16:00:00.000Z",
-    "broadcast": "",
+    "begin": "2026-09-05T12:00:00.000Z",
+    "broadcast": "R/2026-09-05T12:00:00.000Z/P7D",
     "end": "",
     "comment": "",
     "sites": [
@@ -49,14 +53,59 @@
       {
         "site": "unext",
         "id": "SID0305865",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-09-05T11:00:00.000Z",
+        "broadcast": "R/2026-09-05T11:00:00.000Z/P7D"
       },
       {
         "site": "danime",
         "id": "29218",
         "begin": "2026-09-05T11:00:00.000Z",
         "broadcast": "R/2026-09-05T11:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/207468/season/0/episode/33"
+      },
+      {
+        "site": "prime",
+        "id": "B0HG3MGQXK",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "19-299",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "ごーすと・みーつ・ぎゃる！",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://cf-vanguard.com/anime-ghost_meets_gal/",
+    "begin": "2026-09-04T16:00:00.000Z",
+    "broadcast": "R/2026-09-04T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "675448"
+      },
+      {
+        "site": "danime",
+        "id": "29204",
+        "begin": "2026-09-12T00:00:00.000Z",
+        "broadcast": "R/2026-09-12T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0316467",
+        "begin": "2026-09-12T00:00:00.000Z",
+        "broadcast": "R/2026-09-12T00:00:00.000Z/P7D"
       }
     ]
   }
