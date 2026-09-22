@@ -10,5 +10,13 @@
   "bangumi_moe": {
     "title": "萌番组",
     "urlTemplate": "https://bangumi.moe/search/{{id}}"
+  },
+  "anibt": {
+    "title": "AniBT",
+    "urlTemplate": "https://anibt.net/anime/{{id}}"
+  },
+  "acgnx": {
+    "title": "末日动漫资源库",
+    "urlTemplate": "https://share.acgnx.cc/search.php?keyword={{id}}"
   }
 }
