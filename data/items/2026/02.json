@@ -182,7 +182,7 @@
     },
     "type": "web",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "https://www.shopro.co.jp/anime/duelmasters_lost/",
     "begin": "2026-02-05T16:00:00.000Z",
     "broadcast": "R/2026-02-05T16:00:00.000Z/P7D",
     "end": "2026-03-05T16:00:00.000Z",
@@ -382,7 +382,11 @@
         "剧场版 关于我转生变成史莱姆这档事 苍海之泪篇"
       ],
       "zh-Hant": [
-        "劇場版 關於我轉生變成史萊姆這檔事 蒼海之淚篇"
+        "劇場版 關於我轉生變成史萊姆這檔事 蒼海之淚篇",
+        "關於我轉生變成史萊姆這檔事劇場版：蒼海之淚篇"
+      ],
+      "en": [
+        "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea"
       ]
     },
     "type": "movie",
@@ -444,6 +448,12 @@
       {
         "site": "anibt",
         "id": "515595"
+      },
+      {
+        "site": "netflix",
+        "id": "83134736",
+        "begin": "2026-09-19T16:00:00.000Z",
+        "broadcast": "R/2026-09-19T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -533,6 +543,10 @@
       {
         "site": "anibt",
         "id": "583519"
+      },
+      {
+        "site": "anidb",
+        "id": "19711"
       }
     ]
   },
@@ -578,6 +592,73 @@
       {
         "site": "anibt",
         "id": "578766"
+      }
+    ]
+  },
+  {
+    "title": "時光代理人 -LINK CLICK- 英都篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "时光代理人 英都篇"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://link-click.jp/",
+    "begin": "2026-02-04T16:20:00.000Z",
+    "broadcast": "R/2026-02-04T16:20:00.000Z/P7D",
+    "end": "2026-03-25T16:20:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "456165"
+      },
+      {
+        "site": "unext",
+        "id": "SID0251575",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "link-click3",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/123542/season/3"
+      },
+      {
+        "site": "mal",
+        "id": "56752"
+      },
+      {
+        "site": "anidb",
+        "id": "19078"
+      },
+      {
+        "site": "aniList",
+        "id": "170166"
+      },
+      {
+        "site": "danime",
+        "id": "28629",
+        "begin": "2026-02-04T16:50:00.000Z",
+        "broadcast": "R/2026-02-04T16:50:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0GKCDM9C3",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GP5HJ8E81",
+        "begin": "2021-04-30T00:00:00.000Z",
+        "broadcast": "R/2021-04-30T00:00:00.000Z/P7D"
       }
     ]
   }

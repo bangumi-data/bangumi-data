@@ -250,5 +250,40 @@
         "id": "217071"
       }
     ]
+  },
+  {
+    "title": "劇場版 モノノ怪 蛇神",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 物怪 蛇神",
+        "剧场版 物怪 第三章",
+        "剧场版 物怪 第三章 蛇神"
+      ],
+      "zh-Hant": [
+        "劇場版物怪：第 3 章：蛇神"
+      ],
+      "en": [
+        "Mononoke The Movie: Chapter Ⅲ - The Curse of the Serpent"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.mononoke-movie.com/",
+    "begin": "2026-05-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-05-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "505562"
+      },
+      {
+        "site": "netflix",
+        "id": "82012956",
+        "begin": "2026-09-28T16:00:00.000Z",
+        "broadcast": "R/2026-09-28T16:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

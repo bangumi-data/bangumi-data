@@ -76,6 +76,9 @@
       ],
       "zh-Hant": [
         "歡迎光臨流放者食堂！"
+      ],
+      "en": [
+        "Welcome to the Outcast's Restaurant!"
       ]
     },
     "type": "tv",
@@ -141,12 +144,6 @@
         "broadcast": "R/2025-07-03T14:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "168-74",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/286723"
       },
@@ -173,6 +170,12 @@
       {
         "site": "dmhy",
         "id": "歡迎 光臨 食堂"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GEXH3W2E9",
+        "begin": "2025-07-03T00:00:00.000Z",
+        "broadcast": "R/2025-07-03T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -214,12 +217,6 @@
         "id": "SID0200156",
         "begin": "2025-07-04T15:00:00.000Z",
         "broadcast": "R/2025-07-04T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "26-248",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bangumi_moe",
@@ -288,12 +285,6 @@
         "id": "179966"
       },
       {
-        "site": "netflix",
-        "id": "82081970",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "acgnx",
         "id": "Silent Witch"
       },
@@ -304,6 +295,12 @@
       {
         "site": "dmhy",
         "id": "Silent Witch"
+      },
+      {
+        "site": "netflix",
+        "id": "82081970",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -574,12 +571,6 @@
         "id": "502272"
       },
       {
-        "site": "abema",
-        "id": "26-251",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bangumi_moe",
         "id": "6862b06adffbea3b3f911b35"
       },
@@ -697,12 +688,6 @@
         "broadcast": ""
       },
       {
-        "site": "abema",
-        "id": "26-249",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bangumi_moe",
         "id": "6862b060dffbea3b3f911b03"
       },
@@ -805,12 +790,6 @@
         "broadcast": "R/2025-07-11T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "25-294",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "nicovideo",
         "id": "gacen-girl-anime",
         "begin": "",
@@ -885,8 +864,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://anime-dandadan.com/",
-    "begin": "2025-07-04T13:30:00.000Z",
-    "broadcast": "R/2025-07-04T13:30:00.000Z/P7D",
+    "begin": "2025-07-03T15:26:00.000Z",
+    "broadcast": "R/2025-07-03T15:26:00.000Z/P7D",
     "end": "2025-09-18T17:04:00.000Z",
     "comment": "",
     "sites": [
@@ -947,10 +926,11 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfpaQuLtQo09cA9wIwtq98KN",
+        "id": "PLZjJCG7r29gg",
+        "url": "https://www.youtube.com/show/VLPLZjJCG7r29gg?season=2&sbp=CgEyGgAqC25pdWxQblc0QkJzQAFKDVBTV1c1c1VJdS1fWTg%253D",
         "begin": "2026-05-02T13:30:06.000Z",
         "broadcast": "R/2026-05-02T13:30:06.000Z/P7D",
-        "comment": "國語: PL12UaAf_xzfqJvtj8Av-QtUOPzNy7Jfpn"
+        "comment": "國語: https://www.youtube.com/show/VLPLbGR5EioXnhc?season=2&sbp=CgEyGgAqC3dlMDRrVTl4a3RZQAFKDVBTUHBLUzAzamRFcWM%253D"
       },
       {
         "site": "tmdb",
@@ -1253,7 +1233,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfqbmv2YpVr8gHkKjCB7JxoG",
+        "id": "PLIt1_LwCg3No",
+        "url": "https://www.youtube.com/show/VLPLIt1_LwCg3No?season=2&sbp=CgEyGgAqC2ZUazBtYzk0NmRrQAFKDVBTV0xBYThXNUhDMEU%253D",
         "begin": "2025-07-09T15:30:06.000Z",
         "broadcast": "R/2025-07-09T15:30:06.000Z/P7D"
       },
@@ -1278,12 +1259,6 @@
         "id": "PLuxqoToY7UciD1TTNJXH0FTl5G8nEt42h",
         "begin": "2025-07-09T15:30:06.000Z",
         "broadcast": "R/2025-07-09T15:30:06.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "420-66",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "netflix",
@@ -1474,12 +1449,6 @@
         "id": "SID0200179",
         "begin": "2025-07-10T13:00:00.000Z",
         "broadcast": "R/2025-07-10T13:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "168-75",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bangumi_moe",
@@ -1860,12 +1829,6 @@
         "comment": "ディレクターズカット版, オンエア版: SID0200144"
       },
       {
-        "site": "abema",
-        "id": "25-295",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "danime",
         "id": "28112",
         "begin": "2025-07-03T15:30:00.000Z",
@@ -1973,12 +1936,6 @@
         "broadcast": "R/2025-07-04T17:30:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "564-15",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tropics",
         "id": "PLoGVqODys23Bj7gBaewwdrW87lXr6kigR",
         "begin": "2025-07-04T17:30:06.000Z",
@@ -2068,8 +2025,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://turkey-project.com/",
-    "begin": "2025-07-08T16:29:00.000Z",
-    "broadcast": "R/2025-07-08T16:29:00.000Z/P7D",
+    "begin": "2025-07-08T16:35:00.000Z",
+    "broadcast": "R/2025-07-08T16:35:00.000Z/P7D",
     "end": "2025-09-23T17:05:00.000Z",
     "comment": "",
     "sites": [
@@ -2088,12 +2045,6 @@
         "id": "SID0200135",
         "begin": "2025-07-08T17:30:00.000Z",
         "broadcast": "R/2025-07-08T17:30:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "189-82",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bangumi_moe",
@@ -2304,12 +2255,6 @@
         "broadcast": ""
       },
       {
-        "site": "abema",
-        "id": "143-63",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "gamer_hk",
         "id": "128423",
         "begin": "2025-07-04T14:30:00.000Z",
@@ -2416,12 +2361,6 @@
         "id": "SID0200186",
         "begin": "2025-07-10T15:00:00.000Z",
         "broadcast": "R/2025-07-10T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "568-36",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bangumi_moe",
@@ -2536,12 +2475,6 @@
         "id": "SID0200155",
         "begin": "2025-07-01T14:30:00.000Z",
         "broadcast": "R/2025-07-01T14:30:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "506-7",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "mikan",
@@ -2899,12 +2832,6 @@
         "broadcast": "R/2025-07-02T17:15:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "248-25",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mikan",
         "id": "3682"
       },
@@ -2987,12 +2914,6 @@
         "id": "SID0200154",
         "begin": "2025-07-05T17:00:00.000Z",
         "broadcast": "R/2025-07-05T17:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "11-73",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bangumi_moe",
@@ -3337,12 +3258,6 @@
         "broadcast": "R/2025-07-12T16:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "26-250",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bangumi_moe",
         "id": "6862b073dffbea3b3f911b6b"
       },
@@ -3565,7 +3480,8 @@
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7JiIImQMFiu9H2lp2NZgcKk2",
+        "id": "PLBHP1nuBLHyg",
+        "url": "https://www.youtube.com/show/VLPLBHP1nuBLHyg?sbp=KgtFUTNmX1lnUUlHUUAB",
         "begin": "2025-07-02T11:30:06.000Z",
         "broadcast": "R/2025-07-02T11:30:06.000Z/P7D"
       },
@@ -3579,7 +3495,8 @@
       },
       {
         "site": "ani_one",
-        "id": "PLC18xlbCdwtRBh-g4zUg8HRvO6kC6v9e0",
+        "id": "PLQSQOwrGLmGw",
+        "url": "https://www.youtube.com/show/VLPLQSQOwrGLmGw?sbp=KgtVbWdBb3NXa3VmOEAB",
         "begin": "2025-07-02T11:30:06.000Z",
         "broadcast": "R/2025-07-02T11:30:06.000Z/P7D"
       },
@@ -3949,12 +3866,6 @@
         "broadcast": "R/2025-07-02T17:25:06.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "19-268",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mikan",
         "id": "3691"
       },
@@ -4033,8 +3944,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://badgirl-anime.com/",
-    "begin": "2025-07-05T16:00:00.000Z",
-    "broadcast": "R/2025-07-05T16:00:00.000Z/P7D",
+    "begin": "2025-07-05T15:30:00.000Z",
+    "broadcast": "R/2025-07-05T15:30:00.000Z/P7D",
     "end": "2025-09-20T16:00:00.000Z",
     "comment": "",
     "sites": [
@@ -4091,12 +4002,6 @@
         "id": "140226",
         "begin": "2025-07-05T15:30:00.000Z",
         "broadcast": "R/2025-07-05T15:30:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "115-122",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "prime",
@@ -4522,12 +4427,6 @@
         "id": "524593"
       },
       {
-        "site": "abema",
-        "id": "143-64",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "nicovideo",
         "id": "busamen-gachi-fighter",
         "begin": "",
@@ -4879,12 +4778,6 @@
         "id": "SID0200171",
         "begin": "2025-07-03T03:00:00.000Z",
         "broadcast": "R/2025-07-03T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "19-269",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",
@@ -5354,12 +5247,6 @@
         "broadcast": "R/2025-07-06T13:30:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "169-148",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bangumi_moe",
         "id": "6862b061dffbea3b3f911b05"
       },
@@ -5436,6 +5323,12 @@
       {
         "site": "dmhy",
         "id": "異世界默示錄"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G1XHJV0M7",
+        "begin": "2025-07-06T00:00:00.000Z",
+        "broadcast": "R/2025-07-06T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -5452,8 +5345,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://nine-anime.marv.jp/",
-    "begin": "2025-07-05T13:00:00.000Z",
-    "broadcast": "R/2025-07-05T13:00:00.000Z/P7D",
+    "begin": "2025-07-05T13:30:00.000Z",
+    "broadcast": "R/2025-07-05T13:30:00.000Z/P7D",
     "end": "2025-09-27T13:30:00.000Z",
     "comment": "",
     "sites": [
@@ -5472,12 +5365,6 @@
         "id": "SID0200162",
         "begin": "2025-07-05T13:30:00.000Z",
         "broadcast": "R/2025-07-05T13:30:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "171-26",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bangumi_moe",
@@ -5592,13 +5479,15 @@
       },
       {
         "site": "ani_one",
-        "id": "PLC18xlbCdwtQ-GmyngyfBiZiWnpKVcWRk",
+        "id": "PLF-gEpg4TVA0",
+        "url": "https://www.youtube.com/show/VLPLF-gEpg4TVA0?sbp=KgtyaUNYTU9SeHVlOEAB",
         "begin": "2025-07-06T15:45:06.000Z",
         "broadcast": "R/2025-07-06T15:45:06.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7JjWATZTieze6DkSUxWjo5dG",
+        "id": "PLIxzi3955LKI",
+        "url" : "https://www.youtube.com/show/VLPLIxzi3955LKI?season=1&sbp=CgExGgBAAUoNUFNLR0N0THZKNHhrOA%253D%253D",
         "begin": "2025-07-06T15:45:06.000Z",
         "broadcast": "R/2025-07-06T15:45:06.000Z/P7D"
       },
@@ -5697,12 +5586,6 @@
         "comment": "CENSORED版"
       },
       {
-        "site": "abema",
-        "id": "25-296",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bangumi_moe",
         "id": "6862b06bdffbea3b3f911b39"
       },
@@ -5787,12 +5670,6 @@
         "id": "SID0201746",
         "begin": "2025-07-04T23:30:00.000Z",
         "broadcast": "R/2025-07-04T23:30:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "283-30",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "mikan",
@@ -5901,8 +5778,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://boueibu.com/hc/",
-    "begin": "2025-07-07T14:00:00.000Z",
-    "broadcast": "R/2025-07-07T14:00:00.000Z/P7D",
+    "begin": "2025-07-07T13:00:00.000Z",
+    "broadcast": "R/2025-07-07T13:00:00.000Z/P7D",
     "end": "2025-09-22T13:30:00.000Z",
     "comment": "",
     "sites": [
@@ -5925,12 +5802,6 @@
       {
         "site": "bangumi_moe",
         "id": "6862b064dffbea3b3f911b17"
-      },
-      {
-        "site": "abema",
-        "id": "198-17",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",
@@ -6094,9 +5965,10 @@
       },
       {
         "site": "unext",
-        "id": "SID0200185",
+        "id": "SID0317668",
         "begin": "2025-07-04T15:00:00.000Z",
-        "broadcast": "R/2025-07-04T15:00:00.000Z/P7D"
+        "broadcast": "R/2025-07-04T15:00:00.000Z/P7D",
+        "comment": "完全デレギュラ版, TV版: SID0200185"
       },
       {
         "site": "gamer",
@@ -6109,12 +5981,6 @@
         "id": "28018",
         "begin": "2025-07-04T15:00:00.000Z",
         "broadcast": "R/2025-07-04T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "643-12",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "tmdb",
@@ -6303,12 +6169,6 @@
         "id": "560988"
       },
       {
-        "site": "nicovideo",
-        "id": "dekichaumade-anime",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mikan",
         "id": "3713"
       },
@@ -6323,12 +6183,6 @@
         "id": "28011",
         "begin": "2025-07-09T15:00:00.000Z",
         "broadcast": "R/2025-07-09T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "643-13",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "tmdb",
@@ -6376,8 +6230,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://animationid.com/kizudarakeseijo/",
-    "begin": "2025-07-12T17:43:00.000Z",
-    "broadcast": "R/2025-07-12T17:43:00.000Z/P7D",
+    "begin": "2025-07-09T15:30:00.000Z",
+    "broadcast": "R/2025-07-09T15:30:00.000Z/P7D",
     "end": "2025-09-24T15:45:00.000Z",
     "comment": "",
     "sites": [
@@ -6415,13 +6269,15 @@
       },
       {
         "site": "ani_one",
-        "id": "PLC18xlbCdwtTR3u91-ONVHu6tkYzK9J5U",
+        "id": "PLJdcbm_eKSwc",
+        "url": "https://www.youtube.com/show/VLPLJdcbm_eKSwc?sbp=KgtKbDcwa3hLbzZFNEAB",
         "begin": "2025-07-09T17:00:06.000Z",
         "broadcast": "R/2025-07-09T17:00:06.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7JgdtigZEkHGWkyyke6ozCHe",
+        "id": "PLcnM8O8NMtiU",
+        "url": "https://www.youtube.com/show/VLPLcnM8O8NMtiU?sbp=KgtDTHkwbmxNUGprc0AB",
         "begin": "2025-07-09T17:00:06.000Z",
         "broadcast": "R/2025-07-09T17:00:06.000Z/P7D"
       },
@@ -6602,9 +6458,9 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://kanokari-official.com/",
-    "begin": "2025-07-03T17:23:00.000Z",
-    "broadcast": "R/2025-07-03T17:23:00.000Z/P7D",
+    "officialSite": "https://kanokari-official.com/4th/",
+    "begin": "2025-07-04T17:23:00.000Z",
+    "broadcast": "R/2025-07-04T17:23:00.000Z/P7D",
     "end": "2025-09-19T18:30:00.000Z",
     "comment": "",
     "sites": [
@@ -6714,8 +6570,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://nube-anime.com/",
-    "begin": "2025-07-02T14:15:00.000Z",
-    "broadcast": "R/2025-07-02T14:15:00.000Z/P7D",
+    "begin": "2025-07-02T15:00:00.000Z",
+    "broadcast": "R/2025-07-02T15:00:00.000Z/P7D",
     "end": "2025-09-24T15:15:00.000Z",
     "comment": "",
     "sites": [
@@ -6809,8 +6665,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://sakamotodays.jp/",
-    "begin": "2025-07-13T15:00:00.000Z",
-    "broadcast": "R/2025-07-13T15:00:00.000Z/P7D",
+    "begin": "2025-07-14T15:00:00.000Z",
+    "broadcast": "R/2025-07-14T15:00:00.000Z/P7D",
     "end": "2025-09-22T15:30:00.000Z",
     "comment": "",
     "sites": [
@@ -6996,8 +6852,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://milkygalacticuniverse.com/",
-    "begin": "2025-07-02T12:54:00.000Z",
-    "broadcast": "R/2025-07-02T12:54:00.000Z/P7D",
+    "begin": "2025-07-03T12:54:00.000Z",
+    "broadcast": "R/2025-07-03T12:54:00.000Z/P7D",
     "end": "2025-09-17T12:54:00.000Z",
     "comment": "",
     "sites": [
@@ -7137,6 +6993,12 @@
       {
         "site": "dmhy",
         "id": "咲耶"
+      },
+      {
+        "site": "unext",
+        "id": "SID0204666",
+        "begin": "2026-09-30T15:00:00.000Z",
+        "broadcast": "R/2026-09-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -7178,12 +7040,6 @@
       {
         "site": "nicovideo",
         "id": "utamille",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "abema",
-        "id": "189-84",
         "begin": "",
         "broadcast": ""
       },
@@ -7316,8 +7172,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://gakkodeha-anime.com/",
-    "begin": "2025-07-04T16:00:00.000Z",
-    "broadcast": "R/2025-07-04T16:00:00.000Z/P7D",
+    "begin": "2025-07-05T01:45:00.000Z",
+    "broadcast": "R/2025-07-05T01:45:00.000Z/P7D",
     "end": "2025-08-29T16:00:00.000Z",
     "comment": "",
     "sites": [
@@ -7432,8 +7288,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://www.tv-tokyo.co.jp/anime/yamishibai15/",
-    "begin": "2025-07-12T17:50:00.000Z",
-    "broadcast": "R/2025-07-12T17:50:00.000Z/P7D",
+    "begin": "2025-07-13T17:50:00.000Z",
+    "broadcast": "R/2025-07-13T17:50:00.000Z/P7D",
     "end": "2025-10-04T17:50:00.000Z",
     "comment": "",
     "sites": [
@@ -7805,6 +7661,44 @@
       {
         "site": "anibt",
         "id": "501958"
+      }
+    ]
+  },
+  {
+    "title": "ちびゴジラの逆襲 シリーズ最新作",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小哥斯拉的逆袭 系列最新作",
+        "宝宝哥斯拉的反击 系列最新作"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://chibigodzilla.jp/",
+    "begin": "2025-07-01T16:00:00.000Z",
+    "broadcast": "R/2025-07-01T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "561787"
+      },
+      {
+        "site": "mal",
+        "id": "61765"
+      },
+      {
+        "site": "anidb",
+        "id": "19427"
+      },
+      {
+        "site": "aniList",
+        "id": "193883"
+      },
+      {
+        "site": "anibt",
+        "id": "561787"
       }
     ]
   }

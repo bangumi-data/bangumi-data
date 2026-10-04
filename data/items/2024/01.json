@@ -74,7 +74,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "http://you-zitsu.com/",
+    "officialSite": "https://you-zitsu.com/3rd/",
     "begin": "2024-01-03T13:30:00.000Z",
     "broadcast": "R/2024-01-03T13:30:00.000Z/P7D",
     "end": "2024-03-27T14:00:00.000Z",
@@ -146,7 +146,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfqaKn8JdnUc9WbNeapHHbpk",
+        "id": "PLUtbPXTItqQo",
+        "url": "https://www.youtube.com/show/VLPLUtbPXTItqQo?season=3&sbp=CgEzGgAqC1VKbjVyU2FNTVhBQAFKDVBTZFMwR09WeG02ZUE%253D",
         "begin": "2026-04-15T12:30:06.000Z",
         "broadcast": "R/2026-04-15T12:30:06.000Z/P7D"
       },
@@ -1581,9 +1582,10 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfrxl14ezgkXinTRaRLCiJlF",
-        "begin": "",
-        "broadcast": ""
+        "id": "PLSaOOr2qjLDs",
+        "url": "https://www.youtube.com/show/VLPLSaOOr2qjLDs?sbp=KgtBNTBiUXJRaWtJUUAB",
+        "begin": "2024-01-04T15:00:10.000Z",
+        "broadcast": "R/2024-01-04T15:00:10.000Z/P7D"
       },
       {
         "site": "prime",
@@ -1858,8 +1860,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://kingdom-anime.com/",
-    "begin": "2024-01-06T15:00:00.000Z",
-    "broadcast": "R/2024-01-06T15:00:00.000Z/P7D",
+    "begin": "2024-01-13T15:15:00.000Z",
+    "broadcast": "R/2024-01-13T15:15:00.000Z/P7D",
     "end": "2024-03-23T15:00:00.000Z",
     "comment": "",
     "sites": [
@@ -1951,7 +1953,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://www.ao-ex.com/",
+    "officialSite": "https://www.ao-ex.com/Illuminati/",
     "begin": "2024-01-06T15:30:00.000Z",
     "broadcast": "R/2024-01-06T15:30:00.000Z/P7D",
     "end": "2024-03-23T16:00:00.000Z",
@@ -2318,8 +2320,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://highcard-anime.jp/",
-    "begin": "2024-01-08T13:30:00.000Z",
-    "broadcast": "R/2024-01-08T13:30:00.000Z/P7D",
+    "begin": "2024-01-08T11:00:00.000Z",
+    "broadcast": "R/2024-01-08T11:00:00.000Z/P7D",
     "end": "2024-03-25T11:30:00.000Z",
     "comment": "",
     "sites": [
@@ -2523,12 +2525,6 @@
       {
         "site": "abema",
         "id": "117-36",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "nicovideo",
-        "id": "chiyumahou-anime",
         "begin": "",
         "broadcast": ""
       },
@@ -3097,7 +3093,7 @@
     ]
   },
   {
-    "title": "戦国妖狐",
+    "title": "戦国妖狐 世直し姉弟編",
     "titleTranslate": {
       "zh-Hans": [
         "战国妖狐",
@@ -3243,12 +3239,6 @@
         "begin": "2022-08-31T15:00:00.000Z",
         "broadcast": "R/2022-08-31T15:00:00.000Z/P7D",
         "comment": "日本語吹替版: SID0097416"
-      },
-      {
-        "site": "danime",
-        "id": "26825",
-        "begin": "2024-01-11T03:00:00.000Z",
-        "broadcast": "R/2024-01-11T03:00:00.000Z/P7D"
       },
       {
         "site": "prime",
@@ -4305,12 +4295,6 @@
         "id": "413635"
       },
       {
-        "site": "abema",
-        "id": "19-180",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "ani_one",
         "id": "PLC18xlbCdwtRB3v2ricyQUO6H3irpqrdn",
         "begin": "2024-01-11T17:30:07.000Z",
@@ -4479,12 +4463,6 @@
       {
         "site": "aniList",
         "id": "162144"
-      },
-      {
-        "site": "abema",
-        "id": "25-251",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "acgnx",
@@ -4905,12 +4883,6 @@
         "id": "469072"
       },
       {
-        "site": "nicovideo",
-        "id": "adamkun",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bangumi_moe",
         "id": "6591429fb885a81efda115bc"
       },
@@ -5113,6 +5085,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "四处贴上吧！小狗"
+      ],
+      "en": [
+        "Stick It on Around! Koinu"
       ]
     },
     "type": "tv",

@@ -92,6 +92,7 @@
         "JOJO'S BIZARRE ADVENTURE"
       ],
       "zh-Hant": [
+        "JOJO的奇妙冒險 第三季 不滅鑽石",
         "JOJO的奇妙冒險S3(不滅鑽石)",
         "JOJO 的奇妙冒險 不滅鑽石",
         "JOJO的奇妙冒險 不滅鑽石"
@@ -174,7 +175,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfoqki4lMKCWQj93SyjqN6JF",
+        "id": "PLQFHWWAdQTe4",
+        "url": "https://www.youtube.com/show/VLPLQFHWWAdQTe4?season=3&sbp=CgEzGgAqC2UyRGVuNjZxaFJRQAFKDVBTZWdzbi1PZlRxUXM%253D",
         "begin": "2019-10-15T13:30:09.000Z",
         "broadcast": "R/2019-10-15T13:30:09.000Z/P7D"
       },
@@ -2385,6 +2387,9 @@
       ],
       "zh-Hant": [
         "少年阿貝GO！GO！小芝麻"
+      ],
+      "en": [
+        "Shonen Ashibe GO! GO! Goma-chan"
       ]
     },
     "type": "tv",
@@ -2455,6 +2460,12 @@
       {
         "site": "aniList",
         "id": "21601"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYNQXG12Y",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2883,12 +2894,6 @@
         "broadcast": "R/2018-09-27T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "19-110",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "dmhy",
         "id": "甲鐵城"
       },
@@ -2996,12 +3001,6 @@
         "broadcast": "R/2016-04-10T03:00:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "78004",
-        "begin": "2016-04-07T15:00:00.000Z",
-        "broadcast": "R/2016-04-07T15:00:00.000Z/P7D"
-      },
-      {
         "site": "dmhy",
         "id": "Unhappy"
       },
@@ -3012,12 +3011,6 @@
       {
         "site": "mikan",
         "id": "719"
-      },
-      {
-        "site": "muse_tw",
-        "id": "PL12UaAf_xzfrbUc2jYHHBTCGLYGWEwkva",
-        "begin": "2021-08-20T14:00:11.000Z",
-        "broadcast": "R/2021-08-20T14:00:11.000Z/P7D"
       },
       {
         "site": "danime",
@@ -3361,6 +3354,18 @@
       {
         "site": "acgnx",
         "id": "黑 骸"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027527",
+        "begin": "2026-10-02T15:00:00.000Z",
+        "broadcast": "R/2026-10-02T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "29262",
+        "begin": "2026-10-02T15:00:00.000Z",
+        "broadcast": "R/2026-10-02T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3665,12 +3670,6 @@
       {
         "site": "aniList",
         "id": "21595"
-      },
-      {
-        "site": "abema",
-        "id": "19-296",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "acgnx",
@@ -5162,18 +5161,6 @@
       {
         "site": "aniList",
         "id": "21470"
-      },
-      {
-        "site": "abema",
-        "id": "415-52",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0033992",
-        "begin": "2026-03-27T15:00:00.000Z",
-        "broadcast": "R/2026-03-27T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -5296,12 +5283,6 @@
       {
         "site": "bangumi",
         "id": "180288"
-      },
-      {
-        "site": "gamer",
-        "id": "120047",
-        "begin": "2021-10-15T06:00:00.000Z",
-        "broadcast": "R/2021-10-15T06:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",

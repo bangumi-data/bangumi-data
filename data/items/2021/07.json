@@ -35,18 +35,6 @@
         "broadcast": "R/2021-07-04T12:30:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "114426",
-        "begin": "2021-07-04T12:30:00.000Z",
-        "broadcast": "R/2021-07-04T12:30:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "114426",
-        "begin": "2021-07-04T12:30:00.000Z",
-        "broadcast": "R/2021-07-04T12:30:00.000Z/P7D"
-      },
-      {
         "site": "bangumi_moe",
         "id": "60de5d9506c78696e4d115f6"
       },
@@ -95,6 +83,18 @@
       {
         "site": "dmhy",
         "id": "三一萬能俠|蓋特|蓋塔 ARC"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "114426",
+        "begin": "2026-10-02T03:00:00.000Z",
+        "broadcast": "R/2026-10-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "114426",
+        "begin": "2026-10-02T03:00:00.000Z",
+        "broadcast": "R/2026-10-02T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -285,6 +285,18 @@
       {
         "site": "acgnx",
         "id": "緋紅|SCARLET 結繫|NEXUS"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "116434",
+        "begin": "2026-10-02T03:00:00.000Z",
+        "broadcast": "R/2026-10-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "116434",
+        "begin": "2026-10-02T03:00:00.000Z",
+        "broadcast": "R/2026-10-02T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -371,7 +383,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfoH5z7lnXUpGrmITnY6MCQo",
+        "id": "PLKnxxCc4vL7Y",
+        "url": "https://www.youtube.com/show/VLPLKnxxCc4vL7Y?sbp=KgtyQ0ZDTG16WGRBTUAB",
         "begin": "2023-12-22T17:23:08.000Z",
         "broadcast": "R/2023-12-22T17:23:08.000Z/P7D"
       },
@@ -742,7 +755,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://tsukimichi.com/",
+    "officialSite": "https://tsukimichi.com/1st/",
     "begin": "2021-07-07T14:00:00.000Z",
     "broadcast": "R/2021-07-07T14:00:00.000Z/P7D",
     "end": "2021-09-22T14:30:00.000Z",
@@ -1013,22 +1026,10 @@
         "broadcast": "R/2021-07-08T14:30:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "115151",
-        "begin": "2021-07-03T16:00:00.000Z",
-        "broadcast": "R/2021-07-03T16:00:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0058482",
         "begin": "2021-07-08T14:30:00.000Z",
         "broadcast": "R/2021-07-08T14:30:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "115151",
-        "begin": "2021-07-03T16:00:00.000Z",
-        "broadcast": "R/2021-07-03T16:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -1506,12 +1507,6 @@
         "broadcast": "R/2021-10-11T14:00:01.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "116190",
-        "begin": "2021-07-03T17:30:00.000Z",
-        "broadcast": "R/2021-07-03T17:30:00.000Z/P7D"
-      },
-      {
         "site": "dmhy",
         "id": "RE-MAIN"
       },
@@ -1528,12 +1523,6 @@
         "id": "re-main",
         "begin": "",
         "broadcast": ""
-      },
-      {
-        "site": "gamer_hk",
-        "id": "116190",
-        "begin": "2021-07-03T17:30:00.000Z",
-        "broadcast": "R/2021-07-03T17:30:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -1560,6 +1549,18 @@
       {
         "site": "acgnx",
         "id": "RE-MAIN"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "116190",
+        "begin": "2026-10-02T03:00:00.000Z",
+        "broadcast": "R/2026-10-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "116190",
+        "begin": "2026-10-02T03:00:00.000Z",
+        "broadcast": "R/2026-10-02T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -1682,12 +1683,6 @@
         "broadcast": "R/2021-07-07T16:00:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "111582",
-        "begin": "2021-07-07T14:30:00.000Z",
-        "broadcast": "R/2021-07-07T14:30:00.000Z/P7D"
-      },
-      {
         "site": "bilibili",
         "id": "28234646",
         "begin": "2021-07-14T14:00:00.000Z",
@@ -1698,12 +1693,6 @@
         "id": "SID0058468",
         "begin": "2021-07-12T13:30:00.000Z",
         "broadcast": "R/2021-07-12T13:30:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "111582",
-        "begin": "2021-07-07T14:30:00.000Z",
-        "broadcast": "R/2021-07-07T14:30:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -2227,7 +2216,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfrCAOTroy2IhYeGg7mYc6wO",
+        "id": "PLZi7HsS43BmI",
+        "url": "https://www.youtube.com/show/VLPLZi7HsS43BmI?season=4&sbp=CgE0GgAqC2syT1gzOGpDZmdnQAFKDVBTQkJHTjVzMDFWZnc%253D",
         "begin": "2024-12-23T09:30:06.000Z",
         "broadcast": "R/2024-12-23T09:30:06.000Z/P7D"
       },
@@ -2248,12 +2238,6 @@
         "id": "114979"
       },
       {
-        "site": "abema",
-        "id": "13-151",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "acgnx",
         "id": "Love Live Superstar"
       }
@@ -2271,7 +2255,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "http://seireigensouki.com/",
+    "officialSite": "https://seireigensouki.com/1st/",
     "begin": "2021-07-05T17:00:00.000Z",
     "broadcast": "R/2021-07-05T17:00:00.000Z/P7D",
     "end": "2021-09-20T17:30:00.000Z",
@@ -2496,12 +2480,6 @@
         "id": "332655"
       },
       {
-        "site": "nicovideo",
-        "id": "yubinetsu2",
-        "begin": "2021-07-04T16:00:00.000Z",
-        "broadcast": "R/2021-07-04T16:00:00.000Z/P7D"
-      },
-      {
         "site": "bangumi_moe",
         "id": "60de5d9806c78696e4d115fe"
       },
@@ -2575,12 +2553,6 @@
         "id": "319286"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7Ucin4gYt5FYbWjLn6NDJ8itB",
-        "begin": "2021-07-12T17:30:00.000Z",
-        "broadcast": "R/2021-07-12T17:30:00.000Z/P7D"
-      },
-      {
         "site": "bilibili",
         "id": "28234627",
         "begin": "2021-07-12T17:30:01.000Z",
@@ -2603,12 +2575,6 @@
       {
         "site": "mikan",
         "id": "2525"
-      },
-      {
-        "site": "muse_tw",
-        "id": "PL12UaAf_xzfrYgrBKdX25r0h8d3IXist1",
-        "begin": "2025-03-24T16:00:00.000Z",
-        "broadcast": "R/2025-03-24T16:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -2780,12 +2746,6 @@
         "broadcast": "R/2021-07-04T14:00:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "115581",
-        "begin": "2021-07-04T14:00:00.000Z",
-        "broadcast": "R/2021-07-04T14:00:00.000Z/P7D"
-      },
-      {
         "site": "bilibili_tw",
         "id": "28234738",
         "begin": "2021-07-04T14:00:00.000Z",
@@ -2796,12 +2756,6 @@
         "id": "SID0058448",
         "begin": "2021-07-07T03:00:00.000Z",
         "broadcast": "R/2021-07-07T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "115581",
-        "begin": "2021-07-04T14:00:00.000Z",
-        "broadcast": "R/2021-07-04T14:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -3219,7 +3173,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://tgcf-anime.com/",
+    "officialSite": "https://tgcf-anime.com/1st.html",
     "begin": "2021-07-04T12:30:00.000Z",
     "broadcast": "R/2021-07-04T12:30:00.000Z/P7D",
     "end": "2021-09-19T13:00:00.000Z",
@@ -3356,8 +3310,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://1000000-lives.com/",
-    "begin": "2021-07-02T15:30:00.000Z",
-    "broadcast": "R/2021-07-02T15:30:00.000Z/P7D",
+    "begin": "2021-07-09T15:30:00.000Z",
+    "broadcast": "R/2021-07-09T15:30:00.000Z/P7D",
     "end": "2021-09-24T16:00:00.000Z",
     "comment": "",
     "sites": [
@@ -3509,10 +3463,11 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfpr5R-Q4Kshpozv9At50GFj",
-        "begin": "",
-        "broadcast": "",
-        "comment": "國語: PL12UaAf_xzfrI2ieUbpUUa5YSX-ONtpNf"
+        "id": "PLT80W9u3t3Wc",
+        "url": "https://www.youtube.com/show/VLPLT80W9u3t3Wc?season=2&sbp=CgEyGgAqC2d2OGZ3d0h3cUpRQAFKDVBTUUFZR1dSUTViT2c%253D",
+        "begin": "2021-01-12T15:30:00.000Z",
+        "broadcast": "R/2021-01-12T15:30:00.000Z/P7D",
+        "comment": "國語: https://www.youtube.com/show/VLPLHEvS5kkTLr0?season=2&sbp=CgEyGgAqC1BLWkluUlFQb29ZQAFKDVBTV2E2ajRST1QxSzQ%253D"
       },
       {
         "site": "prime",
@@ -3616,22 +3571,10 @@
         "id": "312723"
       },
       {
-        "site": "gamer",
-        "id": "113084",
-        "begin": "2021-07-22T16:30:00.000Z",
-        "broadcast": "R/2021-07-22T16:30:00.000Z/P7D"
-      },
-      {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JhpvTizNfzlPX1tEERYVA97",
         "begin": "2021-07-19T16:30:00.000Z",
         "broadcast": "R/2021-07-19T16:30:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "113084",
-        "begin": "2021-07-22T16:30:00.000Z",
-        "broadcast": "R/2021-07-22T16:30:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -3767,18 +3710,6 @@
         "id": "338201"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7Uci45W8fvnh1pUWZxB-DejP5",
-        "begin": "2021-07-11T19:10:00.000Z",
-        "broadcast": "R/2021-07-11T19:10:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "118357",
-        "begin": "2021-07-11T19:10:00.000Z",
-        "broadcast": "R/2021-07-11T19:10:00.000Z/P7D"
-      },
-      {
         "site": "bilibili_hk_mo_tw",
         "id": "28234703",
         "begin": "2021-07-11T19:10:01.000Z",
@@ -3803,22 +3734,10 @@
         "id": "2533"
       },
       {
-        "site": "gamer_hk",
-        "id": "118357",
-        "begin": "2021-07-11T19:10:00.000Z",
-        "broadcast": "R/2021-07-11T19:10:00.000Z/P7D"
-      },
-      {
         "site": "danime",
         "id": "25055",
         "begin": "2021-10-04T03:00:00.000Z",
         "broadcast": "R/2021-10-04T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "muse_tw",
-        "id": "PL12UaAf_xzfpjU4WW0M43j1nvHRezMgaa",
-        "begin": "2021-10-03T19:25:09.000Z",
-        "broadcast": "R/2021-10-03T19:25:09.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -4015,12 +3934,6 @@
       {
         "site": "tmdb",
         "id": "movie/829920"
-      },
-      {
-        "site": "abema",
-        "id": "26-214",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",

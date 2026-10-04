@@ -665,12 +665,6 @@
         "id": "103632"
       },
       {
-        "site": "abema",
-        "id": "25-160",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "crunchyroll",
         "id": "G79H23G0D",
         "begin": "2021-01-08T00:00:00.000Z",
@@ -1033,12 +1027,6 @@
         "id": "118375"
       },
       {
-        "site": "abema",
-        "id": "194-20",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "acgnx",
         "id": "只有我能"
       }
@@ -1057,8 +1045,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://www.ten-sura.com/anime/tensura",
-    "begin": "2021-01-12T17:05:00.000Z",
-    "broadcast": "R/2021-01-12T17:05:00.000Z/P7D",
+    "begin": "2021-01-12T14:00:00.000Z",
+    "broadcast": "R/2021-01-12T14:00:00.000Z/P7D",
     "end": "2021-03-30T14:30:00.000Z",
     "comment": "",
     "sites": [
@@ -1140,10 +1128,11 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfpr5R-Q4Kshpozv9At50GFj",
+        "id": "PLT80W9u3t3Wc",
+        "url": "https://www.youtube.com/show/VLPLT80W9u3t3Wc?season=2&sbp=CgEyGgAqC2d2OGZ3d0h3cUpRQAFKDVBTUUFZR1dSUTViT2c%253D",
         "begin": "2024-09-17T14:00:07.000Z",
         "broadcast": "R/2024-09-17T14:00:07.000Z/P7D",
-        "comment": "國語: PL12UaAf_xzfrI2ieUbpUUa5YSX-ONtpNf"
+        "comment": "國語: https://www.youtube.com/show/VLPLHEvS5kkTLr0?season=2&sbp=CgEyGgAqC1BLWkluUlFQb29ZQAFKDVBTV2E2ajRST1QxSzQ%253D"
       },
       {
         "site": "prime",
@@ -1805,7 +1794,8 @@
       },
       {
         "site": "muse_hk",
-        "id": "PLuxqoToY7UchnkiDhDLkzSnQ5VQzLvIr2",
+        "id": "PLTtXSbTtUyLs",
+        "url": "https://www.youtube.com/show/VLPLTtXSbTtUyLs?sbp=KgtLMnZURndLQ05xTUAB",
         "begin": "2021-09-23T16:00:00.000Z",
         "broadcast": "R/2021-09-23T16:00:00.000Z/P7D"
       },
@@ -1865,9 +1855,10 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfozU6PKHlOwbskdUTFKnGrK",
-        "begin": "",
-        "broadcast": ""
+        "id": "PLRkSE0VkA2yY",
+        "url": "https://www.youtube.com/show/VLPLRkSE0VkA2yY?sbp=Kgtxd0w3OHM5YWZMa0AB",
+        "begin": "2024-05-03T11:00:41.000Z",
+        "broadcast": "R/2024-05-03T11:00:41.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -1914,7 +1905,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://horimiya-anime.com/",
+    "officialSite": "https://horimiya-anime.com/1st/",
     "begin": "2021-01-09T15:30:00.000Z",
     "broadcast": "R/2021-01-09T15:30:00.000Z/P7D",
     "end": "2021-04-03T15:57:00.000Z",
@@ -2221,7 +2212,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://www.tbs.co.jp/anime/5hanayome/",
+    "officialSite": "https://www.tbs.co.jp/anime/5hanayome/2nd/",
     "begin": "2021-01-07T16:28:00.000Z",
     "broadcast": "R/2021-01-07T16:28:00.000Z/P7D",
     "end": "2021-03-25T17:00:00.000Z",
@@ -2248,12 +2239,6 @@
         "id": "28233487",
         "begin": "2021-01-07T17:28:00.000Z",
         "broadcast": "R/2021-01-07T17:28:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "189-11",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -3448,7 +3433,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "http://ssorphen-anime.com/",
+    "officialSite": "https://ssorphen-anime.com/1st/",
     "begin": "2021-01-20T12:00:00.000Z",
     "broadcast": "R/2021-01-20T12:00:00.000Z/P7D",
     "end": "2021-03-31T12:30:00.000Z",
@@ -3642,12 +3627,6 @@
       {
         "site": "bangumi",
         "id": "319894"
-      },
-      {
-        "site": "nicovideo",
-        "id": "jimihen",
-        "begin": "2021-01-03T16:00:00.000Z",
-        "broadcast": "R/2021-01-03T16:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -4742,6 +4721,12 @@
       {
         "site": "acgnx",
         "id": "怪物事變"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GKEH2G492",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4836,7 +4821,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://bst-anime.com/",
-    "begin": "2021-01-05T03:00:00.000Z",
+    "begin": "2021-01-06T15:55:00.000Z",
+    "broadcast": "R/2021-01-06T15:55:00.000Z/P7D",
     "end": "2021-03-24T03:00:00.000Z",
     "comment": "",
     "sites": [
@@ -5199,12 +5185,6 @@
         "broadcast": "R/2021-04-05T03:00:00.000Z/P7D"
       },
       {
-        "site": "muse_tw",
-        "id": "PL12UaAf_xzfpNCAXEvIn6o7VvMLRU4iqb",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/56559/season/8"
       },
@@ -5458,12 +5438,16 @@
   },
   {
     "title": "キンタマーニドッグ",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "en": [
+        "Kintamani Dog"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://kintamani-dog.com/",
-    "begin": "2021-01-14T16:00:00.000Z",
-    "broadcast": "R/2021-01-14T16:00:00.000Z/P7D",
+    "begin": "2021-01-16T17:50:00.000Z",
+    "broadcast": "R/2021-01-16T17:50:00.000Z/P7D",
     "end": "2021-12-25T16:00:00.000Z",
     "comment": "",
     "sites": [

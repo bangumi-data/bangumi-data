@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "NG骑士柠檬汽水&40"
+      ],
+      "zh-Hant": [
+        "NG 騎士檸檬汽水 & 40"
       ]
     },
     "type": "tv",
@@ -43,6 +46,12 @@
       {
         "site": "aniList",
         "id": "2084"
+      },
+      {
+        "site": "gamer",
+        "id": "17484",
+        "begin": "2026-10-02T03:00:00.000Z",
+        "broadcast": "R/2026-10-02T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -394,6 +403,10 @@
       {
         "site": "aniList",
         "id": "5936"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/132376"
       }
     ]
   }

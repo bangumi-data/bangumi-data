@@ -801,12 +801,6 @@
         "id": "tv/31724"
       },
       {
-        "site": "abema",
-        "id": "13-13jjengjfhdx",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mal",
         "id": "1575"
       },
@@ -1288,12 +1282,6 @@
         "broadcast": "R/2013-11-12T05:59:40.000Z/P7D"
       },
       {
-        "site": "unext",
-        "id": "SID0016266",
-        "begin": "2022-11-02T15:00:00.000Z",
-        "broadcast": "R/2022-11-02T15:00:00.000Z/P7D"
-      },
-      {
         "site": "danime",
         "id": "11204",
         "begin": "2014-03-21T10:00:00.000Z",
@@ -1612,6 +1600,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "Happiness!"
+      ],
+      "en": [
+        "Happiness!"
+      ],
+      "zh-Hant": [
+        "Happiness!"
       ]
     },
     "type": "tv",
@@ -1662,6 +1656,12 @@
       {
         "site": "aniList",
         "id": "1570"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYWE27EJY",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2279,12 +2279,6 @@
         "broadcast": "R/2019-03-27T09:06:00.000Z/P7D"
       },
       {
-        "site": "unext",
-        "id": "SID0015279",
-        "begin": "2025-07-31T15:00:00.000Z",
-        "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
-      },
-      {
         "site": "danime",
         "id": "25071",
         "begin": "2025-07-31T15:00:00.000Z",
@@ -2660,12 +2654,6 @@
         "id": "293624"
       },
       {
-        "site": "unext",
-        "id": "SID0090140",
-        "begin": "2023-09-26T03:00:00.000Z",
-        "broadcast": "R/2023-09-26T03:00:00.000Z/P7D"
-      },
-      {
         "site": "danime",
         "id": "26165",
         "begin": "2023-02-28T01:00:00.000Z",
@@ -2704,12 +2692,6 @@
       {
         "site": "bangumi",
         "id": "5234"
-      },
-      {
-        "site": "abema",
-        "id": "168-68",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",

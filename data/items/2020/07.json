@@ -17,7 +17,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "http://www.tbs.co.jp/anime/oregairu/",
+    "officialSite": "https://www.tbs.co.jp/anime/oregairu/",
     "begin": "2020-07-09T16:58:00.000Z",
     "end": "2020-09-24T17:28:00.000Z",
     "comment": "",
@@ -84,18 +84,6 @@
         "broadcast": "R/2024-12-31T15:00:00.000Z/P7D"
       },
       {
-        "site": "gamer_hk",
-        "id": "104549",
-        "begin": "2025-03-05T04:00:00.000Z",
-        "broadcast": "R/2025-03-05T04:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "104549",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/65676/season/3"
       },
@@ -120,6 +108,19 @@
       {
         "site": "acgnx",
         "id": "果然 青春戀愛 完"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLYnIF_qxIvEc",
+        "url": "https://www.youtube.com/show/VLPLYnIF_qxIvEc?season=3&sbp=CgEzGgAqC1Z2MWNpRWZNeHhBQAFKDVBTY2V0ZlN6Z0RyZ00%253D",
+        "begin": "2026-09-23T13:00:07.000Z",
+        "broadcast": "R/2026-09-23T13:00:07.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLds4eowQSRI8",
+        "begin": "2026-09-21T13:00:08.000Z",
+        "broadcast": "R/2026-09-21T13:00:08.000Z/P7D"
       }
     ]
   },
@@ -414,7 +415,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://kanokari-official.com/",
+    "officialSite": "https://kanokari-official.com/1st/",
     "begin": "2020-07-10T16:25:00.000Z",
     "end": "2020-09-25T16:55:00.000Z",
     "comment": "",
@@ -536,7 +537,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://maohgakuin.com/",
+    "officialSite": "https://maohgakuin.com/1st/",
     "begin": "2020-07-04T14:30:00.000Z",
     "end": "2020-09-26T15:00:00.000Z",
     "comment": "",
@@ -619,12 +620,6 @@
       {
         "site": "aniList",
         "id": "112301"
-      },
-      {
-        "site": "abema",
-        "id": "25-147",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "acgnx",
@@ -781,13 +776,16 @@
       ],
       "zh-Hant": [
         "魔物娘的醫生"
+      ],
+      "en": [
+        "Monster Girl Doctor"
       ]
     },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://mon-isha-anime.com/",
-    "begin": "2020-07-04T11:30:00.000Z",
-    "end": "2020-09-27T14:30:00.000Z",
+    "begin": "2020-07-12T14:00:00.000Z",
+    "end": "2020-09-27T14:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -855,6 +853,12 @@
       {
         "site": "acgnx",
         "id": "魔物 醫生"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G60XNJW4R",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1158,7 +1162,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://www.lapisrelights.com/anime/",
+    "officialSite": "https://web.archive.org/web/*/www.lapisrelights.com/anime/",
     "begin": "2020-07-04T13:00:00.000Z",
     "end": "2020-09-19T13:30:00.000Z",
     "comment": "",
@@ -1269,7 +1273,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "http://petergrill-anime.jp/",
+    "officialSite": "https://petergrill-anime.jp/pg_1/",
     "begin": "2020-07-10T16:35:00.000Z",
     "end": "2020-09-25T16:50:00.000Z",
     "comment": "",
@@ -1469,8 +1473,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://umamusume.jp/umayon/",
-    "begin": "2020-07-07T13:00:00.000Z",
-    "end": "2020-09-22T13:00:00.000Z",
+    "begin": "2020-07-07T12:54:00.000Z",
+    "end": "2020-09-22T12:54:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1554,8 +1558,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://www.tv-tokyo.co.jp/anime/nin_colle/",
-    "begin": "2020-07-14T12:35:00.000Z",
-    "end": "2020-10-25T18:46:00.000Z",
+    "begin": "2020-07-12T18:05:00.000Z",
+    "end": "2020-10-25T18:41:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -1627,7 +1631,7 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://gibiate.com/anime/jp/",
-    "begin": "2020-07-15T14:00:00.000Z",
+    "begin": "2020-07-15T13:00:00.000Z",
     "end": "2020-09-30T13:30:00.000Z",
     "comment": "",
     "sites": [
@@ -1739,12 +1743,6 @@
         "id": "306993"
       },
       {
-        "site": "nicovideo",
-        "id": "kyojinzoku_hana",
-        "begin": "2020-07-05T16:00:00.000Z",
-        "broadcast": "R/2020-07-05T16:00:00.000Z/P7D"
-      },
-      {
         "site": "dmhy",
         "id": "巨人族的新娘"
       },
@@ -1808,7 +1806,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "http://getup-getlive.com/",
+    "officialSite": "http://getup-getlive.com/short-anime",
     "begin": "2020-07-10T16:50:00.000Z",
     "end": "2020-09-11T16:55:00.000Z",
     "comment": "",
@@ -2183,8 +2181,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://mahouritsu.com/index.php",
-    "begin": "2020-07-07T11:30:00.000Z",
-    "end": "2020-09-22T11:30:00.000Z",
+    "begin": "2020-07-07T10:00:00.000Z",
+    "end": "2020-09-22T10:00:00.000Z",
     "sites": [
       {
         "site": "bangumi",
@@ -2351,7 +2349,7 @@
     "titleTranslate": {},
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
+    "officialSite": "http://sorosoro-tani.blog.jp/archives/19402174.html",
     "begin": "2020-07-01T08:59:00.000Z",
     "end": "2020-12-31T09:00:00.000Z",
     "comment": "",
@@ -2560,9 +2558,9 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://3rd.chofutsu.com/",
-    "begin": "2020-07-05T16:00:00.000Z",
-    "broadcast": "R/2020-07-05T16:00:00.000Z/P7D",
+    "officialSite": "https://kashiden.dekimachi.com/story/03r/",
+    "begin": "2020-07-06T12:55:00.000Z",
+    "broadcast": "R/2020-07-06T12:55:00.000Z/P7D",
     "end": "2020-09-27T16:00:00.000Z",
     "comment": "",
     "sites": [

@@ -489,5 +489,54 @@
         "id": "159417"
       }
     ]
+  },
+  {
+    "title": "花より男子",
+    "titleTranslate": {
+      "zh-Hans": [
+        "花样男子 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-03-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1997-03-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "58256"
+      },
+      {
+        "site": "danime",
+        "id": "29206",
+        "begin": "2026-09-30T15:00:00.000Z",
+        "broadcast": "R/2026-09-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "2071"
+      },
+      {
+        "site": "anidb",
+        "id": "1249"
+      },
+      {
+        "site": "aniList",
+        "id": "2071"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/411273"
+      },
+      {
+        "site": "unext",
+        "id": "SID0318287",
+        "begin": "2026-09-30T15:00:00.000Z",
+        "broadcast": "R/2026-09-30T15:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

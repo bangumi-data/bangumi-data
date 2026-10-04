@@ -139,6 +139,12 @@
       {
         "site": "anidb",
         "id": "9833"
+      },
+      {
+        "site": "abema",
+        "id": "115-140",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -147,6 +153,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "太空堡垒II：哨兵"
+      ],
+      "en": [
+        "Robotech II: The Sentinels"
       ]
     },
     "type": "ova",
@@ -162,14 +171,14 @@
         "id": "89879"
       },
       {
-        "site": "crunchyroll",
-        "id": "GEXH3WKDP",
-        "begin": "2022-09-13T10:00:00.000Z",
-        "broadcast": "R/2022-09-13T10:00:00.000Z/P7D"
-      },
-      {
         "site": "tmdb",
         "id": "tv/78525"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GMTE00091419",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }
