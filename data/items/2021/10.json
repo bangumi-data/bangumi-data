@@ -46,22 +46,10 @@
         "broadcast": "R/2021-10-29T18:55:01.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "118894",
-        "begin": "2021-10-01T18:55:00.000Z",
-        "broadcast": "R/2021-10-01T18:55:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0061701",
         "begin": "2021-10-06T13:30:00.000Z",
         "broadcast": "R/2021-10-06T13:30:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "118894",
-        "begin": "2021-10-01T18:55:00.000Z",
-        "broadcast": "R/2021-10-01T18:55:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -452,7 +440,8 @@
       },
       {
         "site": "muse_hk",
-        "id": "PLuxqoToY7UchnkiDhDLkzSnQ5VQzLvIr2",
+        "id": "PLTtXSbTtUyLs",
+        "url": "https://www.youtube.com/show/VLPLTtXSbTtUyLs?sbp=KgtLMnZURndLQ05xTUAB",
         "begin": "2022-06-20T13:30:00.000Z",
         "broadcast": "R/2022-06-20T13:30:00.000Z/P1D"
       },
@@ -488,7 +477,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfozU6PKHlOwbskdUTFKnGrK",
+        "id": "PLRkSE0VkA2yY",
+        "url": "https://www.youtube.com/show/VLPLRkSE0VkA2yY?sbp=Kgtxd0w3OHM5YWZMa0AB",
         "begin": "2024-05-03T11:00:41.000Z",
         "broadcast": "R/2024-05-03T11:00:41.000Z/P7D"
       },
@@ -561,12 +551,6 @@
         "id": "28234126",
         "begin": "2021-04-10T16:30:01.000Z",
         "broadcast": "R/2021-04-10T16:30:01.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "25-163",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -980,7 +964,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://sugushinu-anime.jp/",
+    "officialSite": "https://sugushinu-anime.jp/season1/",
     "begin": "2021-10-04T14:00:00.000Z",
     "broadcast": "R/2021-10-04T14:00:00.000Z/P7D",
     "end": "2021-12-20T14:30:00.000Z",
@@ -989,12 +973,6 @@
       {
         "site": "bangumi",
         "id": "305579"
-      },
-      {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7Ucidnc7fLDplg42rCXt_ckSQ",
-        "begin": "2021-10-04T15:00:00.000Z",
-        "broadcast": "R/2021-10-04T15:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1037,18 +1015,6 @@
         "id": "25046",
         "begin": "2021-10-04T15:00:00.000Z",
         "broadcast": "R/2021-10-04T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "muse_tw",
-        "id": "PL12UaAf_xzfrmG7eTgN8YzHTQzGQadmVj",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "abema",
-        "id": "149-14",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "tmdb",
@@ -1846,12 +1812,6 @@
         "broadcast": "R/2021-10-12T03:00:00.000Z/P7D"
       },
       {
-        "site": "gamer",
-        "id": "116722",
-        "begin": "2021-10-08T16:30:00.000Z",
-        "broadcast": "R/2021-10-08T16:30:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0061698",
         "begin": "2021-10-12T03:00:00.000Z",
@@ -1868,12 +1828,6 @@
       {
         "site": "mikan",
         "id": "2552"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "116722",
-        "begin": "2021-10-08T16:30:00.000Z",
-        "broadcast": "R/2021-10-08T16:30:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -2559,12 +2513,6 @@
         "id": "345771"
       },
       {
-        "site": "nicovideo",
-        "id": "showtime_af",
-        "begin": "2021-10-03T16:00:00.000Z",
-        "broadcast": "R/2021-10-03T16:00:00.000Z/P7D"
-      },
-      {
         "site": "dmhy",
         "id": "Showtime"
       },
@@ -2633,12 +2581,6 @@
         "id": "328356"
       },
       {
-        "site": "nicovideo",
-        "id": "maoibu_af",
-        "begin": "2021-10-01T16:00:00.000Z",
-        "broadcast": "R/2021-10-01T16:00:00.000Z/P7D"
-      },
-      {
         "site": "dmhy",
         "id": "獻身 魔王"
       },
@@ -2699,7 +2641,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://anime.cf-vanguard.com/overdress/",
+    "officialSite": "https://anime.cf-vanguard.com/vgd/archive/",
     "begin": "2021-10-04T15:00:00.000Z",
     "broadcast": "R/2021-10-04T15:00:00.000Z/P7D",
     "end": "2021-12-27T15:30:00.000Z",
@@ -2766,7 +2708,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://www.megaton-musashi.jp/portal/",
+    "officialSite": "https://www.megaton-musashi.jp/portal/anime/",
     "begin": "2021-10-01T13:00:00.000Z",
     "broadcast": "R/2021-10-01T13:00:00.000Z/P7D",
     "end": "2021-12-24T13:30:00.000Z",
@@ -3062,12 +3004,6 @@
         "id": "SID0061708",
         "begin": "2021-10-11T15:00:00.000Z",
         "broadcast": "R/2021-10-11T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "54-66",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "gamer_hk",
@@ -3979,7 +3915,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://anime.build-divide.com/",
+    "officialSite": "https://anime.build-divide.com/black/",
     "begin": "2021-10-09T15:30:00.000Z",
     "broadcast": "R/2021-10-09T15:30:00.000Z/P7D",
     "end": "2021-12-25T15:30:00.000Z",
@@ -4000,18 +3936,6 @@
         "id": "28235179",
         "begin": "2021-11-13T17:00:01.000Z",
         "broadcast": "R/2021-11-13T17:00:01.000Z/P7D"
-      },
-      {
-        "site": "gamer",
-        "id": "119690",
-        "begin": "2021-10-09T17:00:00.000Z",
-        "broadcast": "R/2021-10-09T17:00:00.000Z/P7D"
-      },
-      {
-        "site": "gamer_hk",
-        "id": "119690",
-        "begin": "2021-10-09T17:00:00.000Z",
-        "broadcast": "R/2021-10-09T17:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -4066,7 +3990,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://www.san-x.co.jp/chickipdancers/",
+    "officialSite": "https://www.san-x.co.jp/chickipdancers/anime/",
     "begin": "2021-10-05T08:20:00.000Z",
     "broadcast": "R/2021-10-05T08:20:00.000Z/P7D",
     "end": "2022-03-29T08:25:00.000Z",
@@ -4410,12 +4334,6 @@
         "id": "25092",
         "begin": "2021-10-09T01:00:00.000Z",
         "broadcast": "R/2021-10-09T01:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "168-34",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "tmdb",
@@ -5012,11 +4930,14 @@
       ],
       "zh-Hant": [
         "舞伎家的料理人"
+      ],
+      "en": [
+        "Kiyo in Kyoto：From the Maiko House"
       ]
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://www3.nhk.or.jp/nhkworld/maikosan/",
+    "officialSite": "https://www.nhk.jp/p/maikosan/ts/W62WGG1V57/",
     "begin": "2021-10-02T00:20:00.000Z",
     "end": "2022-06-10T23:25:00.000Z",
     "comment": "",
@@ -5401,6 +5322,12 @@
       {
         "site": "aniList",
         "id": "132893"
+      },
+      {
+        "site": "danime",
+        "id": "25312",
+        "begin": "2026-09-30T15:00:00.000Z",
+        "broadcast": "R/2026-09-30T15:00:00.000Z/P7D"
       }
     ]
   },

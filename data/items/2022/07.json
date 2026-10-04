@@ -144,12 +144,6 @@
         "broadcast": "R/2022-07-09T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "149-16",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/194774"
       },
@@ -383,12 +377,13 @@
         "歡迎來到實力至上主義的教室 第二季"
       ],
       "en": [
-        "Classroom of the Elite Season 2"
+        "Classroom of the Elite Season 2",
+        "Classroom of the Elite 2nd Season"
       ]
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "http://you-zitsu.com/",
+    "officialSite": "http://you-zitsu.com/2nd/",
     "begin": "2022-07-04T12:00:00.000Z",
     "broadcast": "R/2022-07-04T12:00:00.000Z/P7D",
     "end": "2022-09-26T12:30:00.000Z",
@@ -466,7 +461,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfqaKn8JdnUc9WbNeapHHbpk",
+        "id": "PLUtbPXTItqQo",
+        "url": "https://www.youtube.com/show/VLPLUtbPXTItqQo?season=2&sbp=CgEyGgAqC1VKbjVyU2FNTVhBQAFKDVBTVGVtRUl6X2RIcGs%253D",
         "begin": "2026-04-15T12:30:06.000Z",
         "broadcast": "R/2026-04-15T12:30:06.000Z/P7D"
       },
@@ -517,7 +513,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://kanokari-official.com/",
+    "officialSite": "https://kanokari-official.com/2nd/",
     "begin": "2022-07-01T16:25:00.000Z",
     "broadcast": "R/2022-07-01T16:25:00.000Z/P7D",
     "end": "2022-09-16T16:55:00.000Z",
@@ -1667,7 +1663,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://yofukashi-no-uta.com/",
+    "officialSite": "https://yofukashi-no-uta.com/1st/",
     "begin": "2022-07-07T16:05:00.000Z",
     "broadcast": "R/2022-07-07T16:05:00.000Z/P7D",
     "end": "2022-09-29T16:50:00.000Z",
@@ -1936,12 +1932,6 @@
         "id": "135806"
       },
       {
-        "site": "abema",
-        "id": "25-209",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "acgnx",
         "id": "異世界 舅舅"
       }
@@ -2073,12 +2063,6 @@
         "id": "28338627",
         "begin": "2022-07-14T14:35:00.000Z",
         "broadcast": "R/2022-07-14T14:35:00.000Z/P7D"
-      },
-      {
-        "site": "viu",
-        "id": "444494",
-        "begin": "2022-07-13T16:00:00.000Z",
-        "broadcast": "R/2022-07-13T16:00:00.000Z/P7D"
       },
       {
         "site": "disneyplus",
@@ -2278,7 +2262,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "http://tenipuri.jp/u17/",
+    "officialSite": "https://tenipuri.jp/u17/worldcup/",
     "begin": "2022-07-06T15:00:00.000Z",
     "broadcast": "R/2022-07-06T15:00:00.000Z/P7D",
     "end": "2022-09-28T15:30:00.000Z",
@@ -2356,6 +2340,12 @@
       {
         "site": "dmhy",
         "id": "新網球王子"
+      },
+      {
+        "site": "abema",
+        "id": "203-8",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2461,6 +2451,12 @@
       {
         "site": "acgnx",
         "id": "Lycoris"
+      },
+      {
+        "site": "netflix",
+        "id": "81620000",
+        "begin": "2024-11-18T00:00:00.000Z",
+        "broadcast": "R/2024-11-18T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -2680,12 +2676,6 @@
         "id": "15918"
       },
       {
-        "site": "abema",
-        "id": "25-316",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "aniList",
         "id": "127090"
       },
@@ -2816,7 +2806,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://anime.shinepost.jp/onair/",
+    "officialSite": "https://anime.shinepost.jp/",
     "begin": "2022-07-12T16:29:00.000Z",
     "broadcast": "R/2022-07-12T16:29:00.000Z/P7D",
     "end": "2022-09-30T15:23:00.000Z",
@@ -2883,6 +2873,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "花火酱总是迟到"
+      ],
+      "en": [
+        "Hanabichan ~The girl who popped out of the game world~"
       ]
     },
     "type": "tv",
@@ -2946,6 +2939,12 @@
       {
         "site": "dmhy",
         "id": "花火醬"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G8DHV7EEG",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3066,6 +3065,7 @@
         "期待在地下城邂逅有错吗 Ⅳ 新章 迷宫篇"
       ],
       "zh-Hant": [
+        "在地下城尋求邂逅是否搞錯了什麼 第四季 新章 迷宮篇",
         "在地下城尋求邂逅是否搞錯了什麼 第4季"
       ]
     },
@@ -3137,7 +3137,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfoOn6N5UjTKca5ohihxhGMl",
+        "id": "PLT5T-P2Hg_e4",
+        "url": "https://www.youtube.com/show/VLPLT5T-P2Hg_e4?season=4&sbp=CgE0GgAqC0hidUJ2QlNhbjFRQAFKDVBTVVJzSnZLdVhqd1U%253D",
         "begin": "2024-12-19T13:00:06.000Z",
         "broadcast": "R/2024-12-19T13:00:06.000Z/P7D"
       },
@@ -3258,7 +3259,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfrCAOTroy2IhYeGg7mYc6wO",
+        "id": "PLZi7HsS43BmI",
+        "url": "https://www.youtube.com/show/VLPLZi7HsS43BmI?season=4&sbp=CgE0GgAqC2syT1gzOGpDZmdnQAFKDVBTQkJHTjVzMDFWZnc%253D",
         "begin": "2024-12-23T09:30:06.000Z",
         "broadcast": "R/2024-12-23T09:30:06.000Z/P7D"
       },
@@ -3391,7 +3393,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://anime.cf-vanguard.com/vgd/",
+    "officialSite": "https://anime.cf-vanguard.com/vgd/archive/",
     "begin": "2022-07-04T15:00:00.000Z",
     "broadcast": "R/2022-07-04T15:00:00.000Z/P7D",
     "end": "2022-09-26T15:30:00.000Z",
@@ -3579,12 +3581,6 @@
         "id": "145260"
       },
       {
-        "site": "abema",
-        "id": "54-74",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "crunchyroll",
         "id": "GVDHX8JJE",
         "begin": "2022-07-09T00:00:00.000Z",
@@ -3755,12 +3751,6 @@
       {
         "site": "bangumi",
         "id": "342673"
-      },
-      {
-        "site": "nicovideo",
-        "id": "morino_kumasan_onair",
-        "begin": "2022-07-03T16:00:00.000Z",
-        "broadcast": "R/2022-07-03T16:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -5470,8 +5460,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://www.tv-tokyo.co.jp/anime/kjfile/",
-    "begin": "2022-07-09T16:00:00.000Z",
-    "broadcast": "R/2022-07-09T16:00:00.000Z/P7D",
+    "begin": "2022-07-10T18:05:00.000Z",
+    "broadcast": "R/2022-07-10T18:05:00.000Z/P7D",
     "end": "2022-10-01T16:00:00.000Z",
     "comment": "",
     "sites": [

@@ -893,7 +893,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://bisquedoll-anime.com/",
+    "officialSite": "https://bisquedoll-anime.com/1st/",
     "begin": "2022-01-08T15:00:00.000Z",
     "broadcast": "R/2022-01-08T15:00:00.000Z/P7D",
     "end": "2022-03-26T15:30:00.000Z",
@@ -994,6 +994,12 @@
       {
         "site": "acgnx",
         "id": "換裝娃娃|更衣人偶"
+      },
+      {
+        "site": "prime",
+        "id": "B0FSCF998K",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1016,12 +1022,6 @@
       {
         "site": "bangumi",
         "id": "339062"
-      },
-      {
-        "site": "nicovideo",
-        "id": "akuyakureijou",
-        "begin": "2022-01-09T16:00:00.000Z",
-        "broadcast": "R/2022-01-09T16:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -2372,6 +2372,12 @@
       {
         "site": "acgnx",
         "id": "食鏽末世錄"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G79H23V24",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3171,7 +3177,7 @@
     "titleTranslate": {},
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://link-click.jp/",
+    "officialSite": "https://link-click.jp/1st/",
     "begin": "2022-01-09T12:30:00.000Z",
     "broadcast": "R/2022-01-09T12:30:00.000Z/P7D",
     "end": "2022-03-27T13:00:00.000Z",
@@ -3302,10 +3308,11 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfrMeRvKrk2OnxkpTArc_4HN",
+        "id": "PLFlphUH5ofro",
+        "url": "https://www.youtube.com/show/VLPLFlphUH5ofro?season=4&sbp=CgE0GgAqC05TNXBuNlkyTDFzQAFKDVBTTmVFaVRCczlSRjA%253D",
         "begin": "2023-03-01T14:00:00.000Z",
         "broadcast": "R/2023-03-01T14:00:00.000Z/P1D",
-        "comment": "國語: PL12UaAf_xzfqPNx7M21380CnVsYqEyRcO"
+        "comment": "國語: https://www.youtube.com/show/VLPLEvdKEeruqeA?season=4&sbp=CgE0GgAqC1BRaWE1NnVlSnZrQAFKDVBTQ1Y1SXRveTJHQ0E%253D"
       },
       {
         "site": "prime",
@@ -3435,8 +3442,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://vanitas-anime.com/",
-    "begin": "2022-01-14T16:00:00.000Z",
-    "broadcast": "R/2022-01-14T16:00:00.000Z/P7D",
+    "begin": "2022-01-14T15:00:00.000Z",
+    "broadcast": "R/2022-01-14T15:00:00.000Z/P7D",
     "end": "2022-03-31T16:00:00.000Z",
     "comment": "",
     "sites": [
@@ -3938,13 +3945,16 @@
     "titleTranslate": {
       "zh-Hans": [
         "小小世界"
+      ],
+      "en": [
+        "petit SEKAI"
       ]
     },
     "type": "web",
     "lang": "ja",
-    "officialSite": "",
-    "begin": "2022-01-12T16:00:00.000Z",
-    "broadcast": "",
+    "officialSite": "https://pjsekai.sega.jp/",
+    "begin": "2022-01-13T16:00:00.000Z",
+    "broadcast": "R/2022-01-13T16:00:00.000Z/P7D",
     "end": "2022-03-16T16:00:00.000Z",
     "comment": "",
     "sites": [

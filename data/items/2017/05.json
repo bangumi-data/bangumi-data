@@ -464,12 +464,6 @@
         "broadcast": "R/2024-10-31T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "19-120",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "movie/436120"
       },
@@ -547,6 +541,12 @@
       {
         "site": "aniList",
         "id": "98791"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00170402",
+        "begin": "2017-09-09T10:00:00.000Z",
+        "broadcast": "R/2017-09-09T10:00:00.000Z/P7D"
       }
     ]
   }

@@ -19,7 +19,7 @@
     "officialSite": "https://kaiju-no8.net/",
     "begin": "2026-09-05T12:00:00.000Z",
     "broadcast": "R/2026-09-05T12:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-26T12:05:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -81,12 +81,20 @@
       {
         "site": "anibt",
         "id": "616694"
+      },
+      {
+        "site": "mikan",
+        "id": "4121"
       }
     ]
   },
   {
     "title": "ごーすと・みーつ・ぎゃる！",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "Ghost Meets Gal!"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://cf-vanguard.com/anime-ghost_meets_gal/",
@@ -110,6 +118,106 @@
         "id": "SID0316467",
         "begin": "2026-09-12T00:00:00.000Z",
         "broadcast": "R/2026-09-12T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "64718"
+      }
+    ]
+  },
+  {
+    "title": "スティール・ボール・ラン ジョジョの奇妙な冒険 2nd & 3rd STAGE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "飙马野郎 JOJO的奇妙冒险 第二&第三赛段"
+      ],
+      "zh-Hant": [
+        "飆馬野郎 JOJO的奇妙冒險 第二&第三賽段"
+      ],
+      "en": [
+        "STEEL BALL RUN JoJo’s Bizarre Adventure"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://jojo-portal.com/anime/sbr/",
+    "begin": "2026-09-24T16:00:00.000Z",
+    "broadcast": "R/2026-09-24T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "639938"
+      },
+      {
+        "site": "netflix",
+        "id": "82116553",
+        "begin": "2026-09-24T16:00:00.000Z",
+        "broadcast": "R/2026-09-24T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "61469"
+      },
+      {
+        "site": "aniList",
+        "id": "210482"
+      },
+      {
+        "site": "anidb",
+        "id": "19287"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45790/season/6/episode/2"
+      },
+      {
+        "site": "acgnx",
+        "id": "jojo 馬"
+      },
+      {
+        "site": "dmhy",
+        "id": "jojo 馬"
+      },
+      {
+        "site": "anibt",
+        "id": "639938"
+      }
+    ]
+  },
+  {
+    "title": "うまゆる ふるげ～と！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "马娘摇曳 Full Gate！",
+        "摇曳马娘 Full Gate！",
+        "轻松优俊 Full Gate！"
+      ],
+      "zh-Hant": [
+        "悠哉賽馬娘 Full Gate！"
+      ],
+      "en": [
+        "Umayuru: Full Gate!"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://umamusume.jp/contents/anime/umayuru-fullgate/",
+    "begin": "2026-09-27T12:00:00.000Z",
+    "broadcast": "R/2026-09-27T12:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "697060"
+      },
+      {
+        "site": "youtube",
+        "id": "PLNoVytAHV6zA",
+        "begin": "2026-09-27T12:00:00.000Z",
+        "broadcast": "R/2026-09-27T12:00:00.000Z/P7D"
       }
     ]
   }

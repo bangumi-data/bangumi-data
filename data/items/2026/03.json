@@ -6,10 +6,12 @@
         "春夏秋冬代行者 春之舞"
       ],
       "zh-Hant": [
-        "春夏秋冬代行者 春之舞"
+        "春夏秋冬代行者 春之舞",
+        "春夏秋冬代行者：春之舞"
       ],
       "en": [
-        "Agents of the Four Seasons"
+        "Agents of the Four Seasons",
+        "Agents of the Four Seasons Dance of Spring"
       ]
     },
     "type": "tv",
@@ -107,6 +109,12 @@
       {
         "site": "dmhy",
         "id": "春夏秋冬代行者"
+      },
+      {
+        "site": "netflix",
+        "id": "82746393",
+        "begin": "2026-09-23T16:00:00.000Z",
+        "broadcast": "R/2026-09-23T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -120,8 +128,8 @@
     "type": "web",
     "lang": "ja",
     "officialSite": "https://chinaentame.com/cinderella_chef/",
-    "begin": "2026-03-18T09:00:00.000Z",
-    "broadcast": "R/2026-03-18T09:00:00.000Z/P7D",
+    "begin": "2026-03-18T13:00:00.000Z",
+    "broadcast": "R/2026-03-18T13:00:00.000Z/P7D",
     "end": "2026-06-04T18:30:00.000Z",
     "comment": "",
     "sites": [
@@ -222,13 +230,13 @@
     ]
   },
   {
-    "title": "スティール・ボール・ラン ジョジョの奇妙な冒険",
+    "title": "スティール・ボール・ラン ジョジョの奇妙な冒険 1st STAGE",
     "titleTranslate": {
       "zh-Hans": [
-        "飙马野郎 JOJO的奇妙冒险"
+        "飙马野郎 JOJO的奇妙冒险 第一赛段"
       ],
       "zh-Hant": [
-        "飆馬野郎 JOJO的奇妙冒險"
+        "飆馬野郎 JOJO的奇妙冒險 第一賽段"
       ],
       "en": [
         "STEEL BALL RUN JoJo’s Bizarre Adventure"
@@ -239,7 +247,7 @@
     "officialSite": "https://jojo-portal-anime.com/sbr/",
     "begin": "2026-03-18T16:00:00.000Z",
     "broadcast": "",
-    "end": "",
+    "end": "2026-03-18T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -391,6 +399,12 @@
       {
         "site": "anibt",
         "id": "544627"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gup-mottolovelove-tv",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -429,7 +443,8 @@
         "剧场版 暗杀教室 我们的时光"
       ],
       "zh-Hant": [
-        "劇場版「暗殺教室」：我們的時光"
+        "劇場版「暗殺教室」：我們的時光",
+        "劇場版暗殺教室：我們的時光"
       ],
       "en": [
         "Assassination Classroom the Movie: Our Time"
@@ -488,6 +503,12 @@
         "id": "147124",
         "begin": "2026-09-20T16:00:00.000Z",
         "broadcast": "R/2026-09-20T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "83134734",
+        "begin": "2026-09-19T16:00:00.000Z",
+        "broadcast": "R/2026-09-19T16:00:00.000Z/P7D"
       }
     ]
   },
