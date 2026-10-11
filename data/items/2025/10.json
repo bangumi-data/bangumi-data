@@ -5571,9 +5571,10 @@
       },
       {
         "site": "unext",
-        "id": "SID0232900",
+        "id": "SID0318221",
         "begin": "2025-10-10T15:00:00.000Z",
-        "broadcast": "R/2025-10-10T15:00:00.000Z/P7D"
+        "broadcast": "R/2025-10-10T15:00:00.000Z/P7D",
+        "comment": "完全デレギュラ版, TV版: SID0232900"
       },
       {
         "site": "danime",
@@ -7537,6 +7538,40 @@
       {
         "site": "anibt",
         "id": "534907"
+      }
+    ]
+  },
+  {
+    "title": "ホウセンカ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "凤仙花",
+        "奇迹凤仙花"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://anime-housenka.com/",
+    "begin": "2025-10-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-10-09T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "496081"
+      },
+      {
+        "site": "nicovideo",
+        "id": "housenka",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0318937",
+        "begin": "2026-10-09T15:00:00.000Z",
+        "broadcast": "R/2026-10-09T15:00:00.000Z/P7D"
       }
     ]
   }
