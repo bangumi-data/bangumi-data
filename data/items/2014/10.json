@@ -233,6 +233,9 @@
       "zh-Hans": [
         "甘城光辉游乐园",
         "甘城辉煌乐园救世主"
+      ],
+      "zh-Hant": [
+        "甘城輝煌樂園救世主"
       ]
     },
     "type": "tv",
@@ -310,6 +313,12 @@
       {
         "site": "acgnx",
         "id": "甘城"
+      },
+      {
+        "site": "gamer",
+        "id": "67006",
+        "begin": "2026-10-20T04:00:00.000Z",
+        "broadcast": "R/2026-10-20T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -1075,7 +1084,8 @@
         "神偷怪盜 1412"
       ],
       "en": [
-        "MAGIC KAITO"
+        "MAGIC KAITO",
+        "Magic Kaito 1412"
       ]
     },
     "type": "tv",
@@ -1159,6 +1169,12 @@
       {
         "site": "acgnx",
         "id": "1412"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GRDQN0M9Y",
+        "begin": "2015-01-02T23:00:00.000Z",
+        "broadcast": "R/2015-01-02T23:00:00.000Z/P7D"
       }
     ]
   },
@@ -4116,7 +4132,8 @@
       },
       {
         "site": "ani_one",
-        "id": "PLC18xlbCdwtRHjA0zbrjXpPBwqmCz1-_b",
+        "id": "PLI7PPkKpKFdE",
+        "url": "https://www.youtube.com/show/VLPLI7PPkKpKFdE?season=3&sbp=CgEzGgAqCzlLZDV2NlNraVFrQAFKDVBTVl9uZGZwYk5nVHc%253D",
         "begin": "2014-11-14T16:00:00.000Z",
         "broadcast": "R/2014-11-14T16:00:00.000Z/P1D"
       },
