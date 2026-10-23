@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "舞-HiME"
+      ],
+      "zh-Hant": [
+        "舞-HiME"
       ]
     },
     "type": "tv",
@@ -48,6 +51,12 @@
       {
         "site": "aniList",
         "id": "98"
+      },
+      {
+        "site": "gamer",
+        "id": "331",
+        "begin": "2026-10-20T04:00:00.000Z",
+        "broadcast": "R/2026-10-20T04:00:00.000Z/P7D"
       }
     ]
   },
