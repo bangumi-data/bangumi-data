@@ -574,7 +574,7 @@
       },
       {
         "site": "tmdb",
-        "id": "movie/948926"
+        "id": "movie/630746"
       },
       {
         "site": "danime",
@@ -601,6 +601,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "忍者乱太郎 第29季"
+      ],
+      "zh-Hant": [
+        "忍者亂太郎 第 29 季"
       ]
     },
     "type": "tv",
@@ -642,6 +645,12 @@
       {
         "site": "aniList",
         "id": "1199"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "155253",
+        "begin": "2026-11-06T04:00:00.000Z",
+        "broadcast": "R/2026-11-06T04:00:00.000Z/P7D"
       }
     ]
   }

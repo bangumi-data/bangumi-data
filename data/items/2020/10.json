@@ -2330,6 +2330,12 @@
       {
         "site": "acgnx",
         "id": "憂國 莫里亞蒂"
+      },
+      {
+        "site": "abema",
+        "id": "13-224",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4398,7 +4404,11 @@
   },
   {
     "title": "それだけがネック",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "en": [
+        "That is the Bottleneck"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://soredakega-neck.com/",
@@ -4448,6 +4458,12 @@
       {
         "site": "aniList",
         "id": "124028"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GREME5WX6",
+        "begin": "2020-10-12T18:30:00.000Z",
+        "broadcast": "R/2020-10-12T18:30:00.000Z/P7D"
       }
     ]
   },

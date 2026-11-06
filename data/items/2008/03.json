@@ -705,7 +705,11 @@
   },
   {
     "title": "楓ニュータウン",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "en": [
+        "Kaede New Town"
+      ]
+    },
     "type": "ova",
     "lang": "ja",
     "officialSite": "",
@@ -741,6 +745,12 @@
       {
         "site": "tmdb",
         "id": "movie/962828"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GMTE00192523",
+        "begin": "2008-12-31T07:59:00.000Z",
+        "broadcast": "R/2008-12-31T07:59:00.000Z/P7D"
       }
     ]
   }
