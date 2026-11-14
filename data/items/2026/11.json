@@ -23,6 +23,92 @@
         "id": "cf-vanguard-divinezu",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "29390",
+        "begin": "2026-11-06T23:30:00.000Z",
+        "broadcast": "R/2026-11-06T23:30:00.000Z/P7D"
+      },
+      {
+        "site": "anibt",
+        "id": "640765"
+      }
+    ]
+  },
+  {
+    "title": "デモンズ・クレスト",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恶魔纹章"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://demonscrest-anime.com/",
+    "begin": "2026-11-05T16:00:00.000Z",
+    "broadcast": "R/2026-11-05T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "612608"
+      },
+      {
+        "site": "prime",
+        "id": "B0HKZJPNCZ",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "63045"
+      },
+      {
+        "site": "aniList",
+        "id": "203275"
+      },
+      {
+        "site": "anidb",
+        "id": "19751"
+      },
+      {
+        "site": "mikan",
+        "id": "4129"
+      },
+      {
+        "site": "anibt",
+        "id": "612608"
+      }
+    ]
+  },
+  {
+    "title": "GROTESQQQUE -グロテスク-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "GROTESQQQUE -怪异-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://movie-gtq123.com/",
+    "begin": "2026-11-05T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-11-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "502499"
+      },
+      {
+        "site": "mikan",
+        "id": "4128"
+      },
+      {
+        "site": "anibt",
+        "id": "502499"
       }
     ]
   }
